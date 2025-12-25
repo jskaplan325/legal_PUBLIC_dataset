@@ -1,0 +1,291 @@
+XML
+140
+R111.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Clawback Obligations by Segment (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+$ 499,547
+
+$ 281,518
+
+Blackstone Holdings
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+333,261
+
+174,688
+
+Current And Former Blackstone Personnel
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+166,286
+
+106,830
+
+Real Estate Segment
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+475,095
+
+235,772
+
+Real Estate Segment | Blackstone Holdings
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+316,749
+
+145,435
+
+Real Estate Segment | Current And Former Blackstone Personnel
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+158,346
+
+90,337
+
+Private Equity Segment
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+21,317
+
+45,277
+
+Private Equity Segment | Blackstone Holdings
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+15,044
+
+29,046
+
+Private Equity Segment | Current And Former Blackstone Personnel
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+6,273
+
+16,231
+
+Credit & Insurance
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+3,135
+
+469
+
+Credit & Insurance | Blackstone Holdings
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+1,468
+
+207
+
+Credit & Insurance | Current And Former Blackstone Personnel
+
+Product Liability Contingency [Line Items]
+
+Clawback obligations
+$ 1,667
+
+$ 262
+
+X
+
+- DefinitionAmount of increase (decrease) in loss contingency liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
++ Details
+
+ Name:
+us-gaap_LossContingencyAccrualCarryingValuePeriodIncreaseDecrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 5.Y.Q2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480102/450-20-S99-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
++ Details
+
+ Name:
+us-gaap_ProductLiabilityContingencyLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=bx_BlackstoneHoldingsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=bx_CurrentAndFormerBlackstonePersonnelMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_RealEstateSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_PrivateEquitySegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_CreditAndInsuranceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,285 @@
+XML
+56
+R34.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Equity [Abstract]
+
+EQUITY
+EQUITYStockholders' Equity
+Common Stock
+The common stock of KKR & Co. Inc. is entitled to vote as provided by its certificate of incorporation, Delaware General Corporation Law and the rules of the New York Stock Exchange ("NYSE"). Subject to preferences that apply to any shares of preferred stock outstanding at the time on which dividends are payable, the holders of common stock are entitled to receive dividends out of funds legally available if the Board of Directors, in its discretion, determines to declare dividends and then only at the times and in the amounts that the Board of Directors may determine. The common stock is not entitled to preemptive rights and is not subject to conversion, redemption or sinking fund provisions.
+Series I Preferred Stock
+Except for any distribution required by Delaware law to be made upon a dissolution event, the holders of Series I preferred stock do not have any economic rights to receive dividends. Series I preferred stock is entitled to vote on various matters that may be submitted to vote of the stockholders and the other matters as set forth in the certificate of incorporation. Upon a dissolution event, each holder of Series I preferred stock will be entitled to a payment equal to $0.01 per share of Series I preferred stock. The Series I preferred stock will be eliminated on the Sunset Date (as defined in Note 1 "Organization"), which is scheduled to occur not later than December 31, 2026.
+Share Repurchase Program
+Under KKR's repurchase program, shares of common stock of KKR & Co. Inc. may be repurchased from time to time in open market transactions, in privately negotiated transactions or otherwise. The timing, manner, price and amount of any repurchases will be determined by KKR in its discretion and will depend on a variety of factors, including legal requirements, price and economic and market conditions. In addition to the repurchases of common stock, the repurchase program will be used for the retirement (by cash settlement or the payment of tax withholding amounts upon net settlement) of equity awards granted pursuant to our 2019 Equity Incentive Plan representing the right to receive common stock. KKR expects that the program will be in effect until the maximum approved dollar amount has been used. The program does not require KKR to repurchase or retire any specific number of shares of common stock or equity awards, respectively, and the program may be suspended, extended, modified or discontinued at any time. As of January 31, 2025, there was approximately $69 million remaining under the program. In April 2024, the share repurchase program was amended such that when the remaining available amount under the share repurchase program becomes $50 million or less, the total available amount under the share repurchase program will automatically add an additional $500 million to the then remaining available amount of $50 million or less. The repurchase program does not have an expiration date.
+The following table presents the shares of KKR & Co. Inc. common stock that have been repurchased or equity awards retired under the repurchase program:
+
+ For the Years Ended December 31,
+ 2024 2023 2022
+Shares of common stock repurchased 5,395,162 5,191,174
+Equity awards for common stock retired 1,170,857 764,999 1,308,501
+
+Change in KKR & Co. Inc.'s Ownership Interest
+Vesting of restricted holdings units results in a change in ownership in KKR Group Partnership, while KKR retains a controlling interest, and is accounted for as an equity transaction between the controlling and noncontrolling interests.
+Noncontrolling Interests
+Noncontrolling interests in consolidated entities represent the non-redeemable ownership interests in KKR that are held primarily by:
+(i)third party fund investors in KKR's consolidated funds and certain other entities;
+(ii)third parties in KKR's Capital Markets business line;
+(iii)certain current and former employees who hold exchangeable securities; and
+(iv)certain third-party investors in certain of Global Atlantic's consolidated entities.
+The following table presents total noncontrolling interests:
+
+ For the Years Ended December 31,
+ 2024 2023 2022
+Beginning of Period (as previously reported for the prior period) $ 34,904,791 $ 35,778,000 $ 40,474,565
+Adoption of New Accounting Standard (See Note 2) 632,858 104,961
+Balance at the beginning of the period (as revised for the prior period) 34,904,791 36,410,858 40,579,526
+Net Income (Loss) Attributable to Noncontrolling Interests 1,756,643 1,630,230 101,258
+Other Comprehensive Income (Loss), net of tax 6,294 588,415 (3,919,807)
+Compensation Modification - Issuance of Holdings III Units (See Note 19) 53,623
+Equity-Based Compensation (Non Cash Contribution) 432,299 323,577 364,225
+2024 GA Acquisition - Cash consideration (See Note 1) (2,622,230)
+2024 GA Acquisition - Issuance of Holdings III Units (See Note 1) 40,789
+Exchange of KKR Holdings units to Common Stock (12,865)
+Holdings Merger (See Note 1) (7,197,950)
+Change in KKR & Co. Inc.'s Ownership - 2024 GA Acquisition 2,169,300
+Change in KKR & Co. Inc.'s Ownership Interest (431,394) (156,867) (170,436)
+Capital Contributions 7,466,717 12,871,585 13,706,821
+Capital Distributions (8,191,990) (8,301,516) (7,039,914)
+Changes in Consolidation 1,163,105 (8,461,491)
+Balance at the end of the period $ 36,747,947 $ 34,904,791 $ 36,410,858
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EquityAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for equity.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 505
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478448/946-505-50-6
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480237/815-40-50-6
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(e)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 10: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/505/tableOfContent
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 16
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-16
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
++ Details
+
+ Name:
+us-gaap_StockholdersEquityNoteDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

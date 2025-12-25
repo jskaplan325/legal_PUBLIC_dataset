@@ -1,0 +1,280 @@
+XML
+176
+R154.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+POLICY LIABILITIES - Separate Account Assets (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair Value, Separate Account Investment [Line Items]
+
+Total Assets Supporting Separate Account Liabilities
+$ 3,981,060
+
+$ 4,107,000
+
+Managed Volatility Equity/Fixed Income Blended Fund
+
+Fair Value, Separate Account Investment [Line Items]
+
+Total Assets Supporting Separate Account Liabilities
+1,930,973
+
+2,131,149
+
+Equity
+
+Fair Value, Separate Account Investment [Line Items]
+
+Total Assets Supporting Separate Account Liabilities
+1,685,944
+
+1,596,467
+
+Fixed Income
+
+Fair Value, Separate Account Investment [Line Items]
+
+Total Assets Supporting Separate Account Liabilities
+146,475
+
+152,398
+
+Money Market
+
+Fair Value, Separate Account Investment [Line Items]
+
+Total Assets Supporting Separate Account Liabilities
+217,086
+
+226,387
+
+Alternative
+
+Fair Value, Separate Account Investment [Line Items]
+
+Total Assets Supporting Separate Account Liabilities
+$ 582
+
+$ 599
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-17
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480109/944-80-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479808/944-20-55-15
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfFairValueOfSeparateAccountsByMajorCategoryOfInvestmentLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of asset at fair value held for benefit of separate account policyholder.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-17
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-14
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-9
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480109/944-80-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480141/944-80-45-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(11))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480141/944-80-45-2
+
++ Details
+
+ Name:
+us-gaap_SeparateAccountAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_SeparateAccountAssetCategoryAxis=kkr_SeparateAccountManagedVolatilityPortfolioMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_SeparateAccountAssetCategoryAxis=us-gaap_SeparateAccountEquitySecurityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_SeparateAccountAssetCategoryAxis=kkr_SeparateAccountFixedIncomeSecurityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_SeparateAccountAssetCategoryAxis=kkr_SeparateAccountMoneyMarketMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_SeparateAccountAssetCategoryAxis=kkr_SeparateAccountAlternativeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,264 @@
+XML
+34
+R12.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS (Parenthetical)
+ $ in Thousands
+
+Dec. 31, 2021
+
+USD ($)
+
+Cash, Cash Equivalents and Restricted Cash are comprised of the following:
+
+Cash, Cash Equivalents and Restricted Cash
+$ 10,526,304
+
+Asset Management and Strategic Holdings
+
+Cash, Cash Equivalents and Restricted Cash are comprised of the following:
+
+Cash and Cash Equivalents
+6,699,668
+
+Restricted Cash and Cash Equivalents
+134,298
+
+Cash, Cash Equivalents and Restricted Cash
+6,833,966
+
+Insurance
+
+Cash, Cash Equivalents and Restricted Cash are comprised of the following:
+
+Cash and Cash Equivalents
+3,391,934
+
+Restricted Cash and Cash Equivalents
+300,404
+
+Cash, Cash Equivalents and Restricted Cash
+$ 3,692,338
+
+X
+
+- DefinitionAmount of currency on hand as well as demand deposits with banks or financial institutions. Includes other kinds of accounts that have the general characteristics of demand deposits. Also includes short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates. Excludes cash and cash equivalents within disposal group and discontinued operation.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483467/210-10-45-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-4
+
++ Details
+
+ Name:
+us-gaap_CashAndCashEquivalentsAtCarryingValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cash and cash equivalents, and cash and cash equivalents restricted to withdrawal or usage. Excludes amount for disposal group and discontinued operations. Cash includes, but is not limited to, currency on hand, demand deposits with banks or financial institutions, and other accounts with general characteristics of demand deposits. Cash equivalents include, but are not limited to, short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-24
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-4
+
++ Details
+
+ Name:
+us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash and cash equivalents restricted as to withdrawal or usage. Cash includes, but is not limited to, currency on hand, demand deposits with banks or financial institutions, and other accounts with general characteristics of demand deposits. Cash equivalents include, but are not limited to, short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-8
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(1)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-4
+
++ Details
+
+ Name:
+us-gaap_RestrictedCashAndCashEquivalents
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

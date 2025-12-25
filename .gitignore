@@ -1,0 +1,5 @@
+.DS_Store
+sec_filings_raw/
+sec_filings_txt/
+__pycache__/
+*.pyc

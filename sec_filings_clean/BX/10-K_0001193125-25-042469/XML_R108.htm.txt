@@ -1,0 +1,477 @@
+XML
+137
+R108.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Due from Affiliates and Due to Affiliates (Detail) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Related Party Transaction [Line Items]
+
+Management Fees, Performance Revenues, Reimbursable Expenses and Other Receivables from Non-Consolidated Entities and Portfolio Companies
+$ 4,049,707
+
+$ 3,638,948
+
+Due from Certain Non-Controlling Interest Holders and Blackstone Employees
+1,191,527
+
+720,743
+
+Accrual for Potential Clawback of Previously Distributed Performance Allocations
+168,081
+
+106,830
+
+Due from Affiliates, total
+5,409,315
+
+4,466,521
+
+Due to Certain Non-Controlling Interest Holders in Connection with the Tax Receivable Agreements
+1,844,978
+
+1,681,516
+
+Due to Non-Consolidated Entities
+208,537
+
+124,560
+
+Due to Certain Non-Controlling Interest Holders and Blackstone Employees
+255,086
+
+305,816
+
+Accrual for Potential Repayment of Previously Received Performance Allocations
+499,547
+
+281,518
+
+Due to Affiliates, total
+2,808,148
+
+2,393,410
+
+Related Party
+
+Related Party Transaction [Line Items]
+
+Due from Affiliates, total
+5,409,315
+
+4,466,521
+
+Due to Affiliates, total
+$ 2,808,148
+
+$ 2,393,410
+
+X
+
+- DefinitionAccrual For Potential Clawback Of Previously Distributed Interest
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_AccrualForPotentialClawbackOfPreviouslyDistributedInterest
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDue from certain non controlling interest holders and blackstone employees.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_DueFromCertainNonControllingInterestHoldersAndBlackstoneEmployees
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDue to certain non controlling interest holders and company employees.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_DueToCertainNonControllingInterestHoldersAndCompanyEmployees
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDue to certain non-controlling interest holders in connection with tax receivable agreements
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_DueToCertainNonControllingInterestHoldersInConnectionWithTaxReceivableAgreements
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDue to non consolidated entities.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_DueToNonConsolidatedEntities
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionManagement fees performance revenues reimbursable expenses and other receivables from non consolidated entities and portfolio companies.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ManagementFeesPerformanceRevenuesReimbursableExpensesAndOtherReceivablesFromNonConsolidatedEntitiesAndPortfolioCompanies
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of loss contingency liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/recommendedDisclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-10
+
++ Details
+
+ Name:
+us-gaap_LossContingencyAccrualAtCarryingValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of liabilities classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-12
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(17))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount due from parties in nontrade transactions, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(5)(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(3)(a)(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherReceivables
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

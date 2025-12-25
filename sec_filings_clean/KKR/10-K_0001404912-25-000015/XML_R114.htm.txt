@@ -1,0 +1,311 @@
+XML
+136
+R114.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Reconciliation of Insurance Intangibles (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Dec. 31, 2021
+
+Present Value of Future Insurance Profit [Line Items]
+
+Deferred Acquisition Costs, or "DAC"
+$ 1,731,076
+
+$ 1,154,697
+
+$ 820,970
+
+$ 397,581
+
+Value of Business Acquired
+1,165,193
+
+1,252,984
+
+$ 1,316,529
+
+$ 1,417,968
+
+Insurance
+
+Present Value of Future Insurance Profit [Line Items]
+
+Deferred Acquisition Costs, or "DAC"
+1,731,076
+
+1,154,697
+
+Value of Business Acquired
+1,165,193
+
+1,252,984
+
+Cost-of-Reinsurance Intangibles
+2,302,674
+
+2,043,143
+
+Total Insurance Intangibles
+$ 5,198,943
+
+$ 4,450,824
+
+X
+
+- DefinitionIntangible Assets, Reinsurance Asset Cost
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_IntangibleAssetsReinsuranceAssetCost
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred policy acquisition cost capitalized on contract remaining in force.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -SubTopic 825
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478219/944-825-45-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCosts
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionSum of the carrying amounts of all intangible assets, excluding goodwill, as of the balance sheet date, net of accumulated amortization and impairment charges.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482686/350-30-45-1
+
++ Details
+
+ Name:
+us-gaap_IntangibleAssetsNetExcludingGoodwill
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after accumulated amortization, of present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479735/944-20-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(10))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_ValueOfBusinessAcquiredVOBA
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

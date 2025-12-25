@@ -1,0 +1,372 @@
+XML
+46
+R23.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity-Based Compensation
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Share-Based Payment Arrangement [Abstract]
+
+Equity-Based Compensation
+14. Equity-Based CompensationThe Carlyle Group Inc. Amended and Restated 2012 Equity Incentive Plan (the Equity Incentive Plan, initially
+adopted in May 2012 and as most recently amended and restated on May 29, 2024) is a source of equity-based awards
+permitting the Company to grant to Carlyle employees, directors and consultants non-qualified options, share appreciation
+rights, common shares, restricted stock units and other awards based on the Company s shares of common stock. A total of
+58,800,000 shares of common stock are authorized for the grant of awards under the Equity Incentive Plan, of which a total of
+30,091,970 shares of the Company s common stock remain available for grant as of December 31, 2024.
+The Company recorded equity-based compensation expense, net of forfeitures of $467.9 million, $249.1 million and
+$154.0 million for the years ended December 31, 2024, 2023 and 2022, respectively. Equity-based compensation expense
+generates deferred tax assets, which are realized when the units vest. The Company recorded corresponding deferred tax
+benefits the years ended December 31, 2024, 2023 and 2022 of $88.1 million, $41.1 million and $28.7 million, respectively. A
+portion of the accumulated deferred tax asset associated with equity-based compensation expense was reclassified as a current
+tax benefit due to units vesting during the years ended December 31, 2024, 2023 and 2022. The net impact of the addition/
+(reduction) in deferred tax assets due to the equity-based compensation expense recorded during the period less the tax
+deduction for units that vested was $39.7 million, $12.7 million and $(3.2) million for the years ended December 31, 2024,
+2023 and 2022, respectively. As of December 31, 2024, the total unrecognized equity-based compensation expense related to
+unvested deferred restricted stock units was $496.0 million, which is expected to be recognized over a weighted-average term
+of 1.9 years.
+Equity-based awards issued to non-employees, including non-employee directors and consultants, are recognized as
+general, administrative and other expenses. The grant-date fair value of deferred restricted stock units granted to non-employees
+is charged to expense on a straight-line basis over the vesting period. Equity-based awards that require the satisfaction of future
+service criteria are recognized over the relevant service period. The expense for equity-based awards issued to non-employees
+was $11.6 million, $6.5 million and $5.0 million for the years ended December 31, 2024, 2023 and 2022, respectively.
+Restricted Stock Units
+The Company grants deferred restricted stock units that are unvested when granted and vest ratably over a service
+period, which generally ranges from one year to four years. The grant-date fair value of the deferred restricted stock units
+granted to Carlyle s employees is charged to equity-based compensation expense on a straight-line basis over the required
+service period.
+During 2021, the Company granted 7.1 million shares long-term, strategic restricted stock units to certain senior
+professionals, the majority of which are eligible to vest based on the achievement of annual performance targets over four years
+across a number of the Company s employees. Compensation cost is recognized over the requisite service period if it is
+probable that the performance condition will be satisfied. The final tranche of these strategic awards vested in February 2025.
+During 2023, the Company granted 6.8 million shares related to equity inducement awards granted in connection with
+the appointment of the Company s Chief Executive Officer, which included 2.1 million time-based restricted stock units which
+are eligible to vest ratably in four equal installments. The first and second installments of the time-based award vested in
+December 2023 and 2024, respectively.
+Performance-Vesting Restricted Stock Units
+The Company has also granted awards which are subject to both a service-based vesting condition and a market price
+based vesting condition for certain awards. Compensation cost for the awards containing market conditions, including stock
+price performance conditions, is based on a grant-date fair value that factors in the probability that the market conditions will be
+achieved and is recognized over the requisite service period on a straight-line basis.
+The equity inducement awards granted in connection with the appointment of the Company s Chief Executive Officer
+in 2023 included 4.7 million performance-based restricted stock units which contain stock price performance conditions.
+During the years ended December 31, 2024 and 2023, the Company recognized $30.0 million and $49.5 million, respectively,
+in equity-based compensation expense related to these performance-based restricted stock units.
+During 2024, the Company granted 13.2 million restricted stock units to certain senior Carlyle professionals that are
+eligible to vest in three tranches based on the achievement of stock price performance over service periods of one, two, or three
+years. Equity-based compensation expense for each tranche is recognized on a straight-line basis over its respective service
+period. These awards had a grant date fair value of approximately $347 million, which was derived using the Monte Carlo
+Simulation model. The significant assumptions used to estimate the grant date fair value of these awards included a risk-free
+rate of 4.15% and a concluded equity volatility of 40%. The Company recognized $201.6 million in equity-based compensation
+expense related to these awards during the year ended December 31, 2024.
+Common Shares
+In connection with its strategic investment in NGP, the Company agreed to grant common shares on an annual basis
+with a value not to exceed $10.0 million based on a prescribed formula, which will vest over a 42-month period. Because the
+Company accounts for its investment in NGP under the equity method of accounting, the fair value of the shares is recognized
+as a reduction to principal investment income. During the years ended December 31, 2024, 2023 and 2022, the Company
+recognized $8.9 million, $8.8 million and $8.4 million, respectively, as a reduction to principal investment income related to
+these shares.
+A summary of the status of the Company s non-vested equity-based awards as of December 31, 2024 and a summary
+of changes from December 31, 2021 through December 31, 2024, are presented below:
+
+Unvested Shares
+
+ Performance-
+Vesting
+Restricted
+Stock Units
+
+ Weighted-
+Average
+Grant Date
+Fair Value
+
+ Restricted
+Stock
+Units
+
+ Weighted-
+Average
+Grant Date
+Fair Value
+
+ Unvested
+Common
+Shares
+
+ Weighted-
+Average
+Grant Date
+Fair Value
+
+Balance, December 31, 2021
+
+ $
+
+ 14,775,651
+
+ $30.70
+
+ 635,430
+
+ $29.27
+
+Granted
+
+ $
+
+ 4,216,827
+
+ $40.35
+
+ 188,223
+
+ $49.06
+
+Vested
+
+ $
+
+ 5,805,437
+
+ $28.15
+
+ 370,773
+
+ $26.54
+
+Forfeited
+
+ $
+
+ 2,321,793
+
+ $30.84
+
+ $
+
+Balance, December 31, 2022
+
+ $
+
+ 10,865,248
+
+ $35.78
+
+ 452,880
+
+ $39.73
+
+Granted(1)
+
+ 4,941,317
+
+ $23.19
+
+ 13,332,230
+
+ $32.36
+
+ 258,579
+
+ $39.73
+
+Vested
+
+ $
+
+ 5,280,029
+
+ $31.86
+
+ 252,530
+
+ $34.85
+
+Forfeited
+
+ $
+
+ 1,685,119
+
+ $32.24
+
+ $37.91
+
+Balance, December 31, 2023
+
+ 4,941,317
+
+ $23.19
+
+ 17,232,330
+
+ $34.68
+
+ 458,929
+
+ $37.87
+
+Granted(1)
+
+ 13,286,934
+
+ $26.55
+
+ 5,659,849
+
+ $40.92
+
+ 247,293
+
+ $40.08
+
+Vested(2)
+
+ 995,848
+
+ $29.86
+
+ 6,932,134
+
+ $33.39
+
+ 247,316
+
+ $34.52
+
+Forfeited
+
+ 292,253
+
+ $24.55
+
+ 1,993,557
+
+ $33.86
+
+ $
+
+Balance, December 31, 2024
+
+ 16,940,150
+
+ $25.41
+
+ 13,966,488
+
+ $37.97
+
+ 458,906
+
+ $39.35
+
+(1)Includes shares reserved for issuance upon settlement of dividend-equivalent rights carried by certain restricted stock units concurrently with the
+settlement of the restricted stock units for shares.
+(2)Includes 3,332,881 shares that were retired in connection with the net share settlement of equity-based awards. The Company paid $159.0 million of
+taxes related to the net share settlement of equity-based awards during the year ended December 31, 2024, which is included within Financing activities
+in the consolidated statements of cash flows.
+
+X
+
+- DefinitionThe entire disclosure for share-based payment arrangement.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/718/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (l)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

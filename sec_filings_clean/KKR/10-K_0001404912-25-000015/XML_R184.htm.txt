@@ -1,0 +1,462 @@
+XML
+206
+R184.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+COMMITMENTS AND CONTINGENCIES - Non-cancelable Operating Leases (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Asset Management and Strategic Holdings
+
+Lessee, Lease, Description [Line Items]
+
+2025
+$ 51,593
+
+2026
+80,012
+
+2027
+73,910
+
+2028
+70,413
+
+2029
+66,906
+
+Thereafter
+584,472
+
+Total Lease Payments Required
+927,306
+
+Less: Imputed Interest
+205,065
+
+Total Operating Lease Liabilities
+$ 722,241
+
+$ 360,852
+
+Operating lease, liability, statement of financial position
+Accrued Expenses and Other Liabilities
+
+Accrued Expenses and Other Liabilities
+
+Insurance
+
+Lessee, Lease, Description [Line Items]
+
+2025
+$ 18,699
+
+2026
+17,041
+
+2027
+17,056
+
+2028
+13,425
+
+2029
+12,091
+
+Thereafter
+289,301
+
+Total Lease Payments Required
+367,613
+
+Less: Imputed Interest
+182,066
+
+Total Operating Lease Liabilities
+$ 185,547
+
+$ 193,566
+
+Operating lease, liability, statement of financial position
+Accrued Expenses and Other Liabilities
+
+Accrued Expenses and Other Liabilities
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-3
+
++ Details
+
+ Name:
+us-gaap_LesseeLeaseDescriptionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of lessee's undiscounted obligation for lease payment for operating lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityPaymentsDue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of lessee's undiscounted obligation for lease payment for operating lease due after fifth fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of lessee's undiscounted obligation for lease payment for operating lease to be paid in next fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of lessee's undiscounted obligation for lease payment for operating lease to be paid in fifth fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityPaymentsDueYearFive
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of lessee's undiscounted obligation for lease payment for operating lease to be paid in fourth fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityPaymentsDueYearFour
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of lessee's undiscounted obligation for lease payment for operating lease to be paid in third fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityPaymentsDueYearThree
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of lessee's undiscounted obligation for lease payment for operating lease to be paid in second fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityPaymentsDueYearTwo
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of lessee's undiscounted obligation for lease payments in excess of discounted obligation for lease payments for operating lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityUndiscountedExcessAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent value of lessee's discounted obligation for lease payments from operating lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479041/842-20-45-1
+
++ Details
+
+ Name:
+us-gaap_OperatingLeaseLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionIndicates line item in statement of financial position that includes operating lease liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479041/842-20-45-2
+
++ Details
+
+ Name:
+us-gaap_OperatingLeaseLiabilityStatementOfFinancialPositionExtensibleList
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+enum2:enumerationSetItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

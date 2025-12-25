@@ -1,0 +1,432 @@
+XML
+141
+R112.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Segment Reporting - Additional Information (Detail)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+USD ($)
+
+Segment
+
+Dec. 31, 2023
+
+USD ($)
+
+Segment
+
+Dec. 31, 2022
+
+USD ($)
+
+Segment Reporting Information [Line Items]
+
+Number of business segments | Segment
+4
+
+4
+
+Investment Advice [Member]
+
+Segment Reporting Information [Line Items]
+
+Revenue from contract with customer, excluding assessed tax
+$ 7,188,936
+
+$ 6,671,260
+
+$ 6,303,315
+
+Blackstone Real Estate Investment Trust or BREIT | Investment Advice [Member]
+
+Segment Reporting Information [Line Items]
+
+Revenue from contract with customer, excluding assessed tax
+
+839,900
+
+$ 841,300
+
+Blackstone Private Credit Fund [Member] | Investment Advice [Member]
+
+Segment Reporting Information [Line Items]
+
+Revenue from contract with customer, excluding assessed tax
+980,600
+
+762,600
+
+UNITED STATES
+
+Segment Reporting Information [Line Items]
+
+Long lived assets
+$ 1,100,000
+
+$ 1,100,000
+
+Percentage of revenue
+68.00%
+
+70.00%
+
+77.00%
+
+UNITED KINGDOM
+
+Segment Reporting Information [Line Items]
+
+Long lived assets
+
+$ 141,700
+
+X
+
+- DefinitionPercentage of revenue.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PercentageOfRevenue
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLong-lived assets other than financial instruments, long-term customer relationships of a financial institution, mortgage and other servicing rights, deferred policy acquisition costs, and deferred tax assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
++ Details
+
+ Name:
+us-gaap_NoncurrentAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNumber of operating segments. An operating segment is a component of an enterprise: (a) that engages in business activities from which it may earn revenues and incur expenses (including revenues and expenses relating to transactions with other components of the same enterprise), (b) whose operating results are regularly reviewed by the enterprise's chief operating decision maker to make decisions about resources to be allocated to the segment and assess its performance, and (c) for which discrete financial information is available. An operating segment may engage in business activities for which it has yet to earn revenues, for example, start-up operations may be operating segments before earning revenues.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-18
+
++ Details
+
+ Name:
+us-gaap_NumberOfOperatingSegments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 4: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 924
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 11.L)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479941/924-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-5
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-4
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InvestmentAdviceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=bx_BlackstoneRealEstateInvestmentTrustOrBreitMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=bx_BlackstonePrivateCreditFundMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=country_US
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=country_GB
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

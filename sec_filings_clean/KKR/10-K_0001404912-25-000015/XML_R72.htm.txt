@@ -1,0 +1,149 @@
+XML
+94
+R72.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Fixed Assets, Depreciation and Amortization (Details)
+
+Dec. 31, 2024
+
+Maximum | Owner Occupied Real Estate
+
+Property, Plant and Equipment [Line Items]
+
+Useful life of property, plant and equipment
+40 years
+
+Maximum | Other Fixed Assets
+
+Property, Plant and Equipment [Line Items]
+
+Useful life of property, plant and equipment
+7 years
+
+Minimum | Other Fixed Assets
+
+Property, Plant and Equipment [Line Items]
+
+Useful life of property, plant and equipment
+3 years
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-7A
+
++ Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUseful life of long lived, physical assets used in the normal conduct of business and not intended for resale, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days. Examples include, but not limited to, land, buildings, machinery and equipment, office equipment, furniture and fixtures, and computer equipment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentUsefulLife
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentByTypeAxis=us-gaap_BuildingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentByTypeAxis=kkr_OtherFixedAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

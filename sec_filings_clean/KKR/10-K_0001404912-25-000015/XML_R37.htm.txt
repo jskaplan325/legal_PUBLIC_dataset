@@ -1,0 +1,78 @@
+XML
+59
+R37.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+CAPITAL & REGULATORY REQUIREMENTS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+CAPITAL AND REGULATORY REQUIREMENTS
+
+CAPITAL & REGULATORY REQUIREMENTS
+CAPITAL & REGULATORY REQUIREMENTSInsurance subsidiary capital requirements
+All of our Global Atlantic insurance companies are subject to minimum capital and surplus requirements. Insurance companies typically operate in excess of such requirements. Failure to maintain such minimum capital will result in regulatory actions, including in certain circumstances regulatory takeover of the insurance company.
+In the United States, our Global Atlantic's insurance companies are subject to risk based capital ("RBC") standards and other minimum capital and surplus requirements imposed by state laws. The RBC formula is intended to measure the adequacy of the insurance company s statutory surplus in relation to the risks inherent in its business. The RBC formula requires higher surplus in relation to items deemed to have higher risk. Regulatory action is triggered beginning at 200% RBC and below.
+Our Global Atlantic Bermuda insurance companies are subject to Bermuda Solvency Capital Requirements ("BSCR") standards and other minimum capital and surplus requirements imposed by the BMA. The BMA expects that insurers operate at or above a BSCR ratio of at least 120%.
+Each of our Global Atlantic insurance companies exceeded the minimum requirements that would trigger regulatory action for all periods presented in this report.
+ Insurance subsidiary dividend restrictions
+Payments of dividends by our U.S. and Bermuda-domiciled insurance companies are restricted by insurance statutes and regulations. Our ability to pay dividends out of our U.S.-domiciled insurance companies is limited to the dividend paying capacity of Global Atlantic's indirect insurance subsidiary, Commonwealth Annuity and Life Insurance Company ( Commonwealth ). Commonwealth has negative unassigned surplus, and while it remains so, Commonwealth must obtain written approval from the Massachusetts Division of Insurance prior to the payment of any dividend or distribution. Without prior regulatory approval, and subject to maintaining certain solvency requirements, our U.S. and Bermuda insurance subsidiaries, may declare ordinary dividends or distributions to their holding companies during 2025, as follows:
+
+ Ordinary dividend and distribution capacity
+($ in thousands)
+U.S. domiciled
+Commonwealth Annuity and Life Insurance Company None
+
+Bermuda domiciled
+Global Atlantic Re Limited $ 1,354,945
+
+Shareholders equity of our principal U.S.-domiciled insurance subsidiary, Commonwealth Annuity and Life Insurance Company, determined pursuant to statutory accounting rules was approximately $6.2 billion and $4.3 billion as of December 31, 2024 and 2023, respectively. Statutory surplus computed under those methodologies differ from equity reported in accordance with U.S. GAAP primarily because fixed maturity securities are required to be carried at cost or amortized cost, embedded derivatives on funds withheld reinsurance balances are not recognized, policy acquisition costs are expensed when incurred and asset valuation, and interest maintenance reserves are required to be held. Life insurance reserves are calculated based upon different assumptions and the recognition of deferred tax assets is based on different recoverability assumptions.
+Shareholders equity of our Bermuda-domiciled insurance subsidiary, Global Atlantic Re Limited, determined pursuant to statutory accounting rules was approximately $4.2 billion and $3.4 billion as of December 31, 2024 and 2023, respectively. Bermuda reinsurers file statutory financial statements with the Bermuda Monetary Authority (the "BMA") that may differ from U.S. GAAP. For example, Bermuda statutory surplus differs from U.S. GAAP primarily due to a modification that permits our Bermuda insurance subsidiary to not measure the embedded derivative included within certain funds withheld coinsurance agreements at fair value.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_CAPITALANDREGULATORYREQUIREMENTS
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for regulatory capital requirements under certain regulatory bodies (SEC, FINRA, FSA, RBI).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_RegulatedEntitiesDisclosureTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

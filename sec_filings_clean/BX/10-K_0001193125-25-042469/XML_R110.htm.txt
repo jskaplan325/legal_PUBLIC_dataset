@@ -1,0 +1,1057 @@
+XML
+139
+R110.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Commitments and Contingencies - Additional Information (Detail) - USD ($)
+ $ in Millions
+
+1 Months Ended
+12 Months Ended
+
+Jan. 03, 2025
+
+Jan. 31, 2025
+
+Dec. 31, 2024
+
+Jan. 01, 2023
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+General partner capital funding
+
+$ 6,400.0
+
+Consolidated entities net assets restricted as to payment of cash dividends and advances to partnership
+
+92.8
+
+Total investments at risk in respect of guarantees extended
+
+$ 28.4
+
+Contingent obligations currently anticipated to expire end
+
+2032
+
+Provision for cash clawback
+
+$ 1,100.0
+
+Contingent Obligations (Clawback)
+
+7,300.0
+
+Loss Contingency Accrual, Payments
+
+$ 2.1
+
+Blackstone Real Estate Investment Trust or BREIT
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+Percentage Of Incremental Cash Payment In Excess Of Target Return
+
+5.00%
+
+Security Owned and Pledged as Collateral, Associated Liabilities, Fair Value
+
+$ 938.2
+
+Investments Pledged fair value
+
+$ 1,100.0
+
+Common stock, value, subscriptions
+
+$ 4,500.0
+
+Blackstone Real Estate Investment Trust or BREIT | University of California
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+Percentage of targeted annualized net return
+
+11.25%
+
+Cost of the investment
+
+$ 4,500.0
+
+Settlement Agreement [Member]
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+Payments for Legal Settlements
+
+$ 12.0
+
+Settled Litigation [Member]
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+Loss Contingency Settlement Value Among Dedendants
+$ 82.5
+
+Loss Contingency, Name of Plaintiff
+Taylor I and Taylor II
+
+Loss Contingency, Settlement Agreement, Court
+Franklin County Circuit Court
+
+Loss Contingency, Name of Defendant
+we and several other defendants
+
+Blackstone Holdings
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+Loans held By employees for investment guaranteed
+
+91.5
+
+Contingent Obligations (Clawback)
+
+6,700.0
+
+Loss Contingency Accrual, Payments
+
+1.2
+
+Current And Former Blackstone Personnel
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+Loss Contingency Accrual, Payments
+
+0.9
+
+Consolidated Blackstone Funds
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+Funds signed investment commitments
+
+127.2
+
+Consolidated Blackstone Funds | Portfolio Company Acquisition
+
+Schedule Of Commitments And Contingencies [Line Items]
+
+Signed investment commitments for portfolio company acquisitions in process of closing
+
+$ 104.0
+
+X
+
+- DefinitionConsolidated entities' net assets restricted as to payment of cash dividends and advances to partnership.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ConsolidatedEntitiesNetAssetsRestrictedAsToPaymentOfCashDividendsAndAdvancesToPartnership
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionContingent obligations currently anticipated to expire end
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ContingentObligationsCurrentlyAnticipatedToExpireEnd
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:gYearItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFunds Signed Investment Commitments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FundsSignedInvestmentCommitments
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionGeneral Partner Capital Funding Commitments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_GeneralPartnerCapitalFundingCommitments
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLoans Held By Employees For Investment Guaranteed
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_LoansHeldByEmployeesForInvestmentGuaranteed
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLoss contingency settlement value among dedendants.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_LossContingencySettlementValueAmongDedendants
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPercentage Of Incremental Cash Payment In Excess Of Target Return`.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PercentageOfIncrementalCashPaymentInExcessOfTargetReturn
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPercentage of Targeted Annualized Net Return.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PercentageOfTargetedAnnualizedNetReturn
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionProvision for cash clawback
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ProvisionForCashClawback
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ScheduleOfCommitmentsAndContingenciesLineItems
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSigned Investment Commitments For Portfolio Company Acquisitions In Process Of Closing
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_SignedInvestmentCommitmentsForPortfolioCompanyAcquisitionsInProcessOfClosing
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionMonetary value of common stock allocated to investors to buy shares of a new issue of common stock before they are offered to the public. When stock is sold on a subscription basis, the issuer does not initially receive the total proceeds. In general, the issuer does not issue the shares to the investor until it receives the entire proceeds.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(29))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481142/505-10-45-2
+
++ Details
+
+ Name:
+us-gaap_CommonStockSharesSubscriptions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of investment subject to concentration of credit or market risk or both.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-20
+
++ Details
+
+ Name:
+us-gaap_FairValueConcentrationOfRiskInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe fair value as of the balance sheet date of firm holdings in private equity, mezzanine, venture capital, merchant banking, real estate and special situations investments. Includes both pledged (to counterparties as collateral for financing transactions) and unpledged holdings.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 940
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479035/940-320-45-2
+
++ Details
+
+ Name:
+us-gaap_FinancialInstrumentsOwnedPrincipalInvestmentsAtFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionCost of the investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477439/946-210-55-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-12
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.12-12(Column C)(Footnote 8)(a)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-12B(Column C)(Footnote 11)(a)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-3
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 6
+ -Subparagraph (SX 210.12-14(Column F)(Footnote 5)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-6
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 19
+ -Subparagraph (3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-19
+
++ Details
+
+ Name:
+us-gaap_InvestmentOwnedAtCost
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cash outflow reducing loss contingency liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
++ Details
+
+ Name:
+us-gaap_LossContingencyAccrualPayments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionReflects the estimated amount of loss from the specified contingency as of the balance sheet date.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 720
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483359/720-20-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 27
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482395/460-10-55-27
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-3
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-2
+
++ Details
+
+ Name:
+us-gaap_LossContingencyEstimateOfPossibleLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionIdentifies the named defendant in a lawsuit.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 450
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 450
+ -SubTopic 20
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
++ Details
+
+ Name:
+us-gaap_LossContingencyNameOfDefendant
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIdentifies the plaintiff in the lawsuit.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 450
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 450
+ -SubTopic 20
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
++ Details
+
+ Name:
+us-gaap_LossContingencyNameOfPlaintiff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIdentify the name of the court, if applicable, which approved the terms of the settlement agreement resolving the legal matter.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 450
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 450
+ -SubTopic 20
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
++ Details
+
+ Name:
+us-gaap_LossContingencySettlementAgreementCourt
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe amount of cash paid for the settlement of litigation or for other legal issues during the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 25
+ -Subparagraph (g)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-25
+
++ Details
+
+ Name:
+us-gaap_PaymentsForLegalSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of liabilities arising from or related to a financial instrument held by the entity for its own account (proprietary securities) which has been pledged to counterparties.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SecurityOwnedAndPledgedAsCollateralAssociatedLiabilitiesFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=bx_BlackstoneRealEstateInvestmentTrustOrBreitMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=bx_UniversityOfCaliforniaMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+bx_AgreementAxis=bx_SettlementAgreementMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LitigationStatusAxis=us-gaap_SettledLitigationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=bx_BlackstoneIncMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=bx_CurrentAndFormerBlackstonePersonnelMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OptionIndexedToIssuersEquityTypeAxis=bx_ConsolidatedBlackstoneFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_PortfolioCompanyAcquisitionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

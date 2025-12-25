@@ -1,0 +1,255 @@
+XML
+74
+R51.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Significant Accounting Policies - Additional Information (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Accounting Policies [Abstract]
+
+Accrued performance allocations and incentive fee related compensation
+$ 4,819.7
+
+$ 4,255.8
+
+Securities transferred to counterparties under repurchase agreements
+240.4
+
+Foreign currency transactions gains (losses)
+$ 2.5
+
+$ (13.6)
+
+$ 25.2
+
+X
+
+- DefinitionAccrued performance fees due to employees and advisors included in accrued compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AccruedPerformanceFeesDueToEmployeesAndAdvisorsIncludedInAccruedCompensation
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AccountingPoliciesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax, of realized and unrealized gain (loss) from foreign currency transaction.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482014/830-20-35-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481956/830-20-45-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481926/830-20-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481839/830-10-45-17
+
++ Details
+
+ Name:
+us-gaap_ForeignCurrencyTransactionGainLossBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after the effects of master netting arrangements, of funds outstanding borrowed in the form of a security repurchase agreement between the entity and another party for the sale and repurchase of identical or substantially the same securities at a date certain for a specified price. Includes liabilities not subject to a master netting arrangement and not elected to be offset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(13)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-12A(Column A)(Footnote 2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.12-12(Column A)(Footnote 2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 6
+ -Subparagraph (SX 210.12-14(Column A)(Footnote 2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-6
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-12B(Column A)(Footnote 4)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-3
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(m)(1)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(m)(1)(ii)(A)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
++ Details
+
+ Name:
+us-gaap_SecuritiesSoldUnderAgreementsToRepurchase
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant

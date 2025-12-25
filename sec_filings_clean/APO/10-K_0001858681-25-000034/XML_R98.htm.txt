@@ -1,0 +1,256 @@
+XML
+128
+R98.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value - Schedule of Gain (Losses) Recorded for Financial Instruments Elected the Fair Value Option (Details) - Retirement Services - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Total gains (losses)
+$ (348)
+
+$ 199
+
+$ (3,204)
+
+Trading securities
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Total gains (losses)
+(156)
+
+66
+
+(424)
+
+Mortgage loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Total gains (losses)
+(237)
+
+183
+
+(3,213)
+
+Investment funds
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Total gains (losses)
+(59)
+
+77
+
+114
+
+Future policy benefits
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Total gains (losses)
+76
+
+(14)
+
+356
+
+Other
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Total gains (losses)
+$ 28
+
+$ (113)
+
+$ (37)
+
+X
+
+- DefinitionFor each line item in the statement of financial position, the amounts of gains and losses from fair value changes included in earnings.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 825
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionChangesInFairValueGainLoss1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-31
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionQuantitativeDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=apo_RetirementServicesSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_TradingAssetsExcludingDebtAndEquitySecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_MortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=apo_InvestmentFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=apo_FuturePolicyBenefitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_OtherLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,299 @@
+XML
+145
+R123.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+REINSURANCE - Narrative (Details)
+ $ in Millions
+
+Dec. 31, 2024
+
+USD ($)
+
+counterparty
+
+Dec. 31, 2023
+
+USD ($)
+
+counterparty
+
+Effects of Reinsurance [Line Items]
+
+Funds withheld receivable at interest
+$ 2,500.0
+
+$ 2,700.0
+
+Number of counterparties | counterparty
+6
+
+6
+
+Collateral held on behalf of reinsurers
+$ 46,600.0
+
+$ 36,700.0
+
+Collateral held on our behalf by reinsurers
+1,100.0
+
+1,200.0
+
+Reinsurer collateral, minimum amount held by trusts
+100,200.0
+
+81,800.0
+
+Reinsurer collateral, reserves supported by trust assets
+96,900.0
+
+79,400.0
+
+Cash Held In Trust
+
+Effects of Reinsurance [Line Items]
+
+Restricted cash
+$ 185.8
+
+$ 90.8
+
+X
+
+- DefinitionCollateral Held By Reinsurers
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_CollateralHeldByReinsurers
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionCollateral Held On Behalf Of Reinsurers
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_CollateralHeldOnBehalfOfReinsurers
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFunds Withheld Receivable At Interest
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FundsWithheldReceivableAtInterest
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFunds Withheld Receivable At Interest, Number Of Counterparties
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FundsWithheldReceivableAtInterestNumberOfCounterparties
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionReinsurer Collateral, Minimum Required Assets In Trust
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ReinsurerCollateralMinimumRequiredAssetsInTrust
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionReinsurer Collateral, Reserves
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ReinsurerCollateralReserves
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EffectsOfReinsuranceLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash restricted as to withdrawal or usage. Cash includes, but is not limited to, currency on hand, demand deposits with banks or financial institutions, and other accounts with general characteristics of demand deposits.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-8
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(1)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_RestrictedCash
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_RestrictedCashAndCashEquivalentsCashAndCashEquivalentsAxis=kkr_CashHeldInTrustMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

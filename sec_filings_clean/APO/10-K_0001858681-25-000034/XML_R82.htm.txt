@@ -1,0 +1,1592 @@
+XML
+112
+R82.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Derivatives - Schedule of Notional Amount and Fair Value of Derivative Instruments (Details) - USD ($)
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Derivatives, Fair Value [Line Items]
+
+Assets, gross
+$ 8,154,000,000
+
+$ 5,298,000,000
+
+Assets
+4,504,000,000
+
+1,198,000,000
+
+Liabilities, gross
+3,556,000,000
+
+1,995,000,000
+
+Liabilities
+$ 14,802,000,000
+
+$ 10,990,000,000
+
+Derivative liability, statement of financial position
+Other liabilities
+
+Other liabilities
+
+Derivatives designated as hedges
+
+Derivatives, Fair Value [Line Items]
+
+Assets, gross
+$ 1,335,000,000
+
+$ 781,000,000
+
+Liabilities, gross
+1,008,000,000
+
+954,000,000
+
+Derivatives designated as hedges | Foreign currency swaps
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+15,669,000,000
+
+9,034,000,000
+
+Assets, gross
+938,000,000
+
+477,000,000
+
+Liabilities, gross
+211,000,000
+
+230,000,000
+
+Derivatives designated as hedges | Foreign currency forwards
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+3,139,000,000
+
+6,294,000,000
+
+Assets, gross
+331,000,000
+
+275,000,000
+
+Liabilities, gross
+5,000,000
+
+102,000,000
+
+Derivatives designated as hedges | Interest rate swaps
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+4,506,000,000
+
+4,468,000,000
+
+Assets, gross
+0
+
+0
+
+Liabilities, gross
+654,000,000
+
+521,000,000
+
+Derivatives designated as hedges | Forwards on net investments
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+218,000,000
+
+219,000,000
+
+Assets, gross
+11,000,000
+
+0
+
+Liabilities, gross
+0
+
+6,000,000
+
+Derivatives designated as hedges | Interest rate swaps
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+24,885,000,000
+
+10,031,000,000
+
+Assets, gross
+55,000,000
+
+29,000,000
+
+Liabilities, gross
+138,000,000
+
+95,000,000
+
+Derivatives not designated as hedges
+
+Derivatives, Fair Value [Line Items]
+
+Assets, subtotal
+3,169,000,000
+
+417,000,000
+
+Liabilities
+13,794,000,000
+
+10,036,000,000
+
+Derivatives not designated as hedges | Foreign currency swaps
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+14,908,000,000
+
+8,072,000,000
+
+Assets, gross
+600,000,000
+
+230,000,000
+
+Liabilities, gross
+199,000,000
+
+244,000,000
+
+Derivatives not designated as hedges | Foreign currency forwards
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+39,598,000,000
+
+28,236,000,000
+
+Assets, gross
+1,054,000,000
+
+286,000,000
+
+Liabilities, gross
+2,083,000,000
+
+685,000,000
+
+Derivatives not designated as hedges | Interest rate swaps
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+3,255,000,000
+
+3,499,000,000
+
+Assets, gross
+67,000,000
+
+81,000,000
+
+Liabilities, gross
+124,000,000
+
+9,000,000
+
+Derivatives not designated as hedges | Equity options
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+85,452,000,000
+
+73,881,000,000
+
+Assets, gross
+5,002,000,000
+
+3,809,000,000
+
+Liabilities, gross
+126,000,000
+
+102,000,000
+
+Derivatives not designated as hedges | Futures
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+37,000,000
+
+35,000,000
+
+Assets, gross
+93,000,000
+
+72,000,000
+
+Liabilities, gross
+11,000,000
+
+0
+
+Derivatives not designated as hedges | Other swaps
+
+Derivatives, Fair Value [Line Items]
+
+Notional Amount
+2,644,000,000
+
+2,588,000,000
+
+Assets, gross
+3,000,000
+
+39,000,000
+
+Liabilities, gross
+5,000,000
+
+1,000,000
+
+Derivatives not designated as hedges | Funds withheld, including related parties
+
+Derivatives, Fair Value [Line Items]
+
+Assets, netting
+(3,650,000,000)
+
+(4,100,000,000)
+
+Liabilities, netting
+4,000,000
+
+(64,000,000)
+
+Derivatives not designated as hedges | Interest sensitive contract liabilities
+
+Derivatives, Fair Value [Line Items]
+
+Assets, netting
+0
+
+0
+
+Liabilities, netting
+$ 11,242,000,000
+
+$ 9,059,000,000
+
+X
+
+- DefinitionDerivative Asset, Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_DerivativeAssetNet
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of liability associated with financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-8
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column F))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssetFairValueGrossLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after the effects of master netting arrangements, of a financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes assets not subject to a master netting arrangement and not elected to be offset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 103
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-103
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-12
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 11: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477439/946-210-55-1
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 20: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(3)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H)(Footnote 7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(3)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column A)(Footnote 3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
+Reference 27: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 28: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E)(Footnote 4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 29: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 30: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 31: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
+Reference 32: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, before effects of master netting arrangements, of a financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes assets elected not to be offset. Excludes assets not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-7
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4D
+ -Subparagraph (c)(2)
+ -SubTopic 20
+ -Topic 860
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481326/860-20-50-4D
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeAsset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, before effects of master netting arrangements, of a financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes liabilities elected not to be offset. Excludes liabilities not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-7
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4D
+ -Subparagraph (c)(2)
+ -SubTopic 20
+ -Topic 860
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481326/860-20-50-4D
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after the effects of master netting arrangements, of a financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes liabilities not subject to a master netting arrangement and not elected to be offset.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 16: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(e))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H)(Footnote 7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column G)(Footnote 8))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column G))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E)(Footnote 4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 27: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 28: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 29: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
+Reference 30: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of asset associated with financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-8
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column F))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-20
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilityFairValueGrossAsset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionIndicates line item in statement of financial position that includes derivative liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilityStatementOfFinancialPositionExtensibleEnumeration
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+enum2:enumerationSetItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNominal or face amount used to calculate payment on derivative.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
++ Details
+
+ Name:
+us-gaap_DerivativeNotionalAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativesFairValueLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_HedgingDesignationAxis=us-gaap_DesignatedAsHedgingInstrumentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CurrencySwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeForwardMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=apo_ForeignCurrencyInterestRateSwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=apo_ForwardsOnNetInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateSwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_HedgingDesignationAxis=us-gaap_NondesignatedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_StockOptionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeFutureMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=apo_OtherSwapsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=apo_EmbeddedDerivativesFinancialInstrumentsFundsWithheldIncludingRelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=apo_EmbeddedDerivativesFinancialInstrumentsInterestSensitiveContractLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

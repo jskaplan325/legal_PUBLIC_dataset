@@ -1,0 +1,689 @@
+XML
+53
+R30.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Cybersecurity Risk Management and Strategy Disclosure
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Cybersecurity Risk Management, Strategy, and Governance [Line Items]
+
+Cybersecurity Risk Management Processes for Assessing, Identifying, and Managing Threats [Text Block]
+We regularly assess risks from cybersecurity threats, monitor our information systems for potential vulnerabilities, and test those systems pursuant to our cybersecurity policies, standards, processes, and practices, which are integrated into our
+overall risk management system. To protect our information systems from cybersecurity threats, we use various security tools
+that help us identify, protect against, detect, respond to, and recover from security incidents. These efforts are implemented by
+our Global Technology & Solutions ( GTS ) team in partnership with our business, legal, and compliance teams, and are
+essential for us to conduct investment activities, manage internal administration activities, and connect our global enterprise.
+Our systems, data, network, and infrastructure are monitored and administered by formal controls and risk management
+processes that log events and help protect the firm s data. In addition, our business continuity plans are designed to allow
+critical business functions to continue in an orderly manner in the event of an emergency. The GTS team works closely with our
+business segment teams to maintain operational resilience through business continuity planning and annual information
+technology disaster recovery and incident response plan testing, which collectively support the goal of mitigating risk were an
+emergency to occur. These efforts are underpinned by the implementation of security best practices, where possible, such as:
+ Multi-factor authentication for remote access, privileged access management for system administrators,
+application whitelisting, laptop encryption, mobile device management software, and advanced malware
+defenses on endpoints;
+ Incident preparedness and response planning and risk mitigation;
+ Independent and continuous security testing, assessment, and third-party risk and vulnerability management;
+ Regular security awareness training, including phishing simulations, for Carlyle authorized users;
+ Restrictions on access to personal email accounts, cloud storage, social media, risk-based categories of
+websites, and USB storage devices;
+ Device and system access management policies and procedures that restrict access upon employee or
+contractor separation from the company; and
+ Compliance attestations by Carlyle personnel on firm policies, such as our acceptable use policy, upon hire
+and annually.
+In addition, we partner with third parties to assess the effectiveness of our cybersecurity program, including audits and
+assessments performed under the direction of Carlyle s Internal Audit team, which co-sources with third-party cybersecurity
+experts in conducting its reviews. GTS also administers the firm s cyber third-party risk management program, which assesses
+external service providers before onboarding and provides ongoing monitoring in accordance with certain risk-based
+cybersecurity criteria.
+To our knowledge, cybersecurity threats, including as a result of any previous detected or undetected cybersecurity
+incidents, have not materially affected us, including our business strategy, results of operations, or financial condition; however,
+we may learn new facts about these detected or undetected incidents and these facts may lead us to change this materiality
+assessment. The sophistication of cyber threats continues to increase and there can be no assurance that the various procedures
+and controls we utilize to mitigate these threats will be sufficient to prevent disruptions to our systems. Consequently, given
+that the magnitude of cybersecurity incidents or threats are difficult to predict, we are unable to determine at this time whether
+risks from cybersecurity threats are reasonably likely to materially affect us, including our business strategy, results of
+operations, or financial condition. For an additional description of cybersecurity risk and potential related impacts on us, see
+Part I, Item 1A Risk Factors Risks Related to Our Company Operational risks (including those associated with our
+business model), system security risks, breaches of data protection, cyberattacks, or actions or failure to act by our employees
+or others with authorized access to our networks, including our ability to insure against such risks, may disrupt our businesses,
+result in losses, or limit our growth.
+
+Cybersecurity Risk Management Processes Integrated [Flag]
+true
+
+Cybersecurity Risk Management Processes Integrated [Text Block]
+We regularly assess risks from cybersecurity threats, monitor our information systems for potential vulnerabilities, and test those systems pursuant to our cybersecurity policies, standards, processes, and practices, which are integrated into our
+overall risk management system. To protect our information systems from cybersecurity threats, we use various security tools
+that help us identify, protect against, detect, respond to, and recover from security incidents.
+
+Cybersecurity Risk Management Third Party Engaged [Flag]
+true
+
+Cybersecurity Risk Third Party Oversight and Identification Processes [Flag]
+true
+
+Cybersecurity Risk Materially Affected or Reasonably Likely to Materially Affect Registrant [Flag]
+false
+
+Cybersecurity Risk Board of Directors Oversight [Text Block]
+Our Board of Directors oversees our enterprise risk management strategy, including our strategy on cybersecurity risks, directly and through its committees. In this respect, the Audit Committee of the Board of Directors (the Audit
+Committee ) oversees our risk management program, which focuses on the most significant risks we face in the short-,
+intermediate-, and long-term timeframe.Our CISO, in coordination with our Chief Financial Officer, Chief Compliance Officer, Chief Information Officer, Chief Risk Officer, and Chief Audit Executive, among certain other senior executives, is responsible for leading the assessment
+and management of cybersecurity risks. The current CISO has over 22 years of experience in information security that includes
+key roles managing cybersecurity risk in both government and the private sector. As described above, our CISO leads our
+cybersecurity program, chairs Carlyle s ISSC that comprises senior management and other sector representatives, and provides
+cybersecurity status reporting to our Audit Committee as necessary and at least annually.
+
+Cybersecurity Risk Board Committee or Subcommittee Responsible for Oversight [Text Block]
+In this respect, the Audit Committee of the Board of Directors (the Audit Committee ) oversees our risk management program, which focuses on the most significant risks we face in the short-,
+intermediate-, and long-term timeframe.
+
+Cybersecurity Risk Process for Informing Board Committee or Subcommittee Responsible for Oversight [Text Block]
+Our Board of Directors oversees our enterprise risk management strategy, including our strategy on cybersecurity risks, directly and through its committees. In this respect, the Audit Committee of the Board of Directors (the Audit
+Committee ) oversees our risk management program, which focuses on the most significant risks we face in the short-,
+intermediate-, and long-term timeframe. Audit Committee meetings include discussions of specific risk areas throughout the
+year, including, among others, those relating to cybersecurity, and reports from the Chief Audit Executive on our enterprise risk
+profile on an annual basis. In addition, our Chief Information Security Officer ( CISO ) leads our cybersecurity program, chairs
+our Information Security Steering Committee ( ISSC ), and provides cybersecurity status reporting to our Audit Committee at
+least annually. The ISSC meets quarterly and ensures that cybersecurity initiatives are in alignment with Carlyle s strategic
+priorities.
+
+Cybersecurity Risk Role of Management [Text Block]
+Our Board of Directors oversees our enterprise risk management strategy, including our strategy on cybersecurity risks, directly and through its committees. In this respect, the Audit Committee of the Board of Directors (the Audit
+Committee ) oversees our risk management program, which focuses on the most significant risks we face in the short-,
+intermediate-, and long-term timeframe. Audit Committee meetings include discussions of specific risk areas throughout the
+year, including, among others, those relating to cybersecurity, and reports from the Chief Audit Executive on our enterprise risk
+profile on an annual basis. In addition, our Chief Information Security Officer ( CISO ) leads our cybersecurity program, chairs
+our Information Security Steering Committee ( ISSC ), and provides cybersecurity status reporting to our Audit Committee at
+least annually. The ISSC meets quarterly and ensures that cybersecurity initiatives are in alignment with Carlyle s strategic
+priorities.
+We take a risk-based approach to cybersecurity and have implemented cybersecurity policies, standards, processes,
+and practices throughout our operations that are designed to address cybersecurity threats, events, and incidents. In particular,
+our cybersecurity program supports security governance, security awareness and training, security engineering and architecture,
+security risk management, vulnerability management, security monitoring, and incident response capabilities. In addition, our
+incident response plan contains escalation and reporting protocols, including reporting to the firm s Disclosure Committee to
+consider materiality of cybersecurity incidents. Policies and procedures are in place to assist the firm s Disclosure Committee
+with these materiality assessments and any resulting reporting requirements.
+Our CISO, in coordination with our Chief Financial Officer, Chief Compliance Officer, Chief Information Officer,
+Chief Risk Officer, and Chief Audit Executive, among certain other senior executives, is responsible for leading the assessment
+and management of cybersecurity risks. The current CISO has over 22 years of experience in information security that includes
+key roles managing cybersecurity risk in both government and the private sector. As described above, our CISO leads our
+cybersecurity program, chairs Carlyle s ISSC that comprises senior management and other sector representatives, and provides
+cybersecurity status reporting to our Audit Committee as necessary and at least annually.
+
+Cybersecurity Risk Management Positions or Committees Responsible [Flag]
+true
+
+Cybersecurity Risk Management Positions or Committees Responsible [Text Block]
+In this respect, the Audit Committee of the Board of Directors (the Audit Committee ) oversees our risk management program, which focuses on the most significant risks we face in the short-,
+intermediate-, and long-term timeframe. Audit Committee meetings include discussions of specific risk areas throughout the
+year, including, among others, those relating to cybersecurity, and reports from the Chief Audit Executive on our enterprise risk
+profile on an annual basis. In addition, our Chief Information Security Officer ( CISO ) leads our cybersecurity program, chairs
+our Information Security Steering Committee ( ISSC ), and provides cybersecurity status reporting to our Audit Committee at
+least annually. The ISSC meets quarterly and ensures that cybersecurity initiatives are in alignment with Carlyle s strategic
+priorities.
+
+Cybersecurity Risk Management Expertise of Management Responsible [Text Block]
+The current CISO has over 22 years of experience in information security that includes key roles managing cybersecurity risk in both government and the private sector. As described above, our CISO leads our
+cybersecurity program, chairs Carlyle s ISSC that comprises senior management and other sector representatives, and provides
+cybersecurity status reporting to our Audit Committee as necessary and at least annually.
+
+Cybersecurity Risk Process for Informing Management or Committees Responsible [Text Block]
+We take a risk-based approach to cybersecurity and have implemented cybersecurity policies, standards, processes, and practices throughout our operations that are designed to address cybersecurity threats, events, and incidents. In particular,
+our cybersecurity program supports security governance, security awareness and training, security engineering and architecture,
+security risk management, vulnerability management, security monitoring, and incident response capabilities. In addition, our
+incident response plan contains escalation and reporting protocols, including reporting to the firm s Disclosure Committee to
+consider materiality of cybersecurity incidents. Policies and procedures are in place to assist the firm s Disclosure Committee
+with these materiality assessments and any resulting reporting requirements.
+
+Cybersecurity Risk Management Positions or Committees Responsible Report to Board [Flag]
+true
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 1
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 1
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskBoardCommitteeOrSubcommitteeResponsibleForOversightTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 1
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 1
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskBoardOfDirectorsOversightTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph i
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph i
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementExpertiseOfManagementResponsibleTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph i
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph i
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementPositionsOrCommitteesResponsibleFlag
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+i:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph iii
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph iii
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementPositionsOrCommitteesResponsibleReportToBoardFlag
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+i:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph i
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph i
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementPositionsOrCommitteesResponsibleTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection b
+ -Paragraph 1
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection b
+ -Paragraph 1
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementProcessesForAssessingIdentifyingAndManagingThreatsTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection b
+ -Paragraph 1
+ -Subparagraph i
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection b
+ -Paragraph 1
+ -Subparagraph i
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementProcessesIntegratedFlag
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+i:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection b
+ -Paragraph 1
+ -Subparagraph i
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection b
+ -Paragraph 1
+ -Subparagraph i
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementProcessesIntegratedTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementStrategyAndGovernanceLineItems
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+i:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection b
+ -Paragraph 1
+ -Subparagraph ii
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection b
+ -Paragraph 1
+ -Subparagraph ii
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskManagementThirdPartyEngagedFlag
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+i:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection b
+ -Paragraph 2
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection b
+ -Paragraph 2
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskMateriallyAffectedOrReasonablyLikelyToMateriallyAffectRegistrantFlag
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+i:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 1
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 1
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskProcessForInformingBoardCommitteeOrSubcommitteeResponsibleForOversightTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph ii
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 2
+ -Subparagraph ii
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskProcessForInformingManagementOrCommitteesResponsibleTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection c
+ -Paragraph 2
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection c
+ -Paragraph 2
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskRoleOfManagementTextBlock
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Section 106
+ -Subsection b
+ -Paragraph 1
+ -Subparagraph iii
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Section 16K
+ -Subsection b
+ -Paragraph 1
+ -Subparagraph iii
+
++ Details
+
+ Name:
+cyd_CybersecurityRiskThirdPartyOversightAndIdentificationProcessesFlag
+
+ Namespace Prefix:
+cyd_
+
+ Data Type:
+i:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

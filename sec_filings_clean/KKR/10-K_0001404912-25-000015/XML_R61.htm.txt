@@ -1,0 +1,702 @@
+XML
+83
+R61.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+POLICY LIABILITIES (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Schedule of Policyholder Account Balance and Liability for Unpaid Claims and Claims Adjustment Expense
+The following reflects the reconciliation of the components of policy liabilities to the total balance reported in the consolidated statements of financial condition as of December 31, 2024 and 2023:
+
+ December 31, 2024 December 31, 2023
+Policyholders Account Balances $ 137,881,796 $ 125,187,354
+Liability for Future Policy Benefits 26,795,091 17,823,750
+Additional Liability for Annuitization, Death, or Other Insurance Benefits 7,491,915 7,129,785
+Market Risk Benefit Liability 1,002,236 1,120,968
+Other Policy-related Liabilities(1)
+ 12,034,328 8,796,414
+Total Policy Liabilities $ 185,205,366 $ 160,058,271
+
+(1)Other policy-related liabilities as of December 31, 2024 and 2023 primarily consist of embedded derivatives associated with contractholder deposit funds ($6.0 billion and $4.0 billion, respectively), cost-of-reinsurance liabilities ($3.1 billion and $1.8 billion, respectively), policy liabilities accounted under a fair value option (both $1.2 billion), negative VOBA ($766.3 million and $867.9 million, respectively) and outstanding claims ($303.8 million and $235.1 million, respectively).
+
+Schedule of Policyholder Account Balance
+The following reflects the policyholders account balances roll-forward for the years ended December 31, 2024 and 2023, and the policyholders account balances weighted average interest rates, net amount at risk, and cash surrender value as of those dates:
+
+ Year Ended December 31, 2024
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Funding Agreements Other(1)
+ Total
+Balance as of Beginning of Period $ 56,762,736 $ 30,168,445 $ 21,969,053 $ 7,015,998 $ 9,271,122 $ 125,187,354
+Issuances and Premiums Received 16,453,922 8,097,987 1,991,442 2,372,925 1,611,601 30,527,877
+
+Benefit Payments, Surrenders, and Withdrawals (10,038,636) (5,211,414) (1,453,435) (2,553,181) (1,579,574) (20,836,240)
+
+Interest(2)
+ 2,305,618 773,638 723,201 277,270 343,238 4,422,965
+Other Activity(3)
+ (397,023) (110,321) (1,054,364) 45,091 96,457 (1,420,160)
+Balance as of End of Period $ 65,086,617 $ 33,718,335 $ 22,175,897 $ 7,158,103 $ 9,742,844 $ 137,881,796
+Less: Reinsurance Recoverable (11,664,932) (3,074,278) (7,504,951) (3,532,472) (25,776,633)
+Balance as of End of Period, Net of Reinsurance Recoverable $ 53,421,685 $ 30,644,057 $ 14,670,946 $ 7,158,103 $ 6,210,372 $ 112,105,163
+
+Average Interest Rate 4.05 % 2.74 % 3.29 % 4.21 % 3.31 % 3.56 %
+Net Amount at Risk, Gross of Reinsurance(4)
+ $ $ $ 111,882,678 $ $ 1,140,998 $ 113,023,676
+Cash Surrender Value(5)
+ $ 50,421,300 $ 33,928,559 $ 13,974,862 $ $ 4,458,881 $ 102,783,602
+
+(1) Other consists of activity related to payout annuities without life contingencies, preneed, variable annuities, and life products.
+(2)Interest includes interest credited to policyholders account values, and interest accreted in other components of the policyholder account balance, including investment-type contract values, host amounts for contractholder deposits with embedded derivatives, funding agreements, and other associated reserves.
+(3) Other activity includes policy charges, fees and commissions, transfers, assumption changes, fair value changes, and the impact of hedge fair value adjustments.
+(4)Net amount at risk represents the difference between the face value of the insurance policy and the reserve accumulated under that same policy.
+(5)Cash surrender values are reported net of any applicable surrender charges, net of reinsurance.
+
+ Year Ended December 31, 2023
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Funding Agreements Other(1)
+ Total
+Balance as of Beginning of Period $ 48,510,703 $ 29,123,926 $ 17,397,185 $ 7,535,489 $ 9,713,933 $ 112,281,236
+Issuances and Premiums Received 16,604,445 4,891,428 5,824,786 510,000 675,340 28,505,999
+
+Benefit Payments, Surrenders, and Withdrawals (9,493,423) (4,234,383) (917,240) (1,415,763) (1,585,439) (17,646,248)
+
+Interest(2)
+ 1,483,545 533,127 497,919 226,394 303,026 3,044,011
+Other Activity(3)
+ (342,534) (145,653) (833,597) 159,878 164,262 (997,644)
+Balance as of End of Period $ 56,762,736 $ 30,168,445 $ 21,969,053 $ 7,015,998 $ 9,271,122 $ 125,187,354
+Less: Reinsurance Recoverable (10,279,657) (3,191,151) (7,190,573) (3,021,333) (23,682,714)
+Balance as of End of Period, Net of Reinsurance Recoverable $ 46,483,079 $ 26,977,294 $ 14,778,480 $ 7,015,998 $ 6,249,789 $ 101,504,640
+
+Average Interest Rate 3.36 % 2.15 % 3.28 % 3.12 % 2.74 % 2.94 %
+Net Amount at Risk, Gross of Reinsurance(4)
+ $ $ $ 135,840,650 $ $ 1,168,689 $ 137,009,339
+Cash Surrender Value(5)
+ $ 43,590,426 $ 28,429,388 $ 15,161,982 $ $ 4,659,916 $ 91,841,712
+
+(1) Other consists of activity related to payout annuities without life contingencies, preneed, variable annuities, and life products.
+(2)Interest includes interest credited to policyholders account values, and interest accreted in other components of the policyholder account balance, including investment-type contract values, host amounts for contractholder deposits with embedded derivatives, funding agreements, and other associated reserves.
+(3) Other activity includes policy charges, fees and commissions, transfers, assumption changes, fair value changes, and the impact of hedge fair value adjustments.
+(4)Net amount at risk represents the difference between the face value of the insurance policy and the reserve accumulated under that same policy.
+(5)Cash surrender values are reported net of any applicable surrender charges, net of reinsurance.
+
+Schedule of Policyholder Account Balance, Guaranteed Minimum Crediting Rate
+The following table presents the account values by range of guaranteed minimum crediting rates and the related range of differences, in basis points, between rates being credited to policyholders and the respective guaranteed minimums. Account values, as disclosed below, differ from policyholder account balances as they exclude balances associated with index credits, contractholder deposit fund host balances, funding agreements, and other associated reserves. In addition, policyholder account balances include discounts and premiums on assumed business which are not reflected in account values.
+
+ As of December 31, 2024
+ Account Values with Adjustable Crediting Rates Subject to Guaranteed Minimums:
+Range of guaranteed minimum crediting rates: At Guaranteed Minimum 1 - 49 bps Above Guaranteed Minimum
+ 50 - 99 bps Above Guaranteed Minimum
+ 100 - 150 bps Above Guaranteed Minimum
+ Greater Than 150 bps Above Guaranteed Minimum
+ Total
+Less Than 1.00%
+ $ 3,479,329 $ 36,286 $ 357,440 $ 740,947 $ 32,674,542 $ 37,288,544
+1.00% - 1.99%
+ 1,304,845 738,935 805,357 1,867,453 10,903,160 15,619,750
+2.00% - 2.99%
+ 769,182 36,663 56,798 697,085 3,671,581 5,231,309
+3.00% - 4.00%
+ 10,302,787 1,619,059 474,803 1,253,515 1,478,389 15,128,553
+Greater Than 4.00%
+ 11,785,696 1,353,687 76,806 7,020 13,223,209
+Total $ 27,641,839 $ 3,784,630 $ 1,771,204 $ 4,566,020 $ 48,727,672 $ 86,491,365
+Percentage of Total 32 % 4 % 2 % 5 % 57 % 100 %
+
+ As of December 31, 2023
+ Account Values with Adjustable Crediting Rates Subject to Guaranteed Minimums:
+Range of guaranteed minimum crediting rates: At Guaranteed Minimum 1 - 49 bps Above Guaranteed Minimum
+ 50 - 99 bps Above Guaranteed Minimum
+ 100 - 150 bps Above Guaranteed Minimum
+ Greater Than 150 bps Above Guaranteed Minimum
+ Total
+Less Than 1.00%
+ $ 2,706,701 $ 25,839 $ 660,189 $ 3,546,450 $ 25,940,436 $ 32,879,615
+1.00% - 1.99%
+ 1,471,320 1,013,423 999,852 1,968,519 6,603,795 12,056,909
+2.00% - 2.99%
+ 896,276 44,850 55,874 109,411 1,310,234 2,416,645
+3.00% - 4.00%
+ 12,494,439 1,186,572 414,111 953,560 1,067,325 16,116,007
+Greater Than 4.00%
+ 12,095,647 1,385,538 138,112 117,561 298,493 14,035,351
+Total $ 29,664,383 $ 3,656,222 $ 2,268,138 $ 6,695,501 $ 35,220,283 $ 77,504,527
+Percentage of Total 38 % 5 % 3 % 9 % 45 % 100 %
+
+Schedule of Balances of and Changes in Liability for Future Policy Benefits, and Revenue and Interest Recognized
+The following tables summarize the balances of, and changes in, the liability for future policy benefits for traditional and limited-payment contracts for the years ended December 31, 2024 and 2023:
+
+ Years Ended
+ December 31, 2024 December 31, 2023
+ Payout Annuities(1)
+ Other(2)
+ Total Payout Annuities(1)
+ Other(2)
+ Total
+Present Value of Expected Net Premiums
+Balance as of Beginning of Period $ $ (208,370) $ (208,370) $ $ (255,401) $ (255,401)
+
+Balance at Original Discount Rate $ $ (241,058) $ (241,058) $ $ (308,674) $ (308,674)
+Effect of Changes in Cash Flow Assumptions 43,842 43,842
+Effect of Actual Variances from Expected Experience (99,920) (99,920) (4,839) (4,839)
+Adjusted Beginning of Period Balance (340,978) (340,978) (269,671) (269,671)
+
+ Years Ended
+ December 31, 2024 December 31, 2023
+ Payout Annuities(1)
+ Other(2)
+ Total Payout Annuities(1)
+ Other(2)
+ Total
+Issuances (1,276,555) (1,276,555)
+Interest (48,966) (48,966) (4,314) (4,314)
+Net Premiums Collected 221,836 221,836 32,927 32,927
+
+Ending Balance at Original Discount Rate (1,444,663) (1,444,663) (241,058) (241,058)
+Effect of Changes in Discount Rate Assumptions 45,452 45,452 32,688 32,688
+Balance as of End of Period $ $ (1,399,211) $ (1,399,211) $ $ (208,370) $ (208,370)
+
+Present Value of Expected Future Policy Benefits
+Balance as of Beginning of Period $ 17,427,353 $ 604,767 $ 18,032,120 $ 14,021,515 $ 679,806 $ 14,701,321
+
+Balance at Original Discount Rate $ 20,040,000 $ 701,655 $ 20,741,655 $ 17,321,203 $ 818,450 $ 18,139,653
+Effect of Changes in Cash Flow Assumptions (28,430) (28,430) (1,563) (46,438) (48,001)
+Effect of Actual Variances from Expected Experience 18,093 (34,295) (16,202) 29,339 13,296 42,635
+Adjusted Beginning of Period Balance 20,029,663 667,360 20,697,023 17,348,979 785,308 18,134,287
+Issuances 3,307,864 9,008,029 12,315,893 3,869,133 458 3,869,591
+Interest 644,967 345,231 990,198 437,596 9,246 446,842
+Benefit Payments (1,866,380) (683,709) (2,550,089) (1,615,708) (93,357) (1,709,065)
+
+Ending Balance at Original Discount Rate 22,116,114 9,336,911 31,453,025 20,040,000 701,655 20,741,655
+Effect of Changes in Discount Rate Assumptions (3,048,636) (210,087) (3,258,723) (2,612,647) (96,888) (2,709,535)
+Balance as of End of Period 19,067,478 9,126,824 28,194,302 17,427,353 604,767 18,032,120
+Net Liability for Future Policy Benefits 19,067,478 7,727,613 26,795,091 17,427,353 396,397 17,823,750
+Less: Reinsurance Recoverable(3)
+ (9,579,679) (6,139,016) (15,718,695) (9,270,511) (3,042) (9,273,553)
+Net Liability for Future Policy Benefits, Net of Reinsurance Recoverables $ 9,487,799 $ 1,588,597 $ 11,076,396 $ 8,156,842 $ 393,355 $ 8,550,197
+
+(1)Payout annuities generally only have a single premium received at contract inception. As a result, the liability for future policy benefits generally would not reflect a present value for future premiums for payout annuities.
+(2) Other consists of activity related to long-term care insurance, variable annuities, traditional life insurance, preneed insurance, and fixed-rate annuity products. Mortality and morbidity risks associated with the long-term care insurance have been ceded to a third-party reinsurer.
+(3)Reinsurance recoverables associated with the liability for future policy benefits is net of the effect of changes in discount rate assumptions of $(284.7) million and $389.9 million for the years ended December 31, 2024 and 2023, respectively.
+The following table summarizes the amount of gross premiums related to traditional and limited-payment contracts recognized in the consolidated statements of operations for the years ended December 31, 2024, 2023, and 2022:
+
+ Gross Premiums
+ Years Ended December 31,
+ 2024 2023 2022
+Payout Annuities $ 3,577,363 $ 4,143,287 $ 2,400,351
+Other 8,943,328 64,493 72,159
+Total Products $ 12,520,691 $ 4,207,780 $ 2,472,510
+
+The following table reflects the weighted-average duration and weighted-average interest rates of the future policy benefit liability as of December 31, 2024 and 2023:
+
+ As of December 31, 2024
+ Payout Annuities Other
+Weighted-Average Interest Rates, Original Discount Rate 3.81 % 4.89 %
+Weighted-Average Interest Rates, Current Discount Rate 5.44 % 5.51 %
+Weighted-Average Liability Duration (Years, Current Rates) 8.45 9.46
+
+ As of December 31, 2023
+ Payout Annuities Other
+Weighted-Average Interest Rates, Original Discount Rate 3.37 % 2.57 %
+Weighted-Average Interest Rates, Current Discount Rate 4.95 % 4.95 %
+Weighted-Average Liability Duration (Years, Current Rates) 8.58 9.03
+
+The following reflects the undiscounted ending balance of expected future gross premiums and expected future benefits and payments for traditional and limited-payment contracts, as of December 31, 2024 and 2023:
+
+ As of December 31, 2024
+ Payout Annuities Other
+Expected Future Benefit Payments, Undiscounted $ 33,415,451 $ 16,509,005
+Expected Future Benefit Payments, Discounted (Original Discount Rate) 22,116,114 9,336,911
+Expected Future Benefit Payments, Discounted (Current Discount Rate) 19,067,478 9,126,824
+
+Expected Future Gross Premiums, Undiscounted 2,072,528
+Expected Future Gross Premiums, Discounted (Original Discount Rate) 1,614,118
+Expected Future Gross Premiums, Discounted (Current Discount Rate) 1,567,542
+
+ As of December 31, 2023
+ Payout Annuities Other
+Expected Future Benefit Payments, Undiscounted $ 29,164,580 $ 832,608
+Expected Future Benefit Payments, Discounted (Original Discount Rate) 19,899,423 689,760
+Expected Future Benefit Payments, Discounted (Current Discount Rate) 17,427,352 604,768
+
+Expected Future Gross Premiums, Undiscounted 377,693
+Expected Future Gross Premiums, Discounted (Original Discount Rate) 317,710
+Expected Future Gross Premiums, Discounted (Current Discount Rate) 262,653
+
+Schedule of Additional Liability, Long-Duration Insurance
+The following tables reflect the additional liability for annuitization, death, or other insurance benefits roll-forward for the years ended December 31, 2024 and 2023:
+
+ Years Ended December 31,
+ 2024 2023
+Balance as of Beginning of Period $ 7,251,266 $ 5,104,810
+Effect of Changes in Cash Flow Assumptions (16,361) 13,773
+
+Effect of Changes in Experience (59,717) (43,775)
+Adjusted Balance as of Beginning of Period 7,175,188 5,074,808
+Issuances 23,401 1,929,571
+Assessments 694,061 495,559
+Benefits Paid (504,520) (399,201)
+Interest 242,080 150,529
+Balance as of End of Period 7,630,210 7,251,266
+Less: Impact of Unrealized Investment Gains and Losses 138,295 121,481
+Less: Reinsurance Recoverable, End of Period 1,586,281 1,434,130
+Balance, End of Period, Net of Reinsurance Recoverable and Impact of Unrealized Investment Gains and Losses $ 5,905,634 $ 5,695,655
+
+The following reflects the amount of gross assessments recognized for the additional liability for annuitization, death, or other insurance benefits in the consolidated statements of operations for the years ended December 31, 2024, 2023, and 2022:
+
+ Gross Assessments
+ Years Ended December 31,
+ 2024 2023 2022
+
+Total Amount Recognized Within Revenue in the Consolidated Statements of Operations $ 710,732 $ 471,957 $ 586,269
+
+The following reflects the weighted average duration and weighted average interest rate for the additional liability for annuitization, death, or other insurance benefits as of December 31, 2024 and 2023:
+
+ As of
+ December 31, 2024 December 31, 2023
+
+Weighted-Average Interest, Current Discount Rate 3.29 % 3.09 %
+Weighted-Average Liability Duration (Years) 26.51 27.64
+
+Schedule of Market Risk Benefit, Activity
+The following table presents the balances of, and changes in, market risk benefits:
+
+ Years Ended
+ December 31, 2024 December 31, 2023
+ Fixed-indexed Annuity Variable- and Other Annuities Total Fixed-indexed Annuity Variable- and Other Annuities Total
+Balance as of Beginning of Period $ 868,268 $ 252,683 $ 1,120,951 $ 548,536 $ 120,322 $ 668,858
+
+Balance as of Beginning of Period, Before Impact of Changes in Instrument-specific Credit Risk $ 790,615 $ 225,594 $ 1,016,209 $ 651,641 $ 150,558 $ 802,199
+Issuances 59,261 (49) 59,212 1,839 (36) 1,803
+Interest 41,965 10,142 52,107 38,739 8,590 47,329
+Attributed Fees Collected 104,938 89,462 194,400 103,961 83,712 187,673
+Benefit Payments (7,240) (7,080) (14,320) (4,366) (1,729) (6,095)
+Effect of Changes in Interest Rates (177,230) (79,171) (256,401) (27,401) 4,464 (22,937)
+Effect of Changes in Equity Markets (18,262) (69,324) (87,586) (23,026) (86,643) (109,669)
+Effect of Actual Experience Different from Assumptions 49,020 (17,322) 31,698 142,453 11,021 153,474
+Effect of Changes in Other Future Expected Assumptions (126,523) (2,145) (128,668) (93,225) 55,657 (37,568)
+Balance as of End of Period Before Impact of Changes in Instrument-Specific Credit Risk 716,544 150,107 866,651 790,615 225,594 1,016,209
+Effect of Changes in Instrument-specific Credit Risk 99,437 33,829 133,266 77,653 27,089 104,742
+Balance as of End of Period 815,981 183,936 999,917 868,268 252,683 1,120,951
+Less: Reinsurance Recoverable as of the End of the Period (11,371) (11,371) (14,214) (14,214)
+Balance as of End of Period, Net of Reinsurance Recoverable $ 815,981 $ 172,565 $ 988,546 $ 868,268 $ 238,469 $ 1,106,737
+
+Net Amount at Risk $ 4,696,606 $ 1,288,267 $ 5,984,873 $ 4,282,995 $ 1,423,763 $ 5,706,758
+Weighted-average Attained Age of Contract holders (Years) 71 70 71 70 69 70
+
+The following reflects the reconciliation of the market risk benefits reflected in the preceding table to the amounts reported in an asset and liability position, respectively, in the consolidated statements of financial condition as of December 31, 2024 and 2023:
+
+ As of December 31, 2024 As of December 31, 2023
+ Asset Liability Net Asset Liability Net
+Fixed-Indexed Annuities $ 2,319 $ 818,300 $ (815,981) $ $ 868,268 $ (868,268)
+Variable- and Other Annuities 183,936 (183,936) 17 252,700 (252,683)
+Total $ 2,319 $ 1,002,236 $ (999,917) $ 17 $ 1,120,968 $ (1,120,951)
+
+Schedule of Separate Account, Liability
+The following table presents the balances of and changes in separate account liabilities:
+
+ December 31, 2024 December 31, 2023
+ Variable Annuities Interest-Sensitive Life Total Variable Annuities Interest-Sensitive Life Total
+Balance as of Beginning of Period $ 3,565,029 $ 541,971 $ 4,107,000 $ 3,627,770 $ 503,024 $ 4,130,794
+Premiums and Deposits 25,846 13,014 38,860 30,669 13,723 44,392
+Surrenders, Withdrawals and Benefit Payments (551,657) (25,219) (576,876) (470,858) (22,207) (493,065)
+Investment Performance 474,335 94,489 568,824 497,887 95,314 593,201
+Other (112,936) (43,812) (156,748) (120,439) (47,883) (168,322)
+Balance as of End of Period $ 3,400,617 $ 580,443 $ 3,981,060 $ 3,565,029 $ 541,971 $ 4,107,000
+
+Cash Surrender Value as of End of Period(1)
+ $ 3,400,617 $ 580,443 $ 3,981,060 $ 3,565,029 $ 541,971 $ 4,107,000
+
+(1)Cash surrender value attributed to the separate accounts does not reflect the impact of surrender charges; surrender charges are attributed to policyholder account balances recorded in the general account.
+
+Schedule of Fair Value, Separate Account Investment
+The following table presents the aggregate fair value of assets, by major investment asset type, supporting separate accounts:
+
+ December 31, 2024 December 31, 2023
+Asset Type:
+Managed Volatility Equity/Fixed Income Blended Fund $ 1,930,973 $ 2,131,149
+Equity 1,685,944 1,596,467
+Fixed Income 146,475 152,398
+Money Market 217,086 226,387
+Alternative 582 599
+Total Assets Supporting Separate Account Liabilities $ 3,981,060 $ 4,107,000
+
+Closed Blocks
+Summarized financial information of Global Atlantic s closed blocks is as follows:
+
+ December 31, 2024 December 31, 2023
+Assets
+Total Investments $ 1,361 $ 1,272
+Cash and Cash Equivalents 9,062 6,332
+Accrued Investment Income 46 46
+Reinsurance Recoverable 940,732 926,035
+Deferred Income Taxes 50,321 42,926
+
+Total Assets 1,001,522 976,611
+Liabilities
+Policy Liabilities 899,732 877,856
+
+Policyholder Dividend Obligation at Fair Value 76,297 77,762
+Policyholder Dividends Payable at Fair Value 9,578 10,240
+Total Policy Liabilities 985,607 965,858
+Accrued Expenses and Other Liabilities 13,639 12,793
+
+Total Liabilities 999,246 978,651
+Excess of Closed Block Liabilities Over Assets Designated to the Closed Blocks and Maximum Future Earnings to be Recognized from Closed Block Assets and Liabilities $ (2,276) $ 2,040
+
+ Years Ended
+ December 31, 2024 December 31, 2023 December 31, 2022
+Revenues
+Premiums and Other Income $ 1,449 $ (911) $ (436)
+Net Investment Expense 332 319 164
+
+Total Revenues 1,781 (592) (272)
+Benefits and Expenses
+Policy Benefits and Claims (929) (2,219) (12,141)
+Other Expenses 44 (13) 251
+Total Benefits and Expenses (885) (2,232) (11,890)
+Net Contribution from the Closed Blocks 2,666 1,640 11,618
+Income Tax (Benefit) Expense (7,367) 861 16,185
+Net Income (Loss) $ 10,033 $ 779 $ (4,567)
+
+Many expenses related to the closed block operations are charged to operations outside the closed blocks; accordingly, the contribution from the closed blocks does not represent the actual profitability of the closed block operations.
+The closed blocks of business represent policies acquired through acquisition, which were valued at fair value as of the acquisition date.
+
+X
+
+- DefinitionPolicyholder Account Balance And Liability For Unpaid Claims And Claims Adjustment Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderAccountBalanceAndLiabilityForUnpaidClaimsAndClaimsAdjustmentExpenseTableTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of present value of total expected payment to policyholder in excess of present value of total expected assessment from application of revised benefit ratio as of contract issue date. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of beginning balance to ending balance for liability for future policy benefit, with separate presentation of expected future net premium and expected future benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitActivityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of beginning balance to ending balance for contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitActivityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of policyholder account balance by range of guaranteed minimum crediting rate and related range of difference between rate being credited to policyholder and respective guaranteed minimum.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of information about policyholder account balance, including, but not limited to change in liability and related cash surrender value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of fair value of asset supporting separate account.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-17
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480109/944-80-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479808/944-20-55-15
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfFairValueOfSeparateAccountsByMajorCategoryOfInvestmentTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of information about separate account liability, including, but not limited to change in liability and related cash surrender value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 18
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-18
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480109/944-80-50-2
+
++ Details
+
+ Name:
+us-gaap_SeparateAccountLiabilityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

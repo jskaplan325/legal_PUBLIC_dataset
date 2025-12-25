@@ -1,0 +1,3584 @@
+EX-101.LAB
+19
+bx-20241231_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+Cover [Abstract]
+
+Document Information [Table]
+
+Document Information [Line Items]
+
+Entity Current Reporting Status
+
+Entity Filer Category
+
+Entity Registrant Name
+
+Entity Interactive Data Current
+
+Entity Common Stock, Shares Outstanding
+
+Entity File Number
+
+Entity Incorporation, State or Country Code
+
+Entity Tax Identification Number
+
+Entity Address, Address Line One
+
+Entity Address, City or Town
+
+Entity Address, Postal Zip Code
+
+City Area Code
+
+Local Phone Number
+
+Entity Shell Company
+
+Entity Small Business
+
+Entity Emerging Growth Company
+
+Title of 12(b) Security
+
+Trading Symbol
+
+Security Exchange Name
+
+Document Type
+
+Entity Address, State or Province
+
+Document Period End Date
+
+Entity Central Index Key
+
+Amendment Flag
+
+Document Fiscal Year Focus
+
+Document Fiscal Period Focus
+
+Current Fiscal Year End Date
+
+Entity Well-known Seasoned Issuer
+
+Entity Voluntary Filers
+
+Entity Public Float
+
+Document Annual Report
+
+Document Transition Report
+
+ICFR Auditor Attestation Flag
+
+Auditor Name
+
+Auditor Firm ID
+
+Auditor Location
+
+Document Financial Statement Error Correction [Flag]
+
+Class of Stock [Axis]
+
+Class of Stock [Domain]
+
+Statement of Financial Position [Abstract]
+
+Statement [Table]
+Statement [Table]
+
+Statement [Line Items]
+Net Assets Related to the Consolidation of Certain Fund Entities
+
+Assets [Abstract]
+Assets
+
+Cash and Cash Equivalents, at Carrying Value
+Cash and Cash Equivalents
+
+Cash Held By Funds And Other
+Cash Held by Blackstone Funds and Other
+
+Cash held by Funds and Other represents cash and cash equivalents held by consolidated Funds and other consolidated entities. Such amounts are not available to fund the general liquidity needs.
+
+Investments
+Investments
+Investments
+Beginning Balance
+Ending Balance
+
+Accounts Receivable, Net
+Accounts Receivable
+
+Other Receivables
+Due from Affiliates
+Due from Affiliates, total
+
+Finite-Lived Intangible Assets, Net
+Intangible Assets, Net
+Intangible Assets, Net
+Balance, Beginning of Year
+Balance, End of Year
+
+Goodwill
+Goodwill
+Goodwill, carrying value
+
+Other Assets
+Other Assets
+Total Other Assets
+
+Assets
+Total Assets
+Assets
+VIE Assets
+Total Assets
+
+Operating lease right of use asset
+Right-of-Use Assets
+
+Deferred Income Tax Assets, Net
+Deferred Tax Assets
+
+Other Receivable, after Allowance for Credit Loss, Related Party, Type [Extensible Enumeration]
+
+Liabilities and Equity [Abstract]
+Liabilities and Equity
+
+Stockholders' Equity Attributable to Parent [Abstract]
+Stockholders' Equity of Blackstone Inc.
+
+Accumulated Other Comprehensive Income (Loss), Net of Tax
+Accumulated Other Comprehensive Loss
+
+Common Stock, Value, Issued
+Common Stock, $0.00001 par value, 90 billion shares authorized, (731,925,965 shares issued and outstanding as of December 31, 2024; 719,358,114 shares issued and outstanding as of December 31, 2023)
+
+Additional Paid in Capital, Common Stock
+Additional Paid-in-Capital
+
+Retained Earnings (Accumulated Deficit)
+Retained Earnings
+
+Stockholders' Equity Attributable to Parent
+Total Stockholders' Equity of Blackstone Inc.
+
+Preferred Stock, Value, Issued
+Preferred Stock, Value, Issued
+
+Loans Payable
+Loans Payable
+Loans Payable CLO Notes Payable
+
+Other Liabilities
+Due to Affiliates
+Due to Affiliates, total
+
+Employee-related Liabilities
+Accrued Compensation and Benefits
+
+Accounts Payable and Accrued Liabilities
+Accounts Payable, Accrued Expenses and Other Liabilities
+
+Liabilities
+Total Liabilities
+Liabilities
+VIE Liabilities
+
+Commitments and Contingencies
+Commitments and Contingencies
+
+Redeemable Noncontrolling Interest, Equity, Carrying Amount
+Redeemable Non-Controlling Interests in Consolidated Entities
+Beginning Balance
+Ending Balance
+
+Noncontrolling Interest in Operating Partnerships
+Non-Controlling Interests in Blackstone Holdings
+
+Liabilities and Equity
+Total Liabilities and Equity
+
+Operating Lease, Liability
+Operating Lease Liabilities
+Present Value of Operating Lease Liabilities
+
+Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest
+Total Equity
+Equity
+
+Nonredeemable Noncontrolling Interest
+Non-Controlling Interests in Consolidated Entities
+
+Series One PreferredStock [Member]
+Series I Preferred Stock
+Series I Preferred Stock [Member]
+Series I Preferred Stock
+
+Series one preferred stock [Member].
+
+Series Two Preferred Stock [Member]
+Series II Preferred Stock
+Series II Preferred Stock [Member]
+Series II Preferred Stock
+
+Series two preferred stock [Member].
+
+Related Party [Axis]
+Related Party [Axis]
+
+Related Party [Domain]
+Related Party [Domain]
+
+Balance Sheet Location One [Axis]
+Balance Sheet Location [Axis]
+
+Balance sheet location one.
+
+Balance Sheet Location One [Domain]
+Balance Sheet Location [Domain]
+
+Balance sheet location one.
+
+Cash Held by Funds and Other [Member]
+Cash Held by Funds and Other
+
+Cash Held by Funds and Other [Member]
+
+Due from Affiliates [Member]
+Due from Affiliates
+
+Due from Affiliates [Member]
+
+Other Assets [Member]
+Other Assets
+
+Due to Affiliates [Member]
+Due to Affiliates
+
+Due to Affiliates [Member]
+
+Accounts Payable and Accrued Liabilities [Member]
+Accounts Payable, Accrued Expenses and Other Liabilities
+
+Asset Class [Axis]
+Asset Class [Axis]
+
+Asset Class [Domain]
+Asset Class [Domain]
+
+Investments [Member]
+Investments
+
+Accounts Receivable [Member]
+Accounts Receivable
+
+Liability Class [Axis]
+Liability Class [Axis]
+
+Fair Value by Liability Class [Domain]
+Fair Value by Liability Class [Domain]
+
+Option Indexed to Issuer's Equity, Type [Axis]
+Investments Issuer [Axis]
+
+Option Indexed to Issuer's Equity, Type [Domain]
+Investments Issuer [Domain]
+
+Consolidated Blackstone Funds [Member]
+Consolidated Blackstone Funds
+
+Consolidated Blackstone Funds [Member]
+
+Investment Type [Axis]
+Investment Type [Axis]
+
+Investments [Domain]
+Investments [Domain]
+
+Long-term Debt, Type [Axis]
+Long-term Debt, Type [Axis]
+
+Long-term Debt, Type [Domain]
+Long-term Debt, Type [Domain]
+
+Loans Payable [Member]
+Loans Payable
+
+Common Stock, Par or Stated Value Per Share
+Common stock par value
+
+Common Stock, Shares Authorized
+Common shares authorized
+
+Common Stock, Shares, Issued
+Common shares issued
+
+Common Stock, Shares, Outstanding
+Common shares outstanding
+
+Preferred Stock, Par or Stated Value Per Share
+Preferred shares par value
+Preferred shares par value
+
+Preferred Stock, Shares Authorized
+Preferred shares authorized
+Preferred shares authorized
+
+Preferred Stock, Shares Issued
+Preferred shares issued
+Preferred shares issued
+
+Preferred Stock, Shares Outstanding
+Preferred shares outstanding
+Preferred shares outstanding
+
+Consolidated Entities [Axis]
+Consolidated Entities [Axis]
+
+Consolidated Entities [Domain]
+Consolidated Entities [Domain]
+
+Variable Interest Entity, Primary Beneficiary [Member]
+Variable Interest Entity, Primary Beneficiary
+
+Pledged Status [Axis]
+
+Pledged Status [Domain]
+
+Income Statement [Abstract]
+
+Product and Service [Axis]
+Product and Service [Axis]
+
+Product and Service [Domain]
+Product and Service [Domain]
+
+Investment Advice [Member]
+Management and Advisory Fees, Net
+
+Investment Performance [Member]
+Incentive Fees
+
+Costs and Expenses [Abstract]
+Expenses
+
+Performance Allocations Compensation [Abstract]
+Performance Allocations Compensation
+
+Performance allocations compensation.
+
+Performance Allocations Compensation - Realized
+Realized
+Realized Performance Allocations Compensation
+
+Performance allocations compensation - realized.
+
+Performance Allocations Compensation - Unrealized
+Unrealized
+
+Performance allocations compensation - unrealized.
+
+Salary and Wage, NonOfficer, Excluding Cost of Good and Service Sold
+Compensation
+
+Incentive Fee Expense
+Incentive Fee Compensation
+
+Labor and Related Expense
+Total Compensation and Benefits
+
+General and Administrative Expense
+General, Administrative and Other
+
+Interest Expense
+Interest Expense
+
+Fund Expenses Consolidated Funds
+Fund Expenses
+
+Fund Expenses relating to the Partnership's consolidated noncontrolling interests in the Funds.
+
+Costs and Expenses
+Total Expenses
+Total Expenses
+
+Earnings Per Share [Abstract]
+Net Income Per Share of Common Stock
+
+Earnings Per Share, Basic
+Basic
+Net Income Per Share of Common Stock, Basic
+
+Earnings Per Share, Diluted
+Diluted
+Net Income Per Share of Common Stock, Diluted
+
+Other Nonoperating Income (Expense) [Abstract]
+Other Income (Loss)
+
+Reduction of tax receivable agreement liability
+Change in Tax Receivable Agreement Liability
+Reduction of Tax Receivable Agreement Liability
+
+Reduction of tax receivable agreement liability.
+
+Other Nonoperating Gains (Losses)
+Net Gains (Losses) from Fund Investment Activities
+Other Income (Loss) Net Gains (Losses) from Fund Investment Activities
+
+Other Nonoperating Income (Expense)
+Total Other Income (Loss)
+Total Other Income
+
+Revenues [Abstract]
+Revenues
+
+Investment Income, Net [Abstract]
+Investment Income (Loss)
+
+Performance Allocations [Abstract]
+Performance Allocations
+
+Performance allocations.
+
+Performance Allocations, Realized
+Realized
+Investment Income Realized Performance Allocations
+Investment Income Realized Performance Allocations
+
+Performance allocations, realized.
+
+Performance Allocations, Unrealized
+Unrealized
+
+Performance allocations, unrealized.
+
+Principal Investments [Abstract]
+Principal Investments
+
+Principal Investments [Abstract]
+
+Principal Investments, Realized
+Realized
+Investment Income Realized
+
+Principal investments, realized.
+
+Principal Investments, Unrealized
+Unrealized
+Less: Unrealized Principal Investment (Income) Loss
+Less: Unrealized Principal Investment (Income) Loss
+
+Principal investments, unrealized.
+
+Gain (Loss) on Investments
+Total Investment Income
+Realized and Net Change in Unrealized Gains (Losses) from Consolidated Blackstone Funds
+Total realized and net change in unrealized gains (losses)
+
+Revenue from Contract with Customer, Excluding Assessed Tax
+Revenues
+Revenue from contract with customer, excluding assessed tax
+
+Investment Income, Interest and Dividend
+Interest and Dividend Revenue
+
+Other Operating Income (Expense), Net
+Other
+Total Segment Other Operating Expenses
+
+Revenues
+Total Revenues
+Total Revenues
+
+Weighted Average Number of Shares Outstanding, Diluted [Abstract]
+Weighted-Average Shares of Common Stock Outstanding
+
+Weighted Average Number of Shares Outstanding, Basic
+Basic
+Weighted-Average Shares of Common Stock Outstanding, Basic
+
+Weighted Average Number of Shares Outstanding, Diluted
+Diluted
+Weighted-Average Shares of Common Stock Outstanding, Diluted
+
+Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest
+Income Before Provision for Taxes
+Income Before Provision (Benefit) for Taxes
+Income Before Provision for Taxes
+Total GAAP Income Before Provision for Taxes
+
+Income Tax Expense (Benefit)
+Provision for Taxes
+Provision for Taxes
+Provision for Taxes
+
+Net Income (Loss), Including Portion Attributable to Noncontrolling Interest
+Net Income
+Net Income
+Net Income (Loss)
+
+Net Income (Loss) Attributable to Redeemable Noncontrolling Interest
+Net Loss Attributable to Redeemable Non-Controlling Interests in Consolidated Entities
+Net Income (Loss)
+
+Income (Loss) Attributable to Noncontrolling Interest, before Tax
+Net Income Attributable to Non-Controlling Interests in Consolidated Entities
+
+Net Income Loss Attributable To Non Controlling Interests In Partnerships
+Net Income Attributable to Non-Controlling Interests in Blackstone Holdings
+
+Net Income Loss Attributable To Non Controlling Interests In Partnerships
+
+Net Income Attributable to Blackstone Inc.
+Net Income Attributable to Blackstone Inc., Basic and Diluted
+
+Statement of Comprehensive Income [Abstract]
+
+Legal Entity [Axis]
+Legal Entity [Axis]
+
+Entity [Domain]
+Entity [Domain]
+
+Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Gain (Loss) Arising During Period, Net of Tax
+Other Comprehensive Income (Loss) - Currency Translation Adjustment
+
+Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest
+Comprehensive Income
+
+Comprehensive Income Attributable To Redeemable Non Controlling Interests In Consolidated Entities
+Comprehensive Loss Attributable to Redeemable Non-Controlling Interests in Consolidated Entities
+
+Comprehensive Income Attributable To Redeemable Non-Controlling Interests In Consolidated Entities
+
+Comprehensive Income Attributable To Non Controlling Interests In Partnerships
+Comprehensive Income Attributable to Non-Controlling Interests in Blackstone Holdings
+
+Comprehensive Income Attributable To Non Controlling Interests In Partnerships
+
+Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest
+Comprehensive Income Attributable to Non-Controlling Interests
+
+Comprehensive Income (Loss), Net of Tax, Attributable to Parent
+Comprehensive Income Attributable to Blackstone Inc.
+
+Comprehensive Income Attributable to Non-Controlling Interests in Consolidated Entities
+
+Comprehensive income attributable to non controlling interests In consolidated entities.
+
+Statement of Stockholders' Equity [Abstract]
+
+Consolidated Entities [Member]
+Consolidated Entities
+
+Blackstone Inc [Member]
+Blackstone Holdings
+
+Blackstone Inc. [Member].
+
+Equity Components [Axis]
+Equity Components [Axis]
+
+Equity Component [Domain]
+Equity Component [Domain]
+
+Capital Units [Member]
+Common Units
+
+AOCI Attributable to Parent [Member]
+Accumulated Other Comprehensive Income (Loss)
+
+Parent [Member]
+Parent
+
+Noncontrolling Interest [Member]
+Noncontrolling Interest
+
+Retained Earnings [Member]
+Retained Earnings (Deficit)
+
+Additional Paid-in Capital [Member]
+Additional Paid-in Capital
+
+Common Stock [Member]
+Common Stock
+
+Partners' Capital, Including Portion Attributable to Noncontrolling Interest
+Beginning Balance
+Ending Balance
+
+Partners' Capital Account, Units
+Beginning Balance, Units
+Ending Balance, Units
+
+Net Income (Loss), Including Portion Attributable to Nonredeemable Noncontrolling Interest
+Net Income (Loss)
+
+Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax
+Currency Translation Adjustment
+
+Partners' Capital Account, Contributions
+Capital Contributions
+
+Partners' Capital Account, Distributions
+Capital Distributions
+
+Noncontrolling Interest Increase (Decrease) from Deconsolidation
+Transfer and Repurchase of Non-Controlling Interests in Consolidated Entities
+
+Noncontrolling Interest Increase (Decrease) From Deconsolidation.
+
+Deferred Tax Effects Resulting From Acquisition Of Ownership Interests From Non Controlling Interest Holders
+Deferred Tax Effects Resulting from Acquisition of Ownership Interests from Non-Controlling Interest Holders
+
+Deferred Tax Effects Resulting From Acquisition Of Ownership Interests From Non Controlling Interest Holders.
+
+Partners' Capital Account, Unit-based Compensation
+Equity-Based Compensation
+
+Change Of Parent Ownership Interest
+Change in Blackstone Inc.'s Ownership Interest
+
+Change of Parent Ownership Interest
+
+Stock Issued During Period, Value, Conversion of Units
+Conversion of Blackstone Holdings Partnership Units to Shares of Common Stock
+
+Stock Issued During Period, Shares, Conversion of Units
+Conversion of Blackstone Holdings Partnership Units to Shares of Common Stock, Units
+
+Noncontrolling Interest, Decrease from Redemptions or Purchase of Interests
+Capital Distributions
+
+Partners' Capital Account, Redemptions
+Net Delivery of Vested Blackstone Holdings Partnership Units and Shares of Common Stock
+
+Partners' Capital Account, Units, Redeemed
+Net Delivery of Vested Blackstone Holdings Partnership Units and Shares of Common Stock, Units
+
+Partners' Capital Account, Treasury Units, Purchased
+Repurchase of Shares of Common Stock and Blackstone Holdings Partnership Units
+
+Partners' Capital Account, Units, Treasury Units Purchased
+Repurchase of Shares of Common Stock and Blackstone Holdings Partnership Units, Units
+
+Noncontrolling Interest Transfer From Subsidiary
+Transfer and Repurchase of Non-Controlling Interests in Consolidated Entities
+
+Noncontrolling interest transfer from subsidiary.
+
+Deferred Tax Effects on Equity Transaction
+
+Deferred tax effects on equity transaction.
+
+Noncontrolling Interest Attributable to Consolidation of Investment Fund Entities
+Transfer In Due to Consolidation of Fund Entities
+
+Noncontrolling interest attributable to consolidation of investment fund entities.
+
+Transfer In Due To Consolidation Of Fund Entities
+Transfer In Due to Consolidation of Fund Entities
+
+Transfer in due to consolidation of fund entities.
+
+Temporary Equity, Foreign Currency Translation Adjustments
+Currency Translation Adjustment
+
+Noncontrolling Interest, Increase from Sale of Parent Equity Interest
+Capital Contributions
+
+Conversion Of Stocks
+Conversion of stocks
+
+A unique description of a noncash or part noncash stock conversion. The description would be expected to include sufficient information to provide an understanding of the nature and purpose of the conversion. Noncash is defined as transactions during a period that do not result in cash receipts or cash payments in the period. "Part noncash" refers to that portion of the transaction not resulting in cash receipts or cash payments in the period.
+
+Statement of Cash Flows [Abstract]
+
+Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect [Abstract]
+Cash and Cash Equivalents and Cash Held by Blackstone Funds and Other
+
+Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect
+Net Increase (Decrease)
+
+Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
+Beginning of Period
+End of Period
+Cash and Cash Equivalents and Cash Held by Blackstone Funds and Other
+
+Net Cash Provided by (Used in) Financing Activities [Abstract]
+Financing Activities
+
+Payments of Ordinary Dividends, Noncontrolling Interest
+Distributions to Non-Controlling Interest Holders in Consolidated Entities
+
+Proceeds from Noncontrolling Interests
+Contributions from Non-Controlling Interest Holders in Consolidated Entities
+
+Payments Of Tax Receivable Agreement
+Payments Under Tax Receivable Agreement
+
+Payments Of Tax Receivable Agreement
+
+Net Settlement Of Vested Common Units And Repurchase Of Common And Partnership Units
+Net Settlement of Vested Common Stock and Repurchase of Common Stock
+
+Net settlement of vested common stock and repurchase of common stock and partnership units.
+
+Proceeds from Issuance of Long-term Debt
+Proceeds from Loans Payable
+
+Repayments of Long-term Debt
+Repayment and Repurchase of Loans Payable
+
+Payments of Ordinary Dividends, Common Stock
+Dividends/Distributions to Stockholders and Unitholders
+
+Net Cash Provided by (Used in) Financing Activities
+Net Cash Used in Financing Activities
+
+Net Cash Provided by (Used in) Investing Activities [Abstract]
+Investing Activities
+
+Payments to Acquire Property, Plant, and Equipment
+Purchase of Furniture, Equipment and Leasehold Improvements
+
+Payments to Acquire Businesses, Net of Cash Acquired
+Net Cash Paid for Acquisitions, Net of Cash Acquired
+
+Net Cash Provided by (Used in) Investing Activities
+Net Cash Used in Investing Activities
+
+Net Cash Provided by (Used in) Operating Activities [Abstract]
+Operating Activities
+
+Adjustments to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities [Abstract]
+Adjustments to Reconcile Net Income to Net Cash Provided by Operating Activities
+
+Net Realized Gains Losses On Investments Funds Related
+Net Realized Gains on Investments
+
+Net Realized (Gains) Losses on Investments Funds Related.
+
+Unrealized Gain (Loss) on Investments
+Changes in Unrealized (Gains) Losses on Investments
+
+Non-Cash Performance Allocations
+Non-Cash Performance Allocations
+
+Non-cash performance allocations.
+
+Non Cash Performance Allocations and Incentive Fee Compensation
+Non-Cash Performance Allocations and Incentive Fee Compensation
+
+Non-cash performance allocations and incentive fee compensation.
+
+Share-based Compensation
+Equity-Based Compensation Expense
+Compensation expense in relation to equity-based awards
+
+Amortization of Intangible Assets
+Amortization of Intangibles
+Amortization Expense
+
+Other Noncash Income (Expense)
+Other Non-Cash Amounts Included in Net Income
+
+Increase (Decrease) in Operating Capital [Abstract]
+Cash Flows Due to Changes in Operating Assets and Liabilities
+
+Increase (Decrease) in Accounts Receivable
+Accounts Receivable
+
+Increase (Decrease) Due from Affiliates
+Due from Affiliates
+
+Increase (Decrease) in Other Operating Assets
+Other Assets
+
+Increase (Decrease) in Accrued Salaries
+Accrued Compensation and Benefits
+
+Increase (Decrease) in Accounts Payable and Accrued Liabilities
+Accounts Payable, Accrued Expenses and Other Liabilities
+
+Increase (Decrease) in Due to Affiliates
+Due to Affiliates
+
+Decrease in Financial Instruments Used in Operating Activities
+Investments Purchased
+
+Decrease in Financial Instruments Used in Operating Activities
+
+Increase in Financial Instruments Used in Operating Activities
+Cash Proceeds from Sale of Investments
+
+Increase in Financial Instruments Used in Operating Activities
+
+Increase Decrease In Cash Of Discontinued Operations
+Cash Relinquished with Deconsolidation of Fund Entities
+
+Increase Decrease In Cash Of Discontinued Operations
+
+Cash Acquired With Consolidation Of Fund Entity
+
+Cash acquired with consolidation of fund entities.
+
+Net Cash Provided by (Used in) Operating Activities
+Net Cash Provided by Operating Activities
+
+Cash Flow, Noncash Investing and Financing Activities Disclosure [Abstract]
+Supplemental Disclosure of Non-Cash Investing and Financing Activities
+
+Non-Cash Contributions from Non-Controlling Interest Holders
+Non-Cash Contributions from Non-Controlling Interest Holders
+
+Non-Cash Contributions from Non-Controlling Interest Holders
+
+Non-Cash Distributions to Non-Controlling Interest Holders
+Non-Cash Distributions to Non-Controlling Interest Holders
+
+Non-Cash Distributions to Non-Controlling Interest Holders
+
+Debt Issue Costs Incurred But Not Yet Paid
+Notes Issuance Costs
+
+Debt Issue Costs Incurred But Not Yet Paid
+
+Transfer Of Interests To Non Controlling Interest Holders
+Transfer of Interests to Non-Controlling Interest Holders
+
+Transfer of Interests to Non-controlling Interest Holders
+
+Net Settlement Of Vested Common Stock
+Net Settlement of Vested Common Stock
+
+Net settlement of vested common stock.
+
+Change in Due to Affiliates Related to the Impact of Conversions on Tax Receivable Agreements
+Change in Due to Affiliates Related to the Impact of Conversions on Tax Receivable Agreements
+
+Change in due to affiliates related to the Impact of conversions on tax receivable agreements.
+
+Deferred Tax Effects From Equity Transaction
+Deferred Tax Asset Effects from Equity Transactions
+
+Deferred tax asset effects from equity transactions.
+
+Supplemental Cash Flow Information [Abstract]
+Supplemental Disclosure of Cash Flows Information
+
+Interest Paid, Excluding Capitalized Interest, Operating Activities
+Payments for Interest
+
+Income Taxes Paid
+Payments for Income Taxes
+
+Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents
+Effect of Exchange Rate Changes on Cash and Cash Equivalents and Cash Held by Blackstone Funds and Other
+
+Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+Nature of Operations [Text Block]
+Organization
+
+Accounting Policies [Abstract]
+
+Significant Accounting Policies [Text Block]
+Summary of Significant Accounting Policies
+
+Goodwill and Intangible Assets Disclosure [Abstract]
+
+Goodwill and Intangible Assets Disclosure [Text Block]
+Goodwill and Intangible Assets
+
+Schedule of Investments [Abstract]
+
+Investment Holdings [Text Block]
+Investments
+
+Derivative Instruments and Hedging Activities Disclosure [Abstract]
+
+Derivative Instruments and Hedging Activities Disclosure [Text Block]
+Derivative Financial Instruments
+
+Fair Value Disclosures [Abstract]
+
+Fair Value, Option [Text Block]
+Fair Value Option
+
+Fair Value Disclosures [Text Block]
+Fair Value Measurements of Financial Instruments
+
+Variable Interest Entity Disclosure [Text Block]
+Variable Interest Entities
+
+Brokers and Dealers [Abstract]
+
+Repurchase Agreements, Resale Agreements, Securities Borrowed, and Securities Loaned Disclosure [Text Block]
+Repurchase Agreements
+
+Text Block [Abstract]
+
+Other Assets Accounts Payable Accrued Expenses Other Liabilities Disclosure [Text Block]
+Other Assets
+
+Other Assets Accounts Payable Accrued Expenses Other Liabilities Disclosure
+
+Offsetting Of Assets And Liabilities Disclosure [Text Block]
+Offsetting of Assets and Liabilities
+
+The entire disclosure for offsetting the entity's assets and liabilities, including but not limited to the gross and net amounts presented in the statement of financial condition and amounts not offset in the statement of financial condition.
+
+Debt Disclosure [Abstract]
+
+Debt Disclosure [Text Block]
+Borrowings
+
+Leases [Abstract]
+
+Lessee, Operating Leases [Text Block]
+Leases
+
+Revision of Prior Period [Axis]
+
+Revision of Prior Period [Domain]
+
+Income Tax Disclosure [Abstract]
+
+Income Tax Disclosure [Text Block]
+Income Taxes
+
+Earnings Per Share [Text Block]
+Earnings Per Share and Stockholders' Equity
+
+Disclosure of Compensation Related Costs, Share-based Payments [Abstract]
+
+Disclosure of Compensation Related Costs, Share-based Payments [Text Block]
+Equity-Based Compensation
+
+Related Party Transactions [Abstract]
+
+Related Party Transactions Disclosure [Text Block]
+Related Party Transactions
+
+Commitments and Contingencies Disclosure [Abstract]
+
+Commitments and Contingencies Disclosure [Text Block]
+Commitments and Contingencies
+
+Segment Reporting [Abstract]
+
+Segment Reporting Disclosure [Text Block]
+Segment Reporting
+
+Subsequent Events [Abstract]
+
+Subsequent Events [Text Block]
+Subsequent Events
+
+Basis of Accounting, Policy [Policy Text Block]
+Basis of Presentation
+
+Use of Estimates, Policy [Policy Text Block]
+Use of Estimates
+
+Consolidation, Policy [Policy Text Block]
+Consolidation
+
+Revenue Recognition, Policy [Policy Text Block]
+Revenue Recognition
+
+Fair Value of Financial Instruments, Policy [Policy Text Block]
+Fair Value of Financial Instruments
+
+Investment, Policy [Policy Text Block]
+Investments, at Fair Value
+
+Equity Method Investments [Policy Text Block]
+Equity Method Investments
+
+Cash and Cash Equivalents, Policy [Policy Text Block]
+Cash and Cash Equivalents
+
+Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, Policy [Policy Text Block]
+Cash Held by Blackstone Funds and Other
+
+Receivables, Trade And Other Accounts Receivable, Allowance For Doubtful Accounts [Policy Text Block]
+Accounts Receivable and Due from Affiliates
+
+Receivables, Trade And Other Accounts Receivable, Allowance For Doubtful Accounts
+
+Goodwill and Intangible Assets, Policy [Policy Text Block]
+Intangibles and Goodwill
+
+Property, Plant and Equipment, Policy [Policy Text Block]
+Furniture, Equipment and Leasehold Improvements
+
+Foreign Currency Transactions and Translations Policy [Policy Text Block]
+Foreign Currency
+
+Comprehensive Income, Policy [Policy Text Block]
+Comprehensive Income
+
+Non Controlling Interests In Consolidated Entities Policy [Text Block]
+Non-Controlling Interests in Consolidated Entities
+
+Non Controlling Interests In Consolidated Entities
+
+Redeemable Noncontrolling Interest [Policy Text Block]
+Redeemable Non-Controlling Interests in Consolidated Entities
+
+Redeemable Noncontrolling Interest [Policy Text Block]
+
+Noncontrolling Interest Policy [Policy Text Block]
+Non-Controlling Interests in Blackstone Holdings
+
+Noncontrolling Interest Policy
+
+Compensation Related Costs, Policy [Policy Text Block]
+Compensation and Benefits
+
+Other Income [Policy Text Block]
+Other Income
+
+Other Income Policy
+
+Income Tax, Policy [Policy Text Block]
+Income Taxes
+
+Earnings Per Share, Policy [Policy Text Block]
+Net Income (Loss) Per Share of Common Stock
+
+Repurchase and Resale Agreements Policy [Policy Text Block]
+Reverse Repurchase and Repurchase Agreements
+
+Investments Sold Not Yet Purchased Policy [Text Block]
+Securities Sold, Not Yet Purchased
+
+Securities Sold, Not Yet Purchased, Policy
+
+Derivatives, Policy [Policy Text Block]
+Derivative Instruments
+
+Affiliates Policy [Text Block]
+Affiliates
+
+Affiliates
+
+Dividends [Policy Text Block]
+Dividends
+
+Dividends.
+
+New Accounting Pronouncements, Policy [Policy Text Block]
+Recent Accounting Developments
+
+Lessee, Leases [Policy Text Block]
+Leases
+
+Schedule of Finite-Lived Intangible Assets [Table Text Block]
+Intangible Assets, Net
+
+Schedule Of Finite Lived Intangibles Assets Roll Forward [Table Text Block]
+Changes in Partnership's Intangible Assets, Net
+
+Schedule of finite lived intangibles assets roll forward.
+
+Investment [Table Text Block]
+Investments
+
+Schedule Of Reconciliation Of Realized And Net Change In Unrealized Gains From Funds [Text Block]
+Reconciliation of Realized and Net Change in Unrealized Gains (Losses) to Other Income (Loss) - Net Gains (Losses) from Fund Investment Activities in Consolidated Statements of Operations
+
+Schedule of Realized and Net Change in Unrealized Gains on Investments From Funds
+
+Equity Method Investments [Table Text Block]
+Summarized Financial Information of Partnership's Equity Method Investments
+
+Schedule Of Performance Fees [Text Block]
+Performance Fees Allocated to Funds
+
+Schedule of Performance Fees
+
+Schedule Of Realized And Net Change In Unrealized Gain Losses On Investment Held By Treasury Cash Management Strategies [Text Block]
+Realized and Net Change in Unrealized Gains (Losses) on Investments
+
+Schedule of realized and net changes in unrealized gains (losses) on investments held by Treasury Cash Management Strategies
+
+Schedule Of Realized And Net Change In Unrealized Gains Losses On Other Investments [Text Block]
+Realized and Net Change in Unrealized Gains (Losses) in Other Investments
+
+Schedule of Realized And Net Change In Unrealized Gains (Losses) on Other Investments
+
+Schedule of Derivative Instruments [Table Text Block]
+Summary of Aggregate Notional Amount and Fair Value of Derivative Financial Instruments
+
+Derivative Instruments, Gain (Loss) [Table Text Block]
+Summary of Impact of Derivative Financial Instruments to Consolidated Statements of Operations
+
+Fair Value Option, Disclosures [Table Text Block]
+Summary of Financial Instruments for Which Fair Value Option Has Been Elected
+
+Schedule Of Realized And Net Change In Unrealized Gains Losses On Financial Instruments Table [Text Block]
+Realized and Net Change in Unrealized Gains (Losses) on Financial Instruments on Financial Instruments on Which Fair Value Option was Elected
+
+Schedule of Realized and Net Change in Unrealized Gains (Losses) On Financial Instruments
+
+Fair value options qualitative disclosures related to election [Text Block]
+Information for Financial Instruments on Which Fair Value Option was Elected
+
+Fair value options qualitative disclosures related to election.
+
+Fair Value Measurements, Recurring and Nonrecurring [Table Text Block]
+Financial Assets and Liabilities at Fair Value
+
+Fair Value Measurement Inputs and Valuation Techniques [Table Text Block]
+Summary of Quantitative Inputs and Assumptions for Items Categorized in Level III of Fair Value Hierarchy
+
+Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds Remaining Unfunded Commitments and Ability to Redeem Such Investments [Table Text Block]
+Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds Remaining Unfunded Commitments and Ability to Redeem Such Investments
+
+Summary of fair value by strategy type alongside consolidated funds of hedge funds remaining unfunded commitments and ability to redeem such investments.
+
+Fair Value Asset Liability Measured On A Recurring Basis Based On Unobservable Input [Table Text Block]
+Summary of Changes in Financial Assets and Liabilities Measured at Fair Value for Which Level III Inputs Were Used
+
+Fair value asset liability measured on a recurring basis based on unobservable input.
+
+Schedule of Variable Interest Entities [Table Text Block]
+Maximum Exposure to Loss Relating to Non-Consolidated VIEs
+
+Schedule of Repurchase Agreements [Table Text Block]
+Schedule of Repurchase Agreements Obligation by Type of Collateral Pledged
+
+Schedule of Other Assets [Table Text Block]
+Other Assets
+
+Offsetting Assets [Table Text Block]
+Offsetting of Assets
+
+Offsetting Liabilities [Table Text Block]
+Offsetting of Liabilities
+
+Partnerships Credit Facilities Table [Text Block]
+Partnership's Credit Facilities
+
+Partnerships credit facilities
+
+Schedule of Carrying Values and Estimated Fair Values of Debt Instruments [Table Text Block]
+Carrying Value and Fair Value of Blackstone Issued Notes
+
+Schedule of Maturities of Long-term Debt [Table Text Block]
+Scheduled Principal Payments for Borrowings
+
+Lease, Cost [Table Text Block]
+Schedule of components of lease expense
+
+Schedule of Supplemental Cash Flow Information Related to Leases
+Schedule of Supplemental cash flow information related to leases
+
+The amount of Schedule of supplemental cash flow information related to leases
+
+Lessee, Operating Lease, Liability, Maturity [Table Text Block]
+Schedule of Undiscounted cash flows on an annual basis for Operating Lease Liabilities
+
+Schedule of Income before Income Tax, Domestic and Foreign [Table Text Block]
+Income Before Provision for Taxes
+
+Schedule of Components of Income Tax Expense (Benefit) [Table Text Block]
+Provision (Benefit) for Income Taxes
+
+Tax Position Summary Table [Text Block]
+Summary of Blackstone's Tax Position
+
+Tax Position Summary
+
+Schedule of Effective Income Tax Rate Reconciliation [Table Text Block]
+Reconciliations of Effective Income Tax Rate to Federal Statutory Tax Rate
+
+Reconciliation Of Amounts Of Unrecognized Tax Benefits Table [Text Block]
+Summary of Tax Effects of Temporary Differences
+
+Reconciliation Of Amounts Of Unrecognized Tax Benefits Table [Text Block]
+
+Schedule of Unrecognized Tax Benefits Roll Forward [Table Text Block]
+Blackstone's Unrecognized Tax Benefits Excluding Related Interest and Penalties
+
+Summary of Income Tax Examinations [Table Text Block]
+Schedule of Major Filing Jurisdictions and Open Period Subject to Examinations
+
+Schedule of Earnings Per Share, Basic and Diluted [Table Text Block]
+Basic and Diluted Net Income Per Common Stock
+
+Schedule of Antidilutive Securities Excluded from Computation of Earnings Per Share [Table Text Block]
+Summary of Anti-Dilutive Securities
+
+Schedule Of Shares Eligible For Dividends And Distribution Table [Table Text Block]
+Schedule of Shares Eligible For Dividends and Distribution
+
+Schedule Of Shares Eligible For Dividends And Distribution Table
+
+Schedule of Nonvested Share Activity [Table Text Block]
+Summary of Status of Partnership's Unvested Equity-Based Awards
+
+Schedule Of Unvested Units After Expected Forfeitures [Text Block]
+Unvested Shares and Units, After Expected Forfeitures
+
+Schedule Of Unvested Units After Expected Forfeitures
+
+Schedule of Related Party Transactions [Table Text Block]
+Due from Affiliates and Due to Affiliates
+
+Schedule of Loss Contingencies by Contingency [Table Text Block]
+Clawback Obligations by Segment
+
+Schedule of Segment Reporting Information, by Segment [Table Text Block]
+Financial Data of Segments
+
+Reconciliation of Operating Profit (Loss) from Segments to Consolidated [Table Text Block]
+Reconciliation of Total Segments to Income (Loss) Before Provision for Taxes
+
+Reconciliation of Assets from Segment to Consolidated [Table Text Block]
+Reconciliation of Total Segments to Reported on the Consolidated Statements of Operations
+
+Revenue from External Customers by Geographic Areas [Table Text Block]
+Summary of Revenue from External Customers by Geographic Areas
+
+Organization [Table]
+Organization [Table]
+
+Organization [Table].
+
+Organization [Line Items]
+Organization [Line Items]
+
+Organization [Line Items]
+
+Number of Operating Segments
+Number of business segments
+
+Number Of Company Founders Managing Partnership
+Number of Blackstone founders managing the Partnership
+
+Number Of Company Founders Managing Partnership
+
+Assets and Liabilities Eliminated upon Consolidation [Abstract]
+
+Assets and Liabilities Eliminated upon Consolidation [Abstract]
+
+Summary Of Significant Accounting Policies [Table]
+Summary Of Significant Accounting Policies [Table]
+
+Summary Of Significant Accounting Policies [Table]
+
+Adjustments for New Accounting Pronouncements [Axis]
+Adjustments for New Accounting Pronouncements [Axis]
+
+Type of Adoption [Domain]
+Type of Adoption [Domain]
+
+Income Statement Location [Axis]
+Income Statement Location [Axis]
+
+Income Statement Location [Domain]
+Income Statement Location [Domain]
+
+Property, Plant and Equipment, Type [Axis]
+Property, Plant and Equipment, Type [Axis]
+
+Property, Plant and Equipment, Type [Domain]
+Property, Plant and Equipment, Type [Domain]
+
+Leasehold Improvements [Member]
+Leasehold Improvements
+
+Furniture Fittings And Other Assets [Member]
+
+Furniture fittings and other assets.
+
+Range [Axis]
+Range [Axis]
+
+Range [Domain]
+Range [Domain]
+
+Minimum [Member]
+Minimum
+
+Maximum [Member]
+Maximum
+
+Summary Of Significant Accounting Policies [Line Items]
+Summary Of Significant Accounting Policies [Line Items]
+
+Summary Of Significant Accounting Policies [Line Items]
+
+Finite-Lived Intangible Asset, Useful Life
+Finite-lived intangible assets, useful life, years
+Intangible assets expected to amortize over a weighted-average period
+
+Property, Plant and Equipment, Useful Life
+Property, plant and equipment, useful life, years
+
+Business Combinations [Abstract]
+
+Schedule of Finite-Lived Intangible Assets [Table]
+Schedule of Finite-Lived Intangible Assets [Table]
+
+Finite-Lived Intangible Assets [Line Items]
+Finite-Lived Intangible Assets [Line Items]
+
+Finite-Lived Intangible Assets, Gross
+Finite-Lived Intangible Assets/Contractual Rights
+
+Finite-Lived Intangible Assets, Accumulated Amortization
+Accumulated Amortization
+
+Business Acquisition [Axis]
+Business Acquisition [Axis]
+
+Business Acquisition, Acquiree [Domain]
+Business Acquisition, Acquiree [Domain]
+
+Schedule of Intangible Assets [Table]
+Schedule of Intangible Assets [Table]
+
+Schedule of Intangible Assets [Table]
+
+Intangible Assets [Line Items]
+Goodwill and Intangible Assets [Line Items]
+
+Intangible Assets [Line Items]
+
+Finite-Lived Intangible Assets, Amortization Expense, Next Twelve Months
+Expected amortization of intangibles, 2025
+
+Finite-Lived Intangible Assets, Amortization Expense, Year Two
+Expected amortization of intangibles, 2026
+
+Finite-Lived Intangible Assets, Amortization Expense, Year Three
+Expected amortization of intangibles, 2027
+
+Finite-Lived Intangible Assets, Amortization Expense, Year Four
+Expected amortization of intangibles, 2028
+
+Finite-Lived Intangible Assets, Amortization Expense, Year Five
+Expected amortization of intangibles, 2029
+
+Segments [Axis]
+Segments [Axis]
+
+Segments [Domain]
+Segments [Domain]
+
+Private Equity Segment [Member]
+Private Equity Segment
+
+Private Equity Segment [Member]
+
+Real Estate Segment [Member]
+Real Estate Segment
+
+Real Estate Segment [Member]
+
+Credit and Insurance [Member]
+Credit & Insurance Segment
+Credit & Insurance
+
+Credit and Insurance [Member]
+
+Multi Asset Investing [Member]
+Multi-Asset Investing
+
+Multi-asset investing.
+
+Finite-lived Intangible Assets Acquired
+Acquisitions
+
+Investments, Debt and Equity Securities [Abstract]
+
+Schedule of Investments [Table]
+Schedule of Investments [Table]
+
+Investments Issuer [Axis]
+Investments Issuer [Axis]
+
+Investments Issuer [Axis]
+
+Investments Issuer [Domain]
+Investments Issuer [Domain]
+
+Investments Issuer [Domain]
+
+Corporate Treasury Investments [Member]
+Corporate Treasury Investments
+
+Corporate Treasury Investments [Member]
+
+Partnership Investments [Member]
+Partnership Investments
+
+Partnership investments.
+
+Accrued Performance Allocations [Member]
+Accrued Performance Allocations
+
+Accrued performance allocations.
+
+Investment Asset Other [Member]
+Other Investments
+
+Investment Asset Other [Member]
+
+Schedule of Investments [Line Items]
+Schedule of Investments [Line Items]
+
+Parent Company [Member]
+Blackstone
+
+Income (Loss) from Equity Method Investments
+Recognized net gains related to equity method investments
+
+Equity Method Investments
+Equity investments, carrying value
+
+Equity Method Investment, Aggregate Cost
+Equity method investment, aggregate cost
+
+Equity Securities without Readily Determinable Fair Value, Downward Price Adjustment, Cumulative Amount
+Equity securities without readily determinable fair value downward price adjustment cumulative amount
+
+Equity Securities without Readily Determinable Fair Value, Downward Price Adjustment, Annual Amount
+Equity securities without readily determinable fair value downward price adjustment
+
+Investment, Name [Axis]
+Investment, Name [Axis]
+
+Investment, Name [Domain]
+Investment, Name [Domain]
+
+Sale of Stock [Axis]
+Sale of Stock [Axis]
+
+Sale of Stock [Domain]
+Sale of Stock [Domain]
+
+Subsequent Event Type [Axis]
+Subsequent Event Type [Axis]
+
+Subsequent Event Type [Domain]
+Subsequent Event Type [Domain]
+
+American International Group, Incs Life and Retirement [Member]
+
+American international group, inc's life and retirement member.
+
+Schedule of Gain (Loss) on Securities [Table]
+Schedule of Gain (Loss) on Securities [Table]
+
+Gain (Loss) on Securities [Line Items]
+Gain (Loss) on Securities [Line Items]
+
+Investment Income Loss Realized
+Realized Gains (Losses)
+Realized Gains (Losses)
+Realized Gains (Losses)
+
+Investment Income (Loss) Realized represents the gains and losses on the Partnership's principal investments, including its investments in Funds that are not consolidated, its equity method investments, and other principal investments. Investment Income (Loss) is realized when the Partnership redeems all or a portion of its investment or when the Partnership receives cash income, such as dividends or distributions, from its non-consolidated funds.
+
+Investment Income Loss Unrealized
+Net Change in Unrealized Gains (Losses)
+Net Change in Unrealized Gains
+Net Change in Unrealized Gains (Losses)
+
+Investment Income (Loss) Unrealized represents the unrealized gains and losses on the Partnership's principal investments, including its investments in Funds that are not consolidated, its equity method investments, and other principal investments. Unrealized Investment Income (Loss) results from changes in the fair value of the underlying investment as well as the reversal of unrealized gain (loss) at the time an investment is realized.
+
+Interest And Dividend Revenue And Foreign Exchange Gains Losses
+Interest and Dividend Revenue, Foreign Exchange Gains and Other Gains Attributable to Consolidated Blackstone Funds
+
+Interest and dividend revenue and foreign exchange gains losses.
+
+Schedule of Equity Method Investments [Table]
+Schedule of Equity Method Investments [Table]
+
+Real Estate Funds [Member]
+RealEstateFunds
+Real Estate
+
+Private Equity Funds [Member]
+Private Equity
+
+Credit And Marketable Alternatives [Member]
+Credit & Insurance
+
+Credit and Marketable Alternatives [Member]
+
+Schedule of Equity Method Investments [Line Items]
+Schedule of Equity Method Investments [Line Items]
+
+Equity Method Investment, Summarized Financial Information, Investments
+Investments
+
+Equity method investment summarized financial information investments.
+
+Equity Method Investment Summarized Financial Information Other Assets
+Other Assets
+
+Equity method investment summarized financial information other assets.
+
+Equity Method Investment Summarized Financial Information Debt
+Debt
+
+Equity method investment summarized financial information debt.
+
+Equity Method Investment Summarized Financial Information Other Liabilities
+Other Liabilities
+
+Equity method investment summarized financial information other liabilities.
+
+Equity Method Investment Summarized Financial Information Interest Income
+Interest Income
+
+Equity method investment summarized financial information interest income.
+
+Equity Method Investment Summarized Financial Information Other Income
+Other Income
+
+Equity method investment summarized financial information other income.
+
+Equity Method Investment Summarized Financial Information Interest Expense
+Interest Expense
+
+Equity method investment summarized financial information interest expense.
+
+Equity Method Investment Summarized Financial Information Other Expenses
+Other Expenses
+
+Equity method investment summarized financial information other expenses.
+
+Equity Method Investment Summarized Financial Information Net Realized And Unrealized Gain Loss From Investments
+Net Realized and Unrealized Gain (Losses) from Investments
+
+Equity method investment summarized financial information, net realized and unrealized gain (loss) from investments
+
+Equity Method Investment, Nonconsolidated Investee [Axis]
+
+Equity Method Investment, Nonconsolidated Investee [Domain]
+
+Equity Method Investment, Nonconsolidated Investee, Other [Member]
+
+Schedule Of Performance Fees And Allocations To General Partner [Table]
+Schedule of Performance Fees and Allocations to the General Partner [Table]
+
+Schedule of Performance Fees and Allocations to the General Partner [Table]
+
+Schedule Of Performance Fees And Allocations To General Partner [Line Items]
+Schedule of Performance Fees and Allocations to the General Partner [Line Items]
+
+Schedule of Performance Fees and Allocations to the General Partner [Line Items]
+
+Performance Fees Allocated As Result Of Changes In Fund Fair Values
+Performance Allocations as a Result of Changes in Fund Fair Values
+
+Performance Fees Allocated As Result Of Changes In Fund Fair Values
+
+Foreign Currency Exchange Gain Loss
+Foreign Exchange Gain
+
+Foreign Currency Exchange Gain Loss
+
+Fund Distributions
+Fund Distributions
+
+Fund Distributions
+
+Performance Fees [Member]
+Performance Fees
+
+Performance Fees [Member]
+
+Fair Values Derivatives, Balance Sheet Location, by Derivative Contract Type [Table]
+Fair Values Derivatives, Balance Sheet Location, by Derivative Contract Type [Table]
+
+Blackstone [Member]
+Blackstone
+
+Blackstone [Member]
+
+Credit Derivatives Contract Type [Axis]
+Credit Derivatives Contract Type [Axis]
+
+Credit Derivatives Contract Type [Domain]
+Credit Derivatives Contract Type [Domain]
+
+Credit Default Swap [Member]
+Credit Default Swap
+
+Total Return Swap [Member]
+Total Return Swaps
+
+Derivative Instrument [Axis]
+Derivative Instrument [Axis]
+
+Derivative Contract [Domain]
+Derivative Contract [Domain]
+
+Foreign Exchange Contract [Member]
+Foreign Currency Contracts
+
+Interest Rate Contract [Member]
+Interest Rate Contracts
+
+Equity Option [Member]
+Equity Options
+Equity Options
+
+Hedging Relationship [Axis]
+Hedging Relationship [Axis]
+
+Hedging Relationship [Domain]
+Hedging Relationship [Domain]
+
+Freestanding Derivatives [Member]
+Freestanding Derivatives
+
+Freestanding Derivatives [Member]
+
+Derivatives, Fair Value [Line Items]
+Derivatives, Fair Value [Line Items]
+
+Derivative Asset, Notional Amount
+Derivative Assets, Notional
+
+Derivative Liability, Notional Amount
+Derivative Liabilities, Notional
+
+Derivative Asset, Fair Value, Gross Asset
+Derivative Assets, Fair Value
+
+Derivative Liability, Fair Value, Gross Liability
+Derivative Liabilities, Fair Value
+
+Derivative [Table]
+Derivative [Table]
+
+Derivative [Line Items]
+Derivative [Line Items]
+
+Gain (Loss) on Sale of Derivatives
+Realized Gains (Losses)
+
+Unrealized Gain (Loss) on Derivatives
+Net Change in Unrealized Gains (Losses)
+Changes in Unrealized Losses (Gains) Included in Earnings Related to Financial Liabilities Still Held at the Reporting Date
+
+Unrealized Gain (Loss) on Derivatives and Commodity Contracts
+Unrealized Gain (Loss) on Derivatives and Commodity Contracts
+
+Financial Instrument [Axis]
+Financial Instrument [Axis]
+
+Financial Instruments [Domain]
+Financial Instruments [Domain]
+
+Transfers From (To) Parent [Abstract]
+
+Transfers From (To) Parent [Abstract]
+
+Fair Value Options Qualitative Disclosures Related To Election [Table]
+Fair Value Options Qualitative Disclosures Related To Election [Table]
+
+Fair value options qualitative disclosures related to election.
+
+Debt Securities [Member]
+Debt Securities
+
+Liabilities of Consolidated CLO Vehicles [Member]
+Corporate Treasury Commitments
+
+Liabilities of Consolidated CLO Vehicles [Member]
+
+Liabilities Of Consolidated Clo Vehicles Notes Payable [Member]
+CLO Notes Payable
+
+Liabilities of consolidated Clo vehicles notes payable.
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+Fair Value, Option, Quantitative Disclosures [Line Items]
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Loans Receivable, Fair Value Disclosure
+Loans and Receivables
+Accounts Receivable Loans and Receivables
+
+Investments, Fair Value Disclosure
+Investments
+Total Investments
+
+Assets, Fair Value Disclosure
+Assets
+Fair value assets
+
+Financial Liabilities Fair Value Disclosure
+Liabilities
+Corporate Treasury Commitments
+
+Equity and Preferred Securities [Member]
+Equity and Preferred Securities
+
+Equity and Preferred Securities [Member]
+
+Corporate Debt Securities [Member]
+Corporate Loans
+
+Underlying Asset Class [Axis]
+Underlying Asset Class [Axis]
+
+Underlying Asset Class [Domain]
+Underlying Asset Class [Domain]
+
+Fair Value Option, Disclosures [Table]
+Fair Value Option, Disclosures [Table]
+
+Assets [Member]
+Assets
+
+Loans Receivable [Member]
+Loans and Receivables
+
+Liability [Member]
+Liabilities
+
+Fair Value, Option, Changes in Fair Value, Gain (Loss)
+Realized and net change in unrealized gains (losses) on financial instruments
+
+Corporate Treasury Commitments [Member]
+Corporate Treasury Commitments
+Corporate Treasury Commitments
+
+Realized Gains Losses [Member]
+Realized Gains (Losses)
+
+Realized Gains [Member]
+
+Net Change In Unrealized Gains Losses [Member]
+Net Change In Unrealized Gains (Losses)
+
+Net change in Unrealized Gains (Losses) [Member]
+
+Receivable Type [Axis]
+Receivable Type [Axis]
+
+Receivable [Domain]
+Receivable [Domain]
+
+Excess Deficiency of Fair Value over Uncollected Principal Balance on Financial Instruments
+Excess (Deficiency) of fair value over uncollected principal
+
+Excess Deficiency of Fair Value over Uncollected Principal Balance on Financial Instruments
+
+Fair Value Of Financial Instruments More Than One Day Past Due
+Fair value of financial instruments more than one day past due
+
+Fair Value of Financial Instruments More Than One Day Past Due
+
+Investment Securities Fair Value Disclosure On Nonaccrual Status
+Fair value of financial instruments with non-accrual status
+
+Investment Securities Fair Value Disclosure On Nonaccrual Status
+
+Number Of Past Due Loans For Which The Fair Value Options Was Elected
+Number of loans for which fair value option was elected past due
+
+Number of past due loans for which the fair value options was elected.
+
+Details [Axis]
+
+Details.
+
+Details [Domain]
+
+Details.
+
+Not In Non Accrual Status [Member]
+Not In Non Accrual Status
+
+Not in non accrual status.
+
+Fair Value Measurements, Recurring and Nonrecurring [Table]
+Fair Value Measurements, Recurring and Nonrecurring [Table]
+
+Consolidated Blackstone Funds Freestanding Derivatives [Member]
+Consolidated Blackstone Funds - Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Cash and Cash Equivalents, Fair Value Disclosure
+Cash and Cash Equivalents
+
+Derivative Asset
+Derivatives assets
+Derivatives Gross and Net Amounts of Assets Presented in the Statement of Financial Condition
+
+Financial Instruments Sold, Not yet Purchased, at Fair Value
+Securities Sold, Not Yet Purchased
+
+Derivative Liability
+Derivatives liabilities
+Derivatives Gross and Net Amounts of Liabilities Presented in the Statement of Financial Condition
+
+Accounts Payable Accrued Expenses and Other Liabilities Fair Value
+Total Accounts Payable, Accrued Expenses and Other Liabilities
+
+Accounts Payable Accrued Expenses and Other Liabilities Fair Value
+
+Financial and Nonfinancial Liabilities, Fair Value Disclosure
+Liabilities
+Fair value liabilities
+
+Contingent Consideration Classified as Equity, Fair Value Disclosure
+Contingent Consideration
+
+Derivative Asset, Statement of Financial Position [Extensible Enumeration]
+
+Fair Value Hierarchy and NAV [Axis]
+Fair Value Hierarchy and NAV [Axis]
+
+Fair Value Hierarchy and NAV [Domain]
+Fair Value Hierarchy and NAV [Domain]
+
+Fair Value, Inputs, Level 1 [Member]
+Level 1
+
+Fair Value, Inputs, Level 2 [Member]
+Level 2
+
+Fair Value, Inputs, Level 3 [Member]
+Level 3
+
+Measurement Frequency [Axis]
+Measurement Frequency [Axis]
+
+Fair Value, Measurement Frequency [Domain]
+Fair Value, Measurement Frequency [Domain]
+
+Fair Value, Measurements, Recurring [Member]
+Fair Value, Measurements, Recurring
+
+Equity Securities Partnerships And LLC Interests [Member]
+Equity Securities, Partnerships and LLC Interests
+
+Equity Securities, Partnerships and LLC Interests [Member].
+
+Debt Instruments [Member]
+Debt Instruments
+
+Debt Instruments [Member]
+
+Valuation Approach and Technique [Axis]
+Valuation Approach and Technique [Axis]
+
+Valuation Approach and Technique [Domain]
+Valuation Approach and Technique [Domain]
+
+Net Asset Value [Member]
+Net Asset Value
+
+Net Asset Value [Member]
+
+Fair Value, Investments, Entities that Calculate Net Asset Value Per Share [Table]
+Fair Value, Investments, Entities that Calculate Net Asset Value Per Share [Table]
+
+Fair Value, Investments, Entities that Calculate Net Asset Value Per Share [Line Items]
+Fair Value, Investments, Entities that Calculate Net Asset Value Per Share [Line Items]
+
+Alternative Investment
+Fair Value
+
+Hedge Funds, Equity [Member]
+Equity
+
+Other [Member]
+Other
+
+Class of Financing Receivable [Axis]
+
+Class of Financing Receivable [Domain]
+
+Unfunded Loan Commitment [Member]
+Unfunded Loan Commitment
+
+Fair Value, Investments, Entities that Calculate Net Asset Value Per Share, Redemption Restriction, Percentage
+Percentage of investments unable to be redeemed at, or within 3 months of reporting date
+
+Percentage Of Investments Redeemable As Of Reporting Date
+Percentage of investments redeemable as of reporting date
+
+Percentage Of Investments Redeemable As Of Reporting Date
+
+Fair value inputs discount rates
+Unobservable inputs, rate
+
+Fair value inputs discount rates.
+
+Fair Value Inputs, Exit Cap Rate
+Exit Capitalization Rate
+
+Fair Value Inputs, Exit Cap Rate
+
+Fair Value Inputs, Earnings before Interest, Taxes, Depreciation, and Amortization Exit Multiple
+Exit Multiple - EBITDA
+
+Fair Value Inputs, Earnings before Interest, Taxes, Depreciation, and Amortization Exit Multiple
+
+Derivative Liability, Measurement Input
+Volatility
+
+Other Liabilities [Member]
+Other Liabilities
+
+Measurement Input Type [Axis]
+Measurement Input Type [Axis]
+
+Measurement Input Type [Domain]
+Measurement Input Type [Domain]
+
+Measurement Input, Discount Rate [Member]
+Measurement Input, Discount Rate
+
+Measurement Input, Cap Rate [Member]
+Measurement Input, Cap Rate
+
+Measurement Input, EBITDA Multiple [Member]
+EBITDA Multiple Market
+
+Measurement Input, Price Volatility [Member]
+Measurement Input, Price Volatility
+
+Weighted Average [Member]
+Weighted Average
+
+Valuation Technique, Discounted Cash Flow [Member]
+Discounted Cash Flows
+
+Third Party Pricing Valuation Technique [Member]
+Third Party Pricing Valuation Technique
+
+Third Party Pricing Valuation Technique [Member]
+
+Valuation Technique, Option Pricing Model [Member]
+Valuation Technique, Option Pricing Model
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset Value
+Balance, Beginning of Period
+Balance, End of Period
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Liability, Transfers Into Level 3
+Transfer In Due to Consolidation and Acquisition
+
+Fair Value Measurement With Unobservable Inputs Reconciliation Recurring Basis Asset Transfer In (Out) Due To Deconsolidation
+Transfer Out Due to Deconsolidation
+
+Fair Value Measurement With Unobservable Inputs Reconciliation Recurring Basis Asset Transfer Out Due To Deconsolidation
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset Transfers Into Level 3
+Transfer Into Level III
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers out of Level 3
+Transfer Out of Level III
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases
+Purchases
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Sales
+Sales
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Settlements
+Settlements
+
+Fair Value Measurement With Unobservable Inputs Reconciliation Recurring Basis Asset Gain Loss Included In Earnings
+Changes in Gains (Losses) In cludedin Earnings
+
+Fair value measurement with unobservable inputs reconciliation recurring basis asset gain (loss) included in earnings.
+
+Fair Value, Assets Measured on Recurring Basis, Change in Unrealized Gain (Loss)
+Changes in Unrealized Gains (Losses) Included in Earnings Related to Financial Assets Still Held at the Reporting Date
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Issuances
+Issuances
+
+Fair Value, Asset, Recurring Basis, Still Held, Unrealized Gain (Loss), Statement of Income or Comprehensive Income [Extensible Enumeration]
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability Value
+Balance, Beginning of Period
+Balance, End of Period
+
+Fair Value Liabilities Measured On Recurring Basis Change In Unrealized Gain Loss Included In Earnings One
+Changes in Losses (Gains) Included in Earnings
+
+Fair value liabilities measured on recurring basis change in unrealized gain loss included in earnings one.
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Sales
+Sales
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net
+Transfer In (Out) Due to Consolidation and Acquisition
+
+Financial Investment Weighted Average Remaining Term
+Financial investment weighted average remaining term
+
+Financial investment weighted average remaining term.
+
+Proceeds from Sale of Restricted Investments
+Investments fair value disclosure
+
+Schedule of Variable Interest Entities [Table]
+Schedule of Variable Interest Entities [Table]
+
+Potential Clawback Obligation [Member]
+Potential Clawback Obligation
+
+Potential Clawback Obligation [Member]
+
+Due to Non Consolidated Entity [Member]
+Amounts Due to Non-Consolidated VIEs
+
+Due to Non Consolidated Entity [Member]
+
+Variable Interest Entity, Not Primary Beneficiary [Member]
+Variable Interest Entity, Not Primary Beneficiary
+
+Variable Interest Entity [Line Items]
+Variable Interest Entity [Line Items]
+
+Variable Interest Entity, Reporting Entity Involvement, Maximum Loss Exposure, Amount
+Maximum Exposure to Loss
+
+Securities Financing Transaction [Table]
+Securities Financing Transaction [Table]
+
+Securities Financing Transaction [Line Items]
+Securities Financing Transaction [Line Items]
+
+Fair Value of Securities Received as Collateral that Have Been Resold or Repledged
+Pledged securities with carrying value to collateralize its repurchase agreements
+
+Schedule of Assets Sold under Agreements to Repurchase [Table]
+Schedule of Assets Sold under Agreements to Repurchase [Table]
+
+Assets Sold under Agreements to Repurchase [Line Items]
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Securities Sold under Agreements to Repurchase
+Repurchase Agreements
+Repurchase agreements gross and Net Amounts of Liabilities Presented in the Statement of Financial Condition
+
+Securities Sold under Agreements to Repurchase, Gross
+Gross Amount of Recognized Liabilities for Repurchase Agreements in Note 12. "Offsetting of Assets and Liabilities"
+
+Securities Sold under Agreements to Repurchase, Not Subject to Master Netting Arrangement
+Amounts Related to Agreements Not Included in Offsetting Disclosure in Note 12. "Offsetting of Assets and Liabilities"
+
+Repurchase Agreements and Similar Transactions, Maturity Periods [Axis]
+Repurchase Agreements and Similar Transactions, Maturity Periods [Axis]
+
+Repurchase Agreements and Similar Transactions, Maturity Periods [Domain]
+Repurchase Agreements and Similar Transactions, Maturity Periods [Domain]
+
+Maturity Overnight [Member]
+Overnight and Continuous
+
+Maturity Less than 30 Days [Member]
+Up to 30 Days
+
+Maturity 30 to 90 Days [Member]
+30 - 90 Days
+
+Maturity Greater than 90 Days [Member]
+Greater than 90 Days
+
+Asset-backed Securities [Member]
+Asset-backed Securities
+
+Uncategorized [Abstract]
+
+Uncategorized [Abstract]
+
+Schedule of Other Assets [Table]
+Schedule of Other Assets [Table]
+
+Schedule of Other Assets [Table]
+
+Schedule of Other Assets [Line Items]
+Schedule of Other Assets [Line Items]
+
+Schedule of Other Assets [Line Items]
+
+Property, Plant and Equipment, Net
+Furniture, Equipment and Leasehold Improvements, Net
+
+Prepaid Expense
+Prepaid Expenses
+
+Freestanding Derivatives
+Freestanding Derivatives
+
+Freestanding Derivatives
+
+Other Assets, Miscellaneous
+Other
+
+Property, Plant and Equipment, Gross
+Furniture, Equipment and Leasehold Improvements
+
+Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment
+Less: Accumulated Depreciation
+
+Depreciation
+Depreciation expense
+
+Derivative or Financial Instrument [Table]
+Derivative or Financial Instrument [Table]
+
+Derivative or Financial Instrument [Table]
+
+Repurchase Agreements [Member]
+Repurchase Agreements
+
+Offsetting Assets and Liabilities [Line Items]
+Offsetting Assets and Liabilities [Line Items]
+
+Offsetting Assets and Liabilities [Line Items]
+
+Derivative, Collateral, Obligation to Return Securities
+Derivatives Gross Amounts Not Offset in the Statement of Financial Condition, Financial Instruments
+
+Derivative, Collateral, Obligation to Return Cash
+Derivatives Gross Amounts Not Offset in the Statement of Financial Condition, Cash Collateral Received
+
+Derivative Asset, Fair Value, Amount Offset Against Collateral
+Derivatives Net Amount
+
+Derivative, Collateral, Right to Reclaim Securities
+Derivatives Gross Amounts Not Offset in the Statement of Financial Condition, Financial Instruments
+
+Derivative, Collateral, Right to Reclaim Cash
+Derivatives Gross Amounts Not Offset in the Statement of Financial Condition, Cash Collateral Received
+
+Derivative Liability, Fair Value, Amount Offset Against Collateral
+Derivatives Net Amount
+
+Securities Sold under Agreements to Repurchase, Collateral, Right to Reclaim Securities
+Repurchase agreements gross Amounts Not Offset in the Statement of Financial Condition, Financial Instruments
+
+Securities Sold under Agreements to Repurchase, Collateral, Right to Reclaim Cash
+Repurchase agreements gross Amounts Not Offset in the Statement of Financial Condition, Cash Collateral Received
+
+Securities Sold under Agreements to Repurchase, Amount Offset Against Collateral
+Repurchase agreements Net Amount
+
+Derivative Liability, Securities Sold under Agreements to Repurchase, Securities Loaned
+Gross and Net Amounts of Liabilities Presented in the Statement of Financial Condition
+
+Derivative Liability, Securities Sold under Agreements to Repurchase, Securities Loaned, Collateral, Right to Reclaim Securities
+Gross Amounts Not Offset in the Statement of Financial Condition, Financial Instruments
+
+Derivative Liability, Securities Sold under Agreements to Repurchase, Securities Loaned, Collateral, Right to Reclaim Cash
+Gross Amounts Not Offset in the Statement of Financial Condition, Cash Collateral Received
+
+Derivative Liability, Securities Sold under Agreements to Repurchase, Securities Loaned, Amount Offset Against Collateral
+Net Amount
+
+Offsetting [Abstract]
+
+Offsetting Assets [Table]
+Offsetting Assets [Table]
+
+Offsetting Assets [Line Items]
+Offsetting Assets [Line Items]
+
+Cash
+Aggregate cash balance on deposit relating to the cash pooling arrangement
+
+Line of Credit Facility, Current Borrowing Capacity
+Overdraft facility
+
+Transaction Type [Axis]
+Transaction Type [Axis]
+
+Transaction [Domain]
+Transaction [Domain]
+
+Cash Pooling Arrangement [Member]
+Cash Pooling Arrangement
+
+Cash Pooling Arrangement [Member]
+
+Schedule of Long-term Debt Instruments [Table]
+Schedule of Long-term Debt Instruments [Table]
+
+Debt Instrument [Line Items]
+Debt Instrument [Line Items]
+
+Line of Credit Facility, Maximum Borrowing Capacity
+Credit facility, maximum borrowing capacity
+
+Debt Instrument, Interest Rate, Stated Percentage
+Debt instrument, interest rate
+
+Debt Instrument [Axis]
+Debt Instrument [Axis]
+
+Debt Instrument, Name [Domain]
+Debt Instrument, Name [Domain]
+
+Amended And Restated [Member]
+
+Credit Facility [Axis]
+Credit Facility [Axis]
+
+Credit Facility [Domain]
+Credit Facility [Domain]
+
+Revolving Credit Facility [Member]
+Credit Facility
+
+Variable Rate [Axis]
+
+Variable Rate [Domain]
+
+Line of Credit Facility [Table]
+Line of Credit Facility [Table]
+
+Partnerships Credit Facilities [Member]
+Partnership's Credit Facilities
+
+Partnership's Credit Facilities [Member]
+
+Six Point Two Five Zero Percent Notes [Member]
+6.250% Notes
+
+Six Point Two Five Zero Percent Notes [Member]
+
+Five Point Zero Zero Zero Percent Notes [Member]
+5.000% Notes
+
+Five Point Zero Zero Zero Percent Notes [Member]
+
+Four Point Four Five Zero Percent Notes [Member]
+4.450% Notes
+
+Four Point Four Five Zero Percent Notes [Member]
+
+Two Point Zero Zero Zero Percent Notes [Member]
+2.000% Notes
+
+Two Point Zero Zero Zero Percent Notes [Member]
+
+One Point Zero Zero Zero Percent Notes [Member]
+1.000% Notes
+
+One Point Zero Zero Zero Percent Notes [Member]
+
+Three Point One Five Zero Percent Notes [Member]
+3.150% Notes
+
+Three point one five zero percent notes.
+
+Four Point Zero Zero Zero Percent Notes [Member]
+4.000% Notes
+
+Four point zero zero zero percent notes.
+
+One Point Five Zero Zero Percent Notes [Member]
+1.500% Notes
+1.500% Notes
+
+One point five zero zero percent notes [Member]
+
+Two Point Five Zero Zero Percent Notes [Member]
+2.500% Notes
+2.500% Notes
+2.500% Notes
+
+Two point five zero zero percent notes.
+
+Three Point Five Zero Zero Percent Notes [Member]
+3.500% Notes
+3.500% Notes
+3.500% Notes
+
+One Point Six Zero Zero Percent Notes [Member]
+1.600% Notes
+
+One point five zero zero percent notes [Member]
+
+Two Point Eight Zero Zero Percent Notes [Member]
+2.800% Notes
+
+Two point eight zero zero percent notes [Member]
+
+One Point Six Two Five Percent Notes [Member]
+1.625% Notes
+
+One point six Two five percent notes.
+
+Two Point Eight Five Zero Percent Notes
+2.850% Notes
+2.850% Notes
+
+Two point eight five zero percent notes.
+
+Two Point Zero Zero Zero 1 Percent Notes [Member]
+2.000% Notes
+
+Two point zero zero zero 1 percent notes.
+
+Five Point Zero Zero Zero 1 Percent Notes [Member]
+5.000% Notes
+
+Five point zero zero zero 1 percent notes.
+
+CLO Notes Payable [Member]
+CLO Notes Payable
+
+CLO Notes Payable Member.
+
+Blackstone Operating Borrowings [Member]
+Blackstone Operating Borrowings
+
+Blackstone Operating Borrowings Member.
+
+Secured Borrowings Two [Member]
+Secured Borrowings Two
+
+Secured borrowings two.
+
+Secured Borrowings One [Member]
+Secured Borrowings One
+
+Secured borrowings one.
+
+Five Point Nine Zero Zero Percent Notes [Member]
+5.900% Notes
+
+Five Point Nine Zero Zero Percent Note
+
+Two Point Five Five Zero Percent Notes [Member]
+2.550% Notes
+
+Two Point Five Five Zero Percent Note.
+
+Six Point Two Zero Zero Percent Notes [Member]
+6.200% Notes
+
+Six Point Two Zero Zero Percent Note .
+
+Three Point Five Zero Zero Percent Note [Member]
+3.500% Notes
+
+Three Point Five Zero Zero Percent Note.
+
+Three Point Two Zero Zero Percent Notes [Member]
+3.200% Notes
+
+Three Point Two Zero Zero Percent Note.
+
+Line of Credit Facility [Line Items]
+Line of Credit Facility [Line Items]
+
+Credit Available
+Credit Available
+
+Credit available.
+
+Long-term Line of Credit
+Borrowing Outstanding
+
+Debt, Weighted Average Interest Rate
+Effective Interest Rate
+
+Senior Notes [Member]
+Senior Secured Notes
+
+Borrowings Of Consolidated Blackstone Funds [Member]
+Borrowings Of Consolidated Blackstone Funds
+
+Borrowings of consolidated blackstone funds.
+
+Other Debt Obligations [Member]
+Other
+
+Senior Secured Note [Member]
+Senior Secured Note
+
+Senior Secured Note [Member]
+
+Letter of Credit [Member]
+Letter of Credit
+
+Secured Debt [Member]
+Secured Debt
+
+Debt Instrument, Maturity Date
+Debt instrument, maturity date
+
+Maximum Percentage Of Aggregate Principal Amount Of Outstanding Notes
+Maximum percentage of aggregate principal amount of the outstanding notes
+
+Maximum percentage of aggregate principal amount of the outstanding notes.
+
+Percentage Of Repurchase Of Notes On Principal Amount Of Notes
+Percentage of repurchase of note on principal amount of notes
+
+Percentage of repurchase of notes on principal amount of notes.
+
+Line of Credit Facility, Commitment Fee Percentage
+Commitment fee percentage
+
+Debt Instrument, Basis Spread on Variable Rate
+Debt instrument, basis spread on variable rate
+
+Secured Debt
+
+Debt Instrument Additional Credit Spread Adjustment
+
+Debt Instrument Additional Credit Spread Adjustment.
+
+Three Point Five Zero Zero Percent Notes One [Member]
+3.500% Notes
+
+Long-term Debt, Gross
+Carrying Value
+
+Debt Instrument, Fair Value Disclosure
+Debt instrument, fair value
+
+One Point Five Zero Zero [Member]
+1.500% Notes
+
+Operating Borrowings [Member]
+Blackstone Operating Borrowings
+
+Operating Borrowings [Member]
+
+Blackstone Fund Facilities CLO Vehicles [Member]
+Borrowings of Consolidated Blackstone Funds
+
+Blackstone Fund Facilities / CLO Vehicles [Member]
+
+Long-term Debt, Maturities, Repayments of Principal in Next Twelve Months
+2025
+
+Long-term Debt, Maturities, Repayments of Principal in Year Two
+2026
+
+Long-term Debt, Maturities, Repayments of Principal in Year Three
+2027
+
+Long-term Debt, Maturities, Repayments of Principal in Year Four
+2028
+
+Long-term Debt, Maturities, Repayments of Principal in Year Five
+2029
+
+Long-term Debt, Maturities, Repayments of Principal after Year Five
+Thereafter
+
+Long-term Debt
+Total
+
+Lessee, Operating Lease, Term of Contract
+Weighted-average remaining lease term
+
+Leases With Security
+Leases
+
+Leases with security.
+
+Lease, Cost [Abstract]
+Operating Lease Cost
+
+Operating Lease, Cost
+Straight-Line Lease Cost
+
+Variable Lease, Cost
+Variable Lease Cost
+
+Sublease Income
+Sublease Income
+
+Lease, Cost
+Operating Lease Cost
+
+Operating Lease, Payments
+Operating Cash Flows for Operating Lease Liabilities
+
+Operating Lease, Payments, Use
+Non-Cash Right-of-Use Assets Obtained in Exchange for New Operating Lease Liabilities
+
+Lessee, Operating Lease, Liability, Payments, Due Next Twelve Months
+2025
+
+Lessee, Operating Lease, Liability, Payments, Due Year Two
+2026
+
+Lessee, Operating Lease, Liability, Payments, Due Year Three
+2027
+
+Lessee, Operating Lease, Liability, Payments, Due Year Four
+2028
+
+Lessee, Operating Lease, Liability, Payments, Due Year Five
+2029
+
+Lessee, Operating Lease, Liability, Payments, Due after Year Five
+Thereafter
+
+Lessee, Operating Lease, Liability, Payments, Due
+Total Lease Payments
+
+Lessee, Operating Lease, Liability, Undiscounted Excess Amount
+Less: Imputed Interest
+
+Income Taxes [Table]
+Income Taxes [Table]
+
+Income Taxes [Table]
+
+Income Tax Authority [Axis]
+Income Tax Authority [Axis]
+
+Income Tax Authority [Domain]
+Income Tax Authority [Domain]
+
+Domestic Tax Authority [Member]
+Domestic Tax Authority
+Federal
+
+Foreign Tax Authority [Member]
+Foreign Tax Authority
+
+Income Taxes [Line Items]
+Income Taxes [Line Items]
+
+Income Taxes [Line Items]
+
+Current Federal Tax Expense (Benefit)
+Federal Income Tax
+
+Current Foreign Tax Expense (Benefit)
+Foreign Income Tax
+
+Current State and Local Tax Expense (Benefit)
+State and Local Income Tax
+
+Current Income Tax Expense (Benefit)
+Current Income Tax Expense (Benefit), Total
+
+Deferred Federal Income Tax Expense (Benefit)
+Federal Income Tax
+
+Deferred Foreign Income Tax Expense (Benefit)
+Foreign Income Tax
+
+Deferred State and Local Income Tax Expense (Benefit)
+State and Local Income Tax
+
+Deferred Income Tax Expense (Benefit)
+Deferred Income Tax Expense (Benefit), Total
+
+Income Tax [Table]
+Income Tax [Table]
+
+Income Tax [Table]
+
+Income Tax [Line Items]
+Income Tax [Line Items]
+Income Tax [Line Items]
+
+Income Tax [Line Items]
+
+Effective Income Tax Rate Reconciliation, Percent
+Effective Income Tax Rate
+Effective Income Tax Rate
+
+Reconciliation of Effective Income Tax Rate [Table]
+Reconciliation of Effective Income Tax Rate [Table]
+
+Reconciliation of Effective Income Tax Rate [Table]
+
+Schedule of Effective Tax Rate Reconciliation [Line Items]
+Schedule of Effective Tax Rate Reconciliation [Line Items]
+
+Schedule of Effective Tax Rate Reconciliation [Line Items]
+
+Effective Income Tax Rate Reconciliation, Noncontrolling Interest Income (Loss), Percent
+Income Passed Through to Non-Controlling Interest Holders
+
+Effective Income Tax Rate Reconciliation, State and Local Income Taxes, Percent
+State and Local Income Taxes
+
+Effective Income Tax Rate Reconciliation, Other Adjustments, Percent
+Other
+
+Effective Income Tax Rate Reconciliation Change In Federal Statutory Income Tax Rate
+Statutory U.S. Federal Income Tax Rate
+
+Effective income tax rate reconciliation change in federal statutory income tax rate.
+
+Effective Income Tax Rate Reconciliation Basis Adjustments
+Basis Adjustment
+
+Effective income tax rate reconciliation basis adjustments.
+
+Comparison Type [Axis]
+Comparison Type [Axis]
+
+Comparison Type [Domain]
+Comparison Type [Domain]
+
+TwoThousandTwentyFourVsTwoThousandTwentyThree [Member]
+2024 vs. 2023
+
+Two Thousand Twenty Four Vs Two Thousand Twenty Three.
+
+Two Thousand Twenty Three Vs Two Thousand Twenty Two [Member]
+2023 vs. 2022
+
+Two Thousand Twenty Three Vs Two Thousand Twenty Two.
+
+Income Tax Authority, Name [Axis]
+Income Tax Authority, Name [Axis]
+
+Income Tax Authority, Name [Domain]
+Income Tax Authority, Name [Domain]
+
+Tax Cuts And Jobs Act [Member]
+Tax Cuts and Jobs Act
+
+Tax Cuts and Jobs Act [Member]
+
+Unrecognized Tax Benefits and Interest Accrued (Reversal)
+Interest expense accrued
+
+Unrecognized Tax Benefits And Interest Accrued (Reversal)
+
+Deferred Tax Assets, Valuation Allowance
+Deferred tax valuation allowance
+Valuation Allowance
+
+Dcrease of Deferred Tax Assets
+Dcrease of Deferred Tax Assets
+
+Dcrease of deferred tax assets.
+
+Antidilutive Securities [Axis]
+Antidilutive Securities [Axis]
+
+Antidilutive Securities, Name [Domain]
+Antidilutive Securities, Name [Domain]
+
+Components Of Deferred Income Tax Assets And Liabilities [Table]
+Components Of Deferred Income Tax Assets And Liabilities [Table]
+
+Components Of Deferred Income Tax Assets And Liabilities [Table]
+
+Components Of Deferred Income Tax Assets And Liabilities [Line Items]
+Components Of Deferred Income Tax Assets And Liabilities [Line Items]
+
+Components Of Deferred Income Tax Assets And Liabilities [Line Items]
+
+Deferred Tax Assets, Net [Abstract]
+Deferred Tax Assets
+
+Deferred Tax Assets
+Total Deferred Tax Assets
+
+Deferred tax assets.
+
+Deferred Tax Assets, Unrealized Losses on Available-for-Sale Securities, Gross
+Investment Basis Differences/Net Unrealized Gains and Losses
+
+Deferred Tax Assets, Other
+Other
+
+Deferred Tax Assets, Gross
+Total Deferred Tax Assets Before Valuation Allowance
+
+Deferred Tax Liabilities, Net [Abstract]
+Deferred Tax Liabilities
+
+Deferred Tax Liabilities Unrealized Gains From Investments
+Investment Basis Differences/Net Unrealized Gains and Losses
+
+Deferred Tax Liabilities Unrealized Gains From Investments
+
+Deferred Tax Liabilities, Other
+Other
+
+Deferred Tax Liabilities, Gross
+Total Deferred Tax Liabilities
+
+Deferred Tax Asset Net
+Net Deferred Tax Assets
+
+Deferred tax assets, net
+
+Income Tax Examination [Table]
+
+Income Tax Examination [Line Items]
+
+Open Tax Year
+
+Jurisdiction [Axis]
+
+Statutory Accounting Practices, Jurisdiction [Domain]
+
+UNITED KINGDOM
+United Kingdom
+
+NewYork City [Member]
+New York City
+
+NewYork City.
+
+NewYork State [Member]
+New York State
+
+NewYork State.
+
+Tax Period [Axis]
+
+Tax Period [Domain]
+
+Income Tax Contingency [Table]
+Income Tax Contingency [Table]
+
+Income Tax Contingency [Line Items]
+Income Tax Contingency [Line Items]
+
+Unrecognized Tax Benefits
+Unrecognized Tax Benefits January 1
+Unrecognized Tax Benefits December 31
+
+Unrecognized Tax Benefits, Increase Resulting from Current Period Tax Positions
+Additions based on Tax Positions Related to Current Year
+
+Unrecognized Tax Benefits, Decrease Resulting from Current Period Tax Positions
+Reductions for Tax Positions of Current Year
+
+Unrecognized Tax Benefits, Increase Resulting from Prior Period Tax Positions
+Additions for Tax Positions of Prior Years
+
+Unrecognized Tax Benefits, Decrease Resulting from Prior Period Tax Positions
+Reductions for Tax Positions of Prior Years
+
+Unrecognized Tax Benefits, Exchange Rate Fluctuation
+Exchange Rate Fluctuations
+
+Unrecognized Tax Benefits, Exchange Rate Fluctuation
+
+Earnings Per Share [Table]
+Earnings Per Share [Table]
+
+Earnings Per Share [Table]
+
+Earnings Per Share [Line Items]
+Earnings Per Share [Line Items]
+
+Incremental Common Shares Attributable to Dilutive Effect of Share-based Payment Arrangements
+Weighted-Average Shares of Unvested Deferred Restricted Common Stock
+
+Common Stock, Dividends, Per Share, Declared
+Dividends Declared Per Share of Common Stock
+
+Schedule of Antidilutive Securities Excluded from Computation of Earnings Per Share [Table]
+Schedule of Antidilutive Securities Excluded from Computation of Earnings Per Share [Table]
+
+Blackstone Partnership Units [Member]
+Blackstone Partnership Units
+
+Blackstone Partnership Units [Member]
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share, Amount
+Weighted-Average Units
+
+Unvested Participating Common Stock [Member]
+Unvested Participating Common Stock
+
+Participating Partnership Units [Member]
+Participating Partnership Units
+
+Participating partnership units [Member]
+
+Stockholders Equity [Line Items]
+
+Stockholders Equity [Line Items]
+
+Shares Eligible For Dividends And Distributions
+Shares eligible for dividends and distributions
+
+Shares eligible for dividends and distributions.
+
+Common Stock Eligible For Dividends And Distributions
+Common stock eligible for dividends and distributions
+
+Common stock eligible for dividends and distributions.
+
+Partnership Units Eligible For Dividends And Distributions
+Participating Blackstone Holdings Partnership Units
+
+Partnership units eligible for dividends and distributions
+
+Unit Repurchase Program [Table]
+Unit Repurchase Program [Table]
+
+Unit Repurchase Program [Table]
+
+Stock Repurchase Program, Remaining Authorized Repurchase Amount
+Amount remaining available for repurchases
+
+Stock Repurchased During Period, Shares
+Common stock repurchased, units
+
+Stock Repurchased During Period, Value
+Common stock repurchased, cost
+
+Additional Paid in Capital
+Additional Paid-In-Capital
+
+Deferred Tax Assets, Net of Valuation Allowance
+Deferred Tax Assets
+
+Noncontrolling Interest, Decrease from Distributions to Noncontrolling Interest Holders
+Non-Controlling Interests
+
+Stock Repurchase Program, Authorized Amount
+Amount authorized to repurchase under unit repurchase program
+
+Event [Axis]
+
+Event
+
+Event [Domain]
+
+Event
+
+Share Reclassification [Member]
+Share Reclassification
+
+Share reclassification.
+
+Revision of Prior Period, Error Correction, Adjustment [Member]
+Revision of Prior Period Error Correction Adjustment Member
+
+Schedule of Share-based Compensation Arrangements by Share-based Payment Award [Table]
+Schedule of Share-based Compensation Arrangements by Share-based Payment Award [Table]
+
+Phantom Share Units (PSUs) [Member]
+Phantom Share Units (PSUs)
+
+Equity Settled Awards Deferred Restricted Common Units [Member]
+Equity Settled Awards Deferred Restricted Common Units
+
+Equity Settled Awards Deferred Restricted Common Units [Member]
+
+Share-based Compensation Arrangement by Share-based Payment Award [Line Items]
+Share-based Compensation Arrangement by Share-based Payment Award [Line Items]
+
+Units of Partnership Interest, Amount
+Partnership grant units
+
+Employee Service Share-based Compensation, Tax Benefit from Compensation Expense
+Tax benefits in relation to equity-based awards
+
+Employee Service Share-based Compensation, Nonvested Awards, Compensation Cost Not yet Recognized
+Estimated unrecognized compensation expense related to unvested awards
+
+Employee Service Share-based Compensation, Nonvested Awards, Compensation Cost Not yet Recognized, Period for Recognition
+Weighted-average period for recognized compensation expense related to unvested awards, years
+
+Share-based Compensation Arrangement by Share-based Payment Award, Options, Vested and Expected to Vest, Outstanding, Number
+Total vested and unvested outstanding units
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Nonvested, Number
+Total outstanding unvested phantom units
+Beginning Balance
+Ending Balance
+
+Share-based Compensation Arrangement by Share-based Payment Award, Award Requisite Service Period
+Assumed service period, in years
+
+Compensation Expense Assumed Forfeiture Rate
+Assumed forfeiture rate
+
+Compensation expense, assumed forfeiture rate.
+
+Per Unit Discount For Compensation Expense
+Per unit discount
+
+Per unit discount for compensation expense.
+
+Phantom Units, Weighted Average Service Period
+Phantom units vesting period
+Phantom Shares (Weighted-Average Service Period in Years)
+
+Phantom Units, Weighted Average Service Period
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Share-based Liabilities Paid
+Payment in settlement of phantom units
+
+Share-based Compensation Arrangement by Share-based Payment Award, Award Vesting Period
+Share-based Compensation Arrangement by Share-based Payment Award, Award Vesting Period
+
+Equity Settled Awards Deferred Restricted Shares Of Common Stock [Member]
+Equity Settled Awards Deferred Restricted Shares Of Common Stock
+
+Equity Settled Awards Deferred Restricted Shares Of Common Stock [Member].
+
+Cash Settled Awards Phantom Shares [Member]
+Cash Settled Awards Phantom Shares
+
+Cash Settled Awards Phantom Shares [Member]
+
+Blackstone Group Inc [Member]
+Blackstone Group Inc.
+
+Blackstone Group Inc. [Member]
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Grants in Period
+Granted (Units)
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Vested in Period
+Vested (Units)
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Forfeited in Period
+Forfeited (Units)
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Nonvested, Weighted Average Grant Date Fair Value
+Beginning Balance
+Ending Balance
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Grants in Period, Weighted Average Grant Date Fair Value
+Granted (Weighted-Average Grant Date Fair Value)
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Vested in Period, Weighted Average Grant Date Fair Value
+Vested (Weighted-Average Grant Date Fair Value)
+
+Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Forfeitures, Weighted Average Grant Date Fair Value
+Forfeited (Weighted-Average Grant Date Fair Value)
+
+Units Expected To Vest For Partnership Units
+Blackstone Holdings Partnership Units
+
+Units Expected To Vest For Partnership Units
+
+Units Expected To Vest Deferred Restricted Common Units
+Deferred Restricted Shares of Common Stock
+
+Units Expected To Vest Deferred Restricted Common Units
+
+Units Expected To Vest For Equity Based Awards
+Total Equity-Based Awards
+
+Units Expected To Vest For Total Equity Based Awards
+
+Units Expected To Vest For Phantom Units
+Phantom Shares
+
+Units Expected To Vest For Phantom Units
+
+Partnership Units Weighted Average Service Period
+Blackstone Holdings Partnership Units (Weighted-Average Service Period in Years)
+
+Partnership Units Weighted Average Service Period
+
+Deferred Restricted Common Units, Weighted Average Service Period
+Deferred Restricted Shares of Common Stock (Weighted-Average Service in Years)
+
+Deferred Restricted Common Units, Weighted Average Service Period
+
+Equity Based Awards, Weighted Average Service Period
+Total Equity-Based Awards (Weighted-Average Service Period in Years)
+
+Total Equity Based Awards, Weighted Average Service Period
+
+Schedule of Related Party Transactions, by Related Party [Table]
+Schedule of Related Party Transactions, by Related Party [Table]
+
+Related Party Transaction [Line Items]
+Related Party Transaction [Line Items]
+
+Management Fees Performance Revenues Reimbursable Expenses And Other Receivables From Non Consolidated Entities And Portfolio Companies
+Management Fees, Performance Revenues, Reimbursable Expenses and Other Receivables from Non-Consolidated Entities and Portfolio Companies
+
+Management fees performance revenues reimbursable expenses and other receivables from non consolidated entities and portfolio companies.
+
+Due from certain non controlling interest holders and blackstone employees
+Due from Certain Non-Controlling Interest Holders and Blackstone Employees
+
+Due from certain non controlling interest holders and blackstone employees.
+
+Accrual For Potential Clawback Of Previously Distributed Interest
+Accrual for Potential Clawback of Previously Distributed Performance Allocations
+
+Accrual For Potential Clawback Of Previously Distributed Interest
+
+Due To Certain Non Controlling Interest Holders In Connection With Tax Receivable Agreements
+Due to Certain Non-Controlling Interest Holders in Connection with the Tax Receivable Agreements
+
+Due to certain non-controlling interest holders in connection with tax receivable agreements
+
+Due To Non Consolidated Entities
+Due to Non-Consolidated Entities
+
+Due to non consolidated entities.
+
+Due To Certain Non Controlling Interest Holders And Company Employees
+Due to Certain Non-Controlling Interest Holders and Blackstone Employees
+
+Due to certain non controlling interest holders and company employees.
+
+Loss Contingency Accrual
+Accrual for Potential Repayment of Previously Received Performance Allocations
+
+Related Party [Member]
+Related Party
+
+Net Income (Loss) Attributable to Noncontrolling Interest
+Net Income Attributable to Non-Controlling Interests
+
+Cash Saving In Tax Receivable Agreements
+Cash saving in tax receivable agreements, percentage
+
+Cash Saving in tax receivable agreements
+
+Expected Future Payments Under Tax Receivable Agreements
+Expected future payments under the tax receivable agreements
+
+Expected future payments under the tax receivable agreements
+
+Expected Future Payments under Tax Receivable Agreements in Periods
+Expected future payments under the tax receivable agreements in years
+
+Expected Future Payments under Tax Receivable Agreements in Periods
+
+After Tax Net Present Value Estimated Payments For Tax Receivable Agreements
+After-tax net present value estimated payments
+
+After Tax Net Present Value Estimated Payments For The Tax Receivable Agreements
+
+After Tax Net Present Value Discount Rate Assumption For Tax Receivable Agreements
+After-tax net present value discount rate assumption
+
+After Tax Net Present Value Discount Rate Assumption For The Tax Receivable Agreements
+
+After Tax Net Estimated Payments Made UponTax Receivable Agreements
+After tax net estimated payments made
+
+After tax net estimated payments made upon tax receivable agreements.
+
+Related Parties [Member]
+Founder, senior managing directors, employees and certain other related parties
+
+Related Parties [Member]
+
+Commitments and Contingencies [Table]
+Commitments and Contingencies [Table]
+
+Commitments and Contingencies [Table]
+
+Current And Former Blackstone Personnel [Member]
+Current And Former Blackstone Personnel
+
+Current and former Blackstone personnel [Member]
+
+Portfolio Company Acquisition [Member]
+Portfolio Company Acquisition
+
+Portfolio company acquisition [Member]
+
+Schedule Of Commitments And Contingencies [Line Items]
+Schedule Of Commitments And Contingencies [Line Items]
+
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
+General Partner Capital Funding Commitments
+General partner capital funding
+
+General Partner Capital Funding Commitments
+
+Funds Signed Investment Commitments
+Funds signed investment commitments
+
+Funds Signed Investment Commitments
+
+Signed Investment Commitments For Portfolio Company Acquisitions In Process Of Closing
+Signed investment commitments for portfolio company acquisitions in process of closing
+
+Signed Investment Commitments For Portfolio Company Acquisitions In Process Of Closing
+
+Consolidated Entities Net Assets Restricted As To Payment Of Cash Dividends And Advances To Partnership
+Consolidated entities net assets restricted as to payment of cash dividends and advances to partnership
+
+Consolidated entities' net assets restricted as to payment of cash dividends and advances to partnership.
+
+Fair Value, Concentration of Risk, Investments
+Total investments at risk in respect of guarantees extended
+
+Loans Held By Employees For Investment Guaranteed
+Loans held By employees for investment guaranteed
+
+Loans Held By Employees For Investment Guaranteed
+
+Contingent Obligations Currently Anticipated To Expire End
+Contingent obligations currently anticipated to expire end
+
+Contingent obligations currently anticipated to expire end
+
+Provision For Cash Clawback
+Provision for cash clawback
+
+Provision for cash clawback
+
+Loss Contingency, Estimate of Possible Loss
+Contingent Obligations (Clawback)
+
+Loss Contingency Accrual, Payments
+
+Loss Contingency Settlement Value Among Dedendants
+
+Loss contingency settlement value among dedendants.
+
+Loss Contingency, Name of Plaintiff
+
+Loss Contingency, Settlement Agreement, Court
+
+Loss Contingency, Name of Defendant
+
+Payments for Legal Settlements
+
+Percentage Of Incremental Cash Payment In Excess Of Target Return
+Percentage Of Incremental Cash Payment In Excess Of Target Return
+
+Percentage Of Incremental Cash Payment In Excess Of Target Return`.
+
+Security Owned and Pledged as Collateral, Associated Liabilities, Fair Value
+Security Owned and Pledged as Collateral, Associated Liabilities, Fair Value
+
+Financial Instruments, Owned, Principal Investments, at Fair Value
+Investments Pledged fair value
+
+Common Stock, Value, Subscriptions
+Common stock, value, subscriptions
+
+Percentage of Targeted Annualized Net Return
+Percentage of targeted annualized net return
+
+Percentage of Targeted Annualized Net Return.
+
+Investment Owned, at Cost
+Cost of the investment
+
+Lender Name [Axis]
+
+Line of Credit Facility, Lender [Domain]
+
+Litigation Status [Axis]
+
+Litigation Status [Domain]
+
+Settled Litigation [Member]
+
+Agreement [Axis]
+
+Agreement [Domain]
+
+Settlement Agreement [Member]
+
+Guarantor Obligations, Nature [Axis]
+
+Guarantor Obligations, Nature [Domain]
+
+Blackstone Real Estate Investment Trust or BREIT [Member]
+Blackstone Real Estate Investment Trust or BREIT
+
+Blackstone Real Estate Investment Trust or BREIT.
+
+Counterparty Name [Axis]
+
+Counterparty Name [Domain]
+
+University of California [Member]
+University of California
+
+University of California.
+
+Product Liability Contingency [Table]
+Product Liability Contingency [Table]
+
+Blackstone Holdings [Member]
+Blackstone Holdings
+
+Blackstone Holdings [Member].
+
+Product Liability Contingency [Line Items]
+Product Liability Contingency [Line Items]
+
+Loss Contingency Accrual, Period Increase (Decrease)
+Clawback obligations
+
+Schedule of Revenues from External Customers and Long-Lived Assets [Table]
+Schedule of Segment Reporting Information, by Segment [Table]
+
+Segment Reporting Information [Line Items]
+Segment Reporting Information [Line Items]
+
+Long-Lived Assets
+Long lived assets
+
+Percentage Of Revenue
+Percentage of revenue
+
+Percentage of revenue.
+
+Geographical [Axis]
+
+Geographical [Domain]
+
+UNITED STATES
+
+Blackstone Private Credit Fund [Member]
+
+Concentration Risk Type [Axis]
+
+Concentration Risk Type [Domain]
+
+Concentration Risk Benchmark [Axis]
+
+Concentration Risk Benchmark [Domain]
+
+Customer [Axis]
+
+Customer [Domain]
+
+Schedule of Segment Reporting Information, by Segment [Table]
+Schedule of Segment Reporting Information, by Segment [Table]
+
+Percentage Of Revenue From External Customers
+Percentage of revenue from external customers
+
+Percentage of revenue from external customers.
+
+Asia Pacific [Member]
+Asia-Pacific
+
+EMEA [Member]
+Europe, Middle East and Africa
+
+Americas [Member]
+Americas
+
+Consolidation Items [Axis]
+Consolidation Items [Axis]
+
+Consolidation Items [Domain]
+Consolidation Items [Domain]
+
+Operating Segments [Member]
+Operating Segments
+
+Base Management Fees
+Base Management Fees
+
+Base management fees.
+
+Transaction Advisory And Other Fees Net
+Transaction, Advisory and Other Fees, Net
+
+Transaction advisory and other fees, net.
+
+Management Fee Offsets
+Management Fee Offsets
+
+Management Fee Offsets
+
+Management And Advisory Fees Net
+Total Management and Advisory Fees, Net
+Total Segment Management and Advisory Fees, Net
+Revenues
+
+Management and advisory fees net.
+
+Fee related performance revenues
+Fee Related Performance Revenues
+Total Segment Fee Related Performance Revenues
+Realized Performance Revenues
+
+Fee related performance revenues.
+
+Fee Related Compensation
+Fee Related Compensation
+Total Compensation and Benefits
+
+Fee related compensation
+
+Fee Related Earnings
+Fee Related Earnings
+
+Fee related earnings.
+
+Performance revenue realized
+Realized Performance Revenues
+Total Segment Realized Performance Revenues
+Realized Performance Revenues
+
+Performance revenue realized.
+
+Realized performance compensation
+Realized Performance Compensation
+Total Segment Realized Performance Compensation
+Total Segment
+
+Realized performance compensation.
+
+Realized Principal Investment Income Loss
+Realized Principal Investment Income
+Total Segment Realized Principal Investment Income
+Investment Income Realized
+
+Realized principal investment income (loss).
+
+Realized Income Net
+Total Net Realizations
+
+Realized income net.
+
+Segment distributable earnings
+Total Segment Distributable Earnings
+Total Segment Distributable Earnings
+
+Segment distributable earnings.
+
+Segment Assets
+Segment Assets
+Total Assets
+
+Segment assets.
+
+Other Operating Expenses
+Other Operating Expenses
+Total Segment Other Operating Expenses
+General, Administrative and Other
+
+Other operating expenses.
+
+Multi Assets Investing Segment
+
+Multi assets investing member.
+
+Segment Reconciling Items [Member]
+Consolidation Adjustments and Reconciling Items
+
+Intersegment Eliminations [Member]
+Segment Adjustment
+
+Consolidation, Eliminations [Member]
+Impact of Consolidation
+
+Segment Revenues
+Total Revenues
+Total Revenues
+
+Segment revenues.
+
+Revenue Performance Allocations Unrealized
+Less: Unrealized Performance Revenues
+Less: Unrealized Performance Revenues
+
+Revenue performance allocations unrealized.
+
+Interest and Dividend Revenue
+Less: Interest and Dividend Revenue
+Less: Interest and Dividend Revenue
+
+Interest and dividend revenue.
+
+Other Revenue
+Less: Other Revenue
+Less: Other Revenue
+
+Other revenue.
+
+Revenue Consolidation Impact
+Impact of Consolidation
+
+Revenue consolidation impact.
+
+Segment Expenses
+Total Expenses
+Total Expenses
+
+Segment expenses.
+
+Expense Performance Allocations Unrealized
+Less: Unrealized Performance Allocations Compensation
+Plus: Unrealized Performance Allocations Compensation
+
+Expense performance allocations unrealized.
+
+Allocated Share-based Compensation Expense
+Less: Equity-Based Compensation
+Plus: Equity-Based Compensation
+
+Interest Expense Adjustment
+Less: Interest Expense
+Plus: Interest Expense
+
+Interest expense adjustment.
+
+Expense Consolidation Impact
+Impact of Consolidation
+
+Expense consolidation impact.
+
+Amortization Of Intangible Assets Operating Expenses
+Amortization of Intangibles
+
+Amortization Of Intangible Assets Operating Expenses
+
+Other Income Consolidation Impact
+Impact of Consolidation
+
+Other income consolidation impact.
+
+Income Loss From Continuing Operations Before Income Taxes Amortization of Intangibles
+Amortization of Intangibles
+
+Income loss from continuing operations before income taxes amortization of intangibles.
+
+Assets Consolidation Impact
+Total Assets
+
+Assets consolidation impact.
+
+Inter Segment Eliminations Revenues
+Intersegment Eliminations
+
+Inter segment eliminations revenues.
+
+Inter Segment Eliminations Expenses
+Intersegment Eliminations
+
+Inter segment eliminations expenses.
+
+Segment Distributable Earnings Consolidation Impact
+Impact of Consolidation
+
+Segment distributable earnings consolidation impact.
+
+Segment Other Income
+Total Other Income
+
+Segment other income.
+
+Income Loss From Continuing Operations Before Income Taxes Administrative Fee Adjustment
+Administrative Fee Adjustment
+
+Income loss from continuing operations before income taxes administrative fee adjustment.
+
+Expense Administrative Fee Adjustment
+Administrative Fee Adjustment
+
+Expense administrative fee adjustment.
+
+Expense Transaction Related Charges and Non Recurring Items
+Transaction-Related and Non-Recurring Items
+
+Expense transaction related charges and non recurring items.
+
+Revenue Transaction Related Charges and Non Recurring Items
+Transaction-Related and Non-Recurring Items
+
+Revenue transaction related charges and non recurring items.
+
+Income Loss From Continuing Operations Before Income Taxes Transaction Related Charges and Non Recurring Items
+Transaction-Related and Non-Recurring Items
+
+Income loss from continuing operations before income taxes transaction related charges and non recurring items.
+
+Fees Related Compensation
+Total Segment Fee Related Compensation
+
+Fees related compensation.
+
+Foreign Currency Transaction Gain (Loss), before Tax
+Foreign exchange gains (losses)
+
+Realized Performance Revenues Adjustment
+Less: Realized Performance Revenues
+
+Realized performance revenues adjustment.
+
+Labor And Related Expense Excluding Performance Allocations Compensation Unrealized
+Total Compensation and Benefits
+
+Labor and Related Expense Excluding Performance Allocations Compensation Unrealized.
+
+Fee Related Performance Compensation Adjustment
+Less: Fee Related Performance Compensation
+
+Fee Related Performance Compensation Adjustment.
+
+Performance Related Equity Based Compensation
+Less: Equity-Based Compensation Performance Compensation
+Less: Equity-Based Compensation Performance Compensation
+
+Performance Related Equity Based Compensation.
+
+Operation Related Equity Based Compensation
+Less: Equity-Based Compensation Fee Related Compensation
+
+Operation related equity based compensation.
+
+Other Operating Expenses Segment Adjustment
+General, Administrative and Other
+
+Other operating expenses segment adjustment.
+
+Realized Principal Investment Income Loss Segment Adjustment
+Investment Income Realized
+
+Realized principal investment income loss segment adjustment.
+
+Fee Related Compensation Segment Adjustment
+Segment Adjustment
+
+Fee related compensation segment adjustment.
+
+Fee Related Performance Revenues Adjustment
+Realized Performance Revenues
+
+Fee Related Performance Revenues Adjustment.
+
+Management And Advisory Fees Net Segment Adjustment
+Revenues
+
+Management and advisory fees net segment adjustment.
+
+Realized Performance Revenues Segment Adjustment
+Segment Adjustment
+
+Realized performance revenues segment adjustment.

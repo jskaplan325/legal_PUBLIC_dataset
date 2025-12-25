@@ -1,0 +1,1161 @@
+XML
+130
+R100.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value - Schedule of Financial Instruments Not Measured at Fair Value (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Debt
+$ 10,151
+
+$ 7,536
+
+Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Debt
+5,844
+
+3,660
+
+Carrying Value | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Policy loans
+318
+
+334
+
+Short-term investments
+192
+
+Other investments
+93
+
+46
+
+Total Assets Asset Management
+29,733
+
+36,919
+
+Interest sensitive contract liabilities
+200,278
+
+154,095
+
+Debt
+6,309
+
+4,209
+
+Securities to repurchase
+5,716
+
+3,853
+
+Funds withheld liability
+4,331
+
+350
+
+Total financial liabilities not carried at fair value
+216,634
+
+162,507
+
+Carrying Value | Nonrelated Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+107
+
+109
+
+Funds withheld at interest
+21,901
+
+27,738
+
+Carrying Value | Related Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+714
+
+550
+
+Funds withheld at interest
+5,665
+
+7,195
+
+Short-term investments
+743
+
+947
+
+Fair Value | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Policy loans
+318
+
+334
+
+Short-term investments
+192
+
+Other investments
+101
+
+52
+
+Total Assets Asset Management
+29,741
+
+36,925
+
+Interest sensitive contract liabilities
+192,025
+
+146,038
+
+Debt
+5,844
+
+3,660
+
+Securities to repurchase
+5,716
+
+3,853
+
+Funds withheld liability
+4,331
+
+350
+
+Total financial liabilities not carried at fair value
+207,916
+
+153,901
+
+Fair Value | Nonrelated Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+107
+
+109
+
+Funds withheld at interest
+21,901
+
+27,738
+
+Fair Value | Related Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+714
+
+550
+
+Funds withheld at interest
+5,665
+
+7,195
+
+Short-term investments
+743
+
+947
+
+Fair Value | NAV | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Policy loans
+0
+
+0
+
+Short-term investments
+0
+
+Other investments
+0
+
+0
+
+Total Assets Asset Management
+821
+
+659
+
+Interest sensitive contract liabilities
+0
+
+0
+
+Debt
+0
+
+0
+
+Securities to repurchase
+0
+
+0
+
+Funds withheld liability
+0
+
+0
+
+Total financial liabilities not carried at fair value
+0
+
+0
+
+Fair Value | NAV | Nonrelated Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+107
+
+109
+
+Funds withheld at interest
+0
+
+0
+
+Fair Value | NAV | Related Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+714
+
+550
+
+Funds withheld at interest
+0
+
+0
+
+Short-term investments
+0
+
+0
+
+Fair Value | Level 1 | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Policy loans
+0
+
+0
+
+Short-term investments
+0
+
+Other investments
+0
+
+0
+
+Total Assets Asset Management
+0
+
+0
+
+Interest sensitive contract liabilities
+0
+
+0
+
+Debt
+581
+
+0
+
+Securities to repurchase
+0
+
+0
+
+Funds withheld liability
+0
+
+0
+
+Total financial liabilities not carried at fair value
+581
+
+0
+
+Fair Value | Level 1 | Nonrelated Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+0
+
+0
+
+Funds withheld at interest
+0
+
+0
+
+Fair Value | Level 1 | Related Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+0
+
+0
+
+Funds withheld at interest
+0
+
+0
+
+Short-term investments
+0
+
+0
+
+Fair Value | Level 2 | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Policy loans
+318
+
+334
+
+Short-term investments
+0
+
+Other investments
+0
+
+0
+
+Total Assets Asset Management
+1,061
+
+1,281
+
+Interest sensitive contract liabilities
+0
+
+0
+
+Debt
+5,263
+
+3,660
+
+Securities to repurchase
+5,716
+
+3,853
+
+Funds withheld liability
+0
+
+350
+
+Total financial liabilities not carried at fair value
+10,979
+
+7,863
+
+Fair Value | Level 2 | Nonrelated Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+0
+
+0
+
+Funds withheld at interest
+0
+
+0
+
+Fair Value | Level 2 | Related Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+0
+
+0
+
+Funds withheld at interest
+0
+
+0
+
+Short-term investments
+743
+
+947
+
+Fair Value | Level 3 | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Policy loans
+0
+
+0
+
+Short-term investments
+192
+
+Other investments
+101
+
+52
+
+Total Assets Asset Management
+27,859
+
+34,985
+
+Interest sensitive contract liabilities
+192,025
+
+146,038
+
+Debt
+0
+
+0
+
+Securities to repurchase
+0
+
+0
+
+Funds withheld liability
+4,331
+
+0
+
+Total financial liabilities not carried at fair value
+196,356
+
+146,038
+
+Fair Value | Level 3 | Nonrelated Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+0
+
+0
+
+Funds withheld at interest
+21,901
+
+27,738
+
+Fair Value | Level 3 | Related Party | Retirement Services
+
+Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+Investment funds
+0
+
+0
+
+Funds withheld at interest
+5,665
+
+7,195
+
+Short-term investments
+$ 0
+
+$ 0
+
+X
+
+- DefinitionInvestment Funds, Fair Value Disclosure
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_InvestmentFundsFairValueDisclosure
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionOther Investments, Fair Value Disclosure
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_OtherInvestmentsFairValueDisclosure
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionShort Term Investments, Fair Value Disclosure
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_ShortTermInvestmentsFairValueDisclosure
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of asset recognized for present right to economic benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AssetsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of debt instrument payable, including, but not limited to, notes payable and loans payable.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69B
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69C
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
++ Details
+
+ Name:
+us-gaap_FairValueDisclosureAssetAndLiabilityNotMeasuredAtFairValueLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of financial obligations, including, but not limited to, debt instruments, derivative liabilities, federal funds purchased and sold under agreements to repurchase, securities loaned or sold under agreements to repurchase, financial instruments sold not yet purchased, guarantees, line of credit, loans and notes payable, servicing liability, and trading liabilities.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FinancialLiabilitiesFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of the reinsurer's funds held on its behalf by the ceding insurer, including funds held in trust, under reinsurance treaties or contracts with the assuming insurer as security for the payment of the obligations thereunder.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(10))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_FundsHeldUnderReinsuranceAgreementsAsset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of funds held as security for payments to be received under reinsurance contracts.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FundsHeldUnderReinsuranceAgreementsLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of liability related to investment contracts for example, but not limited to, guaranteed investment contract or annuities.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 825
+ -Section 25
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478850/944-825-25-2
+
++ Details
+
+ Name:
+us-gaap_LiabilitiesRelatedToInvestmentContractsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of loan receivable, including, but not limited to, mortgage loans held for investment, finance receivables held for investment, policy loans on insurance contracts.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_LoansReceivableFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of securities that an entity sells and agrees to repurchase at a specified date for a specified price.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_SecuritiesLoanedOrSoldUnderAgreementsToRepurchaseFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=apo_RetirementServicesSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByMeasurementBasisAxis=us-gaap_CarryingReportedAmountFairValueDisclosureMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_NonrelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByMeasurementBasisAxis=us-gaap_EstimateOfFairValueFairValueDisclosureMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueMeasuredAtNetAssetValuePerShareMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel1Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel2Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,1018 @@
+XML
+162
+R90.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SEGMENT REPORTING - Schedule of Segment Revenue Reconciliation (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Revenue adjustment
+
+Total revenues
+$ 3,884,781
+
+$ 3,631,884
+
+$ 3,055,443
+
+Total segment revenue
+3,690,668
+
+3,236,285
+
+2,880,007
+
+Ares Management L.P
+
+Revenue adjustment
+
+Total revenues
+3,884,781
+
+3,631,884
+
+3,055,443
+
+Operating segment | Ares Management L.P
+
+Revenue adjustment
+
+Performance income unrealized
+(109,533)
+
+(305,370)
+
+(107,153)
+
+Total segment revenue
+3,690,668
+
+3,236,285
+
+2,880,007
+
+Reconciling items
+
+Revenue adjustment
+
+Total segment revenue
+(194,113)
+
+(395,599)
+
+(175,436)
+
+Principal investment income, net of eliminations
+(38,367)
+
+(155,632)
+
+(48,223)
+
+Reconciling items | Non-Controlling interest | Subsidiaries
+
+Revenue adjustment
+
+Total segment revenue
+(23,693)
+
+(35,923)
+
+(37,103)
+
+OMG
+
+Revenue adjustment
+
+OMG revenue
+(20,357)
+
+(23,685)
+
+(24,354)
+
+Consolidated Funds
+
+Revenue adjustment
+
+OMG revenue
+313,963
+
+262,700
+
+73,386
+
+Management fees
+
+Revenue adjustment
+
+Total revenues
+2,942,126
+
+2,551,150
+
+2,136,433
+
+Management fees | Operating segment | Ares Management L.P
+
+Revenue adjustment
+
+Total revenues
+2,957,430
+
+2,571,513
+
+2,152,528
+
+Management fees | OMG
+
+Revenue adjustment
+
+Total revenues
+0
+
+0
+
+0
+
+Management fees | Consolidated Funds | Eliminations
+
+Revenue adjustment
+
+Total segment revenue
+46,597
+
+48,201
+
+46,324
+
+Carried interest
+
+Revenue adjustment
+
+Total revenues
+390,180
+
+618,579
+
+458,012
+
+Carried interest | Consolidated Funds | Eliminations
+
+Revenue adjustment
+
+Total revenues
+28,135
+
+13,672
+
+11,529
+
+Administrative, transaction and other fees
+
+Revenue adjustment
+
+Total revenues
+162,894
+
+149,012
+
+147,532
+
+Administrative, transaction and other fees | Reconciling items
+
+Revenue adjustment
+
+Total revenues
+(70,363)
+
+(63,144)
+
+(69,414)
+
+Administrative, transaction and other fees | Consolidated Funds | Reconciling items
+
+Revenue adjustment
+
+Total revenues
+525
+
+7,166
+
+17,013
+
+Principal investment income
+
+Revenue adjustment
+
+Total revenues
+45,424
+
+36,516
+
+12,279
+
+Principal investment income | Reconciling items
+
+Revenue adjustment
+
+Principal investment income, net of eliminations
+$ (45,424)
+
+$ (36,516)
+
+$ (12,278)
+
+X
+
+- DefinitionRepresents the amount of unrealized revenue recognized by the entity based on the investment results achieved.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PerformanceFeesRevenueLossUnrealized
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized and unrealized gain (loss) on investment.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 3: http://www.xbrl.org/2003/role/recommendedDisclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_GainLossOnInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after investment expense, of income earned from investments in securities and real estate. Includes, but is not limited to, real estate investment, policy loans, dividends, and interest. Excludes realized gain (loss) on investments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-10
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -SubTopic 220
+ -Topic 946
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479105/946-220-45-5
+
++ Details
+
+ Name:
+us-gaap_NetInvestmentIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 4: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 924
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 11.L)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479941/924-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-5
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-4
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of revenue recognized from goods sold, services rendered, insurance premiums, or other activities that constitute an earning process. Includes, but is not limited to, investment and interest income before deduction of interest expense when recognized as a component of revenue, and sales and trading gain (loss).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(g)(1)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 28
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 11: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(iii)(A))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(iv))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(iii)(A))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(iii)(B))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(iv))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-05(b)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477314/942-235-S99-1
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_Revenues
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingRevenueReconcilingItemLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_MaterialReconcilingItemsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementEquityComponentsAxis=us-gaap_NoncontrollingInterestMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_SubsidiariesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_CorporateNonSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_ConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_ManagementServiceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_IntersegmentEliminationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=ares_CarriedInterestMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_AdministrativeServiceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=ares_PrincipalInvestmentIncomeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

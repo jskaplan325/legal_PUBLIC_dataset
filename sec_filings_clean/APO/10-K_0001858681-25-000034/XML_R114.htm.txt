@@ -1,0 +1,1172 @@
+XML
+144
+R114.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Long-duration Contracts - Narrative (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Dec. 31, 2021
+
+Liability for Future Policy Benefit, Activity [Line Items]
+
+Increase in reserves
+$ 15
+
+$ 136
+
+$ 50
+
+Change in instrument-specific credit risk
+(149)
+
+(374)
+
+366
+
+Total
+
+Liability for Future Policy Benefit, Activity [Line Items]
+
+Increase (decrease) future policy benefits for payout annuities with life contingencies
+(3,400)
+
+11,950
+
+1,144
+
+Benefit payments
+4,561
+
+3,852
+
+2,921
+
+Change in discount rate assumptions
+(1,440)
+
+(2,236)
+
+(8,425)
+
+Effect of changes in cash flow assumptions
+
+297
+
+Change in foreign exchange
+(356)
+
+220
+
+(77)
+
+Interest accrual
+1,871
+
+1,664
+
+1,146
+
+Issuances
+1,115
+
+13,518
+
+11,528
+
+Reduction in reserve related to recapture
+
+(1,509)
+
+Change in discount rate assumptions
+7,584
+
+6,144
+
+8,425
+
+$ 0
+
+Traditional Deferred Annuities and Indexed Annuities
+
+Liability for Future Policy Benefit, Activity [Line Items]
+
+Increase in market risk benefit liabilities
+342
+
+884
+
+(1,958)
+
+Attributed fees collected
+360
+
+338
+
+333
+
+Issuances
+295
+
+106
+
+60
+
+Market risk benefit, interest expense
+201
+
+157
+
+56
+
+Change in instrument-specific credit risk
+(149)
+
+(374)
+
+(366)
+
+Effect of changes in interest rates
+(658)
+
+(91)
+
+(2,169)
+
+Effect of changes in equity
+(94)
+
+(119)
+
+176
+
+Indexed Annuities
+
+Liability for Future Policy Benefit, Activity [Line Items]
+
+Attributed fees collected
+358
+
+336
+
+330
+
+Issuances
+295
+
+106
+
+60
+
+Market risk benefit, interest expense
+191
+
+147
+
+52
+
+Effect of changes in interest rates
+(640)
+
+(90)
+
+(2,092)
+
+Effect of changes in equity
+$ (94)
+
+$ (119)
+
+$ 176
+
+X
+
+- DefinitionLiability For Future Policy Benefit, Expected Future Policy Benefit Cumulative Increase (Decrease) From Favorable (Unfavorable) Changes In Assumptions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitCumulativeIncreaseDecreaseFromFavorableUnfavorableChangesInAssumptions
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLiability For Future Policy Benefit Expected Future Policy Benefit Foreign Exchange
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitForeignExchange
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLiability For Future Policy Benefit Expected Future Policy Benefit Other
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitOther
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLiability For Future Policy Benefit, Expected Future Policy, Increase (Decrease) For Discount Rate Assumptions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_LiabilityForFuturePolicyBenefitExpectedFuturePolicyIncreaseDecreaseForDiscountRateAssumptions
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax, of accumulated other comprehensive income (loss) (AOCI) from (increase) decrease in expected future policy benefit component of liability for future policy benefit from change in discount rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_AociLiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe change in the future policy benefit reserve balance on the balance sheet.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (a)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_IncreaseDecreaseInFuturePolicyBenefitReserves
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(6)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(5)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 9: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitActivityLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of interest expense for expected future policy benefit and expense component of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitInterestExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in expected future policy benefit and expense component of liability for future policy benefit from contract issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitIssuance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in expected future policy benefit and expense component for liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitPeriodIncreaseDecrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash outflow to policyholder from benefit payment for expected future policy benefit and expense component of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 17
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-17
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitsPaymentForBenefits
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash inflow to contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from attributed fee collected.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitAttributedFeeCollected
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from change in equity market assumption.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitIncreaseDecreaseFromEquityMarketChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from change in interest rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitIncreaseDecreaseFromInterestRateChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of interest expense for contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitInterestExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from contract issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitIssuance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitPeriodIncreaseDecrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax and after adjustments, of unrealized gain (loss) from (increase) decrease in instrument-specific credit risk on contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(19))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-11
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10A
+ -Subparagraph (n)
+ -SubTopic 10
+ -Topic 220
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-10A
+
++ Details
+
+ Name:
+us-gaap_OciMarketRiskBenefitInstrumentSpecificCreditRiskGainLossAfterAdjustmentsBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_PayoutAnnuitiesWithLifeContingenciesAndWholeLifeInsuranceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_TraditionalDeferredAnnuitiesAndIndexedAnnuitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_IndexedAnnuitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,753 @@
+XML
+135
+R113.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+FAIR VALUE OPTION - Change in Fair Value (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Assets
+
+Net Realized Gains (Losses)
+$ (38,900)
+
+$ 34,123
+
+$ (181,243)
+
+Net Unrealized Gains (Losses)
+(76,071)
+
+1,024,111
+
+(1,582,835)
+
+Total
+(114,971)
+
+1,058,234
+
+(1,764,078)
+
+Liabilities
+
+Net Realized Gains (Losses)
+(10,387)
+
+(1,212)
+
+(785)
+
+Net Unrealized Gains (Losses)
+25,720
+
+(952,870)
+
+1,313,200
+
+Total
+15,333
+
+(954,082)
+
+1,312,415
+
+Asset Management and Strategic Holdings
+
+Assets
+
+Net Realized Gains (Losses)
+(38,900)
+
+34,123
+
+(181,243)
+
+Net Unrealized Gains (Losses)
+(90,187)
+
+1,090,867
+
+(1,639,375)
+
+Total
+(129,087)
+
+1,124,990
+
+(1,820,618)
+
+Liabilities
+
+Net Realized Gains (Losses)
+(10,387)
+
+(1,212)
+
+(785)
+
+Net Unrealized Gains (Losses)
+(58,952)
+
+(1,015,491)
+
+1,175,161
+
+Total
+(69,339)
+
+(1,016,703)
+
+1,174,376
+
+Insurance
+
+Assets
+
+Net Realized Gains (Losses)
+0
+
+0
+
+0
+
+Net Unrealized Gains (Losses)
+14,116
+
+(66,756)
+
+56,540
+
+Total
+14,116
+
+(66,756)
+
+56,540
+
+Liabilities
+
+Net Realized Gains (Losses)
+0
+
+0
+
+0
+
+Net Unrealized Gains (Losses)
+84,672
+
+62,621
+
+138,039
+
+Total
+84,672
+
+62,621
+
+138,039
+
+Credit | Asset Management and Strategic Holdings
+
+Assets
+
+Net Realized Gains (Losses)
+(30,456)
+
+(85,682)
+
+(103,860)
+
+Net Unrealized Gains (Losses)
+5,968
+
+66,109
+
+(9,326)
+
+Total
+(24,488)
+
+(19,573)
+
+(113,186)
+
+Investments of Consolidated CFEs | Asset Management and Strategic Holdings
+
+Assets
+
+Net Realized Gains (Losses)
+(61,580)
+
+(104,196)
+
+(69,234)
+
+Net Unrealized Gains (Losses)
+84,799
+
+1,019,063
+
+(1,437,482)
+
+Total
+23,219
+
+914,867
+
+(1,506,716)
+
+Real Assets | Asset Management and Strategic Holdings
+
+Assets
+
+Net Realized Gains (Losses)
+0
+
+51,637
+
+85
+
+Net Unrealized Gains (Losses)
+(4,634)
+
+(54,697)
+
+19,295
+
+Total
+(4,634)
+
+(3,060)
+
+19,380
+
+Real Assets | Insurance
+
+Assets
+
+Net Realized Gains (Losses)
+0
+
+0
+
+0
+
+Net Unrealized Gains (Losses)
+(13,543)
+
+(52,291)
+
+122,082
+
+Total
+(13,543)
+
+(52,291)
+
+122,082
+
+Equity Method - Other | Asset Management and Strategic Holdings
+
+Assets
+
+Net Realized Gains (Losses)
+52,204
+
+170,909
+
+(14,891)
+
+Net Unrealized Gains (Losses)
+(176,599)
+
+61,205
+
+(201,935)
+
+Total
+(124,395)
+
+232,114
+
+(216,826)
+
+Mortgage and Other Loan Receivables | Insurance
+
+Assets
+
+Net Realized Gains (Losses)
+0
+
+0
+
+0
+
+Net Unrealized Gains (Losses)
+42,778
+
+(1,342)
+
+(96,569)
+
+Total
+42,778
+
+(1,342)
+
+(96,569)
+
+Other Investments | Asset Management and Strategic Holdings
+
+Assets
+
+Net Realized Gains (Losses)
+932
+
+1,455
+
+6,657
+
+Net Unrealized Gains (Losses)
+279
+
+(813)
+
+(9,927)
+
+Total
+1,211
+
+642
+
+(3,270)
+
+Other Investments | Insurance
+
+Assets
+
+Net Realized Gains (Losses)
+0
+
+0
+
+0
+
+Net Unrealized Gains (Losses)
+(15,119)
+
+(13,123)
+
+31,027
+
+Total
+(15,119)
+
+(13,123)
+
+31,027
+
+Debt Obligations of Consolidated CFEs | Asset Management and Strategic Holdings
+
+Liabilities
+
+Net Realized Gains (Losses)
+(10,387)
+
+(1,212)
+
+(785)
+
+Net Unrealized Gains (Losses)
+(58,952)
+
+(1,015,491)
+
+1,175,161
+
+Total
+(69,339)
+
+(1,016,703)
+
+1,174,376
+
+Policy Liabilities | Insurance
+
+Liabilities
+
+Net Realized Gains (Losses)
+0
+
+0
+
+0
+
+Net Unrealized Gains (Losses)
+84,672
+
+62,621
+
+138,039
+
+Total
+$ 84,672
+
+$ 62,621
+
+$ 138,039
+
+X
+
+- DefinitionFair Value, Option, Assets Changes In Fair Value
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionAssetsChangesInFairValueAbstract
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Option, Assets, Changes in Fair Value, Gain (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionAssetsChangesinFairValueGainLoss
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Option, Assets, Changes in Fair Value, Net Change in Unrealized Gain (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionAssetsChangesinFairValueNetChangeinUnrealizedGainLoss
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Option, Assets, Changes in Fair Value, Realized and Unrealized Gain (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionAssetsChangesinFairValueRealizedandUnrealizedGainLoss
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Option, Liabilities Changes In Fair Value
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionLiabilitiesChangesInFairValueAbstract
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Option, Liabilities, Changes in Fair Value, Gain (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionLiabilitiesChangesinFairValueGainLoss
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Option, Liabilities, Changes in Fair Value, Net Change in Unrealized Gain (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionLiabilitiesChangesinFairValueNetChangeinUnrealizedGainLoss
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Option, Liabilities, Changes in Fair Value, Realized and Unrealized Gain (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionLiabilitiesChangesinFairValueRealizedandUnrealizedGainLoss
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_FixedIncomeInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=kkr_RealAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=kkr_EquityMethodInvestmentsOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_MortgageReceivablesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_FairValueOptionOtherEligibleItemsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_SecuredDebtMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=kkr_LiabilityForClaimsAndClaimsAdjustmentExpenseMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

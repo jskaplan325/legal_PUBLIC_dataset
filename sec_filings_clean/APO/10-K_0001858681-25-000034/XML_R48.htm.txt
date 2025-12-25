@@ -1,0 +1,378 @@
+XML
+78
+R48.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Income Taxes (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Income Tax Disclosure [Abstract]
+
+Schedule of Components of Income Tax Expense (Benefit)
+The provision (benefit) for income taxes is presented in the following table:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Current:
+Federal income tax1
+ $ 1,083 $ 809 $ 402
+Foreign income tax2
+ 23 104 54
+State and local income tax 55 64 59
+ $ 1,161 $ 977 $ 515
+Deferred:
+Federal income tax (77) 331 (1,209)
+Foreign income tax2
+ (30) (2,239) 6
+State and local income tax 8 8 (51)
+ (99) (1,900) (1,254)
+Total Income Tax Provision (Benefit) $ 1,062 $ (923) $ (739)
+
+1 For the years ended December 31, 2024, 2023 and 2022, current includes proportional amortization of $56 million, $49 million and $0 million, respectively; tax credits of $(367) million, $(186) million and $(16) million, respectively; and transaction costs relating to low-income housing and transferable energy tax credits of $248 million, $103 million and $0 million, respectively.
+
+2 The foreign income tax provision (benefit) was calculated on $2,393 million, $2,600 million and $(3,359) million of pre-tax income (loss) generated in foreign jurisdictions for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+The income tax provision (benefit) is presented in the following table:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Income tax provision (benefit) $ 1,062 $ (923) $ (739)
+Income tax provision (benefit) from other comprehensive income (loss) 21 513 (1,933)
+Total income tax provision (benefit) $ 1,083 $ (410) $ (2,672)
+
+Schedule of Effective Income Tax Rate Reconciliation
+The following table reconciles the U.S. Federal statutory tax rate to the effective income tax rate:
+
+ Years ended December 31,
+ (In millions, except percentages) 2024 2023 2022
+U.S. federal statutory tax rate 21.0 % 21.0 % 21.0 %
+Income passed through to non-controlling interests (3.5) (4.6) (9.0)
+State and local income taxes (net of federal benefit) 0.5 1.2 (0.1)
+Impact of Mergers 7.3
+
+Impact of foreign taxes (net of foreign tax credit) (2.6) (31.0)
+Impact of equity-based compensation (1.0) 1.0 0.1
+Impact of valuation allowance 0.6 (1.3)
+Tax Credits (0.5) (0.6)
+Redomicile 0.1 (1.2)
+Other (0.3) (1.0) (1.9)
+Effective income tax rate 14.3 % (16.5) % 17.4 %
+
+Summary of Operating Loss Carryforwards
+The net operating losses and tax credit carryforwards consist of the following:
+
+ December 31, 2024
+
+ Amount
+(in millions) Expiration Year1
+
+U.S. Federal net operating losses $ 580 2026
+U.S. foreign tax credit 66 2033
+U.S. corporate alternative minimum tax credit 115 No expiration
+U.S. State net operating losses 281 2031
+U.K. net operating losses 194 No expiration
+Bermuda net operating losses 7,797 No expiration
+
+1 Represents year operating losses begin to expire.
+
+Schedule of Deferred Tax Assets and Liabilities
+The Company s deferred tax assets and liabilities in the consolidated statements of financial condition consist of the following:
+
+ December 31,
+(In millions) 2024 2023
+Asset Management
+Deferred Tax Assets:
+Depreciation and amortization $ 303 $ 395
+Tax Credits 167 68
+Deferred revenue 9 11
+Equity-based compensation 166 170
+Net operating loss carryforwards 23
+Other 47 74
+Total Deferred Tax Assets 715 718
+Valuation Allowance (27) (8)
+Deferred Tax Assets, Net of Valuation Allowance 688 710
+Deferred Tax Liabilities:
+Basis difference in investments 252 163
+Other 8
+Total Deferred Tax Liabilities 252 171
+Total Deferred Tax Assets, Net - Asset Management $ 436 $ 539
+Retirement Services
+Deferred Tax Assets:
+Insurance liabilities $ 2,383 $ 1,742
+
+Net operating and capital loss carryforwards 193 284
+Investments, including derivatives 2,331 1,904
+Employee benefits 10 8
+Bermuda tax 1,959 1,764
+Investment in foreign subsidiaries 552 1,176
+
+Tax credits 13
+Other 280
+Total Deferred Tax Assets 7,441 7,158
+Valuation allowance (48) (25)
+Deferred Tax Assets, Net of Valuation Allowance 7,393 7,133
+Deferred Tax Liabilities:
+Intangible assets 362 386
+
+DAC, DSI and VOBA 1,120 954
+Other 10 49
+Total Deferred Tax Liabilities 1,492 1,389
+Total Deferred Tax Assets, Net - Retirement Services $ 5,901 $ 5,744
+
+Schedule of Valuation Allowance
+The valuation allowance consists of the following:
+
+ December 31,
+(In millions) 2024 2023
+U.S. federal and state net operating losses and other deferred tax assets $ 30 $ 8
+U.K. net operating losses and other deferred tax assets 45 25
+Total Valuation Allowance $ 75 $ 33
+
+Schedule of Unrecognized Tax Benefits Roll Forward
+The following table presents a roll-forward of the beginning and ending aggregate unrecognized tax benefits for the periods presented:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Balance at beginning of period $ 19 $ 15 $
+
+Increases based on tax positions taken in the prior years 8 4 15
+
+Decreases due to settlements with tax authorities (17)
+
+Balance at end of period $ 10 $ 19 $ 15
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the components of income tax expense attributable to continuing operations for each year presented including, but not limited to: current tax expense (benefit), deferred tax expense (benefit), investment tax credits, government grants, the benefits of operating loss carryforwards, tax expense that results from allocating certain tax benefits either directly to contributed capital or to reduce goodwill or other noncurrent intangible assets of an acquired entity, adjustments of a deferred tax liability or asset for enacted changes in tax laws or rates or a change in the tax status of the entity, and adjustments of the beginning-of-the-year balances of a valuation allowance because of a change in circumstances that causes a change in judgment about the realizability of the related deferred tax asset in future years.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-9
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfComponentsOfIncomeTaxExpenseBenefitTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the components of net deferred tax asset or liability recognized in an entity's statement of financial position, including the following: the total of all deferred tax liabilities, the total of all deferred tax assets, the total valuation allowance recognized for deferred tax assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDeferredTaxAssetsAndLiabilitiesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the reconciliation using percentage or dollar amounts of the reported amount of income tax expense attributable to continuing operations for the year to the amount of income tax expense that would result from applying domestic federal statutory tax rates to pretax income from continuing operations.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 231
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-231
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12A
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEffectiveIncomeTaxRateReconciliationTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the change in unrecognized tax benefits.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfUnrecognizedTaxBenefitsRollForwardTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of pertinent information, such as tax authority, amounts, and expiration dates, of net operating loss carryforwards, including an assessment of the likelihood of utilization.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-3
+
++ Details
+
+ Name:
+us-gaap_SummaryOfOperatingLossCarryforwardsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of valuation allowances to reduce deferred tax assets to net realizable value, including identification of the deferred tax asset more likely than not will not be fully realized and the corresponding amount of the valuation allowance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_SummaryOfValuationAllowanceTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,367 @@
+XML
+107
+R78.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Schedule of Repurchase Agreements Obligation by Type of Collateral Pledged (Detail)
+ $ in Thousands
+
+Dec. 31, 2024
+
+USD ($)
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Gross Amount of Recognized Liabilities for Repurchase Agreements in Note 12. "Offsetting of Assets and Liabilities"
+$ 6,758
+
+Amounts Related to Agreements Not Included in Offsetting Disclosure in Note 12. "Offsetting of Assets and Liabilities"
+0
+
+Asset-backed Securities
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Repurchase Agreements
+6,758
+
+Overnight and Continuous | Asset-backed Securities
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Repurchase Agreements
+0
+
+Up to 30 Days | Asset-backed Securities
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Repurchase Agreements
+6,758
+
+30 - 90 Days | Asset-backed Securities
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Repurchase Agreements
+0
+
+Greater than 90 Days | Asset-backed Securities
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Repurchase Agreements
+$ 0
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 860
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481420/860-30-50-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(m)(1)(ii)(A))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after the effects of master netting arrangements, of funds outstanding borrowed in the form of a security repurchase agreement between the entity and another party for the sale and repurchase of identical or substantially the same securities at a date certain for a specified price. Includes liabilities not subject to a master netting arrangement and not elected to be offset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(13)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-12A(Column A)(Footnote 2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.12-12(Column A)(Footnote 2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 6
+ -Subparagraph (SX 210.12-14(Column A)(Footnote 2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-6
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-12B(Column A)(Footnote 4)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-3
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(m)(1)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(m)(1)(ii)(A)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
++ Details
+
+ Name:
+us-gaap_SecuritiesSoldUnderAgreementsToRepurchase
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before effects of master netting arrangements, of funds outstanding borrowed in the form of a security repurchase agreement between the entity and another party for the sale and repurchase of identical or substantially the same securities at a date certain for a specified price. Includes liabilities elected not to be offset. Excludes liabilities not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-7
+
++ Details
+
+ Name:
+us-gaap_SecuritiesSoldUnderAgreementsToRepurchaseGross
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of funds outstanding borrowed in the form of a security repurchase agreement between the entity and another party for the sale and repurchase of identical or substantially the same securities at a date certain for a specified price, not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (d)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
++ Details
+
+ Name:
+us-gaap_SecuritiesSoldUnderAgreementsToRepurchaseNotSubjectToMasterNettingArrangement
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_AssetBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseMaturityPeriodsAxis=us-gaap_MaturityOvernightMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseMaturityPeriodsAxis=us-gaap_MaturityUpTo30DaysMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseMaturityPeriodsAxis=us-gaap_Maturity30To90DaysMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseMaturityPeriodsAxis=us-gaap_MaturityOver90DaysMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

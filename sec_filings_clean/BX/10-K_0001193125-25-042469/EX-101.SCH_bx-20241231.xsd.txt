@@ -1,0 +1,574 @@
+EX-101.SCH
+16
+bx-20241231.xsd
+XBRL TAXONOMY EXTENSION SCHEMA
+
+1001 - Document - Cover Page
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+1002 - Statement - Consolidated Statements of Financial Condition
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+1003 - Statement - Consolidated Statements of Financial Condition (Parenthetical)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+1004 - Statement - Consolidated Statements of Operations
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+1005 - Statement - Consolidated Statements of Comprehensive Income
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+1006 - Statement - Consolidated Statement of Changes in Equity
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+1007 - Statement - Consolidated Statement of Changes in Equity (Parenthetical)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+1008 - Statement - Consolidated Statements of Cash Flows
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+1009 - Statement - Consolidated Statements of Cash Flows (Parenthetical)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999001 - Disclosure - Cybersecurity Risk Management and Strategy Disclosure
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999002 - Disclosure - Organization
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999003 - Disclosure - Summary of Significant Accounting Policies
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999004 - Disclosure - Goodwill and Intangible Assets
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999005 - Disclosure - Investments
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999006 - Disclosure - Derivative Financial Instruments
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999007 - Disclosure - Fair Value Option
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999008 - Disclosure - Fair Value Measurements of Financial Instruments
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999009 - Disclosure - Variable Interest Entities
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999010 - Disclosure - Repurchase Agreements
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999011 - Disclosure - Other Assets
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999012 - Disclosure - Offsetting of Assets And Liabilities
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999013 - Disclosure - Borrowings
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999014 - Disclosure - Leases
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999015 - Disclosure - Income Taxes
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999016 - Disclosure - Earnings Per Share and Stockholders' Equity
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999017 - Disclosure - Equity-Based Compensation
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999018 - Disclosure - Related Party Transactions
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999019 - Disclosure - Commitments and Contingencies
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999020 - Disclosure - Segment Reporting
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999021 - Disclosure - Subsequent Events
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999022 - Disclosure - Summary of Significant Accounting Policies (Policies)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999023 - Disclosure - Goodwill and Intangible Assets (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999024 - Disclosure - Investments (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999025 - Disclosure - Derivative Financial Instruments (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999026 - Disclosure - Fair Value Option (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999027 - Disclosure - Fair Value Measurements of Financial Instruments (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999028 - Disclosure - Variable Interest Entities (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999029 - Disclosure - Repurchase Agreements (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999030 - Disclosure - Other Assets (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999031 - Disclosure - Offsetting of Assets And Liabilities (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999032 - Disclosure - Borrowings (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999033 - Disclosure - Leases (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999034 - Disclosure - Income Taxes (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999035 - Disclosure - Earnings Per Share and Stockholders' Equity (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999036 - Disclosure - Equity-Based Compensation (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999037 - Disclosure - Related Party Transactions (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999038 - Disclosure - Commitments and Contingencies (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999039 - Disclosure - Segment Reporting (Tables)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999040 - Disclosure - Organization - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999041 - Disclosure - Summary of Significant Accounting Policies - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999042 - Disclosure - Goodwill and Intangible Assets, Net (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999043 - Disclosure - Goodwill and Intangible Assets - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999044 - Disclosure - Changes in Partnership's Intangible Assets, Net (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999045 - Disclosure - Investments (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999046 - Disclosure - Investments - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999047 - Disclosure - Reconciliation of Realized and Net Change in Unrealized Gains (Losses) to Other Income (Loss) - Net Gains (Losses) from Fund Investment Activities in Consolidated Statements of Operations (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999048 - Disclosure - Summarized Financial Information of Partnership's Equity Method Investments (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999049 - Disclosure - Performance Fees Allocated to Funds (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999050 - Disclosure - Realized and Net Change in Unrealized Gains (Losses) on Investments (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999051 - Disclosure - Realized and Net Change in Unrealized Gains (Losses) in Other Investments (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999052 - Disclosure - Summary of Aggregate Notional Amount and Fair Value of Derivative Financial Instruments (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999053 - Disclosure - Summary of Impact of Derivative Financial Instruments to Consolidated Statements of Operations (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999054 - Disclosure - Summary of Financial Instruments for Which Fair Value Option Has Been Elected (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999055 - Disclosure - Realized and Net Change in Unrealized Gains (Losses) on Financial Instruments on Financial Instruments on Which Fair Value Option was Elected (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999056 - Disclosure - Information for Financial Instruments on Which Fair Value Option was Elected (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999057 - Disclosure - Fair Value Option - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999058 - Disclosure - Financial Assets and Liabilities at Fair Value (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999059 - Disclosure - Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds' Remaining Unfunded Commitments and Ability to Redeem Such Investments (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999060 - Disclosure - Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds' Remaining Unfunded Commitments and Ability to Redeem Such Investments (Parenthetical) (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999061 - Disclosure - Summary of Quantitative Inputs and Assumptions for Items Categorized in Level III of Fair Value Hierarchy (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999062 - Disclosure - Summary of Changes in Financial Assets and Liabilities Measured at Fair Value for Which Level III Inputs Were Used (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999063 - Disclosure - Fair Value Measurements of Financial instruments - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999064 - Disclosure - Maximum Exposure to Loss Relating to Non-Consolidated VIEs (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999065 - Disclosure - Repurchase Agreements - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999066 - Disclosure - Schedule of Repurchase Agreements Obligation by Type of Collateral Pledged (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999067 - Disclosure - Components of Other Assets (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999068 - Disclosure - Other Assets - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999069 - Disclosure - Offsetting of Assets and Liabilities (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999070 - Disclosure - Offsetting Of Assets And Liabilities - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999071 - Disclosure - Borrowings - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999072 - Disclosure - Partnership Credit Facilities (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999073 - Disclosure - Partnership Credit Facilities (Parenthetical) (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999074 - Disclosure - Carrying Value and Fair Value of Blackstone Issued Notes (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999075 - Disclosure - Carrying Value and Fair Value of Blackstone Issued Notes (Parenthetical) (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999076 - Disclosure - Scheduled Principal Payments for Borrowings (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999077 - Disclosure - Leases - Additional informaton (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999078 - Disclosure - Leases Components of leases expenses (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999079 - Disclosure - Leases Supplemental Cash Flow Information Related Leases (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999080 - Disclosure - Leases Cash flows Annual Basis For Operating Lease Liabilities (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999081 - Disclosure - Income Before Provision for Taxes (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999082 - Disclosure - Provision (Benefit) for Income Taxes (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999083 - Disclosure - Summary of Tax Positions (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999084 - Disclosure - Reconciliations of Effective Income Tax Rate to Federal Statutory Tax Rate (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999085 - Disclosure - Income Taxes - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999086 - Disclosure - Summary of Tax Effects of Temporary Differences (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999087 - Disclosure - Schedule of Major Filing Jurisdictions and Open Period Subject to Examinations (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999088 - Disclosure - Unrecognized Tax Benefits Excluding Related Interest and Penalties (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999089 - Disclosure - Basic and Diluted Net Income Per Common Stock (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999090 - Disclosure - Summary of Anti-Dilutive Securities (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999091 - Disclosure - Schedule of Shares Eligible For Dividends and Distribution (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999092 - Disclosure - Earnings Per Share and Stockholder's Equity - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999093 - Disclosure - Equity-Based Compensation - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999094 - Disclosure - Summary of Status of Partnership's Unvested Equity-Based Awards (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999095 - Disclosure - Unvested Shares and Units, After Expected Forfeitures (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999096 - Disclosure - Due from Affiliates and Due to Affiliates (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999097 - Disclosure - Related Party Transactions - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999098 - Disclosure - Commitments and Contingencies - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999099 - Disclosure - Clawback Obligations by Segment (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999100 - Disclosure - Segment Reporting - Additional Information (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999101 - Disclosure - Summary of Revenue from External Customers by Geographic Areas (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999102 - Disclosure - Financial Data of Segments (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999103 - Disclosure - Reconciliation of Total Segments to Income (Loss) Before Provision for Taxes and Total Assets (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999104 - Disclosure - Reconciliation of Total Segments to Income (Loss) Before Provision for Taxes and Total Assets (Parenthetical) (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink
+
+999105 - Disclosure - Reconciliation of Total Segments to Reported on the Consolidated Statements of Operations (Detail)
+link:presentationLink
+link:definitionLink
+link:calculationLink

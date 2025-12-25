@@ -1,0 +1,157 @@
+XML
+85
+R55.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Statutory Requirements (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Schedule of Statutory Accounting Practices Disclosure
+The following represents the EBS capital and surplus and BSCR ratios:
+ December 31,
+ 2024
+ 2023
+
+(In millions, except percentages) EBS capital & surplus BSCR ratio EBS capital & surplus BSCR ratio
+ALRe $ 23,547 420 % $ 18,245 233 %
+AARe 27,693 238 % 26,647 291 %
+ACRA 1A 3,866 165 % 5,296 219 %
+ACRA 2A 4,277 176 % 3,717 353 %
+
+The following represents the effect of the permitted practices to the statutory financial statements:
+
+ December 31, 2024
+(In millions) ALRe AARe ACRA 1A ACRA 2A
+Increase (decrease) to capital and surplus due to permitted practices $ (5) $ 6,119 $ 3,768 $ 51
+Increase (decrease) to statutory net income due to permitted practices 973 (2,695) 54 515
+
+The following represents the maximum distribution Athene s Bermuda subsidiaries would be permitted to remit to its parent without the need for prior approval:
+ December 31,
+(In millions) 2024 2023
+ALRe $ 10,112 $ 7,023
+AARe 10,207 8,012
+ACRA 1A 1,044 1,614
+ACRA 2A 877 30
+
+Athene s primary regulated U.S. subsidiaries and the corresponding insurance regulatory authorities are as follows:
+
+Subsidiary Regulatory Authority
+AAIA Iowa Insurance Division
+AANY New York Department of Financial Services
+Athene Re USA IV State of Vermont Department of Financial Regulation
+
+The following table presents, for each of Athene s primary insurance subsidiaries, the statutory capital and surplus and the statutory net income (loss), based on the most recent statutory financial statements to be filed with insurance regulators:
+
+ Statutory capital & surplus Statutory net income (loss)
+ December 31, Years ended December 31,
+(In millions) 2024 2023 2024 2023 2022
+ALRe $ 17,623 $ 14,474 $ 3,140 $ 832 $ 937
+AARe 21,049 17,773 2,910 408 1,329
+ACRA 1A 4,521 5,092 841 297 (87)
+ACRA 2A 4,569 1,952 877 (759) (2)
+AAIA 3,899 3,306 949 (79) (486)
+AANY 318 290 25 (3) (23)
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of how the entity's reporting under GAAP as of the balance sheet date differs from the results based on prescribed and permitted accounting practices of the state or country of domicile in which a relevant statutory filing is made, or differences in results based on the National Association of Insurance Commissioners (NAIC) prescribed practices, or a combination thereof. Describes the accounting practices used and the related monetary effect on statutory surplus, net income, and risk-based capital. If an insurance enterprise's risk-based capital would have triggered a regulatory event had it not used a permitted practice, that fact is disclosed in the financial statements. Permitted statutory accounting practices include practices not prescribed but allowed by the domiciliary state insurance department regulatory authority.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(23)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 505
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477908/944-505-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 505
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477908/944-505-50-6
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 505
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478420/944-505-55-2
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 505
+ -Section 55
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478420/944-505-55-1
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 505
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477908/944-505-50-3
+
++ Details
+
+ Name:
+us-gaap_StatutoryAccountingPracticesDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

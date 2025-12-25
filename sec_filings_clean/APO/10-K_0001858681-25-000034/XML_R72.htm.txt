@@ -1,0 +1,445 @@
+XML
+102
+R72.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Net Investment Income (Details) - Retirement Services - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Net Investment Income [Line Items]
+
+Investment revenue
+$ 15,817
+
+$ 12,171
+
+$ 8,186
+
+Investment expenses
+(99)
+
+(91)
+
+(38)
+
+Net investment income
+15,718
+
+12,080
+
+8,148
+
+AFS securities
+
+Net Investment Income [Line Items]
+
+Investment revenue
+9,691
+
+6,901
+
+4,165
+
+Trading securities
+
+Net Investment Income [Line Items]
+
+Investment revenue
+161
+
+177
+
+174
+
+Equity securities
+
+Net Investment Income [Line Items]
+
+Investment revenue
+90
+
+76
+
+64
+
+Mortgage loans
+
+Net Investment Income [Line Items]
+
+Investment revenue
+3,767
+
+2,360
+
+1,261
+
+Investment funds
+
+Net Investment Income [Line Items]
+
+Investment revenue
+(38)
+
+90
+
+408
+
+Funds withheld at interest
+
+Net Investment Income [Line Items]
+
+Investment revenue
+1,318
+
+1,752
+
+1,844
+
+Other
+
+Net Investment Income [Line Items]
+
+Investment revenue
+$ 828
+
+$ 815
+
+$ 270
+
+X
+
+- DefinitionAmount, before investment expense, of income earned from investments in securities and real estate. Includes, but is not limited to, real estate investment, policy loans, dividends, and interest. Excludes realized gain (loss) on investments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-10
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_GrossInvestmentIncomeOperating
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expenses related to the generation of investment income.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-10
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_InvestmentIncomeInvestmentExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after investment expense, of income earned from investments in securities and real estate. Includes, but is not limited to, real estate investment, policy loans, dividends, and interest. Excludes realized gain (loss) on investments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-10
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -SubTopic 220
+ -Topic 946
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479105/946-220-45-5
+
++ Details
+
+ Name:
+us-gaap_NetInvestmentIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfInvestmentIncomeReportedAmountsByCategoryLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=apo_RetirementServicesSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_DebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_TradingAssetsExcludingDebtAndEquitySecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_EquitySecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_MortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=apo_InvestmentFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=apo_FundsHeldUnderReinsuranceAgreementsAssetMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_OtherInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

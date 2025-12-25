@@ -1,0 +1,460 @@
+XML
+52
+R22.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Debt
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Debt Disclosure [Abstract]
+
+Debt
+14. Debt
+
+Company debt consisted of the following:
+
+ December 31, 2024 December 31, 2023
+(In millions, except percentages) Maturity Date Outstanding Balance Fair Value Outstanding Balance Fair Value
+Asset Management
+4.00% 2024 Senior Notes1,2
+ May 30, 2024 $ $ $ 499 $ 496 4
+
+4.40% 2026 Senior Notes1,2
+ May 27, 2026 499 496 4
+ 498 490 4
+
+4.87% 2029 Senior Notes1,2
+ February 15, 2029 675 670 4
+ 675 664 4
+
+2.65% 2030 Senior Notes1,2
+ June 5, 2030 497 439 4
+ 496 432 4
+
+6.38% 2033 Senior Notes1,2
+ November 15, 2033 492 542 4
+ 492 539 4
+
+5.00% 2048 Senior Notes1,2
+ March 15, 2048 297 271 4
+ 297 275 4
+
+5.80% 2054 Senior Notes1,2
+ May 21, 2054 741 753 4
+
+4.95% 2050 Subordinated Notes1,2
+ January 14, 2050 297 283 4
+
+7.63% 2053 Subordinated Notes1,2
+ September 15, 2053 584 642 5
+ 584 652 5
+
+6.00% 2054 Subordinated Notes1,2
+ December 15, 2054
+ 494 494 4
+
+1.70% Secured Borrowing II
+ April 15, 2032 14 14 4
+
+1.30% 2016 AMI Term Facility I
+ January 15, 2025 19 19 3
+
+2.00% 2016 AMI Term Facility II
+ October 18, 2024 12 12 3
+
+ 4,279 4,307 3,883 3,876
+Retirement Services
+4.13% 2028 AHL Senior Notes1
+ January 12, 2028 1,050 976 4
+ 1,066 956 4
+
+6.15% 2030 AHL Senior Notes1
+ April 3, 2030 579 519 4
+ 593 516 4
+
+3.50% 2031 AHL Senior Notes1
+ January 15, 2031 520 452 4
+ 523 442 4
+
+6.65% 2033 AHL Senior Notes1
+ February 1, 2033 395 425 4
+ 395 427 4
+
+5.88% 2034 AHL Senior Notes1
+ January 15, 2034 584 608 4
+ 583 607 4
+
+3.95% 2051 AHL Senior Notes1
+ May 25, 2051 544 360 4
+ 545 375 4
+
+3.45% 2052 AHL Senior Notes1
+ May 15, 2052 504 322 4
+ 504 337 4
+
+6.25% 2054 AHL Senior Notes1
+ April 1, 2054 983 1,003 4
+
+6.63% 2054 AHL Subordinated Notes1
+ October 15, 2054 592 598 4
+
+7.25% 2064 AHL Subordinated Notes1
+ March 30, 2064 558 581 5
+
+ 6,309 5,844 4,209 3,660
+Total Debt $ 10,588 $ 10,151 $ 8,092 $ 7,536
+
+1 Interest rate is calculated as weighted average annualized.
+
+2 Includes amortization of note discount, as applicable, totaling $44 million and $34 million as of December 31, 2024 and December 31, 2023, respectively. Outstanding balance is presented net of unamortized debt issuance costs.
+
+3 Fair value is based on a discounted cash flow method. These notes are classified as a Level 3 liability within the fair value hierarchy.
+
+4 Fair value is based on broker quotes. These notes are valued using Level 2 inputs based on the number and quality of broker quotes obtained, the standard deviations of the observed broker quotes and the percentage deviation from external pricing services.
+
+5 Fair value is based on quoted market prices. These notes are classified as a Level 1 liability within the fair value hierarchy.
+
+Asset Management Notes Issued and Repayments
+
+On May 21, 2024, AGM issued $750 million aggregate principal amount of its 5.800% Senior Notes due 2054 (the 2054 Senior Notes ), at par value. The 2054 Senior Notes bear interest at a rate of 5.800% per annum and interest is payable semi-annually in arrears on May 21 and November 21 of each year, commencing on November 21, 2024. The 2054 Senior Notes will mature on May 21, 2054. The underwriting discount and related expenses are amortized into interest expense on the consolidated statements of operations over the term of the 2054 Senior Notes.
+
+On May 30, 2024, AMH repaid in full the principal and accrued interest of the $500 million aggregate principal amount of its 4.00% 2024 Senior Notes.
+
+On October 10, 2024, AGM issued $500 million aggregate principal amount of its 6.000% Fixed-Rate Resettable Junior Subordinated Notes due 2054 (the 2054 Subordinated Notes ), at par value. Subject to the Company s right to defer the payment of interest for up to five years, interest on the 2054 Subordinated Notes is payable on a semi-annual basis in arrears on
+June 15 and December 15 of each year, commencing on June 15, 2025. The 2054 Subordinated Notes bear interest at a fixed rate of 6.000% per annum until December 15, 2034 (the First Reset Date ). On and after the First Reset Date, on the five-year anniversary of the First Reset Date and every five years thereafter, the interest rate on the 2054 Subordinated Notes will be reset equal to the Five-Year U.S. Treasury Rate (as defined in the indenture for the 2054 Subordinated Notes (the Indenture )) as of the most recent Reset Interest Determination Date (as defined in the Indenture) plus a spread of 2.168%. The 2054 Subordinated Notes will mature on December 15, 2054. The underwriting discount and related expenses are amortized into interest expense on the consolidated statements of operations over the term of the 2054 Subordinated Notes.
+
+On December 16, 2024, AMH repaid in full the principal and accrued interest of the $300 million aggregate principal amount of its 4.95% 2050 Subordinated Notes.
+
+The indentures governing the 2026 Senior Notes, the 2029 Senior Notes, the 2030 Senior Notes, the 2033 Senior Notes, the 2048 Senior Notes, the 2054 Senior Notes, the 2053 Subordinated Notes and the 2054 Subordinated Notes restrict the ability of AGM, AMH and the guarantors of the notes to incur indebtedness secured by liens on voting stock or profit participating equity interests of their respective subsidiaries, or merge, consolidate or sell, transfer or lease assets. The indentures also provide for customary events of default.
+
+Retirement Services Notes Issued
+
+AHL Senior Notes Athene s senior unsecured notes are callable by AHL at any time. If called prior to three months before the scheduled maturity date, the price is equal to the greater of (1) 100% of the principal and any accrued and unpaid interest and (2) an amount equal to the sum of the present values of remaining scheduled payments, discounted from the scheduled payment date to the redemption date at the treasury rate plus a spread (as defined in the applicable prospectus supplement) and any accrued and unpaid interest.
+
+During the first quarter of 2024, Athene issued $1.0 billion of 6.250% Senior Notes due April 1, 2054 (the 2054 AHL Senior Notes ). Athene will pay interest on the 2054 AHL Senior Notes semi-annually, commencing on October 1, 2024.
+
+AHL Subordinated Notes During the first quarter of 2024, Athene issued $575 million of 7.250% Fixed-Rate Reset Junior Subordinated Debentures due March 30, 2064 (the 2064 AHL Subordinated Notes ). Athene will pay interest at an annual fixed rate of 7.250% on the 2064 AHL Subordinated Notes quarterly, commencing on June 30, 2024 until March 30, 2029. On March 30, 2029, and every fifth annual anniversary thereafter, the interest rate will reset to the Five-Year U.S. Treasury Rate (as defined in the applicable prospectus supplement) plus 2.986%. Athene may defer interest payments for up to five consecutive years.
+
+During the fourth quarter of 2024, Athene issued $600 million of 6.625% Fixed-Rate Reset Junior Subordinated Debentures due October 15, 2054 (the 2054 AHL Subordinated Notes ). Athene will pay interest semi-annually at an annual fixed rate of 6.625% on the 2054 AHL Subordinated Notes, commencing on April 15, 2025 until October 15, 2034. On October 15, 2034, and every fifth annual anniversary thereafter, the interest rate will reset to the Five-Year U.S. Treasury Rate (as defined in the applicable prospectus supplement) plus 2.607%. Athene may defer interest payments for up to five consecutive years.
+
+Credit and Liquidity Facilities
+
+The following table represents the Company s credit and liquidity facilities as of December 31, 2024:
+
+Instrument/Facility Borrowing Date Maturity Date Administrative Agent Key terms
+
+Asset Management -
+AGM credit facility
+ N/A November 21, 2029 Citibank The borrowing capacity under the AGM credit facility is $1.25 billion, subject to being increased up to $1.5 billion in total.
+
+Retirement Services -
+AHL credit facility
+ N/A June 30, 2028 Citibank The borrowing capacity under the AHL credit facility is $1.25 billion, subject to being increased up to $1.75 billion in total.
+
+Retirement Services -
+AHL liquidity facility
+ N/A June 27, 2025 Wells Fargo Bank The borrowing capacity under the AHL liquidity facility is $2.6 billion, subject to being increased up to $3.1 billion in total.
+
+Asset Management Credit Facility
+
+On November 21, 2024, AGM and AMH, as parent borrower and subsidiary borrower, respectively, entered into a new $1.25 billion revolving credit facility with Citibank, N.A., as administrative agent, which matures on November 21, 2029 ( AGM credit facility ). The AGM credit facility replaced the previous AMH credit facility dated as of October 12, 2022. The previous agreement, and the obligations and commitments under it, terminated as of November 21, 2024. As of December 31, 2024, AGM and AMH, as borrowers under the facility, could incur incremental facilities in an aggregate amount not to exceed $250 million plus additional amounts so long as AGM and AMH were in compliance with a net leverage ratio not to exceed 4.00 to 1.00.
+
+As of December 31, 2024 and December 31, 2023, there were no amounts outstanding under the AGM credit facility or the previous AMH credit facility and the Company was in compliance with all financial covenants under the facilities.
+
+Retirement Services Credit and Liquidity Facilities
+
+AHL Credit Facility On June 30, 2023, AHL, ALRe, AUSA and AARe entered into a five-year revolving credit agreement with a syndicate of banks and Citibank, N.A. as administrative agent ( AHL credit facility ). The AHL credit facility is unsecured and has a commitment termination date of June 30, 2028, subject to up to two one-year extensions, in accordance with the terms of the AHL credit facility. In connection with the AHL credit facility, AHL and AUSA guaranteed all of the obligations of AHL, ALRe, AARe and AUSA under the AHL credit facility and the related loan documents, and ALRe and AARe guaranteed certain of the obligations of AHL, ALRe, AARe and AUSA under the AHL credit facility and the related loan documents. The borrowing capacity under the AHL credit facility is $1.25 billion, subject to being increased up to $1.75 billion in total on the terms described in the AHL credit facility.
+
+The AHL credit facility contains various standard covenants with which Athene must comply, including the following:
+
+1.Consolidated debt-to-capitalization ratio not to exceed 35%;
+2.Minimum consolidated net worth of no less than $14.8 billion; and
+3.Restrictions on Athene s ability to incur liens, with certain exceptions.
+
+Interest accrues on outstanding borrowings at either the adjusted term secured overnight financing rate plus a margin or the base rate plus a margin, with the applicable margin varying based on AHL s debt rating. Rates and terms are as defined in the AHL credit facility. As of December 31, 2024 and December 31, 2023, there were no amounts outstanding under the AHL credit facility and Athene was in compliance with all financial covenants under the facility.
+
+AHL Liquidity Facility On June 28, 2024, AHL and ALRe entered into a new revolving credit agreement with a syndicate of banks and Wells Fargo Bank, National Association, as administrative agent, ( AHL liquidity facility ), which replaced Athene s previous revolving credit agreement dated as of June 30, 2023. The previous credit agreement, and the commitments under it, expired on June 28, 2024. The AHL liquidity facility is unsecured and has a commitment termination date of June 27, 2025, subject to any extensions of additional 364-day periods with consent of extending lenders and/or term-out of outstanding loans (by which, at Athene s election, the outstanding loans may be converted to term loans which shall have a maturity of up to one year after the original maturity date), in each case in accordance with the terms of the AHL liquidity facility. In connection with the AHL liquidity facility, ALRe guaranteed all of the obligations of AHL under the AHL liquidity facility and the related loan documents. The AHL liquidity facility will be used for liquidity and working capital needs to meet short-term cash flow and investment timing differences. The borrowing capacity under the AHL liquidity facility is $2.6 billion, subject to being increased up to $3.1 billion in total on the terms described in the AHL liquidity facility. The AHL liquidity facility contains various standard covenants with which Athene must comply, including the following:
+
+1.ALRe minimum consolidated net worth of no less than $10.2 billion; and
+2.Restrictions on Athene s ability to incur liens, with certain exceptions.
+
+Interest accrues on outstanding borrowings at the adjusted term secured overnight financing rate plus a margin or the base rate plus a margin, with applicable margin varying based on ALRe s financial strength rating. Rates and terms are as defined in the AHL liquidity facility. As of December 31, 2024 and December 31, 2023, there were no amounts outstanding under the current or previous AHL liquidity facilities and Athene was in compliance with all financial covenants under the facilities.
+Interest Expense
+
+The following table presents the interest expense incurred related to the Company s debt:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Asset Management $ 226 $ 145 $ 124
+Retirement Services1
+ 248 123 98
+Total Interest Expense $ 474 $ 268 $ 222
+
+Note: Debt issuance costs incurred are amortized into interest expense over the term of the debt arrangement, as applicable.
+
+1 Interest expense for Retirement Services is included in policy and other operating expenses on the consolidated statements of operations.
+
+Contractual Maturities
+
+The table below presents the contractual maturities for the Company s debt arrangements as of December 31, 2024:
+
+(In millions) 2025 2026 - 2027
+ 2028 - 2029
+ 2030 and Thereafter Total
+Asset Management
+Debt obligations $ $ 500 $ 675 $ 3,150 $ 4,325
+Retirement Services
+Debt obligations 1,000 5,175 6,175
+Total Obligations as of December 31, 2024
+ $ $ 500 $ 1,675 $ 8,325 $ 10,500
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for information about short-term and long-term debt arrangements, which includes amounts of borrowings under each line of credit, note payable, commercial paper issue, bonds indenture, debenture issue, own-share lending arrangements and any other contractual agreement to repay funds, and about the underlying arrangements, rationale for a classification as long-term, including repayment terms, interest rates, collateral provided, restrictions on use of assets and activities, whether or not in compliance with debt covenants, and other matters important to users of the financial statements, such as the effects of refinancing and noncompliance with debt covenants.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 10: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 470
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/470/tableOfContent
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1C
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1C
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1C
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1C
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1C
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1C
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1E
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1E
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1I
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1I
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1I
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1I
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1I
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1I
+
++ Details
+
+ Name:
+us-gaap_DebtDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

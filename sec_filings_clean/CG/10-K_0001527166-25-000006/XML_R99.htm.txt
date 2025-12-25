@@ -1,0 +1,320 @@
+XML
+122
+R99.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Related Party Transactions - Due to Affiliates (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Related Party Transaction [Line Items]
+
+Due to affiliates
+$ 241.9
+
+$ 275.9
+
+Affiliates
+
+Related Party Transaction [Line Items]
+
+Due to affiliates
+241.9
+
+275.9
+
+Due to affiliates of Consolidated Funds | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due to affiliates
+5.3
+
+6.3
+
+Due to non-consolidated affiliates | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due to affiliates
+134.1
+
+97.0
+
+Amounts owed under the tax receivable agreement | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due to affiliates
+77.2
+
+79.3
+
+Deferred consideration for Carlyle Holdings units | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due to affiliates
+0.0
+
+68.4
+
+Other | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due to affiliates
+$ 25.3
+
+$ 24.9
+
+X
+
+- DefinitionAmount of liabilities classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-12
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(17))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_AffiliatedEntityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_ConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_NonConsolidatedAffiliatesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_TaxReceivableAgreementMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_DeferredConsiderationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_OtherRelatedPartyTransactionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

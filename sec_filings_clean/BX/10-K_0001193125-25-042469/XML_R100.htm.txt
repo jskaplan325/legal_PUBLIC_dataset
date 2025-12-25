@@ -1,0 +1,314 @@
+XML
+129
+R100.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Unrecognized Tax Benefits Excluding Related Interest and Penalties (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Income Tax Contingency [Line Items]
+
+Unrecognized Tax Benefits January 1
+$ 210,778
+
+$ 153,624
+
+$ 47,501
+
+Additions based on Tax Positions Related to Current Year
+46,572
+
+19,807
+
+0
+
+Reductions for Tax Positions of Current Year
+0
+
+(19,737)
+
+0
+
+Additions for Tax Positions of Prior Years
+0
+
+57,081
+
+106,059
+
+Reductions for Tax Positions of Prior Years
+(6,111)
+
+0
+
+0
+
+Exchange Rate Fluctuations
+218
+
+3
+
+64
+
+Unrecognized Tax Benefits December 31
+$ 251,457
+
+$ 210,778
+
+$ 153,624
+
+X
+
+- DefinitionUnrecognized Tax Benefits, Exchange Rate Fluctuation
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_UnrecognizedTaxBenefitsExchangeRateFluctuation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxContingencyLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrecognized tax benefits.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482525/740-10-45-10B
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefits
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of decrease in unrecognized tax benefits resulting from tax positions that have been or will be taken in current period tax return.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsDecreasesResultingFromCurrentPeriodTaxPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of decrease in unrecognized tax benefits resulting from tax positions taken in prior period tax returns.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in unrecognized tax benefits resulting from tax positions that have been or will be taken in current period tax return.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in unrecognized tax benefits resulting from tax positions taken in prior period tax returns.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration

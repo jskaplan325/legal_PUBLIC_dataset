@@ -1,0 +1,134 @@
+XML
+105
+R75.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Unrealized Gain (Loss) on Trading and Equity Securities (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Investments, All Other Investments [Abstract]
+
+Trading securities
+$ (42)
+
+$ 93
+
+$ (414)
+
+Equity securities
+$ 12
+
+$ 49
+
+$ (146)
+
+X
+
+- DefinitionAmount of unrealized gain (loss) on investment in debt security measured at fair value with change in fair value recognized in net income (trading).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-14
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesTradingUnrealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) on investment in equity security measured at fair value with change in fair value recognized in net income (FV-NI).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(3)(d)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 321
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479536/321-10-50-4
+
++ Details
+
+ Name:
+us-gaap_EquitySecuritiesFvNiUnrealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InvestmentsAllOtherInvestmentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

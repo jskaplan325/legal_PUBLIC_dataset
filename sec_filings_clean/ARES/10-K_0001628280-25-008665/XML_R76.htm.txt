@@ -1,0 +1,164 @@
+XML
+148
+R76.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INCOME TAXES - Narrative (Details) - USD ($)
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Income Tax Disclosure [Abstract]
+
+Valuation allowance
+$ (900,000)
+
+$ (900,000)
+
+Net operating losses and capital loss carryforwards
+36,400,000
+
+10,600,000
+
+Unrecognized tax
+$ 0
+
+$ 0
+
+$ 0
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible operating loss carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsOperatingLossCarryforwards
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax assets for which it is more likely than not that a tax benefit will not be realized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsValuationAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrecognized tax benefits.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482525/740-10-45-10B
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefits
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant

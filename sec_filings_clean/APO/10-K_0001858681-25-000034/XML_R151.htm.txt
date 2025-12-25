@@ -1,0 +1,475 @@
+XML
+181
+R151.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Commitments and Contingencies - Schedule of Restricted Assets (Details) - Athene Holding Limited - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Financial Instruments Owned and Pledged as Collateral [Line Items]
+
+AFS securities
+$ 46,337
+
+$ 32,458
+
+Trading securities
+1,665
+
+139
+
+Equity securities
+286
+
+80
+
+Mortgage loans
+27,883
+
+14,257
+
+Investment funds
+777
+
+409
+
+Derivative assets
+91
+
+73
+
+Short-term investments
+2
+
+153
+
+Other investments
+1,507
+
+313
+
+Restricted cash and cash equivalents
+953
+
+1,761
+
+Total restricted assets
+$ 79,501
+
+$ 49,643
+
+X
+
+- DefinitionDerivative Assets, Restricted
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_DerivativeAssetsRestricted
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionInvestment Funds, Restricted
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_InvestmentFundsRestricted
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionMortgage Loans, Restricted
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_MortgageLoansRestricted
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionOther Investments, Restricted
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_OtherInvestmentsRestricted
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionShort-term Investments, Restricted
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_ShortTermInvestmentsRestricted
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionTotal Restricted Assets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_TotalRestrictedAssets
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of restricted investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 860
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (b)(1)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481420/860-30-50-1A
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477220/954-210-45-4
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478600/954-210-50-2
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleRestricted
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of restricted investment in debt security measured at fair value with change in fair value recognized in net income (trading).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 860
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (b)(1)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481420/860-30-50-1A
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477220/954-210-45-4
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478600/954-210-50-2
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesTradingRestricted
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of restricted investment in equity security measured at fair value with change in fair value recognized in net income (FV-NI).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 860
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (b)(1)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481420/860-30-50-1A
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477220/954-210-45-4
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478600/954-210-50-2
+
++ Details
+
+ Name:
+us-gaap_EquitySecuritiesFvNiRestricted
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(11))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 860
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481444/860-30-45-1
+
++ Details
+
+ Name:
+us-gaap_FinancialInstrumentsOwnedAndPledgedAsCollateralLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash and cash equivalents restricted as to withdrawal or usage. Cash includes, but is not limited to, currency on hand, demand deposits with banks or financial institutions, and other accounts with general characteristics of demand deposits. Cash equivalents include, but are not limited to, short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-8
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(1)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-4
+
++ Details
+
+ Name:
+us-gaap_RestrictedCashAndCashEquivalents
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_AtheneHoldingLimitedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

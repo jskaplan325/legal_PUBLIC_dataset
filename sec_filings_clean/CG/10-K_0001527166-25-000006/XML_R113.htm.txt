@@ -1,0 +1,168 @@
+XML
+136
+R113.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity - Quarterly Distributions on Common Units (Details) - USD ($)
+ $ / shares in Units, $ in Millions
+
+3 Months Ended
+12 Months Ended
+
+Dec. 31, 2024
+
+Sep. 30, 2024
+
+Jun. 30, 2024
+
+Mar. 31, 2024
+
+Dec. 31, 2023
+
+Sep. 30, 2023
+
+Jun. 30, 2023
+
+Mar. 31, 2023
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Equity [Abstract]
+
+Dividend per Common Share (in dollars per share)
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 1.40
+
+$ 1.40
+
+Dividend to Common Stockholders
+$ 126.5
+
+$ 125.2
+
+$ 125.5
+
+$ 125.6
+
+$ 126.7
+
+$ 126.3
+
+$ 126.3
+
+$ 126.7
+
+$ 502.8
+
+$ 506.0
+
+X
+
+- DefinitionAggregate dividends declared during the period for each share of common stock outstanding.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_CommonStockDividendsPerShareDeclared
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of paid and unpaid common stock dividends declared with the form of settlement in cash, stock and payment-in-kind (PIK).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -SubTopic 405
+ -Topic 942
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477787/942-405-45-2
+
++ Details
+
+ Name:
+us-gaap_DividendsCommonStock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EquityAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

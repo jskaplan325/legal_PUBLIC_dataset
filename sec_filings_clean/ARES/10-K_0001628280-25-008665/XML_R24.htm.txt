@@ -1,0 +1,78 @@
+XML
+96
+R24.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUBSEQUENT EVENTS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Subsequent Events [Abstract]
+
+SUBSEQUENT EVENTS
+16. SUBSEQUENT EVENTS
+The Company evaluated all events or transactions that occurred after December 31, 2024 through the date the consolidated financial statements were issued. During this period, the Company had the following material subsequent events that require disclosure:
+In February 2025, the Company s board of directors declared a quarterly dividend of $1.12 per share of Class A and non-voting common stock payable on March 31, 2025 to common stockholders of record at the close of business on March 17, 2025.
+In February 2025, the Company s board of directors declared a quarterly dividend of $0.84375 per share of Series B mandatory convertible preferred stock payable on April 1, 2025 to preferred stockholders of record on March 15, 2025.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SubsequentEventsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for significant events or transactions that occurred after the balance sheet date through the date the financial statements were issued or the date the financial statements were available to be issued. Examples include: the sale of a capital stock issue, purchase of a business, settlement of litigation, catastrophic loss, significant foreign exchange rate changes, loans to insiders or affiliates, and transactions not in the ordinary course of business.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 855
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/855/tableOfContent
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 855
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483399/855-10-50-2
+
++ Details
+
+ Name:
+us-gaap_SubsequentEventsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

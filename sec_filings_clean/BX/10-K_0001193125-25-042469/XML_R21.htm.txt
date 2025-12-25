@@ -1,0 +1,100 @@
+XML
+50
+R21.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Variable Interest Entities
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Variable Interest Entities
+
+8.
+
+ Variable Interest Entities
+
+ Pursuant to GAAP consolidation guidance, Blackstone consolidates certain VIEs for which it is the primary beneficiary either directly or indirectly, through a consolidated entity or affiliate. VIEs include certain private equity, real estate, credit-focused or funds of hedge funds entities and CLO vehicles. The purpose of such VIEs is to provide strategy specific investment opportunities for investors in exchange for management and performance-based fees. The investment strategies of the Blackstone Funds differ by product; however, the fundamental risks of the Blackstone Funds are similar, including loss of invested capital and loss of management fees and performance-based fees. In Blackstone s role as general partner, collateral manager or investment adviser, it generally considers itself the sponsor of the applicable Blackstone Fund. Blackstone does not provide performance guarantees and has no other financial obligation to provide funding to consolidated VIEs other than its own capital commitments.
+
+ The assets of consolidated variable interest entities may only be used to settle obligations of these entities. In addition, there is no recourse to Blackstone for the consolidated VIEs liabilities.
+
+ Blackstone holds variable interests in certain VIEs which are not consolidated as it is determined that Blackstone is not the primary beneficiary. Blackstone s involvement with such entities is in the form of direct and indirect equity interests and fee arrangements. The maximum exposure to loss represents the loss of assets recognized by Blackstone relating to non-consolidated VIEs and any clawback obligation relating to previously distributed Performance Allocations. Blackstone s maximum exposure to loss relating to non-consolidated VIEs was
+ as follows:
+
+December 31,
+2024
+
+December 31,
+2023
+
+ Investments
+
+$
+
+4,537,481
+
+$
+
+3,751,591
+
+ Due from Affiliates
+
+242,109
+
+203,187
+
+ Potential Clawback Obligation
+
+41,908
+
+72,119
+
+ Maximum Exposure to Loss
+
+$
+
+4,821,498
+
+$
+
+4,026,897
+
+ Amounts Due to Non-Consolidated VIEs
+
+$
+
+855
+
+$
+
+223
+
+X
+
+- DefinitionThe entire disclosure for a variable interest entity (VIE), including but not limited to, judgments and assumptions in determining whether to consolidate and in identifying the primary beneficiary, gain (loss) recognized on the initial consolidation of the VIE, terms of arrangements, amounts and classification of the VIE's assets and liabilities, and the entity's maximum exposure to loss.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 810
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/810/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_VariableInterestEntityDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

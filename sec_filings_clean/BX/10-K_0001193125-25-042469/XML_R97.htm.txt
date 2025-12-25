@@ -1,0 +1,189 @@
+XML
+126
+R97.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Income Taxes - Additional Information (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Income Tax [Line Items]
+
+Interest expense accrued
+$ 29,100
+
+$ 22,800
+
+$ 32,600
+
+Deferred tax valuation allowance
+21,199
+
+0
+
+Reduction of Tax Receivable Agreement Liability
+(41,246)
+
+(27,196)
+
+$ 22,283
+
+Dcrease of Deferred Tax Assets
+317,100
+
+Tax Cuts and Jobs Act
+
+Income Tax [Line Items]
+
+Reduction of Tax Receivable Agreement Liability
+$ (41,200)
+
+$ (27,200)
+
+X
+
+- DefinitionDcrease of deferred tax assets.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_DcreaseOfDeferredTaxAssets
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionIncome Tax [Line Items]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_IncomeTaxLineItems
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionReduction of tax receivable agreement liability.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ReductionOfTaxReceivableAgreementLiability
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUnrecognized Tax Benefits And Interest Accrued (Reversal)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_UnrecognizedTaxBenefitsAndInterestAccruedReversal
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax assets for which it is more likely than not that a tax benefit will not be realized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsValuationAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeTaxAuthorityNameAxis=bx_TaxCutsAndJobsActMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,561 @@
+XML
+40
+R10.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Significant Accounting Policies
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Accounting Policies [Abstract]
+
+Summary of Significant Accounting Policies
+2. Summary of Significant Accounting Policies
+
+Basis of Presentation and Consolidation
+
+The accompanying consolidated financial statements are prepared in accordance with U.S. GAAP. The results of the Company and its subsidiaries are presented on a consolidated basis. Any ownership interest other than the Company s interest in its subsidiaries is reflected as a non-controlling interest. Intercompany accounts and transactions have been eliminated. Management believes it has made all necessary adjustments (consisting only of normal recurring items) so that the consolidated financial statements are presented fairly and that any estimates made are reasonable and prudent. Certain reclassifications have been made to previously reported amounts to conform to the current period s presentation.
+
+Following the Mergers, the Company s principal subsidiaries, AAM and AHL, together with their subsidiaries, operate an asset management business and a retirement services business, respectively, which possess distinct characteristics. As a result, the Company s financial statement presentation is organized into two tiers: asset management and retirement services. The Company believes that separate presentation provides a more informative view of the Company s consolidated financial condition and results of operations than an aggregated presentation.
+
+The following summary of significant accounting policies first includes those most significant to the overall Company and then specific accounting policies for each of the asset management and retirement services businesses, respectively.
+Significant Accounting Policies Overall
+
+Consolidation
+
+The Company consolidates entities where it has a controlling financial interest unless there is a specific scope exception that prevents consolidation. The types of entities with which the Company is involved generally include, but are not limited to:
+
+ subsidiaries, which includes AAM and its subsidiaries, including management companies and general partners of funds that the Company manages, and AHL and its subsidiaries
+ funds, including entities that have attributes of an investment company
+ CLOs
+
+Each of these entities is assessed for consolidation based on its specific facts and circumstances. In determining whether to consolidate an entity, the Company first evaluates whether the entity is a VIE or a VOE and applies the appropriate consolidation model as discussed below. If an entity is not consolidated, then the Company s investment is generally accounted for under the equity method of accounting or as a financial instrument as discussed in the related policy discussions below.
+
+Investment Companies
+
+Judgment is required to evaluate whether an entity has the necessary characteristics to be accounted for as an investment company under U.S. GAAP. The funds managed by the Company that meet the investment company criteria reflect their investments at fair value. The Company has retained this specialized accounting for investment companies in consolidation.
+
+Variable Interest Entities
+
+All entities are first considered under the VIE model. VIEs are entities that 1) do not have sufficient equity at risk to finance their activities without additional subordinated financial support or 2) have equity investors at risk that do not have the ability to make significant decisions related to the entity s operations, absorb expected losses, or receive expected residual returns.
+
+The Company consolidates a VIE if it is the primary beneficiary of the entity. The Company is deemed the primary beneficiary when it has a controlling financial interest in the VIE, which is defined as possessing both (i) the power to direct the activities of the VIE that most significantly impact the VIE s economic performance ( primary beneficiary power ) and (ii) the obligation to absorb losses or the right to receive benefits from the VIE that could potentially be significant ( significant variable interest ). The Company performs the VIE and primary beneficiary assessment at inception of its involvement with a VIE and on an ongoing basis if facts and circumstances change.
+
+To assess whether the Company has the primary beneficiary power under the VIE consolidation model, it considers the design of the entity as well as ongoing rights and responsibilities. In general, the parties that can make the most significant decisions regarding asset management have control over servicing, liquidation rights or the unilateral right to remove the decision-makers. To assess whether the Company has a significant variable interest, the Company considers all its economic interests that are considered variable interests in the entity, including interests held through related parties. This assessment requires judgment in considering whether those interests are significant.
+
+Assets and liabilities of the consolidated VIEs are primarily shown in separate sections within the consolidated statements of financial condition. Changes in the fair value of the consolidated VIEs assets and liabilities and related interest, dividend and other income and expenses are primarily presented within net gains from investment activities of consolidated variable interest entities in the consolidated statements of operations. The portion attributable to non-controlling interests is reported within net income attributable to non-controlling interests in the consolidated statements of operations. For additional disclosures regarding VIEs, see notes 6 and 18.
+
+Voting Interest Entities
+
+Entities that are not determined to be VIEs are generally considered VOEs. Under the voting interest model, the Company consolidates those entities it controls through a majority voting interest. The Company does not consolidate those VOEs in which substantive kick-out rights have been granted to the unrelated investors to either dissolve the fund or remove the general partner.
+Non-controlling Interests
+
+For entities that are consolidated, but not wholly owned, a portion of the income or loss and corresponding equity is allocated to owners other than the Company. The aggregate of the income or loss and corresponding equity that is not owned by the Company is included in non-controlling interests in the consolidated financial statements. Non-controlling interests also include ownership interests in certain consolidated funds and VIEs.
+
+Non-controlling interests are presented as a separate component of equity on the Company s consolidated statements of financial condition. Net income (loss) includes the net income (loss) attributable to the holders of non-controlling interests on the Company s consolidated statements of operations. Profits and losses are allocated to non-controlling interests in proportion to their relative ownership interests regardless of their basis.
+
+Use of Estimates
+
+The preparation of the consolidated financial statements requires management to make estimates and assumptions that affect the reported amounts in the financial statements and related footnotes. The Company s most significant estimates include goodwill and intangible assets, income taxes, performance allocations, incentive fees, non-cash compensation, fair value of investments (including derivatives) and debt, impairment of investments and allowances for expected credit losses, and future policy benefit reserves. While such impact may change considerably over time, the estimates and assumptions affecting the Company s consolidated financial statements are based on the best available information as of December 31, 2024. Actual results could differ materially from those estimates.
+
+Cash and Cash Equivalents
+
+The Company considers all highly liquid short-term investments, including money market funds and U.S. Treasury securities, with original maturities of three months or less when purchased to be cash equivalents. Interest income from cash and cash equivalents is recorded in other income for asset management and net investment income for retirement services in the consolidated statements of operations. The carrying values of the money market funds and U.S. Treasury securities represent their fair values due to their short-term nature. Substantially all of the Company s cash on deposit is in interest bearing accounts with major financial institutions and exceed insured limits.
+
+Restricted Cash and Cash Equivalents
+
+Restricted cash and cash equivalents represent balances that are restricted as to withdrawal or usage.
+
+Restricted cash consists of cash and cash equivalents held in funds in trust as part of certain coinsurance agreements to secure statutory reserves and liabilities of the coinsured parties. Restricted cash also includes cash deposited at a bank that is pledged as collateral in connection with leased premises.
+
+Foreign Currency
+
+The Company holds foreign currency denominated assets and liabilities. Non-monetary assets and liabilities of the Company s international subsidiaries are remeasured into the functional currency using historical exchange rates specific to each asset and liability, the exchange rates prevailing at the end of each reporting period are used for all others. The results of the Company s foreign operations are remeasured using an average exchange rate for the respective reporting period. Currency remeasurement adjustments and gains and losses on the settlement of foreign currency translations are included within other income (loss), net for asset management or investment related gains (losses) for retirement services in the consolidated statements of operations. Foreign currency denominated assets and liabilities are translated into the reporting currency using the exchange rates prevailing at the end of each reporting period. Currency translation adjustments are included within other comprehensive income (loss), before tax within the consolidated statements of comprehensive income (loss). The change in unrealized foreign currency exchange of any non-U.S. dollar denominated AFS securities are included in other comprehensive income ( OCI ) unless they are designated as part of a fair value hedge.
+Investments
+
+Equity Method Investments
+
+For investments in entities over which the Company exercises significant influence but does not meet the requirements for consolidation and has not elected the fair value option, the Company uses the equity method of accounting. Under the equity method of accounting, the Company records its share of the underlying income or loss of such entities adjusted for distributions. The Company s share of the underlying net income or loss of such entities is recorded in investment income (loss) for asset management and net investment income for retirement services in the consolidated statements of operations.
+
+The carrying amounts of equity method investments are recorded in investments or investments in related parties in the consolidated statements of financial condition. Generally, the underlying entities that the Company manages and invests in are primarily investment companies, and the carrying value of the Company s equity method investments approximates fair value.
+
+Other Investments
+
+The Company elected to account for certain equity securities without readily determinable fair values that did not qualify for the practical expedient to estimate fair values based on NAV per share (or its equivalent) at cost less impairment, subject to adjustments based on observable price changes in orderly transactions for identical or similar investments of the same issuer.
+
+Reverse Repurchase Agreements and Repurchase Agreements
+
+A reverse repurchase agreement is a transaction in which the Company purchases financial instruments from a seller and simultaneously enters into an agreement to resell the same or substantially the same financial instruments to the seller at a fixed and determinable price at a future date. A repurchase agreement is a transaction in which the Company sells financial instruments to a buyer, typically in exchange for cash, and simultaneously enters into an agreement to repurchase the same or substantially the same financial instruments from the buyer at a fixed and determinable price at a future date.
+
+Although reverse repurchase and repurchase agreements generally involve the legal transfer of ownership of financial instruments, they are accounted for as financing arrangements because they require the financial instruments to be resold or repurchased before or at the maturity of the agreement. As a result, the collateral received under reverse repurchase agreements are not recognized and the collateral pledged under repurchase agreements are not derecognized in the consolidated statements of financial condition.
+
+Within asset management, reverse repurchase and repurchase agreements generally sit within consolidated VIEs and as such, those reverse repurchase and repurchase agreements are reflected as investments and other liabilities, respectively, within the consolidated VIE section of the statements of financial condition. Additionally, the income (loss) related to those reverse repurchase and repurchase agreements from consolidated VIEs are included in net gains (losses) from investment activities of consolidated variable interest entities on the consolidated statements of operations. Reverse repurchase agreements within asset management are generally accounted for by electing the fair value option. For retirement services, the receivable under the reverse repurchase agreement is recorded as investment for the principal amount loaned under the agreement and the payable under a repurchase agreement is recognized as payables for collateral on derivatives and securities to repurchase on the consolidated statements of financial condition. Earnings from reverse repurchase agreements are included in net investment income for retirement services on the consolidated statements of operations.
+
+For reverse repurchase agreements, the Company generally requires collateral with a fair value at least equal to the carrying value of the loaned amount, monitors the market value of the collateral on a periodic basis, and delivers or obtains additional collateral due to changes in the fair value of the collateral, as appropriate, in order to mitigate credit exposure.
+
+Financial Instruments held by Consolidated VIEs
+
+The consolidated VIEs managed by the Company are primarily investment companies and CLOs. Their investments include debt and equity securities held at fair value and reverse repurchase agreements. Financial instruments are generally accounted for on a trade date basis.
+Under a measurement alternative permissible for consolidated collateralized financing entities, the Company measures both the financial assets and financial liabilities of consolidated CLOs in its consolidated financial statements in both cases using the fair value of the financial assets or financial liabilities, whichever are more observable.
+
+Where financial assets are more observable, the financial assets of the consolidated CLOs are measured at fair value and the financial liabilities are measured in consolidation as: (i) the sum of the fair value of the financial assets and the carrying value of any non-financial assets that are incidental to the operations of the CLOs less (ii) the sum of the fair value of any beneficial interests retained by the Company (other than those that represent compensation for services) and the Company s carrying value of any beneficial interests that represent compensation for services. The resulting amount is allocated to the individual financial liabilities (other than the beneficial interest retained by the Company) using a reasonable and consistent methodology.
+
+Where financial liabilities are more observable, the financial liabilities of the consolidated CLOs are measured at fair value and the financial assets are measured in consolidation as: (i) the sum of the fair value of the financial liabilities, and the carrying value of any non-financial liabilities that are incidental to the operations of the CLOs less (ii) the carrying value of any non-financial assets that are incidental to the operations of the CLOs. The resulting amount is allocated to the individual financial assets using a reasonable and consistent methodology.
+
+Net income (loss) attributable to Apollo Global Management, Inc. reflects the Company s own economic interests in the consolidated CLOs, including (i) changes in the fair value of the beneficial interests retained by the Company and (ii) beneficial interests that represent compensation for collateral management services.
+
+Certain consolidated VIEs have applied the fair value option for certain investments in private debt securities that otherwise would not have been carried at fair value with gains and losses in net income.
+
+Fair Value of Financial Instruments
+
+The fair value of a financial instrument is the price that would be received to sell an asset or paid to transfer a liability (exit price) in an orderly transaction between market participants at the measurement date under current market conditions. The actual realized gains or losses will depend on, among other factors, future operating results, the value of the assets and market conditions at the time of disposition, any related transaction costs and the timing and manner of sale, all of which may ultimately differ significantly from the assumptions on which the valuations were based.
+
+Fair Value Option
+
+Entities are permitted to elect the fair value option ( FVO ) to carry at fair value certain financial assets and financial liabilities, including investments otherwise accounted for under the equity method of accounting. The FVO election is irrevocable and is applied to financial instruments on an individual basis at initial recognition or at eligible remeasurement events. Please refer to note 7 for additional information and other instances of when the Company has elected the FVO.
+
+Fair Value Hierarchy
+
+U.S. GAAP establishes a hierarchical disclosure framework which prioritizes and ranks the level of market price observability used in measuring financial instruments at fair value. Market price observability is affected by a number of factors, including the type of financial instrument, the characteristics specific to the financial instrument and the state of the marketplace, including the existence and transparency of transactions between market participants. Financial instruments with readily available quoted prices in active markets generally will have a higher degree of market price observability and a lesser degree of judgment used in measuring fair value.
+
+Financial instruments measured and reported at fair value are classified and disclosed based on the observability of inputs used in the determination of fair values, as follows:
+
+Level 1 Quoted prices are available in active markets for identical financial instruments as of the reporting date. The Company does not adjust the quoted price for these financial instruments, even in situations where the Company holds a large position and the sale of such position would likely deviate from the quoted price.
+
+Level 2 Pricing inputs are other than quoted prices in active markets, which are either directly or indirectly observable as of the reporting date, and fair value is determined through the use of models or other valuation
+methodologies. These financial instruments exhibit higher levels of liquid market observability as compared to Level 3 financial instruments.
+
+Level 3 Pricing inputs are unobservable for the financial instrument and includes situations where there is little observable market activity for the financial instrument. The inputs into the determination of fair value may require significant management judgment or estimation. Financial instruments that are included in this category generally include investments where the fair value is based on observable inputs as well as unobservable inputs.
+
+When a security is valued based on broker quotes, the Company subjects those quotes to various criteria in making the determination as to whether a particular financial instrument would qualify for classification as Level 2 or Level 3. These criteria include, but are not limited to, the number and quality of the broker quotes, the standard deviations of the observed broker quotes, and the percentage deviation from external pricing services.
+
+Investments in securities that are traded on a securities exchange or comparable over-the-counter quotation systems are valued based on Apollo s pricing procedures, which utilize third party pricing vendors, broker dealers and closing prices from exchanges. If no sales of such investments are reported on such date, and in the case of over-the-counter securities or other investments for which the last sale date is not available, valuations are based on independent market quotations obtained from market participants, recognized pricing services or other sources deemed relevant, and the prices are based on the average of the bid and ask prices, or at ascertainable prices at the close of business on such day. Market quotations are generally based on valuation pricing models or market transactions of similar securities adjusted for security-specific factors such as relative capital structure priority and interest and yield risks, among other factors. When market quotations are not available, a model-based approach is used to determine fair value.
+
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, a financial instrument s level within the fair value hierarchy is based on the lowest level of input that is significant to the fair value measurement. The Company s assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to the financial instrument when the fair value is based on unobservable inputs.
+
+Business Combinations
+
+The Company accounts for business combinations using the acquisition method of accounting where the consideration transferred for the acquisition is allocated to the assets acquired and liabilities assumed using the fair values determined by management as of the acquisition date. Contingent consideration obligations that are elements of the consideration transferred are recognized as of the acquisition date as part of the fair value transferred in exchange for the acquired business. Acquisition-related costs incurred in connection with a business combination are expensed as incurred.
+
+Goodwill
+
+Goodwill represents the excess of cost over the fair value of identifiable net assets of an acquired business. Goodwill is recorded in separate line items for both the Asset Management and Retirement Services segments. See note 3 for disclosure regarding the goodwill recorded related to the Mergers.
+
+Goodwill is tested annually for impairment or more frequently if circumstances indicate impairment may have occurred. The impairment test is performed at the reporting unit level, which is generally at the level of the Company s reportable segments. The Company performed its annual goodwill impairment test as of October 1, 2024 and 2023 and did not identify any impairment.
+
+Other Assets
+
+Other assets are primarily comprised of deferred tax assets, leases and fixed assets.
+
+Fixed assets consist primarily of leasehold improvements, furniture, fixtures, equipment, and computer hardware and are recorded at cost, net of accumulated depreciation and amortization. Depreciation and amortization is calculated using the straight-line method over the assets estimated useful lives and in the case of leasehold improvements the lesser of the useful life or the term of the lease. Expenditures for repairs and maintenance are charged to expense when incurred. The Company
+evaluates long-lived assets for impairment periodically and whenever events or changes in circumstances indicate the carrying amounts of the assets may be impaired.
+
+Compensation and Benefits
+
+Compensation consists of (i) salary, bonus, and benefits, which includes base salaries, discretionary and non-discretionary bonuses, severance and employee benefits, (ii) equity-based awards granted to employees and non-employees that are measured based on the grant date fair value of the award and (iii) profit sharing expense, which primarily consists of a portion of performance revenues earned from certain funds that are allocated to employees and former employees. Compensation costs are recorded in compensation and benefits for asset management and policy and other operating expense for retirement services in the consolidated statements of operations.
+
+Employees and non-employees who provide services to the Company are granted equity-based awards as compensation that are measured based on the grant date fair value of the award. Equity-based awards that do not require future service (i.e., vested awards) are expensed immediately. Equity-based employee awards that require future service are expensed over the relevant period of service. Equity-based awards that require performance metrics to be met are expensed only when the performance metric is met or deemed probable. Profit sharing amounts are recognized as the related performance revenues are earned. Accordingly, profit sharing amounts can be reversed during periods when there is a decline in performance revenues that were previously recognized. Profit sharing amounts are generally not paid until the related performance revenue is distributed to the general partner upon realization of the fund s investments (which may be distributed in cash or in-kind).
+
+Earnings Per Share
+
+As the Company has issued participating securities, the two-class method of computing earnings per share is used for all periods presented for common stock and participating securities as if all earnings for the period had been distributed. Under the two-class method, during periods of net income, the net income is first reduced for distributions declared on all classes of securities to arrive at undistributed earnings. During periods of net losses, the net loss is reduced for distributions declared on participating securities only if the security has the right to participate in the earnings of the entity and an objectively determinable contractual obligation to share in net losses of the entity. Participating securities include vested and unvested RSUs that participate in distributions, as well as unvested restricted shares.
+
+Whether during a period of net income or net loss, under the two-class method the remaining earnings are allocated to common stock and participating securities to the extent that each security shares in earnings as if all of the earnings for the period had been distributed. Earnings or losses allocated to each class of security are then divided by the applicable weighted average outstanding shares to arrive at basic earnings per share. For the diluted earnings, the denominator includes all outstanding shares of common stock and includes the number of additional shares of common stock that would have been outstanding if the dilutive potential shares of common stock had been issued. The numerator is adjusted for any changes in income or loss that would result from the issuance of these potential shares of common stock.
+
+Share Repurchase
+
+When shares are repurchased, the Company can choose to record treasury shares or account for the repurchase as a constructive retirement. The Company accounted for share repurchases as constructive retirement, whereby it reduced common stock and additional paid-in capital by the amount of the original issuance, with any excess purchase price recorded as a reduction to retained earnings. Under this method, issued and outstanding shares are reduced by the shares repurchased, and no treasury stock is recognized on the consolidated statements of financial condition.
+
+Income Taxes
+
+AGM is a Delaware corporation and generally all of its income is subject to U.S. corporate income taxes. Certain subsidiaries of the Company operate as partnerships for U.S. income tax purposes and are subject to NYC UBT. Certain non-U.S. entities are also subject to non-U.S. corporate income taxes. In conjunction with the Mergers, Apollo underwent a reorganization from an Up-C structure to a C-corporation with a single class of common stock. Prior to the Mergers, Athene, and certain of its non-U.S. subsidiaries were not subject to U.S. corporate income taxes on their earnings. Due to the Mergers, Athene s non-U.S. earnings will generally be subject to U.S. corporate income taxes.
+Significant judgment is required in determining tax expense and in evaluating certain and uncertain tax positions. The Company recognizes the tax benefit of uncertain tax positions only where the position is more likely than not to be sustained upon examination, including resolution of any related appeals or litigation processes, based on the technical merits of the position. The tax benefit is measured as the largest amount of benefit that has a greater than 50% likelihood of being realized upon ultimate settlement. If a tax position is not considered more likely than not to be sustained, then no benefits of the position are recognized. The Company s tax positions are reviewed and evaluated quarterly to determine whether the Company has uncertain tax positions that require financial statement recognition.
+
+Deferred tax assets and liabilities are recognized for the expected future tax consequences of differences between the carrying amount of assets and liabilities and their respective tax bases using currently enacted tax rates. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period during which the change is enacted. Deferred tax assets are reduced by a valuation allowance when it is more likely than not that all or a portion of the deferred tax assets will not be realized.
+
+Significant judgment and estimates are required in determining whether valuation allowances should be established as well as the amount of such allowances. When making such determination, consideration is given to, among other things, the following:
+
+ whether sufficient taxable income exists within the allowed carryback or carryforward periods;
+ whether future reversals of existing taxable temporary differences will occur, including any tax planning strategies that could be used;
+ the nature or character (e.g., ordinary vs. capital) of the deferred tax assets and liabilities; and
+ whether future taxable income exclusive of reversing temporary differences and carryforwards exists.
+
+Debt Issuance Costs
+
+Debt issuance costs consist of costs incurred in obtaining financing and are amortized over the term of the financing using the effective interest method. These costs are generally recorded as a direct deduction from the carrying amount of the related debt liability on the consolidated statements of financial condition.
+
+Recently Issued Accounting Pronouncements
+
+Income Taxes Improvements to Income Tax Disclosures (ASU 2023-09)
+
+In December 2023, the FASB made amendments to update disclosures on income taxes including rate reconciliation, income taxes paid, and certain amendments on disaggregation by federal, state, and foreign taxes, as relevant.
+
+The guidance is mandatorily effective for the Company for annual periods beginning in 2025; however, early adoption is permitted. The Company is currently evaluating the impact of the new standard on its consolidated financial statements.
+
+Intangibles Goodwill and Other Crypto Assets: Accounting for and Disclosure of Crypto Assets (ASU 2023-08)
+
+In December 2023, the FASB issued amendments on the accounting for and disclosure of crypto assets. The guidance requires assets that meet certain conditions be accounted for at fair value with changes in fair value recognized in net income. The ASU also requires disclosures about significant holdings, contractual sale restrictions, and changes during the reporting period.
+
+The guidance is mandatorily effective for the Company on January 1, 2025. The Company expects the impact of the new standard on its consolidated financial statements to be immaterial.
+
+Business Combinations Joint Venture Formations (ASU 2023-05)
+
+The amendments in this update address how a joint venture initially recognizes and measures contributions received at its formation date. The amendments require a joint venture to apply a new basis of accounting upon formation and to initially recognize its assets and liabilities at fair value.
+
+The guidance is effective prospectively for all joint ventures formed on or after January 1, 2025, while retrospective application may be elected for a joint venture formed before the effective date. The Company expects the impact of the new standard on its consolidated financial statements to be immaterial.
+Compensation Stock Compensation (ASU 2024-01)
+
+In March 2024, the FASB issued guidance in ASU 2024-01 that clarifies how an entity determines whether it is required to account for profits interest awards (and similar awards) in accordance with ASC 718 or other guidance. The ASU provides specific examples on when a profits interest award should be accounted for as a share-based payment arrangement under ASC 718 or in a manner similar to a cash bonus or profit-sharing arrangement under ASC 710 or other ASC topics.
+
+The guidance is mandatorily effective for the Company on January 1, 2025. The Company expects the impact of the new standard on its consolidated financial statements to be immaterial.
+
+Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (ASU 2024-03)
+
+In November 2024, the FASB issued guidance that requires disaggregation of certain expense captions into specified categories in disclosures within the footnotes to the financial statements. The ASU requires tabular presentation of each relevant expense caption on the face of the income statement including employee compensation, depreciation, intangible asset amortization, and certain other expenses, when applicable.
+
+The guidance is mandatorily effective for the Company in its 2027 annual report and in interim periods in 2028; early adoption is permitted. The Company is currently evaluating the impact of the new pronouncement on its consolidated financial statements.
+
+Recently Adopted Accounting Pronouncements
+
+Segment Reporting Improvements to Reporting Segment Disclosures (ASU 2023-07)
+
+In November 2023, the FASB issued guidance to incrementally add disclosures for public entities reporting segments including significant segment expenses and other segment items.
+
+The Company adopted the guidance for the annual reporting period ended December 31, 2024. Refer to Note 21, Segments, for the expanded disclosures.
+
+Investments Equity Method and Joint Ventures (ASU 2023-02)
+
+In March 2023, the FASB issued guidance to introduce the option of applying the proportional amortization method ( PAM ) to account for investments made primarily for the purpose of receiving income tax credits or other income tax benefits when certain requirements are met. Previously, PAM only applied to low-income housing tax credit investments.
+
+The Company early adopted the guidance on October 1, 2023, and there was no impact to the consolidated financial statements upon adoption.
+
+Fair Value Measurement Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions (ASU 2022-03)
+
+In June 2022, the FASB issued clarifying guidance that a restriction which is a characteristic of the holding entity rather than a characteristic of the equity security itself should not be considered in its fair value measurement. As a result, the Company is required to measure the fair value of equity securities subject to contractual restrictions attributable to the holding entity on the basis of the market price of the same equity security without those contractual restrictions. Companies are not permitted to recognize a contractual sale restriction attributable to the holding entity as a separate unit of account. The guidance also requires disclosures for these equity securities.
+
+The Company early adopted the guidance on July 1, 2023. The Company applied the guidance on a prospective basis, and there was no impact to the consolidated financial statements upon adoption.
+Reference Rate Reform (Topic 848) Deferral of the Sunset Date of Topic 848 (ASU 2022-06, ASU 2021-01, ASU 2020-04)
+
+The Company adopted ASU 2020-04 and ASU 2021-01 and elected to apply certain of the practical expedients related to contract modifications, hedge accounting relationships, and derivative modifications pertaining to discounting, margining, or contract price alignment. The main purpose of the practical expedients is to ease the administrative burden of accounting for contracts impacted by reference rate reform, and these elections did not have a material impact on the consolidated financial statements. ASU 2022-06 amended and deferred the sunset date of Topic 848 from December 31, 2022 to December 31, 2024, after which the Company will no longer be permitted to apply the expedients provided in Topic 848.
+
+Significant Accounting Policies Asset Management
+
+U.S. Treasury Securities, at fair value
+
+U.S. Treasury securities, at fair value includes U.S. Treasury bills with original maturities greater than three months when purchased. These securities are recorded at fair value in investments in the consolidated statements of financial condition. Interest income on such securities is separately presented from the overall change in fair value and is recognized in interest income for asset management in the consolidated statements of operations. Any remaining change in fair value of such securities, that is not recognized as interest income, is recognized in net gains (losses) from investment activities for asset management in the consolidated statements of operations.
+
+Due from/to Related Parties
+
+Due from/to related parties includes amounts due from and due to existing employees, certain former employees, portfolio companies of the funds and non-consolidated funds.
+
+Deferred Revenue
+
+Apollo records deferred revenue, which is a type of contract liability, when consideration is received in advance of management services provided. Deferred revenue is reversed and recognized as revenue over the period that the agreed upon services are performed. It is included in accounts payable, accrued expenses, and other liabilities in the consolidated statements of financial condition.
+
+Apollo also earns management fees which are subject to an offset. When Apollo receives cash for advisory and transaction fees, a certain percentage of such advisory and/or transaction fees, as applicable, is allocated as a credit to reduce future management fees, otherwise payable by the relevant fund. Such credit is recorded as deferred revenue in the consolidated statements of financial condition within the accounts payable, accrued expenses and other liabilities line item. A portion of any excess advisory and transaction fees may be required to be returned to the limited partners of certain funds upon such fund s liquidation. As the management fees earned by Apollo are presented on a gross basis, any management fee offsets calculated are presented as a reduction to advisory and transaction fees in the consolidated statements of operations.
+
+Additionally, Apollo earns advisory fees pursuant to the terms of the advisory agreements with certain of the portfolio companies that are owned by the funds Apollo manages. When Apollo receives a payment from a portfolio company that exceeds the advisory fees earned at that point in time, the excess payment is recorded as deferred revenue in the consolidated statements of financial condition. The advisory agreements with the portfolio companies vary in duration and the associated fees are received monthly, quarterly, or annually.
+
+Deferred revenue is reversed and recognized as revenue over the period that the agreed upon services are performed. There was $155 million of revenue recognized during the year ended December 31, 2024 that was previously deferred as of January 1, 2024.
+
+Under the terms of the funds partnership agreements, Apollo is normally required to bear organizational expenses over a set dollar amount and placement fees or costs in connection with the offering and sale of interests in the funds it manages to investors. In cases where the limited partners of the funds are determined to be the customer in an arrangement, placement fees may be capitalized as a cost to acquire a customer contract and amortized over the life of the customer contract. Capitalized placement fees are recorded within other assets in the consolidated statements of financial condition, while amortization is recorded within general, administrative and other in the consolidated statements of operations. In certain instances, the placement fees are paid over a period of time. Based on the management agreements with the funds, Apollo considers
+placement fees and organizational costs paid in determining if cash has been received in excess of the management fees earned. Placement fees and organizational costs are normally the obligation of Apollo but can be paid for by the funds. When these costs are paid by the fund, the resulting obligations are included within deferred revenue. The deferred revenue balance will also be reduced during future periods when management fees are earned but not paid.
+
+Redeemable non-controlling interests
+
+Redeemable non-controlling interests are attributable to VIEs and, for periods prior to December 31, 2023, primarily represented the shares issued by the Company s previously consolidated SPACs. The redeemable non-controlling interests are initially recorded at their original issue price, net of issuance costs and the initial fair value of separately traded warrants. The carrying amount is accreted to its redemption value over the period from the date of issuance to the earliest redemption date of the instrument. The accretion to redemption value is generally recorded against additional paid-in capital.
+
+In the fourth quarter of 2023, our consolidated SPACs were liquidated in accordance with their governing documents, and all of their outstanding shares were redeemed. Refer to note 18 for further detail.
+
+Revenues
+
+The revenues of the asset management business include (i) management fees; (ii) advisory and transaction fees, net; (iii) investment income, which is comprised of performance allocations and principal investment income; and (iv) incentive fees.
+
+The revenue guidance requires that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services (i.e., the transaction price). When determining the transaction price under the revenue guidance, an entity may recognize variable consideration only to the extent that it is probable to not be significantly reversed. The revenue guidance also requires disclosures to help users of financial statements better understand the nature, amount, timing, and uncertainty of revenue that is recognized.
+
+Performance allocations are accounted for under guidance applicable to equity method investments, and therefore not within the scope of the revenue guidance. Apollo recognizes performance allocations within investment income along with the related principal investment income (as further described below) in the consolidated statements of operations and within the investments line in the consolidated statements of financial condition.
+
+Refer to disclosures below for additional information on each of the revenue streams of the asset management business.
+
+Management Fees
+
+Management fees are recognized over time during the periods in which the related services are performed in accordance with the contractual terms of the related agreement. Management fees are generally based on (1) a percentage of the capital committed during the commitment period, and thereafter based on the remaining invested capital of unrealized investments, or (2) net asset value, gross assets or as otherwise provided in the respective agreements. Included in management fees are certain expense reimbursements where Apollo is considered the principal under the agreements and is required to record the expense and related reimbursement revenue on a gross basis.
+
+Advisory and Transaction Fees, Net
+
+Advisory and transaction fees generally include arranging fees and structuring fees related to Apollo s funds, portfolio companies of Apollo funds and third parties, including management consulting fees and directors fees. The Company evaluates its contractual obligations in accordance with the terms of the related legal agreements when determining whether there is an identifiably distinct performance obligation. Depending on the identifiably distinct service, advisory and transaction fees may be recognized at a point in time or over time. Advisory and transaction fees associated with deal completion are generally recognized at the point in time of completion. Certain other advisory fees that are associated with an identifiably distinct structuring service are recognized over time as the underlying structuring services are provided.
+
+The amounts due from fund portfolio companies are recorded in due from related parties on the consolidated statements of financial condition. Under the terms of the limited partnership agreements for certain funds, the management fee payable by the funds may be subject to a reduction based on a certain percentage of such advisory and transaction fees, net of applicable
+broken deal costs. Advisory and transaction fees are reduced by these management fee offsets in the consolidated statements of operations.
+
+Underwriting fees, which are also included within advisory and transaction fees, net, include gains, losses and fees, arising from securities offerings in which one of the Company s subsidiaries participates in the underwriter syndicate. Underwriting fees are recognized at a point in time when the underwriting is completed. Underwriting fees recognized but not received are recorded in other assets on the consolidated statements of financial condition.
+
+During the normal course of business, Apollo incurs certain costs related to certain transactions that are not consummated, or broken deal costs . These costs (e.g., research costs, due diligence costs, professional fees, legal fees and other related items) are determined to be broken deal costs upon management s decision to no longer pursue the transaction. In accordance with the related fund agreement, in the event the deal is deemed broken, all of the costs are reimbursed by the funds and then included as a component of the calculation of the management fee offset. If a deal is successfully completed, Apollo is reimbursed by the fund or fund s portfolio company for all costs incurred and no offset is generated. As Apollo acts as an agent for the funds it manages, any transaction costs incurred and paid by Apollo on behalf of the respective funds relating to successful or broken deals are recorded net on the Company s consolidated statements of operations, and any receivable from the respective funds is recorded in due from related parties on the consolidated statements of financial condition.
+
+Investment Income
+
+Investment income is comprised of performance allocations and principal investment income.
+
+Performance Allocations. Performance allocations are a type of performance revenue (i.e., income earned based on the extent to which an entity s performance exceeds predetermined thresholds). Performance allocations are generally structured from a legal standpoint as an allocation of capital in which Apollo s capital account receives allocations of the returns of an entity when those returns exceed predetermined thresholds. The determination of which performance revenues are considered performance allocations is primarily based on the terms of an agreement with the entity.
+
+Apollo recognizes performance allocations within investment income along with the related principal investment income (as described further below) in the consolidated statements of operations and within the investments line in the consolidated statements of financial condition.
+
+When applicable, Apollo may record a general partner obligation to return previously distributed performance allocations. The general partner obligation is based upon an assumed liquidation of a fund s net assets as of the reporting date and is reported within due to related parties on the consolidated statements of financial condition. The actual determination and any required payment of any such general partner obligation would not take place until the final disposition of a fund s investments based on the contractual termination of the fund or as otherwise set forth in the respective governing document of the fund.
+
+Principal Investment Income. Principal investment income includes Apollo s income or loss from equity method investments and certain other investments in entities in which Apollo is generally eligible to receive performance allocations. Income from equity method investments includes Apollo s share of net income or loss generated from its investments, which are not consolidated, but in which it exerts significant influence.
+
+Incentive Fees
+
+Incentive fees are a type of performance revenue. Incentive fees differ from performance allocations in that incentive fees do not represent an allocation of capital but rather a contractual fee arrangement with the entity. Incentive fees are considered a form of variable consideration as they are subject to clawback or reversal and therefore must be deferred until the fees are probable to not be significantly reversed. Accrued but unpaid incentive fees are reported within other assets in Apollo s consolidated statements of financial condition. Apollo s incentive fees are generally received from CLOs, managed accounts and certain other vehicles it manages.
+
+Profit Sharing
+
+Profit sharing expense and profit sharing payable primarily consist of a portion of performance revenues earned from certain funds that are allocated to employees and former employees. Profit sharing amounts are recognized as the related performance revenues are earned. Accordingly, profit sharing amounts can be reversed during periods when there is a decline in performance
+revenues that were previously recognized. Profit sharing expense is recorded in compensation and benefits for asset management in the consolidated statements of operations. Profit sharing payable is recorded in accounts payable, accrued expenses and other liabilities for Asset Management in the consolidated statements of financial condition.
+
+Profit sharing amounts are generally not paid until the related performance revenue is distributed to the general partner upon realization of the fund s investments. Under certain profit-sharing arrangements, Apollo requires that a portion of certain of the performance revenues distributed to its employees be used to purchase restricted common stock issued under the Equity Plan. Prior to distribution of the performance revenue, the Company records the value of the equity-based awards expected to be granted in other assets and other liabilities within the consolidated statements of financial condition. Such equity-based awards are recorded as equity-based compensation expense over the relevant service period once granted.
+
+Additionally, profit sharing amounts previously distributed may be subject to clawback from employees and former employees. When applicable, the accrual for potential clawback of previously distributed profit sharing amounts, which is a component of due from related parties on the consolidated statements of financial condition, represents all amounts previously distributed to employees and former employees that would need to be returned to the general partner if the funds were to be liquidated based on the fair value of the underlying fund s investments as of the reporting date. The actual general partner receivable, however, would not become realized until the final disposition of a fund s investments based on the contractual termination of the fund or as otherwise set forth in the respective governing document of the fund.
+
+Profit sharing payable also includes contingent consideration obligations that were recognized in connection with certain acquisitions. Changes in the fair value of the contingent consideration obligations are reflected in the consolidated statements of operations as compensation and benefits for asset management.
+
+Apollo has performance-based incentive arrangements for certain employees designed to more closely align compensation on an annual basis with the overall realized performance of the Company s asset management business. These arrangements enable certain employees to earn discretionary compensation based on performance revenue earned by Apollo s asset management business in a given year, which amounts are reflected in compensation and benefits in the accompanying consolidated financial statements for asset management. Apollo may also use dividends it receives from investments in certain perpetual capital vehicles to compensate employees. These amounts are recorded as compensation and benefits in the consolidated statements of operations for asset management.
+
+Other Income (Loss)
+
+Net Gains (Losses) from Investment Activities
+
+Net gains (losses) from investment activities include both realized gains and losses and the change in unrealized gains and losses in Apollo s investments, at fair value between the opening reporting date and the closing reporting date.
+
+Net Gains (Losses) from Investment Activities of Consolidated Variable Interest Entities
+
+Changes in the fair value of the consolidated VIEs assets and liabilities and related interest, dividend and other income and expenses are presented within net gains (losses) from investment activities of consolidated variable interest entities and are attributable to non-controlling interests in the consolidated statements of operations.
+
+Other Income (Loss), Net
+
+Other income (loss), net includes the recognition of gains (losses) arising from the remeasurement of foreign currency denominated assets and liabilities, gains arising from the remeasurement of the tax receivable agreement liability (see note 18), and other miscellaneous non-operating income and expenses.
+Significant Accounting Policies Retirement Services
+
+Investments
+
+Fixed Maturity Securities
+
+Fixed maturity securities include bonds, CLOs, ABS, RMBS, CMBS and redeemable preferred stock. Athene classifies fixed maturity securities as AFS or trading at the time of purchase and subsequently carries them at fair value. Classification is dependent on a variety of factors, including expected holding period, election of the fair value option and asset and liability matching.
+
+AFS Securities
+
+AFS securities are held at fair value on the consolidated statements of financial condition, with unrealized gains and losses, exclusive of allowances for expected credit losses, generally reflected in AOCI on the consolidated statements of financial condition. Unrealized gains or losses relating to identified risks within AFS securities in fair value hedging relationships are reflected in investment related gains (losses) on the consolidated statements of operations.
+
+Trading Securities
+
+The fair value option is elected for certain fixed maturity securities. These fixed maturity securities are classified as trading, with changes to fair value included in investment related gains (losses) on the consolidated statements of operations. Although the securities are classified as trading, the trading activity related to these investments is primarily focused on asset and liability matching activities and is not intended to be an income strategy based on active trading. As such, the activity related to these investments on the consolidated statements of cash flows is classified as investing activities.
+
+Transactions in securities are generally recorded on a trade date basis, with any unsettled trades recorded in other assets or other liabilities on the consolidated statements of financial condition. Bank loans, private placements and investment funds are recorded on a settlement date basis.
+
+Equity Securities
+
+Equity securities include common stock, mutual funds and non-redeemable preferred stock. Equity securities with readily determinable fair values are carried at fair value with subsequent changes in fair value recognized in net income.
+
+Purchased Credit Deteriorated Investments
+
+Athene purchases certain structured securities, primarily RMBS, which upon assessment have been determined to meet the definition of PCD investments. Additionally, structured securities classified as beneficial interests follow the initial measurement guidance for PCD investments if there is a significant difference between contractual cash flows adjusted for expected prepayments and expected cash flows at the date of recognition. The initial allowance for credit losses for PCD investments is recorded through a gross-up adjustment to the initial amortized cost. For structured securities classified as beneficial interests, the initial allowance is calculated as the present value of the difference between contractual cash flows adjusted for expected prepayments and expected cash flows at the date of recognition. The non-credit purchase discount or premium is amortized into investment income using the effective interest method. The credit discount, represented by the allowance for expected credit losses, is remeasured each period following the policies for measuring credit losses described in the Credit Losses Available-for-Sale Securities section below.
+
+Mortgage Loans
+
+Athene elected the fair value option on its mortgage loan portfolio. Interest income is accrued on the principal amount of the loan based on its contractual interest rate. Interest is accrued on loans until it is probable it will not be received, or the loan is 90 days past due, unless guaranteed by U.S. government-sponsored agencies. Interest income and prepayment fees are reported in net investment income on the consolidated statements of operations. Changes in the fair value of the mortgage loan portfolio are reported in investment related gains (losses) on the consolidated statements of operations.
+Investment Funds
+
+Athene invests in certain non-fixed income, alternative investments in the form of limited partnerships or similar legal structures (investment funds). For investment funds in which it does not hold a controlling financial interest, Athene typically accounts for such investments using the equity method, where the cost is recorded as an investment in the fund, or it has elected the fair value option. Adjustments to the carrying amount reflect pro rata ownership percentage of the operating results as indicated by NAV in the investment fund financial statements, which can be on a lag of up to three months when investee information is not received in a timely manner.
+
+Athene s proportionate share of investment fund income is recorded within net investment income, or, for consolidated VIEs, revenues of consolidated VIEs, on the consolidated statements of operations. Contributions paid or distributions received by Athene are recorded directly to the investment fund balance as an increase to carrying value or as a return of capital, respectively.
+
+Policy Loans
+
+Policy loans are funds provided to policyholders in return for a claim on the policyholder s account balance. The funds provided are limited to a specified percentage of the account balance. The majority of policy loans do not have a stated maturity and the balances and accrued interest are repaid with proceeds from the policyholder s account balance. Policy loans are reported at the unpaid principal balance. Interest income is recorded as earned using the contract interest rate and is reported in net investment income on the consolidated statements of operations.
+
+Funds Withheld at Interest
+
+Funds withheld at interest represents a receivable for amounts contractually withheld by ceding companies in accordance with funds withheld coinsurance ( funds withheld ) and modified coinsurance ( modco ) reinsurance agreements in which Athene is the reinsurer. Generally, assets equal to statutory reserves are withheld and legally owned by the ceding company, and any excess or shortfall is settled periodically. The underlying agreements contain embedded derivatives as discussed below.
+
+Short-term Investments
+
+Short-term investments consist of financial instruments with maturities of greater than three months but less than twelve months when purchased. Short-term debt securities are accounted for as trading or AFS consistent with the policies for those investments. Short-term loans are carried at amortized cost. Fair values are determined consistently with methodologies described in note 7 for the respective investment type.
+
+Other Investments
+
+Other investments include, but are not limited to, term loans collateralized by mortgages on residential and commercial real estate, other uncollateralized loans, investments in real estate and corporate owned life insurance. Athene elected the fair value option on the term loans and other uncollateralized loans. Investments in real estate are held at cost less accumulated depreciation and impairments. Corporate owned life insurance is held at cash surrender value.
+
+Interest income is accrued on the principal amount of the loan based on its contractual interest rate. Interest on loans is accrued until it is probable it will not be received or the loan is 90 days past due. Changes in the cash surrender value of corporate owned life insurance, interest income, amortization of premiums and discounts, and prepayment and other fees are reported in net investment income on the consolidated statements of operations. Changes in fair value are reported in investment related gains (losses) on the consolidated statements of operations.
+
+Investment Income
+
+Investment income is recognized as it accrues or is legally due, net of investment management and custody fees. Investment income on fixed maturity securities includes coupon interest, as well as the amortization of any premium and the accretion of any discount. Investment income on equity securities represents dividend income and preferred coupon interest. Realized gains and losses on sales of investments are included in investment related gains (losses) on the consolidated statements of operations. Realized gains and losses on investments sold are determined based on a first-in first-out method.
+Credit Losses Available-for-Sale Securities and Other
+
+AFS securities with a fair value that has declined below amortized cost are evaluated to determine how the decline in fair value should be recognized. If Athene determines, based on the facts and circumstances related to the specific security, that Athene intends to sell a security or it is more likely than not that Athene would be required to sell a security before the recovery of its amortized cost, any existing allowance for expected credit losses is reversed and the amortized cost of the security is written down to fair value. If neither of these conditions exist, Athene evaluates whether the decline in fair value has resulted from a credit loss or other factors.
+
+For non-structured AFS securities, relevant facts and circumstances are qualitatively considered in evaluating whether a decline below fair value is credit-related. Relevant facts and circumstances include but are not limited to: (1) the extent to which the fair value is less than amortized cost; (2) changes in agency credit ratings, (3) adverse conditions related to the security s industry or geographical area, (4) failure to make scheduled payments, and (5) other known changes in the financial condition of the issuer or quality of any underlying collateral or credit enhancements. For structured AFS securities meeting the definition of beneficial interests, the qualitative assessment is bypassed, and any securities having experienced a decline in fair value below amortized cost move directly to a quantitative analysis.
+
+If upon completion of this analysis it is determined that a potential credit loss exists, an allowance for expected credit losses is established equal to the amount by which the present value of expected cash flows is less than amortized cost, limited by the amount by which fair value is less than amortized cost. A non-structured security s cash flow estimates are derived from scenario-based outcomes of expected corporate restructurings or the disposition of assets using security-specific facts and circumstances including timing, security interests and loss severity. A structured security s cash flow estimates are based on security-specific facts and circumstances that may include collateral characteristics, expectations of delinquency and default rates, loss severity, prepayments and structural support, including subordination and guarantees. The expected cash flows are discounted at the effective interest rate implicit to the security at the date of purchase or the current yield to accrete a structured security. For securities with a contractual interest rate that varies based on changes in an independent factor, such as an index or rate, the effective interest rate is calculated based on the factor as it changes over the life of the security. Inherently under the discounted cash flow model, both the timing and amount of expected cash flows affect the measurement of the allowance for expected credit losses.
+
+The allowance for expected credit losses is remeasured each period for the passage of time, any change in expected cash flows, and changes in the fair value of the security. All impairments, whether intent or requirement to sell or credit-related, and all changes in the allowance for expected credit losses are recorded through the provision for credit losses within investment related gains (losses) on the consolidated statements of operations.
+
+Athene also establishes an allowance for expected credit losses for assets held at amortized cost at the time of purchase, which includes certain other loans and reinsurance assets. The allowance for expected credit losses considers past events, current conditions, and reasonable and supportable forecasts of future economic conditions or macroeconomic forecasts. Athene uses a quantitative probability of default and loss given default methodology to develop the estimate of expected credit loss. The provision for credit losses for reinsurance assets held at amortized cost is recorded through policy and other operating expenses on the consolidated statements of operations.
+
+Athene has elected to present accrued interest receivable separately in other assets on the consolidated statements of financial condition. Athene has also elected the practical expedient to exclude the accrued interest receivable from the amortized cost balance used to calculate the allowance for expected credit losses, as Athene has a policy to write off such balances in a timely manner, when they become 90 days past due. Any write-off of accrued interest is recorded through a reversal of net investment income on the consolidated statements of operations.
+
+Upon determining that all or a portion of the amortized cost of an asset is uncollectible, which is generally when all efforts for collection are exhausted, the amortized cost is written off against the existing allowance. Any write off in excess of the existing allowance is recorded through the provision for credit losses within investment related gains (losses) on the consolidated statements of operations.
+
+Derivative Instruments
+
+Athene invests in derivatives to hedge the risks experienced from ongoing operations, such as equity, interest rate, foreign currency and market volatility, or for other risk management purposes, which primarily involve managing liability risks
+associated with indexed annuity products and reinsurance agreements. Derivatives are financial instruments with values that are derived from interest rates, foreign exchange rates, financial indices or other combinations of an underlying and notional. Derivative assets and liabilities are carried at fair value on the consolidated statements of financial condition. Athene elects to present any derivatives subject to master netting provisions as a gross asset or liability and gross of collateral. Disclosures regarding balance sheet presentation of derivatives subject to master netting agreements are discussed in note 5. Athene may designate derivatives as cash flow, fair value or net investment hedges.
+
+Hedge Documentation and Hedge Effectiveness
+
+To qualify for hedge accounting, at the inception of the hedging relationship, Athene formally documents its designation of the hedge as a cash flow, fair value or net investment hedge and risk management objective and strategy for undertaking the hedging transaction. This documentation identifies how the hedging instrument is expected to hedge the designated risks related to the hedged item and the method that will be used to retrospectively and prospectively assess the hedge effectiveness and the method which will be used to measure ineffectiveness. A derivative designated as a hedging instrument must be assessed as being highly effective in offsetting the designated risk of the hedged item. Hedge effectiveness is formally assessed at inception and periodically throughout the life of the hedge accounting relationship.
+
+For a cash flow hedge, all changes in the fair value of the hedging derivative are reported within AOCI and the related gains or losses on the derivative are reclassified into the consolidated statements of operations when the cash flows of the hedged item affect earnings.
+
+For a fair value hedge, changes in the fair value of the hedging derivative and changes in the fair value of the hedged item related to the designated risk being hedged are reported on the consolidated statements of operations according to the nature of the risk being hedged. Additionally, changes in the fair value of amounts excluded from the assessment of effectiveness are recorded in AOCI and amortized into income over the life of the hedge accounting relationship.
+
+For a net investment hedge, changes in the fair value of the hedging derivative are reported within AOCI to offset the translation adjustments for subsidiaries with functional currencies other than the U.S. dollar.
+
+Athene discontinues hedge accounting prospectively when: (1) it determines the derivative is no longer highly effective in offsetting changes in the estimated cash flows or fair value of a hedged item; (2) the derivative expires, is sold, terminated, or exercised; or (3) the derivative is de-designated as a hedging instrument. When hedge accounting is discontinued, the derivative continues to be carried on the consolidated statements of financial condition at fair value, with changes in fair value recognized in investment related gains (losses) on the consolidated statements of operations.
+
+For a derivative not designated as a hedge, changes in the derivative s fair value and any income received or paid on derivatives at the settlement date are included in investment related gains (losses) on the consolidated statements of operations.
+
+Embedded Derivatives
+
+Athene issues and reinsures products, primarily indexed annuity products, or purchases investments that contain embedded derivatives. If it determines the embedded derivative has economic characteristics that are not clearly and closely related to the economic characteristics of the host contract, and a separate instrument with the same terms would qualify as a derivative instrument, the embedded derivative is bifurcated from the host contract and accounted for separately, unless the fair value option is elected on the host contract. Under the fair value option, bifurcation of the embedded derivative is not necessary as the entire contract is carried at fair value with all related gains and losses recognized in investment related gains (losses) on the consolidated statements of operations. Embedded derivatives are carried on the consolidated statements of financial condition at fair value in the same line item as the host contract.
+
+Fixed indexed annuity, index-linked variable annuity and indexed universal life insurance contracts allow the policyholder to elect a fixed interest rate return or an equity market component for which interest credited is based on the performance of certain equity market indices. The equity market option is an embedded derivative. The benefit reserve is equal to the sum of the fair value of the embedded derivative and the host (or guaranteed) component of the contracts. The fair value of the embedded derivatives represents the present value of cash flows attributable to the indexed strategies. The embedded derivative cash flows are based on assumptions for future policy growth, which include assumptions for expected index credits on the next policy anniversary date, future equity option costs, volatility, interest rates and policyholder behavior assumptions, including lapses and the use of benefit riders. The embedded derivative cash flows are discounted using a rate that reflects Athene s own
+credit rating. The host contract is established at contract inception as the initial account value less the initial fair value of the embedded derivative and accreted over the policy s life. Contracts acquired through a business combination which contain an embedded derivative are re-bifurcated as of the acquisition date. Changes in the fair value of embedded derivatives associated with fixed indexed annuities, index-linked variable annuities and indexed universal life insurance contracts are included in interest sensitive contract benefits on the consolidated statements of operations.
+
+Additionally, reinsurance agreements written on a funds withheld or modco basis contain embedded derivatives. Athene has determined that the right to receive or obligation to pay the total return on the assets supporting the funds withheld at interest or funds withheld liability, respectively, represents a total return swap with a floating rate leg. The fair value of embedded derivatives on funds withheld and modco agreements is computed as the unrealized gain (loss) on the underlying assets and is included within funds withheld at interest for assumed agreements, and for ceded agreements the funds withheld liability is included in other liabilities on the consolidated statements of financial condition. The change in the fair value of the embedded derivatives is recorded in investment related gains (losses) on the consolidated statements of operations. Assumed and ceded earnings from funds withheld at interest, funds withheld liability and changes in the fair value of embedded derivatives are reported in operating activities on the consolidated statements of cash flows. Contributions to and withdrawals from funds withheld at interest and funds withheld liability are reported in operating activities on the consolidated statements of cash flows.
+
+Reinsurance
+
+Athene assumes and cedes insurance and investment contracts under coinsurance, funds withheld, modco, and yearly renewable term bases. Reinsurance accounting is applied for transactions that provide indemnification against loss or liability relating to insurance risk (risk transfer). To meet risk transfer requirements, a reinsurance agreement must transfer insurance risk arising from uncertainties about both underwriting and timing risks. Cessions under reinsurance do not discharge obligations as the primary insurer, unless the requirements of assumption reinsurance have been met. Athene generally has the right of offset on reinsurance transactions, but has elected to present reinsurance settlement amounts due to and from Athene on a gross basis.
+
+For assets and liabilities ceded under reinsurance agreements, Athene generally applies the same measurement guidance for Athene s directly issued or assumed contracts. Ceded amounts are recorded within reinsurance recoverable on the consolidated statements of financial condition. For reinsurance of in-force contracts that pass risk transfer, the issue year used for the purpose of measuring the reinsurance recoverable is dependent on the effective date of the reinsurance agreement, which may differ from the issue year for the direct or assumed contract. The issue year informs the locked-in discount rate used for the purposes of interest accretion. This may result in different discount rates used for the direct or assumed reserves and ceded reserves when reinsuring an in-force block of insurance contracts. For flow reinsurance of insurance contracts that pass risk transfer, the contracts have the same cash flow assumptions as the direct or assumed contracts when the terms are consistent between those respective contracts and the ceded reinsurance agreement. When Athene recognizes an immediate loss due to the present value of future benefits and expenses exceeding the present value of future gross premiums, a gain is recognized on the corresponding reinsurance recoverable to the extent it does not result in gain recognition at treaty inception. Likewise, where the direct or assumed reserve has been floored to zero, the corresponding reinsurance recoverable will be consistently set to zero. See Future Policy Benefits below for further information.
+
+Accounting for reinsurance requires the use of assumptions, particularly related to the future performance of the underlying business and the potential impact of counterparty credit risks. Athene attempts to minimize its counterparty credit risk through the structuring of the terms of its reinsurance agreements, including the use of trusts, and monitors credit ratings of counterparties for signs of declining credit quality. When a ceding company does not report information on a timely basis, Athene records accruals based on the best available information at the time, which includes the reinsurance agreement terms and historical experience. Athene periodically compares actual and anticipated experience to the assumptions used to establish reinsurance assets and liabilities. See note 8 for more information.
+
+Assets and liabilities assumed or ceded under coinsurance, funds withheld, modco, or yearly renewable term are presented gross on the consolidated statements of financial condition. For investment contracts, the change in the direct or assumed and ceded reserves are presented net in interest sensitive contract benefits on the consolidated statements of operations. For insurance contracts, the change in the direct or assumed and ceded reserves and benefits are presented net in future policy and other policy benefits on the consolidated statements of operations, except any changes related to the discount rate are presented net in OCI on the consolidated statements of comprehensive income (loss). For market risk benefits, the change in the direct or assumed and ceded reserves are presented net in market risk benefits remeasurement (gains) losses on the consolidated statements of operations, except for changes related to instrument-specific credit risk on direct and assumed contracts which are presented net in OCI on the consolidated statements of comprehensive income (loss).
+For the reinsurance of existing in-force blocks that transfer significant insurance risk, the difference between the assets received or paid and the liabilities assumed or ceded represents the net cost of reinsurance at the inception of the reinsurance agreement. The net cost of reinsurance is amortized on a basis consistent with the methodologies and assumptions used to amortize DAC and deferred sales inducements ( DSI ), or on a consistent basis with deferred profit liability dependent upon the nature of the underlying contract.
+
+Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired
+
+Deferred Acquisition Costs and Deferred Sales Inducements
+
+Costs related directly to the successful acquisition of new, or the renewal of existing, insurance or investment contracts are deferred. These costs consist of commissions and policy issuance costs, as well as sales inducements credited to policyholder account balances, and are included in deferred acquisition costs, deferred sales inducements and value of business acquired on the consolidated statements of financial condition. These costs are not capitalized until they are incurred.
+
+Deferred costs related to universal life-type policies and investment contracts with significant revenue streams from sources other than investment of the policyholder funds are grouped into cohorts based on issue year and contract type and amortized on a constant level basis over the expected term of the related contracts. The cohorts and assumptions used for the amortization of deferred costs are consistent with those used in estimating the related liabilities for these contracts. The constant level basis generally is the initial premium or deposit and is projected based on assumptions related to policyholder behavior, including lapses and mortality, over the expected term of the contracts. Each reporting period, Athene replaces expected experience with actual experience to determine the related amortization expense. Changes to projected experience are recognized in amortization expense prospectively over the remaining contract term. Amortization of DAC and DSI is included in amortization of deferred acquisition costs, deferred sales inducements and value of business acquired on the consolidated statements of operations.
+
+Deferred costs related to investment contracts without significant revenue streams from sources other than investment of the policyholder funds are amortized using the effective interest method. The effective interest method amortizes the deferred costs by discounting the future liability cash flows at a break-even rate. The break-even rate is solved for such that the present value of future liability cash flows is equal to the net liability at the inception of the contract. The deferred costs represent the difference between the net and gross liability and the change relates to amortization for the period.
+
+Value of Business Acquired
+
+Athene establishes VOBA for blocks of insurance contracts acquired through the acquisition of insurance entities. It records the fair value of the liabilities assumed in two components: reserves and VOBA. Reserves are established using Athene s best estimate assumptions as of the business combination date. VOBA is the difference between the fair value of the liabilities and the reserves. VOBA can be either positive or negative and is amortized in relation to respective policyholder liabilities. Significant assumptions that impact VOBA amortization are consistent with those that impact the measurement of policyholder liabilities. Athene performs periodic tests to determine if positive VOBA remains recoverable. If Athene determines that positive VOBA is not recoverable, Athene records a cumulative charge to the current period. Any negative VOBA is recorded to the same financial statement line on the consolidated statements of financial condition as the associated reserves. Positive VOBA is recorded in deferred acquisition costs, deferred sales inducements and value of business acquired on the consolidated statements of financial condition. See note 9 for further information.
+
+Interest Sensitive Contract Liabilities
+
+Universal life-type policies and investment contracts include traditional deferred annuities; indexed annuities consisting of fixed indexed, index-linked variable annuities in the accumulation phase, and assumed indexed universal life without significant mortality risk; funding agreements; immediate annuities without significant mortality risk (which include pension group annuities without life contingencies); universal life insurance; and other investment contracts inclusive of assumed endowments without significant mortality risk. Athene carries liabilities for traditional deferred annuities, indexed annuities, funding agreements and universal life insurance at the account balances without reduction for potential surrender or withdrawal charges, except for a block of universal life business ceded to Global Atlantic Financial Group Limited (together with its subsidiaries, Global Atlantic ), which it carries at fair value. Liabilities for immediate annuities without significant mortality risk are calculated as the present value of future liability cash flows and policy maintenance expenses discounted at contractual interest
+rates. Certain of Athene s universal life-type policies and investment contracts are offered with additional contract features that meet the definition of a market risk benefit. See Market Risk Benefits below for further information.
+
+Unearned revenue liabilities are established when amounts are assessed against the policyholder for services to be provided in future periods. These balances are amortized consistent with the methodologies and assumptions used to amortize DAC and DSI.
+
+Changes in interest sensitive contract liabilities, excluding deposits and withdrawals, are recorded in interest sensitive contract benefits or product charges on the consolidated statements of operations. Interest sensitive contract liabilities are not reduced for amounts ceded under reinsurance agreements which are reported as reinsurance recoverable on the consolidated statements of financial condition.
+
+Future Policy Benefits
+
+Athene issues or reinsures contracts classified as long-duration, which include term and whole life, accident and health, disability, and deferred and immediate annuities with life contingencies (which include pension group annuities with life contingencies). Liabilities for nonparticipating long-duration contracts are established as the estimated present value of benefits we expect to pay to or on behalf of the policyholder and related expenses less the present value of the net premiums to be collected, referred to as the net premium ratio. The contracts are grouped into cohorts based on issue year and contract type, with an exception for pension group annuities, which are generally assessed at the group annuity contract level. Contracts with different issuance years are not combined. Contracts acquired in a business combination are grouped into a single cohort by contract type, except for pension group annuities, which follow the group annuity contract level.
+
+Liabilities for nonparticipating long-duration contracts are established using accepted actuarial valuation methods which require the use of assumptions related to discount rate, expenses, longevity, mortality, morbidity, persistency and other policyholder behavior. Athene bases certain key assumptions, such as longevity, mortality and morbidity, on industry standard data adjusted to align with actual company experience, if needed. Athene has elected to use expense assumptions that are locked in at issuance for each cohort. All other cash flow assumptions are established at contract issuance and reviewed annually or more frequently if actual experience suggests a revision is necessary. The effects of changes in cash flow assumptions impacting the net premium ratio are recorded as remeasurement changes in the period in which they are made. As cash flow assumptions are reviewed at least annually, there is no provision for adverse deviation included within the liability.
+
+Actual experience is recognized in the period in which the experience arises. Actual experience is then incorporated into the net premium ratio for all products and cohorts on a quarterly basis. When the net premium ratio is revised, whether to incorporate actual experience each reporting period or for the review of cash flow assumptions, the liability is recalculated as of the beginning of the period, discounted at the original contract issuance discount rate, and compared with the carrying amount of the liability as of the same date to determine the current period change. The current period change in the liability is recognized as remeasurement gain or loss.
+
+To the extent the present value of future benefits and expenses exceeds the present value of gross premiums, Athene will cap the net premium ratio at one hundred percent by increasing the corresponding liability and recognizing an immediate loss through the consolidated statements of operations. The liability is never recorded at an amount less than zero for the cohort.
+
+The liability for nonparticipating long-duration contracts is discounted using an upper-medium grade fixed income instrument yield aligned to the characteristics of the liability, including the duration and currency of the underlying cash flows. In determining reference portfolio of instruments, Athene has used a single A equivalent level rate and maximized the use of observable data to the extent possible for the duration of its liabilities. The discount rate is required to be updated at the end of each reporting period for the remeasurement of the liability but is locked-in for each cohort for the purpose of interest accretion expense.
+
+Changes in the value of the liability for nonparticipating long-duration contracts due to changes in the discount rate are recognized as a component of OCI on the consolidated statements of comprehensive income (loss). Changes in the liability for remeasurement gains or losses and all other changes in the liability are recorded in future policy and other policy benefits on the consolidated statements of operations.
+
+Future policy benefits include liabilities for no-lapse guarantees on universal life insurance and fixed indexed universal life insurance. Athene establishes future policy benefits for no-lapse guarantees by estimating the expected value of death benefits
+paid after policyholder account balances have been exhausted. Athene recognizes these benefits proportionally over the life of the contracts based on total actual and expected assessments. The methods Athene uses to estimate the liabilities have assumptions about policyholder behavior, mortality, expected yield on investments supporting the liability and market conditions affecting policyholder account balance growth.
+
+For the liabilities associated with no-lapse guarantees, each reporting period Athene updates expected excess benefits and assessments with actual excess benefits and assessments. Athene also periodically revises the key assumptions used in the calculation of the liabilities that result in revisions to the expected excess benefits and assessments. The effects of changes in assumptions are recorded as unlocking in the period in which the changes are made. Changes in the liabilities associated with no-lapse guarantees are recorded in future policy and other policy benefits on the consolidated statements of operations.
+
+Future policy benefits are not reduced for amounts ceded under reinsurance agreements, which are reported as reinsurance recoverable on the consolidated statements of financial condition.
+
+Market Risk Benefits
+
+Market risk benefits represent contracts or contract features that both provide protection to the contract holder from, and expose the insurance entity to, other-than-nominal capital market risk. Athene s deferred annuity contracts which contain GLWB and GMDB riders that meet the criteria for, and are classified as, market risk benefits.
+
+Market risk benefits are measured at fair value at the contract level and may be recorded as a liability or an asset, which are recorded on the consolidated statements of financial condition in market risk benefits or other assets, respectively. Multiple market risk benefits on a contract are treated as a single, compound market risk benefit. At contract inception, Athene assesses the fees and assessments that are collectible from the policyholder and allocates them to the extent they are attributable to the market risk benefit. These attributed fees are used in the valuation of the market risk benefits and are never negative or exceed total explicit fees collectible from the policyholder. If the fees are sufficient to cover the projected benefits, a non-option based valuation model is used. If the fees are insufficient to cover the projected benefits, an option-based valuation model is used to compute the market risk benefit liability at contract inception, with an equal and offsetting adjustment recognized in interest sensitive contract liabilities.
+
+Changes in fair value of market risk benefits are recorded in market risk benefits remeasurement (gains) losses on the consolidated statements of operations, excluding portions attributed to changes in instrument-specific credit risk, which are recorded in OCI on the consolidated statements of comprehensive income (loss). Market risk benefits are not reduced for market risk benefits ceded under reinsurance agreements. Ceded market risk benefits are measured at fair value and recorded within reinsurance recoverable on the consolidated statements of financial condition.
+
+Upon annuitization of the contract or the extinguishment of the account balance, the market risk benefit, related annuity contract and unamortized deferred costs are derecognized, including amounts within AOCI. A payout annuity is then established for GLWBs.
+
+Revenues
+
+Revenues for universal life-type policies and investment contracts, including surrender and market value adjustments, costs of insurance, policy administration, GMDB, GLWB and no-lapse guarantee charges, are earned when assessed against policyholder account balances during the period. Interest credited to policyholder account balances and the change in fair value of embedded derivatives within fixed indexed annuity contracts is included in interest sensitive contract benefits on the consolidated statements of operations.
+
+Premiums for long-duration contracts, including products with fixed and guaranteed premiums and benefits, are recognized as revenue when due from policyholders. When premiums are due over a significantly shorter period than the period over which benefits are provided, a deferred profit liability is established equal to the excess of the gross premium over the net premium. The deferred profit liability is recognized in future policy benefits on the consolidated statements of financial condition and amortized into income in relation to either applicable policyholder liabilities for immediate annuities with life contingencies (which includes pension group annuities) or insurance in-force for whole life products through future policy and other policy benefits on the consolidated statements of operations.
+When the net premium ratio for the corresponding future policy benefit is updated for actual experience and changes to projected cash flow assumptions, the deferred profit liability is retrospectively recalculated from the contract issuance date through the beginning of the current reporting period. The revised deferred profit liability is compared to the beginning of the period carrying amount to determine the change to be recognized as a remeasurement gain or loss within future policy and other policy benefits on the consolidated statements of operations. Unlike the related future policy benefit, the deferred profit liability will not be remeasured for changes in discount rates each reporting period. Negative VOBA balances associated with payout contracts involving life contingencies, including pension group annuities, are accounted for in a manner similar to the deferred profit liability.
+
+All insurance-related revenue is reported net of reinsurance ceded.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AccountingPoliciesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for the basis of presentation and significant accounting policies concepts. Basis of presentation describes the underlying basis used to prepare the financial statements (for example, US Generally Accepted Accounting Principles, Other Comprehensive Basis of Accounting, IFRS). Accounting policies describe all significant accounting policies of the reporting entity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 235
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/235/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_BasisOfPresentationAndSignificantAccountingPoliciesTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

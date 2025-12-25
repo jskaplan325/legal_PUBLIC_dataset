@@ -1,0 +1,300 @@
+XML
+112
+R89.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Accrued Compensation and Benefits - Components (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Retirement Benefits [Abstract]
+
+Accrued performance allocations and incentive fee related compensation
+$ 4,819.7
+
+$ 4,255.8
+
+Accrued bonuses
+335.5
+
+498.2
+
+Accrued pension liability
+7.0
+
+13.1
+
+Other
+284.4
+
+155.1
+
+Total
+5,446.6
+
+4,922.2
+
+Realized performance allocations and incentive fee-related compensation not yet paid
+7.1
+
+$ 44.5
+
+Accrued performance allocations and related compensation not yet paid
+$ 176.7
+
+X
+
+- DefinitionAccrued Performance Allocations And Incentive Fee-Related Compensation Not Yet Paid
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AccruedPerformanceAllocationsAndIncentiveFeeRelatedCompensationNotYetPaid
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAccrued Performance Allocations And Related Compensation Not Yet Paid
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AccruedPerformanceAllocationsAndRelatedCompensationNotYetPaid
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAccrued performance fees due to employees and advisors included in accrued compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AccruedPerformanceFeesDueToEmployeesAndAdvisorsIncludedInAccruedCompensation
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionCarrying value as of the balance sheet date of obligations incurred and payable for incentive compensation awarded to employees and directors or earned by them based on the terms of one or more relevant arrangements.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_AccruedBonusesCurrentAndNoncurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CompensationAndRetirementDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of liability, recognized in statement of financial position, for defined benefit pension plan, classified as current. Excludes other postretirement benefit plan.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(20))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 715
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480535/715-20-45-3
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 715
+ -SubTopic 20
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480535/715-20-45-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 715
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
+
++ Details
+
+ Name:
+us-gaap_DefinedBenefitPensionPlanLiabilitiesCurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionTotal of the carrying values as of the balance sheet date of obligations incurred through that date and payable for obligations related to services received from employees, such as accrued salaries and bonuses, payroll taxes and fringe benefits.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(15)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_EmployeeRelatedLiabilitiesCurrentAndNoncurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of obligations incurred for employer-related costs classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherEmployeeRelatedLiabilitiesCurrentAndNoncurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant

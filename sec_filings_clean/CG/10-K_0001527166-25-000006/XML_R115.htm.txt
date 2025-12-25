@@ -1,0 +1,647 @@
+XML
+138
+R115.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity-Based Compensation - Summary of Status of Non-Vested Equity-Based Awards (Details) - USD ($)
+ $ / shares in Units, $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Weighted- Average Grant Date Fair Value
+
+Shares retired in connection with the net share settlement of equity-based awards (in shares)
+3,332,881
+
+0
+
+Shares retired in connection with the net share settlement of equity-based awards
+$ 159.0
+
+$ 0.0
+
+Performance-Vesting Restricted Stock Units
+
+Units
+
+Beginning balance (in shares)
+4,941,317
+
+0
+
+0
+
+Granted (in shares)
+13,286,934
+
+4,941,317
+
+0
+
+Vested (in shares)
+995,848
+
+0
+
+0
+
+Forfeited (in shares)
+292,253
+
+0
+
+0
+
+Ending balance (in shares)
+16,940,150
+
+4,941,317
+
+0
+
+Weighted- Average Grant Date Fair Value
+
+Beginning balance (in dollars per share)
+$ 23.19
+
+$ 0
+
+$ 0
+
+Granted (in dollars per share)
+26.55
+
+23.19
+
+0
+
+Vested (in dollars per share)
+29.86
+
+0
+
+0
+
+Forfeited (in dollars per share)
+24.55
+
+0
+
+0
+
+Ending balance (in dollars per share)
+$ 25.41
+
+$ 23.19
+
+$ 0
+
+Restricted Stock Units
+
+Units
+
+Beginning balance (in shares)
+17,232,330
+
+10,865,248
+
+14,775,651
+
+Granted (in shares)
+5,659,849
+
+13,332,230
+
+4,216,827
+
+Vested (in shares)
+6,932,134
+
+5,280,029
+
+5,805,437
+
+Forfeited (in shares)
+1,993,557
+
+1,685,119
+
+2,321,793
+
+Ending balance (in shares)
+13,966,488
+
+17,232,330
+
+10,865,248
+
+Weighted- Average Grant Date Fair Value
+
+Beginning balance (in dollars per share)
+$ 34.68
+
+$ 35.78
+
+$ 30.70
+
+Granted (in dollars per share)
+40.92
+
+32.36
+
+40.35
+
+Vested (in dollars per share)
+33.39
+
+31.86
+
+28.15
+
+Forfeited (in dollars per share)
+33.86
+
+32.24
+
+30.84
+
+Ending balance (in dollars per share)
+$ 37.97
+
+$ 34.68
+
+$ 35.78
+
+Unvested Common Units
+
+Units
+
+Beginning balance (in shares)
+458,929
+
+452,880
+
+635,430
+
+Granted (in shares)
+247,293
+
+258,579
+
+188,223
+
+Vested (in shares)
+247,316
+
+252,530
+
+370,773
+
+Forfeited (in shares)
+0
+
+0
+
+0
+
+Ending balance (in shares)
+458,906
+
+458,929
+
+452,880
+
+Weighted- Average Grant Date Fair Value
+
+Beginning balance (in dollars per share)
+$ 37.87
+
+$ 39.73
+
+$ 29.27
+
+Granted (in dollars per share)
+40.08
+
+39.73
+
+49.06
+
+Vested (in dollars per share)
+34.52
+
+34.85
+
+26.54
+
+Forfeited (in dollars per share)
+0
+
+37.91
+
+0
+
+Ending balance (in dollars per share)
+$ 39.35
+
+$ 37.87
+
+$ 39.73
+
+X
+
+- DefinitionUnits granted under share-based compensation arrangement other than as part of the initial public offering.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantedOtherInPeriod
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted-average grant date fair value of units granted under share-based compensation arrangement other than as part of the initial public offering.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantedOtherWeightedAverageGrantDateFairValue
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionStock Retired During Period, Shares
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_StockRetiredDuringPeriodShares
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionStock Retired During Period, Value
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_StockRetiredDuringPeriodValue
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe number of equity-based payment instruments, excluding stock (or unit) options, that were forfeited during the reporting period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted average fair value as of the grant date of equity-based award plans other than stock (unit) option plans that were not exercised or put into effect as a result of the occurrence of a terminating event.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe number of non-vested equity-based payment instruments, excluding stock (or unit) options, that validly exist and are outstanding as of the balance sheet date.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(ii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPer share or unit weighted-average fair value of nonvested award under share-based payment arrangement. Excludes share and unit options.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(ii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValueRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe number of equity-based payment instruments, excluding stock (or unit) options, that vested during the reporting period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(02)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe weighted average fair value as of grant date pertaining to an equity-based award plan other than a stock (or unit) option plan for which the grantee gained the right during the reporting period, by satisfying service and performance requirements, to receive or retain shares or units, other instruments, or cash in accordance with the terms of the arrangement.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(02)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=cg_PerformanceVestingRestrictedStockUnitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=us-gaap_RestrictedStockUnitsRSUMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=cg_UnvestedCommonUnitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

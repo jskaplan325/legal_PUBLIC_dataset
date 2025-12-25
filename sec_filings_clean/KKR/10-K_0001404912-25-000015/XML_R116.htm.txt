@@ -1,0 +1,370 @@
+XML
+138
+R116.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Value of Business Acquired Asset (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Movement in Present Value of Future Insurance Profits [Roll Forward]
+
+Balance, as of the Beginning of the Period
+$ 1,252,984
+
+$ 1,316,529
+
+$ 1,417,968
+
+Amortization Expense
+(87,791)
+
+(63,545)
+
+(101,439)
+
+Balance, as of the End of the Period
+1,165,193
+
+1,252,984
+
+1,316,529
+
+Fixed Rate Annuities
+
+Movement in Present Value of Future Insurance Profits [Roll Forward]
+
+Balance, as of the Beginning of the Period
+44,922
+
+48,762
+
+52,723
+
+Amortization Expense
+(3,687)
+
+(3,840)
+
+(3,961)
+
+Balance, as of the End of the Period
+41,235
+
+44,922
+
+48,762
+
+Fixed Indexed Annuities
+
+Movement in Present Value of Future Insurance Profits [Roll Forward]
+
+Balance, as of the Beginning of the Period
+621,372
+
+663,296
+
+709,271
+
+Amortization Expense
+(43,210)
+
+(41,924)
+
+(45,975)
+
+Balance, as of the End of the Period
+578,162
+
+621,372
+
+663,296
+
+Interest Sensitive Life
+
+Movement in Present Value of Future Insurance Profits [Roll Forward]
+
+Balance, as of the Beginning of the Period
+262,942
+
+276,795
+
+292,323
+
+Amortization Expense
+(13,530)
+
+(13,853)
+
+(15,528)
+
+Balance, as of the End of the Period
+249,412
+
+262,942
+
+276,795
+
+Variable Annuities
+
+Movement in Present Value of Future Insurance Profits [Roll Forward]
+
+Balance, as of the Beginning of the Period
+245,042
+
+241,778
+
+269,172
+
+Amortization Expense
+(20,695)
+
+3,264
+
+(27,394)
+
+Balance, as of the End of the Period
+224,347
+
+245,042
+
+241,778
+
+Other
+
+Movement in Present Value of Future Insurance Profits [Roll Forward]
+
+Balance, as of the Beginning of the Period
+78,706
+
+85,898
+
+94,479
+
+Amortization Expense
+(6,669)
+
+(7,192)
+
+(8,581)
+
+Balance, as of the End of the Period
+$ 72,037
+
+$ 78,706
+
+$ 85,898
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MovementInPresentValueOfFutureInsuranceProfitsRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of amortization expense (reversal of expense) for present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479735/944-20-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsAmortizationExpense1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after accumulated amortization, of present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479735/944-20-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(10))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_ValueOfBusinessAcquiredVOBA
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedRateAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedIndexedAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InterestSensitiveLifeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_VariableAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_OtherLongdurationInsuranceProductLineMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,2719 @@
+XML
+126
+R96.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value - Schedule of Gross Components of Purchases, Issuances, Sales and Settlements, Net, and Net Transfers In (Out) (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Asset Management
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+$ 4,045
+
+$ 5,064
+
+Issuances
+0
+
+0
+
+Sales
+(3,494)
+
+(4,326)
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+551
+
+738
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+452
+
+0
+
+Transfers Out
+(318)
+
+(2)
+
+Net Transfers In (Out)
+134
+
+(2)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+0
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+(105)
+
+(4)
+
+Net Purchases, Issuances, Sales and Settlements
+(105)
+
+(4)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Asset Management | Contingent consideration obligations
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+0
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+(105)
+
+(4)
+
+Net Purchases, Issuances, Sales and Settlements
+(105)
+
+(4)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Asset Management | Investments and derivative assets
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+36
+
+45
+
+Issuances
+0
+
+0
+
+Sales
+(64)
+
+(5)
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(28)
+
+40
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+(68)
+
+0
+
+Net Transfers In (Out)
+(68)
+
+0
+
+Asset Management | Investments, at fair value
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Net Purchases, Issuances, Sales and Settlements
+
+40
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Net Transfers In (Out)
+
+0
+
+Asset Management | VIE, Primary Beneficiary | Investments, at fair value
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+4,009
+
+5,019
+
+Issuances
+0
+
+0
+
+Sales
+(3,430)
+
+(4,321)
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+579
+
+698
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+452
+
+0
+
+Transfers Out
+(250)
+
+(2)
+
+Net Transfers In (Out)
+202
+
+(2)
+
+Retirement Services
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+52,014
+
+32,616
+
+Issuances
+359
+
+0
+
+Sales
+(1,299)
+
+(1,201)
+
+Settlements
+(15,486)
+
+(7,631)
+
+Net Purchases, Issuances, Sales and Settlements
+35,588
+
+23,784
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+1,200
+
+3,195
+
+Transfers Out
+(3,054)
+
+(4,871)
+
+Net Transfers In (Out)
+(1,854)
+
+(1,676)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+0
+
+Issuances
+(3,010)
+
+(2,431)
+
+Sales
+0
+
+0
+
+Settlements
+1,055
+
+581
+
+Net Purchases, Issuances, Sales and Settlements
+(1,955)
+
+(1,850)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net [Abstract]
+
+Transfers In
+64
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+64
+
+0
+
+Retirement Services | Funds withheld at interest embedded derivative
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Net Purchases, Issuances, Sales and Settlements
+(2,009)
+
+(1,775)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net [Abstract]
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Interest sensitive contract liabilities
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+0
+
+Issuances
+(3,010)
+
+(2,431)
+
+Sales
+0
+
+0
+
+Settlements
+1,001
+
+656
+
+Net Purchases, Issuances, Sales and Settlements
+(2,009)
+
+(1,775)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Other liabilities
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+0
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+54
+
+(75)
+
+Net Purchases, Issuances, Sales and Settlements
+54
+
+(75)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net [Abstract]
+
+Transfers In
+64
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+64
+
+0
+
+Retirement Services | AFS securities | Foreign governments
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+53
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+(12)
+
+(12)
+
+Net Purchases, Issuances, Sales and Settlements
+(12)
+
+41
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | AFS securities | Corporate
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+3,146
+
+1,704
+
+Issuances
+0
+
+0
+
+Sales
+(41)
+
+(177)
+
+Settlements
+(290)
+
+(229)
+
+Net Purchases, Issuances, Sales and Settlements
+2,815
+
+1,298
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+166
+
+29
+
+Transfers Out
+(1,201)
+
+(491)
+
+Net Transfers In (Out)
+(1,035)
+
+(462)
+
+Retirement Services | AFS securities | ABS
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+11,886
+
+4,221
+
+Issuances
+0
+
+0
+
+Sales
+(423)
+
+(33)
+
+Settlements
+(1,651)
+
+(947)
+
+Net Purchases, Issuances, Sales and Settlements
+9,812
+
+3,241
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+769
+
+828
+
+Transfers Out
+(914)
+
+(2,045)
+
+Net Transfers In (Out)
+(145)
+
+(1,217)
+
+Retirement Services | AFS securities | CMBS
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+0
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+0
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+20
+
+Transfers Out
+(19)
+
+0
+
+Net Transfers In (Out)
+(19)
+
+20
+
+Retirement Services | AFS securities | RMBS
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+99
+
+262
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+(16)
+
+(6)
+
+Net Purchases, Issuances, Sales and Settlements
+83
+
+256
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+5
+
+Transfers Out
+(100)
+
+(240)
+
+Net Transfers In (Out)
+(100)
+
+(235)
+
+Retirement Services | Trading securities
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+8
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+(21)
+
+(24)
+
+Net Purchases, Issuances, Sales and Settlements
+(21)
+
+(16)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+14
+
+5
+
+Transfers Out
+0
+
+(16)
+
+Net Transfers In (Out)
+14
+
+(11)
+
+Retirement Services | Equity securities
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+2
+
+0
+
+Issuances
+0
+
+0
+
+Sales
+(1)
+
+(45)
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+1
+
+(45)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+9
+
+0
+
+Transfers Out
+(9)
+
+(13)
+
+Net Transfers In (Out)
+0
+
+(13)
+
+Retirement Services | Mortgage loans
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+27,596
+
+21,018
+
+Issuances
+0
+
+0
+
+Sales
+(106)
+
+(529)
+
+Settlements
+(8,174)
+
+(4,011)
+
+Net Purchases, Issuances, Sales and Settlements
+19,316
+
+16,478
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Derivative assets
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+Issuances
+0
+
+Sales
+0
+
+Settlements
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+1
+
+Transfers Out
+0
+
+Net Transfers In (Out)
+1
+
+Retirement Services | Short-term investments
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+172
+
+100
+
+Issuances
+0
+
+0
+
+Sales
+(6)
+
+0
+
+Settlements
+(21)
+
+(31)
+
+Net Purchases, Issuances, Sales and Settlements
+145
+
+69
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+26
+
+Transfers Out
+(79)
+
+(23)
+
+Net Transfers In (Out)
+(79)
+
+3
+
+Retirement Services | Other investments
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+289
+
+620
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+0
+
+(431)
+
+Net Purchases, Issuances, Sales and Settlements
+289
+
+189
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Reinsurance recoverable
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+Issuances
+359
+
+Sales
+0
+
+Settlements
+(4)
+
+Net Purchases, Issuances, Sales and Settlements
+355
+
+0
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+Transfers Out
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Related Party | AFS securities | Corporate
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+63
+
+184
+
+Issuances
+0
+
+0
+
+Sales
+(1)
+
+0
+
+Settlements
+(9)
+
+(11)
+
+Net Purchases, Issuances, Sales and Settlements
+53
+
+173
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+215
+
+Transfers Out
+(154)
+
+0
+
+Net Transfers In (Out)
+(154)
+
+215
+
+Retirement Services | Related Party | AFS securities | CLO
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+177
+
+185
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+177
+
+185
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Related Party | AFS securities | ABS
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+7,197
+
+3,751
+
+Issuances
+0
+
+0
+
+Sales
+(504)
+
+(162)
+
+Settlements
+(4,814)
+
+(1,711)
+
+Net Purchases, Issuances, Sales and Settlements
+1,879
+
+1,878
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+284
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+284
+
+Retirement Services | Related Party | Trading securities
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+4
+
+66
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+(38)
+
+Settlements
+(268)
+
+(80)
+
+Net Purchases, Issuances, Sales and Settlements
+(264)
+
+(52)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Related Party | Equity securities
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+0
+
+0
+
+Issuances
+0
+
+0
+
+Sales
+(5)
+
+0
+
+Settlements
+0
+
+(32)
+
+Net Purchases, Issuances, Sales and Settlements
+(5)
+
+(32)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Related Party | Mortgage loans
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+87
+
+0
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+(88)
+
+(30)
+
+Net Purchases, Issuances, Sales and Settlements
+(1)
+
+(30)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Related Party | Investment funds
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+106
+
+32
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+106
+
+32
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | Related Party | Other investments
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+
+42
+
+Issuances
+
+0
+
+Sales
+
+0
+
+Settlements
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+42
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+
+0
+
+Transfers Out
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Retirement Services | VIE, Primary Beneficiary | Trading securities
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+235
+
+40
+
+Issuances
+0
+
+0
+
+Sales
+(178)
+
+(156)
+
+Settlements
+(7)
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+50
+
+(116)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+220
+
+1,308
+
+Transfers Out
+(88)
+
+(31)
+
+Net Transfers In (Out)
+132
+
+1,277
+
+Retirement Services | VIE, Primary Beneficiary | Mortgage loans
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+558
+
+203
+
+Issuances
+0
+
+0
+
+Sales
+0
+
+0
+
+Settlements
+(111)
+
+(76)
+
+Net Purchases, Issuances, Sales and Settlements
+447
+
+127
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+21
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Transfers In (Out)
+21
+
+0
+
+Retirement Services | VIE, Primary Beneficiary | Investment funds
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+341
+
+113
+
+Issuances
+0
+
+0
+
+Sales
+(10)
+
+(40)
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+331
+
+73
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+475
+
+Transfers Out
+(470)
+
+(2,012)
+
+Net Transfers In (Out)
+(470)
+
+(1,537)
+
+Retirement Services | VIE, Primary Beneficiary | Other investments
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+Purchases
+56
+
+14
+
+Issuances
+0
+
+0
+
+Sales
+(24)
+
+(21)
+
+Settlements
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+32
+
+(7)
+
+Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+Transfers In
+0
+
+0
+
+Transfers Out
+(20)
+
+0
+
+Net Transfers In (Out)
+$ (20)
+
+$ 0
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as a liability into level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationLiabilityTransfersIntoLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as a liability out of level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationLiabilityTransfersOutOfLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of issuances of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetIssues
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of purchases of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetPurchases
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of purchases, (sales), issuances and (settlements) of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetPurchasesSalesIssuancesSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetPurchasesSalesIssuancesSettlementsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of sale of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetSales
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of settlement of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfer of financial instrument classified as an asset into level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersIntoLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfer of financial instrument classified as an asset into (out of) level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersNetAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as an asset out of level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersOutOfLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of issuances of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityIssues
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of purchases of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityPurchases
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of purchases, (sales), issuances and (settlements) of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityPurchasesSalesIssuancesSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityPurchasesSalesIssuancesSettlementsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of sales of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilitySales
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of settlements of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilitySettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as a liability into (out of) level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityTransfersNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityTransfersNetAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=apo_AssetManagementSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=apo_ContingentConsiderationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=apo_InvestmentsAndDerivativeAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_InvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=us-gaap_VariableInterestEntityPrimaryBeneficiaryMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=apo_RetirementServicesSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_EmbeddedDerivativeFinancialInstrumentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=apo_InterestSensitiveContractLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_OtherLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_DebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ForeignGovernmentDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_AssetBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CommercialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ResidentialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_TradingAssetsExcludingDebtAndEquitySecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_EquitySecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_LoansReceivableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_DerivativeFinancialInstrumentsAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_ShortTermInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_OtherInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_ReinsuranceRecoverableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=apo_InvestmentFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

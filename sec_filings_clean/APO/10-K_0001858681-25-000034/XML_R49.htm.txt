@@ -1,0 +1,390 @@
+XML
+79
+R49.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Debt (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Debt Disclosure [Abstract]
+
+Schedule of Debt
+Company debt consisted of the following:
+
+ December 31, 2024 December 31, 2023
+(In millions, except percentages) Maturity Date Outstanding Balance Fair Value Outstanding Balance Fair Value
+Asset Management
+4.00% 2024 Senior Notes1,2
+ May 30, 2024 $ $ $ 499 $ 496 4
+
+4.40% 2026 Senior Notes1,2
+ May 27, 2026 499 496 4
+ 498 490 4
+
+4.87% 2029 Senior Notes1,2
+ February 15, 2029 675 670 4
+ 675 664 4
+
+2.65% 2030 Senior Notes1,2
+ June 5, 2030 497 439 4
+ 496 432 4
+
+6.38% 2033 Senior Notes1,2
+ November 15, 2033 492 542 4
+ 492 539 4
+
+5.00% 2048 Senior Notes1,2
+ March 15, 2048 297 271 4
+ 297 275 4
+
+5.80% 2054 Senior Notes1,2
+ May 21, 2054 741 753 4
+
+4.95% 2050 Subordinated Notes1,2
+ January 14, 2050 297 283 4
+
+7.63% 2053 Subordinated Notes1,2
+ September 15, 2053 584 642 5
+ 584 652 5
+
+6.00% 2054 Subordinated Notes1,2
+ December 15, 2054
+ 494 494 4
+
+1.70% Secured Borrowing II
+ April 15, 2032 14 14 4
+
+1.30% 2016 AMI Term Facility I
+ January 15, 2025 19 19 3
+
+2.00% 2016 AMI Term Facility II
+ October 18, 2024 12 12 3
+
+ 4,279 4,307 3,883 3,876
+Retirement Services
+4.13% 2028 AHL Senior Notes1
+ January 12, 2028 1,050 976 4
+ 1,066 956 4
+
+6.15% 2030 AHL Senior Notes1
+ April 3, 2030 579 519 4
+ 593 516 4
+
+3.50% 2031 AHL Senior Notes1
+ January 15, 2031 520 452 4
+ 523 442 4
+
+6.65% 2033 AHL Senior Notes1
+ February 1, 2033 395 425 4
+ 395 427 4
+
+5.88% 2034 AHL Senior Notes1
+ January 15, 2034 584 608 4
+ 583 607 4
+
+3.95% 2051 AHL Senior Notes1
+ May 25, 2051 544 360 4
+ 545 375 4
+
+3.45% 2052 AHL Senior Notes1
+ May 15, 2052 504 322 4
+ 504 337 4
+
+6.25% 2054 AHL Senior Notes1
+ April 1, 2054 983 1,003 4
+
+6.63% 2054 AHL Subordinated Notes1
+ October 15, 2054 592 598 4
+
+7.25% 2064 AHL Subordinated Notes1
+ March 30, 2064 558 581 5
+
+ 6,309 5,844 4,209 3,660
+Total Debt $ 10,588 $ 10,151 $ 8,092 $ 7,536
+
+1 Interest rate is calculated as weighted average annualized.
+
+2 Includes amortization of note discount, as applicable, totaling $44 million and $34 million as of December 31, 2024 and December 31, 2023, respectively. Outstanding balance is presented net of unamortized debt issuance costs.
+
+3 Fair value is based on a discounted cash flow method. These notes are classified as a Level 3 liability within the fair value hierarchy.
+
+4 Fair value is based on broker quotes. These notes are valued using Level 2 inputs based on the number and quality of broker quotes obtained, the standard deviations of the observed broker quotes and the percentage deviation from external pricing services.
+
+5 Fair value is based on quoted market prices. These notes are classified as a Level 1 liability within the fair value hierarchy.
+
+Schedule of Credit and Liquidity Facilities
+The following table represents the Company s credit and liquidity facilities as of December 31, 2024:
+
+Instrument/Facility Borrowing Date Maturity Date Administrative Agent Key terms
+
+Asset Management -
+AGM credit facility
+ N/A November 21, 2029 Citibank The borrowing capacity under the AGM credit facility is $1.25 billion, subject to being increased up to $1.5 billion in total.
+
+Retirement Services -
+AHL credit facility
+ N/A June 30, 2028 Citibank The borrowing capacity under the AHL credit facility is $1.25 billion, subject to being increased up to $1.75 billion in total.
+
+Retirement Services -
+AHL liquidity facility
+ N/A June 27, 2025 Wells Fargo Bank The borrowing capacity under the AHL liquidity facility is $2.6 billion, subject to being increased up to $3.1 billion in total.
+
+Schedule of Interest Expense
+The following table presents the interest expense incurred related to the Company s debt:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Asset Management $ 226 $ 145 $ 124
+Retirement Services1
+ 248 123 98
+Total Interest Expense $ 474 $ 268 $ 222
+
+Note: Debt issuance costs incurred are amortized into interest expense over the term of the debt arrangement, as applicable.
+
+1 Interest expense for Retirement Services is included in policy and other operating expenses on the consolidated statements of operations.
+
+Schedule of Maturities of Long-Term Debt
+The table below presents the contractual maturities for the Company s debt arrangements as of December 31, 2024:
+
+(In millions) 2025 2026 - 2027
+ 2028 - 2029
+ 2030 and Thereafter Total
+Asset Management
+Debt obligations $ $ 500 $ 675 $ 3,150 $ 4,325
+Retirement Services
+Debt obligations 1,000 5,175 6,175
+Total Obligations as of December 31, 2024
+ $ $ 500 $ 1,675 $ 8,325 $ 10,500
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of interest income and expense, including, but not limited to, interest income and expense from investments, loans, and securities.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InterestIncomeAndInterestExpenseDisclosureTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of long-debt instruments or arrangements, including identification, terms, features, collateral requirements and other information necessary to a fair presentation. These are debt arrangements that originally required repayment more than twelve months after issuance or greater than the normal operating cycle of the entity, if longer.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69E
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-04(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-3
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-3
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 942
+ -SubTopic 470
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477734/942-470-50-3
+
+Reference 8: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-8
+
+Reference 9: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-6
+
+Reference 10: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-7
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDebtInstrumentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of short-term or long-term contractual arrangements with lenders, including letters of credit, standby letters of credit, and revolving credit arrangements, under which borrowings can be made up to maximum amount as of any point in time conditional on satisfaction of specified terms before, as of and after the date of drawdowns on the line.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(19)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfLineOfCreditFacilitiesTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of maturity and sinking fund requirement for long-term debt.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 10
+ -Topic 470
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfMaturitiesOfLongTermDebtTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,925 @@
+XML
+145
+R122.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Segment Reporting - Reconciliation of Income Before Provision for Income Taxes (Details) - USD ($)
+ $ in Millions
+
+1 Months Ended
+12 Months Ended
+
+Nov. 30, 2024
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting Information [Line Items]
+
+Income (loss) before provision for income taxes
+
+$ 1,393.7
+
+$ (600.9)
+
+$ 1,572.5
+
+Adjustments:
+
+Unrealized principal investment (income) loss
+
+2,254.4
+
+44.8
+
+1,898.0
+
+Net income attributable to non-controlling interests in consolidated entities
+
+70.7
+
+111.7
+
+59.7
+
+Distributable Earnings
+
+1,393.7
+
+(600.9)
+
+1,572.5
+
+Fortitude Holdings
+
+Adjustments:
+
+Principal investment loss from dilution of indirect investment in Fortitude
+$ 7.9
+
+Total Reportable Segments
+
+Adjustments:
+
+Net unrealized performance and fee related performance revenues
+
+(396.7)
+
+1,659.2
+
+(183.7)
+
+Distributable Earnings
+
+1,525.5
+
+1,430.5
+
+1,909.0
+
+Realized principal investment income
+
+150.6
+
+Net interest
+
+74.5
+
+Fee Related Earnings
+
+1,104.6
+
+859.4
+
+834.4
+
+Reconciling Items
+
+Adjustments:
+
+Equity-based compensation
+
+476.5
+
+260.1
+
+161.9
+
+Acquisition or disposition-related charges and amortization of intangibles and impairment
+
+136.6
+
+145.3
+
+187.4
+
+Net income attributable to non-controlling interests in consolidated entities
+
+(70.7)
+
+(111.7)
+
+(59.7)
+
+Tax (expense) benefit associated with certain foreign performance revenues
+
+(1.0)
+
+(1.0)
+
+3.0
+
+Other adjustments
+
+21.2
+
+11.6
+
+12.4
+
+Distributable Earnings
+
+(177.1)
+
+(2,148.1)
+
+(350.7)
+
+Reconciling Items | Fortitude Holdings
+
+Adjustments:
+
+Principal investment loss from dilution of indirect investment in Fortitude
+
+0.0
+
+(104.0)
+
+(176.9)
+
+Unrealized principal investment income (loss) | Reconciling Items
+
+Adjustments:
+
+Unrealized principal investment (income) loss
+
+(34.1)
+
+(36.1)
+
+38.3
+
+Unrealized principal investment income (loss) | Reconciling Items | Fortitude Holdings
+
+Adjustments:
+
+Principal investment loss from dilution of indirect investment in Fortitude
+
+0.0
+
+104.0
+
+176.9
+
+Performance allocations
+
+Adjustments:
+
+Unrealized principal investment (income) loss
+
+2,015.7
+
+(88.6)
+
+1,327.5
+
+Realized performance revenues, net of related compensation
+
+$ 654.2
+
+$ (1,192.3)
+
+$ 607.6
+
+X
+
+- DefinitionAcquisition And Disposition Related Charges And Amortization Of Intangibles
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AcquisitionAndDispositionRelatedChargesAndAmortizationOfIntangibles
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAdjustments.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AdjustmentsAbstract
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionReflects the amount of net realized earnings without the effects of consolidation of the consolidated funds. Represents economic net income less net performance fees and investment income plus realized net performance fees and realized investment income.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_DistributableEarnings
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionReflects the ability of the business to cover direct base compensation and operating expenses from fee revenues other than performance fees.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_FeeRelatedEarnings
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee Related Earnings, Realized Investment Income (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_FeeRelatedEarningsRealizedInvestmentIncomeLoss
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of total performance fee revenue less performance fee-related compensation expense.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_NetPerformanceFees
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOther Adjustments Expenses
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_OtherAdjustmentsExpenses
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance Fee Income, Tax Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PerformanceFeeIncomeTaxExpense
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance Revenues And Fees, Unrealized, Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PerformanceRevenuesAndFeesUnrealizedNet
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionShare-Based Payment Arrangement, Noncash Expense And Other Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ShareBasedPaymentArrangementNoncashExpenseAndOtherExpense
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of income (loss) from continuing operations, including income (loss) from equity method investments, before deduction of income tax expense (benefit), and income (loss) attributable to noncontrolling interest.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 7: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(11))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-31
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-05(b)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477314/942-235-S99-1
+
+Reference 11: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(10))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 12: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of interest income (expense) classified as nonoperating.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
++ Details
+
+ Name:
+us-gaap_InterestIncomeExpenseNonoperatingNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount after accretion (amortization) of discount (premium), and investment expense, of interest income and dividend income on nonoperating securities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(8))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_InvestmentIncomeNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of Net Income (Loss) attributable to noncontrolling interest.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-8
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(17))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482765/220-10-50-6
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 810
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-1A
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 55
+ -Paragraph 4J
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481175/810-10-55-4J
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-1A
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-1B
+
++ Details
+
+ Name:
+us-gaap_NetIncomeLossAttributableToNoncontrollingInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized and unrealized gain (loss), from the firm's direct investment activity, conducted separately from customer trading activities, and includes, but is not limited to, investments in private equity, alternative investment products, real estate, and exchanges and memberships.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(13)(h))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(13)(g))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_PrincipalInvestmentGainsLosses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_FortitudeGroupHoldingsLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_MaterialReconcilingItemsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=cg_PrincipalInvestmentIncomeLossUnrealizedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=cg_PerformanceAllocationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

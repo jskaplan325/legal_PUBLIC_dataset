@@ -1,0 +1,590 @@
+XML
+179
+R149.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Commitments and Contingencies - Contingent Obligations (Details) - USD ($)
+
+3 Months Ended
+12 Months Ended
+
+Jun. 30, 2024
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+May 03, 2022
+
+Loss Contingencies [Line Items]
+
+Cumulative revenues recognized if existing investments become worthless
+
+$ 5,500,000,000
+
+Payments related to issuances of common stock for equity-based awards (in shares)
+742,742
+
+Fair Value, Recurring | Asset Management
+
+Loss Contingencies [Line Items]
+
+Contingent consideration obligations
+
+67,000,000
+
+$ 93,000,000
+
+Fair Value, Recurring | Asset Management | Level 3
+
+Loss Contingencies [Line Items]
+
+Contingent consideration obligations
+
+67,000,000
+
+93,000,000
+
+Stone Tower
+
+Loss Contingencies [Line Items]
+
+Fair value of contingent consideration
+
+67,000,000
+
+67,000,000
+
+Griffin Capital, Asset Management Business
+
+Loss Contingencies [Line Items]
+
+Contingent consideration obligations
+
+$ 64,000,000
+
+Griffin Capital, Asset Management Business | Fair Value, Recurring | Asset Management
+
+Loss Contingencies [Line Items]
+
+Payments related to issuances of common stock for equity-based awards (in shares)
+742,742
+
+Griffin Capital, Asset Management Business | Fair Value, Recurring | Asset Management | Level 3
+
+Loss Contingencies [Line Items]
+
+Contingent consideration obligations
+
+0
+
+$ 26,000,000
+
+Loss related to contingent considerations
+
+58,000,000
+
+Apollo Capital Markets Partnership | Sumitomo Mitsui Banking Corp
+
+Loss Contingencies [Line Items]
+
+Line of credit facility, maximum borrowing capacity
+
+2,500,000,000
+
+Amount outstanding
+
+$ 1,200,000,000
+
+X
+
+- DefinitionBusiness Combination, Contingent Consideration, Fair Value Disclosure
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationContingentConsiderationFairValueDisclosure
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionContingent Obligations, Cumulative Revenues That Are Reversible
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_ContingentObligationsCumulativeRevenuesThatAreReversible
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionShares Issued During Period, Shares, Share-based Payment Arrangement
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_SharesIssuedDuringPeriodSharesShareBasedPaymentArrangement
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in the value of a contingent consideration liability, including, but not limited to, differences arising upon settlement.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-4
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of liability recognized arising from contingent consideration in a business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479613/805-30-35-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 30
+ -Section 25
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479668/805-30-25-6
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationContingentConsiderationLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe carrying value as of the balance sheet date of the current and noncurrent portions of long-term obligations drawn from a line of credit, which is a bank's commitment to make loans up to a specific amount. Examples of items that might be included in the application of this element may consist of letters of credit, standby letters of credit, and revolving credit arrangements, under which borrowings can be made up to a maximum amount as of any point in time conditional on satisfaction of specified terms before, as of and after the date of drawdowns on the line. Includes short-term obligations that would normally be classified as current liabilities but for which (a) postbalance sheet date issuance of a long term obligation to refinance the short term obligation on a long term basis, or (b) the enterprise has entered into a financing agreement that clearly permits the enterprise to refinance the short-term obligation on a long term basis and the following conditions are met (1) the agreement does not expire within 1 year and is not cancelable by the lender except for violation of an objectively determinable provision, (2) no violation exists at the BS date, and (3) the lender has entered into the financing agreement is expected to be financially capable of honoring the agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(16))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(16)(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCredit
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionMaximum borrowing capacity under the credit facility without consideration of any current restrictions on the amount that could be borrowed or the amounts currently outstanding under the facility.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(19)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityMaximumBorrowingCapacity
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 720
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483359/720-20-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 27
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482395/460-10-55-27
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-3
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
++ Details
+
+ Name:
+us-gaap_LossContingenciesLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByMeasurementFrequencyAxis=us-gaap_FairValueMeasurementsRecurringMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=apo_AssetManagementSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=apo_StoneTowerMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=apo_GriffinCapitalAssetManagementBusinessMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_ApolloCapitalMarketsPartnershipMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_SumitomoMitsuiBankingCorpMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

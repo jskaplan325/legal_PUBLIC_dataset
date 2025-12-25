@@ -1,0 +1,420 @@
+XML
+47
+R18.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Derivative Financial Instruments
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Derivative Financial Instruments
+
+5.
+
+Derivative Financial Instruments
+
+Blackstone and the consolidated Blackstone Funds enter into derivative contracts in the normal course of business to achieve certain risk management objectives and for general investment and business purposes. Blackstone may enter into derivative contracts in order to hedge its interest rate risk exposure against the effects of interest rate changes. Additionally, Blackstone may also enter into derivative contracts in order to hedge its foreign currency risk exposure against the effects of a portion of its non-U.S. dollar denominated currency net investments. As a result of the use of derivative contracts, Blackstone and the consolidated Blackstone Funds are exposed to the risk that counterparties will fail to fulfill their contractual obligations. To mitigate such counterparty risk, Blackstone and the consolidated Blackstone Funds enter into contracts with certain major financial institutions, all of which have investment grade ratings. Counterparty credit risk is evaluated in determining the fair value of derivative instruments.
+
+Freestanding Derivatives
+
+Freestanding derivatives are instruments that Blackstone and certain of the consolidated Blackstone Funds have entered into as part of their overall risk management and investment strategies. These derivative contracts are not designated as hedging instruments for accounting purposes. Such contracts may include interest rate swaps, foreign exchange contracts, equity swaps, options, futures and other derivative contracts.
+
+ The table below summarizes the aggregate notional amount and fair value of the derivative financial instruments. The notional amount represents the absolute value amount of all outstanding derivative contracts.
+
+December 31, 2024
+
+December 31, 2023
+
+Assets
+
+Liabilities
+
+Assets
+
+Liabilities
+
+Notional
+
+Fair
+Value
+
+Notional
+
+Fair
+
+Value
+
+Notional
+
+Fair
+Value
+
+Notional
+
+Fair
+Value
+
+ Freestanding Derivatives
+
+ Blackstone
+
+ Interest Rate Contracts
+
+$
+
+624,740
+
+$
+
+166,126
+
+$
+
+600,000
+
+$
+
+107,425
+
+$
+
+634,840
+
+$
+
+145,798
+
+$
+
+607,000
+
+$
+
+86,589
+
+ Foreign Currency Contracts
+
+239,365
+
+4,030
+
+479,383
+
+14,198
+
+387,102
+
+11,442
+
+334,228
+
+3,538
+
+ Credit Default Swaps
+
+640
+
+10
+
+3,108
+
+479
+
+3,748
+
+508
+
+ Total Return Swaps
+
+58,263
+
+10,153
+
+63,158
+
+13,171
+
+ Equity Options
+
+1,139,400
+
+938,216
+
+1,110,490
+
+563,986
+
+922,368
+
+180,309
+
+2,219,423
+
+1,059,849
+
+1,088,208
+
+170,890
+
+2,055,466
+
+654,621
+
+ Investments of Consolidated Blackstone Funds
+
+ Interest Rate Contracts
+
+785,790
+
+13,243
+
+915,215
+
+15,918
+
+855,683
+
+19,189
+
+785,790
+
+13,243
+
+915,215
+
+15,918
+
+855,683
+
+19,189
+
+$
+
+1,708,158
+
+$
+
+193,552
+
+$
+
+3,134,638
+
+$
+
+1,075,767
+
+$
+
+1,943,891
+
+$
+
+190,079
+
+$
+
+2,055,466
+
+$
+
+654,621
+
+ The table below summarizes the impact to the Consolidated Statements of Operations from derivative financial instruments:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+ Freestanding Derivatives
+
+ Realized Gains (Losses)
+
+ Interest Rate Contracts
+
+$
+
+1,051
+
+$
+
+24,291
+
+$
+
+15,319
+
+ Foreign Currency Contracts
+
+9,193
+
+443
+
+(8,520
+
+)
+
+ Credit Default Swaps
+
+75
+
+(413
+
+)
+
+(231
+
+)
+
+ Total Return Swaps
+
+21,080
+
+15,775
+
+1,654
+
+31,399
+
+40,096
+
+8,222
+
+ Net Change in Unrealized Gains (Losses)
+
+ Interest Rate Contracts
+
+10,291
+
+(87,177
+
+)
+
+167,706
+
+ Foreign Currency Contracts
+
+(17,954
+
+)
+
+3,288
+
+9,666
+
+ Credit Default Swaps
+
+(55
+
+)
+
+363
+
+73
+
+ Total Return Swaps
+
+(2,837
+
+)
+
+6,381
+
+5,290
+
+ Equity Options
+
+(374,230
+
+)
+
+(515,405
+
+)
+
+(48,581
+
+)
+
+(384,785
+
+)
+
+(592,550
+
+)
+
+134,154
+
+$
+
+(353,386
+
+)
+
+$
+
+(552,454
+
+)
+
+$
+
+142,376
+
+ As of December 31, 2024, 2023 and 2022, Blackstone had not designated any derivatives as fair value, cash flow or net investment hedges.
+
+X
+
+- DefinitionThe entire disclosure for derivative instruments and hedging activities including, but not limited to, risk management strategies, non-hedging derivative instruments, assets, liabilities, revenue and expenses, and methodologies and assumptions used in determining the amounts.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480237/815-40-50-5
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5C
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-5C
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/815/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

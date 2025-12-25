@@ -1,0 +1,698 @@
+XML
+173
+R151.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+POLICY LIABILITIES - Additional Liabilities (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Additional Liability, Long-Duration Insurance [Roll Forward]
+
+Balance as of Beginning of Period
+$ 7,251,266
+
+$ 5,104,810
+
+Effect of Changes in Cash Flow Assumptions
+
+(16,361)
+
+$ 13,773
+
+Effect of Changes in Experience
+
+(59,717)
+
+(43,775)
+
+Adjusted Balance as of Beginning of Period
+
+7,175,188
+
+5,074,808
+
+Issuances
+23,401
+
+1,929,571
+
+Assessments
+694,061
+
+495,559
+
+Benefits Paid
+(504,520)
+
+(399,201)
+
+Interest
+242,080
+
+150,529
+
+Balance as of End of Period
+7,630,210
+
+7,251,266
+
+5,104,810
+
+Less: Impact of Unrealized Investment Gains and Losses
+138,295
+
+121,481
+
+Less: Reinsurance Recoverable, End of Period
+1,586,281
+
+1,434,130
+
+Balance, End of Period, Net of Reinsurance Recoverable and Impact of Unrealized Investment Gains and Losses
+5,905,634
+
+5,695,655
+
+Gross Assessments
+$ 710,732
+
+$ 471,957
+
+$ 586,269
+
+Weighted-Average Interest, Current Discount Rate
+3.29%
+
+3.09%
+
+Weighted-Average Liability Duration (Years)
+26 years 6 months 3 days
+
+27 years 7 months 20 days
+
+X
+
+- DefinitionAmount, after effect of reinsurance, of present value of total expected payment to policyholder in excess of present value of total expected assessment. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceAfterReinsurance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before effect of reinsurance and after current period update of cash flow assumption and discount rate change, of present value of total expected payment to policyholder in excess of present value of total expected assessment. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceBeforeReinsuranceAfterDiscountRateChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cash outflow to policyholder related to benefit payment for present value of total expected payment to policyholder in excess of present value of total expected assessment. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceBenefitPayment
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in present value of total expected payment to policyholder in excess of present value of total expected assessment from cash flow assumption change for future cash flows. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceCumulativeIncreaseDecreaseFromCashFlowChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in present value of total expected payment to policyholder in excess of present value of total expected assessment from effect of variance from cash flow assumption change for actual experience. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceCumulativeIncreaseDecreaseOfActualVarianceFromExpectedExperience
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionCurrent weighted-average discount rate used to measure present value of total expected payment to policyholder in excess of present value of total expected assessment. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(6)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceCurrentWeightedAverageDiscountRate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of gross premium income recognized for present value of total expected payment to policyholder in excess of present value of total expected assessment. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceGrossPremiumIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in present value of total expected payment to policyholder in excess of present value of total expected assessment from cash flow assumption change for future cash flows from change in discount rate. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceIncreaseDecreaseFromDiscountRateChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of interest income (expense) for present value of total expected payment to policyholder in excess of present value of total expected assessment. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceInterestIncomeExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in present value of total expected payment to policyholder in excess of present value of total expected assessment from contract issuance. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceIssuance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gross premium collected from policyholder to fund expected benefit payment for present value of total expected payment to policyholder in excess of present value of total expected assessment. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceNetPremiumCollected
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before effect of reinsurance and after current period update of cash flow assumption, of present value of total expected payment to policyholder in excess of present value of total expected assessment, discounted at original rate. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceOriginalDiscountRateBeforeReinsuranceAfterCashFlowChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after allowance for credit loss, recoverable under reinsurance for present value of total expected payment to policyholder in excess of present value of total expected assessment. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceReinsuranceRecoverableAfterAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted-average duration of present value of total expected payment to policyholder in excess of present value of total expected assessment, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days. Excludes benefit classified as market risk benefit or under provisions of Topic 815 on derivative and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(5)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_AdditionalLiabilityLongDurationInsuranceWeightedAverageDuration
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant

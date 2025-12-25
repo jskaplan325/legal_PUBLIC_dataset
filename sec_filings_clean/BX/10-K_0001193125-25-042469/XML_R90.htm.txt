@@ -1,0 +1,237 @@
+XML
+119
+R90.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Leases Components of leases expenses (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Operating Lease Cost
+
+Straight-Line Lease Cost
+[1]
+$ 156,680
+
+$ 160,534
+
+$ 139,740
+
+Variable Lease Cost
+[2]
+20,222
+
+15,268
+
+12,072
+
+Sublease Income
+
+(65)
+
+(63)
+
+(888)
+
+Operating Lease Cost
+
+$ 176,837
+
+$ 175,739
+
+$ 150,924
+
+[1]
+Straight-line lease cost includes short-term leases, which are immaterial.
+
+[2]
+Variable lease cost approximates variable lease cash payments.
+
+X
+
+- DefinitionAmount of lease cost recognized by lessee for lease contract.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 53
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479589/842-20-55-53
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_LeaseCost
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LeaseCostAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of single lease cost, calculated by allocation of remaining cost of lease over remaining lease term. Includes, but is not limited to, single lease cost, after impairment of right-of-use asset, calculated by amortization of remaining right-of-use asset and accretion of lease liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 53
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479589/842-20-55-53
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_OperatingLeaseCost
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of sublease income excluding finance and operating lease expense.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 53
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479589/842-20-55-53
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_SubleaseIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of variable lease cost, excluded from lease liability, recognized when obligation for payment is incurred for finance and operating leases.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 53
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479589/842-20-55-53
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_VariableLeaseCost
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration

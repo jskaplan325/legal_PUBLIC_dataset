@@ -1,0 +1,475 @@
+XML
+101
+R79.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+REVENUES - ASSET MANAGEMENT - Narrative (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Asset Management and Strategic Holdings
+
+Concentration Risk [Line Items]
+
+Fees and other
+$ 3,653,962
+
+$ 2,963,869
+
+$ 2,821,627
+
+Capital allocation-based income (loss)
+3,558,284
+
+2,843,437
+
+(2,500,509)
+
+Total Consolidated Revenues | Private Equity Fund Concentration Risk | One Flagship Private Equity Fund
+
+Concentration Risk [Line Items]
+
+Fees and other
+900,000
+
+1,000,000
+
+Total Consolidated Revenues | Private Equity Fund Concentration Risk | Three Flagship Private Equity Funds
+
+Concentration Risk [Line Items]
+
+Capital allocation-based income (loss)
+
+(2,600,000)
+
+Total Capital Allocation-Based Income (Loss) | Private Equity Fund Concentration Risk | One Flagship Private Equity Fund
+
+Concentration Risk [Line Items]
+
+Fees and other
+
+200,000
+
+Americas | Total Consolidated Revenues | Geographic Concentration Risk | Asset Management and Strategic Holdings
+
+Concentration Risk [Line Items]
+
+Fees and other
+2,200,000
+
+1,800,000
+
+1,700,000
+
+Capital allocation-based income (loss)
+2,200,000
+
+1,500,000
+
+(1,600,000)
+
+EMEA | Total Consolidated Revenues | Geographic Concentration Risk | Asset Management and Strategic Holdings
+
+Concentration Risk [Line Items]
+
+Fees and other
+800,000
+
+600,000
+
+500,000
+
+Capital allocation-based income (loss)
+400,000
+
+400,000
+
+100,000
+
+Asia Pacific | Total Consolidated Revenues | Geographic Concentration Risk | Asset Management and Strategic Holdings
+
+Concentration Risk [Line Items]
+
+Fees and other
+700,000
+
+600,000
+
+600,000
+
+Capital allocation-based income (loss)
+$ 900,000
+
+$ 900,000
+
+$ (1,000,000)
+
+X
+
+- DefinitionCapital Allocation-Based Earnings (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_CapitalAllocationBasedEarningsLoss
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478785/954-310-50-2
+
++ Details
+
+ Name:
+us-gaap_ConcentrationRiskLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 4: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 924
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 11.L)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479941/924-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-5
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-4
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ConcentrationRiskByBenchmarkAxis=us-gaap_SalesRevenueNetMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ConcentrationRiskByTypeAxis=kkr_PrivateEquityFundConcentrationRiskMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=kkr_OneFlagshipPrivateEquityFundMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=kkr_ThreeFlagshipPrivateEquityFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ConcentrationRiskByBenchmarkAxis=us-gaap_RevenueFromContractWithCustomerMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=srt_AmericasMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ConcentrationRiskByTypeAxis=us-gaap_GeographicConcentrationRiskMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=us-gaap_EMEAMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=srt_AsiaPacificMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

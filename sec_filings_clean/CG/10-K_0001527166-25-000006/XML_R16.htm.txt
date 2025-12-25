@@ -1,0 +1,193 @@
+XML
+39
+R16.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Accrued Compensation and Benefits
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Retirement Benefits [Abstract]
+
+Accrued Compensation and Benefits
+7. Accrued Compensation and BenefitsAccrued compensation and benefits consist of the following:
+
+ As of December 31,
+
+ 2024
+
+ 2023
+
+ (Dollars in millions)
+
+Accrued performance allocations and incentive fee related compensation
+
+ $4,819.7
+
+ $4,255.8
+
+Accrued bonuses
+
+ 335.5
+
+ 498.2
+
+Accrued pension liability
+
+ 7.0
+
+ 13.1
+
+Other(1)(2)
+
+ 284.4
+
+ 155.1
+
+Total
+
+ $5,446.6
+
+ $4,922.2
+
+(1)Includes $7.1 million and $44.5 million of realized performance allocations and incentive fee related compensation not yet paid to participants as of
+December 31, 2024 and 2023, respectively.
+(2)Includes $176.7 million of realized performance allocations related compensation associated with the Company s updated compensation program (see Note
+2, Summary of Significant Accounting Policies) not yet paid as of December 31, 2024.
+The following table presents realized and unrealized performance allocations and incentive fee related compensation:
+
+ Year Ended December 31,
+
+ 2024
+
+ 2023
+
+ 2022
+
+ (Dollars in millions)
+
+Realized
+
+ $753.1
+
+ $473.8
+
+ $1,026.4
+
+Unrealized(1)
+
+ 608.4
+
+ 629.9
+
+ (306.5)
+
+Total
+
+ $1,361.5
+
+ $1,103.7
+
+ $719.9
+
+(1) Unrealized performance allocations for the year ended December 31, 2023 included a one-time $1.1 billion charge related to the updated employee
+compensation program effective December 31, 2023, which increased the proportion of performance allocations revenue that will be used to compensate
+employees.
+Certain employees of AlpInvest are covered by defined benefit pension plans sponsored by AlpInvest. No other employees of the Company are covered by defined benefit pension plans. The following table presents the plans benefit
+obligation, the fair value of plan assets, and the plans funded status as of December 31, 2024 and 2023:
+
+ As of December 31,
+
+ 2024
+
+ 2023
+
+ (Dollars in millions)
+
+Benefit obligation
+
+ $(65.1)
+
+ $(71.9)
+
+Fair value of plan assets
+
+ 58.1
+
+ 58.8
+
+Accrued pension liability(1)
+
+ $(7.0)
+
+ $(13.1)
+
+(1)Represents the funded status of plans and is included in accrued compensation and benefits in the accompanying consolidated financial statements.
+For the years ended December 31, 2024, 2023 and 2022, the net periodic benefit cost recognized was $1.5 million,
+$1.7 million and $4.1 million, respectively, which is included in cash-based compensation and benefits expense (for the service
+cost component) and other non-operating expenses (for non-service cost components) in the accompanying consolidated
+financial statements.
+
+X
+
+- DefinitionThe entire disclosure of an entity's employee compensation and benefit plans, excluding share-based compensation and including, but not limited to, postemployment and postretirement benefit plans, defined benefit pension plans, defined contribution plans, non-qualified and supplemental benefit plans, deferred compensation, life insurance, severance, health care, unemployment and other benefit plans.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 710
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/710/tableOfContent
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 712
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/712/tableOfContent
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 715
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/715/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_CompensationAndEmployeeBenefitPlansOtherThanShareBasedCompensationTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CompensationAndRetirementDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

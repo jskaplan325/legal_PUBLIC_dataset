@@ -1,0 +1,503 @@
+XML
+103
+R80.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Intangible Assets and Goodwill - Additional Information (Details) - USD ($)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Goodwill [Line Items]
+
+Goodwill
+$ 103,600,000
+
+$ 104,000,000.0
+
+Impairment of intangible assets
+0
+
+0
+
+$ 4,000,000
+
+Intangible asset amortization expense
+$ 130,800,000
+
+$ 135,000,000.0
+
+$ 103,900,000
+
+Impairment, intangible asset, finite-lived, statement of income or comprehensive income
+General, administrative and other expenses
+
+Global Private Equity
+
+Goodwill [Line Items]
+
+Goodwill
+$ 91,100,000
+
+Global Credit
+
+Goodwill [Line Items]
+
+Goodwill
+5,500,000
+
+Global Investment Solutions
+
+Goodwill [Line Items]
+
+Goodwill
+$ 7,000,000
+
+X
+
+- DefinitionThe aggregate expense charged against earnings to allocate the cost of intangible assets (nonphysical assets not used in production) in a systematic and rational manner to the periods expected to benefit from such assets. As a noncash expense, this element is added back to net income when calculating cash provided by or used in operations using the indirect method.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482640/350-30-55-40
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482686/350-30-45-2
+
++ Details
+
+ Name:
+us-gaap_AmortizationOfIntangibleAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after accumulated impairment loss, of asset representing future economic benefit arising from other asset acquired in business combination or from joint venture formation or both, that is not individually identified and separately recognized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 852
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481372/852-10-55-10
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482598/350-20-45-1
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(10)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_Goodwill
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1A
+
++ Details
+
+ Name:
+us-gaap_GoodwillLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicates line item in statement of income or comprehensive income that includes impairment of finite-lived intangible asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 985
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481283/985-20-50-2
+
++ Details
+
+ Name:
+us-gaap_ImpairmentOfIntangibleAssetFiniteLivedStatementOfIncomeOrComprehensiveIncomeExtensibleEnumeration
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+enum2:enumerationSetItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe amount of impairment loss recognized in the period resulting from the write-down of the carrying amount of a finite-lived intangible asset to fair value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482686/350-30-45-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-3
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_ImpairmentOfIntangibleAssetsFinitelived
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalPrivateEquitySegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalCreditSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalInvestmentSolutionsSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

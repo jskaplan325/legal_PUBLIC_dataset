@@ -1,0 +1,396 @@
+XML
+114
+R42.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SEGMENT REPORTING (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Segment Reporting [Abstract]
+
+Schedule of Financial Results for Company's Operating Segments and OMG
+The following tables present the financial results for the Company s operating segments, as well as the OMG:
+
+ Year ended December 31, 2024
+ Credit Group Real Assets Group Private Equity Group Secondaries Group
+ Other
+ Total Segments OMG Total
+Management fees $ 2,177,816 $ 401,968 $ 137,130 $ 197,287 $ 43,229 $ 2,957,430 $ $ 2,957,430
+Fee related performance revenues 202,703 28,834 231,537 231,537
+Other fees 41,819 27,263 1,695 222 523 71,522 20,357 91,879
+Compensation and benefits (692,309) (160,357) (56,830) (66,290) (21,482) (997,268) (421,268) (1,418,536)
+General, administrative and other expenses (161,872) (56,768) (21,449) (33,881) (6,584) (280,554) (220,019) (500,573)
+Fee related earnings 1,568,157 212,106 60,546 126,172 15,686 1,982,667 (620,930) 1,361,737
+Performance income realized 326,202 60,317 43,299 361 430,179 430,179
+Performance related compensation realized (207,794) (37,283) (36,334) 110 (281,301) (281,301)
+Realized net performance income 118,408 23,034 6,965 471 148,878 148,878
+Investment income (loss) realized 21,159 5,184 1,926 2,565 9,467 40,301 (650) 39,651
+Interest income 11,671 7,649 1,970 972 35,810 58,072 1,723 59,795
+Interest expense (34,578) (24,131) (22,632) (10,240) (50,659) (142,240) (701) (142,941)
+
+Realized net investment income (loss) (1,748) (11,298) (18,736) (6,703) (5,382) (43,867) 372 (43,495)
+Realized income $ 1,684,817 $ 223,842 $ 48,775 $ 119,940 $ 10,304 $ 2,087,678 $ (620,558) $ 1,467,120
+
+ Year ended December 31, 2023
+ Credit Group Real Assets Group Private Equity Group Secondaries Group
+ Other
+ Total Segments OMG Total
+Management fees $ 1,853,326 $ 389,437 $ 126,721 $ 174,942 $ 27,087 $ 2,571,513 $ $ 2,571,513
+Fee related performance revenues 167,333 334 12,782 180,449 180,449
+Other fees 36,640 29,695 1,693 22 374 68,424 23,685 92,109
+Compensation and benefits
+ (624,741) (153,870) (58,408) (62,160) (15,812) (914,991) (361,124) (1,276,115)
+General, administrative and other expenses (115,546) (46,789) (16,949) (21,199) (3,119) (203,602) (200,613) (404,215)
+Fee related earnings 1,317,012 218,807 53,057 104,387 8,530 1,701,793 (538,052) 1,163,741
+Performance income realized 323,733 20,990 65,716 5,460 415,899 415,899
+Performance related compensation realized (211,976) (12,768) (52,984) (4,678) (282,406) (282,406)
+Realized net performance income 111,757 8,222 12,732 782 133,493 133,493
+Investment income (loss) realized 36,490 3,392 (712) 4,523 2,962 46,655 (470) 46,185
+Interest income 9,788 3,165 38 344 13,831 27,166 1,218 28,384
+Interest expense (29,732) (16,391) (18,990) (8,980) (32,026) (106,119) (156) (106,275)
+Realized net investment income (loss) 16,546 (9,834) (19,664) (4,113) (15,233) (32,298) 592 (31,706)
+Realized income $ 1,445,315 $ 217,195 $ 46,125 $ 101,056 $ (6,703) $ 1,802,988 $ (537,460) $ 1,265,528
+
+ Year ended December 31, 2022
+ Credit Group Real Assets Group Private Equity Group Secondaries Group
+ Other
+ Total Segments OMG Total
+Management fees $ 1,490,674 $ 347,808 $ 125,681 $ 176,694 $ 11,671 $ 2,152,528 $ $ 2,152,528
+Fee related performance revenues 71,497 167,693 235 239,425 239,425
+Other fees 32,637 35,879 1,243 274 70,033 24,529 94,562
+Compensation and benefits
+ (483,167) (240,015) (66,075) (53,743) (12,108) (855,108) (317,396) (1,172,504)
+General, administrative and other expenses (93,715) (39,739) (16,416) (12,685) (2,089) (164,644) (155,017) (319,661)
+Fee related earnings 1,017,926 271,626 44,433 110,501 (2,252) 1,442,234 (447,884) 994,350
+Performance income realized 237,839 133,130 42,896 4,156 418,021 418,021
+Performance related compensation realized (153,538) (83,105) (34,383) (3,515) (274,541) (274,541)
+Realized net performance income 84,301 50,025 8,513 641 143,480 143,480
+Investment income (loss) realized 27,831 9,898 4,001 3,640 1,850 47,220 (1,678) 45,542
+Interest income 8,290 2,262 222 43 8,141 18,958 53 19,011
+Interest expense (18,401) (11,346) (13,484) (5,660) (21,781) (70,672) (684) (71,356)
+Realized net investment income (loss) 17,720 814 (9,261) (1,977) (11,790) (4,494) (2,309) (6,803)
+Realized income $ 1,119,947 $ 322,465 $ 43,685 $ 109,165 $ (14,042) $ 1,581,220 $ (450,193) $ 1,131,027
+
+Schedule of Segment Revenue, Expenses and Realized Net Investment Income (Expense)
+The following table presents the components of the Company s operating segments revenue, expenses and realized net investment income (loss):
+
+ Year ended December 31,
+ 2024 2023 2022
+Segment revenues
+Management fees $ 2,957,430 $ 2,571,513 $ 2,152,528
+Fee related performance revenues 231,537 180,449 239,425
+Other fees 71,522 68,424 70,033
+Performance income realized 430,179 415,899 418,021
+Total segment revenues $ 3,690,668 $ 3,236,285 $ 2,880,007
+Segment expenses
+Compensation and benefits $ 997,268 $ 914,991 $ 855,108
+General, administrative and other expenses 280,554 203,602 164,644
+Performance related compensation realized 281,301 282,406 274,541
+Total segment expenses $ 1,559,123 $ 1,400,999 $ 1,294,293
+Segment realized net investment income (loss)
+Investment income realized $ 40,301 $ 46,655 $ 47,220
+Interest income 58,072 27,166 18,958
+Interest expense (142,240) (106,119) (70,672)
+
+Total segment realized net investment loss $ (43,867) $ (32,298) $ (4,494)
+
+Schedule of Segment Revenues Components
+The following table reconciles the Company s consolidated revenues to segment revenue:
+
+ Year ended December 31,
+ 2024 2023 2022
+Total consolidated revenue $ 3,884,781 $ 3,631,884 $ 3,055,443
+Performance income unrealized (109,533) (305,370) (107,153)
+Management fees of Consolidated Funds eliminated in consolidation 46,597 48,201 46,324
+Performance income of Consolidated Funds eliminated in consolidation 28,135 13,672 11,529
+Administrative, transaction and other fees of Consolidated Funds eliminated in consolidation 525 7,166 17,013
+Administrative fees(1)
+ (70,363) (63,144) (69,414)
+OMG revenue (20,357) (23,685) (24,354)
+
+Principal investment income, net of eliminations (45,424) (36,516) (12,278)
+Net revenue of non-controlling interests in consolidated subsidiaries (23,693) (35,923) (37,103)
+Total consolidation adjustments and reconciling items (194,113) (395,599) (175,436)
+Total segment revenue $ 3,690,668 $ 3,236,285 $ 2,880,007
+
+(1)Represents administrative fees from expense reimbursements that are presented within administrative, transaction and other fees within the Company s Consolidated Statements of Operations and are netted against the respective expenses for segment reporting.
+
+Schedule of Segment Expenses Components
+The following table reconciles the Company s consolidated expenses to segment expenses:
+
+ Year ended December 31,
+ 2024 2023 2022
+Total consolidated expenses $ 2,938,691 $ 2,797,858 $ 2,749,085
+Performance related compensation-unrealized (36,823) (206,923) (88,502)
+Expenses of Consolidated Funds added in consolidation (69,320) (93,167) (86,988)
+Expenses of Consolidated Funds eliminated in consolidation 48,441 50,108 50,833
+Administrative fees(1)
+ (70,363) (62,773) (68,255)
+OMG expenses (641,287) (561,737) (472,413)
+Acquisition and merger-related expense (57,360) (12,000) (15,197)
+Equity compensation expense (352,851) (255,790) (200,106)
+Acquisition-related compensation expense(2)
+ (38,150) (7,334) (206,252)
+Placement fee adjustment (5,715) 5,819 (2,088)
+Depreciation and amortization expense (157,341) (233,185) (335,083)
+Expense of non-controlling interests in consolidated subsidiaries
+ 1,201 (19,877) (30,741)
+Total consolidation adjustments and reconciling items (1,379,568) (1,396,859) (1,454,792)
+Total segment expenses $ 1,559,123 $ 1,400,999 $ 1,294,293
+
+(1)Represents administrative fees from expense reimbursements that are presented within administrative, transaction and other fees within the Company s Consolidated Statements of Operations and are netted against the respective expenses for segment reporting.
+(2)Represents bonus payments and contingent liabilities ( earnouts ) resulting from the acquisitions that are recorded as compensation expense and are presented within compensation and benefits within the Company s Consolidated Statements of Operations. See Note 8. Commitments and Contingencies for a further description of the contingent liabilities related to the various acquisitions.
+
+Schedule of Segment Other Income Components
+The following table reconciles the Company s consolidated other income to segment realized net investment loss:
+
+ Year ended December 31,
+ 2024 2023 2022
+Total consolidated other income $ 329,262 $ 499,037 $ 204,448
+Investment income unrealized (5,613) (178,481) (12,834)
+
+Other income, net from Consolidated Funds added in consolidation (379,090) (492,848) (250,144)
+Other expense, net from Consolidated Funds eliminated in consolidation (12,835) (16,485) (16,484)
+OMG other (income) expense (4,413) 1,074 14,419
+
+Principal investment income 38,367 155,632 48,223
+Other (income) expense, net
+ (12,172) 976 1,873
+Other (income) loss of non-controlling interests in consolidated subsidiaries 2,627 (1,203) 6,005
+Total consolidation adjustments and reconciling items (373,129) (531,335) (208,942)
+Total segment realized net investment loss $ (43,867) $ (32,298) $ (4,494)
+
+Schedule of Reconciliation of Segment Results to the Company's Income before Taxes and Total Assets
+The following table presents the reconciliation of income before taxes as reported in the Consolidated Statements of Operations to segment results of RI and FRE:
+
+ Year ended December 31,
+ 2024 2023 2022
+Income before taxes $ 1,275,352 $ 1,333,063 $ 510,806
+Adjustments:
+Depreciation and amortization expense 157,341 233,185 335,083
+Equity compensation expense 352,851 255,419 198,948
+Acquisition-related compensation expense(1)
+ 38,150 7,334 206,252
+Acquisition and merger-related expense 57,360 12,000 15,197
+Placement fee adjustment 5,715 (5,819) 2,088
+OMG expense, net 616,517 539,126 462,478
+Other (income) expense, net
+ (12,172) 976 1,874
+Income before taxes of non-controlling interests in consolidated subsidiaries (22,267) (17,249) (357)
+Income before taxes of non-controlling interests in Consolidated Funds, net of eliminations (302,846) (278,119) (119,664)
+Total performance income unrealized (109,533) (305,370) (107,153)
+Total performance related compensation unrealized 36,823 206,923 88,502
+Total net investment income unrealized (5,613) (178,481) (12,834)
+Realized income 2,087,678 1,802,988 1,581,220
+Total performance income realized (430,179) (415,899) (418,021)
+Total performance related compensation realized 281,301 282,406 274,541
+Total net investment loss realized 43,867 32,298 4,494
+Fee related earnings $ 1,982,667 $ 1,701,793 $ 1,442,234
+
+(1)Represents bonus payments and earnouts resulting from the acquisitions that are recorded as compensation expense and are presented within compensation and benefits within the Company s Consolidated Statements of Operations. See Note 8. Commitments and Contingencies for a further description of the contingent liabilities related to the various acquisitions.
+
+X
+
+- DefinitionTabular disclosure of segment expenses which consists of compensation and benefits, and general, administrative and other expenses, as well as realized and unrealized performance fee expenses.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ScheduleOfSegmentExpensesTableTextBlock
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of segment other income which consists of realized and unrealized investment income and expenses, interest and other income and interest expenses.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ScheduleOfSegmentOtherIncomeTableTextBlock
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the components of the entity's operating segments revenue, expenses and other income (loss).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ScheduleOfSegmentReportingInformationComponentsOfRevenuesExpensesAndOtherIncomeTableTextBlock
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of segment revenues which consists of management fees, administrative fees and other income, as well as realized and unrealized performance fees.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ScheduleOfSegmentRevenuesTableTextBlock
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the reconciliation of profit (loss) from reportable segments to the consolidated income (loss) before income tax expense (benefit) and discontinued operations. Includes, but is not limited to, reconciliation after income tax if income tax is allocated to the reportable segment.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-31
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
++ Details
+
+ Name:
+us-gaap_ReconciliationOfOperatingProfitLossFromSegmentsToConsolidatedTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the profit or loss and total assets for each reportable segment. An entity discloses certain information on each reportable segment if the amounts (a) are included in the measure of segment profit or loss reviewed by the chief operating decision maker or (b) are otherwise regularly provided to the chief operating decision maker, even if not included in that measure of segment profit or loss.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 25
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-25
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfSegmentReportingInformationBySegmentTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

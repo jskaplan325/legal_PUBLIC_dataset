@@ -1,0 +1,457 @@
+XML
+138
+R109.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Related Party Transactions - Additional Information (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Related Party Transaction [Line Items]
+
+Investments
+$ 29,800,566
+
+$ 26,146,622
+
+Cash saving in tax receivable agreements, percentage
+85.00%
+
+Expected future payments under the tax receivable agreements
+$ 1,800,000
+
+Expected future payments under the tax receivable agreements in years
+15 years
+
+After-tax net present value estimated payments
+$ 529,900
+
+After-tax net present value discount rate assumption
+15.00%
+
+After tax net estimated payments made
+$ 46,300
+
+Founder, senior managing directors, employees and certain other related parties
+
+Related Party Transaction [Line Items]
+
+Net Income Attributable to Non-Controlling Interests
+176,000
+
+87,800
+
+$ 10,900
+
+Founder, senior managing directors, employees and certain other related parties | Consolidated Blackstone Funds
+
+Related Party Transaction [Line Items]
+
+Investments
+$ 2,000,000
+
+$ 1,700,000
+
+X
+
+- DefinitionAfter tax net estimated payments made upon tax receivable agreements.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_AfterTaxNetEstimatedPaymentsMadeUpontaxReceivableAgreements
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAfter Tax Net Present Value Discount Rate Assumption For The Tax Receivable Agreements
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_AfterTaxNetPresentValueDiscountRateAssumptionForTaxReceivableAgreements
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAfter Tax Net Present Value Estimated Payments For The Tax Receivable Agreements
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_AfterTaxNetPresentValueEstimatedPaymentsForTaxReceivableAgreements
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionCash Saving in tax receivable agreements
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_CashSavingInTaxReceivableAgreements
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionExpected future payments under the tax receivable agreements
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ExpectedFuturePaymentsUnderTaxReceivableAgreements
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionExpected Future Payments under Tax Receivable Agreements in Periods
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ExpectedFuturePaymentsUnderTaxReceivableAgreementsInPeriods
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSum of the carrying amounts as of the balance sheet date of all investments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-14
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(1)(h))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(1)(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_Investments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of Net Income (Loss) attributable to noncontrolling interest.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-8
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(17))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482765/220-10-50-6
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 810
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-1A
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 55
+ -Paragraph 4J
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481175/810-10-55-4J
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-1A
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-1B
+
++ Details
+
+ Name:
+us-gaap_NetIncomeLossAttributableToNoncontrollingInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=bx_RelatedPartiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OptionIndexedToIssuersEquityTypeAxis=bx_ConsolidatedBlackstoneFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

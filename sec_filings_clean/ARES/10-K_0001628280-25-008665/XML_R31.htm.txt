@@ -1,0 +1,296 @@
+XML
+103
+R31.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+GOODWILL AND INTANGIBLE ASSETS (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Goodwill and Intangible Assets Disclosure [Abstract]
+
+Schedule of Carrying Value for the Company's Intangible Assets
+The following table summarizes the carrying value, net of accumulated amortization, of the Company s intangible assets:
+
+ Weighted Average Amortization Period (in years) as of December 31, 2024 As of December 31,
+
+ 2024 2023
+Management contracts 4.0 $ 590,675 $ 604,242
+Client relationships 7.7 210,720 200,920
+
+Other 0.0 500 500
+Finite-lived intangible assets 801,895 805,662
+Foreign currency translation (789) 1,126
+Total finite-lived intangible assets 801,106 806,788
+Less: accumulated amortization (393,078) (316,093)
+Finite-lived intangible assets, net 408,028 490,695
+
+Indefinite-lived management contracts 567,800 567,800
+Intangible assets, net $ 975,828 $ 1,058,495
+
+Schedule of Finite-Lived Intangible Assets, Future Amortization Expense
+As of December 31, 2024, future annual amortization of finite-lived intangible assets for the years 2025 through 2029 and thereafter is estimated to be:
+
+Year Amortization
+2025 $ 107,317
+2026 81,538
+2027 70,153
+2028 46,236
+2029 39,859
+Thereafter 62,925
+Total $ 408,028
+
+Schedule of Goodwill Rollforward
+The following table summarizes the carrying value of the Company s goodwill:
+
+ Credit Group Real Assets Group Private Equity Group Secondaries Group
+ Other
+ Total
+Balance as of December 31, 2022
+ $ 32,196 $ 277,183 $ 48,070 $ 417,620 $ 224,587 $ 999,656
+Acquisitions 22 124,392 124,414
+Reallocation 224,587 (224,587)
+Foreign currency translation (104) 10 (94)
+Balance as of December 31, 2023 256,679 277,205 172,462 417,630 1,123,976
+Acquisitions 35,091 4,605 39,696
+Reallocation 55,658 (55,658)
+Foreign currency translation (305) (727) (1) (3) (1,036)
+Balance as of December 31, 2024 $ 312,032 $ 311,569 $ 121,408 $ 417,627 $ $ 1,162,636
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of goodwill by reportable segment and in total which includes a rollforward schedule.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 9: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 10: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 11: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1A
+
+Reference 12: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfGoodwillTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of goodwill and intangible assets, which may be broken down by segment or major class.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfIntangibleAssetsAndGoodwillTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the amount of amortization expense expected to be recorded in succeeding fiscal years for finite-lived intangible assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482640/350-30-55-40
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleofFiniteLivedIntangibleAssetsFutureAmortizationExpenseTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

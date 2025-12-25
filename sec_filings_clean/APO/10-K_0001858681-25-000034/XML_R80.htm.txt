@@ -1,0 +1,435 @@
+XML
+110
+R80.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Investment Funds (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Net Investment Income [Line Items]
+
+Total investment funds, including related parties and consolidated VIEs
+$ 19,620
+
+$ 17,561
+
+Percentage of Total
+100.00%
+
+100.00%
+
+Nonrelated Party | VIE, Primary Beneficiary
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 17,660
+
+$ 15,820
+
+Percentage of Total
+89.90%
+
+90.10%
+
+Related Party
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 1,853
+
+$ 1,632
+
+Percentage of Total
+9.50%
+
+9.30%
+
+Equity | Nonrelated Party
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 107
+
+$ 109
+
+Percentage of Total
+0.60%
+
+0.60%
+
+Equity | Nonrelated Party | VIE, Primary Beneficiary
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 7,597
+
+$ 6,925
+
+Percentage of Total
+38.70%
+
+39.40%
+
+Equity | Related Party
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 244
+
+$ 267
+
+Percentage of Total
+1.20%
+
+1.50%
+
+Strategic origination platforms | Nonrelated Party | VIE, Primary Beneficiary
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 6,347
+
+$ 4,987
+
+Percentage of Total
+32.30%
+
+28.40%
+
+Strategic origination platforms | Related Party
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 29
+
+$ 32
+
+Percentage of Total
+0.20%
+
+0.20%
+
+Retirement services platforms | Nonrelated Party | VIE, Primary Beneficiary
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 0
+
+$ 483
+
+Percentage of Total
+0.00%
+
+2.80%
+
+Retirement services platforms | Related Party
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 1,317
+
+$ 1,300
+
+Percentage of Total
+6.70%
+
+7.40%
+
+Credit | Nonrelated Party | VIE, Primary Beneficiary
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 3,062
+
+$ 2,852
+
+Percentage of Total
+15.60%
+
+16.20%
+
+Credit | Related Party
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 253
+
+$ 20
+
+Percentage of Total
+1.30%
+
+0.10%
+
+Other | Nonrelated Party | VIE, Primary Beneficiary
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 654
+
+$ 573
+
+Percentage of Total
+3.30%
+
+3.30%
+
+Other | Related Party
+
+Net Investment Income [Line Items]
+
+Carrying Value
+$ 10
+
+$ 13
+
+Percentage of Total
+0.10%
+
+0.10%
+
+X
+
+- DefinitionInvestment Funds
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_InvestmentFunds
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionInvestment Funds Including Related Party and Variable Interest Entities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_InvestmentFundsIncludingRelatedPartyAndVariableInterestEntities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionInvestment Funds, Percent of Total
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_InvestmentFundsPercentOfTotal
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfInvestmentIncomeReportedAmountsByCategoryLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_NonrelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=us-gaap_VariableInterestEntityPrimaryBeneficiaryMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=apo_EquityFundInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=apo_StrategicOriginationPlatformsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=apo_RetirementServicesPlatformsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=apo_CreditFundInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=apo_OtherInvestmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,210 @@
+XML
+93
+R71.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Fair Value Measurements (Details)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+methodology
+
+Fair Value Measurements
+
+Number of valuation methodologies used to determine fair value of investments (in methodologies)
+2
+
+Maximum
+
+Fair Value Measurements
+
+Weighting percentage of methodology used to determine fair value of investments (up to 100%)
+100.00%
+
+Minimum | Illiquidity Discount
+
+Fair Value Measurements
+
+Private equity, measurement input
+0.05
+
+X
+
+- DefinitionRepresents the weighting percentage of methodology used to determine fair value of investments.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueInputsPercentageWeightingOfMethodologyToDetermineFairValueOfInvestments
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents number of valuation methodologies used to determine fair value of investments.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_NumberOfValuationMethodologiesUsedToDetermineFairValueOfInvestments
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPrivate Equity, Measurement Input
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PrivateEquityMeasurementInput
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:decimalItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsAndLiabilitiesMeasuredOnRecurringAndNonrecurringBasisLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputDiscountForLackOfMarketabilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,1068 @@
+XML
+139
+R109.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Long-duration Contracts - Schedule of Policyholder Account Balance (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+$ 197,889
+
+$ 168,339
+
+$ 151,390
+
+Deposits
+72,026
+
+54,304
+
+35,341
+
+Policy charges
+(711)
+
+(653)
+
+(603)
+
+Surrenders and withdrawals
+(18,217)
+
+(21,332)
+
+(14,373)
+
+Benefit payments
+(11,204)
+
+(6,141)
+
+(5,698)
+
+Interest credited
+8,692
+
+4,175
+
+3,442
+
+Foreign exchange
+(1,237)
+
+218
+
+(446)
+
+Other
+82
+
+(1,021)
+
+(714)
+
+Ending balance
+247,320
+
+197,889
+
+168,339
+
+Related Party
+
+Policyholder Account Balance [Roll Forward]
+
+Other
+
+(1,371)
+
+Traditional Deferred Annuities
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+64,763
+
+43,518
+
+35,599
+
+Deposits
+25,459
+
+30,175
+
+13,246
+
+Policy charges
+(2)
+
+(2)
+
+(3)
+
+Surrenders and withdrawals
+(5,389)
+
+(9,929)
+
+(5,419)
+
+Benefit payments
+(1,108)
+
+(984)
+
+(937)
+
+Interest credited
+3,256
+
+1,858
+
+1,032
+
+Foreign exchange
+(318)
+
+52
+
+0
+
+Other
+0
+
+75
+
+0
+
+Ending balance
+$ 86,661
+
+$ 64,763
+
+$ 43,518
+
+Weighted average crediting rate
+4.30%
+
+4.00%
+
+3.20%
+
+Net amount at risk
+$ 425
+
+$ 425
+
+$ 422
+
+Cash surrender value
+81,243
+
+61,345
+
+41,273
+
+Indexed Annuities
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+93,147
+
+92,660
+
+89,755
+
+Deposits
+16,230
+
+12,639
+
+11,544
+
+Policy charges
+(709)
+
+(651)
+
+(600)
+
+Surrenders and withdrawals
+(12,744)
+
+(11,253)
+
+(8,057)
+
+Benefit payments
+(1,580)
+
+(1,609)
+
+(1,620)
+
+Interest credited
+3,524
+
+1,279
+
+1,638
+
+Foreign exchange
+(7)
+
+1
+
+0
+
+Other
+0
+
+81
+
+0
+
+Ending balance
+$ 97,861
+
+$ 93,147
+
+$ 92,660
+
+Weighted average crediting rate
+2.70%
+
+2.40%
+
+2.20%
+
+Net amount at risk
+$ 15,441
+
+$ 14,716
+
+$ 13,581
+
+Cash surrender value
+89,511
+
+85,381
+
+84,724
+
+Funding Agreements
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+32,350
+
+27,439
+
+23,623
+
+Deposits
+29,249
+
+6,893
+
+7,970
+
+Policy charges
+0
+
+0
+
+0
+
+Surrenders and withdrawals
+0
+
+(110)
+
+(880)
+
+Benefit payments
+(8,304)
+
+(3,273)
+
+(2,819)
+
+Interest credited
+1,707
+
+883
+
+677
+
+Foreign exchange
+(414)
+
+260
+
+(440)
+
+Other
+180
+
+258
+
+(692)
+
+Ending balance
+$ 54,768
+
+$ 32,350
+
+$ 27,439
+
+Weighted average crediting rate
+4.40%
+
+3.40%
+
+2.50%
+
+Net amount at risk
+$ 0
+
+$ 0
+
+$ 0
+
+Cash surrender value
+0
+
+0
+
+0
+
+Other Investment-type
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+7,629
+
+4,722
+
+2,413
+
+Deposits
+1,088
+
+4,597
+
+2,581
+
+Policy charges
+0
+
+0
+
+0
+
+Surrenders and withdrawals
+(84)
+
+(40)
+
+(17)
+
+Benefit payments
+(212)
+
+(275)
+
+(322)
+
+Interest credited
+205
+
+155
+
+95
+
+Foreign exchange
+(498)
+
+(95)
+
+(6)
+
+Other
+(98)
+
+(1,435)
+
+(22)
+
+Ending balance
+$ 8,030
+
+$ 7,629
+
+$ 4,722
+
+Weighted average crediting rate
+2.70%
+
+2.70%
+
+3.10%
+
+Net amount at risk
+$ 51
+
+$ 103
+
+$ 47
+
+Cash surrender value
+$ 6,784
+
+$ 6,375
+
+$ 2,213
+
+X
+
+- DefinitionPolicyholder Account Balance, Foreign Exchange
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_PolicyholderAccountBalanceForeignExchange
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash to be paid to policyholder upon termination and surrender of long-duration contract issued by insurance entity.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_CashSurrenderValueDuePolicyholdersAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of interest expense for allocation to policyholder account balance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479868/944-20-45-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13J
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13J
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_InterestCreditedToPolicyholdersAccountBalances
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash outflow to policyholder account balance from benefit payment.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13J
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13J
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceBenefitPayment
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in liability for policyholder account balance from change, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceIncreaseDecreaseFromOtherChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in liability for policyholder account balance from contract issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13J
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13J
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceIssuance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of guaranteed benefit in excess of current account balance of policyholder account balance.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceNetAmountAtRisk
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of decrease in liability for policyholder account balance from policy charge.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13J
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13J
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalancePolicyCharge
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of decrease in liability for policyholder account balance from contract redemption and withdrawal of funds.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13J
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13J
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceSurrenderAndWithdrawal
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted-average crediting rate for liability for policyholder account balance, calculated at a point in time.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceWeightedAverageCreditingRate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount due to policyholder. Includes, but is not limited to, unpaid policy dividend, retrospective refund, and undistributed earnings on participating business. Excludes future policy benefit and claim expense.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(14)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
++ Details
+
+ Name:
+us-gaap_PolicyholderFunds
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_TraditionalDeferredAnnuitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_IndexedAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_FundingAgreementsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_OtherInvestmentTypesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,575 @@
+XML
+164
+R92.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SEGMENT REPORTING - Schedule of Segment Other Income Components (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total consolidated other income
+$ 329,262
+
+$ 499,037
+
+$ 204,448
+
+Total segment realized net investment loss
+(43,867)
+
+(32,298)
+
+(4,494)
+
+Ares Management L.P
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Other (income) expense, net
+(11,755)
+
+(74)
+
+0
+
+Consolidated Funds
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Other (income) expense, net
+48,963
+
+101,465
+
+33,822
+
+Operating segment
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Investment income unrealized
+(5,613)
+
+(178,481)
+
+(12,834)
+
+Other (income) expense, net
+12,172
+
+(976)
+
+(1,874)
+
+Operating segment | Ares Management L.P
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total consolidated other income
+(43,867)
+
+(32,298)
+
+(4,494)
+
+Investment income unrealized
+(5,613)
+
+(178,481)
+
+(12,834)
+
+Operating segment | Consolidated Funds
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total consolidated other income
+329,262
+
+499,037
+
+204,448
+
+Reconciling items
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total consolidated other income
+(373,129)
+
+(531,335)
+
+(208,942)
+
+Principal investment income
+38,367
+
+155,632
+
+48,223
+
+Other (income) expense, net
+(12,172)
+
+976
+
+1,873
+
+Reconciling items | Subsidiaries | Non-Controlling interest
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total consolidated other income
+2,627
+
+(1,203)
+
+6,005
+
+Reconciling items | Consolidated Funds
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Other income, net from Consolidated Funds added in consolidation
+(379,090)
+
+(492,848)
+
+(250,144)
+
+Eliminations | Consolidated Funds
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Other expense, net from Consolidated Funds eliminated in consolidation
+(12,835)
+
+(16,485)
+
+(16,484)
+
+OMG
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+OMG other (income) expense
+$ (4,413)
+
+$ 1,074
+
+$ 14,419
+
+X
+
+- DefinitionRepresents the amount of investment income (loss) unrealized during the period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_InvestmentIncomeLossUnrealized
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNet Investment Income (Expense)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_NetInvestmentIncomeExpense
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOMG Other (Income) Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_OMGOtherIncomeExpense
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of other income added in consolidation during the period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_OtherIncomeAddedInConsolidation
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after investment expense, of income earned from investments in securities and real estate. Includes, but is not limited to, real estate investment, policy loans, dividends, and interest. Excludes realized gain (loss) on investments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-10
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -SubTopic 220
+ -Topic 946
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479105/946-220-45-5
+
++ Details
+
+ Name:
+us-gaap_NetInvestmentIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe aggregate amount of income or expense from ancillary business-related activities (that is to say, excluding major activities considered part of the normal operations of the business).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_NonoperatingIncomeExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of income (expense) included in net income that results in no cash inflow (outflow), classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_OtherNoncashIncomeExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of income (expense) related to nonoperating activities, classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_OtherNonoperatingIncomeExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingOtherSignificantReconcilingItemLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_ConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_MaterialReconcilingItemsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_SubsidiariesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementEquityComponentsAxis=us-gaap_NoncontrollingInterestMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_IntersegmentEliminationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_CorporateNonSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

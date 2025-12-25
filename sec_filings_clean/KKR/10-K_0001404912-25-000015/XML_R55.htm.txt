@@ -1,0 +1,317 @@
+XML
+77
+R55.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Schedule of Intangible Assets, Net
+The following reflects the reconciliation of the components of insurance intangibles to the total balance reported in the consolidated statements of financial condition as of December 31, 2024 and 2023:
+
+ December 31, December 31,
+ 2024 2023
+Deferred Acquisition Costs, or "DAC" $ 1,731,076 $ 1,154,697
+Value of Business Acquired 1,165,193 1,252,984
+Cost-of-Reinsurance Intangibles 2,302,674 2,043,143
+Total Insurance Intangibles $ 5,198,943 $ 4,450,824
+
+Schedule of Changes to Deferred Policy Acquisition Costs
+The following tables reflect the deferred acquisition costs roll-forward by product category for the years ended December 31, 2024, 2023, and 2022:
+
+ Year Ended December 31, 2024
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Other Total
+Balance, as of the Beginning of the Period $ 373,863 $ 481,970 $ 132,079 $ 166,785 $ 1,154,697
+Capitalizations 197,662 404,165 7,640 202,251 811,718
+Amortization Expense (108,132) (98,550) (8,576) (20,081) (235,339)
+Balance, as of the End of the Period $ 463,393 $ 787,585 $ 131,143 $ 348,955 $ 1,731,076
+
+ Year Ended December 31, 2023
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Other Total
+Balance, as of the Beginning of the Period $ 221,679 $ 367,813 $ 116,021 $ 115,457 $ 820,970
+Capitalizations 218,243 175,869 23,592 66,458 484,162
+Amortization Expense (66,059) (61,712) (7,534) (15,130) (150,435)
+Balance, as of the End of the Period $ 373,863 $ 481,970 $ 132,079 $ 166,785 $ 1,154,697
+
+ Year ended December 31, 2022
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Other Total
+Balance, as of the Beginning of the Period $ 107,104 $ 179,449 $ 54,298 $ 56,730 $ 397,581
+Capitalizations 144,635 220,866 67,892 69,515 502,908
+Amortization Expense (30,060) (32,502) (6,169) (10,788) (79,519)
+Balance, as of the End of the Period $ 221,679 $ 367,813 $ 116,021 $ 115,457 $ 820,970
+
+Schedule of Changes to Value of Business Acquired Asset
+The following tables reflect the value of business acquired, or VOBA asset roll-forward by product category for the years ended December 31, 2024, 2023, and 2022:
+
+ Year Ended December 31, 2024
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 44,922 $ 621,372 $ 262,942 $ 245,042 $ 78,706 $ 1,252,984
+
+Amortization Expense (3,687) (43,210) (13,530) (20,695) (6,669) (87,791)
+
+Balance, as of the End of the Period $ 41,235 $ 578,162 $ 249,412 $ 224,347 $ 72,037 $ 1,165,193
+
+ Year Ended December 31, 2023
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 48,762 $ 663,296 $ 276,795 $ 241,778 $ 85,898 $ 1,316,529
+
+Amortization Expense (3,840) (41,924) (13,853) 3,264 (7,192) (63,545)
+Balance, as of the End of the Period $ 44,922 $ 621,372 $ 262,942 $ 245,042 $ 78,706 $ 1,252,984
+
+ Year ended December 31, 2022
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 52,723 $ 709,271 $ 292,323 $ 269,172 $ 94,479 $ 1,417,968
+
+Amortization Expense (3,961) (45,975) (15,528) (27,394) (8,581) (101,439)
+Balance, as of the End of the Period $ 48,762 $ 663,296 $ 276,795 $ 241,778 $ 85,898 $ 1,316,529
+
+The following tables reflect the negative value of business acquired, or negative VOBA liability roll-forward by product category for the years ended December 31, 2024, 2023, and 2022:
+
+ Year Ended December 31, 2024
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 65,966 $ 106,538 $ 421,213 $ 91,295 $ 182,920 $ 867,932
+
+Amortization Expense (21,534) (31,283) (29,397) (6,113) (13,297) (101,624)
+Balance, as of the End of the Period $ 44,432 $ 75,255 $ 391,816 $ 85,182 $ 169,623 $ 766,308
+
+ Year Ended December 31, 2023
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 98,342 $ 145,610 $ 461,592 $ 99,776 $ 198,804 $ 1,004,124
+
+Amortization Expense (32,376) (39,072) (40,379) (8,481) (15,884) (136,192)
+Balance, as of the End of the Period $ 65,966 $ 106,538 $ 421,213 $ 91,295 $ 182,920 $ 867,932
+
+ Year ended December 31, 2022
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 136,227 $ 184,664 $ 500,264 $ 109,826 $ 211,296 $ 1,142,277
+
+Amortization Expense (37,885) (39,054) (38,672) (10,050) (12,492) (138,153)
+Balance, as of the End of the Period $ 98,342 $ 145,610 $ 461,592 $ 99,776 $ 198,804 $ 1,004,124
+
+Schedule of Present Value of Future Insurance Profits, Expected Amortization
+Estimated future amortization of VOBA and Negative VOBA as of December 31, 2024, is as follows:
+
+Years VOBA Negative VOBA Total, net
+2025 $ 84,071 $ (86,456) $ (2,385)
+2026 78,852 (70,146) 8,706
+2027 73,940 (59,329) 14,611
+2028 69,456 (51,274) 18,182
+2029 65,376 (45,433) 19,943
+Thereafter 793,498 (453,670) 339,828
+Total $ 1,165,193 $ (766,308) $ 398,885
+
+Schedule of Changes to Unearned Revenue Reserve
+Unearned Revenue Reserves and Unearned Front-end Loads
+
+ Years Ended December 31,
+ 2024 2023 2022
+ Preneed
+Balance, as of the Beginning of the Period $ 178,053 $ 118,186 $ 55,510
+Deferral 69,303 71,798 69,548
+Amortized to Income during the Period (16,566) (11,931) (6,872)
+
+Balance, as of the End of the Period $ 230,790 $ 178,053 $ 118,186
+
+X
+
+- DefinitionTabular disclosure of receivable, contract asset, and contract liability from contract with customer. Includes, but is not limited to, change in contract asset and contract liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-10
+
++ Details
+
+ Name:
+us-gaap_ContractWithCustomerAssetAndLiabilityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the movement in deferred policy acquisition costs.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCostsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of amount of amortization expense expected to be recorded in succeeding fiscal years for present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsExpectedAmortizationTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of assets, excluding financial assets and goodwill, lacking physical substance with a finite life, by either major class or business segment.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482640/350-30-55-40
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfFiniteLivedIntangibleAssetsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

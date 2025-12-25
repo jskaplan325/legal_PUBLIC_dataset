@@ -1,0 +1,1778 @@
+XML
+160
+R88.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SEGMENT REPORTING - Schedule of Financial Results for Company's Operating Segments and OMG (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment reporting
+
+Total revenues
+$ 3,884,781
+
+$ 3,631,884
+
+$ 3,055,443
+
+Compensation and benefits
+(1,731,747)
+
+(1,486,698)
+
+(1,498,590)
+
+General, administrative and other expenses
+(736,501)
+
+(660,146)
+
+(695,256)
+
+Total
+
+Segment reporting
+
+Compensation and benefits
+(1,418,536)
+
+(1,276,115)
+
+(1,172,504)
+
+General, administrative and other expenses
+(500,573)
+
+(404,215)
+
+(319,661)
+
+Fee related earnings
+1,361,737
+
+1,163,741
+
+994,350
+
+Performance income realized
+430,179
+
+415,899
+
+418,021
+
+Performance related compensation realized
+(281,301)
+
+(282,406)
+
+(274,541)
+
+Realized net performance income
+148,878
+
+133,493
+
+143,480
+
+Investment income (loss) realized
+39,651
+
+46,185
+
+45,542
+
+Interest income
+59,795
+
+28,384
+
+19,011
+
+Interest expense
+(142,941)
+
+(106,275)
+
+(71,356)
+
+Realized net investment income (loss)
+(43,495)
+
+(31,706)
+
+(6,803)
+
+Realized income
+1,467,120
+
+1,265,528
+
+1,131,027
+
+Operating segment
+
+Segment reporting
+
+Fee related earnings
+(1,982,667)
+
+(1,701,793)
+
+(1,442,234)
+
+Performance income realized
+430,179
+
+415,899
+
+418,021
+
+Performance related compensation realized
+(281,301)
+
+(282,406)
+
+(274,541)
+
+Realized income
+(2,087,678)
+
+(1,802,988)
+
+(1,581,220)
+
+OMG
+
+Segment reporting
+
+Compensation and benefits
+(421,268)
+
+(361,124)
+
+(317,396)
+
+General, administrative and other expenses
+(220,019)
+
+(200,613)
+
+(155,017)
+
+Fee related earnings
+(620,930)
+
+(538,052)
+
+(447,884)
+
+Performance income realized
+0
+
+0
+
+0
+
+Performance related compensation realized
+0
+
+0
+
+0
+
+Realized net performance income
+0
+
+0
+
+0
+
+Investment income (loss) realized
+(650)
+
+(470)
+
+(1,678)
+
+Interest income
+1,723
+
+1,218
+
+53
+
+Interest expense
+(701)
+
+(156)
+
+(684)
+
+Realized net investment income (loss)
+372
+
+592
+
+(2,309)
+
+Realized income
+(620,558)
+
+(537,460)
+
+(450,193)
+
+Ares Management L.P
+
+Segment reporting
+
+Total revenues
+3,884,781
+
+3,631,884
+
+3,055,443
+
+Ares Management L.P | Operating segment
+
+Segment reporting
+
+Compensation and benefits
+(997,268)
+
+(914,991)
+
+(855,108)
+
+General, administrative and other expenses
+(280,554)
+
+(203,602)
+
+(164,644)
+
+Fee related earnings
+1,982,667
+
+1,701,793
+
+1,442,234
+
+Performance income realized
+430,179
+
+415,899
+
+418,021
+
+Performance related compensation realized
+(281,301)
+
+(282,406)
+
+(274,541)
+
+Realized net performance income
+148,878
+
+133,493
+
+143,480
+
+Investment income (loss) realized
+40,301
+
+46,655
+
+47,220
+
+Interest income
+58,072
+
+27,166
+
+18,958
+
+Interest expense
+(142,240)
+
+(106,119)
+
+(70,672)
+
+Realized net investment income (loss)
+(43,867)
+
+(32,298)
+
+(4,494)
+
+Realized income
+2,087,678
+
+1,802,988
+
+1,581,220
+
+Ares Management L.P | Operating segment | Credit Group
+
+Segment reporting
+
+Compensation and benefits
+(692,309)
+
+(624,741)
+
+(483,167)
+
+General, administrative and other expenses
+(161,872)
+
+(115,546)
+
+(93,715)
+
+Fee related earnings
+1,568,157
+
+1,317,012
+
+1,017,926
+
+Performance income realized
+326,202
+
+323,733
+
+237,839
+
+Performance related compensation realized
+(207,794)
+
+(211,976)
+
+(153,538)
+
+Realized net performance income
+118,408
+
+111,757
+
+84,301
+
+Investment income (loss) realized
+21,159
+
+36,490
+
+27,831
+
+Interest income
+11,671
+
+9,788
+
+8,290
+
+Interest expense
+(34,578)
+
+(29,732)
+
+(18,401)
+
+Realized net investment income (loss)
+(1,748)
+
+16,546
+
+17,720
+
+Realized income
+1,684,817
+
+1,445,315
+
+1,119,947
+
+Ares Management L.P | Operating segment | Real Assets Group
+
+Segment reporting
+
+Compensation and benefits
+(160,357)
+
+(153,870)
+
+(240,015)
+
+General, administrative and other expenses
+(56,768)
+
+(46,789)
+
+(39,739)
+
+Fee related earnings
+212,106
+
+218,807
+
+271,626
+
+Performance income realized
+60,317
+
+20,990
+
+133,130
+
+Performance related compensation realized
+(37,283)
+
+(12,768)
+
+(83,105)
+
+Realized net performance income
+23,034
+
+8,222
+
+50,025
+
+Investment income (loss) realized
+5,184
+
+3,392
+
+9,898
+
+Interest income
+7,649
+
+3,165
+
+2,262
+
+Interest expense
+(24,131)
+
+(16,391)
+
+(11,346)
+
+Realized net investment income (loss)
+(11,298)
+
+(9,834)
+
+814
+
+Realized income
+223,842
+
+217,195
+
+322,465
+
+Ares Management L.P | Operating segment | Private Equity Group
+
+Segment reporting
+
+Compensation and benefits
+(56,830)
+
+(58,408)
+
+(66,075)
+
+General, administrative and other expenses
+(21,449)
+
+(16,949)
+
+(16,416)
+
+Fee related earnings
+60,546
+
+53,057
+
+44,433
+
+Performance income realized
+43,299
+
+65,716
+
+42,896
+
+Performance related compensation realized
+(36,334)
+
+(52,984)
+
+(34,383)
+
+Realized net performance income
+6,965
+
+12,732
+
+8,513
+
+Investment income (loss) realized
+1,926
+
+(712)
+
+4,001
+
+Interest income
+1,970
+
+38
+
+222
+
+Interest expense
+(22,632)
+
+(18,990)
+
+(13,484)
+
+Realized net investment income (loss)
+(18,736)
+
+(19,664)
+
+(9,261)
+
+Realized income
+48,775
+
+46,125
+
+43,685
+
+Ares Management L.P | Operating segment | Secondaries Group
+
+Segment reporting
+
+Compensation and benefits
+(66,290)
+
+(62,160)
+
+(53,743)
+
+General, administrative and other expenses
+(33,881)
+
+(21,199)
+
+(12,685)
+
+Fee related earnings
+126,172
+
+104,387
+
+110,501
+
+Performance income realized
+361
+
+5,460
+
+4,156
+
+Performance related compensation realized
+110
+
+(4,678)
+
+(3,515)
+
+Realized net performance income
+471
+
+782
+
+641
+
+Investment income (loss) realized
+2,565
+
+4,523
+
+3,640
+
+Interest income
+972
+
+344
+
+43
+
+Interest expense
+(10,240)
+
+(8,980)
+
+(5,660)
+
+Realized net investment income (loss)
+(6,703)
+
+(4,113)
+
+(1,977)
+
+Realized income
+119,940
+
+101,056
+
+109,165
+
+Ares Management L.P | Operating segment | Other
+
+Segment reporting
+
+Compensation and benefits
+(21,482)
+
+(15,812)
+
+(12,108)
+
+General, administrative and other expenses
+(6,584)
+
+(3,119)
+
+(2,089)
+
+Fee related earnings
+15,686
+
+8,530
+
+(2,252)
+
+Performance income realized
+0
+
+0
+
+0
+
+Performance related compensation realized
+0
+
+0
+
+0
+
+Realized net performance income
+0
+
+0
+
+0
+
+Investment income (loss) realized
+9,467
+
+2,962
+
+1,850
+
+Interest income
+35,810
+
+13,831
+
+8,141
+
+Interest expense
+(50,659)
+
+(32,026)
+
+(21,781)
+
+Realized net investment income (loss)
+(5,382)
+
+(15,233)
+
+(11,790)
+
+Realized income
+10,304
+
+(6,703)
+
+(14,042)
+
+Management fees
+
+Segment reporting
+
+Total revenues
+2,942,126
+
+2,551,150
+
+2,136,433
+
+Management fees | Total
+
+Segment reporting
+
+Total revenues
+2,957,430
+
+2,571,513
+
+2,152,528
+
+Management fees | OMG
+
+Segment reporting
+
+Total revenues
+0
+
+0
+
+0
+
+Management fees | Ares Management L.P | Operating segment
+
+Segment reporting
+
+Total revenues
+2,957,430
+
+2,571,513
+
+2,152,528
+
+Management fees | Ares Management L.P | Operating segment | Credit Group
+
+Segment reporting
+
+Total revenues
+2,177,816
+
+1,853,326
+
+1,490,674
+
+Management fees | Ares Management L.P | Operating segment | Real Assets Group
+
+Segment reporting
+
+Total revenues
+401,968
+
+389,437
+
+347,808
+
+Management fees | Ares Management L.P | Operating segment | Private Equity Group
+
+Segment reporting
+
+Total revenues
+137,130
+
+126,721
+
+125,681
+
+Management fees | Ares Management L.P | Operating segment | Secondaries Group
+
+Segment reporting
+
+Total revenues
+197,287
+
+174,942
+
+176,694
+
+Management fees | Ares Management L.P | Operating segment | Other
+
+Segment reporting
+
+Total revenues
+43,229
+
+27,087
+
+11,671
+
+Fee related performance revenues | Total
+
+Segment reporting
+
+Total revenues
+231,537
+
+180,449
+
+239,425
+
+Fee related performance revenues | OMG
+
+Segment reporting
+
+Total revenues
+0
+
+0
+
+0
+
+Fee related performance revenues | Ares Management L.P | Operating segment
+
+Segment reporting
+
+Total revenues
+231,537
+
+180,449
+
+239,425
+
+Fee related performance revenues | Ares Management L.P | Operating segment | Credit Group
+
+Segment reporting
+
+Total revenues
+202,703
+
+167,333
+
+71,497
+
+Fee related performance revenues | Ares Management L.P | Operating segment | Real Assets Group
+
+Segment reporting
+
+Total revenues
+0
+
+334
+
+167,693
+
+Fee related performance revenues | Ares Management L.P | Operating segment | Private Equity Group
+
+Segment reporting
+
+Total revenues
+0
+
+0
+
+0
+
+Fee related performance revenues | Ares Management L.P | Operating segment | Secondaries Group
+
+Segment reporting
+
+Total revenues
+28,834
+
+12,782
+
+235
+
+Fee related performance revenues | Ares Management L.P | Operating segment | Other
+
+Segment reporting
+
+Total revenues
+0
+
+0
+
+0
+
+Other fees | Total
+
+Segment reporting
+
+Total revenues
+91,879
+
+92,109
+
+94,562
+
+Other fees | OMG
+
+Segment reporting
+
+Total revenues
+20,357
+
+23,685
+
+24,529
+
+Other fees | Ares Management L.P | Operating segment
+
+Segment reporting
+
+Total revenues
+71,522
+
+68,424
+
+70,033
+
+Other fees | Ares Management L.P | Operating segment | Credit Group
+
+Segment reporting
+
+Total revenues
+41,819
+
+36,640
+
+32,637
+
+Other fees | Ares Management L.P | Operating segment | Real Assets Group
+
+Segment reporting
+
+Total revenues
+27,263
+
+29,695
+
+35,879
+
+Other fees | Ares Management L.P | Operating segment | Private Equity Group
+
+Segment reporting
+
+Total revenues
+1,695
+
+1,693
+
+1,243
+
+Other fees | Ares Management L.P | Operating segment | Secondaries Group
+
+Segment reporting
+
+Total revenues
+222
+
+22
+
+0
+
+Other fees | Ares Management L.P | Operating segment | Other
+
+Segment reporting
+
+Total revenues
+$ 523
+
+$ 374
+
+$ 274
+
+X
+
+- DefinitionInvestment Income (Loss) Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_InvestmentIncomeLossNet
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of investment income (loss) realized during the period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_InvestmentIncomeLossRealized
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of compensation expense realized by the entity based on the investment results achieved.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PerformanceFeesCompensationExpenseRealized
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNet amount of realized and unrealized performance fee revenue for the management of an investment fund portfolio.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PerformanceFeesNet
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of revenue realized by the entity based on the investment results achieved.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PerformanceFeesRealizedRevenue
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized Income (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_RealizedIncomeLoss
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount before accretion (amortization) of purchase discount (premium) of interest income on nonoperating securities.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
++ Details
+
+ Name:
+us-gaap_InvestmentIncomeInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expenses related to the generation of investment income.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-10
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_InvestmentIncomeInvestmentExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense for salary, wage, profit sharing; incentive and equity-based compensation; and other employee benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_LaborAndRelatedExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe net result for the period of deducting operating expenses from operating revenues.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-31
+
++ Details
+
+ Name:
+us-gaap_OperatingIncomeLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 4: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 924
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 11.L)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479941/924-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-5
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-4
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe aggregate total costs related to selling a firm's product and services, as well as all other general and administrative expenses. Direct selling expenses (for example, credit, warranty, and advertising) are expenses that can be directly linked to the sale of specific products. Indirect selling expenses are expenses that cannot be directly linked to the sale of specific products, for example telephone expenses, Internet, and postal charges. General and administrative expenses include salaries of non-sales personnel, rent, utilities, communication, etc.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_SellingGeneralAndAdministrativeExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=ares_OperatingSegmentsAndCorporateNonSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_CorporateNonSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_CreditGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_RealAssetsGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_PrivateEquityGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_SecondariesGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=us-gaap_AllOtherSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_ManagementServiceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=ares_FeeRelatedPerformanceRevenuesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_ServiceOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

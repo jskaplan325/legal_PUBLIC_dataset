@@ -1,0 +1,1133 @@
+XML
+132
+R60.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DEBT - Schedule of Debt Obligations (Details) - Ares Management L.P - USD ($)
+ $ in Thousands
+
+1 Months Ended
+12 Months Ended
+24 Months Ended
+
+Oct. 31, 2024
+
+Nov. 30, 2023
+
+Jan. 31, 2022
+
+Jun. 30, 2021
+
+Jun. 30, 2020
+
+Oct. 31, 2014
+
+Dec. 31, 2024
+
+Jun. 30, 2025
+
+Mar. 28, 2024
+
+Mar. 27, 2024
+
+Dec. 31, 2023
+
+DEBT
+
+Carrying Value
+
+$ 2,558,914
+
+$ 2,965,480
+
+Credit Facility
+
+DEBT
+
+Carrying Value
+
+$ 0
+
+$ 895,000
+
+Interest Rate
+
+0.00%
+
+6.37%
+
+Unused commitment fees
+
+0.10%
+
+Credit Facility | Forecast
+
+DEBT
+
+Interest rate spread
+
+0.05%
+
+Unused commitment fees
+
+0.01%
+
+Credit Facility | Minimum
+
+DEBT
+
+Interest rate
+
+0.00%
+
+Credit Facility | Secured Overnight Financing Rate (SOFR)
+
+DEBT
+
+Interest rate spread
+
+1.00%
+
+Credit Facility | Revolving Credit Facility
+
+DEBT
+
+Maximum borrowing capacity
+
+$ 1,400,000
+
+Credit Facility | Revolving Credit Facility | Line of Credit
+
+DEBT
+
+Maximum borrowing capacity
+
+$ 600,000
+
+$ 1,325,000
+
+Senior Notes 2024
+
+DEBT
+
+Original Borrowing Amount
+
+$ 250,000
+
+Carrying Value
+
+$ 249,427
+
+Interest Rate
+
+4.21%
+
+Debt issuance rate
+
+98.27%
+
+Senior Notes 2028
+
+DEBT
+
+Original Borrowing Amount
+
+500,000
+
+Carrying Value
+
+$ 495,677
+
+$ 494,863
+
+Interest Rate
+
+6.42%
+
+6.42%
+
+Debt issuance rate
+
+99.80%
+
+Senior Notes 2030
+
+DEBT
+
+Original Borrowing Amount
+
+$ 400,000
+
+Carrying Value
+
+$ 397,501
+
+$ 397,050
+
+Interest Rate
+
+3.28%
+
+3.28%
+
+Debt issuance rate
+
+99.77%
+
+Senior Notes 2052
+
+DEBT
+
+Original Borrowing Amount
+
+$ 500,000
+
+Carrying Value
+
+$ 484,601
+
+$ 484,199
+
+Interest Rate
+
+3.77%
+
+3.77%
+
+Debt issuance rate
+
+97.78%
+
+Senior Notes 2054
+
+DEBT
+
+Original Borrowing Amount
+
+$ 750,000
+
+Carrying Value
+
+$ 736,010
+
+Interest Rate
+
+5.65%
+
+Debt issuance rate
+99.24%
+
+Subordinated Notes 2051
+
+DEBT
+
+Original Borrowing Amount
+
+$ 450,000
+
+Carrying Value
+
+$ 445,125
+
+$ 444,941
+
+Interest Rate
+
+4.13%
+
+4.13%
+
+Interest rate
+
+4.125%
+
+Debt term
+
+5 years
+
+Subordinated Notes 2051 | US Treasury
+
+DEBT
+
+Interest rate
+
+3.237%
+
+X
+
+- DefinitionRepresents the debt issuance rate of issued debt.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_DebtIssuanceRate
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage points added to the reference rate to compute the variable rate on the debt instrument.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentBasisSpreadOnVariableRate1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before unamortized (discount) premium and debt issuance costs, of long-term debt. Includes, but is not limited to, notes payable, bonds payable, commercial loans, mortgage loans, convertible debt, subordinated debt and other types of debt.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(16))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-4
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentCarryingAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFace (par) amount of debt instrument at time of issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482949/835-30-55-8
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69B
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69C
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482900/835-30-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentFaceAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionEffective interest rate for the funds borrowed under the debt agreement considering interest compounding and original issue discount or premium.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482949/835-30-55-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(a)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482900/835-30-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-6
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentInterestRateEffectivePercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionContractual interest rate for funds borrowed, under the debt agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(a)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentInterestRateStatedPercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482949/835-30-55-8
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(f))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-04(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69B
+
+Reference 6: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69C
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69E
+
+Reference 8: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69F
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 11: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1E
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1E
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1E
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1E
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1E
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1E
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1I
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1I
+
+Reference 26: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
+Reference 27: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482900/835-30-50-1
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPeriod of time between issuance and maturity of debt instrument, in PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentTerm
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionMaximum borrowing capacity under the credit facility without consideration of any current restrictions on the amount that could be borrowed or the amounts currently outstanding under the facility.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(19)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityMaximumBorrowingCapacity
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe fee, expressed as a percentage of the line of credit facility, for available but unused credit capacity under the credit facility.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityUnusedCapacityCommitmentFeePercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_CreditFacilityOfCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementScenarioAxis=srt_ScenarioForecastMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_VariableRateAxis=us-gaap_SecuredOvernightFinancingRateSofrMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CreditFacilityAxis=us-gaap_RevolvingCreditFacilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LongtermDebtTypeAxis=us-gaap_LineOfCreditMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_SeniorNotes2024Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_SeniorNotes2028Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_SeniorNotes2030Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_SeniorNotes2052Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_SeniorNotes2054Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_SubordinatedNotes2051Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_VariableRateAxis=us-gaap_UsTreasuryUstInterestRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

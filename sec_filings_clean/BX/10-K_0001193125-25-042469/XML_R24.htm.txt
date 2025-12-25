@@ -1,0 +1,254 @@
+XML
+53
+R24.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Offsetting of Assets And Liabilities
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Offsetting of Assets and Liabilities
+
+11.
+
+Offsetting of Assets and Liabilities
+
+ The following tables present the offsetting of assets and liabilities as of December 31, 2024 and 2023:
+
+December 31, 2024
+
+Gross and Net
+
+Amounts of Assets
+Presented in the
+Statement of
+Financial Condition
+
+Gross Amounts Not Offset in
+
+the Statement of
+
+Financial Condition
+
+Financial
+Instruments (a)
+
+Cash Collateral
+Received
+
+Net Amount
+
+Assets
+
+Freestanding Derivatives
+
+$
+
+193,552
+
+$
+
+122,391
+
+$
+
+54,388
+
+$
+
+ 16,773
+
+December 31, 2024
+
+Gross and Net
+Amounts of Liabilities
+Presented in the
+Statement of
+
+Financial Condition
+
+Gross Amounts Not Offset in
+
+the Statement of
+
+Financial Condition
+
+Financial
+Instruments (a)
+
+Cash Collateral
+Pledged
+
+Net
+
+Amount
+
+Liabilities
+
+Freestanding Derivatives
+
+$
+
+137,551
+
+$
+
+125,056
+
+$
+
+10
+
+$
+
+12,485
+
+Repurchase Agreements
+
+6,758
+
+6,758
+
+$
+
+144,309
+
+$
+
+131,814
+
+$
+
+ 10
+
+$
+
+ 12,485
+
+December 31, 2023
+
+Gross and Net
+Amounts of Assets
+Presented in the
+Statement of
+Financial Condition
+
+Gross Amounts Not Offset in
+
+the Statement of
+
+Financial Condition
+
+Financial
+Instruments (a)
+
+Cash Collateral
+Received
+
+Net
+
+Amount
+
+Assets
+
+Freestanding Derivatives
+
+$
+
+ 190,079
+
+$
+
+ 107,330
+
+$
+
+ 49,532
+
+$
+
+ 33,217
+
+December 31, 2023
+
+Gross and Net
+Amounts of Liabilities
+Presented in the
+Statement of
+
+Financial Condition
+
+Gross Amounts Not Offset in
+
+the Statement of
+
+Financial Condition
+
+Net
+
+Amount
+
+Financial
+Instruments (a)
+
+Cash Collateral
+Pledged
+
+Liabilities
+
+Freestanding Derivatives
+
+$
+
+ 90,635
+
+$
+
+ 87,777
+
+$
+
+ 625
+
+$
+
+ 2,233
+
+(a)
+
+Amounts presented are inclusive of both legally enforceable master netting agreements and financial instruments received or pledged as collateral. Financial instruments received or pledged as collateral offset derivative counterparty risk exposure, but do not reduce net balance sheet exposure.
+
+ Repurchase Agreements and Freestanding Derivative liabilities are included in Accounts Payable, Accrued Expenses and Other Liabilities in the Consolidated Statements of Financial Condition. Freestanding Derivative assets are included in Other Assets in the Consolidated Statements of Financial Condition. See Note 10. Other Assets for the components of Other Assets.
+
+ Notional Pooling Arrangements
+
+ Blackstone has notional cash pooling arrangements with financial institutions for cash management purposes. These arrangements allow for cash withdrawals based upon aggregate cash balances on deposit at the same financial institution. Cash
+
+ withdrawals cannot exceed aggregate cash balances on deposit. The net balance of cash on deposit and overdrafts is used as a basis for calculating net interest expense or income. As of December 31, 2024, the aggregate cash balance on deposit relating to the cash pooling arrangements was $981.9 million, which was offset and reported net of the accompanying overdraft of $981.8 million.
+
+X
+
+- DefinitionThe entire disclosure for offsetting the entity's assets and liabilities, including but not limited to the gross and net amounts presented in the statement of financial condition and amounts not offset in the statement of financial condition.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_OffsettingOfAssetsAndLiabilitiesDisclosureTextBlock
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

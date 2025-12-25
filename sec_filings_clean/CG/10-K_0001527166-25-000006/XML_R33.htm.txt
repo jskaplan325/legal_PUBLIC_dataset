@@ -1,0 +1,1535 @@
+XML
+56
+R33.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value Measurement (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Fair Value Disclosures [Abstract]
+
+Summary of assets and liabilities measured at fair value on recurring basis
+The following table summarizes the Company s assets and liabilities measured at fair value on a recurring basis by the fair value hierarchy levels as disclosed in Note 2, Summary of Significant Accounting Policies, as of December 31, 2024:
+
+(Dollars in millions)
+
+ Level I
+
+ Level II
+
+ Level III
+
+ Total
+
+Assets
+
+Investments of Consolidated Funds(1):
+
+Equity securities(2)
+
+ $
+
+ $
+
+ $572.0
+
+ $572.0
+
+Bonds
+
+ 465.1
+
+ 465.1
+
+Loans
+
+ 6,431.4
+
+ 6,431.4
+
+Other
+
+ 1.3
+
+ 1.3
+
+ 1.3
+
+ 7,468.5
+
+ 7,469.8
+
+Investments in CLOs and other:
+
+Investments in CLOs
+
+ 378.9
+
+ 378.9
+
+Other investments(3)
+
+ 40.4
+
+ 21.5
+
+ 85.1
+
+ 147.0
+
+ 40.4
+
+ 21.5
+
+ 464.0
+
+ 525.9
+
+Subtotal
+
+ $40.4
+
+ $22.8
+
+ $7,932.5
+
+ $7,995.7
+
+Investments measured at net asset value
+
+ 320.7
+
+Total
+
+ $8,316.4
+
+Liabilities
+
+Loans payable of Consolidated Funds(4)(5)
+
+ $
+
+ $
+
+ $6,809.1
+
+ $6,809.1
+
+Foreign currency forward contracts
+
+ 0.6
+
+ 0.6
+
+Total
+
+ $
+
+ $0.6
+
+ $6,809.1
+
+ $6,809.7
+
+(1)This balance excludes $312.6 million of Investments of Consolidated Funds that are included in Investments measured at net asset
+value, which relate to certain consolidated investment fund of funds in the Company s Global Investment Solutions segment.
+(2)This balance includes $441.9 million related to investments that have been bridged by the Company to investment funds and are
+accounted for as consolidated VIEs as of December 31, 2024.
+(3)The Level III balance excludes $55.4 million related to three corporate investments in equity securities which the Company has
+elected to account for under the measurement alternative for equity securities without readily determinable fair values pursuant to
+ASC 321, Investments Equity Securities. As a non-recurring fair value measurement, the fair value of these equity securities is
+excluded from the tabular Level III rollforward disclosures.
+(4)Senior and subordinated notes issued by CLO vehicles are valued based on the more observable fair value of the CLO financial
+assets, less (i) the fair value of any beneficial interest held by the Company and (ii) the carrying value of any beneficial interests that
+represent compensation for services.
+(5)Loans payable of Consolidated Funds balance excludes a $55.1 million revolving credit balance.
+The following table summarizes the Company s assets and liabilities measured at fair value on a recurring basis by the
+above fair value hierarchy levels as of December 31, 2023:
+
+(Dollars in millions)
+
+ Level I
+
+ Level II
+
+ Level III
+
+ Total
+
+Assets
+
+ (Dollars in millions)
+
+Investments of Consolidated Funds(1):
+
+Equity securities(2)
+
+ $
+
+ $
+
+ $377.6
+
+ $377.6
+
+Bonds
+
+ 522.5
+
+ 522.5
+
+Loans
+
+ 5,862.1
+
+ 5,862.1
+
+ 6,762.2
+
+ 6,762.2
+
+Investments in CLOs and other:
+
+Investments in CLOs
+
+ 532.6
+
+ 532.6
+
+Other investments(3)
+
+ 38.7
+
+ 42.8
+
+ 84.6
+
+ 166.1
+
+ 38.7
+
+ 42.8
+
+ 617.2
+
+ 698.7
+
+Subtotal
+
+ $38.7
+
+ $42.8
+
+ $7,379.4
+
+ $7,460.9
+
+Investments measured at net asset value
+
+ 502.0
+
+Total
+
+ $7,962.9
+
+Liabilities
+
+Loans payable of Consolidated Funds(4)(5)
+
+ $
+
+ $
+
+ $6,298.6
+
+ $6,298.6
+
+Total
+
+ $
+
+ $
+
+ $6,298.6
+
+ $6,298.6
+
+(1)This balance excludes $490.9 million of Investments of Consolidated Funds that are included in Investments measured at net asset
+value, which relate to certain consolidated investment fund of funds in the Company s Global Investment Solutions segment.
+(2)This balance includes $322.0 million related to investments that have been bridged by the Company to investment funds and are
+accounted for as consolidated VIEs as of December 31, 2023.
+(3)The Level III balance excludes $50.4 million related to three corporate investments in equity securities which the Company has
+elected to account for under the measurement alternative for equity securities without readily determinable fair values pursuant to
+ASC 321, Investments Equity Securities. As a non-recurring fair value measurement, the fair value of these equity securities is
+excluded from the tabular Level III rollforward disclosures.
+(4)Senior and subordinated notes issued by CLO vehicles are valued based on the more observable fair value of the CLO financial
+assets, less (i) the fair value of any beneficial interests held by the Company and (ii) the carrying value of any beneficial interests
+that represent compensation for services.
+(5) Loans payable of Consolidated Funds balance excludes a $177.9 million revolving credit balance and $10.0 million of senior notes
+and subordinated notes, which are not measured at fair value.
+
+Changes in Level III financial assets measured at fair value
+The changes in financial instruments measured at fair value for which the Company has used Level III inputs to determine fair value are as follows (Dollars in millions):
+
+ Financial Assets Year Ended December 31, 2024
+
+Investments of Consolidated Funds
+
+ Investments
+in CLOs
+
+ Total
+
+Equity
+securities
+
+ Bonds
+
+ Loans
+
+ Other
+investments
+
+Balance, beginning of period
+
+ $377.6
+
+ $522.5
+
+ $5,862.1
+
+ $532.6
+
+ $84.6
+
+ $7,379.4
+
+Deconsolidation of funds(1)
+
+ (34.1)
+
+ (1,219.5)
+
+ 2.3
+
+ (1,251.3)
+
+Purchases
+
+ 199.5
+
+ 335.3
+
+ 6,867.6
+
+ 4.0
+
+ 36.5
+
+ 7,442.9
+
+Sales and distributions
+
+ (11.7)
+
+ (343.4)
+
+ (3,090.3)
+
+ (184.4)
+
+ (10.0)
+
+ (3,639.8)
+
+Settlements
+
+ (1.6)
+
+ (1,882.8)
+
+ (1,884.4)
+
+Realized and unrealized gains (losses), net
+
+Included in earnings
+
+ 6.6
+
+ 15.1
+
+ 78.2
+
+ 29.9
+
+ (26.0)
+
+ 103.8
+
+Included in other comprehensive income
+
+ (28.7)
+
+ (183.9)
+
+ (5.5)
+
+ (218.1)
+
+Balance, end of period
+
+ $572.0
+
+ $465.1
+
+ $6,431.4
+
+ $378.9
+
+ $85.1
+
+ $7,932.5
+
+Changes in unrealized gains (losses) included in
+earnings related to financial assets still held at the
+reporting date
+
+ $3.5
+
+ $7.9
+
+ $33.4
+
+ $29.0
+
+ $(29.0)
+
+ $44.8
+
+Changes in unrealized gains (losses) included in
+other comprehensive income related to financial
+assets still held at the reporting date
+
+ $
+
+ $(15.8)
+
+ $(115.7)
+
+ $(6.2)
+
+ $
+
+ $(137.7)
+
+ Financial Assets Year Ended December 31, 2023
+
+ Investments of Consolidated Funds
+
+ Investments
+in CLOs
+
+ Total
+
+ Equity
+securities
+
+ Bonds
+
+ Loans
+
+ Other
+investments
+
+Balance, beginning of period
+
+ $430.6
+
+ $594.9
+
+ $5,352.9
+
+ $526.1
+
+ $79.4
+
+ $6,983.9
+
+Deconsolidation of funds(2)
+
+ (20.0)
+
+ (429.5)
+
+ (449.5)
+
+Purchases
+
+ 85.8
+
+ 168.9
+
+ 2,549.5
+
+ 2.0
+
+ 2,806.2
+
+Sales and distributions
+
+ (104.5)
+
+ (269.0)
+
+ (1,151.2)
+
+ (58.0)
+
+ (3.5)
+
+ (1,586.2)
+
+Settlements
+
+ (8.2)
+
+ (740.4)
+
+ (748.6)
+
+Realized and unrealized gains (losses), net
+
+Included in earnings
+
+ (14.4)
+
+ 21.0
+
+ 182.7
+
+ 43.4
+
+ 8.7
+
+ 241.4
+
+Included in other comprehensive income
+
+ 0.1
+
+ 14.9
+
+ 98.1
+
+ 19.1
+
+ 132.2
+
+Balance, end of period
+
+ $377.6
+
+ $522.5
+
+ $5,862.1
+
+ $532.6
+
+ $84.6
+
+ $7,379.4
+
+Changes in unrealized gains (losses) included in
+earnings related to financial assets still held at the
+reporting date
+
+ $(15.7)
+
+ $13.8
+
+ $131.5
+
+ $43.3
+
+ $5.2
+
+ $178.1
+
+Changes in unrealized gains (losses) included in
+other comprehensive income related to financial
+assets still held at the reporting date
+
+ $0.1
+
+ $12.4
+
+ $93.4
+
+ $19.1
+
+ $
+
+ $125.0
+
+(1) As a result of the deconsolidation of four funds during the year ended December 31, 2024.
+(2) As a result of the deconsolidation of three funds during the year ended December 31, 2023.
+
+Changes in Level III financial liabilities measured at fair value
+
+ Financial Liabilities
+
+ Loans Payable of Consolidated Funds
+
+ Year Ended December 31,
+
+ 2024
+
+ 2023
+
+Balance, beginning of period
+
+ $6,298.6
+
+ $5,491.6
+
+Deconsolidation of funds(1)
+
+ (1,269.3)
+
+Borrowings
+
+ 7,006.0
+
+ 903.0
+
+Paydowns
+
+ (2,101.8)
+
+ (159.6)
+
+Sales
+
+ (2,986.7)
+
+ (290.8)
+
+Realized and unrealized (gains) losses, net
+
+Included in earnings
+
+ 72.0
+
+ 239.7
+
+Included in other comprehensive income
+
+ (209.7)
+
+ 114.7
+
+Balance, end of period
+
+ $6,809.1
+
+ $6,298.6
+
+Changes in unrealized (gains) losses included in earnings related to
+financial liabilities still held at the reporting date
+
+ $86.4
+
+ $250.1
+
+Changes in unrealized (gains) losses included in other comprehensive
+income related to financial liabilities still held at the reporting date
+
+ $(254.2)
+
+ $112.4
+
+(1) As a result of the deconsolidation of four funds during the year ended December 31, 2024.
+
+Summary of quantitative information about Level III inputs
+The following table summarizes quantitative information about the Company s Level III inputs as of December 31, 2024:
+
+ Fair Value at
+
+ Range
+(Weighted
+Average)
+
+ Impact to
+Valuation
+from
+Increase in
+Input
+
+(Dollars in millions)
+
+ December 31, 2024
+
+ Valuation Technique(s)
+
+ Unobservable Input(s)
+
+Assets
+
+Investments of Consolidated
+Funds:
+
+Equity securities
+
+ $3.9
+
+ Consensus Pricing
+
+ Indicative Quotes ($ per share)
+
+ 0.00 - 112.17 (0.01)
+
+ Higher
+
+ 485.0
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 10% - 13% (11%)
+
+ Lower
+
+ Terminal Growth Rate
+
+ 3% - 7% (6%)
+
+ Higher
+
+ Comparable Multiple
+
+ EBITDA Multiple
+
+ 7.7x - 23.2x (12.8x)
+
+ Higher
+
+ TCF Multiple
+
+ 26.0x - 26.0x (26.0x)
+
+ Higher
+
+ 38.2
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 14% - 34% (18%)
+
+ Lower
+
+ Constant Prepayment Rate
+
+ 6% - 16% (11%)
+
+ Lower
+
+ Constant Default Rate
+
+ 1% - 4% (2%)
+
+ Lower
+
+ Recovery Rate
+
+ 0% - 40% (17%)
+
+ Higher
+
+ 44.9
+
+ Other(1)
+
+ N/A
+
+ N/A
+
+ N/A
+
+Bonds
+
+ 465.1
+
+ Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 30 - 103 (93)
+
+ Higher
+
+Loans
+
+ 6,408.2
+
+ Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 0 - 105 (97)
+
+ Higher
+
+ 10.2
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 9% - 19% (18%)
+
+ Lower
+
+ 6.4
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 16% - 16% (16%)
+
+ Lower
+
+ Constant Prepayment Rate
+
+ 8% - 14% (11%)
+
+ Lower
+
+ Constant Default Rate
+
+ 1% - 1% (1%)
+
+ Lower
+
+ Recovery Rate
+
+ 0% - 0% (0%)
+
+ Higher
+
+ 6.6
+
+ Other(1)
+
+ N/A
+
+ N/A
+
+ N/A
+
+ 7,468.5
+
+Investments in CLOs
+
+Senior secured notes
+
+ 321.8
+
+ Discounted Cash Flow
+with Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 80 - 101 (99)
+
+ Higher
+
+ Discount Margins (Basis
+Points)
+
+ 113 - 1,535 (214)
+
+ Lower
+
+ Default Rates
+
+ 2% - 2% (2%)
+
+ Lower
+
+ Recovery Rates
+
+ 60% - 60% (60%)
+
+ Higher
+
+Subordinated notes and
+preferred shares
+
+ 57.1
+
+ Discounted Cash Flow
+with Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 1 - 103 (38)
+
+ Higher
+
+ Discount Rate
+
+ 4% - 35% (16%)
+
+ Lower
+
+ Default Rates
+
+ 1% - 2% (2%)
+
+ Lower
+
+ Recovery Rates
+
+ 60% - 60% (60%)
+
+ Higher
+
+Other investments:
+
+BDC preferred shares
+
+ 53.4
+
+ Other(2)
+
+ Net Asset Value per Share
+
+ 16.80 - 16.80 (16.80)
+
+ Lower
+
+Aviation subordinated
+notes
+
+ 2.9
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 21% - 21% (21%)
+
+ Lower
+
+Loans
+
+ 28.8
+
+ Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 99 - 99 (99)
+
+ Higher
+
+Total
+
+ $7,932.5
+
+Liabilities
+
+Loans payable of Consolidated
+Funds:
+
+Senior secured notes
+
+ $6,598.8
+
+ Other(3)
+
+ N/A
+
+ N/A
+
+ N/A
+
+Subordinated notes and
+preferred shares
+
+ 210.3
+
+ Discounted Cash Flow
+with Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 11 - 87 (34)
+
+ Higher
+
+ Discount Rates
+
+ 2% - 35% (15%)
+
+ Lower
+
+ Default Rates
+
+ 1% - 2% (2%)
+
+ Lower
+
+ Recovery Rates
+
+ 60% - 60% (60%)
+
+ Higher
+
+Total
+
+ $6,809.1
+
+(1)Fair value approximates transaction price that was in close proximity to the reporting date.
+(2)The valuation technique for the investment in BDC preferred shares changed during the fiscal year ended December 31, 2024 due to a
+proposed merger between CSL and another Carlyle-advised BDC (see Note 9, Related Party Transactions, for more information).
+(3)Senior and subordinated notes issued by CLO vehicles are classified based on the more observable fair value of the CLO financial assets,
+less (i) the fair value of any beneficial interests held by the Company and (ii) the carrying value of any beneficial interests that represent
+compensation for services.
+
+The following table summarizes quantitative information about the Company s Level III inputs as of December 31,
+2023:
+
+ Fair Value at
+
+ Range
+(Weighted
+Average)
+
+ Impact to
+Valuation
+from
+Increase in
+Input
+
+(Dollars in millions)
+
+ December 31, 2023
+
+ Valuation Technique(s)
+
+ Unobservable Input(s)
+
+Assets
+
+Investments of Consolidated
+Funds:
+
+Equity securities
+
+ $3.3
+
+ Consensus Pricing
+
+ Indicative Quotes
+($ per share)
+
+ 0.00 - 208.38 (0.11)
+
+ Higher
+
+ 366.5
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 10% - 11% (10%)
+
+ Lower
+
+ Terminal Growth Rate
+
+ 0% - 7% (5%)
+
+ Higher
+
+ Comparable Multiple
+
+ EBITDA Multiple
+
+ 12.7x - 12.7x (12.7x)
+
+ Higher
+
+ TCF Multiple
+
+ 24.3x - 24.3x (24.3x)
+
+ Higher
+
+ 7.8
+
+ Other(1)
+
+ N/A
+
+ N/A
+
+ N/A
+
+Bonds
+
+ 522.5
+
+ Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 30 - 105 (90)
+
+ Higher
+
+Loans
+
+ 5,829.3
+
+ Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 0 - 102 (95)
+
+ Higher
+
+ 11.0
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 7% - 16% (15%)
+
+ Lower
+
+ 9.4
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 17% - 17% (17%)
+
+ Lower
+
+ Constant Prepayment Rate
+
+ 8% - 8% (8%)
+
+ Lower
+
+ Constant Default Rate
+
+ 1% - 1% (1%)
+
+ Lower
+
+ Recovery Rate
+
+ 0% - 0% (0%)
+
+ Higher
+
+Other
+
+ 12.4
+
+ Other(1)
+
+ N/A
+
+ N/A
+
+ N/A
+
+ 6,762.2
+
+Investments in CLOs
+
+Senior secured notes
+
+ 472.2
+
+ Discounted Cash Flow
+with Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 72 - 101 (96)
+
+ Higher
+
+ Discount Margins (Basis
+Points)
+
+ 139 - 1,600 (319)
+
+ Lower
+
+ Default Rates
+
+ 2% - 2% (2%)
+
+ Lower
+
+ Recovery Rates
+
+ 60% - 60% (60%)
+
+ Higher
+
+Subordinated notes and
+preferred shares
+
+ 59.4
+
+ Discounted Cash Flow
+with Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 6 - 90 (40)
+
+ Higher
+
+ Discount Rate
+
+ 11% - 40% (21%)
+
+ Lower
+
+ Default Rates
+
+ 1% - 2% (2%)
+
+ Lower
+
+ Recovery Rates
+
+ 60% - 60% (60%)
+
+ Higher
+
+ 1.0
+
+ Other(1)
+
+ N/A
+
+ N/A
+
+ N/A
+
+Other investments:
+
+BDC preferred shares
+
+ 81.7
+
+ Market Yield Analysis
+
+ Market Yields
+
+ 11% - 11% (11%)
+
+ Lower
+
+Aviation subordinated
+notes
+
+ 2.9
+
+ Discounted Cash Flow
+
+ Discount Rates
+
+ 21% - 21% (21%)
+
+ Lower
+
+Total
+
+ $7,379.4
+
+Liabilities
+
+Loans payable of Consolidated
+Funds:
+
+Senior secured notes
+
+ $6,090.1
+
+ Other(2)
+
+ N/A
+
+ N/A
+
+ N/A
+
+Subordinated notes and
+preferred shares
+
+ 190.0
+
+ Discounted Cash Flow
+with Consensus Pricing
+
+ Indicative Quotes (% of Par)
+
+ 16 - 103 (41)
+
+ Higher
+
+ Discount Rates
+
+ 14% - 30% (21%)
+
+ Lower
+
+ Default Rates
+
+ 2% - 2% (2%)
+
+ Lower
+
+ Recovery Rates
+
+ 60% - 60% (60%)
+
+ Higher
+
+ 18.5
+
+ Other(1)
+
+ N/A
+
+ N/A
+
+ N/A
+
+Total
+
+ $6,298.6
+
+(1)Fair value approximates transaction price that was in close proximity to the reporting date.
+(2)Senior and subordinated notes issued by CLO vehicles are classified based on the more observable fair value of the CLO financial assets,
+less (i) the fair value of any beneficial interests held by the Company and (ii) the carrying value of any beneficial interests that represent
+compensation for services.
+
+X
+
+- DefinitionSchedule Of Quantitative Information About Partnership Level Three Inputs Table
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ScheduleOfQuantitativeInformationAboutPartnershipLevelThreeInputsTableTableTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the fair value measurement of assets using significant unobservable inputs (Level 3), a reconciliation of the beginning and ending balances, separately presenting changes during the period attributable to the following: (1) total gains or losses for the period (realized and unrealized), segregating those gains or losses included in earnings (or changes in net assets) and gains or losses recognized in other comprehensive income (loss), and a description of where those gains or losses included in earnings (or changes in net assets) are reported in the statement of income (or activities); (2) purchases, sales, issues, and settlements (each type disclosed separately); and (3) transfers in and transfers out of Level 3 (for example, transfers due to changes in the observability of significant inputs), by class of asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsMeasuredOnRecurringBasisUnobservableInputReconciliationTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueDisclosuresAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the fair value measurement of liabilities using significant unobservable inputs (Level 3), a reconciliation of the beginning and ending balances, separately presenting changes attributable to the following: (1) total gains or losses for the period (realized and unrealized), segregating those gains or losses included in earnings (or changes in net assets), and gains or losses recognized in other comprehensive income (loss) and a description of where those gains or losses included in earnings (or changes in net assets) are reported in the statement of income (or activities); (2) purchases, sales, issues, and settlements (each type disclosed separately); and (3) transfers in and transfers out of Level 3 (for example, transfers due to changes in the observability of significant inputs) by class of liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueLiabilitiesMeasuredOnRecurringBasisUnobservableInputReconciliationTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of assets and liabilities, including [financial] instruments measured at fair value that are classified in stockholders' equity, if any, that are measured at fair value on a recurring basis. The disclosures contemplated herein include the fair value measurements at the reporting date by the level within the fair value hierarchy in which the fair value measurements in their entirety fall, segregating fair value measurements using quoted prices in active markets for identical assets (Level 1), significant other observable inputs (Level 2), and significant unobservable inputs (Level 3).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfFairValueAssetsAndLiabilitiesMeasuredOnRecurringBasisTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,76 @@
+XML
+102
+R30.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Accounting Policies [Abstract]
+
+Schedule of Management Fee on the Net Investment Income
+Management fees also include a quarterly fee on the net investment income ( Part I Fees ) of the following publicly-traded and perpetual wealth vehicles:
+
+Vehicle Annual Fee Rate Strategy Fee Base
+
+Credit Group
+ARCC Part I Fees 20.00% U.S. Direct Lending Net investment income (before ARCC Part I Fees and ARCC Part II Fees), subject to a fixed hurdle rate of 1.75% per quarter, or 7.00% per annum. No fees are recognized until net investment income exceeds a 1.75% hurdle rate, with a catch-up provision to ensure that the Company receives 20.00% of the net investment income from the first dollar earned
+
+ASIF Part I Fees
+ 12.50% U.S. Direct Lending Net investment income (before ASIF Part I Fees and ASIF Part II Fees), subject to a fixed hurdle rate of 1.25% per quarter, or 5.00% per annum. No fees are recognized until net investment income exceeds a 1.25% hurdle rate, with a catch-up provision to ensure that the Company receives 12.50% of the net investment income from the first dollar earned
+
+CADC Part I Fees 15.00% U.S. Direct Lending Net investment income (before CADC Part I Fees), subject to a fixed hurdle rate of 1.50% per quarter, or 6.00% per annum. No fees are recognized until net investment income exceeds the hurdle rate, with a catch-up provision to ensure that the Company receives 15.00% of the net investment income from the first dollar earned
+
+Open-ended European Direct Lending Fund Part I Fees 12.50% European Direct Lending Net investment income (before open-ended European direct lending fund Part I Fees and open-ended European direct lending fund Part II Fees), subject to a fixed hurdle rate of 1.25% per quarter, or 5.00% per annum. No fees are recognized until net investment income exceeds a 1.25% hurdle rate, with a catch-up provision to ensure that the Company receives 12.50% of the net investment income from the first dollar earned
+
+Real Assets Group
+Infrastructure Private BDC Part I Fees 12.50% Infrastructure Opportunities Net investment income (before infrastructure private BDC Part I Fees and infrastructure private BDC Part II Fees), subject to a fixed hurdle rate of 1.25% per quarter, or 5.00% per annum. No fees are recognized until net investment income exceeds a 1.25% hurdle rate, with a catch-up provision to ensure that the Company receives 12.50% of the net investment income from the first dollar earned
+
+X
+
+- DefinitionManagement Fee on the Net Investment Income
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ScheduleOfManagementFeeOnTheNetInvestmentIncomeTableTextBlock
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AccountingPoliciesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

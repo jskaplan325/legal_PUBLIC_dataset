@@ -1,0 +1,686 @@
+XML
+93
+R64.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Aggregate Notional Amount and Fair Value of Derivative Financial Instruments (Detail) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Assets, Notional
+$ 1,708,158
+
+$ 1,943,891
+
+Derivative Liabilities, Notional
+3,134,638
+
+2,055,466
+
+Derivative Assets, Fair Value
+193,552
+
+190,079
+
+Derivative Liabilities, Fair Value
+1,075,767
+
+654,621
+
+Freestanding Derivatives
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Assets, Notional
+785,790
+
+855,683
+
+Derivative Liabilities, Notional
+915,215
+
+Derivative Assets, Fair Value
+13,243
+
+19,189
+
+Derivative Liabilities, Fair Value
+15,918
+
+Freestanding Derivatives | Blackstone
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Assets, Notional
+922,368
+
+1,088,208
+
+Derivative Liabilities, Notional
+2,219,423
+
+2,055,466
+
+Derivative Assets, Fair Value
+180,309
+
+170,890
+
+Derivative Liabilities, Fair Value
+1,059,849
+
+654,621
+
+Freestanding Derivatives | Blackstone | Credit Default Swap
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Assets, Notional
+
+3,108
+
+Derivative Liabilities, Notional
+640
+
+3,748
+
+Derivative Assets, Fair Value
+
+479
+
+Derivative Liabilities, Fair Value
+10
+
+508
+
+Freestanding Derivatives | Blackstone | Total Return Swaps
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Assets, Notional
+58,263
+
+63,158
+
+Derivative Assets, Fair Value
+10,153
+
+13,171
+
+Freestanding Derivatives | Interest Rate Contracts | Blackstone
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Assets, Notional
+624,740
+
+634,840
+
+Derivative Liabilities, Notional
+600,000
+
+607,000
+
+Derivative Assets, Fair Value
+166,126
+
+145,798
+
+Derivative Liabilities, Fair Value
+107,425
+
+86,589
+
+Freestanding Derivatives | Interest Rate Contracts | Consolidated Blackstone Funds
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Assets, Notional
+785,790
+
+855,683
+
+Derivative Liabilities, Notional
+915,215
+
+Derivative Assets, Fair Value
+13,243
+
+19,189
+
+Derivative Liabilities, Fair Value
+15,918
+
+Freestanding Derivatives | Foreign Currency Contracts | Blackstone
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Assets, Notional
+239,365
+
+387,102
+
+Derivative Liabilities, Notional
+479,383
+
+334,228
+
+Derivative Assets, Fair Value
+4,030
+
+11,442
+
+Derivative Liabilities, Fair Value
+14,198
+
+3,538
+
+Freestanding Derivatives | Equity Options | Blackstone
+
+Derivatives, Fair Value [Line Items]
+
+Derivative Liabilities, Notional
+1,139,400
+
+1,110,490
+
+Derivative Liabilities, Fair Value
+$ 938,216
+
+$ 563,986
+
+X
+
+- DefinitionNominal or face amount used to calculate payments on the derivative asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column A)(Footnote 3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column D))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column B))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1B
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssetNotionalAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, before effects of master netting arrangements, of a financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes assets elected not to be offset. Excludes assets not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-7
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4D
+ -Subparagraph (c)(2)
+ -SubTopic 20
+ -Topic 860
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481326/860-20-50-4D
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeAsset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, before effects of master netting arrangements, of a financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes liabilities elected not to be offset. Excludes liabilities not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-7
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4D
+ -Subparagraph (c)(2)
+ -SubTopic 20
+ -Topic 860
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481326/860-20-50-4D
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNominal or face amount used to calculate payments on the derivative liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column D))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column D))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column A))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1B
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilityNotionalAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativesFairValueLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=bx_FreestandingDerivativesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=bx_BlackstoneMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CreditDerivativesByContractTypeAxis=us-gaap_CreditDefaultSwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CreditDerivativesByContractTypeAxis=us-gaap_TotalReturnSwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=bx_ConsolidatedBlackstoneFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_StockOptionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

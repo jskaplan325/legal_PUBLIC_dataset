@@ -1,0 +1,1258 @@
+XML
+125
+R103.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DERIVATIVES - Financial Statement Classification (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on net investment hedges
+$ (25,300)
+
+Derivatives Not Designated as Hedge Accounting Instruments:
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI (loss) gain on cash flow hedges
+(219,947)
+
+$ 42,565
+
+$ (176,569)
+
+Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses)
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+419,927
+
+(680,717)
+
+2,346,747
+
+Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+397,482
+
+(700,888)
+
+2,327,818
+
+Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment Income
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+(104)
+
+(1,381)
+
+0
+
+Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments:
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI impact of fair value hedges
+(10,977)
+
+9,119
+
+(6,784)
+
+AOCI impact of total gains (losses) on fair value hedges, net of hedged items
+(10,977)
+
+9,119
+
+(6,784)
+
+Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses)
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on derivatives designated as hedge instruments
+119,618
+
+(88,384)
+
+64,945
+
+Gains (losses) on hedged items
+(117,318)
+
+80,210
+
+(61,785)
+
+Amortization for gains (losses) excluded from assessment of effectiveness
+20,145
+
+28,345
+
+14,737
+
+Total Gains (Losses) on Fair Value Hedges, Net of Hedged Items
+22,445
+
+20,171
+
+17,897
+
+Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment Income
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on derivatives designated as hedge instruments
+4,551
+
+0
+
+0
+
+Total Gains (Losses) on Fair Value Hedges, Net of Hedged Items
+4,551
+
+0
+
+0
+
+Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Policy Benefits and Claims
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on derivatives designated as hedge instruments
+(108,622)
+
+(53,870)
+
+(382,376)
+
+Gains (losses) on hedged items
+108,622
+
+53,870
+
+382,376
+
+Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments: | Interest Expense
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on derivatives designated as hedge instruments
+(134,580)
+
+(20,410)
+
+(177,855)
+
+Gains (losses) on hedged items
+134,580
+
+20,410
+
+177,855
+
+Cash Flow Hedges | Derivatives Designated as Hedge Accounting Instruments:
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI (loss) gain on cash flow hedges
+(183,626)
+
+33,446
+
+(169,785)
+
+Cash Flow Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses)
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Cumulative loss on the settlement bond forward derivative hedge instrument
+0
+
+0
+
+1,032
+
+Cash Flow Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment Income
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Cumulative loss on the settlement bond forward derivative hedge instrument
+(6,043)
+
+(1,381)
+
+0
+
+Net Investment Hedges | Derivatives Designated as Hedge Accounting Instruments:
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI (loss) gain on cash flow hedges
+(25,344)
+
+Net Investment Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses)
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on net investment hedges
+0
+
+Net Investment Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment Income
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on net investment hedges
+1,388
+
+Interest Rate Contracts | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+(569,315)
+
+Interest Rate Contracts | Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Policy Benefits and Claims
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on derivatives designated as hedge instruments
+(108,622)
+
+(53,870)
+
+(382,376)
+
+Gains (losses) on hedged items
+108,622
+
+53,870
+
+382,376
+
+Interest Rate Contracts | Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments: | Interest Expense
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on derivatives designated as hedge instruments
+(134,580)
+
+(20,410)
+
+(177,855)
+
+Gains (losses) on hedged items
+134,580
+
+20,410
+
+177,855
+
+Interest Rate Contracts | Cash Flow Hedges | Derivatives Designated as Hedge Accounting Instruments:
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI (loss) gain on cash flow hedges
+(183,626)
+
+33,446
+
+(169,785)
+
+Interest Rate Contracts | Cash Flow Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses)
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Cumulative loss on the settlement bond forward derivative hedge instrument
+0
+
+0
+
+1,032
+
+Interest Rate Contracts | Cash Flow Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment Income
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Cumulative loss on the settlement bond forward derivative hedge instrument
+(6,043)
+
+(1,381)
+
+0
+
+Foreign Exchange Contracts and Options | Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments:
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI impact of fair value hedges
+(10,977)
+
+9,119
+
+(6,784)
+
+Foreign Exchange Contracts and Options | Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses)
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on derivatives designated as hedge instruments
+119,618
+
+(88,384)
+
+64,945
+
+Gains (losses) on hedged items
+(117,318)
+
+80,210
+
+(61,785)
+
+Amortization for gains (losses) excluded from assessment of effectiveness
+20,145
+
+28,345
+
+14,737
+
+Foreign Exchange Contracts and Options | Fair Value Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment Income
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on derivatives designated as hedge instruments
+4,551
+
+0
+
+0
+
+Gain (Loss) On Derivatives | Net Investment Hedges | Derivatives Designated as Hedge Accounting Instruments:
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI (loss) gain on cash flow hedges
+(25,344)
+
+Gain (Loss) On Derivatives | Net Investment Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses)
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on net investment hedges
+0
+
+Gain (Loss) On Derivatives | Net Investment Hedges | Derivatives Designated as Hedge Accounting Instruments: | Net Investment Income
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Gains (losses) on net investment hedges
+1,388
+
+Embedded Derivatives - Funds Withheld Receivable | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+37,226
+
+75,876
+
+(29,390)
+
+Embedded Derivatives - Funds Withheld Payable | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+350,241
+
+(1,040,463)
+
+3,448,710
+
+Equity Index Options | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+567,543
+
+482,121
+
+(895,602)
+
+Equity Future Contracts | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+(87,484)
+
+(116,766)
+
+167,924
+
+Foreign Exchange and Other Derivative Contracts | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+$ 99,271
+
+Other | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+
+(280)
+
+(29,779)
+
+Interest Rate and Foreign Exchange Contracts | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+
+$ (101,376)
+
+(333,937)
+
+Credit Risk Contracts | Derivatives Not Designated as Hedge Accounting Instruments: | Net Investment-Related Gains (Losses) | Insurance
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivative gains (losses)
+
+$ (108)
+
+X
+
+- DefinitionAmount of gain (loss) from the increase (decrease) in fair value of derivative and nonderivative instruments designated as fair value hedging instruments recognized in the income statement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 25
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480238/815-25-50-1
+
++ Details
+
+ Name:
+us-gaap_ChangeInUnrealizedGainLossOnFairValueHedgingInstruments1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of the increase (decrease) in fair value of the hedged item in a fair value hedge recognized in the income statement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 25
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480238/815-25-50-1
+
++ Details
+
+ Name:
+us-gaap_ChangeInUnrealizedGainLossOnHedgedItemInFairValueHedge1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAggregate net gain (loss) on all derivative instruments recognized in earnings during the period, before tax effects.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_GainLossOnDerivativeInstrumentsNetPretax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTotal amount of gain (loss) derived from fair value hedges recognized in earnings in the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
++ Details
+
+ Name:
+us-gaap_GainLossOnFairValueHedgesRecognizedInEarnings
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax and reclassification, of gain (loss) from derivative instrument designated and qualifying cash flow hedge included in assessment of hedge effectiveness.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-11
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480627/815-20-45-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-10A
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax, of reclassification of gain (loss) from accumulated other comprehensive income (AOCI) for derivative instrument designated and qualifying as cash flow hedge included in assessment of hedge effectiveness.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-11
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-15
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (c)
+ -SubTopic 10
+ -Topic 815
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax, of adjustments from accumulated other comprehensive income (AOCI) for gain (loss) from increase (decrease) in value of excluded component of derivative designated and qualifying as hedge. Adjustments include, but are not limited to, reclassifications for sale and settlement, and amounts recognized under systematic and rational method.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-11
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-15
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10A
+ -Subparagraph (dd)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-10A
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAdjustmentsBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax and after adjustments, of gain (loss) from increase (decrease) in value of excluded component of derivative designated and qualifying as hedge. Adjustments include, but are not limited to, reclassifications for sale and settlement, and amounts recognized under systematic and rational method.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(19))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10A
+ -Subparagraph (dd)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-10A
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (bb)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax and adjustments, of gain (loss) from increase (decrease) in value of excluded component of derivative designated and qualifying as hedge. Adjustments include, but are not limited to, reclassifications for sale and settlement, and amounts recognized under systematic and rational method.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-11
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480627/815-20-45-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10A
+ -Subparagraph (dd)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-10A
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (bb)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4CCC
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4CCC
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseBeforeAdjustmentsAndTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax and reclassification, of gain (loss) from derivative designated and qualifying as net investment hedge.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4CCC
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4CCC
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossNetInvestmentHedgeGainLossBeforeReclassificationAndTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_HedgingDesignationAxis=us-gaap_NondesignatedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeStatementLocationAxis=kkr_GainLossOnInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeStatementLocationAxis=kkr_InvestmentIncomeLossMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=us-gaap_FairValueHedgingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_HedgingDesignationAxis=us-gaap_DesignatedAsHedgingInstrumentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeStatementLocationAxis=kkr_BenefitsLossesAndExpensesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeStatementLocationAxis=us-gaap_InterestExpenseMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=us-gaap_CashFlowHedgingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=us-gaap_NetInvestmentHedgingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeForwardMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=kkr_GainLossOnDerivativesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=kkr_FundsWithheldReceivableEmbeddedDerivativesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=kkr_FundsWithheldPayableEmbeddedDerivativesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_EquityContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_FutureMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=kkr_ForeignExchangeAndOtherContractsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_OtherContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=kkr_InterestRateAndForeignExchangeContractsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=kkr_CreditRiskContractsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

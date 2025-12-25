@@ -1,0 +1,111 @@
+XML
+48
+R18.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Goodwill
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Goodwill and Intangible Assets Disclosure [Abstract]
+
+Goodwill
+10. Goodwill
+
+The following table presents Apollo s goodwill by segment:
+
+(In millions) December 31, 2024 December 31, 2023
+Asset Management $ 232 $ 232
+Retirement Services1
+ 4,063 4,065
+Principal Investing 32 32
+Total Goodwill $ 4,327 $ 4,329
+
+1 Includes the impacts of foreign currency translation.
+
+On January 1, 2022, the Company completed the previously announced merger transactions with Athene. In connection with the completion of the Mergers, the Company recognized goodwill of $4.1 billion as of the Merger Date. See note 3 for further disclosure regarding the goodwill recorded as a result of the Mergers.
+
+In connection with the completion of the Mergers, the Company undertook a strategic review of its operating structure and business segments to assess the performance of its businesses and the allocation of resources. As a result, the Company reorganized into three reportable segments: Asset Management, Retirement Services, and Principal Investing. The Company conducted interim impairment testing immediately prior to and subsequent to the reorganization and determined there to be no impairment of historical goodwill.
+
+Apollo acquired Griffin Capital s U.S. wealth distribution business and U.S. asset management business in two separate closings on March 1, 2022 and May 3, 2022 and recorded goodwill of $13 million and $134 million, respectively, on each acquisition date. All of the goodwill associated with the Griffin Capital acquisitions is included within the Asset Management segment.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for goodwill.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_GoodwillDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

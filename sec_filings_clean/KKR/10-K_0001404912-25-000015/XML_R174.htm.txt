@@ -1,0 +1,799 @@
+XML
+196
+R174.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SEGMENT REPORTING - Reconciliation to Total Segment Expenses (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting Information [Line Items]
+
+Total GAAP Expenses
+$ 20,985,860
+
+$ 12,358,605
+
+$ 5,997,816
+
+Equity-based Compensation
+746,443
+
+618,469
+
+730,236
+
+Net Premiums
+(7,898,834)
+
+(1,975,675)
+
+(1,182,461)
+
+Impact of Consolidation and Other
+
+Segment Reporting Information [Line Items]
+
+Total GAAP Expenses
+(448,776)
+
+(392,778)
+
+(252,829)
+
+Operating Segments
+
+Segment Reporting Information [Line Items]
+
+Total Segment Expenses
+8,105,262
+
+6,319,768
+
+5,781,670
+
+Operating Segments | KKR Holdings Units
+
+Segment Reporting Information [Line Items]
+
+Equity-based Compensation
+0
+
+0
+
+(119,834)
+
+Asset Management
+
+Segment Reporting Information [Line Items]
+
+Equity-based Compensation
+611,644
+
+502,816
+
+569,518
+
+Transaction-related and Non-operating Items
+122,009
+
+31,805
+
+94,629
+
+Asset Management | Operating Segments
+
+Segment Reporting Information [Line Items]
+
+Equity-based Compensation
+611,644
+
+502,816
+
+449,685
+
+Unrealized Carried Interest Compensation
+(1,505,558)
+
+(792,758)
+
+1,753,396
+
+Reimbursable Expenses
+(152,726)
+
+(75,687)
+
+(102,927)
+
+Capstone Expenses
+(81,280)
+
+(77,642)
+
+(81,746)
+
+Transaction-related and Non-operating Items
+122,009
+
+31,805
+
+53,919
+
+Insurance
+
+Segment Reporting Information [Line Items]
+
+Total GAAP Expenses
+15,226,106
+
+8,195,628
+
+3,782,331
+
+Equity-based Compensation
+134,799
+
+115,653
+
+160,718
+
+Net Premiums
+(7,898,834)
+
+(1,975,675)
+
+(1,182,461)
+
+Policy Fees
+(1,377,686)
+
+(1,260,249)
+
+(1,261,721)
+
+Other Income
+(238,410)
+
+(176,442)
+
+(139,124)
+
+Amortization of Intangibles
+(19,100)
+
+(17,600)
+
+(17,600)
+
+Transaction-related and Non-operating Items
+20,615
+
+7,347
+
+15,215
+
+Insurance | Operating Segments
+
+Segment Reporting Information [Line Items]
+
+Equity-based Compensation
+134,799
+
+115,653
+
+160,718
+
+Net Premiums
+(7,898,834)
+
+(1,975,675)
+
+(1,182,461)
+
+Policy Fees
+(1,377,686)
+
+(1,260,249)
+
+(1,261,721)
+
+Other Income
+(238,410)
+
+(176,442)
+
+(139,124)
+
+Non-Operating Changes in Policy Liabilities
+(270,326)
+
+(608,081)
+
+1,877,814
+
+Amortization of Intangibles
+(17,935)
+
+(17,647)
+
+(17,647)
+
+Transaction-related and Non-operating Items
+$ 20,615
+
+$ 11,604
+
+$ 24,745
+
+X
+
+- DefinitionNonoperating Changes In Policy Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_NonoperatingChangesInPolicyLiabilities
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicy Fee Income
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyFeeIncome
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionReimbursable Expenses
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ReimbursableExpenses
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSegment Expenses
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_SegmentExpenses
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTransaction Related And Nonoperating Charges
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_TransactionRelatedAndNonoperatingCharges
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUnrealized Carried Interest Compensation
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_UnrealizedCarriedInterestCompensation
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense for award under share-based payment arrangement. Excludes amount capitalized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 14.F)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479830/718-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(1)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AllocatedShareBasedCompensationExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe aggregate expense charged against earnings to allocate the cost of intangible assets (nonphysical assets not used in production) in a systematic and rational manner to the periods expected to benefit from such assets. As a noncash expense, this element is added back to net income when calculating cash provided by or used in operations using the indirect method.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482640/350-30-55-40
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482686/350-30-45-2
+
++ Details
+
+ Name:
+us-gaap_AmortizationOfIntangibleAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTotal aggregate amount of all noninterest expense.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(14))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_NoninterestExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of revenue and income classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 6
+ -Subparagraph (SX 210.12-14(Column E)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 6
+ -Subparagraph (SX 210.12-14(Column E)(Footnote 4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 6
+ -Subparagraph (SX 210.12-14(Column E)(Footnote 6)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-6
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(1)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after premiums ceded to other entities and premiums assumed by the entity, of premiums earned.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(13)(c))
+ -SubTopic 220
+ -Topic 942
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(1))
+ -SubTopic 220
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_PremiumsEarnedNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA fee charged for services from professionals such as doctors, lawyers and accountants. The term is often expanded to include other professions, for example, pharmacists charging to maintain a medicinal profile of a client or customer.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-10
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Subparagraph (k)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479105/946-220-45-3
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_ProfessionalFees
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=kkr_EliminationsAndReconcilingItemsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=kkr_KKRHoldingsUnitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

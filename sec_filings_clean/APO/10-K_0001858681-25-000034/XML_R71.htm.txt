@@ -1,0 +1,805 @@
+XML
+101
+R71.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Allowance for Credit Losses (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+$ 591
+
+$ 459
+
+Initial credit losses
+118
+
+155
+
+Initial credit losses on PCD securities
+0
+
+53
+
+Securities sold during the period
+(41)
+
+(55)
+
+Securities intended to be sold prior to recovery of amortized cost basis
+0
+
+(15)
+
+Additions (reductions) to previously impaired securities
+41
+
+(6)
+
+Ending balance
+709
+
+591
+
+Nonrelated Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+590
+
+458
+
+Initial credit losses
+118
+
+154
+
+Initial credit losses on PCD securities
+0
+
+53
+
+Securities sold during the period
+(41)
+
+(55)
+
+Securities intended to be sold prior to recovery of amortized cost basis
+0
+
+(15)
+
+Additions (reductions) to previously impaired securities
+41
+
+(5)
+
+Ending balance
+708
+
+590
+
+Related Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+1
+
+1
+
+Initial credit losses
+
+1
+
+Initial credit losses on PCD securities
+
+0
+
+Securities sold during the period
+
+0
+
+Securities intended to be sold prior to recovery of amortized cost basis
+
+0
+
+Additions (reductions) to previously impaired securities
+
+(1)
+
+Ending balance
+1
+
+1
+
+Foreign governments | Nonrelated Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+0
+
+27
+
+Initial credit losses
+
+0
+
+Initial credit losses on PCD securities
+
+0
+
+Securities sold during the period
+
+(27)
+
+Securities intended to be sold prior to recovery of amortized cost basis
+
+0
+
+Additions (reductions) to previously impaired securities
+
+0
+
+Ending balance
+0
+
+0
+
+Corporate | Nonrelated Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+129
+
+61
+
+Initial credit losses
+48
+
+88
+
+Initial credit losses on PCD securities
+0
+
+0
+
+Securities sold during the period
+(8)
+
+(8)
+
+Securities intended to be sold prior to recovery of amortized cost basis
+0
+
+(15)
+
+Additions (reductions) to previously impaired securities
+6
+
+3
+
+Ending balance
+175
+
+129
+
+Corporate | Related Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+0
+
+Ending balance
+0
+
+0
+
+CLO | Nonrelated Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+2
+
+7
+
+Initial credit losses
+1
+
+1
+
+Initial credit losses on PCD securities
+0
+
+0
+
+Securities sold during the period
+0
+
+0
+
+Securities intended to be sold prior to recovery of amortized cost basis
+0
+
+0
+
+Additions (reductions) to previously impaired securities
+(3)
+
+(6)
+
+Ending balance
+0
+
+2
+
+CLO | Related Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+0
+
+1
+
+Initial credit losses
+
+0
+
+Initial credit losses on PCD securities
+
+0
+
+Securities sold during the period
+
+0
+
+Securities intended to be sold prior to recovery of amortized cost basis
+
+0
+
+Additions (reductions) to previously impaired securities
+
+(1)
+
+Ending balance
+0
+
+0
+
+ABS | Nonrelated Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+49
+
+29
+
+Initial credit losses
+25
+
+23
+
+Initial credit losses on PCD securities
+0
+
+0
+
+Securities sold during the period
+(16)
+
+(4)
+
+Securities intended to be sold prior to recovery of amortized cost basis
+0
+
+0
+
+Additions (reductions) to previously impaired securities
+18
+
+1
+
+Ending balance
+76
+
+49
+
+ABS | Related Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+1
+
+0
+
+Initial credit losses
+0
+
+1
+
+Initial credit losses on PCD securities
+0
+
+0
+
+Securities sold during the period
+0
+
+0
+
+Securities intended to be sold prior to recovery of amortized cost basis
+0
+
+0
+
+Additions (reductions) to previously impaired securities
+0
+
+0
+
+Ending balance
+1
+
+1
+
+CMBS | Nonrelated Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+29
+
+5
+
+Initial credit losses
+27
+
+26
+
+Initial credit losses on PCD securities
+0
+
+0
+
+Securities sold during the period
+0
+
+0
+
+Securities intended to be sold prior to recovery of amortized cost basis
+0
+
+0
+
+Additions (reductions) to previously impaired securities
+4
+
+(2)
+
+Ending balance
+60
+
+29
+
+RMBS | Nonrelated Party
+
+Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+Beginning balance
+381
+
+329
+
+Initial credit losses
+17
+
+16
+
+Initial credit losses on PCD securities
+0
+
+53
+
+Securities sold during the period
+(17)
+
+(16)
+
+Securities intended to be sold prior to recovery of amortized cost basis
+0
+
+0
+
+Additions (reductions) to previously impaired securities
+16
+
+(1)
+
+Ending balance
+$ 397
+
+$ 381
+
+X
+
+- DefinitionAmount of allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aaa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479130/326-30-45-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of expense for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), for which no credit loss was previously recorded.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLossNotPreviouslyRecorded
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense (reversal of expense) for allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), not intended to be sold and not more likely than not will be required to sell before recovery of amortized cost basis, with previously recorded allowance.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLossNotToSellBeforeRecoveryCreditLossPreviouslyRecordedExpenseReversal
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale) and beneficial interest, purchased with credit deterioration.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLossPurchasedWithCreditDeteriorationIncrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLossRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of decrease in allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale) from sale.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLossSecuritiesSold
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of decrease in allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale) from intent to sell or more likely than not will be required to sell before recovery of amortized cost basis.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLossSellBeforeRecovery
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_NonrelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ForeignGovernmentDebtMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_AssetBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CommercialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ResidentialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

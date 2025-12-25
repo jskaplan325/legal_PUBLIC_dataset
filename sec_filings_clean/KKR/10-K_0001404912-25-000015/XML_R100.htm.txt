@@ -1,0 +1,284 @@
+XML
+122
+R100.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DERIVATIVES - Narrative (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Restricted cash held with open derivative transactions with exchange brokers
+$ 135.7
+
+$ 133.0
+
+Gain (loss) on net investment hedges
+(25.3)
+
+Fixed Maturity Securities
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Amortized cost
+2,100.0
+
+2,300.0
+
+Bond Forward
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI gain (loss) on cash flow hedges
+(249.7)
+
+$ (126.9)
+
+Interest Rate Swap
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+AOCI gain (loss) on cash flow hedges
+$ (60.8)
+
+X
+
+- DefinitionDerivative Instrument, Restricted Cash Held With Open Transactions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DerivativeInstrumentRestrictedCashHeldWithOpenTransactions
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of asset hedged in fair value hedging relationship.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 181
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480401/815-10-55-181
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4EE
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4EE
+
++ Details
+
+ Name:
+us-gaap_HedgedAssetFairValueHedge
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before tax and reclassification, of gain (loss) from derivative instrument designated and qualifying cash flow hedge included in assessment of hedge effectiveness.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-11
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480627/815-20-45-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-10A
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax and reclassification, of gain (loss) from derivative designated and qualifying as net investment hedge.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4CCC
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4CCC
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossNetInvestmentHedgeGainLossBeforeReclassificationAndTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_DebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForwardContractsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateSwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

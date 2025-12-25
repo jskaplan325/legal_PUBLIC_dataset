@@ -1,0 +1,381 @@
+XML
+89
+R59.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Merger with Athene - Narrative (Details)
+ $ in Millions
+
+12 Months Ended
+
+Jan. 01, 2022
+
+USD ($)
+
+Dec. 31, 2022
+
+USD ($)
+
+Dec. 31, 2024
+
+USD ($)
+
+Dec. 31, 2023
+
+USD ($)
+
+Business Acquisition [Line Items]
+
+Goodwill attributable to Athene
+
+$ 4,327
+
+$ 4,329
+
+Athene Holding Limited
+
+Business Acquisition [Line Items]
+
+Exchange ratio
+1.149
+
+Goodwill attributable to Athene
+$ 4,073
+
+Decrease in goodwill as a result of measurement period adjustment
+
+$ 108
+
+Measurement period adjustments
+
+25
+
+Decrease in valuation of investment
+
+83
+
+Revenues of acquiree since acquisition
+
+8,199
+
+Net income (loss) of acquiree since acquisition
+
+$ (2,166)
+
+X
+
+- DefinitionBusiness Combination, Exchange Ratio
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationExchangeRatio
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:pureItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Provisional Information, Initial Accounting Incomplete, Adjustment, Goodwill
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentGoodwill
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Provisional Information, Initial Accounting Incomplete, Adjustments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustments
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-5
+
++ Details
+
+ Name:
+us-gaap_BusinessAcquisitionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThis element represents the amount of earnings or loss of the acquiree since the acquisition date included in the consolidated income statement for the reporting period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationProFormaInformationEarningsOrLossOfAcquireeSinceAcquisitionDateActual
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThis element represents the amount of revenue of the acquiree since the acquisition date included in the consolidated income statement for the reporting period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationProFormaInformationRevenueOfAcquireeSinceAcquisitionDateActual
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThis element represents the amount of any measurement period adjustment (as defined) realized during the reporting period to financial assets acquired in connection with a business combination for which the initial accounting was incomplete.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-4A
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationProvisionalInformationInitialAccountingIncompleteAdjustmentFinancialAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after accumulated impairment loss, of asset representing future economic benefit arising from other asset acquired in business combination or from joint venture formation or both, that is not individually identified and separately recognized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 852
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481372/852-10-55-10
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482598/350-20-45-1
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(10)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_Goodwill
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=apo_AtheneHoldingLimitedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

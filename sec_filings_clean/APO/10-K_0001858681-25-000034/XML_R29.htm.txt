@@ -1,0 +1,482 @@
+XML
+59
+R29.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Segments
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Segment Reporting [Abstract]
+
+Segments
+21. Segments
+
+The Company conducts its business through three reportable segments: (i) Asset Management, (ii) Retirement Services and (iii) Principal Investing. Segment information is utilized by the Company s chief operating decision maker ( CODM ) to assess performance and to allocate resources. AGM s CEO is the CODM, who is also solely responsible for decisions related to the allocation of resources on a company-wide basis.
+
+For each segment, the CODM uses the key measure of Segment Income to allocate resources (including employees, financial or capital resources) to that segment in the annual budget and forecasting process. The performance is measured by the Company s chief operating decision maker on an unconsolidated basis because the chief operating decision maker makes operating decisions and assesses the performance of each of the Company s business segments based on financial and operating metrics and data that exclude the effects of consolidation of any of the affiliated funds.
+Segment Income
+
+Segment Income is the key performance measure used by management in evaluating the performance of the asset management, retirement services, and principal investing segments. Management uses Segment Income to make key operating decisions such as the following:
+
+ decisions related to the allocation of resources such as staffing decisions, including hiring and locations for deployment of the new hires;
+ decisions related to capital deployment such as providing capital to facilitate growth for the business and/or to facilitate expansion into new businesses;
+ decisions related to expenses, such as determining annual discretionary bonuses and equity-based compensation awards to its employees. With respect to compensation, management seeks to align the interests of certain professionals and selected other individuals with those of the investors in the funds and those of Apollo s stockholders by providing such individuals a profit sharing interest in the performance fees earned in relation to the funds. To achieve that objective, a certain amount of compensation is based on Apollo s performance and growth for the year; and
+ decisions related to the amount of earnings available for dividends to common stockholders and holders of equity-based awards that participate in dividends.
+
+Segment Income is a measure of profitability and has certain limitations in that it does not take into account certain items included under U.S. GAAP. Segment Income is the sum of (i) Fee Related Earnings, (ii) Spread Related Earnings and (iii) Principal Investing Income. Segment Income excludes the effects of the consolidation of any of the related funds and SPACs, interest and other financing costs related to AGM not attributable to any specific segment, taxes and related payables, transaction-related charges and any acquisitions. Transaction-related charges includes equity-based compensation charges, the amortization of intangible assets, contingent consideration, and certain other charges associated with acquisitions, and restructuring charges. In addition, Segment Income excludes non-cash revenue and expense related to equity awards granted by unconsolidated related parties to employees of the Company, compensation and administrative related expense reimbursements, as well as the assets, liabilities and operating results of the funds and VIEs that are included in the consolidated financial statements.
+
+Segment Income may not be comparable to similarly titled measures used by other companies and is not a measure of performance calculated in accordance with U.S. GAAP. We use Segment Income as a measure of operating performance, not as a measure of liquidity. Segment Income should not be considered in isolation or as a substitute for net income or other income data prepared in accordance with U.S. GAAP. The use of Segment Income without consideration of related U.S. GAAP measures is not adequate due to the adjustments described above. Management compensates for these limitations by using Segment Income as a supplemental measure to U.S. GAAP results, to provide a more complete understanding of our performance as management measures it. A reconciliation of Segment Income to its most directly comparable U.S. GAAP measure of income (loss) before income tax provision can be found in this footnote.
+
+Fee Related Earnings
+
+Fee Related Earnings ( FRE ) is a component of Segment Income that is used to assess the performance of the Asset Management segment. FRE is the sum of (i) management fees, (ii) capital solutions and other related fees, (iii) fee-related performance fees from indefinite term vehicles, that are measured and received on a recurring basis and not dependent on realization events of the underlying investments, excluding performance fees from Athene and performance fees from origination platforms dependent on capital appreciation, and (iv) other income, net, less (a) fee-related compensation, excluding equity-based compensation, (b) non-compensation expenses incurred in the normal course of business, (c) placement fees and (d) non-controlling interests in the management companies of certain funds the Company manages.
+
+Spread Related Earnings
+
+Spread Related Earnings ( SRE ) is a component of Segment Income that is used to assess the performance of the Retirement Services segment, excluding certain market volatility, which consists of investment gains (losses), net of offsets, and non-operating change in insurance liabilities and related derivatives, and certain expenses related to integration, restructuring, equity-based compensation, and other expenses. For the Retirement Services segment, SRE equals the sum of (i) the net
+investment earnings on Athene s net invested assets and (ii) management fees received on business managed for others, less (x) cost of funds, (y) operating expenses excluding equity-based compensation and (z) financing costs, including interest expense and preferred dividends, if any, paid to Athene preferred stockholders.
+
+Principal Investing Income
+
+Principal Investing Income ( PII ) is a component of Segment Income that is used to assess the performance of the Principal Investing segment. For the Principal Investing segment, PII is the sum of (i) realized performance fees, including certain realizations received in the form of equity, and (ii) realized investment income, less (x) realized principal investing compensation expense, excluding expense related to equity-based compensation, and (y) certain corporate compensation and non-compensation expenses.
+
+The following presents financial data for the Company s reportable segments.
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Asset Management
+
+Management fees1
+ $ 2,776 $ 2,480 $ 2,134
+Capital solutions fees and other, net 668 538 414
+Fee-related performance fee 208 146 72
+Fee-related compensation (925) (835) (754)
+Other operating expenses (664) (561) (456)
+Fee Related Earnings 2,063 1,768 1,410
+
+Retirement Services
+Fixed income and other net investment income 10,805 8,739 5,706
+Alternative net investment income 939 864 1,206
+Strategic capital management fees 105 72 53
+Cost of funds (7,702) (5,650) (3,755)
+Other operating expenses (458) (481) (462)
+Interest and other financing costs (465) (436) (279)
+Spread Related Earnings 3,224 3,108 2,469
+
+Principal Investing
+Realized performance fees2
+ 921 742 595
+Realized investment income 74 (2) 330
+Principal investing compensation (664) (601) (585)
+Other operating expenses (60) (56) (56)
+Principal Investing Income 271 83 284
+
+Segment Income $ 5,558 $ 4,959 $ 4,163
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Segment Revenue
+Asset Management1
+ $ 3,652 $ 3,164 $ 2,620
+Retirement Services 11,849 9,675 6,965
+Principal Investing2
+ 995 740 925
+Total Segment Revenue $ 16,496 $ 13,579 $ 10,510
+
+Segment Assets December 31, 2024 December 31, 2023
+Asset Management $ 2,286 $ 1,938
+Retirement Services 355,683 294,730
+Principal Investing 10,473 9,573
+Total Assets $ 368,442 $ 306,241
+
+1 Includes intersegment management fees from Retirement Services of $1,223 million, $955 million and $764 million for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+2 Includes intersegment realized performance fees from Retirement Services of $30 million and $20 million for the years ended December 31, 2024 and 2023, respectively.
+
+The following presents the reconciliation of Segment Income and Segment Revenue to income (loss) before income tax (provision) benefit and total revenues reported in the consolidated statements of operations:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Segment Income $ 5,558 $ 4,959 $ 4,163
+Asset Management Adjustments:
+
+Equity-based profit sharing expense and other1,6
+ (321) (239) (276)
+Equity-based compensation (308) (236) (185)
+Special equity-based compensation and other charges (438)
+
+Transaction-related charges2
+ (180) (32) 42
+Merger-related transaction and integration costs3
+ (30) (27) (70)
+Gains (losses) from change in tax receivable agreement liability 42 (13) (26)
+Net income (loss) attributable to non-controlling interests in consolidated entities 1,840 1,556 (1,499)
+Unrealized performance fees6
+ 264 127 2
+Unrealized profit sharing expense6
+ (145) (179) (20)
+
+HoldCo interest and other financing costs4
+ (80) (88) (122)
+Unrealized principal investment (income) loss6
+ (9) 88 (176)
+Unrealized net gains (losses) from investment activities and other6
+ 30 (26) 144
+Retirement Services Adjustments:
+Investment gains (losses), net of offsets 217 170 (7,467)
+Non-operating change in insurance liabilities and related derivatives5
+ 846 182 1,433
+Integration, restructuring and other non-operating expenses (239) (130) (133)
+Equity-based compensation (50) (88) (56)
+Income (loss) before income tax (provision) benefit $ 7,435 $ 5,586 $ (4,246)
+
+1 Equity-based profit sharing expense and other includes certain profit sharing arrangements in which a portion of performance fees distributed to the general partner are required to be used by employees of Apollo to purchase restricted shares of common stock or is delivered in the form of RSUs, which are granted under the Equity Plan. Equity-based profit sharing expense and other also includes performance grants which are tied to the Company s receipt of performance fees, within prescribed periods, sufficient to cover the associated equity-based compensation expense.
+
+2 Transaction-related charges include contingent consideration, equity-based compensation charges and the amortization of intangible assets and certain other charges associated with acquisitions, and restructuring charges.
+
+3 Merger-related transaction and integration costs includes advisory services, technology integration, equity-based compensation charges and other costs associated with the Mergers.
+
+4 Represents interest and other financing costs related to AGM not attributable to any specific segment.
+
+5 Includes change in fair values of derivatives and embedded derivatives, non-operating change in funding agreements, change in fair value of market risk benefits, and non-operating change in liability for future policy benefits.
+
+6 Represents adjustments that primarily impact the Principal Investing segment.
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Segment Revenues $ 16,496 $ 13,579 $ 10,510
+Asset Management Adjustments:
+
+Adjustments related to consolidated funds and VIEs1
+ 525 362 (364)
+Performance fees2
+ 273 126 (2)
+Principal investment income (loss)2
+ 7 102 (136)
+Equity awards granted by unconsolidated related parties, reimbursable expenses and other1
+ 479 331 199
+Retirement Services Adjustments:
+Premiums, product charges, investment related gains (losses) and other retirement services revenue3
+ 4,398 15,616 (378)
+Change in fair value of reinsurance assets 129 (86) (333)
+Forward points adjustment on FX derivative hedges (133) (187) (125)
+Held-for-trading amortization 108 191 228
+Reinsurance impacts 223 264 41
+ACRA non-controlling interests on net investment earnings 3,864 2,377 1,505
+Other retirement services adjustments (255) (31) (177)
+Total Revenues $ 26,114 $ 32,644 $ 10,968
+
+1 Represents advisory fees, management fees and performance fees earned from consolidated VIEs which are eliminated in consolidation. Includes non-cash
+revenues related to equity awards granted by unconsolidated related parties to employees of the Company and certain compensation and administrative related expense reimbursements.
+
+2 Represents adjustments that primarily impact the Principal Investing segment.
+
+3 Refer to the consolidated statement of operations for breakout of individual items.
+
+The following table presents the reconciliation of the Company s total reportable segment assets to total assets:
+
+(In millions) December 31, 2024 December 31, 2023
+Total reportable segment assets $ 368,442 $ 306,241
+Adjustments1
+ 9,453 7,247
+Total assets $ 377,895 $ 313,488
+
+1 Represents the addition of assets of consolidated funds and VIEs and consolidation elimination adjustments.
+
+Geographic Information
+
+The Company conducts its asset management business primarily in the United States with domestically generated revenues making up 58%, 66% and 57% of total asset management GAAP revenues for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+The table below presents the percentage of total asset management GAAP revenues generated from external customers attributed to the Company s region of domicile and attributed to all foreign regions which the public entity derives its revenues. Revenues attributed to a geographic region are generally based on the country of domicile of the Apollo funds.
+
+ Years ended December 31,
+ 2024 2023 2022
+Asset Management
+Americas 88 % 91 % 86 %
+Europe, Middle East and Africa 11 8 12
+Asia-Pacific 1 1 2
+ 100 % 100 % 100 %
+
+The Company conducts its retirement services business through entities domiciled in the U.S. and Bermuda and its retirement services GAAP revenues are similarly generated primarily in the U.S. and Bermuda.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for reporting segments including data and tables. Reportable segments include those that meet any of the following quantitative thresholds a) it's reported revenue, including sales to external customers and intersegment sales or transfers is 10 percent or more of the combined revenue, internal and external, of all operating segments b) the absolute amount of its reported profit or loss is 10 percent or more of the greater, in absolute amount of 1) the combined reported profit of all operating segments that did not report a loss or 2) the combined reported loss of all operating segments that did report a loss c) its assets are 10 percent or more of the combined assets of all operating segments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 54
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-54
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 47
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-47
+
+Reference 8: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 54
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-54
+
+Reference 9: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 47
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-47
+
+Reference 10: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 54
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-54
+
+Reference 11: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 47
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-47
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-31
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 34
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-34
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 26C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-26C
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 26B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-26B
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-15
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/280/tableOfContent
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 26
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-26
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 21
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-21
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 21
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-21
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

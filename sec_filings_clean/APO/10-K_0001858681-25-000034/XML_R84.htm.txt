@@ -1,0 +1,360 @@
+XML
+114
+R84.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Derivatives - Schedule of Carrying Amount and the Cumulative Fair Value Hedging Adjustments (Details) - Fair Value Hedging - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Foreign currency swaps | Interest sensitive contract liabilities
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Carrying amount of the hedged liabilities
+$ 2,426
+
+$ 1,438
+
+Cumulative amount of fair value hedging gains (losses) on liabilities
+130
+
+19
+
+Foreign currency interest rate swaps | Interest sensitive contract liabilities
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Carrying amount of the hedged liabilities
+3,946
+
+4,010
+
+Cumulative amount of fair value hedging gains (losses) on liabilities
+488
+
+363
+
+Interest rate swaps | Interest sensitive contract liabilities
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Carrying amount of the hedged liabilities
+17,873
+
+6,910
+
+Cumulative amount of fair value hedging gains (losses) on liabilities
+130
+
+189
+
+AFS securities | Foreign currency forwards
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Carrying amount of the hedged assets
+3,790
+
+4,883
+
+Cumulative amount of fair value hedging gains (losses) on assets
+(258)
+
+(15)
+
+AFS securities | Foreign currency swaps
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Carrying amount of the hedged assets
+12,517
+
+6,820
+
+Cumulative amount of fair value hedging gains (losses) on assets
+$ (842)
+
+$ (141)
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of asset hedged in fair value hedging relationship.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 181
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480401/815-10-55-181
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4EE
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4EE
+
++ Details
+
+ Name:
+us-gaap_HedgedAssetFairValueHedge
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in fair value of hedged asset in fair value hedge, attributable to hedged risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 181
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480401/815-10-55-181
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4EE
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4EE
+
++ Details
+
+ Name:
+us-gaap_HedgedAssetFairValueHedgeCumulativeIncreaseDecrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of liability hedged in fair value hedging relationship.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4EE
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4EE
+
++ Details
+
+ Name:
+us-gaap_HedgedLiabilityFairValueHedge
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in fair value of hedged liability in fair value hedge, attributable to hedged risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4EE
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4EE
+
++ Details
+
+ Name:
+us-gaap_HedgedLiabilityFairValueHedgeCumulativeIncreaseDecrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CurrencySwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=us-gaap_FairValueHedgingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=apo_InterestSensitiveContractLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CrossCurrencyInterestRateContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateSwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_DebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeForwardMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

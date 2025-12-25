@@ -1,0 +1,737 @@
+XML
+118
+R46.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+GOODWILL AND INTANGIBLE ASSETS - Narrative (Details) - USD ($)
+
+3 Months Ended
+12 Months Ended
+
+Dec. 01, 2024
+
+Mar. 31, 2024
+
+Dec. 31, 2023
+
+Mar. 31, 2023
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Impairment Of Intangible Asset Finite Lived, Statement Of Income Or Comprehensive Income, Extensible Enumeration Not Disclosed Flag
+
+non-cash impairment charge
+
+Amortization expense
+
+$ 116,300,000
+
+$ 126,000,000.0
+
+$ 133,600,000
+
+Purchase price allocated to goodwill
+
+39,696,000
+
+124,414,000
+
+Reallocation
+
+0
+
+0
+
+Goodwill impairment
+
+0
+
+0
+
+Secondaries Group
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Non-cash impairment charges
+
+$ 181,600,000
+
+Purchase price allocated to goodwill
+
+0
+
+0
+
+Reallocation
+
+0
+
+0
+
+From Private Equity Group To Credit Group
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Reallocation
+
+$ 55,700,000
+
+Credit Group
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Purchase price allocated to goodwill
+
+0
+
+0
+
+Reallocation
+
+$ 224,600,000
+
+55,658,000
+
+224,587,000
+
+Management contracts
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Fully amortized intangibles, amount removed during the period
+
+47,500,000
+
+Management contracts | Credit Group, Real Assets Group and Secondaries Group
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Non-cash impairment charges
+
+8,900,000
+
+Client relationships | Secondaries Group
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Non-cash impairment charges
+
+$ 78,700,000
+
+Walton Street Capital Mexico
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Purchase price allocated to goodwill
+
+$ 28,400,000
+
+Walton Street Capital Mexico | Management contracts
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Finite-lived intangible assets acquired
+$ 27,000,000
+
+Acquired finite lived intangible assets useful life
+6 years 8 months 12 days
+
+Walton Street Capital Mexico | Client relationships
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Finite-lived intangible assets acquired
+$ 9,800,000
+
+Acquired finite lived intangible assets useful life
+10 years
+
+Crescent Point Capital
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Purchase price allocated to goodwill
+
+$ 124,400,000
+
+X
+
+- DefinitionFinite Lived Intangible Assets, Fully Amortized, Written Off
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_FiniteLivedIntangibleAssetsFullyAmortizedWrittenOff
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionImpairment Of Intangible Asset Finite Lived, Statement Of Income Or Comprehensive Income, Extensible Enumeration Not Disclosed Flag
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ImpairmentOfIntangibleAssetFiniteLivedStatementOfIncomeOrComprehensiveIncomeExtensibleEnumerationNotDisclosedFlag
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 985
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481283/985-20-50-2
+
++ Details
+
+ Name:
+us-gaap_AcquiredFiniteLivedIntangibleAssetsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted average amortization period of finite-lived intangible assets acquired either individually or as part of a group of assets, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 985
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481283/985-20-50-2
+
++ Details
+
+ Name:
+us-gaap_AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe aggregate expense charged against earnings to allocate the cost of intangible assets (nonphysical assets not used in production) in a systematic and rational manner to the periods expected to benefit from such assets. As a noncash expense, this element is added back to net income when calculating cash provided by or used in operations using the indirect method.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482640/350-30-55-40
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482686/350-30-45-2
+
++ Details
+
+ Name:
+us-gaap_AmortizationOfIntangibleAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in assets, excluding financial assets, lacking physical substance with a definite life, from an acquisition.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
++ Details
+
+ Name:
+us-gaap_FinitelivedIntangibleAssetsAcquired1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in asset representing future economic benefits arising from other assets acquired in a business combination that are not individually identified and separately recognized resulting from a business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
++ Details
+
+ Name:
+us-gaap_GoodwillAcquiredDuringPeriod
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of impairment loss from asset representing future economic benefit arising from other asset acquired in business combination or from joint venture formation or both, that is not individually identified and separately recognized.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482598/350-20-45-2
+
++ Details
+
+ Name:
+us-gaap_GoodwillImpairmentLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) from transfer into (out of) asset representing future economic benefit arising from other asset acquired in business combination or from joint venture formation or both, that is not individually identified and separately recognized.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
++ Details
+
+ Name:
+us-gaap_GoodwillTransfers
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe amount of impairment loss recognized in the period resulting from the write-down of the carrying amount of a finite-lived intangible asset to fair value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482686/350-30-45-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-3
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_ImpairmentOfIntangibleAssetsFinitelived
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_SecondariesGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_FromPrivateEquityGroupToCreditGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_CreditGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FiniteLivedIntangibleAssetsByMajorClassAxis=ares_CollateralManagementContractsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_CreditGroupRealAssetsGroupAndSecondariesGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FiniteLivedIntangibleAssetsByMajorClassAxis=us-gaap_CustomerRelationshipsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=ares_WaltonStreetCapitalMexicoMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=ares_CrescentPointCapitalMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

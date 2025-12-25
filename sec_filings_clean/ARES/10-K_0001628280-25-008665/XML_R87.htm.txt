@@ -1,0 +1,660 @@
+XML
+159
+R87.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY AND REDEEMABLE INTEREST - Redeemable Interests (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Jul. 01, 2020
+
+Ares SSG's Fee-Generating Business
+
+Temporary Equity [Line Items]
+
+Ownership percentage
+100.00%
+
+Ownership percentage acquired
+20.00%
+
+SSG Former Owners | Ares SSG
+
+Temporary Equity [Line Items]
+
+Direct Ownership Interest
+
+20.00%
+
+Ares Acquisition Corporation II
+
+Temporary Equity [Line Items]
+
+Gross proceeds from the initial public offering of AAC II
+
+$ 500,000
+
+Increase (Decrease) in Temporary Equity [Roll Forward]
+
+Gross proceeds from the initial public offering of AAC II
+
+500,000
+
+Ares Acquisition Corporation II | Class A Common Stock
+
+Temporary Equity [Line Items]
+
+Temporary equity, shares outstanding (in shares)
+50,000,000
+
+Ares Operating Group
+
+Increase (Decrease) in Temporary Equity [Roll Forward]
+
+Beginning balance
+$ 24,098
+
+93,129
+
+$ 96,008
+
+Changes in ownership interests and related tax benefits
+
+(66,507)
+
+Distributions
+(302)
+
+(2,883)
+
+(1,887)
+
+Net income
+103
+
+226
+
+(851)
+
+Currency translation adjustment, net of tax
+(403)
+
+(41)
+
+(426)
+
+Equity compensation
+
+174
+
+285
+
+Ending balance
+23,496
+
+24,098
+
+93,129
+
+Consolidated Funds
+
+Temporary Equity [Line Items]
+
+Gross proceeds from the initial public offering of AAC II
+
+500,000
+
+Increase (Decrease) in Temporary Equity [Roll Forward]
+
+Beginning balance
+522,938
+
+1,013,282
+
+Gross proceeds from the initial public offering of AAC II
+
+500,000
+
+Change in redemption value
+27,762
+
+55,530
+
+Redemptions from Class A ordinary shares of Ares Acquisition Corporation (formerly NYSE: AAC) ( AAC I )
+
+(1,045,874)
+
+Ending balance
+$ 550,700
+
+$ 522,938
+
+$ 1,013,282
+
+X
+
+- DefinitionSale Of Stock, Additional Percentage Of Ownership Acquired
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_SaleOfStockAdditionalPercentageOfOwnershipAcquired
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTemporary Equity, Change In Ownership Interests And Related Tax Benefits
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_TemporaryEquityChangeInOwnershipInterestsAndRelatedTaxBenefits
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTemporary Equity, Equity Compensation
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_TemporaryEquityEquityCompensation
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_IncreaseDecreaseInTemporaryEquityRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe equity interest of noncontrolling shareholders, partners or other equity holders in consolidated entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MinorityInterestOwnershipPercentageByNoncontrollingOwners
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe cash inflow associated with the amount received from entity's first offering of stock to the public.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 14
+ -Subparagraph (a)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-14
+
++ Details
+
+ Name:
+us-gaap_ProceedsFromIssuanceInitialPublicOffering
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage of subsidiary's or equity investee's stock owned by parent company after stock transaction.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SaleOfStockPercentageOfOwnershipAfterTransaction
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionEquity impact of the value of stock bought back by the entity at the exercise price or redemption price.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -SubTopic 10
+ -Topic 505
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-2
+
++ Details
+
+ Name:
+us-gaap_StockRedeemedOrCalledDuringPeriodValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCarrying amount, attributable to parent and noncontrolling interests, of an entity's issued and outstanding stock which is not included within permanent equity. Temporary equity is a security with redemption features that are outside the control of the issuer, is not classified as an asset or liability in conformity with GAAP, and is not mandatorily redeemable. Includes any type of security that is redeemable at a fixed or determinable price or on a fixed or determinable date or dates, is redeemable at the option of the holder, or has conditions for redemption which are not solely within the control of the issuer. Includes stock with a put option held by an ESOP and stock redeemable by a holder only in the event of a change in control of the issuer.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(27)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(g)(1)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 28
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
++ Details
+
+ Name:
+us-gaap_TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAccretion of temporary equity during the period due to cash, stock, and in-kind dividends. This item is an adjustment to net income necessary to derive net income apportioned to common stockholders and is to be distinguished from Temporary Equity, Accretion of Dividends (Temporary Equity, Accretion of Dividends).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_TemporaryEquityDividendsAdjustment
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAdjustments to temporary equity resulting from foreign currency translation adjustments.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_TemporaryEquityForeignCurrencyTranslationAdjustments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_TemporaryEquityLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe portion of net income or loss attributable to temporary equity interest.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_TemporaryEquityNetIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe number of securities classified as temporary equity that have been issued and are held by the entity's shareholders. Securities outstanding equals securities issued minus securities held in treasury. Temporary equity is a security with redemption features that are outside the control of the issuer, is not classified as an asset or liability in conformity with GAAP, and is not mandatorily redeemable. Includes any type of security that is redeemable at a fixed or determinable price or on a fixed or determinable date or dates, is redeemable at the option of the holder, or has conditions for redemption which are not solely within the control of the issuer. If convertible, the issuer does not control the actions or events necessary to issue the maximum number of shares that could be required to be delivered under the conversion option if the holder exercises the option to convert the stock to another class of equity. If the security is a warrant or a rights issue, the warrant or rights issue is considered to be temporary equity if the issuer cannot demonstrate that it would be able to deliver upon the exercise of the option by the holder in all cases. Includes stock with put option held by ESOP and stock redeemable by holder only in the event of a change in control of the issuer.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(27)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_TemporaryEquitySharesOutstanding
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionValue of new stock classified as temporary equity issued during the period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_TemporaryEquityStockIssuedDuringPeriodValueNewIssues
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=ares_AresSSGsFeeGeneratingBusinessMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_SSGFormerOwnersMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_OwnershipAxis=ares_AresSSGMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_AresAcquisitionCorporationIIMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=us-gaap_CommonClassAMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_AresOperatingGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_ConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

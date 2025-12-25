@@ -1,0 +1,620 @@
+XML
+163
+R91.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SEGMENT REPORTING - Schedule of Segment Expenses Components (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total expenses
+$ 2,938,691
+
+$ 2,797,858
+
+$ 2,749,085
+
+Depreciation and amortization expense
+(116,300)
+
+(126,000)
+
+(133,600)
+
+Operating segment
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Acquisition and merger-related expense
+(57,360)
+
+(12,000)
+
+(15,197)
+
+Equity-based compensation expense
+(352,851)
+
+(255,419)
+
+(198,948)
+
+Acquisition-related compensation expense
+(38,150)
+
+(7,334)
+
+(206,252)
+
+Placement fee adjustment
+5,715
+
+(5,819)
+
+2,088
+
+Depreciation and amortization expense
+(157,341)
+
+(233,185)
+
+(335,083)
+
+Operating segment | Ares Management L.P
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total expenses
+1,559,123
+
+1,400,999
+
+1,294,293
+
+Performance related compensation-unrealized
+(36,823)
+
+(206,923)
+
+(88,502)
+
+Operating segment | Consolidated Funds
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total expenses
+2,938,691
+
+2,797,858
+
+2,749,085
+
+Reconciling items
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total expenses
+1,379,568
+
+1,396,859
+
+1,454,792
+
+Administrative fees
+(70,363)
+
+(62,773)
+
+(68,255)
+
+Acquisition and merger-related expense
+(57,360)
+
+(12,000)
+
+(15,197)
+
+Equity-based compensation expense
+(352,851)
+
+(255,790)
+
+(200,106)
+
+Acquisition-related compensation expense
+(38,150)
+
+(7,334)
+
+(206,252)
+
+Placement fee adjustment
+(5,715)
+
+5,819
+
+(2,088)
+
+Depreciation and amortization expense
+(157,341)
+
+(233,185)
+
+(335,083)
+
+Reconciling items | Subsidiaries | Non-Controlling interest
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total expenses
+(1,201)
+
+19,877
+
+30,741
+
+Reconciling items | Consolidated Funds
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Expenses of Consolidated Funds added in consolidation
+(69,320)
+
+(93,167)
+
+(86,988)
+
+Expenses of Consolidated Funds eliminated in consolidation
+48,441
+
+50,108
+
+50,833
+
+OMG
+
+Segment Reporting, Other Significant Reconciling Item [Line Items]
+
+Total expenses
+$ 641,287
+
+$ 561,737
+
+$ 472,413
+
+X
+
+- DefinitionAcquisition-Related Compensation Expenses
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_AcquisitionRelatedCompensationExpenses
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionExpense Related to Distribution or Servicing and Underwriting Fees, Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ExpenseRelatedToDistributionOrServicingAndUnderwritingFeesNet
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of expenses added in consolidation during the period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ExpensesAddedInConsolidation
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of expenses eliminated in consolidation during the period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ExpensesEliminatedInConsolidation
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of compensation expense unrealized by the entity based on the investment results achieved.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PerformanceFeesCompensationExpenseUnrealized
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFor segment reporting, the amount of other fee revenue net of certain expenses.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_SegmentReportingOtherFeeRevenueNetOfExpenses2
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense for award under share-based payment arrangement. Excludes amount capitalized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 14.F)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479830/718-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(1)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AllocatedShareBasedCompensationExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe aggregate expense charged against earnings to allocate the cost of intangible assets (nonphysical assets not used in production) in a systematic and rational manner to the periods expected to benefit from such assets. As a noncash expense, this element is added back to net income when calculating cash provided by or used in operations using the indirect method.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482640/350-30-55-40
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482686/350-30-45-2
+
++ Details
+
+ Name:
+us-gaap_AmortizationOfIntangibleAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThis element represents acquisition-related costs incurred to effect a business combination which costs have been expensed during the period. Such costs include finder's fees; advisory, legal, accounting, valuation, and other professional or consulting fees; general administrative costs, including the costs of maintaining an internal acquisitions department; and may include costs of registering and issuing debt and equity securities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 25
+ -Paragraph 23
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479405/805-10-25-23
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationAcquisitionRelatedCosts
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionGenerally recurring costs associated with normal operations except for the portion of these expenses which can be clearly related to production and included in cost of sales or services. Includes selling, general and administrative expense.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OperatingExpenses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingOtherSignificantReconcilingItemLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_ConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_MaterialReconcilingItemsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_SubsidiariesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementEquityComponentsAxis=us-gaap_NoncontrollingInterestMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_CorporateNonSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

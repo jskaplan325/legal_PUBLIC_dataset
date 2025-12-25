@@ -1,0 +1,200 @@
+XML
+44
+R22.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+FAIR VALUE OPTION
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Fair Value Disclosures [Abstract]
+
+FAIR VALUE OPTION
+FAIR VALUE OPTIONThe following table summarizes the financial instruments for which the fair value option has been elected:
+
+ December 31, 2024 December 31, 2023
+Assets
+
+Asset Management and Strategic Holdings
+Credit $ 1,310,984 $ 976,978
+Investments of Consolidated CFEs 27,488,538 24,996,298
+Real Assets 55,087 59,721
+Equity Method - Other 1,832,534 2,283,588
+Other Investments 110,979 153,597
+ Total Asset Management and Strategic Holdings $ 30,798,122 $ 28,470,182
+Insurance
+Fixed Maturity Securities $ 100,162 $
+Mortgage and Other Loan Receivables 1,611,109 697,402
+
+Real Assets 471,498 169,407
+Other Investments 47,944 63,470
+Reinsurance Recoverable 940,731 926,035
+ Total Insurance $ 3,171,444 $ 1,856,314
+
+ Total Assets $ 33,969,566 $ 30,326,496
+
+Liabilities
+Asset Management and Strategic Holdings
+Debt Obligations of Consolidated CFEs $ 27,150,809 $ 25,276,404
+ Total Asset Management and Strategic Holdings $ 27,150,809 $ 25,276,404
+Insurance
+Policy Liabilities $ 1,265,878 $ 1,322,555
+
+ Total Insurance $ 1,265,878 $ 1,322,555
+
+ Total Liabilities $ 28,416,687 $ 26,598,959
+
+The following table presents the net realized and unrealized gains (losses) on financial instruments for which the fair value option was elected:
+
+ For the Year Ended December 31, 2024
+ Net Realized
+Gains (Losses) Net Unrealized
+Gains (Losses) Total
+Assets
+Asset Management and Strategic Holdings
+Credit $ (30,456) $ 5,968 $ (24,488)
+Investments of Consolidated CFEs (61,580) 84,799 23,219
+Real Assets (4,634) (4,634)
+Equity Method - Other 52,204 (176,599) (124,395)
+Other Investments 932 279 1,211
+ Total Asset Management and Strategic Holdings $ (38,900) $ (90,187) $ (129,087)
+Insurance
+Mortgage and Other Loan Receivables $ $ 42,778 $ 42,778
+Real Assets (13,543) (13,543)
+Other Investments (15,119) (15,119)
+ Total Insurance $ $ 14,116 $ 14,116
+
+Total Assets $ (38,900) $ (76,071) $ (114,971)
+
+Liabilities
+Asset Management and Strategic Holdings
+Debt Obligations of Consolidated CFEs $ (10,387) $ (58,952) $ (69,339)
+ Total Asset Management and Strategic Holdings $ (10,387) $ (58,952) $ (69,339)
+Insurance
+Policy Liabilities $ $ 84,672 $ 84,672
+ Total Insurance $ $ 84,672 $ 84,672
+
+Total Liabilities $ (10,387) $ 25,720 $ 15,333
+
+ For the Year Ended December 31, 2023
+ Net Realized
+Gains (Losses) Net Unrealized
+Gains (Losses) Total
+Assets
+Asset Management and Strategic Holdings
+Credit $ (85,682) $ 66,109 $ (19,573)
+Investments of Consolidated CFEs (104,196) 1,019,063 914,867
+Real Assets 51,637 (54,697) (3,060)
+Equity Method - Other 170,909 61,205 232,114
+Other Investments 1,455 (813) 642
+ Total Asset Management and Strategic Holdings $ 34,123 $ 1,090,867 $ 1,124,990
+Insurance
+Mortgage and Other Loan Receivables $ $ (1,342) $ (1,342)
+Real Assets (52,291) (52,291)
+Other Investments (13,123) (13,123)
+ Total Insurance $ $ (66,756) $ (66,756)
+
+Total Assets $ 34,123 $ 1,024,111 $ 1,058,234
+
+Liabilities
+Asset Management and Strategic Holdings
+Debt Obligations of Consolidated CFEs $ (1,212) $ (1,015,491) $ (1,016,703)
+ Total Asset Management and Strategic Holdings $ (1,212) $ (1,015,491) $ (1,016,703)
+Insurance
+Policy Liabilities $ $ 62,621 $ 62,621
+ Total Insurance $ $ 62,621 $ 62,621
+
+Total Liabilities $ (1,212) $ (952,870) $ (954,082)
+
+ For the Year Ended December 31, 2022
+ Net Realized
+Gains (Losses) Net Unrealized
+Gains (Losses) Total
+Assets
+Asset Management and Strategic Holdings
+
+Credit $ (103,860) $ (9,326) $ (113,186)
+Investments of Consolidated CFEs (69,234) (1,437,482) (1,506,716)
+Real Assets 85 19,295 19,380
+Equity Method - Other (14,891) (201,935) (216,826)
+Other Investments 6,657 (9,927) (3,270)
+ Total Asset Management and Strategic Holdings $ (181,243) $ (1,639,375) $ (1,820,618)
+Insurance
+Mortgage and other loan receivables $ $ (96,569) $ (96,569)
+Real assets 122,082 122,082
+Other Investments 31,027 31,027
+ Total Insurance $ $ 56,540 $ 56,540
+
+Total Assets $ (181,243) $ (1,582,835) $ (1,764,078)
+
+Liabilities
+Asset Management and Strategic Holdings
+Debt Obligations of Consolidated CFEs $ (785) $ 1,175,161 $ 1,174,376
+ Total Asset Management and Strategic Holdings $ (785) $ 1,175,161 $ 1,174,376
+Insurance
+Policy liabilities $ $ 138,039 $ 138,039
+ Total Insurance $ $ 138,039 $ 138,039
+
+Total Liabilities $ (785) $ 1,313,200 $ 1,312,415
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueDisclosuresAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for a company's election to apply the fair value option for measurement and reporting of eligible financial assets and liabilities (as defined), as well as certain other eligible items (as defined) included in the statement of financial position, whether such option is elected for a single eligible item or a group of similar eligible items and is in addition to other disclosures concerning fair value which the company may be required to provide. Such disclosure might be expected to include: (1) for items included in the statement of financial position: (a) the reasons for electing a fair value option for each eligible item or group of similar eligible items; (b) if the fair value option is elected for some but not all eligible items within a group of similar eligible items: (i) a description of those similar items and the reasons for partial election and (ii) information of how the group of similar items relates to individual balance sheet line items; (c) for each line item in the statement of financial position that includes an item or items for which the fair value option has been elected: (i) information of how each line item in the statement of financial position relates to major categories of assets and liabilities presented in accordance with other fair value disclosures and (ii) the aggregate carrying amount of ineligible items included in each line item in the balance sheet, if any; (d) the difference between the aggregate fair value and the aggregate unpaid principal balance (assuming contractual principal amounts and fair value option elected) of: (i) loans and long-term receivables (other than securities otherwise reported at fair value) and (ii) long-term debt instruments; (e) for loans held as assets for which the fair value option has been elected: (i) the aggregate fair value of loans that are 90 days or more past due, (ii) if the policy is to recognize interest income separately from other changes in fair value, the aggregate fair value of loans in nonaccrual status, and (iii) the difference between the aggregate fair value and the aggregate unpaid principal balance for loans that are 90 days or more past due, in nonaccrual status, or both; (f) for investments that would have been accounted for under the equity method if the entity had not chosen to apply the fair value option, the information required for such investments, if material either individually or in the aggregate; (2) for items included in the income statement: (a) the amounts of gains and losses from fair value changes included in earnings and in which line in the income statement those gains and losses are reported whether or not combined with gains and losses from items required to be accounted for at fair value; (b) a description of how interest and dividends are measured and where they are reported in the income statement; (c) for loans and other receivables held as assets: (i) the estimated amount of gains or losses included in earnings attributable to changes in instrument-specific credit risk and (ii) how the gains or losses attributable to changes in instrument-specific credit risk were determined; (d) for liabilities with fair values that have been significantly affected during the reporting period by changes in the instrument-specific credit risk: (i) the estimated amount of gains and losses from fair value changes included in earnings that are attributable to changes in the instrument-specific credit risk, (ii) qualitative information about the reasons for those changes, and (iii) how the gains and losses attributable to changes in instrument-specific credit risk were determined; and (3) certain other disclosures as required or determined to be provided.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 825
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/825/tableOfContent
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -SubTopic 10
+ -Topic 825
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

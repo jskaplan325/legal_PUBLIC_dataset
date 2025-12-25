@@ -1,0 +1,125 @@
+XML
+143
+R71.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+COMMITMENTS AND CONTINGENCIES - Schedule of Lease Term and Discount Rate (Details)
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Commitments and Contingencies Disclosure [Abstract]
+
+Weighted-average remaining lease terms (in years)
+14 years 1 month 6 days
+
+8 years 4 months 24 days
+
+Weighted-average discount rate
+5.80%
+
+4.30%
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CommitmentsAndContingenciesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted average discount rate for operating lease calculated at point in time.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 53
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479589/842-20-55-53
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (g)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_OperatingLeaseWeightedAverageDiscountRatePercent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionWeighted average remaining lease term for operating lease, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents reported fact of one year, five months, and thirteen days.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 53
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479589/842-20-55-53
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (g)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_OperatingLeaseWeightedAverageRemainingLeaseTerm1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant

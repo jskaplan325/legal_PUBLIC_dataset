@@ -1,0 +1,152 @@
+XML
+46
+R16.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Reinsurance
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Reinsurance
+8. Reinsurance
+
+The following summarizes the effect of reinsurance on premiums and future policy and other policy benefits on the consolidated statements of operations:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Premiums
+Direct $ 1,089 $ 10,525 $ 11,373
+Reinsurance assumed 313 2,313 377
+Reinsurance ceded (84) (89) (112)
+Total premiums $ 1,318 $ 12,749 $ 11,638
+Future policy and other policy benefits
+Direct $ 2,779 $ 12,321 $ 12,142
+Reinsurance assumed 550 2,389 416
+Reinsurance ceded (275) (276) (93)
+Total future policy and other policy benefits $ 3,054 $ 14,434 $ 12,465
+
+Reinsurance typically provides for recapture rights on the part of the ceding company for certain events of default. Additionally, some agreements require placement of assets in trust accounts for the benefit of the ceding entity. The required minimum assets are equal to or greater than statutory reserves, as defined by the agreement, and were $26.1 billion and $21.6 billion as of December 31, 2024 and 2023, respectively. Although Athene owns assets placed in trust, their use is restricted based on the trust agreement terms. If the statutory book value of the assets, or in certain cases fair value, in a trust declines because of impairments or other reasons, Athene may be required to contribute additional assets to the trust. In addition, the assets within a trust may be subject to a pledge in favor of the applicable reinsurance company.
+Reinsurance transactions
+
+Athene entered into a coinsurance agreement to reinsure a block of whole life policies during the fourth quarter of 2023. There were no block reinsurance transactions during the years ended December 31, 2024 and 2022. The following summarizes the block reinsurance agreement at inception:
+
+(In millions) Year ended December 31, 2023
+Liabilities assumed $ 1,975
+Less: Assets received 2,158
+Deferred profit liability1
+ $ (183)
+
+1 Included within future policy benefits on the consolidated statements of financial condition.
+
+Catalina
+
+Athene has reinsurance agreements with certain affiliates of Catalina Holdings (Bermuda) Ltd. (together with its subsidiaries, Catalina ). See note 18 for further information on these reinsurance agreements.
+
+Global Atlantic
+
+Athene has a coinsurance and assumption agreement with Global Atlantic. The agreement ceded all existing open block life insurance business issued by AAIA, with the exception of enhanced guarantee universal life insurance products. Athene also entered into a coinsurance agreement with Global Atlantic to cede all policy liabilities of the ILICO Closed Block. The ILICO Closed Block consists primarily of participating whole life insurance policies. Athene also has an excess of loss arrangement with Global Atlantic to be reimbursed for any payments required from Athene s general assets to meet the contractual obligations of the AmerUs Closed Block not covered by existing reinsurance through Athene Re USA IV. The AmerUs Closed Block consists primarily of participating whole life insurance policies. Since all liabilities were covered by the existing reinsurance at close, no reinsurance premiums were ceded. The assets backing the AmerUs Closed Block are managed, on AAIA s behalf, by Goldman Sachs Asset Management.
+
+As of December 31, 2024 and 2023, Global Atlantic maintained a series of trust and custody accounts under the terms of these agreements with assets equal to or greater than a required aggregate statutory balance of $2.5 billion and $2.5 billion, respectively.
+
+Protective Life Insurance Company ( Protective )
+
+Athene reinsured certain of its life and health business to Protective under a coinsurance agreement. As of December 31, 2024 and 2023, Protective maintained a trust for Athene s benefit with assets having a fair value of $1.1 billion and $1.2 billion, respectively.
+
+Reinsurance Recoverables
+
+The following summarizes reinsurance recoverable balances:
+
+ December 31,
+(In millions) 2024 2023
+Catalina $ 4,309 $
+Global Atlantic 2,328 2,435
+Protective 1,435 1,559
+Other1
+ 122 160
+Reinsurance recoverable $ 8,194 $ 4,154
+
+1 Represents all other reinsurers, with no single reinsurer having a carrying value in excess of 5% of the total recoverable.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure pertaining to the existence, magnitude and information about insurance that has been ceded to or assumed from another insurance company, including the methodologies and assumptions used in determining recorded amounts.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-4
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477548/944-605-55-12
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477548/944-605-55-15
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,101 @@
+XML
+62
+R40.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SCHEDULE IV - REINSURANCE
+
+12 Months Ended
+
+Dec. 31, 2024
+
+SEC Schedule, 12-17, Insurance Companies, Reinsurance [Abstract]
+
+SCHEDULE IV - REINSURANCE
+
+SCHEDULE IV REINSURANCE
+
+ As of December 31, 2024
+ Gross Amount Ceded to Other Companies Assumed from Other Companies Net Amount Percentage of Amount Assumed to Net
+($ in thousands)
+Life Insurance In-force $ 75,603,581 $ (57,446,060) $ 43,934,822 $ 62,092,343 71 %
+Premiums and Other Considerations:
+Premiums $ 642,803 $ (4,659,566) $ 11,915,597 $ 7,898,834 151 %
+Policy Fees $ 917,684 $ (651,996) $ 1,111,998 $ 1,377,686 81 %
+
+ As of December 31, 2023
+ Gross Amount Ceded to Other Companies Assumed from Other Companies Net Amount Percentage of Amount Assumed to Net
+($ in thousands)
+Life Insurance In-force $ 81,531,659 $ (69,253,317) $ 45,073,052 $ 57,351,394 79 %
+Premiums and Other Considerations:
+Premiums $ 118,535 $ (2,281,618) $ 4,138,758 $ 1,975,675 209 %
+Policy Fees $ 912,931 $ (94,767) $ 442,085 $ 1,260,249 35 %
+
+ As of December 31, 2022
+ Gross Amount Ceded to Other Companies Assumed from Other Companies Net Amount Percentage of Amount Assumed to Net
+($ in thousands)
+Life Insurance In-force $ 87,800,041 $ (50,258,155) $ 20,664,894 $ 58,206,780 36 %
+Premiums and Other Considerations:
+Premiums $ 111,602 $ (1,342,375) $ 2,413,234 $ 1,182,461 204 %
+Policy Fees $ 950,702 $ (17,509) $ 328,528 $ 1,261,721 26 %
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+srt_SupplementalScheduleOfReinsurancePremiumsForInsuranceCompaniesAbstract
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for the supplemental schedule of reinsurance information. Reinsurance schedule includes, but is not limited to, the type of insurance, gross amount of premiums, premiums ceded to other entities, premiums assumed from other entities, net amount of premium revenue, and the percentage of the premiums assumed to net premium revenue.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-X (SX)
+ -Number 210
+ -Section 12
+ -Subsection 17
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
++ Details
+
+ Name:
+srt_SupplementalScheduleOfReinsurancePremiumsForInsuranceCompaniesTextBlock
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

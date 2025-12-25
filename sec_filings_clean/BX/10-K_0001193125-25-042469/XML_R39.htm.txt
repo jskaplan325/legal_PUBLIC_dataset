@@ -1,0 +1,1545 @@
+XML
+68
+R39.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value Measurements of Financial Instruments (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Financial Assets and Liabilities at Fair Value
+ The following tables summarize the valuation of Blackstone s financial assets and liabilities by the fair value hierarchy:
+
+December 31, 2024
+
+Level I
+
+Level II
+
+Level III
+
+NAV (a)
+
+Total
+
+ Assets
+
+ Cash and Cash Equivalents
+
+$
+
+60,799
+
+$
+
+$
+
+$
+
+$
+
+60,799
+
+ Investments
+
+ Investments of Consolidated Blackstone Funds
+
+ Equity Securities, Partnerships and LLC Interests (b)
+
+12,076
+
+155,316
+
+3,158,254
+
+473,496
+
+3,799,142
+
+ Debt Instruments
+
+63,159
+
+15,188
+
+78,347
+
+ Freestanding Derivatives
+
+13,243
+
+13,243
+
+ Total Investments of Consolidated Blackstone Funds
+
+12,076
+
+231,718
+
+3,173,442
+
+473,496
+
+3,890,732
+
+ Corporate Treasury Investments
+
+67,729
+
+565,968
+
+450,345
+
+63,286
+
+1,147,328
+
+ Other Investments
+
+2,089,838
+
+3,182,353
+
+179,522
+
+6,289
+
+5,458,002
+
+ Total Investments
+
+2,169,643
+
+3,980,039
+
+3,803,309
+
+543,071
+
+10,496,062
+
+ Accounts Receivable Loans and Receivables
+
+100,866
+
+100,866
+
+ Other Assets Freestanding Derivatives
+
+170,156
+
+10,153
+
+180,309
+
+$
+
+2,230,442
+
+$
+
+4,150,195
+
+$
+
+3,914,328
+
+$
+
+543,071
+
+$
+
+10,838,036
+
+ Liabilities
+
+ Loans Payable
+ CLO Notes Payable
+
+$
+
+$
+
+87,488
+
+$
+
+$
+
+$
+
+87,488
+
+ Accounts Payable, Accrued Expenses and Other Liabilities
+
+ Consolidated Blackstone Funds
+ Freestanding Derivatives
+
+15,918
+
+15,918
+
+ Freestanding Derivatives
+
+121,633
+
+938,216
+
+1,059,849
+
+ Contingent Consideration
+
+504
+
+504
+
+ Corporate Treasury Commitments
+
+368
+
+368
+
+ Securities Sold, Not Yet Purchased
+
+1,916
+
+1,916
+
+ Total Accounts Payable, Accrued Expenses and Other Liabilities
+
+1,916
+
+137,551
+
+939,088
+
+1,078,555
+
+$
+
+1,916
+
+$
+
+225,039
+
+$
+
+939,088
+
+$
+
+$
+
+1,166,043
+
+December 31, 2023
+
+Level I
+
+Level II
+
+Level III
+
+NAV
+
+Total
+
+ Assets
+
+ Cash and Cash Equivalents
+
+$
+
+263,574
+
+$
+
+$
+
+$
+
+$
+
+263,574
+
+ Investments
+
+ Investments of Consolidated Blackstone Funds
+
+ Equity Securities, Partnerships and LLC Interests (b)
+
+11,118
+
+123,022
+
+2,653,246
+
+558,259
+
+3,345,645
+
+ Debt Instruments
+
+924,264
+
+30,385
+
+954,649
+
+ Freestanding Derivatives
+
+19,189
+
+19,189
+
+ Total Investments of Consolidated Blackstone Funds
+
+11,118
+
+1,066,475
+
+2,683,631
+
+558,259
+
+4,319,483
+
+ Corporate Treasury Investments
+
+72,071
+
+435,430
+
+296,369
+
+803,870
+
+ Other Investments
+
+1,564,112
+
+2,355,423
+
+223,441
+
+7,275
+
+4,150,251
+
+ Total Investments
+
+1,647,301
+
+3,857,328
+
+3,203,441
+
+565,534
+
+9,273,604
+
+ Accounts Receivable
+ Loans and Receivables
+
+60,738
+
+60,738
+
+ Other Assets Freestanding Derivatives
+
+90
+
+157,629
+
+13,171
+
+170,890
+
+$
+
+1,910,965
+
+$
+
+4,014,957
+
+$
+
+3,277,350
+
+$
+
+565,534
+
+$
+
+9,768,806
+
+ Liabilities
+
+ Loans Payable
+ CLO Notes Payable
+
+$
+
+$
+
+687,122
+
+$
+
+$
+
+$
+
+687,122
+
+ Accounts Payable, Accrued Expenses and Other Liabilities
+
+ Freestanding Derivatives
+
+436
+
+90,199
+
+563,986
+
+654,621
+
+ Contingent Consideration
+
+387
+
+387
+
+ Corporate Treasury Commitments
+
+1,264
+
+1,264
+
+ Securities Sold, Not Yet Purchased
+
+3,886
+
+3,886
+
+ Total Accounts Payable, Accrued Expenses and Other Liabilities
+
+4,322
+
+90,199
+
+565,637
+
+660,158
+
+$
+
+4,322
+
+$
+
+777,321
+
+$
+
+565,637
+
+$
+
+$
+
+1,347,280
+
+ LLC Limited Liability Company.
+
+Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds Remaining Unfunded Commitments and Ability to Redeem Such Investments
+
+(a)
+
+ A summary of the investments where the fair value is not readily determinable and NAV is used as a practical expedient as of December 31, 2024 is presented by strategy type below:
+
+ Strategy
+
+Fair Value
+
+Unfunded
+Commitments
+
+Redemption
+Frequency
+(if currently eligible)
+
+Redemption
+Notice Period
+
+ Equity
+
+$
+
+421,052
+
+$
+
+(1)
+
+(1)
+
+ Real Estate
+
+52,444
+
+(2)
+
+(2)
+
+ Private Equity
+
+63,286
+
+50,400
+
+(3)
+
+(3)
+
+ Other
+
+6,289
+
+(4)
+
+(4)
+
+$
+
+543,071
+
+$
+
+50,400
+
+(1)
+
+ The Equity category includes investments in hedge funds that invest primarily in domestic and international equity securities. Investments representing 69% of the fair value of the investments in this category may not be redeemed at, or within three months of, the reporting date. Investments representing 31% of the fair value of the investments in this category are redeemable as of the reporting date.
+
+(2)
+
+ The Real Estate category includes investments in funds that primarily invest in real estate assets. All investments in this category are redeemable as of the reporting date.
+
+(3)
+
+ The Private Equity category includes investments in funds that primarily invest in infrastructure. All investments in these categories may not be redeemed at, or within three months of, the reporting date.
+
+(4)
+
+ Other is composed of the Credit Driven category, the Commodities category and the Diversified Instruments category. The Credit Driven category includes investments in hedge funds that invest primarily in domestic and international bonds. The Commodities category includes investments in commodities-focused funds that primarily invest in futures and physical-based commodity driven strategies. The Diversified Instruments category includes investments in funds that invest across multiple strategies. All investments in these categories may not be redeemed at, or within three months of, the reporting date.
+
+(b)
+
+ Equity Securities, Partnership and LLC Interest includes investments in investment funds.
+
+Summary of Quantitative Inputs and Assumptions for Items Categorized in Level III of Fair Value Hierarchy
+ The following table summarizes the quantitative inputs and assumptions used for items categorized in Level III of the fair value hierarchy as of December 31, 2024. Consistent with presentation in these Notes to Consolidated Financial Statements, this table presents the Level III Investments only of Consolidated Blackstone Funds and therefore does not reflect any other Blackstone
+Funds.
+
+Impact to
+
+Valuation
+
+from an
+
+Valuation
+
+Unobservable
+
+Weighted-
+
+Increase
+
+Fair Value
+
+Techniques
+
+Inputs
+
+Ranges
+
+Average (a)
+
+in Input
+
+ Financial Assets
+
+ Investments of Consolidated Blackstone Funds
+
+ Equity Securities, Partnership and LLC Interests
+
+$
+
+3,158,254
+
+Discounted Cash Flows
+
+Discount Rate
+
+4.2% - 39.1%
+
+10.4%
+
+Lower
+
+Exit Multiple - EBITDA
+
+4.0x - 30.6x
+
+15.4x
+
+Higher
+
+Exit Capitalization Rate
+
+3.1% - 15.0%
+
+5.2%
+
+Lower
+
+ Debt Instruments
+
+15,188
+
+Third-Party Pricing
+
+n/a
+
+ Total Investments of Consolidated Blackstone Funds
+
+3,173,442
+
+ Corporate Treasury Investments
+
+450,345
+
+Third-Party Pricing
+
+n/a
+
+Transaction Price
+
+n/a
+
+ Loans and Receivables
+
+100,866
+
+Discounted Cash Flows
+
+Discount Rate
+
+8.4% - 11.2%
+
+9.3%
+
+Lower
+
+ Other Investments (b)
+
+189,675
+
+Discounted Cash Flows
+
+Discount Rate
+
+7.1% - 7.7%
+
+7.4%
+
+Lower
+
+Third-Party Pricing
+
+n/a
+
+$
+
+3,914,328
+
+ Financial Liabilities
+
+ Freestanding Derivatives (c)
+
+$
+
+938,216
+
+Option Pricing Model
+
+Volatility
+
+6.0%
+
+n/a
+
+Higher
+
+ Other Liabilities (d)
+
+872
+
+Third-Party Pricing
+
+n/a
+
+Other
+
+n/a
+
+$
+
+939,088
+
+ The following table summarizes the quantitative inputs and assumptions used for items categorized in Level III of the fair value hierarchy as of December 31, 2023:
+
+Impact to
+
+Valuation
+
+from an
+
+Valuation
+
+Unobservable
+
+Weighted-
+
+Increase
+
+Fair Value
+
+Techniques
+
+Inputs
+
+Ranges
+
+Average (a)
+
+in Input
+
+ Financial Assets
+
+ Investments of Consolidated Blackstone Funds
+
+ Equity Securities, Partnership and LLC Interests
+
+$
+
+2,653,246
+
+Discounted Cash Flows
+
+Discount Rate
+
+3.3% - 38.0%
+
+9.7%
+
+Lower
+
+Exit Multiple -
+EBITDA
+
+4.0x - 30.6x
+
+15.0x
+
+Higher
+
+Exit Capitalization Rate
+
+3.1% - 12.8%
+
+5.1%
+
+Lower
+
+ Debt Instruments
+
+30,385
+
+Third-Party Pricing
+
+n/a
+
+ Total Investments of Consolidated Blackstone Funds
+
+2,683,631
+
+ Corporate Treasury Investments
+
+296,369
+
+Discounted Cash Flows
+
+Discount Rate
+
+11.2% - 22.4%
+
+17.1%
+
+Lower
+
+Transaction Price
+
+n/a
+
+ Loans and Receivables
+
+60,738
+
+Discounted Cash Flows
+
+Discount Rate
+
+8.8% - 14.9%
+
+10.3%
+
+Lower
+
+ Other Investments (b)
+
+236,612
+
+Third-Party Pricing
+
+n/a
+
+Transaction Price
+
+n/a
+
+$
+
+3,277,350
+
+ Financial Liabilities
+
+ Freestanding Derivatives (c)
+
+$
+
+563,986
+
+Option Pricing Model
+
+Volatility
+
+6.3%
+
+n/a
+
+Higher
+
+ Other Liabilities (d)
+
+1,651
+
+Third-Party Pricing
+
+n/a
+
+Other
+
+n/a
+
+$
+
+565,637
+
+n/a
+
+Not applicable.
+
+EBITDA
+
+Earnings before interest, taxes, depreciation and amortization.
+
+Exit Multiple
+
+Ranges include the last twelve months EBITDA and forward EBITDA multiples.
+
+Third-Party Pricing
+
+Third-Party Pricing is generally determined on the basis of unadjusted prices between market participants provided by reputable dealers or pricing services.
+
+Transaction Price
+
+Includes recent acquisitions or transactions.
+
+(a)
+
+Unobservable inputs were weighted based on the fair value of the investments included in the range.
+
+(b)
+
+As of December 31, 2024 and 2023, Other Investments includes Level III Freestanding Derivatives.
+
+(c)
+
+The volatility of the historical performance of the underlying reference entity is used to project the expected returns relevant for the fair value of the derivative.
+
+(d)
+
+As of December 31, 2024 and 2023, Other Liabilities includes Level III Contingent Consideration and Level III Corporate Treasury Commitments.
+
+Summary of Changes in Financial Assets and Liabilities Measured at Fair Value for Which Level III Inputs Were Used
+ The following tables summarize the changes in financial assets and liabilities measured at fair value for which Blackstone has used Level III inputs to determine fair value and does not include gains or losses that were reported in Level III in prior years or for instruments that were transferred out of Level III prior to the end of the respective reporting period. These tables also exclude financial assets and liabilities measured at fair value on a non-recurring basis. Total realized and unrealized gains and losses recorded for Level III investments are reported in either Investment Income (Loss) or Net Gains (Losses) from Fund Investment Activities in the Consolidated Statements of Operations.
+
+Level III Financial Assets at Fair Value
+
+Year Ended December 31,
+
+2024
+
+2023
+
+Investments of
+Consolidated
+Funds
+
+Loans
+
+and
+
+Receivables
+
+Other
+Investments (a)
+
+Total
+
+Investments of
+Consolidated
+Funds
+
+Loans
+
+and
+
+Receivables
+
+Other
+Investments (a)
+
+Total
+
+ Balance, Beginning of Period
+
+$
+
+2,683,631
+
+$
+
+60,738
+
+$
+
+373,024
+
+$
+
+3,117,393
+
+$
+
+4,249,832
+
+$
+
+315,039
+
+$
+
+30,971
+
+$
+
+4,595,842
+
+ Transfer In Due to Consolidation and Acquisition
+
+85,540
+
+85,540
+
+ Transfer Out Due to Deconsolidation
+
+(14,237
+
+)
+
+(14,237
+
+)
+
+(1,453,837
+
+)
+
+(1,453,837
+
+)
+
+ Transfer Into Level III (b)
+
+35,547
+
+109,347
+
+144,894
+
+28,190
+
+898
+
+29,088
+
+ Transfer Out of Level III (b)
+
+(35,373
+
+)
+
+(58
+
+)
+
+(35,431
+
+)
+
+(18,197
+
+)
+
+(3,374
+
+)
+
+(21,571
+
+)
+
+ Purchases
+
+694,710
+
+857,245
+
+465,775
+
+2,017,730
+
+294,789
+
+284,002
+
+354,202
+
+932,993
+
+ Sales
+
+(214,743
+
+)
+
+(784,457
+
+)
+
+(307,926
+
+)
+
+(1,307,126
+
+)
+
+(289,721
+
+)
+
+(563,732
+
+)
+
+(14,542
+
+)
+
+(867,995
+
+)
+
+ Issuances
+
+30,028
+
+30,028
+
+68,450
+
+68,450
+
+ Settlements (c)
+
+(74,742
+
+)
+
+(21,261
+
+)
+
+(96,003
+
+)
+
+(70,419
+
+)
+
+(8,252
+
+)
+
+(78,671
+
+)
+
+ Changes in Gains (Losses) Included in Earnings
+
+(61,633
+
+)
+
+12,054
+
+5,511
+
+(44,068
+
+)
+
+(127,425
+
+)
+
+27,398
+
+13,121
+
+(86,906
+
+)
+
+ Balance, End of Period
+
+$
+
+3,173,442
+
+$
+
+100,866
+
+$
+
+624,412
+
+$
+
+3,898,720
+
+$
+
+2,683,631
+
+$
+
+60,738
+
+$
+
+373,024
+
+$
+
+3,117,393
+
+ Changes in Unrealized Gains
+ (Losses) Included
+ in Earnings Related to Financial Assets Still Held at the Reporting Date
+
+$
+
+(9,279
+
+)
+
+$
+
+(1,297
+
+)
+
+$
+
+(1,368
+
+)
+
+$
+
+(11,944
+
+)
+
+$
+
+(94,828
+
+)
+
+$
+
+2,227
+
+$
+
+7,725
+
+$
+
+(84,876
+
+)
+
+Level III Financial Liabilities at Fair Value
+
+Year Ended December 31,
+
+2024
+
+2023
+
+Freestanding
+Derivatives
+
+Other
+Liabilities
+
+Total
+
+Freestanding
+Derivatives
+
+Other
+Liabilities
+
+Total
+
+ Balance, Beginning of Period
+
+$
+
+563,986
+
+$
+
+1,651
+
+$
+
+565,637
+
+$
+
+48,581
+
+$
+
+8,144
+
+$
+
+56,725
+
+ Transfer In (Out) Due to Consolidation and Acquisition
+
+800
+
+800
+
+ Sales
+
+(413
+
+)
+
+(413
+
+)
+
+ Changes in Losses (Gains) Included in Earnings
+
+374,230
+
+(779
+
+)
+
+373,451
+
+515,405
+
+(6,880
+
+)
+
+508,525
+
+ Balance, End of Period
+
+$
+
+938,216
+
+$
+
+872
+
+$
+
+939,088
+
+$
+
+563,986
+
+$
+
+1,651
+
+$
+
+565,637
+
+ Changes in Unrealized Losses (Gains) Included in Earnings Related to Financial Liabilities Still Held at the Reporting Date
+
+$
+
+374,230
+
+$
+
+(779
+
+)
+
+$
+
+373,451
+
+$
+
+515,405
+
+$
+
+(6,880
+
+)
+
+$
+
+508,525
+
+(a)
+
+ Represents freestanding derivatives, corporate treasury investments and Other Investments.
+
+(b)
+
+ Transfers in and out of Level III financial assets and liabilities were due to changes in the observability of inputs used in the valuation of such assets and liabilities.
+
+(c)
+
+ For Freestanding Derivatives included within Other Investments, Settlements includes all ongoing contractual cash payments made or received over the life of the instrument.
+
+X
+
+- DefinitionFair value asset liability measured on a recurring basis based on unobservable input.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueAssetLiabilityMeasuredOnARecurringBasisBasedOnUnobservableInputTableTextBlock
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSummary of fair value by strategy type alongside consolidated funds of hedge funds remaining unfunded commitments and ability to redeem such investments.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_SummaryOfFairValueByStrategyTypeAlongsideConsolidatedFundsOfHedgeFundsRemainingUnfundedCommitmentsAndAbilityToRedeemSuchInvestmentsTableTextBlock
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of financial instrument measured at fair value on recurring or nonrecurring basis. Includes, but is not limited to, instrument classified in shareholders' equity.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsAndLiabilitiesMeasuredOnRecurringAndNonrecurringBasisTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of input and valuation technique used to measure fair value and change in valuation approach and technique for each separate class of asset and liability measured on recurring and nonrecurring basis.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 103
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-103
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsAndLiabilitiesMeasuredOnRecurringAndNonrecurringBasisValuationTechniquesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

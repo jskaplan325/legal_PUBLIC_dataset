@@ -1,0 +1,144 @@
+XML
+106
+R34.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DEBT (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Debt Disclosure [Abstract]
+
+Schedule of Borrowings Outstanding
+The following table summarizes the Company s and its subsidiaries debt obligations:
+
+ As of December 31, 2024 As of December 31, 2023
+
+ Debt Origination Date Maturity Original Borrowing Amount Carrying Value Interest Rate Carrying Value Interest Rate
+Credit Facility(1)
+ Revolving 3/31/2029 N/A $ % $ 895,000 6.37%
+2024 Senior Notes(2)
+ 10/8/2014 10/8/2024 $ 250,000 N/A N/A 249,427 4.21
+2028 Senior Notes(3)
+ 11/10/2023 11/10/2028 500,000 495,677 6.42 494,863 6.42
+2030 Senior Notes(4)
+ 6/15/2020 6/15/2030 400,000 397,501 3.28 397,050 3.28
+2052 Senior Notes(5)
+ 1/21/2022 2/1/2052 500,000 484,601 3.77 484,199 3.77
+2054 Senior Notes(6)
+ 10/11/2024 10/11/2054 750,000 736,010 5.65 N/A N/A
+2051 Subordinated Notes(7)
+ 6/30/2021 6/30/2051 450,000 445,125 4.13 444,941 4.13
+Total debt obligations $ 2,558,914 $ 2,965,480
+
+(1)On March 28, 2024, the Company amended the Credit Facility to, among other things, increase the revolver commitments from $1.325 billion to $1.400 billion, with an accordion feature of $600.0 million, and extend the maturity date from March 2027 to March 2029. Ares Holdings is the borrower under the Credit Facility. The Credit Facility has a variable interest rate based on Secured Overnight Financing Rate ( SOFR ) or a base rate plus an applicable margin, which is subject to adjustment based on the achievement of certain environmental, social and governance ( ESG )-related targets, with an unused commitment fee paid quarterly, which is subject to change with the Company s underlying credit agency rating. As of December 31, 2024, base rate loans bear interest calculated based on the prime rate and the SOFR loans bear interest calculated based on SOFR plus 1.00%. The unused commitment fee is 0.10% per annum. There is a base rate and SOFR floor of zero. Due to the achievement of ESG-related targets, the Company s applicable margin and unused commitment fee have been reduced by 0.05% and 0.01%, respectively, from July 2023 through June 2025.
+(2)The 2024 Senior Notes were issued in October 2014 by Ares Finance Co. LLC, an indirect subsidiary of the Company, at 98.27% of the face amount with interest paid semi-annually. On October 8, 2024 the Company repaid the 2024 Senior Notes at maturity.
+(3)The 2028 Senior Notes were issued in November 2023 by the Company, at 99.80% of the face amount with interest paid semi-annually. The Company may redeem the 2028 Senior Notes prior to maturity, subject to the terms of the indenture governing the 2028 Senior Notes.
+(4)The 2030 Senior Notes were issued in June 2020 by Ares Finance Co. II LLC, an indirect subsidiary of the Company, at 99.77% of the face amount with interest paid semi-annually. The Company may redeem the 2030 Senior Notes prior to maturity, subject to the terms of the indenture governing the 2030 Senior Notes.
+(5)The 2052 Senior Notes were issued in January 2022 by Ares Finance Co. IV LLC, an indirect subsidiary of the Company, at 97.78% of the face amount with interest paid semi-annually. The Company may redeem the 2052 Senior Notes prior to maturity, subject to the terms of the indenture governing the 2052 Senior Notes.
+(6)The 2054 Senior Notes were issued in October 2024 by the Company, at 99.24% of the face amount with interest paid semi-annually. The Company may redeem the 2054 Senior Notes prior to maturity, subject to the terms of the indenture governing the 2054 Senior Notes.
+(7)The 2051 Subordinated Notes were issued in June 2021 by Ares Finance Co. III LLC, an indirect subsidiary of the Company with interest paid semi-annually at a fixed rate of 4.125%. Beginning June 30, 2026, the interest rate will reset on every fifth year based on the five-year U.S. Treasury Rate plus 3.237%. The Company may redeem the 2051 Subordinated Notes prior to maturity or defer interest payments up to five consecutive years, subject to the terms of the indenture governing the 2051 Subordinated Notes.
+The following table presents the activity of the Company s debt issuance costs:
+
+ Credit Facility Senior Notes Subordinated Notes
+Unamortized debt issuance costs as of December 31, 2022
+ $ 5,510 $ 8,393 $ 5,243
+Debt issuance costs incurred 4,315
+Amortization of debt issuance costs (1,297) (924) (184)
+
+Unamortized debt issuance costs as of December 31, 2023
+ 4,213 11,784 5,059
+Debt issuance costs incurred 1,832 8,662
+Amortization of debt issuance costs (1,187) (1,721) (184)
+
+Unamortized debt issuance costs as of December 31, 2024 $ 4,858 $ 18,725 $ 4,875
+
+The following loan obligations were outstanding and classified as liabilities of the Consolidated CLOs:
+
+ As of December 31,
+ 2024 2023
+ Fair Value of
+Loan Obligations Weighted
+Average
+ Interest Rate Weighted
+Average
+ Remaining Maturity
+(in years) Fair Value of
+Loan Obligations Weighted
+Average
+ Interest Rate Weighted
+Average
+Remaining Maturity
+(in years)
+Senior secured notes $ 8,937,972 6.08% 8.0 $ 11,606,289 6.64% 8.2
+Subordinated notes(1)
+ 734,217 N/A 5.6 739,368 N/A 6.9
+Total loan obligations of Consolidated CLOs $ 9,672,189 $ 12,345,657
+
+(1)The notes do not have contractual interest rates; instead, holders of the notes receive a variable rate of interest amounting to the excess cash flows generated by each Consolidated CLO.
+The Consolidated Funds had the following revolving bank credit facilities outstanding:
+
+ As of December 31,
+ 2024 2023
+ Maturity Date Total Capacity Outstanding Loan(1)
+ Effective Rate Outstanding Loan(1)
+ Effective Rate
+Credit Facilities:
+ 7/1/2024 $ 18,000 (2)
+ N/A N/A $ 15,241 6.88%
+ 9/25/2025 150,000 $ 121,000 8.00% N/A N/A
+ 9/24/2026 150,000 N/A
+ 6/26/2027 200,000 154,000 7.15 110,000 8.29
+ 9/12/2027 54,000 N/A
+Total borrowings of Consolidated Funds $ 275,000 $ 125,241
+
+(1)The fair values of the borrowings approximate the carrying value as the interest rate on the borrowings is a floating rate.
+(2)Represents a credit facility of a Consolidated Fund that was repaid on maturity date. The amount represents the total capacity as of December 31, 2023.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of information pertaining to short-term and long-debt instruments or arrangements, including but not limited to identification of terms, features, collateral requirements and other information necessary to a fair presentation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDebtTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

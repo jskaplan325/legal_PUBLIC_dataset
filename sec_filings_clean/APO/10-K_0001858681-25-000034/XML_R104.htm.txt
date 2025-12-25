@@ -1,0 +1,199 @@
+XML
+134
+R104.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Reinsurance - Schedule of Reinsurance Recoverables (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance recoverable
+$ 8,194
+
+$ 4,154
+
+Catalina
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance recoverable
+4,309
+
+0
+
+Global Atlantic
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance recoverable
+2,328
+
+2,435
+
+Protective
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance recoverable
+1,435
+
+1,559
+
+Other
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance recoverable
+$ 122
+
+$ 160
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 825
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477351/944-825-50-1B
+
++ Details
+
+ Name:
+us-gaap_CededCreditRiskLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after valuation allowance, recoverable under reinsurance contracts including premium paid under reinsurance contracts. Examples include, but are not limited to, settled and unsettled claims, incurred but not reported losses, loss adjustment expense, premium paid, policy benefits and policy reserves.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-5
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477409/944-310-45-5
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceRecoverables
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_CededCreditRiskAxis=apo_CatalinaMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CededCreditRiskAxis=apo_GlobalAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CededCreditRiskAxis=apo_ProtectiveLifeInsuranceCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CededCreditRiskAxis=apo_OtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

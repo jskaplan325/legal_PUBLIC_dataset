@@ -1,0 +1,136 @@
+XML
+202
+R180.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+REDEEMABLE NONCONTROLLING INTERESTS - Narrative (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Dec. 31, 2021
+
+Redeemable Noncontrolling Interest [Line Items]
+
+Redeemable non-controlling interests
+$ 1,585,177
+
+$ 615,427
+
+$ 152,065
+
+$ 82,491
+
+Global Atlantic
+
+Redeemable Noncontrolling Interest [Line Items]
+
+Redeemable non-controlling interests
+
+$ 47,800
+
+X
+
+- DefinitionAs of the reporting date, the aggregate carrying amount of all noncontrolling interests which are redeemable by the (parent) entity (1) at a fixed or determinable price on a fixed or determinable date, (2) at the option of the holder of the noncontrolling interest, or (3) upon occurrence of an event that is not solely within the control of the (parent) entity. This item includes noncontrolling interest holder's ownership (or holders' ownership) regardless of the type of equity interest (common, preferred, other) including all potential organizational (legal) forms of the investee entity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 480
+ -SubTopic 10
+ -Subparagraph (12)(c)
+ -Section S99
+ -Paragraph 3A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480244/480-10-S99-3A
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 480
+ -SubTopic 10
+ -Subparagraph (16)(c)
+ -Paragraph 3A
+ -Section S99
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480244/480-10-S99-3A
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 480
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3A
+ -Subparagraph (15)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480244/480-10-S99-3A
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 480
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3A
+ -Subparagraph (14)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480244/480-10-S99-3A
+
++ Details
+
+ Name:
+us-gaap_RedeemableNoncontrollingInterestEquityCarryingAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_RedeemableNoncontrollingInterestLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=kkr_GlobalAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

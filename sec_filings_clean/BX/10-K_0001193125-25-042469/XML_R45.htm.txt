@@ -1,0 +1,276 @@
+XML
+74
+R45.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Leases (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Leases [Abstract]
+
+Schedule of components of lease expense
+ The components of lease expense were as follows:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Operating Lease Cost
+
+Straight-Line Lease Cost (a)
+
+$
+
+156,680
+
+$
+
+160,534
+
+$
+
+139,740
+
+Variable Lease Cost (b)
+
+20,222
+
+15,268
+
+12,072
+
+Sublease Income
+
+(65
+
+)
+
+(63
+
+)
+
+(888
+
+)
+
+$
+
+ 176,837
+
+$
+
+ 175,739
+
+$
+
+ 150,924
+
+(a)
+
+Straight-line lease cost includes short-term leases, which are immaterial.
+
+(b)
+
+Variable lease cost approximates variable lease cash payments.
+
+Schedule of Supplemental cash flow information related to leases
+
+ Supplemental cash flow information related to leases was as follows:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Operating Cash Flows for Operating Lease Liabilities
+
+$
+
+ 145,388
+
+$
+
+ 127,183
+
+$
+
+ 107,249
+
+Non-Cash Right-of-Use Assets Obtained in Exchange for New Operating Lease Liabilities
+
+$
+
+129,451
+
+$
+
+117,155
+
+$
+
+278,010
+
+Schedule of Undiscounted cash flows on an annual basis for Operating Lease Liabilities
+ The following table shows the undiscounted cash flows on an annual basis for Operating Lease Liabilities as of December 31, 2024:
+
+2025
+
+$
+
+178,730
+
+2026
+
+176,178
+
+2027
+
+173,142
+
+2028
+
+167,033
+
+2029
+
+106,720
+
+Thereafter
+
+281,538
+
+Total Lease Payments (a)
+
+1,083,341
+
+Less: Imputed Interest
+
+(117,599
+
+)
+
+Present Value of Operating Lease Liabilities
+
+$
+
+965,742
+
+(a)
+
+Excludes signed leases that have not yet commenced.
+
+X
+
+- DefinitionThe amount of Schedule of supplemental cash flow information related to leases
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ScheduleOfSupplementalCashFlowInformationRelatedToLeases
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of lessee's lease cost. Includes, but is not limited to, interest expense for finance lease, amortization of right-of-use asset for finance lease, operating lease cost, short-term lease cost, variable lease cost and sublease income.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_LeaseCostTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LeasesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of undiscounted cash flows of lessee's operating lease liability. Includes, but is not limited to, reconciliation of undiscounted cash flows to operating lease liability recognized in statement of financial position.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityMaturityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

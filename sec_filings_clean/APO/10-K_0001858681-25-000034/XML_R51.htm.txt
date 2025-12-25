@@ -1,0 +1,218 @@
+XML
+81
+R51.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Equity [Abstract]
+
+Schedule of Share Activity
+The table below outlines the share activity for the years ended December 31, 2024, 2023 and 2022 :
+
+ Years ended December 31,
+ 2024 2023 2022
+Shares of common stock issued in settlement of vested RSUs and options exercised1
+ 7,852,512 8,643,520 6,663,694
+Shares issued to Apollo Opportunity Foundation2
+ 1,724,137
+Reduction of shares of common stock issued3
+ (2,998,607) (3,185,680) (2,896,130)
+Shares of common stock purchased related to share issuances and forfeitures4
+ (150,676) (162,123) (219,960)
+Issuance of shares of common stock for equity-based awards 4,703,229 5,295,717 5,271,741
+
+1 The gross value of shares issued was $868 million, $626 million and $420 million for the years ended December 31, 2024, 2023 and 2022, respectively, based on the closing price of the shares of common stock at the time of issuance.
+
+2 Shares issued to Apollo Opportunity Foundation in connection with an irrevocable pledge to contribute 1.7 million shares of common stock. The gross value of shares issued for the year ended December 31, 2022 totaled $103 million.
+
+3 Cash paid for tax liabilities associated with net share settlement was $338 million, $259 million and $185 million for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+4 Certain Apollo employees receive a portion of the profit sharing proceeds of certain funds in the form of (a) restricted shares of common stock that they are required to purchase with such proceeds or (b) RSUs, in each case which equity-based awards generally vest over three years. These equity-based awards are granted under the Company's Equity Plan. To prevent dilution on account of these awards, Apollo may, in its discretion, repurchase shares of common stock on the open market and retire them. During the years ended December 31, 2024, 2023 and 2022, Apollo issued 401,111, 551,333 and 546,766 of such restricted shares and 150,676, 162,123 and 219,960 of such RSUs under the Equity Plan, respectively. During the years ended December 31, 2023 and 2022, Apollo repurchased 713,456 and 766,726 shares of common stock in open-market transactions not pursuant to a publicly-announced repurchase plan or program, respectively. In addition, there were 1,085, 10,880 and 12,883 restricted shares forfeited during the years ended December 31, 2024, 2023 and 2022, respectively.
+
+Schedule of Dividends and Distributions
+Outlined below is information regarding quarterly dividends and distributions (in millions, except per share data).
+
+Dividend Declaration Date Dividend per Share of Common Stock Payment Date Dividend to Common Stockholders Distribution Equivalents on Participating Securities
+
+February 11, 2022 $ 0.40 February 28, 2022 $ 229 $ 12
+May 5, 2022 0.40 May 31, 2022 229 12
+August 4, 2022 0.40 August 31, 2022 229 11
+November 2, 2022 0.40 November 30, 2022 229 11
+Year ended December 31, 2022 $ 1.60 $ 916 $ 46
+February 9, 2023 $ 0.40 February 28, 2023 $ 229 $ 12
+May 9, 2023 0.43 May 31, 2023 244 12
+August 3, 2023 0.43 August 31, 2023 244 12
+November 1, 2023 0.43 November 30, 2023 244 15
+Year ended December 31, 2023 $ 1.69 $ 961 $ 51
+February 8, 2024 $ 0.43 February 29, 2024 $ 245 $ 14
+May 2, 2024 0.46 May 31, 2024 263 16
+August 1, 2024 0.46 August 30, 2024 262 15
+November 5, 2024 0.46 November 29, 2024 262 15
+Year ended December 31, 2024 $ 1.81 $ 1,032 $ 60
+
+Schedule of Accumulated Other Comprehensive Income (Loss)
+
+(In millions) Unrealized investment gains (losses) on AFS securities without a credit allowance Unrealized investment gains (losses) on AFS securities with a credit allowance Unrealized gains (losses) on hedging instruments Remeasurement gains (losses) on future policy benefits related to discount rate Remeasurement gains (losses) on market risk benefits related to credit risk Foreign currency translation and other adjustments Accumulated other comprehensive income (loss)
+Balance at December 31, 2023 $ (8,675) $ (289) $ (81) $ 3,458 $ 3 $ 9 $ (5,575)
+
+Other comprehensive income (loss) before reclassifications (1,354) (5) (8) 1,425 (149) (101) (192)
+Less: Reclassification adjustments for gains (losses) realized1
+ (223) (15) 43 (195)
+Less: Income tax expense (benefit) (219) 3 (8) 287 (31) (11) 21
+Less: Other comprehensive income (loss) attributable to non-controlling interests, net of tax (413) 2 (5) 361 (12) (32) (99)
+Balance at December 31, 2024 $ (9,174) $ (284) $ (119) $ 4,235 $ (103) $ (49) $ (5,494)
+
+1 Recognized in investment related gains (losses) on the consolidated statements of operations.
+
+(In millions) Unrealized investment gains (losses) on AFS securities without a credit allowance Unrealized investment gains (losses) on AFS securities with a credit allowance Unrealized gains (losses) on hedging instruments Remeasurement gains (losses) on future policy benefits related to discount rate Remeasurement gains (losses) on market risk benefits related to credit risk Foreign currency translation and other adjustments Accumulated other comprehensive income (loss)
+Balance at December 31, 2022 $ (12,568) $ (334) $ 48 $ 5,256 $ 285 $ (22) $ (7,335)
+
+Other comprehensive income (loss) before reclassifications 5,067 51 (117) (2,236) (374) 65 2,456
+Less: Reclassification adjustments for gains (losses) realized1
+ (163) (3) 82 (84)
+Less: Income tax expense (benefit) 588 6 (51) 38 (78) 10 513
+Less: Other comprehensive income (loss) attributable to non-controlling interests, net of subsidiary issuance of equity interest and tax 749 3 (19) (476) (14) 24 267
+Balance at December 31, 2023 $ (8,675) $ (289) $ (81) $ 3,458 $ 3 $ 9 $ (5,575)
+
+1 Recognized in investment related gains (losses) on the consolidated statements of operations.
+
+(In millions) Unrealized investment gains (losses) on AFS securities without a credit allowance Unrealized investment gains (losses) on AFS securities with a credit allowance Unrealized gains (losses) on hedging instruments Remeasurement gains (losses) on future policy benefits related to discount rate Remeasurement gains (losses) on market risk benefits related to credit risk Foreign currency translation and other adjustments Accumulated other comprehensive income (loss)
+Balance at December 31, 2021 $ (1) $ $ (1) $ $ $ (3) $ (5)
+
+Other comprehensive income (loss) before reclassifications (17,931) (463) 71 8,425 366 (58) (9,590)
+Less: Reclassification adjustments for gains (losses) realized1
+ (218) (18) 67 (169)
+Less: Income tax expense (benefit) (3,154) (86) 12 1,223 77 (5) (1,933)
+Less: Other comprehensive income (loss) attributable to non-controlling interests, net of tax (1,992) (25) (57) 1,946 4 (34) (158)
+Balance at December 31, 2022 $ (12,568) $ (334) $ 48 $ 5,256 $ 285 $ (22) $ (7,335)
+
+1 Recognized in investment related gains (losses) on the consolidated statements of operations.
+
+X
+
+- DefinitionTabular disclosure of information related to dividends declared, including paid and unpaid dividends.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DividendsDeclaredTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EquityAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the components of accumulated other comprehensive income (loss).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 220
+ -SubTopic 10
+ -Section 45
+ -Paragraph 14A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-14A
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 830
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481674/830-30-50-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 830
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481694/830-30-45-20
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfAccumulatedOtherComprehensiveIncomeLossTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of changes in the separate accounts comprising stockholders' equity (in addition to retained earnings) and of the changes in the number of shares of equity securities during at least the most recent annual fiscal period and any subsequent interim period presented is required to make the financial statements sufficiently informative if both financial position and results of operations are presented.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -SubTopic 10
+ -Topic 505
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfStockholdersEquityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

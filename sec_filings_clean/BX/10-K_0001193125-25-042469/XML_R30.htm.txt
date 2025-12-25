@@ -1,0 +1,268 @@
+XML
+59
+R30.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Related Party Transactions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Related Party Transactions
+ 17. Related Party Transactions
+
+Affiliate Receivables and Payables
+
+ Due from Affiliates and Due to Affiliates consisted of the following:
+
+December 31,
+
+2024
+
+2023
+
+Due from Affiliates
+
+Management Fees, Performance Revenues, Reimbursable Expenses and Other Receivables from Non-Consolidated Entities and Portfolio Companies
+
+$
+
+4,049,707
+
+$
+
+3,638,948
+
+Due from Certain Non-Controlling Interest Holders and Blackstone Employees
+
+1,191,527
+
+720,743
+
+Accrual for Potential Clawback of Previously Distributed Performance Allocations
+
+168,081
+
+106,830
+
+$
+
+5,409,315
+
+$
+
+4,466,521
+
+December 31,
+
+2024
+
+2023
+
+Due to Affiliates
+
+Due to Certain Non-Controlling Interest Holders in Connection with the Tax Receivable Agreements
+
+$
+
+1,844,978
+
+$
+
+1,681,516
+
+Due to Non-Consolidated Entities
+
+208,537
+
+124,560
+
+Due to Certain Non-Controlling Interest Holders and Blackstone Employees
+
+255,086
+
+305,816
+
+Accrual for Potential Repayment of Previously Received Performance Allocations
+
+499,547
+
+281,518
+
+$
+
+2,808,148
+
+$
+
+2,393,410
+
+ Interests of the Founder, Senior Managing Directors, Employees and Other Related Parties
+
+The Founder, senior managing directors, employees and certain other related parties invest on a discretionary basis in the consolidated Blackstone Funds both directly and through consolidated entities. These investments generally are subject to preferential management fee and performance allocation or incentive fee arrangements. As of December 31, 2024 and 2023, such investments aggregated to $2.0 billion and $1.7 billion, respectively. Their share of the Net Income Attributable to Redeemable Non-Controlling and Non-Controlling Interests in Consolidated Entities aggregated $176.0 million, $87.8 million, and $10.9 million for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+Contingent Repayment Guarantee
+
+Blackstone and its personnel who have received Performance Allocation distributions have guaranteed payment on a several basis (subject to a cap) to the carry funds of any clawback obligation with respect to the excess Performance Allocation allocated to the general partners of such funds and indirectly received thereby to the extent that either Blackstone or its personnel fails to fulfill its clawback obligation, if any. The Accrual for Potential Repayment of Previously Received Performance Allocations represents amounts previously paid to Blackstone Holdings and non-controlling interest holders that would need to be repaid to the Blackstone Funds if the carry funds were to be liquidated based on the fair value of their underlying investments as of December 31, 2024. See Note 18. Commitments and Contingencies Contingencies Contingent Obligations (Clawback).
+
+Tax Receivable Agreements
+
+Blackstone used a portion of the proceeds from the IPO and other sales of shares to purchase interests in the predecessor businesses from the predecessor owners. In addition, holders of Blackstone Holdings Partnership Units may exchange their Blackstone Holdings Partnership Units for shares of Blackstone common stock on a one-for-one basis. The purchase and subsequent exchanges are expected to result in increases in the tax basis of the tangible and intangible assets of Blackstone Holdings and therefore reduce the amount of tax that Blackstone would otherwise be required to pay in the future.
+
+Blackstone has entered into tax receivable agreements with each of the predecessor owners. In addition, others who acquire Blackstone Holdings Partnership Units, including senior managing directors, execute tax receivable agreements. The agreements provide for the payment by the corporate taxpayer to such owners of 85% of the amount of cash savings, if any, in U.S. federal, state and local income tax that the corporate taxpayers actually realize as a result of the aforementioned increases in tax basis and of certain other tax benefits related to entering into these tax receivable agreements. For purposes of the tax receivable agreements, cash savings in income tax will be computed by comparing the actual income tax liability of the corporate taxpayers to the amount of such taxes that the corporate taxpayers would have been required to pay had there been no increase to the tax basis of the tangible and intangible assets of Blackstone Holdings as a result of the exchanges and had the corporate taxpayers not entered into the tax receivable agreements.
+
+ Assuming no future material changes in the relevant tax law and that the corporate taxpayers earn sufficient taxable income to realize the full tax benefit of the increased amortization of the assets, the expected future payments under the tax receivable agreements (which are taxable to the recipients) will aggregate $1.8 billion over the next 15 years. The after-tax net present value of these estimated payments totals $529.9 million assuming a 15% discount rate and using Blackstone s most recent projections relating to the estimated timing of the benefit to be received. Future payments under the tax receivable agreements in respect of subsequent exchanges would be in addition to these amounts. The payments under the tax receivable agreements are not conditioned upon continued ownership of Blackstone equity interests by the pre-IPO owners and the others mentioned above. Subsequent to December 31, 2024, payments totaling $46.3 million were made to certain pre-IPO owners and others mentioned above in accordance with the tax receivable agreement and related to tax benefits Blackstone received for the 2023 taxable year.
+
+ Amounts related to the deferred tax asset resulting from the increase in tax basis from the exchange of Blackstone Holdings Partnership Units to shares of Blackstone common stock, the resulting remeasurement of net deferred tax assets at the Blackstone ownership percentage at the balance sheet date, the due to affiliates for the future payments resulting from the tax receivable agreements and resulting adjustment to partners capital are included as Deferred Tax Asset Effects from Equity Transactions in the Supplemental Disclosure of Non-Cash Investing and Financing Activities in the Consolidated Statements of Cash Flows.
+
+ Other
+
+ Blackstone does business with and on behalf of some of its Portfolio Companies; all such arrangements are on a negotiated basis.
+
+ Additionally, please see Note 18. Commitments and Contingencies Contingencies Guarantees for information regarding guarantees provided to a lending institution for certain loans held by employees.
+
+X
+
+- DefinitionThe entire disclosure for related party transactions. Examples of related party transactions include transactions between (a) a parent company and its subsidiary; (b) subsidiaries of a common parent; (c) and entity and its principal owners; and (d) affiliates.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-5
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-6
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(e))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/850/tableOfContent
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-6
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

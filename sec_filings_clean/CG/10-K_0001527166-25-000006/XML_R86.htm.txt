@@ -1,0 +1,1109 @@
+XML
+109
+R86.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Borrowings - Additional Information (Details)
+ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+USD ($)
+
+Dec. 31, 2023
+
+USD ($)
+
+Dec. 31, 2022
+
+USD ($)
+
+Dec. 31, 2024
+
+EUR ( )
+
+Jun. 30, 2021
+
+USD ($)
+
+May 31, 2021
+
+USD ($)
+
+Feb. 28, 2017
+
+EUR ( )
+
+Mar. 31, 2014
+
+USD ($)
+
+Mar. 31, 2013
+
+USD ($)
+
+Line of Credit Facility [Line Items]
+
+Interest
+$ 121,000,000.0
+
+$ 123,800,000
+
+$ 110,400,000
+
+Debt principal amount
+2,164,400,000
+
+2,306,700,000
+
+Fair value of CLO assets
+$ 7,900,000,000
+
+6,800,000,000
+
+Senior Notes
+
+Line of Credit Facility [Line Items]
+
+Debt redemption price percentage
+100.00%
+
+CLO Term Loans
+
+Line of Credit Facility [Line Items]
+
+Interest
+$ 24,400,000
+
+24,900,000
+
+10,700,000
+
+Debt principal amount
+289,400,000
+
+431,700,000
+
+CLO Term Loan February 2017 Maturing September 2029
+
+Line of Credit Facility [Line Items]
+
+Debt principal amount
+$ 23,500,000
+
+ 22.8
+
+CLO Term Loan February 2017 Maturing September 2029 | Euribor
+
+Line of Credit Facility [Line Items]
+
+Interest rate at end of period
+6.13%
+
+6.13%
+
+Master Credit Agreements - Term Loans
+
+Line of Credit Facility [Line Items]
+
+Outstanding borrowing
+$ 25,500,000
+
+CLO Financing Facility
+
+Line of Credit Facility [Line Items]
+
+Outstanding borrowing
+177,100,000
+
+ 171.1
+
+CBAM CLO Financing Facility
+
+Line of Credit Facility [Line Items]
+
+Outstanding borrowing
+63,300,000
+
+61.2
+
+Borrowing capacity |
+
+ 100.0
+
+5.650% Senior Notes Due 9/15/2048
+
+Line of Credit Facility [Line Items]
+
+Debt principal amount
+$ 350,000,000.0
+
+350,000,000.0
+
+Interest rate (percent)
+5.65%
+
+5.65%
+
+5.650% Senior Notes Due 9/15/2048 | Senior Notes
+
+Line of Credit Facility [Line Items]
+
+Debt principal amount
+$ 350,000,000.0
+
+Interest rate (percent)
+5.65%
+
+5.65%
+
+Fair Value
+$ 338,100,000
+
+336,000,000.0
+
+5.650% Senior Notes Due 9/15/2048 | Treasury Rate | Senior Notes
+
+Line of Credit Facility [Line Items]
+
+Redemption price, discount rate
+0.40%
+
+5.625% Senior Notes Due 3/30/2043
+
+Line of Credit Facility [Line Items]
+
+Debt principal amount
+$ 600,000,000.0
+
+600,000,000.0
+
+Interest rate (percent)
+5.625%
+
+5.625%
+
+5.625% Senior Notes Due 3/30/2043 | Senior Notes
+
+Line of Credit Facility [Line Items]
+
+Debt principal amount
+$ 600,000,000.0
+
+$ 200,000,000.0
+
+$ 400,000,000.0
+
+Interest rate (percent)
+5.625%
+
+5.625%
+
+Fair Value
+$ 589,500,000
+
+594,600,000
+
+5.625% Senior Notes Due 3/30/2043 | Treasury Rate | Senior Notes
+
+Line of Credit Facility [Line Items]
+
+Redemption price, discount rate
+0.40%
+
+3.500% Senior Notes Due 9/19/2029
+
+Line of Credit Facility [Line Items]
+
+Debt principal amount
+$ 425,000,000.0
+
+425,000,000.0
+
+Interest rate (percent)
+3.50%
+
+3.50%
+
+3.500% Senior Notes Due 9/19/2029 | Senior Notes
+
+Line of Credit Facility [Line Items]
+
+Debt principal amount
+$ 425,000,000.0
+
+Interest rate (percent)
+3.50%
+
+3.50%
+
+Fair Value
+$ 401,200,000
+
+401,900,000
+
+3.500% Senior Notes Due 9/19/2029 | Treasury Rate | Senior Notes
+
+Line of Credit Facility [Line Items]
+
+Redemption price, discount rate
+0.30%
+
+4.625% Subordinated Notes Due 5/15/2061
+
+Line of Credit Facility [Line Items]
+
+Interest
+$ 23,500,000
+
+23,500,000
+
+$ 23,500,000
+
+Debt principal amount
+
+$ 65,000,000
+
+$ 435,000,000
+
+Debt redemption price percentage
+102.00%
+
+Interest rate (percent)
+
+4.625%
+
+Period from tax redemption event that debt may be redeemed
+120 days
+
+Period from rating agency event that debt may be redeemed
+90 days
+
+Fair Value
+$ 356,400,000
+
+$ 411,800,000
+
+X
+
+- DefinitionDebt Instrument, Redemption Price, Discount Rate, Basis Spread On Variable Rate
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_DebtInstrumentRedemptionPriceDiscountRateBasisSpreadOnVariableRate
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDebt Instrument, Redemption, Redemption Period From Rating Agency Event
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_DebtInstrumentRedemptionRedemptionPeriodFromRatingAgencyEvent
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDebt Instrument, Redemption, Redemption Period From Tax Redemption Event
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_DebtInstrumentRedemptionRedemptionPeriodFromTaxRedemptionEvent
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of collateralized loan obligation assets.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_FairValueOfCollateralizedLoanObligationAssets
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFace (par) amount of debt instrument at time of issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482949/835-30-55-8
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69B
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69C
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482900/835-30-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentFaceAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of debt instrument payable, including, but not limited to, notes payable and loans payable.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69B
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69C
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionContractual interest rate for funds borrowed, under the debt agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(a)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentInterestRateStatedPercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPercentage price of original principal amount of debt at which debt can be redeemed by the issuer.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 470
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477734/942-470-50-3
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentRedemptionPricePercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of interest expense classified as operating and nonoperating. Includes, but is not limited to, cost of borrowing accounted for as interest expense.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-24
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483013/835-20-50-1
+
++ Details
+
+ Name:
+us-gaap_InterestExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe carrying value as of the balance sheet date of the current and noncurrent portions of long-term obligations drawn from a line of credit, which is a bank's commitment to make loans up to a specific amount. Examples of items that might be included in the application of this element may consist of letters of credit, standby letters of credit, and revolving credit arrangements, under which borrowings can be made up to a maximum amount as of any point in time conditional on satisfaction of specified terms before, as of and after the date of drawdowns on the line. Includes short-term obligations that would normally be classified as current liabilities but for which (a) postbalance sheet date issuance of a long term obligation to refinance the short term obligation on a long term basis, or (b) the enterprise has entered into a financing agreement that clearly permits the enterprise to refinance the short-term obligation on a long term basis and the following conditions are met (1) the agreement does not expire within 1 year and is not cancelable by the lender except for violation of an objectively determinable provision, (2) no violation exists at the BS date, and (3) the lender has entered into the financing agreement is expected to be financially capable of honoring the agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(16))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(16)(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCredit
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe effective interest rate at the end of the reporting period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(19)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityInterestRateAtPeriodEnd
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(f))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionMaximum borrowing capacity under the credit facility without consideration of any current restrictions on the amount that could be borrowed or the amounts currently outstanding under the facility.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(19)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityMaximumBorrowingCapacity
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_LongtermDebtTypeAxis=us-gaap_SeniorNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_CLOTermLoansMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_CLOTermLoanFebruary2017MaturingSeptember2029Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_VariableRateAxis=us-gaap_EuriborFutureMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_MasterCreditAgreementsTermLoansMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_CLOFinancingFacilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_CBAMCLOFinancingFacilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_A5.650SeniorNotesDue2048Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_VariableRateAxis=cg_TreasuryRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_A5.625SeniorNotesDue2043Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_SeniorNotes3.500Due2029Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=cg_SubordinatedNotesDueMay2061Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

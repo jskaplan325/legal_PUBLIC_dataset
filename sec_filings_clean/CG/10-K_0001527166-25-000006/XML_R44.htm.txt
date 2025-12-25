@@ -1,0 +1,267 @@
+XML
+67
+R44.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity-Based Compensation (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Share-Based Payment Arrangement [Abstract]
+
+Summary of status of non-vested equity-based awards
+A summary of the status of the Company s non-vested equity-based awards as of December 31, 2024 and a summary of changes from December 31, 2021 through December 31, 2024, are presented below:
+
+Unvested Shares
+
+ Performance-
+Vesting
+Restricted
+Stock Units
+
+ Weighted-
+Average
+Grant Date
+Fair Value
+
+ Restricted
+Stock
+Units
+
+ Weighted-
+Average
+Grant Date
+Fair Value
+
+ Unvested
+Common
+Shares
+
+ Weighted-
+Average
+Grant Date
+Fair Value
+
+Balance, December 31, 2021
+
+ $
+
+ 14,775,651
+
+ $30.70
+
+ 635,430
+
+ $29.27
+
+Granted
+
+ $
+
+ 4,216,827
+
+ $40.35
+
+ 188,223
+
+ $49.06
+
+Vested
+
+ $
+
+ 5,805,437
+
+ $28.15
+
+ 370,773
+
+ $26.54
+
+Forfeited
+
+ $
+
+ 2,321,793
+
+ $30.84
+
+ $
+
+Balance, December 31, 2022
+
+ $
+
+ 10,865,248
+
+ $35.78
+
+ 452,880
+
+ $39.73
+
+Granted(1)
+
+ 4,941,317
+
+ $23.19
+
+ 13,332,230
+
+ $32.36
+
+ 258,579
+
+ $39.73
+
+Vested
+
+ $
+
+ 5,280,029
+
+ $31.86
+
+ 252,530
+
+ $34.85
+
+Forfeited
+
+ $
+
+ 1,685,119
+
+ $32.24
+
+ $37.91
+
+Balance, December 31, 2023
+
+ 4,941,317
+
+ $23.19
+
+ 17,232,330
+
+ $34.68
+
+ 458,929
+
+ $37.87
+
+Granted(1)
+
+ 13,286,934
+
+ $26.55
+
+ 5,659,849
+
+ $40.92
+
+ 247,293
+
+ $40.08
+
+Vested(2)
+
+ 995,848
+
+ $29.86
+
+ 6,932,134
+
+ $33.39
+
+ 247,316
+
+ $34.52
+
+Forfeited
+
+ 292,253
+
+ $24.55
+
+ 1,993,557
+
+ $33.86
+
+ $
+
+Balance, December 31, 2024
+
+ 16,940,150
+
+ $25.41
+
+ 13,966,488
+
+ $37.97
+
+ 458,906
+
+ $39.35
+
+(1)Includes shares reserved for issuance upon settlement of dividend-equivalent rights carried by certain restricted stock units concurrently with the
+settlement of the restricted stock units for shares.
+(2)Includes 3,332,881 shares that were retired in connection with the net share settlement of equity-based awards. The Company paid $159.0 million of
+taxes related to the net share settlement of equity-based awards during the year ended December 31, 2024, which is included within Financing activities
+in the consolidated statements of cash flows.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the changes in outstanding nonvested shares.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfNonvestedShareActivityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

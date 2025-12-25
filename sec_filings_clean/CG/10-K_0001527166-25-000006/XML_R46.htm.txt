@@ -1,0 +1,1583 @@
+XML
+69
+R46.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Supplemental Financial Information (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Condensed Financial Information Disclosure [Abstract]
+
+Supplemental financial position
+The following supplemental financial information illustrates the consolidating effects of the Consolidated Funds on the Company s financial position as of December 31, 2024 and 2023 and results of operations for the years ended December 31,
+2024, 2023 and 2022. The supplemental statement of cash flows is presented without effects of the Consolidated Funds.
+
+ As of December 31, 2024
+
+ Consolidated
+Operating
+Entities
+
+ Consolidated
+Funds
+
+ Eliminations
+
+ Consolidated
+
+ (Dollars in millions)
+
+Assets
+
+Cash and cash equivalents
+
+ $1,266.0
+
+ $
+
+ $
+
+ $1,266.0
+
+Cash and cash equivalents held at Consolidated Funds
+
+ 830.4
+
+ 830.4
+
+Restricted cash
+
+ 0.5
+
+ 0.5
+
+Investments, including accrued performance allocations of $7,053.5
+
+ 11,324.1
+
+ (387.4)
+
+ 10,936.7
+
+Investments of Consolidated Funds
+
+ 7,782.4
+
+ 7,782.4
+
+Due from affiliates and other receivables, net
+
+ 1,111.0
+
+ (305.4)
+
+ 805.6
+
+Due from affiliates and other receivables of Consolidated Funds, net
+
+ 237.1
+
+ 237.1
+
+Fixed assets, net
+
+ 185.3
+
+ 185.3
+
+Lease right-of-use assets, net
+
+ 341.4
+
+ 341.4
+
+Deposits and other
+
+ 54.6
+
+ 1.8
+
+ 56.4
+
+Intangible assets, net
+
+ 634.1
+
+ 634.1
+
+Deferred tax assets
+
+ 27.6
+
+ 27.6
+
+Total assets
+
+ $14,944.6
+
+ $8,851.7
+
+ $(692.8)
+
+ $23,103.5
+
+Liabilities and equity
+
+Debt obligations
+
+ $2,143.5
+
+ $
+
+ $
+
+ $2,143.5
+
+Loans payable of Consolidated Funds
+
+ 7,161.6
+
+ (297.4)
+
+ 6,864.2
+
+Accounts payable, accrued expenses and other liabilities
+
+ 389.8
+
+ 389.8
+
+Accrued compensation and benefits
+
+ 5,446.6
+
+ 5,446.6
+
+Due to affiliates
+
+ 236.6
+
+ 5.3
+
+ 241.9
+
+Deferred revenue
+
+ 138.7
+
+ 138.7
+
+Deferred tax liabilities
+
+ 137.0
+
+ 137.0
+
+Other liabilities of Consolidated Funds
+
+ 861.7
+
+ (0.1)
+
+ 861.6
+
+Lease liabilities
+
+ 488.6
+
+ 488.6
+
+Accrued giveback obligations
+
+ 44.0
+
+ 44.0
+
+Total liabilities
+
+ 9,024.8
+
+ 8,028.6
+
+ (297.5)
+
+ 16,755.9
+
+Common stock
+
+ 3.6
+
+ 3.6
+
+Additional paid-in capital
+
+ 3,892.3
+
+ 423.5
+
+ (423.5)
+
+ 3,892.3
+
+Retained earnings
+
+ 2,040.8
+
+ 2,040.8
+
+Accumulated other comprehensive loss
+
+ (350.5)
+
+ (7.5)
+
+ 28.2
+
+ (329.8)
+
+Non-controlling interests in consolidated entities
+
+ 333.6
+
+ 407.1
+
+ 740.7
+
+Total equity
+
+ 5,919.8
+
+ 823.1
+
+ (395.3)
+
+ 6,347.6
+
+Total liabilities and equity
+
+ $14,944.6
+
+ $8,851.7
+
+ $(692.8)
+
+ $23,103.5
+
+ As of December 31, 2023
+
+ Consolidated
+Operating
+Entities
+
+ Consolidated
+Funds
+
+ Eliminations
+
+ Consolidated
+
+ (Dollars in millions)
+
+Assets
+
+Cash and cash equivalents
+
+ $1,440.3
+
+ $
+
+ $
+
+ $1,440.3
+
+Cash and cash equivalents held at Consolidated Funds
+
+ 346.0
+
+ 346.0
+
+Restricted cash
+
+ 1.8
+
+ 1.8
+
+Investments, including accrued performance allocations of $6,169.9
+
+ 10,104.5
+
+ (149.2)
+
+ 9,955.3
+
+Investments of Consolidated Funds
+
+ 7,313.9
+
+ (60.8)
+
+ 7,253.1
+
+Due from affiliates and other receivables, net
+
+ 1,009.2
+
+ (317.6)
+
+ 691.6
+
+Due from affiliates and other receivables of Consolidated Funds, net
+
+ 141.0
+
+ 141.0
+
+Fixed assets, net
+
+ 161.5
+
+ 161.5
+
+Lease right-of-use assets, net
+
+ 332.2
+
+ 332.2
+
+Deposits and other
+
+ 66.0
+
+ 4.6
+
+ 70.6
+
+Intangible assets, net
+
+ 766.1
+
+ 766.1
+
+Deferred tax assets
+
+ 16.5
+
+ 16.5
+
+Total assets
+
+ $13,898.1
+
+ $7,805.5
+
+ $(527.6)
+
+ $21,176.0
+
+Liabilities and equity
+
+Debt obligations
+
+ $2,281.0
+
+ $
+
+ $
+
+ $2,281.0
+
+Loans payable of Consolidated Funds
+
+ 6,796.4
+
+ (309.9)
+
+ 6,486.5
+
+Accounts payable, accrued expenses and other liabilities
+
+ 333.8
+
+ 333.8
+
+Accrued compensation and benefits
+
+ 4,922.2
+
+ 4,922.2
+
+Due to affiliates
+
+ 269.6
+
+ 6.3
+
+ 275.9
+
+Deferred revenue
+
+ 140.3
+
+ 140.3
+
+Deferred tax liabilities
+
+ 45.3
+
+ 45.3
+
+Other liabilities of Consolidated Funds
+
+ 374.4
+
+ 374.4
+
+Lease liabilities
+
+ 488.1
+
+ 488.1
+
+Accrued giveback obligations
+
+ 44.0
+
+ 44.0
+
+Total liabilities
+
+ 8,524.3
+
+ 7,177.1
+
+ (309.9)
+
+ 15,391.5
+
+Common stock
+
+ 3.6
+
+ 3.6
+
+Additional paid-in capital
+
+ 3,403.0
+
+ 223.8
+
+ (223.8)
+
+ 3,403.0
+
+Retained earnings
+
+ 2,082.1
+
+ 2,082.1
+
+Accumulated other comprehensive loss
+
+ (292.7)
+
+ (10.7)
+
+ 6.1
+
+ (297.3)
+
+Non-controlling interests in consolidated entities
+
+ 177.8
+
+ 415.3
+
+ 593.1
+
+Total equity
+
+ 5,373.8
+
+ 628.4
+
+ (217.7)
+
+ 5,784.5
+
+Total liabilities and equity
+
+ $13,898.1
+
+ $7,805.5
+
+ $(527.6)
+
+ $21,176.0
+
+Supplemental results of operations
+
+ Year Ended December 31, 2024
+
+ Consolidated
+Operating
+Entities
+
+ Consolidated
+Funds
+
+ Eliminations
+
+ Consolidated
+
+ (Dollars in millions)
+
+Revenues
+
+Fund management fees
+
+ $2,218.3
+
+ $
+
+ $(30.2)
+
+ $2,188.1
+
+Incentive fees
+
+ 134.2
+
+ (0.7)
+
+ 133.5
+
+Investment income
+
+Performance allocations
+
+ 2,016.8
+
+ (1.1)
+
+ 2,015.7
+
+Principal investment income
+
+ 267.7
+
+ (29.0)
+
+ 238.7
+
+Total investment income
+
+ 2,284.5
+
+ (30.1)
+
+ 2,254.4
+
+Interest and other income
+
+ 239.2
+
+ (21.0)
+
+ 218.2
+
+Interest and other income of Consolidated Funds
+
+ 631.6
+
+ 631.6
+
+Total revenues
+
+ 4,876.2
+
+ 631.6
+
+ (82.0)
+
+ 5,425.8
+
+Expenses
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+
+ 875.5
+
+ 875.5
+
+Equity-based compensation
+
+ 467.9
+
+ 467.9
+
+Performance allocations and incentive fee related compensation
+
+ 1,361.5
+
+ 1,361.5
+
+Total compensation and benefits
+
+ 2,704.9
+
+ 2,704.9
+
+General, administrative and other expenses
+
+ 665.6
+
+ 665.6
+
+Interest
+
+ 121.0
+
+ 121.0
+
+Interest and other expenses of Consolidated Funds
+
+ 610.3
+
+ (45.4)
+
+ 564.9
+
+Other non-operating (income) expenses
+
+ (0.3)
+
+ (0.3)
+
+Total expenses
+
+ 3,491.2
+
+ 610.3
+
+ (45.4)
+
+ 4,056.1
+
+Other income
+
+Net investment income of Consolidated Funds
+
+ 24.0
+
+ 24.0
+
+Income before provision for income taxes
+
+ 1,385.0
+
+ 45.3
+
+ (36.6)
+
+ 1,393.7
+
+Provision for income taxes
+
+ 302.6
+
+ 302.6
+
+Net income
+
+ 1,082.4
+
+ 45.3
+
+ (36.6)
+
+ 1,091.1
+
+Net income attributable to non-controlling interests in consolidated entities
+
+ 62.0
+
+ 8.7
+
+ 70.7
+
+Net income attributable to The Carlyle Group Inc.
+
+ $1,020.4
+
+ $45.3
+
+ $(45.3)
+
+ $1,020.4
+
+ Year Ended December 31, 2023
+
+ Consolidated
+Operating
+Entities
+
+ Consolidated
+Funds
+
+ Eliminations
+
+ Consolidated
+
+ (Dollars in millions)
+
+Revenues
+
+Fund management fees
+
+ $2,074.3
+
+ $
+
+ $(31.1)
+
+ $2,043.2
+
+Incentive fees
+
+ 96.2
+
+ (2.5)
+
+ 93.7
+
+Investment income
+
+Performance allocations
+
+ (85.0)
+
+ (3.6)
+
+ (88.6)
+
+Principal investment income
+
+ 160.2
+
+ (26.8)
+
+ 133.4
+
+Total investment income
+
+ 75.2
+
+ (30.4)
+
+ 44.8
+
+Interest and other income
+
+ 222.7
+
+ (10.6)
+
+ 212.1
+
+Interest and other income of Consolidated Funds
+
+ 570.1
+
+ 570.1
+
+Total revenues
+
+ 2,468.4
+
+ 570.1
+
+ (74.6)
+
+ 2,963.9
+
+Expenses
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+
+ 1,023.7
+
+ 1,023.7
+
+Equity-based compensation
+
+ 249.1
+
+ 249.1
+
+Performance allocations and incentive fee related compensation
+
+ 1,103.7
+
+ 1,103.7
+
+Total compensation and benefits
+
+ 2,376.5
+
+ 2,376.5
+
+General, administrative and other expenses
+
+ 651.4
+
+ 0.7
+
+ 652.1
+
+Interest
+
+ 123.8
+
+ 123.8
+
+Interest and other expenses of Consolidated Funds
+
+ 460.3
+
+ (41.2)
+
+ 419.1
+
+Other non-operating expenses
+
+ 0.2
+
+ 0.2
+
+Total expenses
+
+ 3,151.9
+
+ 460.3
+
+ (40.5)
+
+ 3,571.7
+
+Other income
+
+Net investment income of Consolidated Funds
+
+ 6.9
+
+ 6.9
+
+Income (loss) before provision for income taxes
+
+ (683.5)
+
+ 116.7
+
+ (34.1)
+
+ (600.9)
+
+Benefit for income taxes
+
+ (104.2)
+
+ (104.2)
+
+Net income (loss)
+
+ (579.3)
+
+ 116.7
+
+ (34.1)
+
+ (496.7)
+
+Net income attributable to non-controlling interests in consolidated entities
+
+ 29.1
+
+ 82.6
+
+ 111.7
+
+Net income (loss) attributable to The Carlyle Group Inc.
+
+ $(608.4)
+
+ $116.7
+
+ $(116.7)
+
+ $(608.4)
+
+ Year Ended December 31, 2022
+
+ Consolidated
+Operating
+Entities
+
+ Consolidated
+Funds
+
+ Eliminations
+
+ Consolidated
+
+ (Dollars in millions)
+
+Revenues
+
+Fund management fees
+
+ $2,056.7
+
+ $
+
+ $(26.6)
+
+ $2,030.1
+
+Incentive fees
+
+ 63.8
+
+ (0.1)
+
+ 63.7
+
+Investment income
+
+Performance allocations
+
+ 1,332.8
+
+ (5.3)
+
+ 1,327.5
+
+Principal investment income
+
+ 542.5
+
+ 28.0
+
+ 570.5
+
+Total investment income
+
+ 1,875.3
+
+ 22.7
+
+ 1,898.0
+
+Interest and other income
+
+ 154.1
+
+ (18.2)
+
+ 135.9
+
+Interest and other income of Consolidated Funds
+
+ 311.0
+
+ 311.0
+
+Total revenues
+
+ 4,149.9
+
+ 311.0
+
+ (22.2)
+
+ 4,438.7
+
+Expenses
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+
+ 1,052.0
+
+ 1,052.0
+
+Equity-based compensation
+
+ 154.0
+
+ 154.0
+
+Performance allocations and incentive fee related compensation
+
+ 719.9
+
+ 719.9
+
+Total compensation and benefits
+
+ 1,925.9
+
+ 1,925.9
+
+General, administrative and other expenses
+
+ 576.2
+
+ (0.4)
+
+ 575.8
+
+Interest
+
+ 110.4
+
+ 110.4
+
+Interest and other expenses of Consolidated Funds
+
+ 255.3
+
+ (43.7)
+
+ 211.6
+
+Other non-operating expenses
+
+ 1.0
+
+ 1.0
+
+Total expenses
+
+ 2,613.5
+
+ 255.3
+
+ (44.1)
+
+ 2,824.7
+
+Other loss
+
+Net investment loss of Consolidated Funds
+
+ (41.5)
+
+ (41.5)
+
+Income before provision for income taxes
+
+ 1,536.4
+
+ 14.2
+
+ 21.9
+
+ 1,572.5
+
+Provision for income taxes
+
+ 287.8
+
+ 287.8
+
+Net income
+
+ 1,248.6
+
+ 14.2
+
+ 21.9
+
+ 1,284.7
+
+Net income attributable to non-controlling interests in consolidated entities
+
+ 23.6
+
+ 36.1
+
+ 59.7
+
+Net income attributable to The Carlyle Group Inc.
+
+ $1,225.0
+
+ $14.2
+
+ $(14.2)
+
+ $1,225.0
+
+Supplemental statement of cash flows
+
+ Year Ended December 31,
+
+ 2024
+
+ 2023
+
+ 2022
+
+ (Dollars in millions)
+
+Cash flows from operating activities
+
+Net income (loss)
+
+ $1,082.4
+
+ $(579.3)
+
+ $1,248.6
+
+Adjustments to reconcile net income (loss) to net cash flows from operating activities:
+
+Depreciation and amortization
+
+ 184.1
+
+ 180.6
+
+ 147.4
+
+Equity-based compensation
+
+ 467.9
+
+ 249.1
+
+ 154.0
+
+Non-cash performance allocations and incentive fees
+
+ (360.6)
+
+ 1,569.2
+
+ 387.5
+
+Non-cash principal investment income
+
+ (207.0)
+
+ (130.7)
+
+ (501.5)
+
+Other non-cash amounts
+
+ 1.8
+
+ 23.8
+
+ (10.3)
+
+Purchases of investments
+
+ (886.7)
+
+ (345.8)
+
+ (737.7)
+
+Proceeds from the sale of investments
+
+ 737.5
+
+ 485.9
+
+ 498.0
+
+Payments of contingent consideration
+
+ (4.1)
+
+ (68.6)
+
+ (5.7)
+
+Change in deferred taxes, net
+
+ 91.2
+
+ (368.7)
+
+ (73.2)
+
+Change in due from affiliates and other receivables
+
+ (27.8)
+
+ (33.5)
+
+ (82.3)
+
+Change in deposits and other
+
+ 8.5
+
+ 6.3
+
+ (11.8)
+
+Change in accounts payable, accrued expenses and other liabilities
+
+ 58.8
+
+ (33.2)
+
+ (14.3)
+
+Change in accrued compensation and benefits
+
+ (37.1)
+
+ 10.6
+
+ (135.4)
+
+Change in due to affiliates
+
+ (11.7)
+
+ (14.5)
+
+ 1.7
+
+Change in lease right-of-use asset and lease liability
+
+ (8.1)
+
+ (10.8)
+
+ (8.8)
+
+Change in deferred revenue
+
+ (0.2)
+
+ 15.3
+
+ 4.5
+
+Net cash provided by operating activities
+
+ 1,088.9
+
+ 955.7
+
+ 860.7
+
+Cash flows from investing activities
+
+Purchases of corporate treasury investments
+
+ (5.0)
+
+ (187.3)
+
+ (69.6)
+
+Proceeds from corporate treasury investments
+
+ 5.1
+
+ 210.3
+
+ 50.0
+
+Purchases of fixed assets, net
+
+ (77.7)
+
+ (66.6)
+
+ (40.6)
+
+Purchase of Abingworth, net of cash acquired
+
+ (150.2)
+
+Purchase of CBAM intangibles and investments
+
+ (618.4)
+
+Net cash used in investing activities
+
+ (77.6)
+
+ (43.6)
+
+ (828.8)
+
+Cash flows from financing activities
+
+Borrowings under credit facilities
+
+ 10.4
+
+Repayments under credit facilities
+
+ (10.4)
+
+Proceeds from CLO borrowings, net of financing costs
+
+ 0.7
+
+ 12.0
+
+ 73.2
+
+Payments on CLO borrowings
+
+ (120.5)
+
+ (17.2)
+
+ (16.7)
+
+Dividends to common stockholders
+
+ (503.0)
+
+ (497.7)
+
+ (443.6)
+
+Payment of deferred consideration for Carlyle Holdings units
+
+ (68.8)
+
+ (68.8)
+
+ (68.8)
+
+Contributions from non-controlling interest holders
+
+ 229.5
+
+ 11.8
+
+ 9.2
+
+Distributions to non-controlling interest holders
+
+ (131.0)
+
+ (64.0)
+
+ (78.7)
+
+Common shares issued for performance allocations
+
+ 38.9
+
+Common shares repurchased and net share settlement of equity awards
+
+ (554.6)
+
+ (203.5)
+
+ (185.6)
+
+Change in due to/from affiliates financing activities
+
+ (24.4)
+
+ (16.2)
+
+ (456.2)
+
+Net cash used in financing activities
+
+ (1,172.1)
+
+ (843.6)
+
+ (1,128.3)
+
+Effect of foreign exchange rate changes
+
+ (14.8)
+
+ 12.1
+
+ (17.2)
+
+Increase (decrease) in cash, cash equivalents and restricted cash
+
+ (175.6)
+
+ 80.6
+
+ (1,113.6)
+
+Cash, cash equivalents and restricted cash, beginning of period
+
+ 1,442.1
+
+ 1,361.5
+
+ 2,475.1
+
+Cash, cash equivalents and restricted cash, end of period
+
+ $1,266.5
+
+ $1,442.1
+
+ $1,361.5
+
+Supplemental non-cash disclosures
+
+Issuance of common shares related to the acquisition of CBAM and Abingworth
+
+ $
+
+ $
+
+ $219.5
+
+Reconciliation of cash, cash equivalents and restricted cash, end of period:
+
+Cash and cash equivalents
+
+ $1,266.0
+
+ $1,440.3
+
+ $1,360.7
+
+Restricted cash
+
+ 0.5
+
+ 1.8
+
+ 0.8
+
+Total cash, cash equivalents and restricted cash, end of period
+
+ $1,266.5
+
+ $1,442.1
+
+ $1,361.5
+
+Cash and cash equivalents held at Consolidated Funds
+
+ $830.4
+
+ $346.0
+
+ $209.0
+
+X
+
+- DefinitionTabular disclosure of supplemental financial position information that illustrates the consolidating effects of the consolidated funds.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AdditionalFinancialPositionTableTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of supplemental cash flow information that illustrates the consolidating effects of the consolidated funds.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ScheduleOfCashFlowSupplementalTableTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of supplemental results of operations information that illustrates the consolidating effects of the consolidated funds.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_SupplementalResultsOfOperationsTableTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+srt_CondensedFinancialInformationOfParentCompanyOnlyDisclosureAbstract
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

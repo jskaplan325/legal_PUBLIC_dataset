@@ -1,0 +1,182 @@
+XML
+112
+R40.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY COMPENSATION (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Share-Based Payment Arrangement [Abstract]
+
+Schedule of Equity-based Compensation Expense, Net of Forfeitures
+Equity-based compensation expense, net of forfeitures, recorded by the Company for unvested awards is presented in the following table:
+
+ Year ended December 31,
+ 2024 2023 2022
+Unvested awards $ 352,851 $ 255,965 $ 200,391
+
+Schedule of Dividends Declared and Paid
+The following table summarizes the Company s dividends declared and Dividend Equivalents paid during the year ended December 31, 2024:
+
+Record Date Dividends Per Share Dividend Equivalents Paid
+March 15, 2024 $ 0.93 $ 16,294
+June 14, 2024 0.93 16,008
+September 16, 2024 0.93 16,242
+December 17, 2024 0.93 16,098
+
+Schedule of Unvested Restricted Units Activity
+The following table presents unvested awards activity:
+
+ Unvested Awards Weighted Average
+Grant Date Fair
+Value Per Unvested Award
+Balance as of December 31, 2023 17,359,829 $ 59.20
+Granted 5,167,328 124.88
+Vested (4,151,900) 52.27
+Forfeited (406,317) 85.06
+Balance as of December 31, 2024 17,968,940 $ 79.11
+
+Schedule of Unvested Options Activity
+A summary of options activity during the year ended December 31, 2024 is presented below:
+
+ Options Weighted Average Exercise Price Weighted Average Remaining Life
+(in years) Aggregate Intrinsic Value
+Balance as of December 31, 2023 79,524 $ 19.00 0.3 $ 7,946
+
+Exercised (79,524) 19.00
+
+Balance as of December 31, 2024 $ $
+
+X
+
+- DefinitionTabular disclosure of the changes in outstanding nonvested phantom stock units.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ScheduleOfNonvestedPhantomStockUnitsActivityTableTextBlock
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of information related to dividends declared, including paid and unpaid dividends.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DividendsDeclaredTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of cost recognized for award under share-based payment arrangement by plan. Includes, but is not limited to, related tax benefit.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 718
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfCompensationCostForShareBasedPaymentArrangementsAllocationOfShareBasedCompensationCostsByPlanTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the changes in outstanding nonvested restricted stock units.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfNonvestedRestrictedStockUnitsActivityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

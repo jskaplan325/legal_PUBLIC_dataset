@@ -1,0 +1,104 @@
+XML
+39
+R9.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Organization
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+Organization
+1. Organization
+
+Apollo Global Management, Inc. together with its consolidated subsidiaries (collectively, Apollo or the Company ) is a high-growth, global alternative asset manager and a retirement services provider. Its asset management business focuses on two investing strategies: credit and equity. Through its asset management business, Apollo raises, invests and manages funds, accounts and other vehicles, on behalf of some of the world s most prominent pension, endowment and sovereign wealth funds and insurance companies, as well as other institutional and individual investors. Apollo s retirement services business is conducted by Athene, a leading financial services company that specializes in issuing, reinsuring and acquiring retirement savings products for the increasing number of individuals and institutions seeking to fund retirement needs.
+
+Merger with Athene
+
+On January 1, 2022, Apollo and Athene completed the previously announced merger transactions pursuant to the Merger Agreement (the Mergers ). As a result of the Mergers, AAM and AHL became consolidated subsidiaries of AGM.
+
+References herein to Apollo and the Company refer to AGM and its subsidiaries, including Athene, unless the context requires otherwise such as in sections where it refers to the asset management business only. See note 3 for additional information.
+
+Corporate Recapitalization
+
+In connection with the closing of the Mergers, the Company completed a corporate recapitalization (the Corporate Recapitalization ) which resulted in the recapitalization of the Company from an umbrella partnership C corporation ( Up-C ) structure to a corporation with a single class of common stock with one vote per share.
+
+Griffin Capital Acquisitions
+On March 1, 2022, the company completed the acquisition of Griffin Capital s U.S. wealth distribution business. On May 3, 2022, the Company completed the acquisition of the U.S. asset management business of Griffin Capital in exchange for closing consideration of $213 million and contingent consideration of $64 million, substantially all of which was settled in shares of AGM common stock, per the transaction agreement signed December 2, 2021.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for organization, consolidation and basis of presentation of financial statements disclosure.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480424/946-10-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480424/946-10-50-2
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 810
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/810/tableOfContent
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 205
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/205/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

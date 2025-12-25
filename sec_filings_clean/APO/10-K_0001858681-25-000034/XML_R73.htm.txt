@@ -1,0 +1,523 @@
+XML
+103
+R73.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Investment Related Gains (Losses) (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Investments, All Other Investments [Abstract]
+
+Gross realized gains on investment activity
+$ 977
+
+$ 926
+
+$ 1,337
+
+Gross realized losses on investment activity
+(1,979)
+
+(779)
+
+(2,151)
+
+Net realized investment gains (losses) on AFS securities
+(1,002)
+
+147
+
+(814)
+
+Net recognized investment gains (losses) on trading securities
+(170)
+
+66
+
+(432)
+
+Net recognized investment gains (losses) on equity securities
+22
+
+13
+
+(153)
+
+Net recognized investment gains (losses) on mortgage loans
+(132)
+
+207
+
+(2,974)
+
+Derivative gains (losses)
+2,205
+
+2,135
+
+(9,173)
+
+Provision for credit losses
+(181)
+
+(335)
+
+(227)
+
+Other gains (losses)
+1,303
+
+(805)
+
+1,056
+
+Investment related gains (losses)
+$ 2,045
+
+$ 1,428
+
+$ (12,717)
+
+Derivative, gain (loss), statement of income or comprehensive income
+Net gains (losses) from investment activities
+
+Net gains (losses) from investment activities
+
+Net gains (losses) from investment activities
+
+X
+
+- DefinitionAmount of realized gain on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleRealizedGain
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized gain (loss) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleRealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleRealizedLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized gain (loss) on investment in debt security measured at fair value with change in fair value recognized in net income (trading).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-14
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesTradingRealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in the fair value of derivatives recognized in the income statement.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_DerivativeGainLossOnDerivativeNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicates line item in statement of income or comprehensive income that includes gain (loss) from derivative.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_DerivativeGainLossStatementOfIncomeOrComprehensiveIncomeExtensibleEnumeration
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+enum2:enumerationSetItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized gain (loss) from sale of investment in equity security measured at fair value with change in fair value recognized in net income (FV-NI).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(3)(d)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 321
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479536/321-10-50-4
+
++ Details
+
+ Name:
+us-gaap_EquitySecuritiesFvNiRealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe gains (losses) included in earnings that represent the difference between the sale price and the carrying value of loans made to finance real estate acquisitions. This element refers to the gain (loss) and not to the cash proceeds of the sale. This element is a noncash adjustment to net income when calculating net cash generated by operating activities using the indirect method.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -SubTopic 310
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477409/944-310-45-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -SubTopic 310
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477409/944-310-45-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 310
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477363/944-310-50-1
+
++ Details
+
+ Name:
+us-gaap_GainLossOnSaleOfMortgageLoans
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InvestmentsAllOtherInvestmentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) related to nonoperating activities, classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_OtherNonoperatingGainsLosses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense related to credit loss from transactions other than loan and lease transactions.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (a)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(11))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_ProvisionForOtherCreditLosses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized gain (loss) on investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(3)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RealizedInvestmentGainsLosses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration

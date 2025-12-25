@@ -1,0 +1,505 @@
+XML
+98
+R26.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Insider Trading Arrangements
+
+3 Months Ended
+12 Months Ended
+
+Dec. 31, 2024
+
+shares
+
+Dec. 31, 2024
+
+shares
+
+Trading Arrangements, by Individual
+
+Material Terms of Trading Arrangement
+
+During the three months ended December 31, 2024, certain of our executive officers and directors or a vehicle controlled by them (each, a Plan Participant ) entered into Rule 10b5-1 trading plan (a Rule 10b5-1 Trading Plan ) to sell shares of our Class A common stock, in each case, subject to any applicable volume limitations.
+
+The table below provides certain information regarding each Plan Participant s Rule 10b5-1 Trading Plan.
+
+Name and Title Plan Date Maximum Shares That May Be Sold Under the Plan Plan Expiration Date
+Bennett Rosenthal, Director, Co-Founder and Chairman of Private Equity Group
+ November 19, 2024 100,000 August 15, 2025
+David Kaplan, Director and Co-Founder
+ November 19, 2024 100,000 August 15, 2025
+
+Michael Arougheti, Co-Founder & Chief Executive Officer
+ December 13, 2024 1,880,845 January 31, 2026
+
+Non-Rule 10b5-1 Arrangement Adopted
+false
+
+Rule 10b5-1 Arrangement Terminated
+false
+
+Non-Rule 10b5-1 Arrangement Terminated
+false
+
+Bennett Rosenthal [Member]
+
+Trading Arrangements, by Individual
+
+Name
+Bennett Rosenthal
+
+Title
+Director, Co-Founder and Chairman of Private Equity Group
+
+Rule 10b5-1 Arrangement Adopted
+true
+
+Adoption Date
+November 19, 2024
+
+Expiration Date
+August 15, 2025
+
+Arrangement Duration
+269 days
+
+Aggregate Available
+100,000
+
+100,000
+
+David Kaplan [Member]
+
+Trading Arrangements, by Individual
+
+Name
+David Kaplan
+
+Title
+Director and Co-Founder
+
+Rule 10b5-1 Arrangement Adopted
+true
+
+Adoption Date
+November 19, 2024
+
+Expiration Date
+August 15, 2025
+
+Arrangement Duration
+269 days
+
+Aggregate Available
+100,000
+
+100,000
+
+Michael Arougheti [Member]
+
+Trading Arrangements, by Individual
+
+Name
+Michael Arougheti
+
+Title
+Co-Founder & Chief Executive Officer
+
+Rule 10b5-1 Arrangement Adopted
+true
+
+Adoption Date
+December 13, 2024
+
+Expiration Date
+January 31, 2026
+
+Arrangement Duration
+414 days
+
+Aggregate Available
+1,880,845
+
+1,880,845
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 1
+
++ Details
+
+ Name:
+ecd_MtrlTermsOfTrdArrTextBlock
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 1
+
++ Details
+
+ Name:
+ecd_NonRule10b51ArrAdoptedFlag
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 1
+
++ Details
+
+ Name:
+ecd_NonRule10b51ArrTrmntdFlag
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 1
+
++ Details
+
+ Name:
+ecd_Rule10b51ArrAdoptedFlag
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 1
+
++ Details
+
+ Name:
+ecd_Rule10b51ArrTrmntdFlag
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 2
+ -Subparagraph A
+
++ Details
+
+ Name:
+ecd_TradingArrByIndTable
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 2
+ -Subparagraph B
+
++ Details
+
+ Name:
+ecd_TrdArrAdoptionDate
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 2
+ -Subparagraph C
+
++ Details
+
+ Name:
+ecd_TrdArrDuration
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 2
+ -Subparagraph C
+
++ Details
+
+ Name:
+ecd_TrdArrExpirationDate
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 2
+ -Subparagraph A
+
++ Details
+
+ Name:
+ecd_TrdArrIndName
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 2
+ -Subparagraph A
+
++ Details
+
+ Name:
+ecd_TrdArrIndTitle
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Regulation S-K
+ -Number 229
+ -Section 408
+ -Subsection a
+ -Paragraph 2
+ -Subparagraph D
+
++ Details
+
+ Name:
+ecd_TrdArrSecuritiesAggAvailAmt
+
+ Namespace Prefix:
+ecd_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+ecd_IndividualAxis=ares_BennettRosenthalMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+ecd_IndividualAxis=ares_DavidKaplanMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+ecd_IndividualAxis=ares_MichaelAroughetiMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

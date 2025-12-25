@@ -1,0 +1,464 @@
+XML
+186
+R164.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY-BASED COMPENSATION - Awards Rollforward (Details) - KKR Equity Incentive Plans
+
+12 Months Ended
+
+Dec. 31, 2024
+
+$ / shares
+
+shares
+
+Service-Vesting Awards
+
+Shares
+
+Balance at the beginning of the period (in shares) | shares
+23,228,671
+
+Granted (in shares) | shares
+5,796,078
+
+Vested (in shares) | shares
+(7,062,056)
+
+Forfeitures (in shares) | shares
+(856,803)
+
+Balance at the end of the period (in shares) | shares
+21,105,890
+
+Weighted Average Grant Date Fair Value
+
+Balance at the beginning of the period (in dollars per share) | $ / shares
+$ 53.22
+
+Granted (in dollars per share) | $ / shares
+92.29
+
+Vested (in dollars per share) | $ / shares
+50.29
+
+Forfeitures (in dollars per share) | $ / shares
+60.07
+
+Balance at the end of the period (in dollars per share) | $ / shares
+$ 64.65
+
+Market Condition Awards | Asset Management and Strategic Holdings
+
+Shares
+
+Balance at the beginning of the period (in shares) | shares
+36,497,589
+
+Granted (in shares) | shares
+2,278,830
+
+Vested (in shares) | shares
+(234,776)
+
+Forfeitures (in shares) | shares
+(522,620)
+
+Balance at the end of the period (in shares) | shares
+38,019,023
+
+Weighted Average Grant Date Fair Value
+
+Balance at the beginning of the period (in dollars per share) | $ / shares
+$ 29.59
+
+Granted (in dollars per share) | $ / shares
+58.31
+
+Vested (in dollars per share) | $ / shares
+22.10
+
+Forfeitures (in dollars per share) | $ / shares
+31.44
+
+Balance at the end of the period (in dollars per share) | $ / shares
+$ 31.33
+
+X
+
+- DefinitionThe number of equity-based payment instruments, excluding stock (or unit) options, that were forfeited during the reporting period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted average fair value as of the grant date of equity-based award plans other than stock (unit) option plans that were not exercised or put into effect as a result of the occurrence of a terminating event.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe number of grants made during the period on other than stock (or unit) option plans (for example, phantom stock or unit plan, stock or unit appreciation rights plan, performance target plan).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(01)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe weighted average fair value at grant date for nonvested equity-based awards issued during the period on other than stock (or unit) option plans (for example, phantom stock or unit plan, stock or unit appreciation rights plan, performance target plan).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(01)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe number of non-vested equity-based payment instruments, excluding stock (or unit) options, that validly exist and are outstanding as of the balance sheet date.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(ii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPer share or unit weighted-average fair value of nonvested award under share-based payment arrangement. Excludes share and unit options.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(ii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValueRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe number of equity-based payment instruments, excluding stock (or unit) options, that vested during the reporting period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(02)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe weighted average fair value as of grant date pertaining to an equity-based award plan other than a stock (or unit) option plan for which the grantee gained the right during the reporting period, by satisfying service and performance requirements, to receive or retain shares or units, other instruments, or cash in accordance with the terms of the arrangement.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)(iii)(02)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_PlanNameAxis=kkr_KKREquityIncentivePlansMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=kkr_ServiceVestingAwardsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=us-gaap_PerformanceSharesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

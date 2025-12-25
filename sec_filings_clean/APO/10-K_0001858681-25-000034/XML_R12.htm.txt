@@ -1,0 +1,520 @@
+XML
+42
+R12.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Investments, All Other Investments [Abstract]
+
+Investments
+4. Investments
+
+The following table outlines the Company s investments:
+
+(In millions) December 31, 2024 December 31, 2023
+Asset Management
+Investments, at fair value $ 1,384 $ 1,489
+Equity method investments 1,082 1,072
+Performance allocations 3,262 2,941
+
+Other investments 358
+Total Investments Asset Management
+ 6,086 5,502
+Retirement Services
+
+AFS securities, at fair value $ 184,167 $ 148,347
+Trading securities, at fair value 2,156 2,544
+Equity securities 1,524 1,611
+Mortgage loans, at fair value 64,536 45,396
+Investment funds 1,960 1,741
+Policy loans 318 334
+Funds withheld at interest 23,916 30,833
+Derivative assets 8,154 5,298
+Short-term investments 1,190 1,288
+Other investments 3,246 1,549
+Total Investments, including related parties Retirement Services
+ 291,167 238,941
+Total Investments $ 297,253 $ 244,443
+
+Equity Method Investments Overall
+
+The tables below present summarized financial information of the Company s equity method investments in the aggregate.
+
+Statement of Financial Condition (In millions)
+ December 31,
+2024 1
+ 2023 1
+
+Investments $ 227,112 $ 212,892
+Assets 263,535 238,550
+Liabilities 126,363 122,659
+Equity 137,172 115,891
+
+Statement of Operations (In millions)
+ Years ended December 31,
+2024 1
+ 2023 1
+ 2022 1
+
+Revenues/Investment Income $ 10,918 $ 9,709 $ 7,681
+Expenses 13,613 9,242 7,644
+Net Investment Income (Loss) (2,695) 467 37
+Net Realized and Unrealized Gain (Loss) 14,722 7,349 3,012
+Net Income (Loss) $ 12,027 $ 7,816 $ 3,049
+
+1 Certain fund amounts are as of and for the twelve months ended September 30, 2024, 2023 and 2022.
+
+Asset Management
+
+Net Gains (Losses) from Investment Activities
+
+The following outlines realized and net change in unrealized gains (losses) reported in net gains (losses) from investment activities:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Realized gains (losses) on sales of investments, net $ (1) $ (9) $ (14)
+Net change in unrealized gains (losses) due to changes in fair value 59 16 179
+Net gains (losses) from investment activities $ 58 $ 7 $ 165
+
+Performance Allocations
+
+Performance allocations receivable is recorded within investments in the consolidated statements of financial condition. The table below provides a roll forward of the performance allocations balance:
+
+(In millions) Total
+Performance allocations, January 1, 2023
+ $ 2,574
+Change in fair value of funds 1,048
+Fund distributions to the Company (681)
+Performance allocations, December 31, 2023
+ $ 2,941
+Change in fair value of funds 1,249
+Fund distributions to the Company (928)
+Performance allocations, December 31, 2024
+ $ 3,262
+
+The change in fair value of funds excludes the general partner obligation to return previously distributed performance allocations, which is recorded in due to related parties in the consolidated statements of financial condition.
+
+The timing of the payment of performance allocations due to the general partner or investment manager varies depending on the terms of the applicable fund agreements. Generally, performance allocations with respect to the private equity funds and certain
+credit and real assets funds are payable and are distributed to the fund s general partner upon realization of an investment if the fund s cumulative returns are in excess of the preferred return.
+
+Retirement Services
+
+AFS Securities
+
+The following table represents the amortized cost, allowance for credit losses, gross unrealized gains and losses and fair value of Athene s AFS investments by asset type:
+
+ December 31, 2024
+(In millions) Amortized Cost Allowance for Credit Losses Gross Unrealized Gains Gross Unrealized Losses Fair Value
+AFS securities
+U.S. government and agencies $ 8,413 $ $ 8 $ (1,270) $ 7,151
+U.S. state, municipal and political subdivisions 1,167 (246) 921
+Foreign governments 2,082 (514) 1,568
+Corporate 95,006 (175) 485 (11,731) 83,585
+CLO 29,524 266 (608) 29,182
+ABS 24,779 (76) 138 (640) 24,201
+CMBS 11,158 (60) 75 (432) 10,741
+RMBS 8,587 (397) 228 (403) 8,015
+Total AFS securities 180,716 (708) 1,200 (15,844) 165,364
+AFS securities related parties
+Corporate 2,150 18 (31) 2,137
+CLO 6,130 18 (113) 6,035
+ABS 10,899 (1) 21 (288) 10,631
+
+Total AFS securities related parties 19,179 (1) 57 (432) 18,803
+Total AFS securities, including related parties $ 199,895 $ (709) $ 1,257 $ (16,276) $ 184,167
+
+ December 31, 2023
+(In millions) Amortized Cost Allowance for Credit Losses Gross Unrealized Gains Gross Unrealized Losses Fair Value
+AFS securities
+U.S. government and agencies $ 6,161 $ $ 67 $ (829) $ 5,399
+U.S. state, municipal and political subdivisions 1,296 (250) 1,046
+Foreign governments 2,083 71 (255) 1,899
+Corporate 88,343 (129) 830 (10,798) 78,246
+CLO 20,506 (2) 261 (558) 20,207
+ABS 13,942 (49) 120 (630) 13,383
+CMBS 7,070 (29) 52 (502) 6,591
+RMBS 8,160 (381) 252 (464) 7,567
+Total AFS securities 147,561 (590) 1,653 (14,286) 134,338
+AFS securities related parties
+Corporate 1,423 1 (72) 1,352
+CLO 4,367 21 (120) 4,268
+ABS 8,665 (1) 34 (309) 8,389
+Total AFS securities related parties 14,455 (1) 56 (501) 14,009
+Total AFS securities, including related parties $ 162,016 $ (591) $ 1,709 $ (14,787) $ 148,347
+
+The amortized cost and fair value of AFS securities, including related parties, are shown by contractual maturity below:
+
+ December 31, 2024
+(In millions) Amortized Cost Fair Value
+AFS securities
+Due in one year or less $ 2,576 $ 2,544
+Due after one year through five years 19,949 19,418
+Due after five years through ten years 27,734 25,442
+Due after ten years 56,409 45,821
+CLO, ABS, CMBS and RMBS 74,048 72,139
+Total AFS securities 180,716 165,364
+AFS securities related parties
+
+Due after one year through five years 1,080 1,071
+Due after five years through ten years 847 861
+Due after ten years 223 205
+CLO and ABS 17,029 16,666
+Total AFS securities related parties 19,179 18,803
+Total AFS securities, including related parties $ 199,895 $ 184,167
+
+Actual maturities can differ from contractual maturities as borrowers may have the right to call or prepay obligations with or without call or prepayment penalties.
+
+Unrealized Losses on AFS Securities
+
+The following summarizes the fair value and gross unrealized losses for AFS securities, including related parties, for which an allowance for credit losses has not been recorded, aggregated by asset type and length of time the fair value has remained below amortized cost:
+
+ December 31, 2024
+ Less than 12 months 12 months or more Total
+(In millions) Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses
+AFS securities
+U.S. government and agencies $ 3,010 $ (114) $ 3,462 $ (1,156) $ 6,472 $ (1,270)
+U.S. state, municipal and political subdivisions 67 (3) 842 (243) 909 (246)
+Foreign governments 830 (205) 738 (309) 1,568 (514)
+Corporate 19,530 (673) 44,051 (10,997) 63,581 (11,670)
+CLO 2,675 (48) 2,325 (215) 5,000 (263)
+ABS 9,361 (155) 4,070 (309) 13,431 (464)
+CMBS 1,868 (56) 1,773 (315) 3,641 (371)
+RMBS 825 (13) 1,261 (157) 2,086 (170)
+Total AFS securities 38,166 (1,267) 58,522 (13,701) 96,688 (14,968)
+AFS securities related parties
+Corporate 471 (4) 365 (26) 836 (30)
+CLO 586 (10) 544 (56) 1,130 (66)
+ABS 2,533 (43) 3,355 (235) 5,888 (278)
+
+Total AFS securities related parties 3,590 (57) 4,264 (317) 7,854 (374)
+Total AFS securities, including related parties $ 41,756 $ (1,324) $ 62,786 $ (14,018) $ 104,542 $ (15,342)
+
+ December 31, 2023
+ Less than 12 months 12 months or more Total
+(In millions) Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses
+AFS securities
+U.S. government and agencies $ 2,013 $ (94) $ 2,389 $ (735) $ 4,402 $ (829)
+U.S. state, municipal and political subdivisions 123 (5) 888 (245) 1,011 (250)
+Foreign governments 690 (13) 760 (242) 1,450 (255)
+Corporate 7,752 (474) 50,028 (10,311) 57,780 (10,785)
+CLO 689 (2) 11,579 (543) 12,268 (545)
+ABS 2,129 (75) 4,378 (458) 6,507 (533)
+CMBS 859 (12) 1,967 (406) 2,826 (418)
+RMBS 467 (9) 2,057 (263) 2,524 (272)
+Total AFS securities 14,722 (684) 74,046 (13,203) 88,768 (13,887)
+AFS securities related parties
+Corporate 548 (35) 382 (37) 930 (72)
+CLO 397 (16) 2,592 (102) 2,989 (118)
+ABS 2,008 (66) 2,793 (225) 4,801 (291)
+Total AFS securities related parties 2,953 (117) 5,767 (364) 8,720 (481)
+Total AFS securities, including related parties $ 17,675 $ (801) $ 79,813 $ (13,567) $ 97,488 $ (14,368)
+
+The following summarizes the number of AFS securities that were in an unrealized loss position, including related parties, for which an allowance for credit losses has not been recorded:
+
+ December 31, 2024
+ Unrealized Loss Position Unrealized Loss Position 12 Months or More
+AFS securities 7,745 6,087
+AFS securities related parties 143 59
+
+The unrealized losses on AFS securities can primarily be attributed to changes in market interest rates since acquisition. Athene did not recognize the unrealized losses in income, unless as required for hedge accounting, as it intends to hold these securities and it is not more likely than not it will be required to sell a security before the recovery of its amortized cost.
+Allowance for Credit Losses
+
+The following table summarizes the activity in the allowance for credit losses for AFS securities by asset type:
+
+ Year ended December 31, 2024
+ Additions Reductions
+(In millions) Beginning balance Initial credit losses Initial credit losses on PCD securities Securities sold during the period Securities intended to be sold prior to recovery of amortized cost basis Additions (reductions) to previously impaired securities Ending balance
+AFS securities
+
+Corporate $ 129 $ 48 $ $ (8) $ $ 6 $ 175
+CLO 2 1 (3)
+ABS 49 25 (16) 18 76
+CMBS 29 27 4 60
+RMBS 381 17 (17) 16 397
+Total AFS securities 590 118 (41) 41 708
+
+AFS securities related parties, ABS 1 1
+
+Total AFS securities, including related parties $ 591 $ 118 $ $ (41) $ $ 41 $ 709
+
+ Year ended December 31, 2023
+ Additions Reductions
+(In millions) Beginning balance Initial credit losses Initial credit losses on PCD securities Securities sold during the period Securities intended to be sold prior to recovery of amortized cost basis Additions (reductions) to previously impaired securities Ending balance
+AFS securities
+
+Foreign governments $ 27 $ $ $ (27) $ $ $
+Corporate 61 88 (8) (15) 3 129
+CLO 7 1 (6) 2
+ABS 29 23 (4) 1 49
+CMBS 5 26 (2) 29
+RMBS 329 16 53 (16) (1) 381
+Total AFS securities 458 154 53 (55) (15) (5) 590
+AFS securities related parties
+
+CLO 1 (1)
+ABS 1 1
+Total AFS securities related parties 1 1 (1) 1
+Total AFS securities, including related parties $ 459 $ 155 $ 53 $ (55) $ (15) $ (6) $ 591
+
+Net Investment Income
+
+Net investment income by asset class consists of the following:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+AFS securities $ 9,691 $ 6,901 $ 4,165
+Trading securities 161 177 174
+Equity securities 90 76 64
+Mortgage loans 3,767 2,360 1,261
+Investment funds (38) 90 408
+Funds withheld at interest 1,318 1,752 1,844
+Other 828 815 270
+Investment revenue 15,817 12,171 8,186
+Investment expenses (99) (91) (38)
+Net investment income $ 15,718 $ 12,080 $ 8,148
+
+Investment Related Gains (Losses)
+
+Investment related gains (losses) by asset class consists of the following:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+AFS securities1
+
+Gross realized gains on investment activity $ 977 $ 926 $ 1,337
+Gross realized losses on investment activity (1,979) (779) (2,151)
+Net realized investment gains (losses) on AFS securities (1,002) 147 (814)
+Net recognized investment gains (losses) on trading securities (170) 66 (432)
+Net recognized investment gains (losses) on equity securities 22 13 (153)
+Net recognized investment gains (losses) on mortgage loans (132) 207 (2,974)
+Derivative gains (losses) 2,205 2,135 (9,173)
+Provision for credit losses (181) (335) (227)
+Other gains (losses) 1,303 (805) 1,056
+Investment related gains (losses) $ 2,045 $ 1,428 $ (12,717)
+
+1 Includes the effects of recognized gains or losses on AFS securities associated with designated hedges.
+
+Proceeds from sales of AFS securities were $21,623 million, $6,464 million and $9,421 million for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+The following table summarizes the change in unrealized gains (losses) on trading and equity securities held as of the respective period end:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Trading securities $ (42) $ 93 $ (414)
+
+Equity securities 12 49 (146)
+
+Repurchase Agreements
+
+The following table summarizes the remaining contractual maturities of repurchase agreements:
+
+(In millions) December 31, 2024 December 31, 2023
+
+Less than 30 days $ 2,752 $ 686
+30 90 days 300
+91 days to 1 year 1,095
+Greater than 1 year 1,569 3,167
+Payables for repurchase agreements
+ $ 5,716 $ 3,853
+
+The following table summarizes the securities pledged as collateral for repurchase agreements:
+
+ December 31, 2024 December 31, 2023
+(In millions) Amortized Cost Fair Value Amortized Cost Fair Value
+AFS securities
+U.S. government and agencies $ 3,253 $ 2,693 $ $
+
+Foreign governments 159 107 137 99
+Corporate 1,877 1,573 2,735 2,307
+CLO 587 588 580 579
+ABS 596 552 1,207 1,086
+
+RMBS 369 365
+
+Total securities pledged under repurchase agreements $ 6,841 $ 5,878 $ 4,659 $ 4,071
+
+Reverse Repurchase Agreements
+
+As of December 31, 2024 and December 31, 2023, amounts loaned under reverse repurchase agreements were $935 million and $947 million, respectively, and the fair value of the collateral, comprised primarily of asset-backed securities and commercial mortgage loans, was $2,208 million and $1,504 million, respectively.
+
+Mortgage Loans, including related parties and consolidated VIEs
+
+Mortgage loans include both commercial and residential loans. Athene has elected the fair value option on its mortgage loan portfolio. See note 7 for further fair value option information. The following represents the mortgage loan portfolio, with fair value option loans presented at unpaid principal balance:
+
+(In millions) December 31, 2024 December 31, 2023
+Commercial mortgage loans $ 32,544 $ 27,630
+Commercial mortgage loans under development 1,987 1,228
+Total commercial mortgage loans 34,531 28,858
+Mark to fair value (2,099) (2,246)
+Commercial mortgage loans 32,432 26,612
+Residential mortgage loans 35,223 21,894
+Mark to fair value (540) (937)
+Residential mortgage loans 34,683 20,957
+Mortgage loans $ 67,115 $ 47,569
+
+Athene invests in commercial mortgage loans, primarily on income producing properties including office and retail buildings, apartments, hotels, and industrial properties. Athene diversifies the commercial mortgage loan portfolio by geographic region and property type to reduce concentration risk. Athene evaluates mortgage loans based on relevant current information to confirm whether properties are performing at a consistent and acceptable level to secure the related debt.
+The distribution of commercial mortgage loans, including those under development, by property type and geographic region is as follows:
+
+ December 31, 2024 December 31, 2023
+(In millions, except percentages) Fair Value Percentage of Total Fair Value Percentage of Total
+Property type
+Apartment $ 11,746 36.2 % $ 9,591 36.0 %
+Industrial 6,793 21.0 % 4,143 15.6 %
+Office building 4,162 12.8 % 4,455 16.7 %
+Hotels 2,786 8.6 % 2,913 11.0 %
+Retail 2,269 7.0 % 2,158 8.1 %
+Other commercial 4,676 14.4 % 3,352 12.6 %
+Total commercial mortgage loans $ 32,432 100.0 % $ 26,612 100.0 %
+
+U.S. region
+East North Central $ 1,546 4.8 % $ 1,517 5.7 %
+East South Central 438 1.3 % 523 2.0 %
+Middle Atlantic 8,386 25.9 % 7,147 26.9 %
+Mountain 1,322 4.1 % 1,196 4.5 %
+New England 1,118 3.4 % 1,295 4.9 %
+Pacific 5,768 17.8 % 4,860 18.3 %
+South Atlantic 6,198 19.1 % 4,583 17.2 %
+West North Central 221 0.7 % 249 0.9 %
+West South Central 1,971 6.1 % 1,228 4.6 %
+Total U.S. region 26,968 83.2 % 22,598 85.0 %
+International region
+United Kingdom 2,281 7.0 % 2,343 8.7 %
+Other international1
+ 3,183 9.8 % 1,671 6.3 %
+Total international region 5,464 16.8 % 4,014 15.0 %
+Total commercial mortgage loans $ 32,432 100.0 % $ 26,612 100.0 %
+
+1 Represents all other countries, with each individual country comprising less than 5% of the portfolio.
+
+Athene s residential mortgage loan portfolio primarily consists of first lien residential mortgage loans collateralized by properties in various geographic locations and is summarized by proportion of the portfolio in the following table:
+
+ December 31, 2024 December 31, 2023
+U.S. States
+California 25.6 % 27.6 %
+Florida 12.4 % 12.0 %
+Texas 7.4 % 6.1 %
+New York 4.7 % 5.9 %
+Other1
+ 40.8 % 39.4 %
+Total U.S. residential mortgage loan percentage 90.9 % 91.0 %
+International
+United Kingdom 4.4 % 4.0 %
+Other1
+ 4.7 % 5.0 %
+Total international residential mortgage loan percentage 9.1 % 9.0 %
+Total residential mortgage loan percentage 100.0 % 100.0 %
+
+1 Represents all other states or countries, with each individual state or country comprising less than 5% of the portfolio.
+
+Investment Funds
+
+Athene s investment fund portfolio strategy primarily focuses on core holdings of strategic origination and retirement services platforms, equity and credit, and other funds. Strategic origination platforms include investments sourced by affiliated platforms that originate loans to third parties and in which Athene gains exposure directly to the loan or indirectly through its ownership of the origination platform and/or securitizations of assets originated by the origination platform. Retirement services platforms include investments in equity of financial services companies. The credit strategy is comprised of direct origination, asset-backed, multi-credit and opportunistic credit funds focused on generating excess returns through high-quality credit underwriting and origination. The equity strategy is comprised of private equity, hybrid value, secondaries equity, real estate equity, impact investing, infrastructure and clean transition equity funds that raise capital from investors to pursue control-oriented investments across the universe of private assets. Investment funds can meet the definition of VIEs. The investment funds do not specify timing of distributions on the funds underlying assets.
+
+The following summarizes Athene s investment funds, including related parties and consolidated VIEs:
+
+ December 31, 2024 December 31, 2023 1
+
+(In millions, except percentages) Carrying Value Percentage of Total Carrying Value Percentage of Total
+Investment funds
+Equity $ 107 0.6 % $ 109 0.6 %
+
+Investment funds related parties
+Strategic origination platforms 29 0.2 % 32 0.2 %
+Retirement services platforms 1,317 6.7 % 1,300 7.4 %
+Equity 244 1.2 % 267 1.5 %
+Credit 253 1.3 % 20 0.1 %
+Other 10 0.1 % 13 0.1 %
+Total investment funds related parties 1,853 9.5 % 1,632 9.3 %
+Investment funds consolidated VIEs
+Strategic origination platforms 6,347 32.3 % 4,987 28.4 %
+Retirement services platforms % 483 2.8 %
+Equity 7,597 38.7 % 6,925 39.4 %
+Credit 3,062 15.6 % 2,852 16.2 %
+Other 654 3.3 % 573 3.3 %
+Total investment funds consolidated VIEs 17,660 89.9 % 15,820 90.1 %
+Total investment funds, including related parties and consolidated VIEs $ 19,620 100.0 % $ 17,561 100.0 %
+
+1 Prior year amounts have been reclassified to conform with the current year presentation as a result of aligning the investment fund categories to reflect the Company s updated investment strategies.
+
+Concentrations The following table represents Athene s investment concentrations in excess of 10% of stockholders equity:
+
+(In millions) December 31, 2024
+AP Grange Holdings, LLC $ 4,661
+Atlas1
+ 3,172
+Fox Hedge L.P.
+ 2,924
+
+ December 31, 2023
+Wheels, Inc. ( Wheels )1
+ $ 1,591
+AT&T Inc. 1,526
+
+1 Related party amounts are representative of single issuer risk and may only include a portion of the total investments associated with a related party. See further discussion of these related parties in note 18.
+
+X
+
+- DefinitionThe entire disclosure for investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/320/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Accounting Standards Codification
+ -Topic 321
+ -Publisher FASB
+ -URI https://asc.fasb.org/321/tableOfContent
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Accounting Standards Codification
+ -Topic 325
+ -Publisher FASB
+ -URI https://asc.fasb.org/325/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_InvestmentTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InvestmentsAllOtherInvestmentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,1051 @@
+XML
+99
+R69.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Unrealized Losses on AFS Securities (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+$ 41,756
+
+$ 17,675
+
+Less than 12 months, Gross Unrealized Losses
+(1,324)
+
+(801)
+
+12 months or longer, Fair Value
+62,786
+
+79,813
+
+12 months or longer, Gross Unrealized Losses
+(14,018)
+
+(13,567)
+
+Total Fair Value
+104,542
+
+97,488
+
+Total Gross Unrealized Losses
+(15,342)
+
+(14,368)
+
+Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+38,166
+
+14,722
+
+Less than 12 months, Gross Unrealized Losses
+(1,267)
+
+(684)
+
+12 months or longer, Fair Value
+58,522
+
+74,046
+
+12 months or longer, Gross Unrealized Losses
+(13,701)
+
+(13,203)
+
+Total Fair Value
+96,688
+
+88,768
+
+Total Gross Unrealized Losses
+(14,968)
+
+(13,887)
+
+Related Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+3,590
+
+2,953
+
+Less than 12 months, Gross Unrealized Losses
+(57)
+
+(117)
+
+12 months or longer, Fair Value
+4,264
+
+5,767
+
+12 months or longer, Gross Unrealized Losses
+(317)
+
+(364)
+
+Total Fair Value
+7,854
+
+8,720
+
+Total Gross Unrealized Losses
+(374)
+
+(481)
+
+U.S. government and agencies | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+3,010
+
+2,013
+
+Less than 12 months, Gross Unrealized Losses
+(114)
+
+(94)
+
+12 months or longer, Fair Value
+3,462
+
+2,389
+
+12 months or longer, Gross Unrealized Losses
+(1,156)
+
+(735)
+
+Total Fair Value
+6,472
+
+4,402
+
+Total Gross Unrealized Losses
+(1,270)
+
+(829)
+
+U.S. state, municipal and political subdivisions | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+67
+
+123
+
+Less than 12 months, Gross Unrealized Losses
+(3)
+
+(5)
+
+12 months or longer, Fair Value
+842
+
+888
+
+12 months or longer, Gross Unrealized Losses
+(243)
+
+(245)
+
+Total Fair Value
+909
+
+1,011
+
+Total Gross Unrealized Losses
+(246)
+
+(250)
+
+Foreign governments | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+830
+
+690
+
+Less than 12 months, Gross Unrealized Losses
+(205)
+
+(13)
+
+12 months or longer, Fair Value
+738
+
+760
+
+12 months or longer, Gross Unrealized Losses
+(309)
+
+(242)
+
+Total Fair Value
+1,568
+
+1,450
+
+Total Gross Unrealized Losses
+(514)
+
+(255)
+
+Corporate | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+19,530
+
+7,752
+
+Less than 12 months, Gross Unrealized Losses
+(673)
+
+(474)
+
+12 months or longer, Fair Value
+44,051
+
+50,028
+
+12 months or longer, Gross Unrealized Losses
+(10,997)
+
+(10,311)
+
+Total Fair Value
+63,581
+
+57,780
+
+Total Gross Unrealized Losses
+(11,670)
+
+(10,785)
+
+Corporate | Related Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+471
+
+548
+
+Less than 12 months, Gross Unrealized Losses
+(4)
+
+(35)
+
+12 months or longer, Fair Value
+365
+
+382
+
+12 months or longer, Gross Unrealized Losses
+(26)
+
+(37)
+
+Total Fair Value
+836
+
+930
+
+Total Gross Unrealized Losses
+(30)
+
+(72)
+
+CLO | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+2,675
+
+689
+
+Less than 12 months, Gross Unrealized Losses
+(48)
+
+(2)
+
+12 months or longer, Fair Value
+2,325
+
+11,579
+
+12 months or longer, Gross Unrealized Losses
+(215)
+
+(543)
+
+Total Fair Value
+5,000
+
+12,268
+
+Total Gross Unrealized Losses
+(263)
+
+(545)
+
+CLO | Related Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+586
+
+397
+
+Less than 12 months, Gross Unrealized Losses
+(10)
+
+(16)
+
+12 months or longer, Fair Value
+544
+
+2,592
+
+12 months or longer, Gross Unrealized Losses
+(56)
+
+(102)
+
+Total Fair Value
+1,130
+
+2,989
+
+Total Gross Unrealized Losses
+(66)
+
+(118)
+
+ABS | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+9,361
+
+2,129
+
+Less than 12 months, Gross Unrealized Losses
+(155)
+
+(75)
+
+12 months or longer, Fair Value
+4,070
+
+4,378
+
+12 months or longer, Gross Unrealized Losses
+(309)
+
+(458)
+
+Total Fair Value
+13,431
+
+6,507
+
+Total Gross Unrealized Losses
+(464)
+
+(533)
+
+ABS | Related Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+2,533
+
+2,008
+
+Less than 12 months, Gross Unrealized Losses
+(43)
+
+(66)
+
+12 months or longer, Fair Value
+3,355
+
+2,793
+
+12 months or longer, Gross Unrealized Losses
+(235)
+
+(225)
+
+Total Fair Value
+5,888
+
+4,801
+
+Total Gross Unrealized Losses
+(278)
+
+(291)
+
+CMBS | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+1,868
+
+859
+
+Less than 12 months, Gross Unrealized Losses
+(56)
+
+(12)
+
+12 months or longer, Fair Value
+1,773
+
+1,967
+
+12 months or longer, Gross Unrealized Losses
+(315)
+
+(406)
+
+Total Fair Value
+3,641
+
+2,826
+
+Total Gross Unrealized Losses
+(371)
+
+(418)
+
+RMBS | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Less than 12 months, Fair Value
+825
+
+467
+
+Less than 12 months, Gross Unrealized Losses
+(13)
+
+(9)
+
+12 months or longer, Fair Value
+1,261
+
+2,057
+
+12 months or longer, Gross Unrealized Losses
+(157)
+
+(263)
+
+Total Fair Value
+2,086
+
+2,524
+
+Total Gross Unrealized Losses
+$ (170)
+
+$ (272)
+
+X
+
+- DefinitionAmount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for more than 12 months, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479081/326-30-55-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-7
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-5
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPosition12MonthsOrLonger
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of accumulated unrealized loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for 12 months or longer, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-5
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPosition12MonthsOrLongerAccumulatedLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for less than 12 months, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479081/326-30-55-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-7
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-5
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPositionLessThan12Months
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of accumulated unrealized loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for less than 12 months, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-5
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPositionLessThan12MonthsAccumulatedLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in unrealized loss position without allowance for credit loss.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479081/326-30-55-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-4
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleUnrealizedLossPosition
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of accumulated unrealized loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in unrealized loss position, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-4
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleUnrealizedLossPositionAccumulatedLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aaa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfAvailableForSaleSecuritiesLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_NonrelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_USTreasuryAndGovernmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_USStatesAndPoliticalSubdivisionsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ForeignGovernmentDebtMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_AssetBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CommercialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ResidentialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

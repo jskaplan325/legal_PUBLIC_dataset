@@ -1,0 +1,188 @@
+XML
+53
+R23.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity-Based Compensation
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Share-Based Payment Arrangement [Abstract]
+
+Equity-Based Compensation
+15. Equity-Based Compensation
+
+Under the Equity Plan, the Company grants equity-based awards to employees. Equity-based awards granted to employees and non-employees as compensation are measured based on the grant date fair value of the award, which considers the public share price of AGM s common stock subject to certain discounts, as applicable.
+
+The Company grants both service-based and performance-based awards. The estimated total grant date fair value for service-based awards is charged to compensation expense on a straight-line basis over the vesting period, which is generally one to five years from the date of grant. Certain service-based awards are tied to profit sharing arrangements in which a portion of the performance fees distributed to the general partner are required to be used by employees to purchase restricted shares of common stock or is delivered in the form of RSUs, which are granted under the Company s Equity Plan. Performance-based awards vest subject to continued employment and the Company s achievement of specified performance goals. In accordance with U.S. GAAP, equity-based compensation expense for performance grants are typically recognized on an accelerated recognition method over the requisite service period to the extent the performance revenue metrics are met or deemed probable. Equity-based awards that do not require future service (i.e., vested awards) are expensed immediately.
+
+For the years ended December 31, 2024, 2023 and 2022, the Company recorded equity-based compensation expense of $721 million, $1.0 billion and $540 million, respectively. As of December 31, 2024, there was $588 million of estimated unrecognized compensation expense related to unvested RSU awards. This cost is expected to be recognized over a weighted-average period of 2.0 years.
+The following table summarizes the weighted average discounts for plan grants, bonus grants and performance grants:
+
+ Years ended December 31,
+ 2024 2023 2022
+Plan grants:
+Discount for the lack of distributions until vested1
+ % % 0.2 %
+Marketability discount for transfer restrictions2
+ 4.4 % 15.4 % 10.0 %
+Bonus grants:
+Marketability discount for transfer restrictions2
+ 2.5 % 4.0 % 3.5 %
+Performance grants:
+Discount for the lack of distributions until vested1
+ % 0.2 % 1.3 %
+Marketability discount for transfer restrictions2
+ 11.0 % 9.7 % 7.6 %
+
+1 Based on the present value of a growing annuity calculation.
+
+2 Based on the Finnerty Model calculation.
+
+Service-Based Awards
+
+During the years ended December 31, 2024, 2023 and 2022, the Company awarded 3.7 million, 5.0 million and 5.1 million of service-based RSUs, respectively, with a grant date fair value of $405 million, $339 million and $310 million, respectively.
+
+During the years ended December 31, 2024, 2023 and 2022, the Company recorded equity-based compensation expense on service-based RSUs of $398 million, $313 million and $245 million, respectively.
+
+Performance-Based Awards
+
+During the years ended December 31, 2024, 2023 and 2022, the Company awarded 1.5 million, 1.5 million and 3.9 million of performance-based RSUs, respectively, with a grant date fair value of $181 million, $97 million and $228 million, respectively, which primarily vest subject to continued employment and the Company s receipt of performance revenues, within prescribed periods, sufficient to cover the associated equity-based compensation expense.
+
+During the years ended December 31, 2024, 2023 and 2022, the Company recorded equity-based compensation expense on performance-based awards of $260 million, $175 million and $205 million, respectively.
+
+During the years ended December 31, 2024, 2023 and 2022, the Company issued equity awards where the number of shares to be issued is variable based on the achievement of specified performance targets. Compensation expense is recognized over the performance period based upon the probable outcome of the performance condition and the performance-based compensation is classified as a liability, and therefore, the fair value of these awards is remeasured each reporting period. Given the number of shares to be issued in settlement of these awards is not yet known, the tables below exclude the impact of these awards.
+
+In December 2021, the Company awarded one-time grants to the Co-Presidents of AAM of 6.0 million RSUs which vest on a cliff basis subject to continued employment over five years, with 2.0 million of those RSUs also subject to the Company s achievement of certain fee related earnings and spread related earnings per share metrics. During the year ended December 31, 2024, the Company recorded equity-based compensation expense of $80 million for these one-time grants of which $56 million is related to service-based awards and $24 million is related to performance-based awards.
+The following table summarizes all RSU activity for the current period:
+
+ Unvested Weighted Average Grant Date Fair Value Vested Total Number of RSUs Outstanding
+Balance at January 1, 2024 16,692,903 $ 62.92 22,067,052 38,759,955
+
+Granted 5,173,971 112.54 23,084 5,197,055
+Forfeited (341,573) 81.10 (172,960) (514,533)
+Vested (6,890,273) 72.58 6,890,273
+Issued (7,470,317) (7,470,317)
+Balance at December 31, 2024 14,635,028 $ 70.03 21,337,132 35,972,160
+
+Restricted Stock Awards
+
+During the years ended December 31, 2024, 2023 and 2022, the Company awarded 0.4 million, 0.6 million and 0.5 million restricted stock awards, respectively, from profit sharing arrangements with a grant date fair value of $52 million, $41 million and $36 million, respectively.
+
+During the years ended December 31, 2024, 2023 and 2022, the Company recorded equity-based compensation expense related to restricted stock awards from profit sharing arrangements of $46 million, $46 million and $56 million, respectively. As of December 31, 2024, there was $52 million of total unrecognized equity-based compensation expense related to unvested restricted stock awards, which is expected to be recognized over a weighted-average term of 2.1 years.
+
+The following table summarizes the restricted stock award activity:
+
+ Unvested Weighted Average Grant Date Fair Value Vested Total Shares of Restricted Stock Outstanding
+Balance at January 1, 2024
+ 1,008,498 $ 66.34 474,922 1,483,420
+Granted 401,111 128.70 401,111
+Forfeited (1,085) 75.08 (1,085)
+Vested (700,723) 69.94 700,723
+Issued1
+ 69.94 (700,723) (700,723)
+Balance at December 31, 2024
+ 707,801 $ 85.48 474,922 1,182,723
+1 Refers to issued shares that became freely transferable in 2024.
+
+X
+
+- DefinitionThe entire disclosure for share-based payment arrangement.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/718/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (l)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

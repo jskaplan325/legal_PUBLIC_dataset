@@ -1,0 +1,259 @@
+XML
+74
+R44.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Schedule of Rollforward of DAC
+The following represents a rollforward of DAC and DSI by product, and a rollforward of VOBA. See note 11 for more information on Athene s products.
+
+ DAC DSI VOBA Total DAC, DSI and VOBA
+(In millions) Traditional Deferred Annuities Indexed Annuities Funding Agreements Other Investment-Type Indexed Annuities
+Balance at January 1, 2022 $ $ $ $ $ $ 3,372 $ 3,372
+Additions 320 784 14 9 411 1,538
+Amortization (16) (29) (3) (12) (384) (444)
+
+Balance at December 31, 2022
+ 304 755 11 9 399 2,988 4,466
+Additions 701 863 3 3 634 2,204
+Amortization (115) (101) (4) (1) (63) (404) (688)
+Other (3) (3)
+Balance at December 31, 2023
+ 890 1,517 10 11 970 2,581 5,979
+Additions 519 945 42 1 630 2,137
+Amortization (249) (184) (12) (1) (124) (371) (941)
+Other (2) (2)
+Balance at December 31, 2024
+ $ 1,158 $ 2,278 $ 40 $ 11 $ 1,476 $ 2,210 $ 7,173
+
+Schedule of Rollforward of DSI
+The following represents a rollforward of DAC and DSI by product, and a rollforward of VOBA. See note 11 for more information on Athene s products.
+
+ DAC DSI VOBA Total DAC, DSI and VOBA
+(In millions) Traditional Deferred Annuities Indexed Annuities Funding Agreements Other Investment-Type Indexed Annuities
+Balance at January 1, 2022 $ $ $ $ $ $ 3,372 $ 3,372
+Additions 320 784 14 9 411 1,538
+Amortization (16) (29) (3) (12) (384) (444)
+
+Balance at December 31, 2022
+ 304 755 11 9 399 2,988 4,466
+Additions 701 863 3 3 634 2,204
+Amortization (115) (101) (4) (1) (63) (404) (688)
+Other (3) (3)
+Balance at December 31, 2023
+ 890 1,517 10 11 970 2,581 5,979
+Additions 519 945 42 1 630 2,137
+Amortization (249) (184) (12) (1) (124) (371) (941)
+Other (2) (2)
+Balance at December 31, 2024
+ $ 1,158 $ 2,278 $ 40 $ 11 $ 1,476 $ 2,210 $ 7,173
+
+Schedule of Rollforward of VOBA
+The following represents a rollforward of DAC and DSI by product, and a rollforward of VOBA. See note 11 for more information on Athene s products.
+
+ DAC DSI VOBA Total DAC, DSI and VOBA
+(In millions) Traditional Deferred Annuities Indexed Annuities Funding Agreements Other Investment-Type Indexed Annuities
+Balance at January 1, 2022 $ $ $ $ $ $ 3,372 $ 3,372
+Additions 320 784 14 9 411 1,538
+Amortization (16) (29) (3) (12) (384) (444)
+
+Balance at December 31, 2022
+ 304 755 11 9 399 2,988 4,466
+Additions 701 863 3 3 634 2,204
+Amortization (115) (101) (4) (1) (63) (404) (688)
+Other (3) (3)
+Balance at December 31, 2023
+ 890 1,517 10 11 970 2,581 5,979
+Additions 519 945 42 1 630 2,137
+Amortization (249) (184) (12) (1) (124) (371) (941)
+Other (2) (2)
+Balance at December 31, 2024
+ $ 1,158 $ 2,278 $ 40 $ 11 $ 1,476 $ 2,210 $ 7,173
+
+Schedule of Expected Amortization of VOBA
+The expected amortization of VOBA for the next five years is as follows:
+
+(In millions) Expected Amortization
+
+2025 $ 295
+2026 261
+2027 227
+2028 194
+2029 167
+
+X
+
+- DefinitionTabular disclosure of the movement in deferred policy acquisition costs.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCostsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of deferred sale inducement cost.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
++ Details
+
+ Name:
+us-gaap_DeferredSalesInducementsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of amount of amortization expense expected to be recorded in succeeding fiscal years for present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsExpectedAmortizationTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

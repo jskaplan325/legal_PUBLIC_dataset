@@ -1,0 +1,247 @@
+XML
+87
+R57.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Organization (Details)
+ $ in Millions
+
+12 Months Ended
+
+May 03, 2022
+
+USD ($)
+
+Dec. 31, 2024
+
+investing_strategy
+
+vote
+
+EntitiesTable [Line Items]
+
+Number of investing strategies | investing_strategy
+
+2
+
+Number of votes per share | vote
+
+1
+
+Griffin Capital, Asset Management Business
+
+EntitiesTable [Line Items]
+
+Payments to acquire business
+$ 213
+
+Contingent consideration obligations
+$ 64
+
+X
+
+- DefinitionEntitiesTable [Line Items]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_EntitiesTableLineItems
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNumber Of Investing Strategies
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_NumberOfInvestingStrategies
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNumber Of Votes Per Share
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_NumberOfVotesPerShare
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of liability recognized arising from contingent consideration in a business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479613/805-30-35-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 30
+ -Section 25
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479668/805-30-25-6
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationContingentConsiderationLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe cash outflow associated with the acquisition of business during the period. The cash portion only of the acquisition price.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-13
+
++ Details
+
+ Name:
+us-gaap_PaymentsToAcquireBusinessesGross
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=apo_GriffinCapitalAssetManagementBusinessMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

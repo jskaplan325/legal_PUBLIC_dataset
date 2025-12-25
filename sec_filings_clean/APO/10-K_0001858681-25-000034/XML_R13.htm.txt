@@ -1,0 +1,247 @@
+XML
+43
+R13.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Derivatives
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Derivative Instruments and Hedging Activities Disclosure [Abstract]
+
+Derivatives
+5. Derivatives
+
+Athene uses a variety of derivative instruments to manage risks, primarily equity, interest rate, foreign currency and market volatility. See note 2 for a description of our accounting policies for derivatives and note 7 for information about the fair value hierarchy for derivatives.
+
+The following table presents the notional amount and fair value of derivative instruments:
+
+ December 31, 2024 December 31, 2023
+ Notional Amount Fair Value Notional Amount Fair Value
+(In millions) Assets Liabilities Assets Liabilities
+Derivatives designated as hedges
+Foreign currency hedges
+Swaps 15,669 $ 938 $ 211 9,034 $ 477 $ 230
+Forwards 3,139 331 5 6,294 275 102
+Interest rate swaps 4,506 654 4,468 521
+Forwards on net investments 218 11 219 6
+Interest rate swaps 24,885 55 138 10,031 29 95
+Total derivatives designated as hedges 1,335 1,008 781 954
+Derivatives not designated as hedges
+Equity options 85,452 5,002 126 73,881 3,809 102
+Futures 37 93 11 35 72
+Foreign currency swaps 14,908 600 199 8,072 230 244
+Interest rate swaps and forwards 3,255 67 124 3,499 81 9
+Other swaps 2,644 3 5 2,588 39 1
+Foreign currency forwards 39,598 1,054 2,083 28,236 286 685
+
+Embedded derivatives
+Funds withheld, including related parties (3,650) 4 (4,100) (64)
+Interest sensitive contract liabilities 11,242 9,059
+Total derivatives not designated as hedges 3,169 13,794 417 10,036
+Total derivatives $ 4,504 $ 14,802 $ 1,198 $ 10,990
+
+Derivatives Designated as Hedges
+
+Cash Flow Hedges
+
+Athene uses interest rate swaps to convert floating-rate interest payments to fixed-rate interest payments to reduce exposure to interest rate changes. The interest rate swaps will expire by July 2031. During the years ended December 31, 2024, 2023 and 2022, Athene recognized gains of $1 million and $33 million, and losses of $106 million, respectively, in OCI associated with these hedges. There were no amounts deemed ineffective during the years ended December 31, 2024, 2023 and 2022. As of December 31, 2024, no amounts were expected to be reclassified to income within the next 12 months.
+
+Fair Value Hedges
+
+Athene uses foreign currency forward contracts, foreign currency swaps, foreign currency interest rate swaps and interest rate swaps that are designated and accounted for as fair value hedges to hedge certain exposures to foreign currency risk and interest rate risk. The foreign currency forward price is agreed upon at the time of the contract and payment is made at a specified future date.
+The following represents the carrying amount and the cumulative fair value hedging adjustments included in the hedged assets or liabilities:
+
+ December 31, 2024 December 31, 2023
+(In millions) Carrying amount of the hedged assets or liabilities1
+ Cumulative amount of fair value hedging gains (losses) Carrying amount of the hedged assets or liabilities1
+ Cumulative amount of fair value hedging gains (losses)
+AFS securities
+Foreign currency forwards $ 3,790 $ (258) $ 4,883 $ (15)
+Foreign currency swaps 12,517 (842) 6,820 (141)
+Interest sensitive contract liabilities
+Foreign currency swaps 2,426 130 1,438 19
+Foreign currency interest rate swaps 3,946 488 4,010 363
+Interest rate swaps 17,873 130 6,910 189
+
+1 The carrying amount disclosed for AFS securities is amortized cost.
+
+The following is a summary of the gains (losses) related to the derivatives and related hedged items in fair value hedge relationships:
+
+ Amounts excluded
+(In millions) Derivatives Hedged items Net Recognized in income through amortization approach Recognized in income through changes in fair value
+Year ended December 31, 2024
+Investment related gains (losses)
+Foreign currency forwards $ 220 $ (238) $ (18) $ 43 $ 19
+Foreign currency swaps 513 (520) (7)
+Foreign currency interest rate swaps (160) 148 (12)
+Interest rate swaps 6 (58) (52)
+Interest sensitive contract benefits
+Foreign currency interest rate swaps 87 (85) 2
+Year ended December 31, 2023
+Investment related gains (losses)
+Foreign currency forwards (169) 167 (2) 82 20
+Foreign currency swaps (159) 169 10
+Foreign currency interest rate swaps 282 (269) 13
+Interest rate swaps 111 (118) (7)
+Interest sensitive contract benefits
+Foreign currency interest rate swaps 57 (60) (3)
+Year ended December 31, 2022
+Investment related gains (losses)
+Foreign currency forwards 183 (190) (7) 67 9
+Foreign currency swaps 286 (310) (24)
+Foreign currency interest rate swaps (622) 632 10
+Interest rate swaps (332) 323 (9)
+Interest sensitive contract benefits
+Foreign currency interest rate swaps 52 (53) (1)
+
+The following is a summary of the gains (losses) excluded from the assessment of hedge effectiveness that were recognized in OCI:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Foreign currency forwards $ (23) $ (45) $ 20
+Foreign currency swaps (29) (187) 88
+
+Net Investment Hedges
+
+Athene uses foreign currency forwards to hedge the foreign currency exchange rate risk of its investments in subsidiaries that have a reporting currency other than the U.S. dollar. Hedge effectiveness is assessed based on the changes in forward rates. During the years ended December 31, 2024, 2023 and 2022, these derivatives had gains of $3 million, losses of $4 million, and gains of $30 million, respectively. These derivatives are included in foreign currency translation and other adjustments on the consolidated statements of comprehensive income (loss). As of December 31, 2024 and 2023, the cumulative foreign currency translations recorded in AOCI related to these net investment hedges were gains of $29 million and $26 million, respectively. During the years ended December 31, 2024, 2023 and 2022, there were no amounts deemed ineffective.
+
+Derivatives Not Designated as Hedges
+
+Equity options
+
+Athene uses equity indexed options to economically hedge fixed indexed annuity products that guarantee the return of principal to the policyholder and credit interest based on a percentage of the gain in a specified market index, including the S&P 500 and other bespoke indices. To hedge against adverse changes in equity indices, Athene enters into contracts to buy equity indexed options. The contracts are net settled in cash based on differentials in the indices at the time of exercise and the strike price.
+
+Futures
+
+Athene purchases futures contracts to hedge the growth in interest credited to the customer as a direct result of increases in the related indices. Athene enters into exchange-traded futures with regulated futures commission clearing brokers who are members of a trading exchange. Under exchange-traded futures contracts, Athene agrees to purchase a specified number of contracts with other parties and to post variation margin on a daily basis in an amount equal to the difference in the daily fair values of those contracts.
+
+Interest rate swaps and forwards
+
+Athene uses interest rate swaps and forwards to reduce market risks from interest rate changes and to alter interest rate exposure arising from duration mismatches between assets and liabilities. With an interest rate swap, Athene agrees with another party to exchange the difference between fixed-rate and floating-rate interest amounts tied to an agreed-upon notional principal amount at specified intervals.
+
+Other swaps
+
+Other swaps include total return swaps, credit default swaps and swaptions. Athene purchases total rate of return swaps to gain exposure and benefit from a reference asset or index without ownership. Credit default swaps provide a measure of protection against the default of an issuer or allow Athene to gain credit exposure to an issuer or traded index. Athene uses credit default swaps coupled with a bond to synthetically create the characteristics of a reference bond. Swaptions provide an option to enter into an interest rate swap and are used by Athene to hedge against interest rate exposure.
+
+Embedded derivatives
+
+Athene has embedded derivatives which are required to be separated from their host contracts and reported as derivatives. Host contracts include reinsurance agreements structured on a modco or funds withheld basis and indexed annuity products.
+The following is a summary of the gains (losses) related to derivatives not designated as hedges:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Equity options $ 1,921 $ 1,564 $ (2,647)
+Futures 72 73 (144)
+Interest rate swaps and forwards and other swaps 344 (108) 56
+Foreign currency forwards (775) (495) 505
+
+Embedded derivatives on funds withheld 2 934 (6,534)
+Amounts recognized in investment related gains (losses) 1,564 1,968 (8,764)
+Embedded derivatives in indexed annuity products1
+ (174) (1,443) 2,768
+Total gains (losses) on derivatives not designated as hedges $ 1,390 $ 525 $ (5,996)
+
+1 Included in interest sensitive contract benefits on the consolidated statements of operations.
+
+Credit Risk
+
+Athene may be exposed to credit-related losses in the event of counterparty nonperformance on derivative financial instruments. Generally, the current credit exposure of Athene s derivative contracts is the fair value at the reporting date less any collateral received from the counterparty.
+
+Athene manages credit risk related to over-the-counter derivatives by entering into transactions with creditworthy counterparties. Where possible, Athene maintains collateral arrangements and uses master netting agreements that provide for a single net payment from one counterparty to another at each due date and upon termination. Athene has also established counterparty exposure limits, where possible, in order to evaluate if there is sufficient collateral to support the net exposure.
+
+Collateral arrangements typically require the posting of collateral in connection with its derivative instruments. Collateral agreements often contain posting thresholds, some of which may vary depending on the posting party s financial strength ratings. Additionally, a decrease in Athene s financial strength rating to a specified level can result in settlement of the derivative position.
+
+The estimated fair value of Athene s net derivative and other financial assets and liabilities after the application of master netting agreements and collateral were as follows:
+
+ Gross amounts not offset on the consolidated statements of financial condition
+
+(In millions) Gross amount recognized1
+ Financial instruments2
+ Collateral (received)/pledged Net amount Off-balance sheet securities collateral3
+ Net amount after securities collateral
+December 31, 2024
+Derivative assets $ 8,154 $ (2,209) $ (5,922) $ 23 $ $ 23
+Derivative liabilities (3,556) 2,209 1,333 (14) 2 (12)
+
+December 31, 2023
+Derivative assets $ 5,298 $ (1,497) $ (3,676) $ 125 $ $ 125
+Derivative liabilities (1,995) 1,497 848 350 350
+
+1 The gross amounts of recognized derivative assets and derivative liabilities are reported on the consolidated statements of financial condition. As of December 31, 2024 and December 31, 2023, amounts not subject to master netting or similar agreements were immaterial.
+
+2 Represents amounts offsetting derivative assets and derivative liabilities that are subject to an enforceable master netting agreement or similar agreement that are not netted against the gross derivative assets or gross derivative liabilities for presentation on the consolidated statements of financial condition.
+
+3 For non-cash collateral received, Athene does not recognize the collateral on the consolidated statements of financial condition unless the obligor (transferor) has defaulted under the terms of the secured contract and is no longer entitled to redeem the pledged asset. Amounts do not include any excess of collateral pledged or received.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for derivative instruments and hedging activities including, but not limited to, risk management strategies, non-hedging derivative instruments, assets, liabilities, revenue and expenses, and methodologies and assumptions used in determining the amounts.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480237/815-40-50-5
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5C
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-5C
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/815/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

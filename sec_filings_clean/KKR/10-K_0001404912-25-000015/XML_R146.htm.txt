@@ -1,0 +1,1822 @@
+XML
+168
+R146.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+POLICY LIABILITIES - Balances of and Changes in Liability for Future Policy Benefits (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Present Value of Expected Future Policy Benefits
+
+Liability for future policy benefit, reinsurance recoverable, after allowance, net of discount rate assumptions
+$ (284,700)
+
+$ 389,900
+
+Payout Annuity And Long-Duration Insurance, Other
+
+Present Value of Expected Net Premiums
+
+Balance as of Beginning of Period
+(208,370)
+
+(255,401)
+
+Balance at Original Discount Rate
+(241,058)
+
+(308,674)
+
+Effect of Changes in Cash Flow Assumptions
+
+0
+
+$ 43,842
+
+Effect of Actual Variances from Expected Experience
+
+(99,920)
+
+(4,839)
+
+Adjusted Beginning of Period Balance
+
+(340,978)
+
+(269,671)
+
+Issuances
+(1,276,555)
+
+0
+
+Interest
+(48,966)
+
+(4,314)
+
+Net Premiums Collected
+221,836
+
+32,927
+
+Ending Balance at Original Discount Rate
+(1,444,663)
+
+(241,058)
+
+Effect of Changes in Discount Rate Assumptions
+45,452
+
+32,688
+
+Balance as of End of Period
+(1,399,211)
+
+(208,370)
+
+Present Value of Expected Future Policy Benefits
+
+Balance as of Beginning of Period
+18,032,120
+
+14,701,321
+
+Balance at Original Discount Rate
+20,741,655
+
+18,139,653
+
+Effect of Changes in Cash Flow Assumptions
+
+(28,430)
+
+(48,001)
+
+Effect of Actual Variances from Expected Experience
+
+(16,202)
+
+42,635
+
+Adjusted Beginning of Period Balance
+
+20,697,023
+
+18,134,287
+
+Issuances
+12,315,893
+
+3,869,591
+
+Interest
+990,198
+
+446,842
+
+Benefit Payments
+(2,550,089)
+
+(1,709,065)
+
+Ending Balance at Original Discount Rate
+31,453,025
+
+20,741,655
+
+Effect of Changes in Discount Rate Assumptions
+(3,258,723)
+
+(2,709,535)
+
+Balance as of End of Period
+28,194,302
+
+18,032,120
+
+Total Policy Liabilities
+26,795,091
+
+17,823,750
+
+Less: Reinsurance Recoverable
+(15,718,695)
+
+(9,273,553)
+
+Net Liability for Future Policy Benefits, Net of Reinsurance Recoverables
+11,076,396
+
+8,550,197
+
+Payout Annuities
+
+Present Value of Expected Net Premiums
+
+Balance as of Beginning of Period
+0
+
+0
+
+Balance at Original Discount Rate
+0
+
+0
+
+Effect of Changes in Cash Flow Assumptions
+
+0
+
+0
+
+Effect of Actual Variances from Expected Experience
+
+0
+
+0
+
+Adjusted Beginning of Period Balance
+
+0
+
+0
+
+Issuances
+0
+
+0
+
+Interest
+0
+
+0
+
+Net Premiums Collected
+0
+
+0
+
+Ending Balance at Original Discount Rate
+0
+
+0
+
+Effect of Changes in Discount Rate Assumptions
+0
+
+0
+
+Balance as of End of Period
+0
+
+0
+
+Present Value of Expected Future Policy Benefits
+
+Balance as of Beginning of Period
+17,427,353
+
+14,021,515
+
+Balance at Original Discount Rate
+20,040,000
+
+17,321,203
+
+Effect of Changes in Cash Flow Assumptions
+
+(28,430)
+
+(1,563)
+
+Effect of Actual Variances from Expected Experience
+
+18,093
+
+29,339
+
+Adjusted Beginning of Period Balance
+
+20,029,663
+
+17,348,979
+
+Issuances
+3,307,864
+
+3,869,133
+
+Interest
+644,967
+
+437,596
+
+Benefit Payments
+(1,866,380)
+
+(1,615,708)
+
+Ending Balance at Original Discount Rate
+22,116,114
+
+20,040,000
+
+Effect of Changes in Discount Rate Assumptions
+(3,048,636)
+
+(2,612,647)
+
+Balance as of End of Period
+19,067,478
+
+17,427,353
+
+Total Policy Liabilities
+19,067,478
+
+17,427,353
+
+Less: Reinsurance Recoverable
+(9,579,679)
+
+(9,270,511)
+
+Net Liability for Future Policy Benefits, Net of Reinsurance Recoverables
+9,487,799
+
+8,156,842
+
+Other
+
+Present Value of Expected Net Premiums
+
+Balance as of Beginning of Period
+(208,370)
+
+(255,401)
+
+Balance at Original Discount Rate
+(241,058)
+
+(308,674)
+
+Effect of Changes in Cash Flow Assumptions
+
+0
+
+43,842
+
+Effect of Actual Variances from Expected Experience
+
+(99,920)
+
+(4,839)
+
+Adjusted Beginning of Period Balance
+
+(340,978)
+
+(269,671)
+
+Issuances
+(1,276,555)
+
+0
+
+Interest
+(48,966)
+
+(4,314)
+
+Net Premiums Collected
+221,836
+
+32,927
+
+Ending Balance at Original Discount Rate
+(1,444,663)
+
+(241,058)
+
+Effect of Changes in Discount Rate Assumptions
+45,452
+
+32,688
+
+Balance as of End of Period
+(1,399,211)
+
+(208,370)
+
+Present Value of Expected Future Policy Benefits
+
+Balance as of Beginning of Period
+604,767
+
+679,806
+
+Balance at Original Discount Rate
+701,655
+
+818,450
+
+Effect of Changes in Cash Flow Assumptions
+
+0
+
+(46,438)
+
+Effect of Actual Variances from Expected Experience
+
+(34,295)
+
+13,296
+
+Adjusted Beginning of Period Balance
+
+667,360
+
+$ 785,308
+
+Issuances
+9,008,029
+
+458
+
+Interest
+345,231
+
+9,246
+
+Benefit Payments
+(683,709)
+
+(93,357)
+
+Ending Balance at Original Discount Rate
+9,336,911
+
+701,655
+
+Effect of Changes in Discount Rate Assumptions
+(210,087)
+
+(96,888)
+
+Balance as of End of Period
+9,126,824
+
+604,767
+
+Total Policy Liabilities
+7,727,613
+
+396,397
+
+Net Liability for Future Policy Benefits, Net of Reinsurance Recoverables
+1,588,597
+
+393,355
+
+Other
+
+Present Value of Expected Future Policy Benefits
+
+Less: Reinsurance Recoverable
+$ (6,139,016)
+
+$ (3,042)
+
+X
+
+- DefinitionLiability For Future Policy Benefit, Reinsurance Recoverable, After Allowance, Effect Of Discount Rate Assumptions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_LiabilityForFuturePolicyBenefitReinsuranceRecoverableAfterAllowanceNetOfDiscountRateAssumptions
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax, of accumulated other comprehensive income (loss) (AOCI) from (increase) decrease in expected future policy benefit component of liability for future policy benefit from change in discount rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_AociLiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before tax, of accumulated other comprehensive income (loss) (AOCI) from increase (decrease) in expected net premium component of liability for future policy benefit from change in discount rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_AociLiabilityForFuturePolicyBenefitExpectedNetPremiumBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after effect of reinsurance, of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitAfterReinsurance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before effect of reinsurance and after current period update of cash flow assumption, of expected future benefit and expense component for liability for future policy benefit, discounted at original rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFutureBenefitOriginalDiscountRateBeforeReinsuranceAfterCashFlowChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before effect of reinsurance and after current period update of cash flow assumption and discount rate change, of expected future policy benefit and expense component of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitBeforeReinsuranceAfterDiscountRateChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in expected future policy benefit and expense component for liability of future policy benefit from cash flow assumption change for future cash flows.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitCumulativeIncreaseDecreaseFromCashFlowChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in expected future policy benefit and expense component for liability of future policy benefit from effect of variance from cash flow assumption change for actual experience.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitCumulativeIncreaseDecreaseOfActualVarianceFromExpectedExperience
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of interest expense for expected future policy benefit and expense component of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitInterestExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in expected future policy benefit and expense component of liability for future policy benefit from contract issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitIssuance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before effect of reinsurance and current period update of cash flow assumption, of expected future policy benefit and expense component of liability for future policy benefit, discounted at original rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitOriginalDiscountRateBeforeCashFlowAndReinsurance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedFuturePolicyBenefitRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before effect of reinsurance and after current period update of cash flow assumption and discount rate change, of expected net premium component of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumBeforeReinsuranceAfterDiscountRateChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in expected net premium component of liability for future policy benefit from cash flow assumption change for future cash flows.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumCumulativeIncreaseDecreaseFromCashFlowChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in expected net premium component for liability of future policy benefit from effect of variance from cash flow assumption change for actual experience.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumCumulativeIncreaseDecreaseOfActualVarianceFromExpectedExperience
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of interest income for expected net premium component of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumInterestIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in expected net premium component of liability for future policy benefit from contract issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumIssuance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of premium collected from policyholder to fund expected benefit payment for expected net premium component of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumNetPremiumCollected
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before effect of reinsurance and current period update of cash flow assumption, of expected net premium component of liability for future policy benefit, discounted at original rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumOriginalDiscountRateBeforeCashFlowAndReinsurance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before effect of reinsurance and after current period update of cash flow assumption, of expected net premium component for liability for future policy benefit, discounted at original rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumOriginalDiscountRateBeforeReinsuranceAfterCashFlowChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitExpectedNetPremiumRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after allowance for credit loss, recoverable under reinsurance of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitReinsuranceRecoverableAfterAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before effect of reinsurance, of present value of future benefit to be paid to or on behalf of policyholder and related expense less present value of future net premium receivable under insurance contract.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(13)(a)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefits
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cash outflow to policyholder from benefit payment for expected future policy benefit and expense component of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13I
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13I
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 17
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-17
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitsPaymentForBenefits
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_PayoutAnnuityAndLongDurationInsuranceOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_PayoutAnnuityNettingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_OtherLongdurationInsuranceProductLineMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_LongDurationInsuranceOtherNettingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

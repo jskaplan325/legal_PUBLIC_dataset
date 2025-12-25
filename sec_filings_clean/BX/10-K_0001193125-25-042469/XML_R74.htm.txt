@@ -1,0 +1,1319 @@
+XML
+103
+R74.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Changes in Financial Assets and Liabilities Measured at Fair Value for Which Level III Inputs Were Used (Detail) - Level 3 - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Balance, Beginning of Period
+
+$ 3,117,393
+
+$ 4,595,842
+
+Transfer In Due to Consolidation and Acquisition
+
+85,540
+
+Transfer Out Due to Deconsolidation
+
+(14,237)
+
+(1,453,837)
+
+Transfer Into Level III
+[1]
+144,894
+
+29,088
+
+Transfer Out of Level III
+[1]
+(35,431)
+
+(21,571)
+
+Purchases
+
+2,017,730
+
+932,993
+
+Sales
+
+(1,307,126)
+
+(867,995)
+
+Issuances
+
+30,028
+
+68,450
+
+Settlements
+[2]
+(96,003)
+
+(78,671)
+
+Changes in Gains (Losses) In cludedin Earnings
+
+(44,068)
+
+(86,906)
+
+Balance, End of Period
+
+3,898,720
+
+3,117,393
+
+Changes in Unrealized Gains (Losses) Included in Earnings Related to Financial Assets Still Held at the Reporting Date
+
+$ (11,944)
+
+$ (84,876)
+
+Fair Value, Asset, Recurring Basis, Still Held, Unrealized Gain (Loss), Statement of Income or Comprehensive Income [Extensible Enumeration]
+
+Unrealized Gain (Loss) on Investments
+
+Unrealized Gain (Loss) on Investments
+
+Balance, Beginning of Period
+
+$ 565,637
+
+$ 56,725
+
+Transfer In (Out) Due to Consolidation and Acquisition
+
+0
+
+800
+
+Sales
+
+0
+
+(413)
+
+Changes in Losses (Gains) Included in Earnings
+
+373,451
+
+508,525
+
+Balance, End of Period
+
+939,088
+
+565,637
+
+Changes in Unrealized Losses (Gains) Included in Earnings Related to Financial Liabilities Still Held at the Reporting Date
+
+373,451
+
+508,525
+
+Other Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Balance, Beginning of Period
+
+373,024
+
+30,971
+
+Transfer Into Level III
+[1],[3]
+109,347
+
+898
+
+Transfer Out of Level III
+[1],[3]
+(58)
+
+(3,374)
+
+Purchases
+
+465,775
+
+354,202
+
+Sales
+
+(307,926)
+
+(14,542)
+
+Settlements
+[2],[3]
+(21,261)
+
+(8,252)
+
+Changes in Gains (Losses) In cludedin Earnings
+
+5,511
+
+13,121
+
+Balance, End of Period
+
+624,412
+
+373,024
+
+Changes in Unrealized Gains (Losses) Included in Earnings Related to Financial Assets Still Held at the Reporting Date
+
+(1,368)
+
+7,725
+
+Other Liabilities
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Balance, Beginning of Period
+
+1,651
+
+8,144
+
+Transfer In (Out) Due to Consolidation and Acquisition
+
+0
+
+800
+
+Sales
+
+0
+
+(413)
+
+Changes in Losses (Gains) Included in Earnings
+
+(779)
+
+(6,880)
+
+Balance, End of Period
+
+872
+
+1,651
+
+Changes in Unrealized Losses (Gains) Included in Earnings Related to Financial Liabilities Still Held at the Reporting Date
+
+(779)
+
+(6,880)
+
+Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Balance, Beginning of Period
+
+563,986
+
+48,581
+
+Transfer In (Out) Due to Consolidation and Acquisition
+
+0
+
+0
+
+Sales
+
+0
+
+0
+
+Changes in Losses (Gains) Included in Earnings
+
+374,230
+
+515,405
+
+Balance, End of Period
+
+938,216
+
+563,986
+
+Changes in Unrealized Losses (Gains) Included in Earnings Related to Financial Liabilities Still Held at the Reporting Date
+
+374,230
+
+515,405
+
+Loans and Receivables
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Balance, Beginning of Period
+
+60,738
+
+315,039
+
+Purchases
+
+857,245
+
+284,002
+
+Sales
+
+(784,457)
+
+(563,732)
+
+Issuances
+
+30,028
+
+68,450
+
+Settlements
+[2]
+(74,742)
+
+(70,419)
+
+Changes in Gains (Losses) In cludedin Earnings
+
+12,054
+
+27,398
+
+Balance, End of Period
+
+100,866
+
+60,738
+
+Changes in Unrealized Gains (Losses) Included in Earnings Related to Financial Assets Still Held at the Reporting Date
+
+(1,297)
+
+2,227
+
+Consolidated Blackstone Funds
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Balance, Beginning of Period
+
+2,683,631
+
+4,249,832
+
+Transfer In Due to Consolidation and Acquisition
+
+85,540
+
+Transfer Out Due to Deconsolidation
+
+(14,237)
+
+(1,453,837)
+
+Transfer Into Level III
+[1]
+35,547
+
+28,190
+
+Transfer Out of Level III
+[1]
+(35,373)
+
+(18,197)
+
+Purchases
+
+694,710
+
+294,789
+
+Sales
+
+(214,743)
+
+(289,721)
+
+Changes in Gains (Losses) In cludedin Earnings
+
+(61,633)
+
+(127,425)
+
+Balance, End of Period
+
+3,173,442
+
+2,683,631
+
+Changes in Unrealized Gains (Losses) Included in Earnings Related to Financial Assets Still Held at the Reporting Date
+
+$ (9,279)
+
+$ (94,828)
+
+[1]
+Transfers in and out of Level III financial assets and liabilities were due to changes in the observability of inputs used in the valuation of such assets and liabilities.
+
+[2]
+For Freestanding Derivatives included within Other Investments, Settlements includes all ongoing contractual cash payments made or received over the life of the instrument.
+
+[3]
+Represents freestanding derivatives, corporate treasury investments and Other Investments.
+
+X
+
+- DefinitionFair value liabilities measured on recurring basis change in unrealized gain loss included in earnings one.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueLiabilitiesMeasuredOnRecurringBasisChangeInUnrealizedGainLossIncludedInEarningsOne
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value measurement with unobservable inputs reconciliation recurring basis asset gain (loss) included in earnings.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetGainLossIncludedInEarnings
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value Measurement With Unobservable Inputs Reconciliation Recurring Basis Asset Transfer Out Due To Deconsolidation
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransferInOutDueToDeconsolidation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicates line item in statement of income or comprehensive income that includes unrealized gain (loss) from asset measured at fair value using unobservable input (level 3) and still held.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 102
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-102
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetRecurringBasisStillHeldUnrealizedGainLossStatementOfIncomeExtensibleList
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+enum2:enumerationSetItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsAndLiabilitiesMeasuredOnRecurringAndNonrecurringBasisLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) recognized in income from asset measured at fair value on recurring basis using unobservable input (level 3) and still held.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 102
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-102
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsMeasuredOnRecurringBasisChangeInUnrealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as a liability into level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationLiabilityTransfersIntoLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of issuances of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetIssues
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of purchases of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetPurchases
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of sale of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetSales
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of settlement of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfer of financial instrument classified as an asset into level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersIntoLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as an asset out of level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersOutOfLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of sales of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilitySales
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as a liability into (out of) level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityTransfersNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationsRecurringBasisLiabilityValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe net change in the difference between the fair value and the carrying value, or in the comparative fair values, of derivative instruments, including options, swaps, futures, and forward contracts, held at each balance sheet date, that was included in earnings for the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(7)(c)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(7)(c)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(7)(c)(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(7)(c)(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column F))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
++ Details
+
+ Name:
+us-gaap_UnrealizedGainLossOnDerivatives
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_InvestmentAssetOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_OtherLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_FreestandingDerivativesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AccountsNotesLoansAndFinancingReceivableByReceivableTypeAxis=us-gaap_LoansReceivableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OptionIndexedToIssuersEquityTypeAxis=bx_ConsolidatedBlackstoneFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

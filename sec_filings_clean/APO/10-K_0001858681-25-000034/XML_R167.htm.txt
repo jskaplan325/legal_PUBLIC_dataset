@@ -1,0 +1,963 @@
+XML
+197
+R167.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Schedule I Condensed Financial Information of Registrant (Parent Company Only) - Cash Flows (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Cash Flows from Operating Activities
+
+Net cash provided by (used in) operating activities
+$ 3,253
+
+$ 6,322
+
+$ 3,789
+
+Cash Flows from Investing Activities
+
+Net cash used in investing activities
+(61,801)
+
+(42,407)
+
+(23,444)
+
+Cash Flows from Financing Activities
+
+Preferred stock dividends
+(97)
+
+(22)
+
+0
+
+Common stock dividends
+(1,092)
+
+(1,012)
+
+(962)
+
+Issuance of debt
+7,945
+
+4,912
+
+5,745
+
+Repurchase of common stock
+(890)
+
+(561)
+
+(635)
+
+Net cash provided by financing activities
+57,972
+
+42,638
+
+28,710
+
+Net Increase (Decrease) in Cash and Cash Equivalents, Restricted Cash and Cash Held at Consolidated Variable Interest Entities
+(579)
+
+6,563
+
+9,040
+
+Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, and Cash and Cash Equivalents Held at Consolidated Variable Interest Entities, Beginning of Period
+17,691
+
+11,128
+
+2,088
+
+Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, and Cash and Cash Equivalents Held at Consolidated Variable Interest Entities, End of Period
+17,112
+
+17,691
+
+11,128
+
+Supplemental Disclosure of Cash Flow Information
+
+Cash paid for taxes
+1,048
+
+358
+
+1,007
+
+Cash paid for interest
+805
+
+720
+
+566
+
+Parent Company
+
+Cash Flows from Operating Activities
+
+Net cash provided by (used in) operating activities
+(23)
+
+(63)
+
+36
+
+Cash Flows from Investing Activities
+
+Contributions to subsidiaries
+(71)
+
+(1,250)
+
+0
+
+Distributions from subsidiaries
+453
+
+1,166
+
+2,016
+
+Due from subsidiaries, net
+209
+
+147
+
+(579)
+
+Net cash used in investing activities
+591
+
+63
+
+1,437
+
+Cash Flows from Financing Activities
+
+Preferred stock dividends
+(97)
+
+(22)
+
+0
+
+Common stock dividends
+(1,092)
+
+(1,012)
+
+(916)
+
+Issuance of debt
+1,250
+
+1,100
+
+0
+
+Payment of debt issuance cost
+(17)
+
+(25)
+
+0
+
+Issuance of Mandatory Convertible Preferred Stock, net of issuance costs
+0
+
+1,398
+
+0
+
+Repurchase of common stock
+(890)
+
+(561)
+
+(635)
+
+Due to subsidiaries, net
+(52)
+
+109
+
+78
+
+Net cash provided by financing activities
+(898)
+
+987
+
+(1,473)
+
+Net Increase (Decrease) in Cash and Cash Equivalents, Restricted Cash and Cash Held at Consolidated Variable Interest Entities
+(330)
+
+987
+
+0
+
+Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, and Cash and Cash Equivalents Held at Consolidated Variable Interest Entities, Beginning of Period
+987
+
+0
+
+0
+
+Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, and Cash and Cash Equivalents Held at Consolidated Variable Interest Entities, End of Period
+657
+
+987
+
+0
+
+Supplemental Disclosure of Cash Flow Information
+
+Cash paid for taxes
+37
+
+37
+
+55
+
+Cash paid for interest
+$ 100
+
+$ 14
+
+$ 0
+
+X
+
+- DefinitionPayments Related To Distribution To Subsidiary, Investing Activities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_PaymentsRelatedToDistributionToSubsidiaryInvestingActivities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionProceeds Due From (To) Subsidiaries, Financing Activities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_ProceedsDueFromToSubsidiariesFinancingActivities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionProceeds From Distribution From Subsidiary, Investing Activities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_ProceedsFromDistributionFromSubsidiaryInvestingActivities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash and cash equivalents, and cash and cash equivalents restricted to withdrawal or usage. Excludes amount for disposal group and discontinued operations. Cash includes, but is not limited to, currency on hand, demand deposits with banks or financial institutions, and other accounts with general characteristics of demand deposits. Cash equivalents include, but are not limited to, short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-24
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-4
+
++ Details
+
+ Name:
+us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of increase (decrease) in cash, cash equivalents, and cash and cash equivalents restricted to withdrawal or usage; including effect from exchange rate change. Cash includes, but is not limited to, currency on hand, demand deposits with banks or financial institutions, and other accounts with general characteristics of demand deposits. Cash equivalents include, but are not limited to, short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-24
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -SubTopic 230
+ -Topic 830
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477401/830-230-45-1
+
++ Details
+
+ Name:
+us-gaap_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before refund, of cash paid to foreign, federal, state, and local jurisdictions as income tax.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-2A
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 23
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-23
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-22
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 25
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-25
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-2
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxesPaid
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash paid for interest, excluding capitalized interest, classified as operating activity. Includes, but is not limited to, payment to settle zero-coupon bond for accreted interest of debt discount and debt instrument with insignificant coupon interest rate in relation to effective interest rate of borrowing attributable to accreted interest of debt discount.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 17
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-17
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 25
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-25
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-2
+
++ Details
+
+ Name:
+us-gaap_InterestPaidNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash inflow (outflow) from financing activities, including discontinued operations. Financing activity cash flows include obtaining resources from owners and providing them with a return on, and a return of, their investment; borrowing money and repaying amounts borrowed, or settling the obligation; and obtaining and paying for other resources obtained from creditors on long-term credit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-24
+
++ Details
+
+ Name:
+us-gaap_NetCashProvidedByUsedInFinancingActivities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash inflow (outflow) from investing activities, including discontinued operations. Investing activity cash flows include making and collecting loans and acquiring and disposing of debt or equity instruments and property, plant, and equipment and other productive assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-24
+
++ Details
+
+ Name:
+us-gaap_NetCashProvidedByUsedInInvestingActivities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash inflow (outflow) from operating activities, including discontinued operations. Operating activity cash flows include transactions, adjustments, and changes in value not defined as investing or financing activities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-24
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 25
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-25
+
++ Details
+
+ Name:
+us-gaap_NetCashProvidedByUsedInOperatingActivities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe cash outflow to reacquire common stock during the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 15
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-15
+
++ Details
+
+ Name:
+us-gaap_PaymentsForRepurchaseOfCommonStock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe cash outflow paid to third parties in connection with debt origination, which will be amortized over the remaining maturity period of the associated long-term debt.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 15
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-15
+
++ Details
+
+ Name:
+us-gaap_PaymentsOfDebtIssuanceCosts
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash outflow in the form of ordinary dividends to common shareholders of the parent entity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 15
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-15
+
++ Details
+
+ Name:
+us-gaap_PaymentsOfDividendsCommonStock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash outflow in the form of ordinary dividends to preferred shareholders of the parent entity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 15
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-15
+
++ Details
+
+ Name:
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe cash outflow associated with the acquisition of or advances to an entity that is related to it but not strictly controlled (for example, an unconsolidated subsidiary, affiliate, and joint venture or equity method investment) or the acquisition of an additional interest in a subsidiary (controlled entity).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-13
+
++ Details
+
+ Name:
+us-gaap_PaymentsToAcquireInterestInSubsidiariesAndAffiliates
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe cash inflow from a debt initially having maturity due after one year or beyond the operating cycle, if longer.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(i)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 14
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-14
+
++ Details
+
+ Name:
+us-gaap_ProceedsFromIssuanceOfLongTermDebt
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe cash inflow from the issuance of common stock, preferred stock, treasury stock, stock options, and other types of equity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 14
+ -Subparagraph (a)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-14
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(i)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
++ Details
+
+ Name:
+us-gaap_ProceedsFromIssuanceOrSaleOfEquity
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SupplementalCashFlowInformationAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,224 @@
+XML
+183
+R153.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Commitments and Contingencies - Atlas (Details) - Atlas
+ $ in Billions
+
+Dec. 31, 2024
+
+USD ($)
+
+transaction
+
+Loss Contingencies [Line Items]
+
+Number of transaction acquired | transaction
+2
+
+Maximum commitment
+$ 3.3
+
+Guarantee
+$ 2.5
+
+X
+
+- DefinitionNumber Of Transactions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_NumberOfTransactions
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe current carrying amount of the liability for the freestanding or embedded guarantor's obligations under the guarantee or each group of similar guarantees.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-4
+
++ Details
+
+ Name:
+us-gaap_GuaranteeObligationsCurrentCarryingValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionMaximum potential amount of future payments (undiscounted) the guarantor could be required to make under the guarantee or each group of similar guarantees before reduction for potential recoveries under recourse or collateralization provisions.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-4
+
++ Details
+
+ Name:
+us-gaap_GuaranteeObligationsMaximumExposure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 720
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483359/720-20-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 27
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482395/460-10-55-27
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-3
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
++ Details
+
+ Name:
+us-gaap_LossContingenciesLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_AtlasMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

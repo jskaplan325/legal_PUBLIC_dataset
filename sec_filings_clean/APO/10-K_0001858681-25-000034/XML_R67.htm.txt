@@ -1,0 +1,1030 @@
+XML
+97
+R67.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of AFS Securities (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+$ 199,895
+
+$ 162,016
+
+Allowance for Credit Losses
+(709)
+
+(591)
+
+$ (459)
+
+Gross Unrealized Gains
+1,257
+
+1,709
+
+Gross Unrealized Losses
+(16,276)
+
+(14,787)
+
+Fair Value
+184,167
+
+148,347
+
+Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+180,716
+
+147,561
+
+Allowance for Credit Losses
+(708)
+
+(590)
+
+(458)
+
+Gross Unrealized Gains
+1,200
+
+1,653
+
+Gross Unrealized Losses
+(15,844)
+
+(14,286)
+
+Fair Value
+165,364
+
+134,338
+
+Related Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+19,179
+
+14,455
+
+Allowance for Credit Losses
+(1)
+
+(1)
+
+(1)
+
+Gross Unrealized Gains
+57
+
+56
+
+Gross Unrealized Losses
+(432)
+
+(501)
+
+Fair Value
+18,803
+
+14,009
+
+U.S. government and agencies | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+8,413
+
+6,161
+
+Allowance for Credit Losses
+0
+
+0
+
+Gross Unrealized Gains
+8
+
+67
+
+Gross Unrealized Losses
+(1,270)
+
+(829)
+
+Fair Value
+7,151
+
+5,399
+
+U.S. state, municipal and political subdivisions | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+1,167
+
+1,296
+
+Allowance for Credit Losses
+0
+
+0
+
+Gross Unrealized Gains
+0
+
+0
+
+Gross Unrealized Losses
+(246)
+
+(250)
+
+Fair Value
+921
+
+1,046
+
+Foreign governments | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+2,082
+
+2,083
+
+Allowance for Credit Losses
+0
+
+0
+
+(27)
+
+Gross Unrealized Gains
+0
+
+71
+
+Gross Unrealized Losses
+(514)
+
+(255)
+
+Fair Value
+1,568
+
+1,899
+
+Corporate | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+95,006
+
+88,343
+
+Allowance for Credit Losses
+(175)
+
+(129)
+
+(61)
+
+Gross Unrealized Gains
+485
+
+830
+
+Gross Unrealized Losses
+(11,731)
+
+(10,798)
+
+Fair Value
+83,585
+
+78,246
+
+Corporate | Related Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+2,150
+
+1,423
+
+Allowance for Credit Losses
+0
+
+0
+
+Gross Unrealized Gains
+18
+
+1
+
+Gross Unrealized Losses
+(31)
+
+(72)
+
+Fair Value
+2,137
+
+1,352
+
+CLO | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+29,524
+
+20,506
+
+Allowance for Credit Losses
+0
+
+(2)
+
+(7)
+
+Gross Unrealized Gains
+266
+
+261
+
+Gross Unrealized Losses
+(608)
+
+(558)
+
+Fair Value
+29,182
+
+20,207
+
+CLO | Related Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+6,130
+
+4,367
+
+Allowance for Credit Losses
+0
+
+0
+
+(1)
+
+Gross Unrealized Gains
+18
+
+21
+
+Gross Unrealized Losses
+(113)
+
+(120)
+
+Fair Value
+6,035
+
+4,268
+
+ABS | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+24,779
+
+13,942
+
+Allowance for Credit Losses
+(76)
+
+(49)
+
+(29)
+
+Gross Unrealized Gains
+138
+
+120
+
+Gross Unrealized Losses
+(640)
+
+(630)
+
+Fair Value
+24,201
+
+13,383
+
+ABS | Related Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+10,899
+
+8,665
+
+Allowance for Credit Losses
+(1)
+
+(1)
+
+0
+
+Gross Unrealized Gains
+21
+
+34
+
+Gross Unrealized Losses
+(288)
+
+(309)
+
+Fair Value
+10,631
+
+8,389
+
+CMBS | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+11,158
+
+7,070
+
+Allowance for Credit Losses
+(60)
+
+(29)
+
+(5)
+
+Gross Unrealized Gains
+75
+
+52
+
+Gross Unrealized Losses
+(432)
+
+(502)
+
+Fair Value
+10,741
+
+6,591
+
+RMBS | Nonrelated Party
+
+Debt Securities, Available-for-sale [Line Items]
+
+Amortized Cost
+8,587
+
+8,160
+
+Allowance for Credit Losses
+(397)
+
+(381)
+
+$ (329)
+
+Gross Unrealized Gains
+228
+
+252
+
+Gross Unrealized Losses
+(403)
+
+(464)
+
+Fair Value
+$ 8,015
+
+$ 7,567
+
+X
+
+- DefinitionAmount, before tax, of unrealized gain in accumulated other comprehensive income (AOCI) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedGainBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before tax, of unrealized loss in accumulated other comprehensive income (AOCI) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479130/326-30-45-1
+
++ Details
+
+ Name:
+us-gaap_AvailableForSaleDebtSecuritiesAmortizedCostBasis
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 103
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-103
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481830/320-10-45-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479130/326-30-45-1
+
++ Details
+
+ Name:
+us-gaap_AvailableForSaleSecuritiesDebtSecurities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aaa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479130/326-30-45-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aaa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfAvailableForSaleSecuritiesLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_NonrelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_USTreasuryAndGovernmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_USStatesAndPoliticalSubdivisionsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ForeignGovernmentDebtMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_AssetBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CommercialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ResidentialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

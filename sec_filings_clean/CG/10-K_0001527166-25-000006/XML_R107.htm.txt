@@ -1,0 +1,269 @@
+XML
+130
+R107.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Non-controlling Interests in Consolidated Entities - Partnership's Non-Controlling Interests in Consolidated Entities (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Noncontrolling Interest [Line Items]
+
+Non-controlling interests in consolidated entities
+$ 740.7
+
+$ 593.1
+
+Non-Carlyle interests in Consolidated Funds
+
+Noncontrolling Interest [Line Items]
+
+Non-controlling interests in consolidated entities
+407.1
+
+415.3
+
+Non-Carlyle interests in majority-owned subsidiaries
+
+Noncontrolling Interest [Line Items]
+
+Non-controlling interests in consolidated entities
+334.2
+
+184.5
+
+Non-controlling interest in carried interest, giveback obligations and cash held for carried interest distributions
+
+Noncontrolling Interest [Line Items]
+
+Non-controlling interests in consolidated entities
+$ (0.6)
+
+$ (6.7)
+
+X
+
+- DefinitionAmount of equity (deficit) attributable to noncontrolling interest. Excludes temporary equity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(31))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(g)(1)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 28
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(24))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(19))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(iv))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(iv))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 13: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(22))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_MinorityInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MinorityInterestLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_NonCarlyleInterestsInConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_NonCarlyleMajorityOwnedSubsidiariesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_CarriedInterestAndCashHeldForCarriedInterestDistributionsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,305 @@
+XML
+45
+R23.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS
+NET INVESTMENT INCOME - INSURANCENet investment income for Global Atlantic is comprised primarily of (i) interest income, including amortization of premiums and accretion of discounts, (ii) dividend income from common and preferred stock, (iii) earnings from investments accounted for under equity method accounting, and (iv) lease income on real assets.
+The components of net investment income were as follows:
+
+ Years Ended December 31,
+ 2024 2023 2022
+Fixed Maturity Securities $ 5,597,124 $ 4,450,917 $ 3,257,226
+Mortgage and Other Loan Receivables 2,681,876 1,958,875 1,572,308
+
+Real Assets 815,612 625,707 608,074
+Short-Term and Other Investment Income 513,276 309,861 116,884
+Income Assumed from Funds Withheld Receivable at Interest 81,335 94,658 91,608
+Policy Loans 84,320 37,460 31,433
+
+Income Ceded to Funds Withheld Payable at Interest (2,391,926) (1,363,704) (954,763)
+Total Investment Income 7,381,617 6,113,774 4,722,770
+Less Investment Expenses:
+Investment Management and Administration 498,733 352,042 364,609
+Real Asset Depreciation and Maintenance 204,934 198,385 215,672
+Interest Expense on Derivative Collateral and Repurchase Agreements 103,342 48,445 24,243
+Net Investment Income $ 6,574,608 $ 5,514,902 $ 4,118,246
+
+NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCENet investment-related gains (losses) from insurance operations primarily consist of (i) realized gains (losses) from the disposal of investments, (ii) unrealized gains (losses) from investments held for trading, equity securities, real estate investments accounted for under investment company accounting, and investments with fair value remeasurements recognized in earnings as a result of the election of a fair-value option, (iii) unrealized gains (losses) on funds withheld receivable and payable at interest, (iv) unrealized gains (losses) from derivatives (excluding certain derivatives designated as hedge accounting instruments), and (v) allowances for credit losses, and other impairments of investments.
+Net investment-related gains (losses) were as follows:
+
+ Years Ended December 31,
+ 2024 2023 2022
+Realized Gains (Losses) on Available-for-Sale Fixed Maturity Securities $ (567,985) $ (64,140) $ (559,987)
+Credit Loss Allowances on Available-for-Sale Securities (115,367) (168,899) (57,411)
+Credit Loss Allowances on Mortgage and Other Loan Receivables (305,770) (210,704) (369,296)
+Credit Loss Allowances on Unfunded Commitments 30,639 6,321 (34,112)
+Impairment of Available-for-Sale Fixed Maturity Securities Due to Intent to Sell (26,741)
+Unrealized Gains (Losses) on Fixed Maturity Securities Classified as Trading (735,209) 1,031,227 (2,603,874)
+Unrealized Gains (Losses) on Other Investments Recognized under the Fair-Value Option and Equity Investments 9,560 (23,540) (60,388)
+
+Unrealized Gains (Losses) on Real Assets (167,873) (202,671) 77,755
+Realized Gains (Losses) on Real Assets 11,418 71,158 (150,288)
+Net Gains (Losses) on Derivative Instruments 419,927 (680,717) 2,346,747
+Realized Gains (Losses) on Funds Withheld at Interest Payable Portfolio 126,422 25,427 38,074
+Realized Gains (Losses) on Funds Withheld at Interest Receivable Portfolio (62,493) (9,193) (3,176)
+
+Other Realized Gains (Losses) (66,355) 17,210 57,466
+Net Investment-Related Gains (Losses) $ (1,423,086) $ (235,262) $ (1,318,490)
+
+Allowance for Credit Losses
+Available-for-sale Fixed Maturity Securities
+The table below presents a roll-forward of the allowance for credit losses recognized for fixed maturity securities held by Global Atlantic:
+
+ Year Ended December 31, 2024 Year Ended December 31, 2023
+ Corporate Structured Total Corporate Structured Total
+Balance, as of Beginning of Period $ 49,008 $ 219,704 $ 268,712 $ 1,298 $ 127,034 $ 128,332
+Initial Credit Loss Allowance Recognized on Securities with No Previously Recognized Allowance 106,038 2,805 108,843 68,166 75,623 143,789
+
+Accretion of Initial Credit Loss Allowance on PCD Securities 611 611 1,191 1,191
+Reductions due to Sales (or Maturities, Pay Downs or Prepayments) During the Period of Securities with a Previously Recognized Credit Loss Allowance (1,089) (19,377) (20,466) (2,843) (13,220) (16,063)
+
+Net Additions / Reductions for Securities with a Previously Recognized Credit Loss Allowance 22,184 (15,660) 6,524 (3,966) 29,076 25,110
+Balances Charged Off (76,525) (12,377) (88,902) (13,647) (13,647)
+
+Balance, as of End of Period $ 99,616 $ 175,706 $ 275,322 $ 49,008 $ 219,704 $ 268,712
+
+ Year Ended December 31, 2022
+ Corporate Structured Total
+Balance, as of Beginning of Period $ 3,238 $ 84,895 $ 88,133
+Initial Credit Loss Allowance Recognized on Securities with No Previously Recognized Allowance 791 68,943 69,734
+Initial Credit Loss Allowance Recognized on Purchased Credit Deteriorated ("PCD") Securities 707 707
+Accretion of Initial Credit Loss Allowance on PCD Securities 1,847 1,847
+Reductions due to Sales (or Maturities, Pay Downs or Prepayments) During the Period of Securities with a Previously Recognized Credit Loss Allowance (11,925) (11,925)
+
+Net Additions / Reductions for Securities with a Previously Recognized Credit Loss Allowance 5,110 (17,433) (12,323)
+Balances Charged Off (7,841) (7,841)
+
+Balance, as of End of Period $ 1,298 $ 127,034 $ 128,332
+
+Mortgage and Other Loan Receivables
+Changes in the allowance for credit losses on mortgage and other loan receivables held by Global Atlantic are summarized below:
+
+ Year Ended December 31, 2024 Year Ended December 31, 2023
+ Commercial Mortgage Loans Residential Mortgage Loans Consumer and Other Loan Receivables Total Commercial Mortgage Loans Residential Mortgage Loans Consumer and Other Loan Receivables Total
+Balance, as of Beginning of Period $ 319,631 $ 107,204 $ 175,608 $ 602,443 $ 227,315 $ 125,825 $ 207,088 $ 560,228
+Net Provision (Release) 164,254 5,157 136,359 305,770 113,932 (10,445) 107,217 210,704
+
+Charge-offs (163,478) (5,116) (153,984) (322,578) (21,616) (8,176) (160,465) (190,257)
+Recoveries of Amounts Previously Charged-off 5,650 23,123 28,773 21,768 21,768
+Balance, as of End of Period $ 326,057 $ 107,245 $ 181,106 $ 614,408 $ 319,631 $ 107,204 $ 175,608 $ 602,443
+
+ Year Ended December 31, 2022
+ Commercial Mortgage Loans Residential Mortgage Loans Consumer and Other Loan Receivables Total
+Balance, as of Beginning of Period $ 65,970 $ 72,082 $ 236,025 $ 374,077
+Net Provision (Release) 161,345 74,798 133,153 369,296
+
+Charge-offs(1)
+ (21,055) (162,090) (183,145)
+
+Balance, as of End of Period $ 227,315 $ 125,825 $ 207,088 $ 560,228
+
+(1)Consumer and other loan receivables included $12.8 million of recoveries for the year ended December 31, 2022.
+
+Proceeds and Gross Gains and Losses from Voluntary Sales
+The proceeds from voluntary sales and the gross gains and losses on those sales of available-for-sale ("AFS") fixed maturity securities were as follows:
+
+ Years Ended December 31,
+ 2024 2023 2022
+AFS Fixed Maturity Securities:
+Proceeds from Voluntary Sales $ 19,370,239 $ 6,687,271 $ 12,050,106
+Gross Gains $ 112,264 $ 62,452 $ 21,567
+Gross Losses $ (643,899) $ (120,799) $ (569,706)
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADSThe following reflects the reconciliation of the components of insurance intangibles to the total balance reported in the consolidated statements of financial condition as of December 31, 2024 and 2023:
+
+ December 31, December 31,
+ 2024 2023
+Deferred Acquisition Costs, or "DAC" $ 1,731,076 $ 1,154,697
+Value of Business Acquired 1,165,193 1,252,984
+Cost-of-Reinsurance Intangibles 2,302,674 2,043,143
+Total Insurance Intangibles $ 5,198,943 $ 4,450,824
+
+Deferred Acquisition Costs
+The following tables reflect the deferred acquisition costs roll-forward by product category for the years ended December 31, 2024, 2023, and 2022:
+
+ Year Ended December 31, 2024
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Other Total
+Balance, as of the Beginning of the Period $ 373,863 $ 481,970 $ 132,079 $ 166,785 $ 1,154,697
+Capitalizations 197,662 404,165 7,640 202,251 811,718
+Amortization Expense (108,132) (98,550) (8,576) (20,081) (235,339)
+Balance, as of the End of the Period $ 463,393 $ 787,585 $ 131,143 $ 348,955 $ 1,731,076
+
+ Year Ended December 31, 2023
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Other Total
+Balance, as of the Beginning of the Period $ 221,679 $ 367,813 $ 116,021 $ 115,457 $ 820,970
+Capitalizations 218,243 175,869 23,592 66,458 484,162
+Amortization Expense (66,059) (61,712) (7,534) (15,130) (150,435)
+Balance, as of the End of the Period $ 373,863 $ 481,970 $ 132,079 $ 166,785 $ 1,154,697
+
+ Year ended December 31, 2022
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Other Total
+Balance, as of the Beginning of the Period $ 107,104 $ 179,449 $ 54,298 $ 56,730 $ 397,581
+Capitalizations 144,635 220,866 67,892 69,515 502,908
+Amortization Expense (30,060) (32,502) (6,169) (10,788) (79,519)
+Balance, as of the End of the Period $ 221,679 $ 367,813 $ 116,021 $ 115,457 $ 820,970
+
+Value of Business Acquired
+The following tables reflect the value of business acquired, or VOBA asset roll-forward by product category for the years ended December 31, 2024, 2023, and 2022:
+
+ Year Ended December 31, 2024
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 44,922 $ 621,372 $ 262,942 $ 245,042 $ 78,706 $ 1,252,984
+
+Amortization Expense (3,687) (43,210) (13,530) (20,695) (6,669) (87,791)
+
+Balance, as of the End of the Period $ 41,235 $ 578,162 $ 249,412 $ 224,347 $ 72,037 $ 1,165,193
+
+ Year Ended December 31, 2023
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 48,762 $ 663,296 $ 276,795 $ 241,778 $ 85,898 $ 1,316,529
+
+Amortization Expense (3,840) (41,924) (13,853) 3,264 (7,192) (63,545)
+Balance, as of the End of the Period $ 44,922 $ 621,372 $ 262,942 $ 245,042 $ 78,706 $ 1,252,984
+
+ Year ended December 31, 2022
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 52,723 $ 709,271 $ 292,323 $ 269,172 $ 94,479 $ 1,417,968
+
+Amortization Expense (3,961) (45,975) (15,528) (27,394) (8,581) (101,439)
+Balance, as of the End of the Period $ 48,762 $ 663,296 $ 276,795 $ 241,778 $ 85,898 $ 1,316,529
+
+The following tables reflect the negative value of business acquired, or negative VOBA liability roll-forward by product category for the years ended December 31, 2024, 2023, and 2022:
+
+ Year Ended December 31, 2024
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 65,966 $ 106,538 $ 421,213 $ 91,295 $ 182,920 $ 867,932
+
+Amortization Expense (21,534) (31,283) (29,397) (6,113) (13,297) (101,624)
+Balance, as of the End of the Period $ 44,432 $ 75,255 $ 391,816 $ 85,182 $ 169,623 $ 766,308
+
+ Year Ended December 31, 2023
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 98,342 $ 145,610 $ 461,592 $ 99,776 $ 198,804 $ 1,004,124
+
+Amortization Expense (32,376) (39,072) (40,379) (8,481) (15,884) (136,192)
+Balance, as of the End of the Period $ 65,966 $ 106,538 $ 421,213 $ 91,295 $ 182,920 $ 867,932
+
+ Year ended December 31, 2022
+ Fixed Rate Annuities Fixed Indexed Annuities Interest Sensitive Life Variable Annuities Other Total
+Balance, as of the Beginning of the Period $ 136,227 $ 184,664 $ 500,264 $ 109,826 $ 211,296 $ 1,142,277
+
+Amortization Expense (37,885) (39,054) (38,672) (10,050) (12,492) (138,153)
+Balance, as of the End of the Period $ 98,342 $ 145,610 $ 461,592 $ 99,776 $ 198,804 $ 1,004,124
+
+Estimated future amortization of VOBA and Negative VOBA as of December 31, 2024, is as follows:
+
+Years VOBA Negative VOBA Total, net
+2025 $ 84,071 $ (86,456) $ (2,385)
+2026 78,852 (70,146) 8,706
+2027 73,940 (59,329) 14,611
+2028 69,456 (51,274) 18,182
+2029 65,376 (45,433) 19,943
+Thereafter 793,498 (453,670) 339,828
+Total $ 1,165,193 $ (766,308) $ 398,885
+
+Unearned Revenue Reserves and Unearned Front-end Loads
+
+ Years Ended December 31,
+ 2024 2023 2022
+ Preneed
+Balance, as of the Beginning of the Period $ 178,053 $ 118,186 $ 55,510
+Deferral 69,303 71,798 69,548
+Amortized to Income during the Period (16,566) (11,931) (6,872)
+
+Balance, as of the End of the Period $ 230,790 $ 178,053 $ 118,186
+
+Significant Inputs, Judgments, and Assumptions for DAC and Related Amortization Amounts
+Global Atlantic considers surrender rates, mortality rates, and other relevant policy decrements in determining the expected life of the contract. As a part of Global Atlantic's actual experience update for the year ended December 31, 2024, Global Atlantic concluded that there was no material change in relevant inputs, judgments, or assumptions requiring an update of the amortization rate for DAC and related amortization amounts. For the year ended December 31, 2023, Global Atlantic updated mortality and surrender assumptions. These updates reduced the amortization rate for DAC and related amortization amounts by $4.4 million per year.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for the types of coverages and products sold, and the assets, obligations, recorded liabilities, revenues and expenses arising therefrom, and the amounts of and methodologies and assumptions used in determining the amounts of such items.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/944/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)(4)(ii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477363/944-310-50-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)(4)(iv)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477363/944-310-50-3
+
++ Details
+
+ Name:
+us-gaap_InsuranceDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

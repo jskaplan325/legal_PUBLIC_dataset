@@ -1,0 +1,292 @@
+XML
+58
+R29.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity-Based Compensation
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Equity-Based Compensation
+
+16.
+
+ Equity-Based Compensation
+
+ Blackstone has granted equity-based compensation awards to Blackstone s senior managing directors, non-partner professionals, non-professionals and selected external advisers under Blackstone s Amended and Restated 2007 Equity Incentive Plan (the Equity Plan ). The Equity Plan allows for the granting of options, share appreciation rights or other share-based awards (shares, restricted shares, restricted shares of common stock, deferred restricted shares of common stock, phantom restricted shares of common stock or other share-based awards based in whole or in part on the fair value of shares of common stock or Blackstone Holdings Partnership Units) which may contain certain service or performance requirements. As of January 1, 2024, Blackstone had the ability to grant 173,443,452 shares under the Equity Plan.
+
+ For the years ended December 31, 2024, 2023 and 2022, Blackstone recorded compensation expense
+ of $1.2 billion, $987.5 million, and $846.3 million, respectively, in relation to its equity-based awards with corresponding tax benefits of $298.2 million, $183.4 million, and $135.9 million, respectively.
+
+ As of December 31, 2024, there was $2.5 billion of estimated unrecognized compensation expense related to unvested awards, including compensation with performance conditions where it is probable that the performance condition will be met. This cost is expected to be recognized over a weighted-average period of 3.4 years.
+
+ Total vested and unvested outstanding shares, including common stock, Blackstone Holdings Partnership Units and deferred restricted shares of common stock, were 1,221,159,186 as of December 31, 2024. Total outstanding phantom shares were 83,228 as of December 31, 2024.
+
+ A summary of the status of Blackstone s unvested equity-based awards as of December 31, 2024 and of changes during the period January 1, 2024 through December 31, 2024 is presented below:
+
+Blackstone Holdings
+
+Blackstone Inc.
+
+Equity Settled Awards
+
+Cash Settled Awards
+
+ Unvested Shares/Units
+
+Partnership
+Units
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+Deferred
+Restricted
+Shares of
+Common
+
+Stock
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+Phantom
+Shares
+
+Weighted-
+Average
+Grant
+Date Fair
+Value
+
+ Balance, December 31, 2023
+
+4,585,893
+
+$
+
+38.94
+
+36,456,644
+
+$
+
+86.05
+
+85,447
+
+$
+
+114.50
+
+ Granted
+
+11,894,835
+
+131.67
+
+38,819
+
+121.94
+
+ Vested
+
+(3,700,053
+
+)
+
+40.06
+
+(12,165,823
+
+)
+
+79.92
+
+(32,886
+
+)
+
+144.80
+
+ Forfeited
+
+(35,431
+
+)
+
+46.58
+
+(2,257,086
+
+)
+
+101.29
+
+(20,863
+
+)
+
+130.85
+
+ Balance, December 31, 2024
+
+850,409
+
+$
+
+33.38
+
+33,928,570
+
+$
+
+103.44
+
+ 70,517
+
+$
+
+187.66
+
+ Shares/Units Expected to Vest
+
+ The following unvested shares and units, after expected forfeitures, as of December 31, 2024, are expected to vest:
+
+Shares/Units
+
+Weighted-Average
+
+Service Period in
+Years
+
+ Blackstone Holdings Partnership Units
+
+828,312
+
+0.6
+
+ Deferred Restricted Shares of Common Stock
+
+30,826,072
+
+2.8
+
+ Total Equity-Based Awards
+
+31,654,384
+
+2.7
+
+ Phantom Shares
+
+59,807
+
+2.9
+
+ Deferred Restricted Shares of Common Stock and Phantom Shares
+
+ Blackstone has granted deferred restricted shares of common stock to certain senior and non-senior managing director professionals, analysts and senior finance and administrative personnel and selected external advisers and phantom shares (cash settled equity-based awards) to other senior and non-senior managing director employees. Holders of deferred restricted shares of common stock and phantom shares are not entitled to any voting rights. Only phantom shares are to be settled in cash. Deferred restricted shares of common stock where the number of shares have not been set are liability classified and excluded from the above tables.
+
+ The fair values of deferred restricted shares of common stock have been derived based on the closing price of common stock on the date of the grant, multiplied by the number of unvested awards and expensed over the assumed service period, which ranges from 1 to 5 years. Additionally, the calculation of the compensation expense assumes forfeiture rates based on historical turnover rates, ranging from 1.0% to 13.8% annually by employee class, and a per share discount on non-participating shares, ranging from $1.07 to $21.53.
+
+ The phantom shares vest over the assumed service period, which ranges from 1 to 5 years. On each such vesting date, Blackstone delivered or will deliver cash to the holder in an amount equal to the number of phantom shares held multiplied by the then fair market value of Blackstone s common stock on such date. Additionally, the calculation of the compensation expense assumes a forfeiture rate based on historical turnover rates, ranging from 6.8% to 13.8% annually by employee class. Blackstone is accounting for these cash settled awards as a liability.
+
+Blackstone paid $3.9 million, $1.7 million, and $0.6 million to employees in settlement of phantom shares for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+Performance-Based Compensation
+
+During the year ended December 31, 2021, Blackstone issued performance-based compensation, the dollar value of which is based on the future achievement of established business performance conditions. The number of vested shares of common stock to be issued is variable based on the 30-day volume weighted-average price at the end of the performance period. Due to the nature of settlement, the performance-based compensation is classified as a liability. Compensation expense is recognized over the performance period based upon the probable outcome of the performance condition. Due to the variable share settlement, the tables above exclude the impact of this performance-based compensation, as the number of shares to be issued is based on the probability of achieving the performance condition and not yet set.
+
+Blackstone Holdings Partnership Units
+
+Blackstone has granted deferred restricted Blackstone Holdings Partnership Units to certain current and former senior managing directors. Holders of deferred restricted Blackstone Holdings Partnership Units are not entitled to any voting rights.
+
+The fair values of deferred restricted Blackstone Holdings Partnership Units have been derived based on the closing price of Blackstone s common units on the date of the grant, multiplied by the number of unvested awards and expensed over the assumed service period up to 1 year. Additionally, the calculation of the compensation expense assumes a forfeiture rate of 6.8%, based on historical experience.
+
+X
+
+- DefinitionThe entire disclosure for share-based payment arrangement.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/718/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (l)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

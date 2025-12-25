@@ -1,0 +1,343 @@
+XML
+210
+R188.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS - Valuation For Deferred Tax Assets (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Jan. 02, 2024
+
+Asset Management and Strategic Holdings
+
+SEC Schedule, 12-09, Movement in Valuation Allowances and Reserves [Roll Forward]
+
+Deferred tax assets, valuation allowance
+$ 0
+
+$ 0
+
+Insurance
+
+SEC Schedule, 12-09, Movement in Valuation Allowances and Reserves [Roll Forward]
+
+Deferred tax assets
+819,881
+
+587,339
+
+$ 22,100
+
+Deferred tax assets, valuation allowance
+36,933
+
+89,250
+
+Valuation Allowance for Deferred Tax Assets | Asset Management and Strategic Holdings
+
+SEC Schedule, 12-09, Movement in Valuation Allowances and Reserves [Roll Forward]
+
+Balance at Beginning of Period
+0
+
+0
+
+$ (23,082)
+
+Tax Valuation Allowance (Charged) /Credited to Income Tax Provision
+0
+
+0
+
+0
+
+Tax Valuation Allowance (Charged) / Credited to Balance Sheet
+0
+
+0
+
+23,082
+
+Balance at End of Period
+0
+
+0
+
+0
+
+Valuation Allowance for Deferred Tax Assets | Insurance
+
+SEC Schedule, 12-09, Movement in Valuation Allowances and Reserves [Roll Forward]
+
+Balance at Beginning of Period
+(89,250)
+
+(89,250)
+
+0
+
+Tax Valuation Allowance (Charged) /Credited to Income Tax Provision
+67,147
+
+0
+
+0
+
+Tax Valuation Allowance (Charged) / Credited to Balance Sheet
+(14,830)
+
+0
+
+(89,250)
+
+Balance at End of Period
+$ (36,933)
+
+$ (89,250)
+
+$ (89,250)
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences from investments (excludes investments in subsidiaries and equity method investments).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax assets for which it is more likely than not that a tax benefit will not be realized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsValuationAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MovementInValuationAllowancesAndReservesRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of valuation and qualifying accounts and reserves.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column B))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
++ Details
+
+ Name:
+us-gaap_ValuationAllowancesAndReservesBalance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of increase in valuation and qualifying accounts and reserves from charge to cost and expense.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column C)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
++ Details
+
+ Name:
+us-gaap_ValuationAllowancesAndReservesChargedToCostAndExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of decrease in valuation and qualifying accounts and reserves.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column D))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
++ Details
+
+ Name:
+us-gaap_ValuationAllowancesAndReservesDeductions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationAllowancesAndReservesTypeAxis=us-gaap_ValuationAllowanceOfDeferredTaxAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,202 @@
+XML
+106
+R76.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Repurchase Agreements (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Payables for repurchase agreements
+$ 5,716
+
+$ 3,853
+
+Less than 30 days
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Payables for repurchase agreements
+2,752
+
+686
+
+30 90 days
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Payables for repurchase agreements
+300
+
+0
+
+91 days to 1 year
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Payables for repurchase agreements
+1,095
+
+0
+
+Greater than 1 year
+
+Assets Sold under Agreements to Repurchase [Line Items]
+
+Payables for repurchase agreements
+$ 1,569
+
+$ 3,167
+
+X
+
+- DefinitionCarrying amount of assets sold under agreements to repurchase when the carrying amount (or market value, if higher than the carrying amount) of securities or other assets sold under repurchase agreements exceeds 10 percent of total assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(m)(1)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(m)(1)(ii)(A)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseCarryingAmounts
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 860
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481420/860-30-50-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(m)(1)(ii)(A))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseMaturityPeriodsAxis=us-gaap_MaturityUpTo30DaysMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseMaturityPeriodsAxis=us-gaap_Maturity30To90DaysMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseMaturityPeriodsAxis=apo_Maturity91To364DaysMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AssetsSoldUnderAgreementsToRepurchaseMaturityPeriodsAxis=apo_MaturityOneYearOrGreaterMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

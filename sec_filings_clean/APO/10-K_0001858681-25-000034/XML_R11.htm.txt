@@ -1,0 +1,171 @@
+XML
+41
+R11.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Merger with Athene
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Business Combination, Asset Acquisition, and Joint Venture Formation [Abstract]
+
+Merger with Athene
+3. Merger with Athene
+
+On January 1, 2022, Apollo and Athene completed the previously announced merger transactions pursuant to the Merger Agreement. As a result of the Mergers, AAM and AHL became subsidiaries of AGM.
+
+Under the Merger Agreement, each issued and outstanding Athene common share was converted automatically into 1.149 shares of common stock of AGM and any cash paid in lieu of fractional shares. The purchase price was as follows:
+
+(In millions, except share price data and exchange ratio)
+AHL common shares purchased 138
+Exchange ratio 1.149
+Shares of common stock issued in exchange 158
+AGM Class A shares closing price $ 72.43
+Total merger consideration at closing $ 11,455
+Fair value of estimated RSUs, options and warrants assumed and other equity consideration1,2
+ 699
+Effective settlement of pre-existing relationships3
+ 896
+Total merger consideration 13,050
+Fair value of AHL common shares previously held (55 million shares) and other adjustments4,5
+ 4,554
+Total AHL equity value held by AGM 17,604
+Non-controlling interest6
+ 4,942
+Total AHL equity value $ 22,546
+
+1 AGM issued one-time grants of fully vested RSUs and options to certain executives and stockholders of Athene vesting upon consummation of the Mergers. Additionally, all issued and outstanding warrants of Athene prior to the Merger Date were exchanged for shares of AGM common stock at the time of the Mergers. The fair value of these awards is $600 million and is treated as part of consideration transferred.
+
+2 AGM issued replacement awards for all outstanding Athene equity awards. $99 million was included as part of consideration for the portion that was attributable to pre-combination services and $53 million will be treated as post-combination compensation expense.
+
+3 The pre-existing relationship related to receivables, payables, and dividends between Apollo and Athene. Total fees payable to AGM by Athene for asset management and advisory services were approximately $146 million. A cash dividend of $750 million was declared by Athene to its common stockholders with Apollo owning 100% of the common shares as of the dividend record date.
+
+4 Based on the December 31, 2021 closing price of AHL common shares on the NYSE.
+
+5 Other adjustments includes pushdown of goodwill arising out of deferred tax liabilities associated with identifiable net assets of Athene.
+
+6 Non-controlling interest in Athene includes holders of Athene s preferred shares and third-party investors in ACRA 1 and in consolidated VIEs of Athene. The fair value of Athene s preferred shares was based on the closing stock price of Athene s preferred shares immediately prior to the consummation of the Athene merger and the fair value of the non-controlling interest in ACRA 1 was determined using the discounted distribution model approach.
+
+The Mergers were accounted for as a business combination. The consideration was allocated to Athene's assets acquired and liabilities assumed based on estimates of their fair values as of the Merger Date. The business combination was achieved in steps. The Company previously held its equity interests in the acquiree at fair value.
+
+Goodwill of $4.1 billion was recorded based on the amount that the Athene equity value exceeded the fair value of the net assets acquired less the amounts attributable to non-controlling interests. Goodwill is primarily attributable to the scale, skill sets, operations, and synergies that can be achieved subsequent to the Mergers. The goodwill recorded is not expected to be deductible for tax purposes. Goodwill on the consolidated statements of financial position includes the impacts of foreign currency translation.
+The financial statements were not retrospectively adjusted for the changes to the provisional values of assets acquired and liabilities assumed that occurred in subsequent periods. Adjustments were recognized as information related to the preliminary fair value calculation was obtained. The effect on earnings of changes in depreciation, amortization, or other income effects, as a result of changes to the provisional amounts, were recorded in the same period as the financial statements, calculated as if the accounting had been completed at the Merger Date.
+
+The following table summarizes the fair value amounts recognized for the assets acquired and liabilities assumed and resulting goodwill as of the Merger Date:
+
+(In millions) Fair Value and Goodwill Calculation
+Merger consideration $ 13,050
+Fair value of previously held equity interest 4,554
+Total Athene Value to be Held by the Company 17,604
+
+Total Value to Allocate
+Investments 176,015
+Cash and cash equivalents 9,479
+Restricted cash and cash equivalents 796
+Investment in related parties 33,863
+
+Reinsurance recoverable 4,977
+VOBA 3,372
+Assets of consolidated variable interest entities 3,635
+Other assets 6,115
+Estimated fair value of total assets acquired (excluding goodwill) 238,252
+Interest sensitive contract liabilities 160,241
+Future policy benefits 41,482
+Market risk benefits 4,813
+Debt 3,295
+
+Payables for collateral on derivatives and securities to repurchase 7,044
+Liabilities of consolidated variable interest entities 461
+Other liabilities 2,443
+Estimated fair value of total liabilities assumed 219,779
+Non-controlling interest 4,942
+Estimated fair value of net assets acquired, excluding goodwill 13,531
+Goodwill attributable to Athene $ 4,073
+
+The Company finalized purchase accounting during the fourth quarter of 2022. During the year ended December 31, 2022, the Company recorded adjustments which decreased provisional goodwill by $108 million. The adjustments were comprised of $25 million for measurement period adjustments and $83 million to adjust the valuation of an investment. The measurement period adjustments were primarily related to decreases in interest sensitive contract liabilities and future policy benefits and the effects to the consolidated statements of operations were immaterial to those periods.
+
+The Company performed a valuation of the acquired investments, policy liabilities, VOBA, other identifiable intangibles, and funds withheld at interest payables and receivables using methodologies consistent with those described in note 2 and note 7.
+
+Value of business acquired and Other identifiable intangible assets
+
+VOBA represents the difference between the fair value of liabilities acquired and reserves established using best estimate assumptions at the Merger Date. Other identifiable intangible assets are included in other assets on the consolidated statements of financial condition and summarized as follows:
+
+Distribution Channels Trade Name Insurance Licenses
+These assets are valued using the excess earnings method, which derives value based on the present value of the cash flow attributable to the distribution channels, less returns for contributory assets. Amortization of these assets is on a straight-line basis. This represents the Athene trade name and was valued using the relief-from-royalty method considering publicly available third-party trade name royalty rates as well as expected premiums generated by the use of the trade name over its anticipated life. Amortization of this asset is on a straight-line basis. Licenses are protected through registration and were valued using the market approach based on third-party market transactions from which the prices paid for state insurance licenses could be derived. These assets are not amortized.
+
+The fair value and weighted average estimated useful lives of VOBA and other identifiable intangible assets acquired in the Mergers consist of the following:
+
+ Fair value
+(in millions)
+ Average useful life
+(in years)
+
+VOBA Asset $ 3,372 7
+Distribution Channels 1,870 18
+Trade Name 160 20
+State Insurance Licenses 26 Indefinite
+Total $ 5,428
+
+As of the Merger Date, Athene s financial results are reflected in these consolidated financial statements. Athene s revenues of $8,199 million and net income (loss) of $(2,166) million are included in the consolidated statement of operations for the year ended December 31, 2022.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationAndAssetAcquisitionAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for a business combination (or series of individually immaterial business combinations) completed during the period, including background, timing, and recognized assets and liabilities. The disclosure may include leverage buyout transactions (as applicable).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-5
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/805/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

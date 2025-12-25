@@ -1,0 +1,2103 @@
+XML
+174
+R144.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Related Parties - Narrative (Details) - USD ($)
+
+1 Months Ended
+3 Months Ended
+12 Months Ended
+
+Jul. 13, 2021
+
+Feb. 12, 2021
+
+Jun. 30, 2023
+
+May 31, 2023
+
+May 31, 2022
+
+Oct. 31, 2020
+
+Sep. 30, 2024
+
+Dec. 31, 2023
+
+Sep. 30, 2023
+
+Jun. 30, 2023
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Oct. 01, 2024
+
+Jul. 01, 2023
+
+Jan. 01, 2022
+
+Dec. 31, 2021
+
+Related Party Transaction [Line Items]
+
+Deconsolidation, gain (loss), amount
+
+$ 162,000,000
+
+AHL common shares purchased (in shares)
+
+567,762,932
+
+565,738,933
+
+567,762,932
+
+Reinsurance recoverable
+
+$ 4,154,000,000
+
+$ 8,194,000,000
+
+$ 4,154,000,000
+
+AFS securities
+
+148,347,000,000
+
+$ 184,167,000,000
+
+$ 148,347,000,000
+
+APSG I
+
+Related Party Transaction [Line Items]
+
+Recognized loss
+
+31,000,000
+
+APSG I | Common Class A
+
+Related Party Transaction [Line Items]
+
+Sale of stock, number of shares issued in transaction (in shares)
+
+51,089,882
+
+AHL common shares purchased (in shares)
+
+17,910,118
+
+GBTG
+
+Related Party Transaction [Line Items]
+
+Net change in unrealized gains (losses) due to changes in fair value
+
+$ 82,000,000
+
+Acropolis
+
+Related Party Transaction [Line Items]
+
+Recognized loss
+
+$ 9,000,000
+
+Acropolis | Common Class A
+
+Related Party Transaction [Line Items]
+
+Sale of stock, number of shares issued in transaction (in shares)
+
+26,499,201
+
+AHL common shares purchased (in shares)
+
+8,000,799
+
+8,000,799
+
+Athene
+
+Related Party Transaction [Line Items]
+
+Related party transaction, amounts of transaction
+
+$ 1,100,000,000
+
+IPO | APSG I
+
+Related Party Transaction [Line Items]
+
+Sale of stock, consideration received on transaction
+
+$ 690,000,000
+
+IPO | Acropolis
+
+Related Party Transaction [Line Items]
+
+Sale of stock, consideration received on transaction
+$ 345,000,000
+
+Athora Holding Ltd. (Athora)
+
+Related Party Transaction [Line Items]
+
+Related party transaction, term
+
+30 days
+
+Right of refusal to reinsure as a percentage of liabilities ceded
+
+50.00%
+
+Right of refusal to reinsure liabilities ceded from a third party, percentage
+
+20.00%
+
+Limitation of third party liabilities as a percentage of athora's liabilities
+
+20.00%
+
+Funding agreements, limitation as a percentage of fair market value of total assets
+
+3.00%
+
+Atlas | Athene
+
+Related Party Transaction [Line Items]
+
+Purchases from related party
+
+$ 724,000,000
+
+$ 921,000,000
+
+ADIP | Athene
+
+Related Party Transaction [Line Items]
+
+Purchases from related party
+
+238,000,000
+
+Related Party
+
+Related Party Transaction [Line Items]
+
+Performance allocations
+
+$ 174,000,000
+
+213,000,000
+
+174,000,000
+
+Investment fund
+
+1,632,000,000
+
+1,853,000,000
+
+1,632,000,000
+
+AFS securities
+
+14,009,000,000
+
+18,803,000,000
+
+14,009,000,000
+
+Related Party | IPO | APSG I
+
+Related Party Transaction [Line Items]
+
+Sale of stock, consideration received on transaction
+
+$ 817,000,000
+
+Related Party | AOG Unit Holders
+
+Related Party Transaction [Line Items]
+
+Tax receivable agreement, payment, multiplier by outstanding units
+
+$ 3.66
+
+Related Party | Mid Cap Financial
+
+Related Party Transaction [Line Items]
+
+Performance allocations
+
+$ 124,000,000
+
+$ 124,000,000
+
+Related Party | Athora Holding Ltd. (Athora) | Athene
+
+Related Party Transaction [Line Items]
+
+Investment fund
+
+1,082,000,000
+
+1,033,000,000
+
+1,082,000,000
+
+Related Party | Atlas | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+1,000,000,000
+
+3,200,000,000
+
+1,000,000,000
+
+Related Party | Catalina | Athene | Apollo Rose II
+
+Related Party Transaction [Line Items]
+
+Investment company, dividend distribution
+
+$ 141,000,000
+
+Related Party | Venerable Insurance and Annuity Company | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+106,000,000
+
+Recaptured reserve
+
+$ 2,700,000,000
+
+Recognized gain (loss) on recapture agreement
+
+$ 555,000,000
+
+$ (104,000,000)
+
+Related Party | Wheels, Inc. | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+100,000,000
+
+AFS securities
+
+1,000,000,000.0
+
+$ 1,000,000,000.0
+
+1,000,000,000.0
+
+Subsidiaries | ALRe | ACRA 1A
+
+Related Party Transaction [Line Items]
+
+Economic ownership
+
+37.00%
+
+Subsidiaries | ALRe | ACRA 2
+
+Related Party Transaction [Line Items]
+
+Economic ownership
+
+37.00%
+
+Subsidiaries | Apollo/Athene Dedicated Investment Programs
+
+Related Party Transaction [Line Items]
+
+Economic interest, ownership percentage sold
+
+63.00%
+
+Subsidiaries | Apollo/Athene Dedicated Investment Programs | ACRA 2
+
+Related Party Transaction [Line Items]
+
+Economic ownership
+
+63.00%
+
+Tax Receivable Agreement
+
+Related Party Transaction [Line Items]
+
+Cash tax savings
+
+15.00%
+
+Tax Receivable Agreement | Related Party
+
+Related Party Transaction [Line Items]
+
+Cash tax savings
+
+85.00%
+
+Employee Loans | Due from Employees and Former Employees
+
+Related Party Transaction [Line Items]
+
+Due from related parties
+
+3,000,000
+
+$ 4,000,000
+
+3,000,000
+
+Employee Loans, Profit Sharing Distributions | Due from Employees and Former Employees
+
+Related Party Transaction [Line Items]
+
+Due from related parties
+
+99,000,000
+
+94,000,000
+
+99,000,000
+
+Indemnification Liability | Related Party
+
+Related Party Transaction [Line Items]
+
+Due from related parties
+
+300,000
+
+400,000
+
+300,000
+
+Equity Commitments | Related Party
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+331,000,000
+
+Funding Agreements | Related Party | Athora Holding Ltd. (Athora) | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+61,000,000
+
+57,000,000
+
+61,000,000
+
+Additional Investments | Related Party | Athora Holding Ltd. (Athora) | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+502,000,000
+
+Additional Investments | Related Party | Atlas | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+3,000,000,000.0
+
+Additional Investments | Related Party | Skylign Aviation Holdings, LP | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+40,000,000
+
+Additional Investments | Related Party | ADIP | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+324,000,000
+
+Reinsurance Agreement | Related Party | Catalina | Athene
+
+Related Party Transaction [Line Items]
+
+Other liabilities
+
+330,000,000
+
+221,000,000
+
+330,000,000
+
+Reinsurance recoverable
+
+4,300,000,000
+
+Skylign Senior Notes | Skylign Aviation Holdings, LP | Athene
+
+Related Party Transaction [Line Items]
+
+Purchases from related party
+
+1,600,000,000
+
+1,600,000,000
+
+Coinsurance and Modco Agreement | Related Party | Venerable Insurance and Annuity Company | Athene
+
+Related Party Transaction [Line Items]
+
+Investment fund
+
+181,000,000
+
+$ 178,000,000
+
+181,000,000
+
+Loans Receivable from Related Party | Athene
+
+Related Party Transaction [Line Items]
+
+Related party transaction, rate (as percent)
+
+6.257%
+
+Loans Receivable from Related Party | Related Party | Athene
+
+Related Party Transaction [Line Items]
+
+Investments in related parties
+
+$ 343,000,000
+
+$ 331,000,000
+
+$ 343,000,000
+
+X
+
+- DefinitionCommon Stock, Shares Liquidated, Gain (Loss) Recognized
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_CommonStockSharesLiquidatedGainLossRecognized
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionEconomic Interest, Ownership Percentage
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_EconomicInterestOwnershipPercentage
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionGain (Loss) Recognized On Recapture Agreement
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_GainLossRecognizedOnRecaptureAgreement
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionInvestment Funds
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_InvestmentFunds
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPerformance Allocations
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_PerformanceAllocations
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionRecaptured Reserve
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_RecapturedReserve
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionRelated Party Transaction, Funding Agreements, Percentage Of Fair Market Value Of Assets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_RelatedPartyTransactionFundingAgreementsPercentageOfFairMarketValueOfAssets
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRelated Party Transaction, Right To Refuse To Reinsure, Percentage Of Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_RelatedPartyTransactionRightToRefuseToReinsurePercentageOfLiabilities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRelated Party Transaction, Term
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_RelatedPartyTransactionTerm
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRelated Party Transaction, Third Party, Right To Refuse To Reinsure, Percentage Of Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_RelatedPartyTransactionThirdPartyRightToRefuseToReinsurePercentageOfLiabilities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRelated Party Transaction, Third Party, Right To Refuse To Reinsure, Percentage Of Liabilities, Maximum
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_RelatedPartyTransactionThirdPartyRightToRefuseToReinsurePercentageOfLiabilitiesMaximum
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTax Receivable Agreement, Cash Tax Savings
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_TaxReceivableAgreementCashTaxSavings
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionUnit Exchange, Payment, Multiplier By Outstanding Units
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_UnitExchangePaymentMultiplierByOutstandingUnits
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 103
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-103
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481830/320-10-45-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479130/326-30-45-1
+
++ Details
+
+ Name:
+us-gaap_AvailableForSaleSecuritiesDebtSecurities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNumber of shares of common stock outstanding. Common stock represent the ownership interest in a corporation.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -SubTopic 10
+ -Topic 505
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(29))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.6-05(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-09(4)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(16)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-09(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-3
+
++ Details
+
+ Name:
+us-gaap_CommonStockSharesOutstanding
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of gain (loss) from deconsolidation of subsidiary and derecognition of group of assets constituting transfer of business or nonprofit activity, excluding conveyance of oil and gas mineral rights and transfer of good or service in contract with customer.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-1B
+
++ Details
+
+ Name:
+us-gaap_DeconsolidationGainOrLossAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of dividend distribution from ordinary income and capital gain. Excludes distribution for tax return of capital.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 205
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478009/946-205-45-4
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-8
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 205
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478009/946-205-45-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-09(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-3
+
++ Details
+
+ Name:
+us-gaap_InvestmentCompanyDividendDistribution
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe equity interest of noncontrolling shareholders, partners or other equity holders in consolidated entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MinorityInterestOwnershipPercentageByNoncontrollingOwners
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of liabilities classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-12
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(12)(b)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(17))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount due from parties in nontrade transactions, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(5)(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(3)(a)(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherReceivables
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after allowance, of receivables classified as other, due within one year or the operating cycle, if longer.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OtherReceivablesNetCurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after valuation allowance, recoverable under reinsurance contracts including premium paid under reinsurance contracts. Examples include, but are not limited to, settled and unsettled claims, incurred but not reported losses, loss adjustment expense, premium paid, policy benefits and policy reserves.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-5
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477409/944-310-45-5
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceRecoverables
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of transactions with related party during the financial reporting period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 850
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-3
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAmountsOfTransaction
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPurchases during the period (excluding transactions that are eliminated in consolidated or combined financial statements) with related party.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionPurchasesFromRelatedParty
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIdentify the stated interest rate per the agreement, for example, leasing and debt arrangements between related parties.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionRate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCash received on stock transaction after deduction of issuance costs.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SaleOfStockConsiderationReceivedOnTransaction
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe number of shares issued or sold by the subsidiary or equity method investee per stock transaction.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SaleOfStockNumberOfSharesIssuedInTransaction
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) on investment.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_UnrealizedGainLossOnInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_APSGIMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=us-gaap_CommonClassAMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_GBTGMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_AcropolisInfrastructureAcquisitionCorpMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_AtheneMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_SubsidiarySaleOfStockAxis=us-gaap_IPOMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_AthoraHoldingLtdAthoraMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_AtlasMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_ADIPMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_AOGUnitHoldersMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_MidCapFinancialMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_CatalinaMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=apo_ApolloRoseIIMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_VenerableInsuranceAndAnnuityCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_WheelsInc.Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_SubsidiariesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_AtheneLifeReLtdMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_OwnershipAxis=apo_AtheneCoInvestReinsuranceAffiliateHoldingLtdMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_OwnershipAxis=apo_AtheneCoInvestReinsuranceAffiliateHoldingLtd2Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_ApolloAtheneDedicatedInvestmentProgramsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_TaxReceivableAgreementMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_InterestBearingEmployeeLoansMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=apo_EmployeesAndFormerEmployeesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_EmployeeLoansProfitSharingDistributionsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_IndemnificationLiabilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_EquityCommitmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_FundingAgreementsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_AdditionalInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_SkylignAviationHoldingsLPMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_ReinsuranceAgreementMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_SkylignSeniorNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_CoinsuranceAndModcoAgreementMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=apo_LoansReceivableFromRelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

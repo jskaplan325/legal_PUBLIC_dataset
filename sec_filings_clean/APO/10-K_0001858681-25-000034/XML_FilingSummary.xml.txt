@@ -1,0 +1,1766 @@
+XML
+204
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+ 3.25.0.1
+
+ html
+ 1598
+ 984
+ 1
+ false
+ 356
+ 0
+ false
+ 15
+
+ false
+ false
+ R1.htm
+ 0000001 - Document - Cover
+ Sheet
+ http://www.agm.com/role/Cover
+ Cover
+ Cover
+ 1
+
+ false
+ false
+ R2.htm
+ 0000002 - Document - Audit Information
+ Sheet
+ http://www.agm.com/role/AuditInformation
+ Audit Information
+ Cover
+ 2
+
+ false
+ false
+ R3.htm
+ 9952151 - Statement - CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION
+ Sheet
+ http://www.agm.com/role/CONSOLIDATEDSTATEMENTSOFFINANCIALCONDITION
+ CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION
+ Statements
+ 3
+
+ false
+ false
+ R4.htm
+ 9952152 - Statement - CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION (Parenthetical)
+ Sheet
+ http://www.agm.com/role/CONSOLIDATEDSTATEMENTSOFFINANCIALCONDITIONParenthetical
+ CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION (Parenthetical)
+ Statements
+ 4
+
+ false
+ false
+ R5.htm
+ 9952153 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS
+ Sheet
+ http://www.agm.com/role/CONSOLIDATEDSTATEMENTSOFOPERATIONS
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ Statements
+ 5
+
+ false
+ false
+ R6.htm
+ 9952154 - Statement - CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+ Sheet
+ http://www.agm.com/role/CONSOLIDATEDSTATEMENTSOFCOMPREHENSIVEINCOMELOSS
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+ Statements
+ 6
+
+ false
+ false
+ R7.htm
+ 9952155 - Statement - CONSOLIDATED STATEMENTS OF EQUITY
+ Sheet
+ http://www.agm.com/role/CONSOLIDATEDSTATEMENTSOFEQUITY
+ CONSOLIDATED STATEMENTS OF EQUITY
+ Statements
+ 7
+
+ false
+ false
+ R8.htm
+ 9952156 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS
+ Sheet
+ http://www.agm.com/role/CONSOLIDATEDSTATEMENTSOFCASHFLOWS
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ Statements
+ 8
+
+ false
+ false
+ R9.htm
+ 9952157 - Disclosure - Organization
+ Sheet
+ http://www.agm.com/role/Organization
+ Organization
+ Notes
+ 9
+
+ false
+ false
+ R10.htm
+ 9952158 - Disclosure - Summary of Significant Accounting Policies
+ Sheet
+ http://www.agm.com/role/SummaryofSignificantAccountingPolicies
+ Summary of Significant Accounting Policies
+ Notes
+ 10
+
+ false
+ false
+ R11.htm
+ 9952159 - Disclosure - Merger with Athene
+ Sheet
+ http://www.agm.com/role/MergerwithAthene
+ Merger with Athene
+ Notes
+ 11
+
+ false
+ false
+ R12.htm
+ 9952160 - Disclosure - Investments
+ Sheet
+ http://www.agm.com/role/Investments
+ Investments
+ Notes
+ 12
+
+ false
+ false
+ R13.htm
+ 9952161 - Disclosure - Derivatives
+ Sheet
+ http://www.agm.com/role/Derivatives
+ Derivatives
+ Notes
+ 13
+
+ false
+ false
+ R14.htm
+ 9952162 - Disclosure - Variable Interest Entities
+ Sheet
+ http://www.agm.com/role/VariableInterestEntities
+ Variable Interest Entities
+ Notes
+ 14
+
+ false
+ false
+ R15.htm
+ 9952163 - Disclosure - Fair Value
+ Sheet
+ http://www.agm.com/role/FairValue
+ Fair Value
+ Notes
+ 15
+
+ false
+ false
+ R16.htm
+ 9952164 - Disclosure - Reinsurance
+ Sheet
+ http://www.agm.com/role/Reinsurance
+ Reinsurance
+ Notes
+ 16
+
+ false
+ false
+ R17.htm
+ 9952165 - Disclosure - Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired
+ Sheet
+ http://www.agm.com/role/DeferredAcquisitionCostsDeferredSalesInducementsandValueofBusinessAcquired
+ Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired
+ Notes
+ 17
+
+ false
+ false
+ R18.htm
+ 9952166 - Disclosure - Goodwill
+ Sheet
+ http://www.agm.com/role/Goodwill
+ Goodwill
+ Notes
+ 18
+
+ false
+ false
+ R19.htm
+ 9952167 - Disclosure - Long-duration Contracts
+ Sheet
+ http://www.agm.com/role/LongdurationContracts
+ Long-duration Contracts
+ Notes
+ 19
+
+ false
+ false
+ R20.htm
+ 9952168 - Disclosure - Profit Sharing Payable
+ Sheet
+ http://www.agm.com/role/ProfitSharingPayable
+ Profit Sharing Payable
+ Notes
+ 20
+
+ false
+ false
+ R21.htm
+ 9952169 - Disclosure - Income Taxes
+ Sheet
+ http://www.agm.com/role/IncomeTaxes
+ Income Taxes
+ Notes
+ 21
+
+ false
+ false
+ R22.htm
+ 9952170 - Disclosure - Debt
+ Sheet
+ http://www.agm.com/role/Debt
+ Debt
+ Notes
+ 22
+
+ false
+ false
+ R23.htm
+ 9952171 - Disclosure - Equity-Based Compensation
+ Sheet
+ http://www.agm.com/role/EquityBasedCompensation
+ Equity-Based Compensation
+ Notes
+ 23
+
+ false
+ false
+ R24.htm
+ 9952172 - Disclosure - Equity
+ Sheet
+ http://www.agm.com/role/Equity
+ Equity
+ Notes
+ 24
+
+ false
+ false
+ R25.htm
+ 9952173 - Disclosure - Earnings per Share
+ Sheet
+ http://www.agm.com/role/EarningsperShare
+ Earnings per Share
+ Notes
+ 25
+
+ false
+ false
+ R26.htm
+ 9952174 - Disclosure - Related Parties
+ Sheet
+ http://www.agm.com/role/RelatedParties
+ Related Parties
+ Notes
+ 26
+
+ false
+ false
+ R27.htm
+ 9952175 - Disclosure - Commitments and Contingencies
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingencies
+ Commitments and Contingencies
+ Notes
+ 27
+
+ false
+ false
+ R28.htm
+ 9952176 - Disclosure - Statutory Requirements
+ Sheet
+ http://www.agm.com/role/StatutoryRequirements
+ Statutory Requirements
+ Notes
+ 28
+
+ false
+ false
+ R29.htm
+ 9952177 - Disclosure - Segments
+ Sheet
+ http://www.agm.com/role/Segments
+ Segments
+ Notes
+ 29
+
+ false
+ false
+ R30.htm
+ 9952178 - Disclosure - Subsequent Events
+ Sheet
+ http://www.agm.com/role/SubsequentEvents
+ Subsequent Events
+ Notes
+ 30
+
+ false
+ false
+ R31.htm
+ 9952179 - Disclosure - Schedule I???Condensed Financial Information of Registrant (Parent Company Only)
+ Sheet
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnly
+ Schedule I???Condensed Financial Information of Registrant (Parent Company Only)
+ Notes
+ 31
+
+ false
+ false
+ R32.htm
+ 9952180 - Disclosure - Schedule II???Valuation and Qualifying Accounts
+ Sheet
+ http://www.agm.com/role/ScheduleIIValuationandQualifyingAccounts
+ Schedule II???Valuation and Qualifying Accounts
+ Notes
+ 32
+
+ false
+ false
+ R33.htm
+ 995410 - Disclosure - Pay vs Performance Disclosure
+ Sheet
+ http://xbrl.sec.gov/ecd/role/PvpDisclosure
+ Pay vs Performance Disclosure
+ Notes
+ 33
+
+ false
+ false
+ R34.htm
+ 995445 - Disclosure - Insider Trading Arrangements
+ Sheet
+ http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements
+ Insider Trading Arrangements
+ Notes
+ 34
+
+ false
+ false
+ R35.htm
+ 995447 - Disclosure - Insider Trading Policies and Procedures
+ Sheet
+ http://xbrl.sec.gov/ecd/role/InsiderTradingPoliciesProc
+ Insider Trading Policies and Procedures
+ Notes
+ 35
+
+ false
+ false
+ R36.htm
+ 995550 - Disclosure - Cybersecurity Risk Management and Strategy Disclosure
+ Sheet
+ http://xbrl.sec.gov/cyd/role/CybersecurityRiskManagementAndStrategyDisclosure
+ Cybersecurity Risk Management and Strategy Disclosure
+ Notes
+ 36
+
+ false
+ false
+ R37.htm
+ 9955511 - Disclosure - Summary of Significant Accounting Policies (Policies)
+ Sheet
+ http://www.agm.com/role/SummaryofSignificantAccountingPoliciesPolicies
+ Summary of Significant Accounting Policies (Policies)
+ Policies
+ http://www.agm.com/role/SummaryofSignificantAccountingPolicies
+ 37
+
+ false
+ false
+ R38.htm
+ 9955512 - Disclosure - Merger with Athene (Tables)
+ Sheet
+ http://www.agm.com/role/MergerwithAtheneTables
+ Merger with Athene (Tables)
+ Tables
+ http://www.agm.com/role/MergerwithAthene
+ 38
+
+ false
+ false
+ R39.htm
+ 9955513 - Disclosure - Investments (Tables)
+ Sheet
+ http://www.agm.com/role/InvestmentsTables
+ Investments (Tables)
+ Tables
+ http://www.agm.com/role/Investments
+ 39
+
+ false
+ false
+ R40.htm
+ 9955514 - Disclosure - Derivatives (Tables)
+ Sheet
+ http://www.agm.com/role/DerivativesTables
+ Derivatives (Tables)
+ Tables
+ http://www.agm.com/role/Derivatives
+ 40
+
+ false
+ false
+ R41.htm
+ 9955515 - Disclosure - Variable Interest Entities (Tables)
+ Sheet
+ http://www.agm.com/role/VariableInterestEntitiesTables
+ Variable Interest Entities (Tables)
+ Tables
+ http://www.agm.com/role/VariableInterestEntities
+ 41
+
+ false
+ false
+ R42.htm
+ 9955516 - Disclosure - Fair Value (Tables)
+ Sheet
+ http://www.agm.com/role/FairValueTables
+ Fair Value (Tables)
+ Tables
+ http://www.agm.com/role/FairValue
+ 42
+
+ false
+ false
+ R43.htm
+ 9955517 - Disclosure - Reinsurance (Tables)
+ Sheet
+ http://www.agm.com/role/ReinsuranceTables
+ Reinsurance (Tables)
+ Tables
+ http://www.agm.com/role/Reinsurance
+ 43
+
+ false
+ false
+ R44.htm
+ 9955518 - Disclosure - Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired (Tables)
+ Sheet
+ http://www.agm.com/role/DeferredAcquisitionCostsDeferredSalesInducementsandValueofBusinessAcquiredTables
+ Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired (Tables)
+ Tables
+ http://www.agm.com/role/DeferredAcquisitionCostsDeferredSalesInducementsandValueofBusinessAcquired
+ 44
+
+ false
+ false
+ R45.htm
+ 9955519 - Disclosure - Goodwill (Tables)
+ Sheet
+ http://www.agm.com/role/GoodwillTables
+ Goodwill (Tables)
+ Tables
+ http://www.agm.com/role/Goodwill
+ 45
+
+ false
+ false
+ R46.htm
+ 9955520 - Disclosure - Long-duration Contracts (Tables)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsTables
+ Long-duration Contracts (Tables)
+ Tables
+ http://www.agm.com/role/LongdurationContracts
+ 46
+
+ false
+ false
+ R47.htm
+ 9955521 - Disclosure - Profit Sharing Payable (Tables)
+ Sheet
+ http://www.agm.com/role/ProfitSharingPayableTables
+ Profit Sharing Payable (Tables)
+ Tables
+ http://www.agm.com/role/ProfitSharingPayable
+ 47
+
+ false
+ false
+ R48.htm
+ 9955522 - Disclosure - Income Taxes (Tables)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesTables
+ Income Taxes (Tables)
+ Tables
+ http://www.agm.com/role/IncomeTaxes
+ 48
+
+ false
+ false
+ R49.htm
+ 9955523 - Disclosure - Debt (Tables)
+ Sheet
+ http://www.agm.com/role/DebtTables
+ Debt (Tables)
+ Tables
+ http://www.agm.com/role/Debt
+ 49
+
+ false
+ false
+ R50.htm
+ 9955524 - Disclosure - Equity-Based Compensation (Tables)
+ Sheet
+ http://www.agm.com/role/EquityBasedCompensationTables
+ Equity-Based Compensation (Tables)
+ Tables
+ http://www.agm.com/role/EquityBasedCompensation
+ 50
+
+ false
+ false
+ R51.htm
+ 9955525 - Disclosure - Equity (Tables)
+ Sheet
+ http://www.agm.com/role/EquityTables
+ Equity (Tables)
+ Tables
+ http://www.agm.com/role/EquityBasedCompensation
+ 51
+
+ false
+ false
+ R52.htm
+ 9955526 - Disclosure - Earnings per Share (Tables)
+ Sheet
+ http://www.agm.com/role/EarningsperShareTables
+ Earnings per Share (Tables)
+ Tables
+ http://www.agm.com/role/EarningsperShare
+ 52
+
+ false
+ false
+ R53.htm
+ 9955527 - Disclosure - Related Parties (Tables)
+ Sheet
+ http://www.agm.com/role/RelatedPartiesTables
+ Related Parties (Tables)
+ Tables
+ http://www.agm.com/role/RelatedParties
+ 53
+
+ false
+ false
+ R54.htm
+ 9955528 - Disclosure - Commitments and Contingencies (Tables)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesTables
+ Commitments and Contingencies (Tables)
+ Tables
+ http://www.agm.com/role/CommitmentsandContingencies
+ 54
+
+ false
+ false
+ R55.htm
+ 9955529 - Disclosure - Statutory Requirements (Tables)
+ Sheet
+ http://www.agm.com/role/StatutoryRequirementsTables
+ Statutory Requirements (Tables)
+ Tables
+ http://www.agm.com/role/StatutoryRequirements
+ 55
+
+ false
+ false
+ R56.htm
+ 9955530 - Disclosure - Segments (Tables)
+ Sheet
+ http://www.agm.com/role/SegmentsTables
+ Segments (Tables)
+ Tables
+ http://www.agm.com/role/Segments
+ 56
+
+ false
+ false
+ R57.htm
+ 9955531 - Disclosure - Organization (Details)
+ Sheet
+ http://www.agm.com/role/OrganizationDetails
+ Organization (Details)
+ Details
+ http://www.agm.com/role/Organization
+ 57
+
+ false
+ false
+ R58.htm
+ 9955532 - Disclosure - Summary of Significant Accounting Policies (Details)
+ Sheet
+ http://www.agm.com/role/SummaryofSignificantAccountingPoliciesDetails
+ Summary of Significant Accounting Policies (Details)
+ Details
+ http://www.agm.com/role/SummaryofSignificantAccountingPoliciesPolicies
+ 58
+
+ false
+ false
+ R59.htm
+ 9955533 - Disclosure - Merger with Athene - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/MergerwithAtheneNarrativeDetails
+ Merger with Athene - Narrative (Details)
+ Details
+ 59
+
+ false
+ false
+ R60.htm
+ 9955534 - Disclosure - Merger with Athene - Schedule of Purchase Price (Details)
+ Sheet
+ http://www.agm.com/role/MergerwithAtheneScheduleofPurchasePriceDetails
+ Merger with Athene - Schedule of Purchase Price (Details)
+ Details
+ 60
+
+ false
+ false
+ R61.htm
+ 9955535 - Disclosure - Merger with Athene - Schedule of Recognized for the Assets Acquired and Liabilities Assumed and Resulting Goodwill (Details)
+ Sheet
+ http://www.agm.com/role/MergerwithAtheneScheduleofRecognizedfortheAssetsAcquiredandLiabilitiesAssumedandResultingGoodwillDetails
+ Merger with Athene - Schedule of Recognized for the Assets Acquired and Liabilities Assumed and Resulting Goodwill (Details)
+ Details
+ 61
+
+ false
+ false
+ R62.htm
+ 9955536 - Disclosure - Merger with Athene - Schedule of Fair Value and Weighted Average Estimate Useful Lives of VOBA and Other Identifiable Intangible Assets Acquired (Details)
+ Sheet
+ http://www.agm.com/role/MergerwithAtheneScheduleofFairValueandWeightedAverageEstimateUsefulLivesofVOBAandOtherIdentifiableIntangibleAssetsAcquiredDetails
+ Merger with Athene - Schedule of Fair Value and Weighted Average Estimate Useful Lives of VOBA and Other Identifiable Intangible Assets Acquired (Details)
+ Details
+ 62
+
+ false
+ false
+ R63.htm
+ 9955537 - Disclosure - Investments - Schedule of Investments (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofInvestmentsDetails
+ Investments - Schedule of Investments (Details)
+ Details
+ 63
+
+ false
+ false
+ R64.htm
+ 9955538 - Disclosure - Investments - Schedule of Financial Information of Equity Method Investments (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofFinancialInformationofEquityMethodInvestmentsDetails
+ Investments - Schedule of Financial Information of Equity Method Investments (Details)
+ Details
+ 64
+
+ false
+ false
+ R65.htm
+ 9955539 - Disclosure - Investments - Schedule of Net Gains (Losses) from Investment Activities (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofNetGainsLossesfromInvestmentActivitiesDetails
+ Investments - Schedule of Net Gains (Losses) from Investment Activities (Details)
+ Details
+ 65
+
+ false
+ false
+ R66.htm
+ 9955540 - Disclosure - Investments - Schedule of Performance Allocations (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofPerformanceAllocationsDetails
+ Investments - Schedule of Performance Allocations (Details)
+ Details
+ 66
+
+ false
+ false
+ R67.htm
+ 9955541 - Disclosure - Investments - Schedule of AFS Securities (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofAFSSecuritiesDetails
+ Investments - Schedule of AFS Securities (Details)
+ Details
+ 67
+
+ false
+ false
+ R68.htm
+ 9955542 - Disclosure - Investments - Schedule of Amortized Cost and Fair Value of AFS Securities, Including Related Parties (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofAmortizedCostandFairValueofAFSSecuritiesIncludingRelatedPartiesDetails
+ Investments - Schedule of Amortized Cost and Fair Value of AFS Securities, Including Related Parties (Details)
+ Details
+ 68
+
+ false
+ false
+ R69.htm
+ 9955543 - Disclosure - Investments - Schedule of Unrealized Losses on AFS Securities (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofUnrealizedLossesonAFSSecuritiesDetails
+ Investments - Schedule of Unrealized Losses on AFS Securities (Details)
+ Details
+ 69
+
+ false
+ false
+ R70.htm
+ 9955544 - Disclosure - Investments - Schedule of Unrealized Losses on AFS Securities Including Related Parties (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofUnrealizedLossesonAFSSecuritiesIncludingRelatedPartiesDetails
+ Investments - Schedule of Unrealized Losses on AFS Securities Including Related Parties (Details)
+ Details
+ 70
+
+ false
+ false
+ R71.htm
+ 9955545 - Disclosure - Investments - Schedule of Allowance for Credit Losses (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofAllowanceforCreditLossesDetails
+ Investments - Schedule of Allowance for Credit Losses (Details)
+ Details
+ 71
+
+ false
+ false
+ R72.htm
+ 9955546 - Disclosure - Investments - Schedule of Net Investment Income (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofNetInvestmentIncomeDetails
+ Investments - Schedule of Net Investment Income (Details)
+ Details
+ 72
+
+ false
+ false
+ R73.htm
+ 9955547 - Disclosure - Investments - Schedule of Investment Related Gains (Losses) (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofInvestmentRelatedGainsLossesDetails
+ Investments - Schedule of Investment Related Gains (Losses) (Details)
+ Details
+ 73
+
+ false
+ false
+ R74.htm
+ 9955548 - Disclosure - Investments - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsNarrativeDetails
+ Investments - Narrative (Details)
+ Details
+ 74
+
+ false
+ false
+ R75.htm
+ 9955549 - Disclosure - Investments - Schedule of Unrealized Gain (Loss) on Trading and Equity Securities (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofUnrealizedGainLossonTradingandEquitySecuritiesDetails
+ Investments - Schedule of Unrealized Gain (Loss) on Trading and Equity Securities (Details)
+ Details
+ 75
+
+ false
+ false
+ R76.htm
+ 9955550 - Disclosure - Investments - Schedule of Repurchase Agreements (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofRepurchaseAgreementsDetails
+ Investments - Schedule of Repurchase Agreements (Details)
+ Details
+ 76
+
+ false
+ false
+ R77.htm
+ 9955551 - Disclosure - Investments - Schedule of Securities Pledged As Collateral For Repurchase Agreements (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofSecuritiesPledgedAsCollateralForRepurchaseAgreementsDetails
+ Investments - Schedule of Securities Pledged As Collateral For Repurchase Agreements (Details)
+ Details
+ 77
+
+ false
+ false
+ R78.htm
+ 9955552 - Disclosure - Investments - Schedule of Mortgage Loan Portfolio, with Fair Value Option Loans (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofMortgageLoanPortfoliowithFairValueOptionLoansDetails
+ Investments - Schedule of Mortgage Loan Portfolio, with Fair Value Option Loans (Details)
+ Details
+ 78
+
+ false
+ false
+ R79.htm
+ 9955553 - Disclosure - Investments - Schedule of Distribution of Commercial and Residential Mortgage Loans, Percentage by Geographical Location (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofDistributionofCommercialandResidentialMortgageLoansPercentagebyGeographicalLocationDetails
+ Investments - Schedule of Distribution of Commercial and Residential Mortgage Loans, Percentage by Geographical Location (Details)
+ Details
+ 79
+
+ false
+ false
+ R80.htm
+ 9955554 - Disclosure - Investments - Schedule of Investment Funds (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofInvestmentFundsDetails
+ Investments - Schedule of Investment Funds (Details)
+ Details
+ 80
+
+ false
+ false
+ R81.htm
+ 9955555 - Disclosure - Investments - Schedule of Concentration of Risk, by Risk Factor (Details)
+ Sheet
+ http://www.agm.com/role/InvestmentsScheduleofConcentrationofRiskbyRiskFactorDetails
+ Investments - Schedule of Concentration of Risk, by Risk Factor (Details)
+ Details
+ 81
+
+ false
+ false
+ R82.htm
+ 9955556 - Disclosure - Derivatives - Schedule of Notional Amount and Fair Value of Derivative Instruments (Details)
+ Sheet
+ http://www.agm.com/role/DerivativesScheduleofNotionalAmountandFairValueofDerivativeInstrumentsDetails
+ Derivatives - Schedule of Notional Amount and Fair Value of Derivative Instruments (Details)
+ Details
+ 82
+
+ false
+ false
+ R83.htm
+ 9955557 - Disclosure - Derivatives - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/DerivativesNarrativeDetails
+ Derivatives - Narrative (Details)
+ Details
+ 83
+
+ false
+ false
+ R84.htm
+ 9955558 - Disclosure - Derivatives - Schedule of Carrying Amount and the Cumulative Fair Value Hedging Adjustments (Details)
+ Sheet
+ http://www.agm.com/role/DerivativesScheduleofCarryingAmountandtheCumulativeFairValueHedgingAdjustmentsDetails
+ Derivatives - Schedule of Carrying Amount and the Cumulative Fair Value Hedging Adjustments (Details)
+ Details
+ 84
+
+ false
+ false
+ R85.htm
+ 9955559 - Disclosure - Derivatives - Schedule of Gains (Losses) Related to Cash Flow Hedges (Details)
+ Sheet
+ http://www.agm.com/role/DerivativesScheduleofGainsLossesRelatedtoCashFlowHedgesDetails
+ Derivatives - Schedule of Gains (Losses) Related to Cash Flow Hedges (Details)
+ Details
+ 85
+
+ false
+ false
+ R86.htm
+ 9955560 - Disclosure - Derivatives - Schedule of Derivatives Not Designated as Hedges (Details)
+ Sheet
+ http://www.agm.com/role/DerivativesScheduleofDerivativesNotDesignatedasHedgesDetails
+ Derivatives - Schedule of Derivatives Not Designated as Hedges (Details)
+ Details
+ 86
+
+ false
+ false
+ R87.htm
+ 9955561 - Disclosure - Derivatives - Schedule of Offsetting Derivative Assets and Liabilities (Details)
+ Sheet
+ http://www.agm.com/role/DerivativesScheduleofOffsettingDerivativeAssetsandLiabilitiesDetails
+ Derivatives - Schedule of Offsetting Derivative Assets and Liabilities (Details)
+ Details
+ 87
+
+ false
+ false
+ R88.htm
+ 9955562 - Disclosure - Variable Interest Entities - Schedule of Net Gains (Losses) from Investment Activities of the Consolidated VIEs - Asset Management (Details)
+ Sheet
+ http://www.agm.com/role/VariableInterestEntitiesScheduleofNetGainsLossesfromInvestmentActivitiesoftheConsolidatedVIEsAssetManagementDetails
+ Variable Interest Entities - Schedule of Net Gains (Losses) from Investment Activities of the Consolidated VIEs - Asset Management (Details)
+ Details
+ 88
+
+ false
+ false
+ R89.htm
+ 9955563 - Disclosure - Variable Interest Entities - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/VariableInterestEntitiesNarrativeDetails
+ Variable Interest Entities - Narrative (Details)
+ Details
+ 89
+
+ false
+ false
+ R90.htm
+ 9955564 - Disclosure - Variable Interest Entities - Schedule of Principal Provisions Debt (Details)
+ Sheet
+ http://www.agm.com/role/VariableInterestEntitiesScheduleofPrincipalProvisionsDebtDetails
+ Variable Interest Entities - Schedule of Principal Provisions Debt (Details)
+ Details
+ 90
+
+ false
+ false
+ R91.htm
+ 9955565 - Disclosure - Variable Interest Entities - Schedule of Statements of Operations Activity of the Consolidated VIEs - Retirement Services (Details)
+ Sheet
+ http://www.agm.com/role/VariableInterestEntitiesScheduleofStatementsofOperationsActivityoftheConsolidatedVIEsRetirementServicesDetails
+ Variable Interest Entities - Schedule of Statements of Operations Activity of the Consolidated VIEs - Retirement Services (Details)
+ Details
+ 91
+
+ false
+ false
+ R92.htm
+ 9955566 - Disclosure - Variable Interest Entities - Schedule of Unconsolidated Variable Interest Entities - Asset Management and Retirement Services (Details)
+ Sheet
+ http://www.agm.com/role/VariableInterestEntitiesScheduleofUnconsolidatedVariableInterestEntitiesAssetManagementandRetirementServicesDetails
+ Variable Interest Entities - Schedule of Unconsolidated Variable Interest Entities - Asset Management and Retirement Services (Details)
+ Details
+ 92
+
+ false
+ false
+ R93.htm
+ 9955567 - Disclosure - Fair Value - Schedule of Financial Assets and Liabilities Recorded at Fair Value (Details)
+ Sheet
+ http://www.agm.com/role/FairValueScheduleofFinancialAssetsandLiabilitiesRecordedatFairValueDetails
+ Fair Value - Schedule of Financial Assets and Liabilities Recorded at Fair Value (Details)
+ Details
+ 93
+
+ false
+ false
+ R94.htm
+ 9955568 - Disclosure - Fair Value - Schedule of Valuation Techniques and Quantitative Inputs and Assumptions used for Financial Assets and Liabilities (Details)
+ Sheet
+ http://www.agm.com/role/FairValueScheduleofValuationTechniquesandQuantitativeInputsandAssumptionsusedforFinancialAssetsandLiabilitiesDetails
+ Fair Value - Schedule of Valuation Techniques and Quantitative Inputs and Assumptions used for Financial Assets and Liabilities (Details)
+ Details
+ 94
+
+ false
+ false
+ R95.htm
+ 9955569 - Disclosure - Fair Value - Schedule of Level 3 Assets and Liabilities Measured at Fair Value on a Recurring Basis (Details)
+ Sheet
+ http://www.agm.com/role/FairValueScheduleofLevel3AssetsandLiabilitiesMeasuredatFairValueonaRecurringBasisDetails
+ Fair Value - Schedule of Level 3 Assets and Liabilities Measured at Fair Value on a Recurring Basis (Details)
+ Details
+ 95
+
+ false
+ false
+ R96.htm
+ 9955570 - Disclosure - Fair Value - Schedule of Gross Components of Purchases, Issuances, Sales and Settlements, Net, and Net Transfers In (Out) (Details)
+ Sheet
+ http://www.agm.com/role/FairValueScheduleofGrossComponentsofPurchasesIssuancesSalesandSettlementsNetandNetTransfersInOutDetails
+ Fair Value - Schedule of Gross Components of Purchases, Issuances, Sales and Settlements, Net, and Net Transfers In (Out) (Details)
+ Details
+ 96
+
+ false
+ false
+ R97.htm
+ 9955571 - Disclosure - Fair Value - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/FairValueNarrativeDetails
+ Fair Value - Narrative (Details)
+ Details
+ 97
+
+ false
+ false
+ R98.htm
+ 9955572 - Disclosure - Fair Value - Schedule of Gain (Losses) Recorded for Financial Instruments Elected the Fair Value Option (Details)
+ Sheet
+ http://www.agm.com/role/FairValueScheduleofGainLossesRecordedforFinancialInstrumentsElectedtheFairValueOptionDetails
+ Fair Value - Schedule of Gain (Losses) Recorded for Financial Instruments Elected the Fair Value Option (Details)
+ Details
+ 98
+
+ false
+ false
+ R99.htm
+ 9955573 - Disclosure - Fair Value - Schedule of Fair Value Option Mortgage Loans (Details)
+ Sheet
+ http://www.agm.com/role/FairValueScheduleofFairValueOptionMortgageLoansDetails
+ Fair Value - Schedule of Fair Value Option Mortgage Loans (Details)
+ Details
+ 99
+
+ false
+ false
+ R100.htm
+ 9955574 - Disclosure - Fair Value - Schedule of Financial Instruments Not Measured at Fair Value (Details)
+ Sheet
+ http://www.agm.com/role/FairValueScheduleofFinancialInstrumentsNotMeasuredatFairValueDetails
+ Fair Value - Schedule of Financial Instruments Not Measured at Fair Value (Details)
+ Details
+ 100
+
+ false
+ false
+ R101.htm
+ 9955575 - Disclosure - Reinsurance - Schedule of Effects of Reinsurance (Details)
+ Sheet
+ http://www.agm.com/role/ReinsuranceScheduleofEffectsofReinsuranceDetails
+ Reinsurance - Schedule of Effects of Reinsurance (Details)
+ Details
+ 101
+
+ false
+ false
+ R102.htm
+ 9955576 - Disclosure - Reinsurance - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/ReinsuranceNarrativeDetails
+ Reinsurance - Narrative (Details)
+ Details
+ 102
+
+ false
+ false
+ R103.htm
+ 9955577 - Disclosure - Reinsurance - Schedule of Reinsurance Transactions (Details)
+ Sheet
+ http://www.agm.com/role/ReinsuranceScheduleofReinsuranceTransactionsDetails
+ Reinsurance - Schedule of Reinsurance Transactions (Details)
+ Details
+ 103
+
+ false
+ false
+ R104.htm
+ 9955578 - Disclosure - Reinsurance - Schedule of Reinsurance Recoverables (Details)
+ Sheet
+ http://www.agm.com/role/ReinsuranceScheduleofReinsuranceRecoverablesDetails
+ Reinsurance - Schedule of Reinsurance Recoverables (Details)
+ Details
+ 104
+
+ false
+ false
+ R105.htm
+ 9955579 - Disclosure - Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired - Schedule of Rollforward of DAC, DSI, VOBA (Details)
+ Sheet
+ http://www.agm.com/role/DeferredAcquisitionCostsDeferredSalesInducementsandValueofBusinessAcquiredScheduleofRollforwardofDACDSIVOBADetails
+ Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired - Schedule of Rollforward of DAC, DSI, VOBA (Details)
+ Details
+ 105
+
+ false
+ false
+ R106.htm
+ 9955580 - Disclosure - Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired - Schedule of Expected Amortization of VOBA (Details)
+ Sheet
+ http://www.agm.com/role/DeferredAcquisitionCostsDeferredSalesInducementsandValueofBusinessAcquiredScheduleofExpectedAmortizationofVOBADetails
+ Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired - Schedule of Expected Amortization of VOBA (Details)
+ Details
+ 106
+
+ false
+ false
+ R107.htm
+ 9955581 - Disclosure - Goodwill - Schedule of Goodwill (Details)
+ Sheet
+ http://www.agm.com/role/GoodwillScheduleofGoodwillDetails
+ Goodwill - Schedule of Goodwill (Details)
+ Details
+ 107
+
+ false
+ false
+ R108.htm
+ 9955582 - Disclosure - Goodwill - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/GoodwillNarrativeDetails
+ Goodwill - Narrative (Details)
+ Details
+ 108
+
+ false
+ false
+ R109.htm
+ 9955583 - Disclosure - Long-duration Contracts - Schedule of Policyholder Account Balance (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofPolicyholderAccountBalanceDetails
+ Long-duration Contracts - Schedule of Policyholder Account Balance (Details)
+ Details
+ 109
+
+ false
+ false
+ R110.htm
+ 9955584 - Disclosure - Long-duration Contracts - Schedule of Interest Sensitive Contract Liabilities (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofInterestSensitiveContractLiabilitiesDetails
+ Long-duration Contracts - Schedule of Interest Sensitive Contract Liabilities (Details)
+ Details
+ 110
+
+ false
+ false
+ R111.htm
+ 9955585 - Disclosure - Long-duration Contracts - Schedule of Policyholder Account Balance, Guaranteed Minimum Crediting Rate (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofPolicyholderAccountBalanceGuaranteedMinimumCreditingRateDetails
+ Long-duration Contracts - Schedule of Policyholder Account Balance, Guaranteed Minimum Crediting Rate (Details)
+ Details
+ 111
+
+ false
+ false
+ R112.htm
+ 9955586 - Disclosure - Long-duration Contracts - Schedule of Expected Value for Expected Net Premiums and Future Policy Benefits (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofExpectedValueforExpectedNetPremiumsandFuturePolicyBenefitsDetails
+ Long-duration Contracts - Schedule of Expected Value for Expected Net Premiums and Future Policy Benefits (Details)
+ Details
+ 112
+
+ false
+ false
+ R113.htm
+ 9955587 - Disclosure - Long-duration Contracts - Schedule of Reconciliation of Future Policy Benefit and Premiums (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofReconciliationofFuturePolicyBenefitandPremiumsDetails
+ Long-duration Contracts - Schedule of Reconciliation of Future Policy Benefit and Premiums (Details)
+ Details
+ 113
+
+ false
+ false
+ R114.htm
+ 9955588 - Disclosure - Long-duration Contracts - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsNarrativeDetails
+ Long-duration Contracts - Narrative (Details)
+ Details
+ 114
+
+ false
+ false
+ R115.htm
+ 9955589 - Disclosure - Long-duration Contracts - Schedule of Remeasurement of Gain (Losses) (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofRemeasurementofGainLossesDetails
+ Long-duration Contracts - Schedule of Remeasurement of Gain (Losses) (Details)
+ Details
+ 115
+
+ false
+ false
+ R116.htm
+ 9955590 - Disclosure - Long-duration Contracts - Schedule of Net Liability Position of Market Risk Benefits (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofNetLiabilityPositionofMarketRiskBenefitsDetails
+ Long-duration Contracts - Schedule of Net Liability Position of Market Risk Benefits (Details)
+ Details
+ 116
+
+ false
+ false
+ R117.htm
+ 9955591 - Disclosure - Long-duration Contracts - Schedule of Market Risk Benefits by Fair Value (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofMarketRiskBenefitsbyFairValueDetails
+ Long-duration Contracts - Schedule of Market Risk Benefits by Fair Value (Details)
+ Details
+ 117
+
+ false
+ false
+ R118.htm
+ 9955592 - Disclosure - Long-duration Contracts - Schedule of Unobservable Inputs for Market Risk Benefits (Details)
+ Sheet
+ http://www.agm.com/role/LongdurationContractsScheduleofUnobservableInputsforMarketRiskBenefitsDetails
+ Long-duration Contracts - Schedule of Unobservable Inputs for Market Risk Benefits (Details)
+ Details
+ 118
+
+ false
+ false
+ R119.htm
+ 9955593 - Disclosure - Profit Sharing Payable - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/ProfitSharingPayableNarrativeDetails
+ Profit Sharing Payable - Narrative (Details)
+ Details
+ 119
+
+ false
+ false
+ R120.htm
+ 9955594 - Disclosure - Profit Sharing Payable - Schedule of Roll Forward (Details)
+ Sheet
+ http://www.agm.com/role/ProfitSharingPayableScheduleofRollForwardDetails
+ Profit Sharing Payable - Schedule of Roll Forward (Details)
+ Details
+ 120
+
+ false
+ false
+ R121.htm
+ 9955595 - Disclosure - Income Taxes - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesNarrativeDetails
+ Income Taxes - Narrative (Details)
+ Details
+ 121
+
+ false
+ false
+ R122.htm
+ 9955596 - Disclosure - Income Taxes - Schedule of Provision for Income Taxes (Details)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesScheduleofProvisionforIncomeTaxesDetails
+ Income Taxes - Schedule of Provision for Income Taxes (Details)
+ Details
+ 122
+
+ false
+ false
+ R123.htm
+ 9955597 - Disclosure - Income Taxes - Schedule of Reconciliation of Tax Rates (Details)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesScheduleofReconciliationofTaxRatesDetails
+ Income Taxes - Schedule of Reconciliation of Tax Rates (Details)
+ Details
+ 123
+
+ false
+ false
+ R124.htm
+ 9955598 - Disclosure - Income Taxes - Schedule of Income Tax Provision (Benefit) (Details)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesScheduleofIncomeTaxProvisionBenefitDetails
+ Income Taxes - Schedule of Income Tax Provision (Benefit) (Details)
+ Details
+ 124
+
+ false
+ false
+ R125.htm
+ 9955599 - Disclosure - Income Taxes - Net Operating Losses (Details)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesNetOperatingLossesDetails
+ Income Taxes - Net Operating Losses (Details)
+ Details
+ 125
+
+ false
+ false
+ R126.htm
+ 9955600 - Disclosure - Income Taxes - Schedule of Deferred Tax Assets and Liabilities (Details)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesScheduleofDeferredTaxAssetsandLiabilitiesDetails
+ Income Taxes - Schedule of Deferred Tax Assets and Liabilities (Details)
+ Details
+ 126
+
+ false
+ false
+ R127.htm
+ 9955601 - Disclosure - Income Taxes - Schedule of Valuation Allowance (Details)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesScheduleofValuationAllowanceDetails
+ Income Taxes - Schedule of Valuation Allowance (Details)
+ Details
+ 127
+
+ false
+ false
+ R128.htm
+ 9955602 - Disclosure - Income Taxes - Schedule of Roll Forward of the Beginning and Ending Aggregate Unrecognized Tax Benefits (Details)
+ Sheet
+ http://www.agm.com/role/IncomeTaxesScheduleofRollForwardoftheBeginningandEndingAggregateUnrecognizedTaxBenefitsDetails
+ Income Taxes - Schedule of Roll Forward of the Beginning and Ending Aggregate Unrecognized Tax Benefits (Details)
+ Details
+ 128
+
+ false
+ false
+ R129.htm
+ 9955603 - Disclosure - Debt - Schedule of Debt (Details)
+ Sheet
+ http://www.agm.com/role/DebtScheduleofDebtDetails
+ Debt - Schedule of Debt (Details)
+ Details
+ 129
+
+ false
+ false
+ R130.htm
+ 9955604 - Disclosure - Debt - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/DebtNarrativeDetails
+ Debt - Narrative (Details)
+ Details
+ 130
+
+ false
+ false
+ R131.htm
+ 9955605 - Disclosure - Debt - Schedule of Credit and Liquidity Facilities (Details)
+ Sheet
+ http://www.agm.com/role/DebtScheduleofCreditandLiquidityFacilitiesDetails
+ Debt - Schedule of Credit and Liquidity Facilities (Details)
+ Details
+ 131
+
+ false
+ false
+ R132.htm
+ 9955606 - Disclosure - Debt - Schedule of Interest Expense (Details)
+ Sheet
+ http://www.agm.com/role/DebtScheduleofInterestExpenseDetails
+ Debt - Schedule of Interest Expense (Details)
+ Details
+ 132
+
+ false
+ false
+ R133.htm
+ 9955607 - Disclosure - Debt - Schedule of Maturities of Long-Term Debt (Details)
+ Sheet
+ http://www.agm.com/role/DebtScheduleofMaturitiesofLongTermDebtDetails
+ Debt - Schedule of Maturities of Long-Term Debt (Details)
+ Details
+ 133
+
+ false
+ false
+ R134.htm
+ 9955608 - Disclosure - Equity-Based Compensation - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/EquityBasedCompensationNarrativeDetails
+ Equity-Based Compensation - Narrative (Details)
+ Details
+ 134
+
+ false
+ false
+ R135.htm
+ 9955609 - Disclosure - Equity-Based Compensation - Schedule of Weighted Average Discounts (Details)
+ Sheet
+ http://www.agm.com/role/EquityBasedCompensationScheduleofWeightedAverageDiscountsDetails
+ Equity-Based Compensation - Schedule of Weighted Average Discounts (Details)
+ Details
+ 135
+
+ false
+ false
+ R136.htm
+ 9955610 - Disclosure - Equity-Based Compensation - Schedule of RSU Activity (Details)
+ Sheet
+ http://www.agm.com/role/EquityBasedCompensationScheduleofRSUActivityDetails
+ Equity-Based Compensation - Schedule of RSU Activity (Details)
+ Details
+ 136
+
+ false
+ false
+ R137.htm
+ 9955611 - Disclosure - Equity - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/EquityNarrativeDetails
+ Equity - Narrative (Details)
+ Details
+ 137
+
+ false
+ false
+ R138.htm
+ 9955612 - Disclosure - Equity - Schedule of Share Activity (Details)
+ Sheet
+ http://www.agm.com/role/EquityScheduleofShareActivityDetails
+ Equity - Schedule of Share Activity (Details)
+ Details
+ 138
+
+ false
+ false
+ R139.htm
+ 9955613 - Disclosure - Equity - Schedule of Dividends and Distributions (Details)
+ Sheet
+ http://www.agm.com/role/EquityScheduleofDividendsandDistributionsDetails
+ Equity - Schedule of Dividends and Distributions (Details)
+ Details
+ 139
+
+ false
+ false
+ R140.htm
+ 9955614 - Disclosure - Equity - Schedule of Accumulated Other Comprehensive Income (Loss) (Details)
+ Sheet
+ http://www.agm.com/role/EquityScheduleofAccumulatedOtherComprehensiveIncomeLossDetails
+ Equity - Schedule of Accumulated Other Comprehensive Income (Loss) (Details)
+ Details
+ 140
+
+ false
+ false
+ R141.htm
+ 9955615 - Disclosure - Earnings per Share - Schedule of Basic and Diluted Net Income (Loss) Per Share of Common Stock (Details)
+ Sheet
+ http://www.agm.com/role/EarningsperShareScheduleofBasicandDilutedNetIncomeLossPerShareofCommonStockDetails
+ Earnings per Share - Schedule of Basic and Diluted Net Income (Loss) Per Share of Common Stock (Details)
+ Details
+ 141
+
+ false
+ false
+ R142.htm
+ 9955616 - Disclosure - Earnings per Share - Schedule of Anti-dilutive Securities (Details)
+ Sheet
+ http://www.agm.com/role/EarningsperShareScheduleofAntidilutiveSecuritiesDetails
+ Earnings per Share - Schedule of Anti-dilutive Securities (Details)
+ Details
+ 142
+
+ false
+ false
+ R143.htm
+ 9955617 - Disclosure - Related Parties - Schedule of Related Party Transactions (Details)
+ Sheet
+ http://www.agm.com/role/RelatedPartiesScheduleofRelatedPartyTransactionsDetails
+ Related Parties - Schedule of Related Party Transactions (Details)
+ Details
+ 143
+
+ false
+ false
+ R144.htm
+ 9955618 - Disclosure - Related Parties - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/RelatedPartiesNarrativeDetails
+ Related Parties - Narrative (Details)
+ Details
+ 144
+
+ false
+ false
+ R145.htm
+ 9955619 - Disclosure - Related Parties - Schedule of Investment in SPAC Income Statement Disclosure (Details)
+ Sheet
+ http://www.agm.com/role/RelatedPartiesScheduleofInvestmentinSPACIncomeStatementDisclosureDetails
+ Related Parties - Schedule of Investment in SPAC Income Statement Disclosure (Details)
+ Details
+ 145
+
+ false
+ false
+ R146.htm
+ 9955620 - Disclosure - Related Parties - Schedule of Athene???s Investments in Athora (Details)
+ Sheet
+ http://www.agm.com/role/RelatedPartiesScheduleofAthenesInvestmentsinAthoraDetails
+ Related Parties - Schedule of Athene???s Investments in Athora (Details)
+ Details
+ 146
+
+ false
+ false
+ R147.htm
+ 9955621 - Disclosure - Related Parties - Schedule of Athene Capital Contributions and Paid Distributions (Details)
+ Sheet
+ http://www.agm.com/role/RelatedPartiesScheduleofAtheneCapitalContributionsandPaidDistributionsDetails
+ Related Parties - Schedule of Athene Capital Contributions and Paid Distributions (Details)
+ Details
+ 147
+
+ false
+ false
+ R148.htm
+ 9955622 - Disclosure - Commitments and Contingencies - Investments Commitments (Details)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesInvestmentsCommitmentsDetails
+ Commitments and Contingencies - Investments Commitments (Details)
+ Details
+ 148
+
+ false
+ false
+ R149.htm
+ 9955623 - Disclosure - Commitments and Contingencies - Contingent Obligations (Details)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesContingentObligationsDetails
+ Commitments and Contingencies - Contingent Obligations (Details)
+ Details
+ 149
+
+ false
+ false
+ R150.htm
+ 9955624 - Disclosure - Commitments and Contingencies - Funding Arrangements (Details)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesFundingArrangementsDetails
+ Commitments and Contingencies - Funding Arrangements (Details)
+ Details
+ 150
+
+ false
+ false
+ R151.htm
+ 9955625 - Disclosure - Commitments and Contingencies - Schedule of Restricted Assets (Details)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesScheduleofRestrictedAssetsDetails
+ Commitments and Contingencies - Schedule of Restricted Assets (Details)
+ Details
+ 151
+
+ false
+ false
+ R152.htm
+ 9955626 - Disclosure - Commitments and Contingencies - Letters of Credit (Details)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesLettersofCreditDetails
+ Commitments and Contingencies - Letters of Credit (Details)
+ Details
+ 152
+
+ false
+ false
+ R153.htm
+ 9955627 - Disclosure - Commitments and Contingencies - Atlas (Details)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesAtlasDetails
+ Commitments and Contingencies - Atlas (Details)
+ Details
+ 153
+
+ false
+ false
+ R154.htm
+ 9955628 - Disclosure - Commitments and Contingencies - Litigation and Regulatory Matters (Details)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesLitigationandRegulatoryMattersDetails
+ Commitments and Contingencies - Litigation and Regulatory Matters (Details)
+ Details
+ 154
+
+ false
+ false
+ R155.htm
+ 9955629 - Disclosure - Commitments and Contingencies - Guaranty Association Assessments (Details)
+ Sheet
+ http://www.agm.com/role/CommitmentsandContingenciesGuarantyAssociationAssessmentsDetails
+ Commitments and Contingencies - Guaranty Association Assessments (Details)
+ Details
+ 155
+
+ false
+ false
+ R156.htm
+ 9955630 - Disclosure - Statutory Requirements - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/StatutoryRequirementsNarrativeDetails
+ Statutory Requirements - Narrative (Details)
+ Details
+ 156
+
+ false
+ false
+ R157.htm
+ 9955631 - Disclosure - Statutory Requirements - Schedule of Statutory Capital and Surplus and Net Income (Loss) (Details)
+ Sheet
+ http://www.agm.com/role/StatutoryRequirementsScheduleofStatutoryCapitalandSurplusandNetIncomeLossDetails
+ Statutory Requirements - Schedule of Statutory Capital and Surplus and Net Income (Loss) (Details)
+ Details
+ 157
+
+ false
+ false
+ R158.htm
+ 9955632 - Disclosure - Segments - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/SegmentsNarrativeDetails
+ Segments - Narrative (Details)
+ Details
+ 158
+
+ false
+ false
+ R159.htm
+ 9955633 - Disclosure - Segments - Schedule of Financial Data for Reportable Segments (Details)
+ Sheet
+ http://www.agm.com/role/SegmentsScheduleofFinancialDataforReportableSegmentsDetails
+ Segments - Schedule of Financial Data for Reportable Segments (Details)
+ Details
+ 159
+
+ false
+ false
+ R160.htm
+ 9955634 - Disclosure - Segments - Schedule of Reconciliation of Income Before Income Tax Provision to Segments (Details)
+ Sheet
+ http://www.agm.com/role/SegmentsScheduleofReconciliationofIncomeBeforeIncomeTaxProvisiontoSegmentsDetails
+ Segments - Schedule of Reconciliation of Income Before Income Tax Provision to Segments (Details)
+ Details
+ 160
+
+ false
+ false
+ R161.htm
+ 9955635 - Disclosure - Segments - Schedule of Reconciliation of Consolidated Revenues to Total Asset Management Fee Related Revenues (Details)
+ Sheet
+ http://www.agm.com/role/SegmentsScheduleofReconciliationofConsolidatedRevenuestoTotalAssetManagementFeeRelatedRevenuesDetails
+ Segments - Schedule of Reconciliation of Consolidated Revenues to Total Asset Management Fee Related Revenues (Details)
+ Details
+ 161
+
+ false
+ false
+ R162.htm
+ 9955636 - Disclosure - Segments - Schedule of Reconciliation of Total Reportable Segment Assets to Total Assets (Details)
+ Sheet
+ http://www.agm.com/role/SegmentsScheduleofReconciliationofTotalReportableSegmentAssetstoTotalAssetsDetails
+ Segments - Schedule of Reconciliation of Total Reportable Segment Assets to Total Assets (Details)
+ Details
+ 162
+
+ false
+ false
+ R163.htm
+ 9955637 - Disclosure - Segments - Schedule of Revenue from External Customers by Geographic Areas (Details)
+ Sheet
+ http://www.agm.com/role/SegmentsScheduleofRevenuefromExternalCustomersbyGeographicAreasDetails
+ Segments - Schedule of Revenue from External Customers by Geographic Areas (Details)
+ Details
+ 163
+
+ false
+ false
+ R164.htm
+ 9955638 - Disclosure - Subsequent Events (Details)
+ Sheet
+ http://www.agm.com/role/SubsequentEventsDetails
+ Subsequent Events (Details)
+ Details
+ http://www.agm.com/role/SubsequentEvents
+ 164
+
+ false
+ false
+ R165.htm
+ 9955639 - Disclosure - Schedule I???Condensed Financial Information of Registrant (Parent Company Only) - Balance Sheets (Details)
+ Sheet
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnlyBalanceSheetsDetails
+ Schedule I???Condensed Financial Information of Registrant (Parent Company Only) - Balance Sheets (Details)
+ Details
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnly
+ 165
+
+ false
+ false
+ R166.htm
+ 9955640 - Disclosure - Schedule I???Condensed Financial Information of Registrant (Parent Company Only) - Income Statements (Details)
+ Sheet
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnlyIncomeStatementsDetails
+ Schedule I???Condensed Financial Information of Registrant (Parent Company Only) - Income Statements (Details)
+ Details
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnly
+ 166
+
+ false
+ false
+ R167.htm
+ 9955641 - Disclosure - Schedule I???Condensed Financial Information of Registrant (Parent Company Only) - Cash Flows (Details)
+ Sheet
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnlyCashFlowsDetails
+ Schedule I???Condensed Financial Information of Registrant (Parent Company Only) - Cash Flows (Details)
+ Details
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnly
+ 167
+
+ false
+ false
+ R168.htm
+ 9955642 - Disclosure - Schedule I???Condensed Financial Information of Registrant (Parent Company Only) - Narrative (Details)
+ Sheet
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnlyNarrativeDetails
+ Schedule I???Condensed Financial Information of Registrant (Parent Company Only) - Narrative (Details)
+ Details
+ http://www.agm.com/role/ScheduleICondensedFinancialInformationofRegistrantParentCompanyOnly
+ 168
+
+ false
+ false
+ R169.htm
+ 9955643 - Disclosure - Schedule II???Valuation and Qualifying Accounts (Details)
+ Sheet
+ http://www.agm.com/role/ScheduleIIValuationandQualifyingAccountsDetails
+ Schedule II???Valuation and Qualifying Accounts (Details)
+ Details
+ http://www.agm.com/role/ScheduleIIValuationandQualifyingAccounts
+ 169
+
+ false
+ false
+ All Reports
+ Book
+ All Reports
+
+ apo-20241231.htm
+ apo-20241231.xsd
+ apo-20241231_cal.xml
+ apo-20241231_def.xml
+ apo-20241231_lab.xml
+ apo-20241231_pre.xml
+
+ apo-20241231_g1.jpg
+ apo-20241231_g2.jpg
+ apo-20241231_g3.jpg
+ apo-20241231_g4.jpg
+ apo-20241231_g5.jpg
+ apo-20241231_g6.jpg
+ apo-20241231_g7.jpg
+ apo-20241231_g8.jpg
+ apo-20241231_g9.jpg
+
+ http://fasb.org/srt/2024
+ http://fasb.org/us-gaap/2024
+ http://xbrl.sec.gov/cyd/2024
+ http://xbrl.sec.gov/dei/2024
+ http://xbrl.sec.gov/ecd/2024
+
+ true
+ true

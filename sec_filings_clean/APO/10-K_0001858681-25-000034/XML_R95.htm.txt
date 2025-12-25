@@ -1,0 +1,3011 @@
+XML
+125
+R95.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value - Schedule of Level 3 Assets and Liabilities Measured at Fair Value on a Recurring Basis (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Fair value, recurring basis, unobservable input reconciliation, asset, gain (loss) statement of income, extensible list, not disclosed flag
+Included in Income
+
+Included in Income
+
+Fair value, recurring basis, unobservable input reconciliation, liability, gain (loss) statement of income, extensible list, not disclosed flag
+Included in Income
+
+Included in Income
+
+Fair value, recurring basis, unobservable input reconciliation, asset, gain (loss) statement of other comprehensive income, extensible list, not disclosed flag
+Included in OCI
+
+Included in OCI
+
+Fair value, liability, recurring basis still held, unrealized gain (loss), statement of income, extensible list, not disclosed flag
+Total Gains (Losses) Included in Earnings1
+
+Total Gains (Losses) Included in Earnings1
+
+Fair value, asset, recurring basis still held, unrealized gain (loss), statement of income, extensible list, not disclosed flag
+Total Gains (Losses) Included in Earnings1
+
+Asset Management
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+$ 2,693
+
+$ 1,825
+
+Total realized and unrealized gains (losses) included in income
+(39)
+
+132
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+551
+
+738
+
+Net Transfers In (Out)
+134
+
+(2)
+
+Ending Balance
+3,339
+
+2,693
+
+Total Gains (Losses) Included in Earnings
+9
+
+81
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+93
+
+86
+
+Total realized and unrealized gains (losses) included in income
+79
+
+11
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(105)
+
+(4)
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+67
+
+93
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+70,370
+
+45,582
+
+Total realized and unrealized gains (losses) included in income
+(24)
+
+2,485
+
+Total realized and unrealized gains (losses) included in OCI
+(56)
+
+195
+
+Net Purchases, Issuances, Sales and Settlements
+35,588
+
+23,784
+
+Net Transfers In (Out)
+(1,854)
+
+(1,676)
+
+Ending Balance
+104,024
+
+70,370
+
+Total Gains (Losses) Included in Earnings
+(411)
+
+336
+
+Total Gains (Losses) Included in OCI
+(69)
+
+151
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(11,924)
+
+(8,525)
+
+Total realized and unrealized gains (losses) included in income
+(35)
+
+(1,549)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(1,955)
+
+(1,850)
+
+Net Transfers In (Out)
+64
+
+0
+
+Ending Balance
+(13,850)
+
+(11,924)
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+Contingent consideration obligations | Asset Management
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+93
+
+86
+
+Total realized and unrealized gains (losses) included in income
+79
+
+11
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(105)
+
+(4)
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+67
+
+93
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+Embedded derivatives | Retirement Services
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(9,059)
+
+(5,841)
+
+Total realized and unrealized gains (losses) included in income
+(174)
+
+(1,443)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(2,009)
+
+(1,775)
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+(11,242)
+
+(9,059)
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+Universal life benefits | Retirement Services
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(834)
+
+(829)
+
+Total realized and unrealized gains (losses) included in income
+92
+
+(5)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+(742)
+
+(834)
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+AmerUs Life Insurance Company ( AmerUs ) Closed Block | Retirement Services
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(1,178)
+
+(1,164)
+
+Total realized and unrealized gains (losses) included in income
+76
+
+(14)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+(1,102)
+
+(1,178)
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+Indianapolis Life Insurance Company ( ILICO ) Closed Block and life benefits | Retirement Services
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(522)
+
+(548)
+
+Total realized and unrealized gains (losses) included in income
+(16)
+
+26
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+(538)
+
+(522)
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+Derivative liabilities | Retirement Services
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(1)
+
+(1)
+
+Total realized and unrealized gains (losses) included in income
+0
+
+0
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+(1)
+
+(1)
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+Other liabilities | Retirement Services
+
+Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(330)
+
+(142)
+
+Total realized and unrealized gains (losses) included in income
+(13)
+
+(113)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+54
+
+(75)
+
+Net Transfers In (Out)
+64
+
+0
+
+Ending Balance
+(225)
+
+(330)
+
+Total gains (losses) included in earnings
+0
+
+0
+
+Total gains (losses) included in OCI
+0
+
+0
+
+Investments and derivative assets | Asset Management
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+1,201
+
+Total realized and unrealized gains (losses) included in income
+(24)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(28)
+
+40
+
+Net Transfers In (Out)
+(68)
+
+0
+
+Ending Balance
+1,081
+
+1,201
+
+Total Gains (Losses) Included in Earnings
+26
+
+Total Gains (Losses) Included in OCI
+0
+
+Investments, at fair value | Asset Management
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+1,201
+
+1,098
+
+Total realized and unrealized gains (losses) included in income
+
+63
+
+Total realized and unrealized gains (losses) included in OCI
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+
+40
+
+Net Transfers In (Out)
+
+0
+
+Ending Balance
+
+1,201
+
+Total Gains (Losses) Included in Earnings
+
+68
+
+Total Gains (Losses) Included in OCI
+
+0
+
+Investments, at fair value | VIE, Primary Beneficiary | Asset Management
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+1,492
+
+727
+
+Total realized and unrealized gains (losses) included in income
+(15)
+
+69
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+579
+
+698
+
+Net Transfers In (Out)
+202
+
+(2)
+
+Ending Balance
+2,258
+
+1,492
+
+Total Gains (Losses) Included in Earnings
+(17)
+
+13
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Foreign governments | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+40
+
+1
+
+Total realized and unrealized gains (losses) included in income
+0
+
+0
+
+Total realized and unrealized gains (losses) included in OCI
+1
+
+(2)
+
+Net Purchases, Issuances, Sales and Settlements
+(12)
+
+41
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+29
+
+40
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+1
+
+(2)
+
+Corporate | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+2,525
+
+1,665
+
+Total realized and unrealized gains (losses) included in income
+(20)
+
+(21)
+
+Total realized and unrealized gains (losses) included in OCI
+36
+
+45
+
+Net Purchases, Issuances, Sales and Settlements
+2,815
+
+1,298
+
+Net Transfers In (Out)
+(1,035)
+
+(462)
+
+Ending Balance
+4,321
+
+2,525
+
+Total Gains (Losses) Included in Earnings
+(18)
+
+0
+
+Total Gains (Losses) Included in OCI
+38
+
+21
+
+Corporate | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+1,171
+
+812
+
+Total realized and unrealized gains (losses) included in income
+(2)
+
+3
+
+Total realized and unrealized gains (losses) included in OCI
+40
+
+(32)
+
+Net Purchases, Issuances, Sales and Settlements
+53
+
+173
+
+Net Transfers In (Out)
+(154)
+
+215
+
+Ending Balance
+1,108
+
+1,171
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+24
+
+(32)
+
+CLO | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+506
+
+303
+
+Total realized and unrealized gains (losses) included in income
+0
+
+0
+
+Total realized and unrealized gains (losses) included in OCI
+13
+
+18
+
+Net Purchases, Issuances, Sales and Settlements
+177
+
+185
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+696
+
+506
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+14
+
+18
+
+ABS | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+6,943
+
+4,867
+
+Total realized and unrealized gains (losses) included in income
+47
+
+(9)
+
+Total realized and unrealized gains (losses) included in OCI
+(128)
+
+61
+
+Net Purchases, Issuances, Sales and Settlements
+9,812
+
+3,241
+
+Net Transfers In (Out)
+(145)
+
+(1,217)
+
+Ending Balance
+16,529
+
+6,943
+
+Total Gains (Losses) Included in Earnings
+(3)
+
+0
+
+Total Gains (Losses) Included in OCI
+(130)
+
+45
+
+ABS | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+7,826
+
+5,542
+
+Total realized and unrealized gains (losses) included in income
+48
+
+19
+
+Total realized and unrealized gains (losses) included in OCI
+(12)
+
+103
+
+Net Purchases, Issuances, Sales and Settlements
+1,879
+
+1,878
+
+Net Transfers In (Out)
+0
+
+284
+
+Ending Balance
+9,741
+
+7,826
+
+Total Gains (Losses) Included in Earnings
+0
+
+6
+
+Total Gains (Losses) Included in OCI
+(14)
+
+96
+
+CMBS | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+21
+
+0
+
+Total realized and unrealized gains (losses) included in income
+3
+
+0
+
+Total realized and unrealized gains (losses) included in OCI
+(5)
+
+1
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+0
+
+Net Transfers In (Out)
+(19)
+
+20
+
+Ending Balance
+0
+
+21
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+0
+
+3
+
+RMBS | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+265
+
+232
+
+Total realized and unrealized gains (losses) included in income
+8
+
+8
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+4
+
+Net Purchases, Issuances, Sales and Settlements
+83
+
+256
+
+Net Transfers In (Out)
+(100)
+
+(235)
+
+Ending Balance
+256
+
+265
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+(1)
+
+2
+
+Trading securities | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+28
+
+53
+
+Total realized and unrealized gains (losses) included in income
+1
+
+2
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(21)
+
+(16)
+
+Net Transfers In (Out)
+14
+
+(11)
+
+Ending Balance
+22
+
+28
+
+Total Gains (Losses) Included in Earnings
+(1)
+
+0
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Trading securities | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+838
+
+878
+
+Total realized and unrealized gains (losses) included in income
+(1)
+
+12
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(264)
+
+(52)
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+573
+
+838
+
+Total Gains (Losses) Included in Earnings
+(3)
+
+8
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Trading securities | VIE, Primary Beneficiary | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+1,852
+
+622
+
+Total realized and unrealized gains (losses) included in income
+(80)
+
+69
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+50
+
+(116)
+
+Net Transfers In (Out)
+132
+
+1,277
+
+Ending Balance
+1,954
+
+1,852
+
+Total Gains (Losses) Included in Earnings
+(87)
+
+69
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Equity securities | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+26
+
+92
+
+Total realized and unrealized gains (losses) included in income
+0
+
+(8)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+1
+
+(45)
+
+Net Transfers In (Out)
+0
+
+(13)
+
+Ending Balance
+27
+
+26
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Equity securities | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+255
+
+279
+
+Total realized and unrealized gains (losses) included in income
+(16)
+
+8
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(5)
+
+(32)
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+234
+
+255
+
+Total Gains (Losses) Included in Earnings
+(15)
+
+7
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Mortgage loans | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+44,115
+
+27,454
+
+Total realized and unrealized gains (losses) included in income
+(192)
+
+183
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+19,316
+
+16,478
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+63,239
+
+44,115
+
+Total Gains (Losses) Included in Earnings
+(145)
+
+184
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Mortgage loans | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+1,281
+
+1,302
+
+Total realized and unrealized gains (losses) included in income
+17
+
+9
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+(1)
+
+(30)
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+1,297
+
+1,281
+
+Total Gains (Losses) Included in Earnings
+17
+
+8
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Mortgage loans | VIE, Primary Beneficiary | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+2,173
+
+2,055
+
+Total realized and unrealized gains (losses) included in income
+(62)
+
+(9)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+447
+
+127
+
+Net Transfers In (Out)
+21
+
+0
+
+Ending Balance
+2,579
+
+2,173
+
+Total Gains (Losses) Included in Earnings
+(64)
+
+(9)
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Investment funds | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+1,082
+
+959
+
+Total realized and unrealized gains (losses) included in income
+(49)
+
+91
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+106
+
+32
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+1,139
+
+1,082
+
+Total Gains (Losses) Included in Earnings
+(49)
+
+91
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Investment funds | VIE, Primary Beneficiary | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+977
+
+2,471
+
+Total realized and unrealized gains (losses) included in income
+(68)
+
+(30)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+331
+
+73
+
+Net Transfers In (Out)
+(470)
+
+(1,537)
+
+Ending Balance
+770
+
+977
+
+Total Gains (Losses) Included in Earnings
+(16)
+
+(31)
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Embedded derivatives | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(3,379)
+
+(4,847)
+
+Total realized and unrealized gains (losses) included in income
+344
+
+1,468
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+(3,035)
+
+(3,379)
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Embedded derivatives | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+(721)
+
+(1,425)
+
+Total realized and unrealized gains (losses) included in income
+106
+
+704
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+(615)
+
+(721)
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Funds withheld at interest embedded derivative | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+0
+
+Total realized and unrealized gains (losses) included in income
+0
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+Net Transfers In (Out)
+1
+
+Ending Balance
+1
+
+0
+
+Total Gains (Losses) Included in Earnings
+0
+
+Total Gains (Losses) Included in OCI
+0
+
+Short-term investments | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+105
+
+36
+
+Total realized and unrealized gains (losses) included in income
+(1)
+
+0
+
+Total realized and unrealized gains (losses) included in OCI
+(1)
+
+(3)
+
+Net Purchases, Issuances, Sales and Settlements
+145
+
+69
+
+Net Transfers In (Out)
+(79)
+
+3
+
+Ending Balance
+169
+
+105
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+(1)
+
+0
+
+Other investments | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+630
+
+441
+
+Total realized and unrealized gains (losses) included in income
+(24)
+
+0
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+289
+
+189
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+895
+
+630
+
+Total Gains (Losses) Included in Earnings
+(6)
+
+(3)
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Other investments | Related Party | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+343
+
+303
+
+Total realized and unrealized gains (losses) included in income
+(12)
+
+(2)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+0
+
+42
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+331
+
+343
+
+Total Gains (Losses) Included in Earnings
+(12)
+
+(3)
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Other investments | VIE, Primary Beneficiary | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+101
+
+99
+
+Total realized and unrealized gains (losses) included in income
+(10)
+
+9
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+32
+
+(7)
+
+Net Transfers In (Out)
+(20)
+
+0
+
+Ending Balance
+103
+
+101
+
+Total Gains (Losses) Included in Earnings
+(9)
+
+9
+
+Total Gains (Losses) Included in OCI
+0
+
+0
+
+Reinsurance recoverable | Retirement Services
+
+Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+Beginning Balance
+1,367
+
+1,388
+
+Total realized and unrealized gains (losses) included in income
+(61)
+
+(21)
+
+Total realized and unrealized gains (losses) included in OCI
+0
+
+0
+
+Net Purchases, Issuances, Sales and Settlements
+355
+
+0
+
+Net Transfers In (Out)
+0
+
+0
+
+Ending Balance
+1,661
+
+1,367
+
+Total Gains (Losses) Included in Earnings
+0
+
+0
+
+Total Gains (Losses) Included in OCI
+$ 0
+
+$ 0
+
+X
+
+- DefinitionFair Value, Asset, Recurring Basis Still Held, Unrealized Gain (Loss), Statement Of Income, Extensible List, Not Disclosed Flag
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueAssetRecurringBasisStillHeldUnrealizedGainLossStatementOfIncomeExtensibleListNotDisclosedFlag
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Liability, Recurring Basis Still Held, Unrealized Gain (Loss), Statement Of Income, Extensible List, Not Disclosed Flag
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueLiabilityRecurringBasisStillHeldUnrealizedGainLossStatementOfIncomeExtensibleListNotDisclosedFlag
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Recurring Basis, Unobservable Input Reconciliation, Asset, Gain (Loss) Statement Of Income, Extensible List, Not Disclosed Flag
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueRecurringBasisUnobservableInputReconciliationAssetGainLossStatementOfIncomeExtensibleListNotDisclosedFlag
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Recurring Basis, Unobservable Input Reconciliation, Asset, Gain (Loss) Statement Of Other Comprehensive Income, Extensible List, Not Disclosed Flag
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueRecurringBasisUnobservableInputReconciliationAssetGainLossStatementOfOtherComprehensiveIncomeExtensibleListNotDisclosedFlag
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Recurring Basis, Unobservable Input Reconciliation, Liability, Gain (Loss) Statement Of Income, Extensible List, Not Disclosed Flag
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueRecurringBasisUnobservableInputReconciliationLiabilityGainLossStatementOfIncomeExtensibleListNotDisclosedFlag
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) recognized in other comprehensive income (OCI) from asset measured at fair value on recurring basis using unobservable input (level 3) and still held.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetRecurringBasisStillHeldUnrealizedGainLossOci
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) recognized in income from asset measured at fair value on recurring basis using unobservable input (level 3) and still held.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 102
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-102
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsMeasuredOnRecurringBasisChangeInUnrealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsMeasuredOnRecurringBasisUnobservableInputReconciliationCalculationRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) recognized in income from liability measured at fair value on recurring basis using unobservable input (level 3) and still held.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueLiabilitiesMeasuredOnRecurringBasisChangeInUnrealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueLiabilitiesMeasuredOnRecurringBasisUnobservableInputReconciliationCalculationRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) recognized in other comprehensive income (OCI) from liability measured at fair value on recurring basis using unobservable input (level 3) and still held.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueLiabilityRecurringBasisStillHeldUnrealizedGainLossOci
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) recognized in income from asset measured at fair value on recurring basis using unobservable input (level 3).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 102
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-102
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetGainLossIncludedInEarnings1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) recognized in other comprehensive income (OCI) from asset measured at fair value on recurring basis using unobservable input (level 3).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(1a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetGainLossIncludedInOtherComprehensiveIncomeLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of purchases, (sales), issuances and (settlements) of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetPurchasesSalesIssuancesSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfer of financial instrument classified as an asset into (out of) level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of financial instrument classified as an asset measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 101
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-101
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of gain (loss) recognized in income from liability measured at fair value on recurring basis using unobservable input (level 3).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityGainLossIncludedInEarnings
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) recognized in other comprehensive income (OCI) from liability measured at fair value on recurring basis using unobservable input (level 3).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(1a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityGainLossIncludedInOtherComprehensiveIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of purchases, (sales), issuances and (settlements) of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityPurchasesSalesIssuancesSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as a liability into (out of) level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityTransfersNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationsRecurringBasisLiabilityValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=apo_AssetManagementSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=apo_RetirementServicesSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=apo_ContingentConsiderationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_EmbeddedDerivativeFinancialInstrumentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_UniversalLifeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=apo_AmerUsLifeInsuranceCompanyAmerUsClosedBlockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=apo_IndianapolisLifeInsuranceCompanyILICOClosedBlockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_DerivativeFinancialInstrumentsLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_OtherLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=apo_InvestmentsAndDerivativeAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_InvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=us-gaap_VariableInterestEntityPrimaryBeneficiaryMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_ForeignGovernmentDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_AssetBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_CommercialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_ResidentialMortgageBackedSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_TradingAssetsExcludingDebtAndEquitySecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_EquitySecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_LoansReceivableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=apo_InvestmentFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_EmbeddedDerivativeFinancialInstrumentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_DerivativeFinancialInstrumentsAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_ShortTermInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_OtherInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_ReinsuranceRecoverableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

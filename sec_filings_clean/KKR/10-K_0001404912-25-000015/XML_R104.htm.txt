@@ -1,0 +1,768 @@
+XML
+126
+R104.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DERIVATIVES - Offsetting Assets and Liabilities (Details) - Insurance - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Derivative Assets (Excluding Embedded Derivatives)
+
+Gross Amount Recognized
+$ 2,346,562
+
+$ 1,855,023
+
+Gross Amounts Offset in the Statements of Financial Position
+(2,285,211)
+
+(1,809,329)
+
+Net Amounts Presented in the Statements of Financial Condition
+61,351
+
+45,694
+
+Collateral (Received) / Pledged
+(157,782)
+
+(45,095)
+
+Net Amount after Collateral
+(96,431)
+
+599
+
+Derivative Liabilities (Excluding Embedded Derivatives)
+
+Gross Amount Recognized
+1,299,370
+
+1,057,277
+
+Gross Amounts Offset in the Statements of Financial Position
+(910,183)
+
+(911,080)
+
+Net Amounts Presented in the Statements of Financial Condition
+389,187
+
+146,197
+
+Collateral (Received) / Pledged
+504,665
+
+167,973
+
+Net Amount after Collateral
+$ (115,478)
+
+$ (21,776)
+
+X
+
+- DefinitionFair value of liability associated with financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-8
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column F))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssetFairValueGrossLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssetFairValueNetAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of obligation to return cash collateral under master netting arrangements that have not been offset against derivative assets.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-13
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-20
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (d)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-8
+
++ Details
+
+ Name:
+us-gaap_DerivativeCollateralObligationToReturnCash
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of right to receive cash collateral under master netting arrangements that have not been offset against derivative liabilities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-13
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-20
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (d)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-8
+
++ Details
+
+ Name:
+us-gaap_DerivativeCollateralRightToReclaimCash
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, before effects of master netting arrangements, of a financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes assets elected not to be offset. Excludes assets not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-7
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4D
+ -Subparagraph (c)(2)
+ -SubTopic 20
+ -Topic 860
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481326/860-20-50-4D
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeAsset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after offset of derivative liability, of financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset, before offset against an obligation to return collateral under a master netting arrangement. Includes assets elected not to be offset. Excludes assets not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-9
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-8
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeAssetAmountNotOffsetAgainstCollateral
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after effect of master netting arrangement and deduction of obligation to return financial collateral not offset and financial instrument subject to master netting arrangement not offset, of financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and contract can be net settled by means outside contract or delivery of asset. Includes derivative not subject to master netting arrangement or similar agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-13
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-8
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeAssetAmountOffsetAgainstCollateral
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, before effects of master netting arrangements, of a financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes liabilities elected not to be offset. Excludes liabilities not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-7
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4D
+ -Subparagraph (c)(2)
+ -SubTopic 20
+ -Topic 860
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481326/860-20-50-4D
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after offset of derivative asset, of financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset, elected not to be and before offset against a right to receive collateral under a master netting arrangement. Includes liabilities elected not to be offset. Excludes liabilities not subject to a master netting arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-9
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-8
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeLiabilityAmountNotOffsetAgainstCollateral
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after effect of master netting arrangement and deduction of obligation to return financial collateral not offset and financial instrument subject to master netting arrangement not offset, of financial liability or contract with one or more underlyings, notional amount or payment provision or both, and contract can be net settled by means outside contract or delivery of asset. Includes derivative not subject to master netting arrangement or similar agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-13
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-8
+
++ Details
+
+ Name:
+us-gaap_DerivativeFairValueOfDerivativeLiabilityAmountOffsetAgainstCollateral
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of asset associated with financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-8
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column F))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-20
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilityFairValueGrossAsset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilityFairValueNetAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

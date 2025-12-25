@@ -1,0 +1,181 @@
+XML
+132
+R103.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Schedule of Shares Eligible For Dividends and Distribution (Detail)
+
+Dec. 31, 2024
+
+shares
+
+Stockholders Equity [Line Items]
+
+Common stock eligible for dividends and distributions
+768,722,241
+
+Shares eligible for dividends and distributions
+1,221,171,137
+
+Common Stock
+
+Stockholders Equity [Line Items]
+
+Common stock eligible for dividends and distributions
+731,925,965
+
+Unvested Participating Common Stock
+
+Stockholders Equity [Line Items]
+
+Common stock eligible for dividends and distributions
+36,796,276
+
+Participating Partnership Units
+
+Stockholders Equity [Line Items]
+
+Participating Blackstone Holdings Partnership Units
+452,448,896
+
+X
+
+- DefinitionCommon stock eligible for dividends and distributions.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_CommonStockEligibleForDividendsAndDistributions
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPartnership units eligible for dividends and distributions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PartnershipUnitsEligibleForDividendsAndDistributions
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionShares eligible for dividends and distributions.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_SharesEligibleForDividendsAndDistributions
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionStockholders Equity [Line Items]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_StockholdersEquityLineItems
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=us-gaap_CommonStockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=bx_UnvestedParticipatingCommonStockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=bx_ParticipatingPartnershipUnitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

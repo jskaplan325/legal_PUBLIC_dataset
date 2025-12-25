@@ -1,0 +1,224 @@
+XML
+65
+R42.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Earnings Per Common Share (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Earnings Per Share [Abstract]
+
+Summary of basic and diluted net income per common unit
+Basic and diluted net income (loss) per common share are calculated as follows:
+
+ Year Ended December 31, 2024
+
+ Year Ended December 31, 2023
+
+ Year Ended December 31, 2022
+
+ Basic
+
+ Diluted
+
+ Basic
+
+ Diluted
+
+ Basic
+
+ Diluted
+
+Net income (loss) attributable to
+common shares
+
+ $1,020,400,000
+
+ $1,020,400,000
+
+ $(608,400,000)
+
+ $(608,400,000)
+
+ $1,225,000,000
+
+ $1,225,000,000
+
+Weighted-average common shares
+outstanding
+
+ 358,584,203
+
+ 368,024,612
+
+ 361,395,823
+
+ 361,395,823
+
+ 361,278,064
+
+ 365,707,722
+
+Net income (loss) per common share
+
+ $2.85
+
+ $2.77
+
+ $(1.68)
+
+ $(1.68)
+
+ $3.39
+
+ $3.35
+
+Summary of weighted-average common units outstanding, basic and diluted
+The weighted-average common shares outstanding, basic and diluted, are calculated as follows:
+
+ Year Ended December 31, 2024
+
+ Year Ended December 31, 2023
+
+ Year Ended December 31, 2022
+
+ Basic
+
+ Diluted
+
+ Basic
+
+ Diluted
+
+ Basic
+
+ Diluted
+
+The Carlyle Group Inc. weighted-average
+common shares outstanding
+
+ 358,584,203
+
+ 358,584,203
+
+ 361,395,823
+
+ 361,395,823
+
+ 361,278,064
+
+ 361,278,064
+
+Unvested restricted stock units
+
+ 6,685,145
+
+ 2,394,372
+
+Issuable common shares and performance-
+vesting restricted stock units
+
+ 2,755,264
+
+ 2,035,286
+
+Weighted-average common shares outstanding
+
+ 358,584,203
+
+ 368,024,612
+
+ 361,395,823
+
+ 361,395,823
+
+ 361,278,064
+
+ 365,707,722
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EarningsPerShareAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of an entity's basic and diluted earnings per share calculations, including a reconciliation of numerators and denominators of the basic and diluted per-share computations for income from continuing operations.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEarningsPerShareBasicAndDilutedTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the weighted average number of shares used in calculating basic net earnings per share (or unit) and diluted earnings per share (or unit).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 260
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfWeightedAverageNumberOfSharesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

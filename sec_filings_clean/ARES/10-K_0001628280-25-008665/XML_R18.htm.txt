@@ -1,0 +1,285 @@
+XML
+90
+R18.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INCOME TAXES
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Income Tax Disclosure [Abstract]
+
+INCOME TAXES
+10. INCOME TAXES
+
+The Company s effective income tax rate is dependent on many factors, including the estimated nature and amounts of income and expenses allocated to the non-controlling interests without being subject to federal, state and local income taxes at the corporate level. Additionally, the Company s effective tax rate is influenced by the amount of income tax provision recorded for any affiliated funds and co-investment vehicles that are consolidated in the Company s consolidated financial statements.
+The Company files its tax returns as prescribed by the tax laws of the jurisdictions in which it operates. In the normal course of business, the Company is subject to examination by U.S. federal, state, local and foreign tax authorities. With limited exceptions, the Company is no longer subject to income tax audits by taxing authorities for any years prior to 2021. Although the outcome of tax audits is always uncertain, the Company does not believe the outcome of any future audit will have a material adverse effect on the Company s consolidated financial statements.
+
+The provision for income taxes attributable to the Company and the Consolidated Funds, consisted of the following:
+
+ Year ended December 31,
+Provision for Income Taxes 2024 2023 2022
+The Company
+Current:
+U.S. federal income tax expense $ 63,292 $ 34,051 $ 42,452
+State and local income tax expense 14,326 13,316 7,614
+Foreign income tax expense 24,841 24,029 14,119
+ 102,459 71,396 64,185
+Deferred:
+U.S. federal income tax expense 50,182 85,610 10,660
+State and local income tax expense 7,819 15,872 2,131
+Foreign income tax benefit (2,917) (3,730) (5,416)
+ 55,084 97,752 7,375
+Total:
+U.S. federal income tax expense 113,474 119,661 53,112
+State and local income tax expense 22,145 29,188 9,745
+Foreign income tax expense 21,924 20,299 8,703
+Income tax expense 157,543 169,148 71,560
+
+Consolidated Funds
+Current:
+
+Foreign income tax expense (benefit) (1,331) 3,823 331
+ (1,331) 3,823 331
+Deferred:
+U.S. federal income tax expense 8,405
+
+ 8,405
+Total:
+U.S. federal income tax expense 8,405
+
+Foreign income tax expense (benefit) (1,331) 3,823 331
+Income tax expense 7,074 3,823 331
+
+Total Provision for Income Taxes
+Total current income tax expense 101,128 75,219 64,516
+Total deferred income tax expense 63,489 97,752 7,375
+Income tax expense $ 164,617 $ 172,971 $ 71,891
+
+ The effective income tax rate differed from the federal statutory rate for the following reasons:
+
+ Year ended December 31,
+ 2024 2023 2022
+Income tax expense at federal statutory rate 21.0% 21.0% 21.0%
+Income passed through to non-controlling interests (9.3) (9.6) (8.9)
+State and local taxes, net of federal benefit 1.4 1.7 2.2
+Foreign taxes (0.7) (0.7) (1.4)
+Permanent items 0.1 0.2 0.6
+Disallowed executive compensation 0.3 0.2 0.1
+Other, net 0.1 0.3 0.3
+Valuation allowance (0.1) 0.2
+Total effective rate 12.9% 13.0% 14.1%
+
+Deferred Taxes
+The income tax effects of temporary differences that give rise to significant portions of deferred tax assets and liabilities were as follows as of December 31, 2024 and 2023. Deferred tax assets, net are included within other assets within the Consolidated Statements of Financial Condition.
+
+ As of December 31,
+Deferred Tax Assets and Liabilities of the Company 2024 2023
+Deferred tax assets
+Amortizable tax basis for AOG Unit exchanges $ 451,343 $ 205,627
+
+Net operating losses and capital loss carryforwards 1,888 1,829
+Other, net 9,793 6,511
+Total gross deferred tax assets 463,024 213,967
+Valuation allowance (941) (942)
+Total net deferred tax assets 462,083 213,025
+Deferred tax liabilities
+Investment in partnerships (220,189) (191,476)
+
+Total deferred tax liabilities (220,189) (191,476)
+Deferred tax assets, net $ 241,894 $ 21,549
+
+ As of December 31,
+Deferred Tax Assets and Liabilities of the Consolidated Funds 2024 2023
+Deferred tax assets
+Net operating losses $ 7,932 $ 2,598
+
+Total gross deferred tax assets 7,932 2,598
+Valuation allowance (1,229) (2,598)
+Total net deferred tax assets 6,703
+Deferred tax liabilities
+Investments in partnerships (15,108)
+Total deferred tax liabilities (15,108)
+Deferred tax assets (liabilities), net $ (8,405) $
+
+In assessing the realizability of deferred tax assets, the Company considers whether it is probable that some or all of the deferred tax assets will not be realized. In determining whether the deferred taxes are realizable, the Company considers the period of expiration of the tax asset, historical and projected taxable income, and tax liabilities for the tax jurisdiction in which the tax asset is located. Valuation allowances are provided to reduce the amounts of deferred tax assets to an amount that is more likely than not to be realized based on an assessment of positive and negative evidence, including estimates of future taxable income necessary to realize future deductible amounts.
+The Company s income tax provision includes corporate income taxes and other entity level income taxes, as well as income taxes incurred by Consolidated Funds.
+As of December 31, 2024 and 2023, the valuation allowance for the Company s deferred tax assets was $0.9 million. The deferred tax assets related to operating losses in foreign jurisdictions and certain capital loss carryforwards do not meet the more likely than not threshold and have a valuation allowance recorded for the net balance.
+
+As of December 31, 2024 and 2023, the Company had $36.4 million and $10.6 million, respectively, of net operating loss ( NOL ) carryforwards and other tax attributes related to its Consolidated Funds available to reduce future income taxes for which a full valuation allowance has been provided. The NOL carryforwards generally have no expiry.
+
+As of, and for the years ended December 31, 2024, 2023 and 2022, the Company had no significant uncertain tax positions.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for income tax.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 231
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-231
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12C
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12B
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 270
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477891/740-270-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 6.I.5.Q1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479360/740-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-13
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(h)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/740/tableOfContent
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-14
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 21
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-21
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 17
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-17
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SAB Topic 11.C)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479360/740-10-S99-2
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482603/740-30-50-2
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

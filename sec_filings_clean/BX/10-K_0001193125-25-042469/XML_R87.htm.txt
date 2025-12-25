@@ -1,0 +1,1093 @@
+XML
+116
+R87.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Carrying Value and Fair Value of Blackstone Issued Notes (Parenthetical) (Detail)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+2.000% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+2.00%
+
+[1]
+
+Debt instrument, maturity date
+May 19, 2025
+
+[1]
+
+1.000% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+1.00%
+
+[1]
+
+Debt instrument, maturity date
+Oct. 05, 2026
+
+[1]
+
+3.150% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+3.15%
+
+[1]
+
+Debt instrument, maturity date
+Oct. 02, 2027
+
+[1]
+
+5.900% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+5.90%
+
+[1]
+
+Debt instrument, maturity date
+Nov. 03, 2027
+
+[1]
+
+1.625% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+1.625%
+
+[1]
+
+Debt instrument, maturity date
+Aug. 05, 2028
+
+[1]
+
+1.500% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+1.50%
+
+[1]
+
+Debt instrument, maturity date
+Apr. 10, 2029
+
+[1]
+
+2.500% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+2.50%
+
+[1]
+
+Debt instrument, maturity date
+Jan. 10, 2030
+
+[1]
+
+1.600% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+1.60%
+
+[1]
+
+Debt instrument, maturity date
+Mar. 30, 2031
+
+[1]
+
+2.000% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+2.00%
+
+[1]
+
+Debt instrument, maturity date
+Jan. 30, 2032
+
+[1]
+
+2.550% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+2.55%
+
+[1]
+
+Debt instrument, maturity date
+Mar. 30, 2032
+
+[1]
+
+6.200% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+6.20%
+
+[1]
+
+Debt instrument, maturity date
+Apr. 22, 2033
+
+[1]
+
+3.500% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+3.50%
+
+[1]
+
+Debt instrument, maturity date
+Jun. 01, 2034
+
+[1]
+
+5.000% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+5.00%
+
+[1]
+
+Debt instrument, maturity date
+Dec. 06, 2034
+
+[1]
+
+6.250% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+6.25%
+
+[1]
+
+Debt instrument, maturity date
+Aug. 15, 2042
+
+[1]
+
+5.000% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+5.00%
+
+[1]
+
+Debt instrument, maturity date
+Jun. 15, 2044
+
+[1]
+
+4.450% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+4.45%
+
+[1]
+
+Debt instrument, maturity date
+Jul. 15, 2045
+
+[1]
+
+4.000% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+4.00%
+
+[1]
+
+Debt instrument, maturity date
+Oct. 02, 2047
+
+[1]
+
+3.500% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+3.50%
+
+[1]
+
+Debt instrument, maturity date
+Sep. 10, 2049
+
+[1]
+
+2.800% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+2.80%
+
+[1]
+
+Debt instrument, maturity date
+Sep. 30, 2050
+
+[1]
+
+2.850% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+2.85%
+
+[1]
+
+Debt instrument, maturity date
+Aug. 05, 2051
+
+[1]
+
+3.200% Notes | Senior Secured Notes
+
+Debt Instrument [Line Items]
+
+Debt instrument, interest rate
+3.20%
+
+[1]
+
+Debt instrument, maturity date
+Jan. 30, 2052
+
+[1]
+
+Secured Borrowings One
+
+Debt Instrument [Line Items]
+
+Debt instrument, maturity date
+Oct. 27, 2033
+
+Secured Borrowings Two
+
+Debt Instrument [Line Items]
+
+Debt instrument, maturity date
+Jan. 29, 2035
+
+[1]
+Fair value is determined by broker quote and these notes would be classified as Level II within the fair value hierarchy.
+
+X
+
+- DefinitionContractual interest rate for funds borrowed, under the debt agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(a)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentInterestRateStatedPercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482949/835-30-55-8
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(f))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-04(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69B
+
+Reference 6: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69C
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69E
+
+Reference 8: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 69F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481568/470-20-55-69F
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 11: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1E
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1E
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1E
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1E
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1E
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1E
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1I
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1I
+
+Reference 26: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
+Reference 27: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482900/835-30-50-1
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDate when the debt instrument is scheduled to be fully repaid, in YYYY-MM-DD format.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentMaturityDate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:dateItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LongtermDebtTypeAxis=us-gaap_SeniorNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointOneFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointNineZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointSixTwoFivePercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointFiveZeroZeroMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointFiveZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointSixZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointZeroZeroZero1PercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointFiveFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SixPointTwoZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointFiveZeroZeroPercentNoteMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SixPointTwoFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointZeroZeroZero1PercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FourPointFourFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FourPointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointFiveZeroZeroPercentNotesOneMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointEightZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointEightFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointTwoZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SecuredBorrowingsOneMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SecuredBorrowingsTwoMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,186 @@
+XML
+44
+R14.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Variable Interest Entities
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+Variable Interest Entities
+6. Variable Interest Entities
+
+A variable interest in a VIE is an investment or other interest that will absorb portions of the VIE s expected losses and/or receive expected residual returns. Variable interests in consolidated VIEs and unconsolidated VIEs are discussed separately below.
+
+Consolidated VIEs
+
+Consolidated VIEs include certain CLOs and funds managed by the Company and other entities where the Company is deemed the primary beneficiary. In addition, during 2023 and 2022, consolidated VIEs also included SPACs which were liquidated during the fourth quarter of 2023. See note 18 for further details regarding Apollo s previously consolidated SPACs.
+
+The assets of consolidated VIEs are not available to creditors of the Company, and the investors in these consolidated VIEs have no recourse against the assets of the Company. Similarly, there is no recourse to the Company for the consolidated VIEs liabilities.
+
+Other assets of the consolidated VIEs include interest receivables, receivables from affiliates and reverse repurchase agreements. Other liabilities include debt and short-term payables.
+
+Each series of notes in a respective consolidated VIE participates in distributions from the VIE, including principal and interest from underlying investments. Amounts allocated to the noteholders reflect amounts that would be distributed if the VIE s affairs were wound up and its assets sold for cash equal to their respective carrying values, its liabilities satisfied in accordance with their terms, and all the remaining amounts distributed to the noteholders. The respective VIEs that issue the notes payable are marked at their prevailing net asset value, which approximates fair value.
+
+Results from certain funds managed by Apollo are reported on a three-month lag based upon the availability of financial information.
+
+Net Gains (Losses) from Investment Activities of Consolidated Variable Interest Entities Asset Management
+
+The following table presents net gains (losses) from investment activities of the consolidated VIEs:
+
+ Years ended December 31,
+(In millions) 20241
+ 20231
+ 20221
+
+Net gains (losses) from investment activities $ 39 $ 67 $ 93
+Net gains (losses) from debt (8) 144
+
+Interest and other income 172 176 354
+Interest and other expenses (113) (113) (97)
+Net gains (losses) from investment activities of consolidated variable interest entities $ 90 $ 130 $ 494
+
+1 Amounts reflect consolidation eliminations.
+
+In addition, we recognize revenues and expenses of certain consolidated VIEs within management fees, investment income (loss), compensation and benefits and general, administrative and other. For the year ended December 31, 2024, the Company recorded $51 million of revenues and $77 million of expenses related to the activities of these VIEs. For the year ended December 31, 2023, the Company recorded $22 million of revenues and $5 million of expenses related to the activities of these VIEs.
+Subscription Lines
+
+Included within other liabilities are amounts due to third-party institutions by the consolidated VIEs. The following table summarizes the principal provisions of those amounts:
+
+ December 31, 2024 December 31, 2023
+(In millions, except percentages) Principal Outstanding Weighted Average Interest Rate Weighted Average Remaining Maturity in Years Principal Outstanding Weighted Average Interest Rate Weighted Average Remaining Maturity in Years
+Asset Management
+
+Subscription lines1
+ $ 1,198 6.84 % 0.06 $ 1,072 7.16 % 0.09
+
+Total Asset Management
+ $ 1,198 $ 1,072
+
+1 The subscription lines of the consolidated VIEs are collateralized by assets held by each respective vehicle and assets of one vehicle may not be used to satisfy the liabilities of another vehicle.
+
+The consolidated VIEs debt obligations contain various customary loan covenants. As of December 31, 2024, the Company was not aware of any instances of non-compliance with any of these covenants.
+
+Reverse Repurchase Agreements
+
+As of December 31, 2023, fair value of collateral received under reverse repurchase agreements was $453 million. There was no rehypothecation of the collateral received under reverse repurchase agreements as of December 31, 2023.
+
+Revenues of Consolidated Variable Interest Entities Retirement Services
+
+The following summarizes the statements of operations activity of the consolidated VIEs:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Trading securities $ 152 $ 102 $ 34
+
+Mortgage loans 128 110 88
+Investment funds 46 41 9
+Other (22) 1 (10)
+Net investment income 304 254 121
+
+Net recognized investment gains (losses) on trading securities
+ 17 10 (66)
+Net recognized investment losses on mortgage loans
+ (35) (22) (250)
+Net recognized investment gains on investment funds
+ 1,542 1,228 552
+Other gains (losses)
+ (6) (29) 83
+Investment related gains (losses) 1,518 1,187 319
+Revenues of consolidated variable interest entities $ 1,822 $ 1,441 $ 440
+
+Unconsolidated Variable Interest Entities Asset Management
+
+The following table presents the maximum exposure to losses relating to these VIEs for which Apollo has concluded that it holds a significant variable interest, but that it is not the primary beneficiary.
+
+(In millions) December 31, 2024 December 31, 2023
+Maximum Loss Exposure1,2
+ $ 614 $ 325
+
+1 Represents Apollo s direct investment in those entities in which it holds a significant variable interest and certain other investments. Additionally, cumulative performance allocations are subject to reversal in the event of future losses.
+
+2 Some amounts included are a quarter in arrears.
+
+Unconsolidated Variable Interest Entities Retirement Services
+
+Athene has variable interests in certain unconsolidated VIEs in the form of securities and ownership stakes in investment funds.
+
+Fixed maturity securities
+
+Athene invests in securitization entities as a debt holder or an investor in the residual interest of the securitization vehicle. These entities are deemed VIEs due to insufficient equity within the structure and lack of control by the equity investors over the activities that significantly impact the economics of the entity. In general, Athene is a debt investor within these entities and, as such, holds a variable interest; however, due to the debt holders lack of ability to control the decisions within the structure that significantly impact the entity, and the fact the debt holders are protected from losses due to the subordination of the equity tranche, the debt holders are not deemed the primary beneficiary. Securitization vehicles in which Athene holds the residual tranche are not consolidated because Athene does not unilaterally have substantive rights to remove the general partner, or when assessing related party interests, Athene is not under common control, as defined by U.S. GAAP, with the related parties, nor are substantially all of the activities conducted on Athene s behalf; therefore, Athene is not deemed the primary beneficiary. Debt investments and investments in the residual tranche of securitization entities are considered debt instruments, and are held at fair value.
+
+Investment funds
+
+Investment funds include non-fixed income, alternative investments in the form of limited partnerships or similar legal structures.
+
+Equity securities
+
+Athene invests in preferred equity securities issued by entities deemed to be VIEs due to insufficient equity within the structure.
+
+Athene s risk of loss associated with its non-consolidated investments depends on the investment. Investment funds, equity securities and trading securities are limited to the carrying value plus unfunded commitments. AFS securities are limited to amortized cost plus unfunded commitments.
+
+The following summarizes the carrying value and maximum loss exposure of these non-consolidated investments:
+
+ December 31, 2024 December 31, 2023
+(In millions) Carrying Value Maximum Loss Exposure Carrying Value Maximum Loss Exposure
+Investment funds $ 107 $ 987 $ 109 $ 876
+Investment in related parties investment funds 1,853 3,226 1,632 2,377
+Assets of consolidated VIEs investment funds 17,660 23,488 15,820 22,129
+Investment in fixed maturity securities 72,523 74,797 48,155 50,623
+Investment in related parties fixed maturity securities 17,239 21,793 13,495 15,608
+Investment in related parties equity securities 234 234 318 318
+Total non-consolidated investments $ 109,616 $ 124,525 $ 79,529 $ 91,931
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for a variable interest entity (VIE), including but not limited to, judgments and assumptions in determining whether to consolidate and in identifying the primary beneficiary, gain (loss) recognized on the initial consolidation of the VIE, terms of arrangements, amounts and classification of the VIE's assets and liabilities, and the entity's maximum exposure to loss.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 810
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/810/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_VariableInterestEntityDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

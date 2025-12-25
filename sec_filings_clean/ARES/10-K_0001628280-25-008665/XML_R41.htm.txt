@@ -1,0 +1,309 @@
+XML
+113
+R41.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY AND REDEEMABLE INTEREST (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Stockholders' Equity Note [Abstract]
+
+Schedule of Stock by Class
+The following table presents the changes in each class of common stock:
+
+ Class A Common Stock Non-Voting Common Stock Class B Common Stock Class C Common Stock Total
+Balance as of December 31, 2023 187,069,907 3,489,911 1,000 117,024,758 307,585,576
+Issuance of common stock 3,122,628 63,179 3,185,807
+Exchanges of AOG Units 7,281,248 (7,281,248)
+
+Stock option exercises, net of shares withheld for tax 79,524 79,524
+
+Vesting of restricted unit awards, net of shares withheld for tax 2,319,264 2,319,264
+
+Balance as of December 31, 2024 199,872,571 3,489,911 1,000 109,806,689 313,170,171
+
+Schedule of Ownership Interests
+The following table presents each partner s AOG Units and corresponding ownership interest in each of the AOG entities, as well as its daily average ownership of AOG Units in each of the AOG entities:
+
+ Daily Average Ownership
+ As of December 31, 2024 As of December 31, 2023 Year ended December 31,
+ AOG Units Direct Ownership Interest AOG Units Direct Ownership Interest 2024 2023 2022
+Ares Management Corporation 203,362,482 64.94% 190,559,818 61.95% 63.61% 60.83% 59.76%
+Ares Owners Holdings, L.P. 109,806,689 35.06 117,024,758 38.05 36.39 39.17 40.24
+Total 313,169,171 100.00% 307,584,576 100.00%
+
+Schedule of Redeemable Interests
+The following table summarizes the activities associated with the redeemable interest in AOG entities:
+
+ Total
+Balance as of December 31, 2021 $ 96,008
+Distributions (1,887)
+Net loss (851)
+Currency translation adjustment, net of tax (426)
+Equity compensation 285
+Balance as of December 31, 2022 93,129
+Changes in ownership interests and related tax benefits (66,507)
+Distributions (2,883)
+Net income 226
+Currency translation adjustment, net of tax (41)
+Equity compensation 174
+Balance as of December 31, 2023 24,098
+
+Distributions (302)
+Net income 103
+Currency translation adjustment, net of tax (403)
+
+Balance as of December 31, 2024 $ 23,496
+
+The following table summarizes the activities associated with the redeemable interest in Consolidated Funds:
+
+ Total
+
+Balance as of December 31, 2022 $ 1,013,282
+Gross proceeds from the initial public offering of AAC II 500,000
+Change in redemption value 55,530
+Redemptions from Class A ordinary shares of Ares Acquisition Corporation (formerly NYSE: AAC) (1,045,874)
+Balance as of December 31, 2023 522,938
+
+Change in redemption value 27,762
+
+Balance as of December 31, 2024 $ 550,700
+
+X
+
+- DefinitionTabular disclosure of other units or shares or classes of ownership in a partnership.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SAB Topic 4.F)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-5
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfOtherOwnershipInterestsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of an entity's stock, including par or stated value per share, number and dollar amount of share subscriptions, shares authorized, shares issued, shares outstanding, number and dollar amount of shares held in an employee trust, dividend per share, total dividends, share conversion features, par value plus additional paid in capital, the value of treasury stock and other information necessary to a fair presentation, and EPS information. Stock by class includes common, convertible, and preferred stocks which are not redeemable or redeemable solely at the option of the issuer. Includes preferred stock with redemption features that are solely within the control of the issuer and mandatorily redeemable stock if redemption is required to occur only upon liquidation or termination of the reporting entity. If more than one issue is outstanding, state the title of each issue and the corresponding dollar amount; dollar amount of any shares subscribed but unissued and the deduction of subscriptions receivable there from; number of shares authorized, issued, and outstanding.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(27))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(28))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(29))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-3
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-4
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-5
+
+Reference 8: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481142/505-10-45-2
+
+Reference 9: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-10
+
+Reference 10: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-8
+
+Reference 11: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 480
+ -SubTopic 10
+ -Section S99
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480244/480-10-S99-1
+
+Reference 12: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-6
+
+Reference 13: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-7
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfStockByClassTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_StockholdersEquityNoteAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of temporary equity. Temporary equity is a security with redemption features that are outside the control of the issuer, is not classified as an asset or liability in conformity with GAAP, and is not mandatorily redeemable. Includes any type of security that is redeemable at a fixed or determinable price or on a fixed or determinable date or dates, is redeemable at the option of the holder, or has conditions for redemption which are not solely within the control of the issuer. If convertible, the issuer does not control the actions or events necessary to issue the maximum number of shares that could be required to be delivered under the conversion option if the holder exercises the option to convert the stock to another class of equity. If the security is a warrant or a rights issue, the warrant or rights issue is considered to be temporary equity if the issuer cannot demonstrate that it would be able to deliver upon the exercise of the option by the holder in all cases. Includes stock with put option held by ESOP and stock redeemable by holder only in the event of a change in control of the issuer.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(27))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 480
+ -SubTopic 10
+ -Section S99
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480244/480-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_TemporaryEquityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,471 @@
+XML
+147
+R75.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INCOME TAXES - Schedule of Deferred Tax Assets and Liabilities (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Income Tax Contingency [Line Items]
+
+Net operating losses and capital loss carryforwards
+$ 36,400
+
+$ 10,600
+
+Valuation allowance
+(900)
+
+(900)
+
+Consolidated Funds
+
+Income Tax Contingency [Line Items]
+
+Net operating losses and capital loss carryforwards
+7,932
+
+2,598
+
+Total gross deferred tax assets
+7,932
+
+2,598
+
+Valuation allowance
+(1,229)
+
+(2,598)
+
+Total net deferred tax assets
+6,703
+
+0
+
+Investment in partnerships
+(15,108)
+
+0
+
+Total deferred tax liabilities
+(15,108)
+
+0
+
+Deferred tax assets, net
+(8,405)
+
+0
+
+Ares Management L.P
+
+Income Tax Contingency [Line Items]
+
+Amortizable tax basis for AOG Unit exchanges
+451,343
+
+205,627
+
+Net operating losses and capital loss carryforwards
+1,888
+
+1,829
+
+Other, net
+9,793
+
+6,511
+
+Total gross deferred tax assets
+463,024
+
+213,967
+
+Valuation allowance
+(941)
+
+(942)
+
+Total net deferred tax assets
+462,083
+
+213,025
+
+Investment in partnerships
+(220,189)
+
+(191,476)
+
+Total deferred tax liabilities
+(220,189)
+
+(191,476)
+
+Deferred tax assets, net
+$ 241,894
+
+$ 21,549
+
+X
+
+- DefinitionAmount of deferred tax liability attributable to taxable temporary differences.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(26)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(26)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_DeferredIncomeTaxLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences from intangible assets including goodwill.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsGoodwillAndIntangibleAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences and carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsGross
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after allocation of valuation allowances and deferred tax liability, of deferred tax asset attributable to deductible differences and carryforwards, without jurisdictional netting.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsLiabilitiesNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount after allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences and carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible operating loss carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsOperatingLossCarryforwards
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before allocation of valuation allowance, of deferred tax asset attributable to deductible temporary differences, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsOther
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax assets for which it is more likely than not that a tax benefit will not be realized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsValuationAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax liability attributable to taxable temporary differences from investments (excludes investments in subsidiaries and equity method investments).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxLiabilitiesInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxContingencyLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_ConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

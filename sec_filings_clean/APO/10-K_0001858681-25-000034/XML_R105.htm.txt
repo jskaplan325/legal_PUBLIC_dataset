@@ -1,0 +1,1148 @@
+XML
+135
+R105.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired - Schedule of Rollforward of DAC, DSI, VOBA (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Movement in Present Value of Future Insurance Profits [Roll Forward]
+
+VOBA, beginning balance
+$ 2,581
+
+$ 2,988
+
+$ 3,372
+
+Additions
+0
+
+0
+
+0
+
+Amortization
+(371)
+
+(404)
+
+(384)
+
+Other
+0
+
+(3)
+
+VOBA, ending balance
+2,210
+
+2,581
+
+2,988
+
+Movement In Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net [Roll Forward]
+
+DAC, DSI and VOBA, beginning balance
+5,979
+
+4,466
+
+3,372
+
+Additions
+2,137
+
+2,204
+
+1,538
+
+Amortization
+(941)
+
+(688)
+
+(444)
+
+Other
+(2)
+
+(3)
+
+DAC, DSI and VOBA, ending balance
+7,173
+
+5,979
+
+4,466
+
+Traditional Deferred Annuities
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+DAC, beginning balance
+890
+
+304
+
+0
+
+Additions
+519
+
+701
+
+320
+
+Amortization
+(249)
+
+(115)
+
+(16)
+
+Other
+(2)
+
+0
+
+DAC, ending balance
+1,158
+
+890
+
+304
+
+Indexed Annuities
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+DAC, beginning balance
+1,517
+
+755
+
+0
+
+Additions
+945
+
+863
+
+784
+
+Amortization
+(184)
+
+(101)
+
+(29)
+
+Other
+0
+
+0
+
+DAC, ending balance
+2,278
+
+1,517
+
+755
+
+Movement in Deferred Sales Inducements [Roll Forward]
+
+DSI, beginning balance
+970
+
+399
+
+0
+
+Additions
+630
+
+634
+
+411
+
+Amortization
+(124)
+
+(63)
+
+(12)
+
+Other
+0
+
+0
+
+DSI, ending balance
+1,476
+
+970
+
+399
+
+Funding Agreements
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+DAC, beginning balance
+10
+
+11
+
+0
+
+Additions
+42
+
+3
+
+14
+
+Amortization
+(12)
+
+(4)
+
+(3)
+
+Other
+0
+
+0
+
+DAC, ending balance
+40
+
+10
+
+11
+
+Other Investment-type
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+DAC, beginning balance
+11
+
+9
+
+0
+
+Additions
+1
+
+3
+
+9
+
+Amortization
+(1)
+
+(1)
+
+0
+
+Other
+0
+
+0
+
+DAC, ending balance
+$ 11
+
+$ 11
+
+$ 9
+
+X
+
+- DefinitionDeferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_DeferredPolicyAcquisitionCostsDeferredSalesInducementCostsAndPresentValueOfFutureInsuranceProfitsNet
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDeferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Amortization Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_DeferredPolicyAcquisitionCostsDeferredSalesInducementCostsAndPresentValueOfFutureInsuranceProfitsNetAmortizationExpense
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDeferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Capitalization
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_DeferredPolicyAcquisitionCostsDeferredSalesInducementCostsAndPresentValueOfFutureInsuranceProfitsNetCapitalization
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDeferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Other
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_DeferredPolicyAcquisitionCostsDeferredSalesInducementCostsAndPresentValueOfFutureInsuranceProfitsNetOther
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDeferred Policy Acquisition Costs, Other
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_DeferredPolicyAcquisitionCostsOther
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionMovement In Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_MovementInDeferredPolicyAcquisitionCostsDeferredSalesInducementCostsAndPresentValueOfFutureInsuranceProfitsNetRollForward
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits, Other
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_PresentValueOfFutureInsuranceProfitsOther
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of amortization expense (reversal of expense) for deferred policy acquisition costs.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479868/944-20-45-2
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(7)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-1
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCostAmortizationExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of deferred policy acquisition cost capitalized on contract remaining in force.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -SubTopic 825
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478219/944-825-45-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCosts
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred policy acquisition cost capitalized.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCostsAdditions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of deferred sale inducement cost capitalized.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 3: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-3
+
++ Details
+
+ Name:
+us-gaap_DeferredSalesInducementsAdditions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in deferred sales inducement cost, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_DeferredSalesInducementsAdjustments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of amortization expense (reversal of expense) for deferred sales inducement cost.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 3: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479460/944-30-45-2
+
++ Details
+
+ Name:
+us-gaap_DeferredSalesInducementsAmortizationExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of deferred sale inducement cost capitalized on contract remaining in force.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479460/944-30-45-2
+
++ Details
+
+ Name:
+us-gaap_DeferredSalesInducementsNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MovementAnalysisOfDeferredPolicyAcquisitionCostsRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MovementInDeferredSalesInducementsRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MovementInPresentValueOfFutureInsuranceProfitsRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of addition for present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479735/944-20-S99-2
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsAdditionsFromAcquisitions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of amortization expense (reversal of expense) for present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479735/944-20-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsAmortizationExpense1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after accumulated amortization, of present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479735/944-20-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(10))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_ValueOfBusinessAcquiredVOBA
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_TraditionalDeferredAnnuitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_IndexedAnnuitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_FundingAgreementsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=apo_OtherInvestmentTypesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

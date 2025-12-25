@@ -1,0 +1,2046 @@
+XML
+99
+R70.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Financial Assets and Liabilities at Fair Value (Detail) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Accounts Receivable Loans and Receivables
+
+$ 100,866
+
+$ 60,738
+
+Assets
+
+4,725,580
+
+3,957,327
+
+Loans Payable CLO Notes Payable
+
+11,320,956
+
+11,304,059
+
+Corporate Treasury Commitments
+
+$ 87,856
+
+$ 688,386
+
+Derivative Asset, Statement of Financial Position [Extensible Enumeration]
+
+Other Assets
+
+Other Assets
+
+Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Derivatives assets
+
+$ 193,552
+
+$ 190,079
+
+Derivatives liabilities
+
+137,551
+
+90,635
+
+Level 3
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Assets
+
+3,914,328
+
+3,277,350
+
+Liabilities
+
+939,088
+
+565,637
+
+Fair Value, Measurements, Recurring
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Cash and Cash Equivalents
+
+60,799
+
+263,574
+
+Total Investments
+
+10,496,062
+
+9,273,604
+
+Accounts Receivable Loans and Receivables
+
+100,866
+
+60,738
+
+Assets
+
+10,838,036
+
+9,768,806
+
+Securities Sold, Not Yet Purchased
+
+1,916
+
+3,886
+
+Contingent Consideration
+
+504
+
+387
+
+Total Accounts Payable, Accrued Expenses and Other Liabilities
+
+1,078,555
+
+660,158
+
+Liabilities
+
+1,166,043
+
+1,347,280
+
+Fair Value, Measurements, Recurring | Corporate Treasury Commitments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Corporate Treasury Commitments
+
+368
+
+1,264
+
+Fair Value, Measurements, Recurring | CLO Notes Payable
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Loans Payable CLO Notes Payable
+
+87,488
+
+687,122
+
+Fair Value, Measurements, Recurring | Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Derivatives liabilities
+
+1,059,849
+
+654,621
+
+Fair Value, Measurements, Recurring | Consolidated Blackstone Funds - Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Derivatives liabilities
+
+15,918
+
+Fair Value, Measurements, Recurring | Other Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+5,458,002
+
+4,150,251
+
+Fair Value, Measurements, Recurring | Net Asset Value
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+543,071
+
+[1]
+565,534
+
+Assets
+
+543,071
+
+[1]
+565,534
+
+Fair Value, Measurements, Recurring | Net Asset Value | Other Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+6,289
+
+[1]
+7,275
+
+Fair Value, Measurements, Recurring | Consolidated Blackstone Funds
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+3,890,732
+
+4,319,483
+
+Derivatives assets
+
+180,309
+
+170,890
+
+Fair Value, Measurements, Recurring | Consolidated Blackstone Funds | Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+13,243
+
+19,189
+
+Fair Value, Measurements, Recurring | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+[2]
+3,799,142
+
+3,345,645
+
+Fair Value, Measurements, Recurring | Consolidated Blackstone Funds | Debt Instruments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+78,347
+
+954,649
+
+Fair Value, Measurements, Recurring | Consolidated Blackstone Funds | Net Asset Value
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+473,496
+
+[1]
+558,259
+
+Fair Value, Measurements, Recurring | Consolidated Blackstone Funds | Net Asset Value | Equity Securities, Partnerships and LLC Interests
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+[2]
+473,496
+
+[1]
+558,259
+
+Fair Value, Measurements, Recurring | Corporate Treasury Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+1,147,328
+
+803,870
+
+Fair Value, Measurements, Recurring | Corporate Treasury Investments | Net Asset Value
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+[1]
+63,286
+
+Fair Value, Measurements, Recurring | Level 1
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Cash and Cash Equivalents
+
+60,799
+
+263,574
+
+Total Investments
+
+2,169,643
+
+1,647,301
+
+Assets
+
+2,230,442
+
+1,910,965
+
+Securities Sold, Not Yet Purchased
+
+1,916
+
+3,886
+
+Total Accounts Payable, Accrued Expenses and Other Liabilities
+
+1,916
+
+4,322
+
+Liabilities
+
+1,916
+
+4,322
+
+Fair Value, Measurements, Recurring | Level 1 | Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Derivatives liabilities
+
+436
+
+Fair Value, Measurements, Recurring | Level 1 | Other Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+2,089,838
+
+1,564,112
+
+Fair Value, Measurements, Recurring | Level 1 | Consolidated Blackstone Funds
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+12,076
+
+11,118
+
+Derivatives assets
+
+90
+
+Fair Value, Measurements, Recurring | Level 1 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+[2]
+12,076
+
+11,118
+
+Fair Value, Measurements, Recurring | Level 1 | Corporate Treasury Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+67,729
+
+72,071
+
+Fair Value, Measurements, Recurring | Level 2
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+3,980,039
+
+3,857,328
+
+Assets
+
+4,150,195
+
+4,014,957
+
+Total Accounts Payable, Accrued Expenses and Other Liabilities
+
+137,551
+
+90,199
+
+Liabilities
+
+225,039
+
+777,321
+
+Fair Value, Measurements, Recurring | Level 2 | CLO Notes Payable
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Loans Payable CLO Notes Payable
+
+87,488
+
+687,122
+
+Fair Value, Measurements, Recurring | Level 2 | Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Derivatives liabilities
+
+121,633
+
+90,199
+
+Fair Value, Measurements, Recurring | Level 2 | Consolidated Blackstone Funds - Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Derivatives liabilities
+
+15,918
+
+Fair Value, Measurements, Recurring | Level 2 | Other Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+3,182,353
+
+2,355,423
+
+Fair Value, Measurements, Recurring | Level 2 | Consolidated Blackstone Funds
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+231,718
+
+1,066,475
+
+Derivatives assets
+
+170,156
+
+157,629
+
+Fair Value, Measurements, Recurring | Level 2 | Consolidated Blackstone Funds | Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+13,243
+
+19,189
+
+Fair Value, Measurements, Recurring | Level 2 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+[2]
+155,316
+
+123,022
+
+Fair Value, Measurements, Recurring | Level 2 | Consolidated Blackstone Funds | Debt Instruments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+63,159
+
+924,264
+
+Fair Value, Measurements, Recurring | Level 2 | Corporate Treasury Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+565,968
+
+435,430
+
+Fair Value, Measurements, Recurring | Level 3
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+3,803,309
+
+3,203,441
+
+Accounts Receivable Loans and Receivables
+
+100,866
+
+60,738
+
+Assets
+
+3,914,328
+
+3,277,350
+
+Contingent Consideration
+
+504
+
+387
+
+Total Accounts Payable, Accrued Expenses and Other Liabilities
+
+939,088
+
+565,637
+
+Liabilities
+
+939,088
+
+565,637
+
+Fair Value, Measurements, Recurring | Level 3 | Corporate Treasury Commitments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Corporate Treasury Commitments
+
+368
+
+1,264
+
+Fair Value, Measurements, Recurring | Level 3 | Freestanding Derivatives
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Derivatives liabilities
+
+938,216
+
+563,986
+
+Fair Value, Measurements, Recurring | Level 3 | Other Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+179,522
+
+223,441
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+3,173,442
+
+2,683,631
+
+Derivatives assets
+
+10,153
+
+13,171
+
+Assets
+
+3,173,442
+
+2,683,631
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+[2]
+3,158,254
+
+2,653,246
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Debt Instruments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+15,188
+
+30,385
+
+Fair Value, Measurements, Recurring | Level 3 | Corporate Treasury Investments
+
+Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+Total Investments
+
+$ 450,345
+
+$ 296,369
+
+[1]
+A summary of the investments where the fair value is not readily determinable and NAV is used as a practical expedient as of December 31, 2024 is presented by strategy type below:
+
+[2]
+Equity Securities, Partnership and LLC Interest includes investments in investment funds.
+
+X
+
+- DefinitionAccounts Payable Accrued Expenses and Other Liabilities Fair Value
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_AccountsPayableAccruedExpensesAndOtherLiabilitiesFairValue
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of asset recognized for present right to economic benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AssetsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of currency on hand as well as demand deposits with banks or financial institutions. Includes other kinds of accounts that have the general characteristics of demand deposits. Also includes short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_CashAndCashEquivalentsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of contingent consideration in a business combination that is classified in shareholders' equity.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ContingentConsiderationClassifiedAsEquityFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionIndicates line item in statement of financial position that includes derivative asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssetStatementOfFinancialPositionExtensibleEnumeration
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+enum2:enumerationSetItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after the effects of master netting arrangements, of a financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes assets not subject to a master netting arrangement and not elected to be offset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 103
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-103
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-12
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 11: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477439/946-210-55-1
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 20: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(3)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H)(Footnote 7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(3)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column A)(Footnote 3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
+Reference 27: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 28: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E)(Footnote 4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 29: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 30: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 31: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
+Reference 32: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after the effects of master netting arrangements, of a financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes liabilities not subject to a master netting arrangement and not elected to be offset.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 16: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(e))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H)(Footnote 7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column G)(Footnote 8))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column G))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E)(Footnote 4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 27: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 28: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 29: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
+Reference 30: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
++ Details
+
+ Name:
+us-gaap_FairValueAssetsAndLiabilitiesMeasuredOnRecurringAndNonrecurringBasisLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of obligations incurred from short sales.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 940
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479035/940-320-45-2
+
++ Details
+
+ Name:
+us-gaap_FinancialInstrumentsSoldNotYetPurchasedAtFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of financial obligations, including, but not limited to, debt instruments, derivative liabilities, federal funds purchased and sold under agreements to repurchase, securities loaned or sold under agreements to repurchase, financial instruments sold not yet purchased, guarantees, line of credit, loans and notes payable, servicing liability, and trading liabilities.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FinancialLiabilitiesFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of investment securities, including, but not limited to, marketable securities, derivative financial instruments, and investments accounted for under the equity method.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_InvestmentsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of financial and nonfinancial obligations.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_LiabilitiesFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionIncluding the current and noncurrent portions, aggregate carrying value as of the balance sheet date of loans payable (with maturities initially due after one year or beyond the operating cycle if longer).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(16))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(16)(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_LoansPayable
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of loan receivable, including, but not limited to, mortgage loans held for investment, finance receivables held for investment, policy loans on insurance contracts.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_LoansReceivableFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=bx_FreestandingDerivativesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByMeasurementFrequencyAxis=us-gaap_FairValueMeasurementsRecurringMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_CorporateTreasuryCommitmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_LiabilitiesOfConsolidatedCloVehiclesNotesPayableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=bx_ConsolidatedBlackstoneFundsFreestandingDerivativesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=bx_InvestmentAssetOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=bx_NetAssetValueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OptionIndexedToIssuersEquityTypeAxis=bx_ConsolidatedBlackstoneFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=bx_EquitySecuritiesPartnershipsAndLlcInterestsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=bx_DebtInstrumentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OptionIndexedToIssuersEquityTypeAxis=bx_CorporateTreasuryInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel1Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel2Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,294 @@
+XML
+116
+R86.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Derivatives - Schedule of Derivatives Not Designated as Hedges (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Derivatives, Fair Value [Line Items]
+
+Total gains (losses) on derivatives not designated as hedges
+$ 1,390
+
+$ 525
+
+$ (5,996)
+
+Investment related gains (losses)
+
+Derivatives, Fair Value [Line Items]
+
+Total gains (losses) on derivatives not designated as hedges
+1,564
+
+1,968
+
+(8,764)
+
+Equity options | Investment related gains (losses)
+
+Derivatives, Fair Value [Line Items]
+
+Total gains (losses) on derivatives not designated as hedges
+1,921
+
+1,564
+
+(2,647)
+
+Futures | Investment related gains (losses)
+
+Derivatives, Fair Value [Line Items]
+
+Total gains (losses) on derivatives not designated as hedges
+72
+
+73
+
+(144)
+
+Swaps | Investment related gains (losses)
+
+Derivatives, Fair Value [Line Items]
+
+Total gains (losses) on derivatives not designated as hedges
+344
+
+(108)
+
+56
+
+Foreign currency forwards | Investment related gains (losses)
+
+Derivatives, Fair Value [Line Items]
+
+Total gains (losses) on derivatives not designated as hedges
+(775)
+
+(495)
+
+505
+
+Embedded derivatives on funds withheld | Investment related gains (losses)
+
+Derivatives, Fair Value [Line Items]
+
+Total gains (losses) on derivatives not designated as hedges
+2
+
+934
+
+(6,534)
+
+Embedded derivatives in indexed annuity products | Embedded derivatives in indexed annuity products
+
+Derivatives, Fair Value [Line Items]
+
+Total gains (losses) on derivatives not designated as hedges
+$ (174)
+
+$ (1,443)
+
+$ 2,768
+
+X
+
+- DefinitionAmount of realized and unrealized gain (loss) of derivative instruments not designated or qualifying as hedging instruments.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4CC
+ -SubTopic 10
+ -Topic 815
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4CC
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsNotDesignatedAsHedgingInstrumentsGainLossNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativesFairValueLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeStatementLocationAxis=us-gaap_InvestmentIncomeExpenseMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_StockOptionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeFutureMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CurrencySwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeForwardMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=apo_EmbeddedDerivativesFinancialInstrumentsFundsWithheldIncludingRelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=apo_EmbeddedDerivativesFinancialInstrumentsIndexedAnnuityProductsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeStatementLocationAxis=apo_InterestSensitiveContractBenefitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,855 @@
+XML
+181
+R159.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INCOME TAXES - Components of Deferred Tax Assets or Liabilities (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Jan. 02, 2024
+
+Dec. 31, 2023
+
+Asset Management and Strategic Holdings
+
+Deferred Tax Assets
+
+Fund Management Fee Credits
+$ 127,006
+
+$ 117,958
+
+Equity Based Compensation
+96,476
+
+87,649
+
+KKR Holdings Unit Exchanges
+387,836
+
+421,065
+
+Depreciation and Amortization
+140,088
+
+172,995
+
+Operating Lease Liability
+179,640
+
+83,594
+
+Other
+8,248
+
+28,127
+
+Total Deferred Tax Assets before Valuation Allowance
+939,294
+
+911,388
+
+Valuation Allowance
+0
+
+0
+
+Total Deferred Tax Assets
+939,294
+
+911,388
+
+Deferred Tax Liabilities
+
+Investment Basis Differences / Net Unrealized Gains & Losses
+3,030,794
+
+2,629,572
+
+Indefinite Lived Intangible Asset / Fixed Assets and Intangibles
+444,123
+
+494,907
+
+Operating Lease Right-of-Use Asset
+179,640
+
+83,594
+
+Other
+74,452
+
+24,853
+
+Total Deferred Tax Liabilities
+3,729,009
+
+3,232,926
+
+Total Deferred Taxes, Net
+(2,789,715)
+
+(2,321,538)
+
+Insurance
+
+Deferred Tax Assets
+
+Insurance Reserves
+675,090
+
+552,373
+
+Insurance Intangibles
+461,211
+
+358,154
+
+Net Operating Loss and Capital Loss Carryforwards
+813,382
+
+828,727
+
+Insurance Investment Basis Differences, Including Derivatives
+819,881
+
+$ 22,100
+
+587,339
+
+Other
+84,006
+
+92,343
+
+Total Deferred Tax Assets before Valuation Allowance
+2,853,570
+
+2,418,936
+
+Valuation Allowance
+(36,933)
+
+(89,250)
+
+Total Deferred Tax Assets
+2,816,637
+
+2,329,686
+
+Deferred Tax Liabilities
+
+Insurance Loss Reserve Adjustment
+27,965
+
+55,929
+
+Total Deferred Tax Liabilities
+27,965
+
+55,929
+
+Total Deferred Taxes, Net
+$ 2,788,672
+
+$ 2,273,757
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax depreciation and amortization expense attributable to deductible temporary differences.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DeferredTaxAssetsDepreciationAndAmortization
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe tax effect as of the balance sheet date of the amount of the estimated future tax deductions attributable to fund management fees which can only be realized if sufficient taxable income is generated in future periods to enable the deduction to be taken.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DeferredTaxAssetsFundManagementFees
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDeferred Tax Assets, Insurance Intangibles
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DeferredTaxAssetsInsuranceIntangibles
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDeferred Tax Assets, Operating Lease Liability
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DeferredTaxAssetsOperatingLeaseLiability
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe tax effect as of the balance sheet date of the amount of the estimated future tax deductions attributable to KKR Holdings Unit Exchange which can only be realized if sufficient taxable income is generated in future periods to enable the deduction to be taken.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DeferredTaxAssetsTaxReceivableAgreement
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe amount as of the balance sheet date of the estimated future tax effects attributable to differences on investment basis for tax purposes and under generally accepted accounting principles which will increase future taxable income when such differences reverse.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DeferredTaxLiabilitiesInvestmentBasisDifferences
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ComponentsOfDeferredTaxAssetsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ComponentsOfDeferredTaxLiabilitiesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of deferred tax liability attributable to taxable temporary differences.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(26)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(26)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_DeferredIncomeTaxLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences and carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsGross
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences from investments (excludes investments in subsidiaries and equity method investments).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after allocation of valuation allowances and deferred tax liability, of deferred tax asset attributable to deductible differences and carryforwards, without jurisdictional netting.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsLiabilitiesNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount after allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences and carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible operating loss carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsOperatingLossCarryforwards
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before allocation of valuation allowance, of deferred tax asset attributable to deductible temporary differences, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsOther
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences from employee compensation.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsTaxDeferredExpenseCompensationAndBenefitsEmployeeCompensation
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before allocation of valuation allowance, of deferred tax asset attributable to deductible temporary differences from reserves, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsReserves
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax assets for which it is more likely than not that a tax benefit will not be realized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsValuationAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after deferred tax asset, of deferred tax liability attributable to taxable differences without jurisdictional netting.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax liability attributable to taxable temporary differences from reserves and accruals.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxLiabilitiesDeferredExpenseReservesAndAccruals
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax liability attributable to taxable temporary differences from intangible assets other than goodwill.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxLiabilitiesGoodwillAndIntangibleAssetsIntangibleAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax liability attributable to taxable temporary differences from leasing arrangements.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxLiabilitiesLeasingArrangements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred tax liability attributable to taxable temporary differences classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxLiabilitiesOther
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

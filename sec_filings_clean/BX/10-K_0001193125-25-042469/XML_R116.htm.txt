@@ -1,0 +1,485 @@
+XML
+145
+R116.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Reconciliation of Total Segments to Income (Loss) Before Provision for Taxes and Total Assets (Parenthetical) (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting Information [Line Items]
+
+Total Segment Fee Related Performance Revenues
+
+$ 2,135,945
+
+$ 858,527
+
+$ 1,449,497
+
+Total Segment Realized Performance Revenues
+
+4,421,924
+
+2,919,012
+
+5,906,767
+
+Total Segment Realized Principal Investment Income
+
+92,526
+
+110,932
+
+396,256
+
+Total Segment Realized Performance Compensation
+
+1,805,803
+
+1,181,926
+
+2,433,262
+
+Total Segment Other Operating Expenses
+
+123,693
+
+(92,929)
+
+184,557
+
+Foreign exchange gains (losses)
+
+122,300
+
+(94,700)
+
+182,900
+
+Operating Segments
+
+Segment Reporting Information [Line Items]
+
+Total Segment Management and Advisory Fees, Net
+
+7,133,534
+
+6,663,244
+
+6,282,946
+
+Total Segment Fee Related Performance Revenues
+
+2,135,945
+
+858,527
+
+1,449,497
+
+Total Segment Realized Performance Revenues
+
+2,287,031
+
+2,061,102
+
+4,461,338
+
+Total Segment Realized Principal Investment Income
+
+92,526
+
+110,932
+
+396,256
+
+Total Revenues
+[1]
+11,649,036
+
+9,693,805
+
+12,590,037
+
+Total Segment Fee Related Compensation
+
+2,739,322
+
+2,088,110
+
+2,330,775
+
+Total Segment Realized Performance Compensation
+
+951,246
+
+896,017
+
+1,814,097
+
+Total Segment Other Operating Expenses
+
+1,248,092
+
+1,084,333
+
+989,023
+
+Total Expenses
+[2]
+$ 4,938,660
+
+$ 4,068,460
+
+$ 5,133,895
+
+[1]
+Total Segment Revenues is comprised of the following:
+
+[2]
+Total Segment Expenses is comprised of the following:
+
+X
+
+- DefinitionFee related performance revenues.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedPerformanceRevenues
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFees related compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeesRelatedCompensation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement and advisory fees net.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ManagementAndAdvisoryFeesNet
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOther operating expenses.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_OtherOperatingExpenses
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance revenue realized.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PerformanceRevenueRealized
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized performance compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPerformanceCompensation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized principal investment income (loss).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPrincipalInvestmentIncomeLoss
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSegment expenses.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_SegmentExpenses
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSegment revenues.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_SegmentRevenues
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax, of realized and unrealized gain (loss) from foreign currency transaction.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482014/830-20-35-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481956/830-20-45-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481926/830-20-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481839/830-10-45-17
+
++ Details
+
+ Name:
+us-gaap_ForeignCurrencyTransactionGainLossBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe net amount of other operating income and expenses, the components of which are not separately disclosed on the income statement, from items that are associated with the entity's normal revenue producing operations.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OtherOperatingIncomeExpenseNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

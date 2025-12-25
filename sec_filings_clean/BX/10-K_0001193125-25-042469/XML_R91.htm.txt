@@ -1,0 +1,136 @@
+XML
+120
+R91.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Leases Supplemental Cash Flow Information Related Leases (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Leases [Abstract]
+
+Operating Cash Flows for Operating Lease Liabilities
+$ 145,388
+
+$ 127,183
+
+$ 107,249
+
+Non-Cash Right-of-Use Assets Obtained in Exchange for New Operating Lease Liabilities
+$ 129,451
+
+$ 117,155
+
+$ 278,010
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LeasesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash outflow from operating lease, excluding payments to bring another asset to condition and location necessary for its intended use.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479041/842-20-45-5
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_OperatingLeasePayments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash outflow from operating lease to bring another asset to condition and location necessary for its intended use.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479041/842-20-45-5
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_OperatingLeasePaymentsUse
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration

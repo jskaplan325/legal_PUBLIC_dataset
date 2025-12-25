@@ -1,0 +1,187 @@
+XML
+101
+R72.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds' Remaining Unfunded Commitments and Ability to Redeem Such Investments (Parenthetical) (Detail) - Equity
+
+Dec. 31, 2024
+
+Fair Value, Investments, Entities that Calculate Net Asset Value Per Share [Line Items]
+
+Percentage of investments unable to be redeemed at, or within 3 months of reporting date
+69.00%
+
+Percentage of investments redeemable as of reporting date
+31.00%
+
+X
+
+- DefinitionPercentage Of Investments Redeemable As Of Reporting Date
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PercentageOfInvestmentsRedeemableAsOfReportingDate
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 107
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-107
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 54B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482134/820-10-35-54B
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 107
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-107
+
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 107
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-107
+
+Reference 6: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 107
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-107
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 107
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-107
+
+Reference 8: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 107
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-107
+
++ Details
+
+ Name:
+us-gaap_FairValueInvestmentsEntitiesThatCalculateNetAssetValuePerShareLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe percentage of the total value of investments that cannot be redeemed because of a redemption restriction as of the statement of financial position date.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
++ Details
+
+ Name:
+us-gaap_FairValueInvestmentsEntitiesThatCalculateNetAssetValuePerShareRedemptionRestrictionPercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_HedgeFundsEquityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

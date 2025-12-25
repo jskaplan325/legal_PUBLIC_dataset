@@ -1,0 +1,133 @@
+XML
+148
+R126.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Antidilutive Securities (Details) - shares
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Weighted Average Vested Restricted Holdings Units (in shares)
+6,828,095
+
+3,675,345
+
+109,268,211
+
+KKR Holdings Units
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Weighted Average Vested Restricted Holdings Units (in shares)
+0
+
+0
+
+107,018,025
+
+Restricted Holding Units (RHUs)
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Weighted Average Vested Restricted Holdings Units (in shares)
+6,828,095
+
+3,675,345
+
+2,250,186
+
+X
+
+- DefinitionSecurities (including those issuable pursuant to contingent stock agreements) that could potentially dilute basic earnings per share (EPS) or earnings per unit (EPU) in the future that were not included in the computation of diluted EPS or EPU because to do so would increase EPS or EPU amounts or decrease loss per share or unit amounts for the period presented.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
++ Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis=kkr_KKRHoldingsUnitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis=kkr_RestrictedHoldingUnitsRHUsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

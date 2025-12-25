@@ -1,0 +1,126 @@
+XML
+115
+R92.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Accrued Compensation and Benefits - Additional Information (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+AlpInvest
+
+Defined Benefit Plan Disclosure [Line Items]
+
+Net periodic benefit cost
+$ 1.5
+
+$ 1.7
+
+$ 4.1
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DefinedBenefitPlanDisclosureLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of net periodic benefit cost (credit) for defined benefit plan.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 715
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480482/715-20-55-17
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 715
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 18
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480482/715-20-55-18
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 715
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 715
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480506/715-20-50-6
+
++ Details
+
+ Name:
+us-gaap_DefinedBenefitPlanNetPeriodicBenefitCost
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RetirementPlanNameAxis=cg_AlpInvestMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,227 @@
+XML
+66
+R43.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Equity [Abstract]
+
+Schedule of shares repurchased or retired
+The following table presents the Company s shares that have been repurchased or retired as a result of net share settlement of equity-based awards during the years ended December 31,
+2024 and 2023. Dollar amounts exclude the impact of excise taxes.
+
+ Year Ended December 31,
+
+ 2024
+
+ 2023
+
+(Dollars in millions)
+
+ Shares
+
+ $
+
+ Shares
+
+ $
+
+Shares repurchased
+
+ 8,984,957
+
+ $395.6
+
+ 6,505,037
+
+ $203.5
+
+Shares retired in connection with the net share settlement of
+equity-based awards
+
+ 3,332,881
+
+ 159.0
+
+Total
+
+ 12,317,838
+
+ $554.6
+
+ 6,505,037
+
+ $203.5
+
+Quarterly distributions on common units
+The table below presents information regarding the quarterly dividends on the common shares, which were made at the sole discretion of the Board of Directors of the Company.
+
+Dividend Record Date
+
+ Dividend Payment Date
+
+ Dividend per Common
+Share
+
+ Dividend to Common
+Stockholders
+
+ (Dollars in millions, except per share data)
+
+May 16, 2023
+
+ May 23, 2023
+
+ $0.35
+
+ $126.7
+
+August 15, 2023
+
+ August 23, 2023
+
+ 0.35
+
+ 126.3
+
+November 21, 2023
+
+ November 29, 2023
+
+ 0.35
+
+ 126.3
+
+February 23, 2024
+
+ March 1, 2024
+
+ 0.35
+
+ 126.7
+
+Total 2023 Dividend Year
+
+ $1.40
+
+ $506.0
+
+May 14, 2024
+
+ May 21, 2024
+
+ $0.35
+
+ $125.6
+
+August 16, 2024
+
+ August 26, 2024
+
+ 0.35
+
+ 125.5
+
+November 18, 2024
+
+ November 25, 2024
+
+ 0.35
+
+ 125.2
+
+February 21, 2025
+
+ February 28, 2025
+
+ 0.35
+
+ 126.5
+
+Total 2024 Dividend Year
+
+ $1.40
+
+ $502.8
+
+X
+
+- DefinitionSchedule Of Stock Repurchased And Retired
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ScheduleOfStockRepurchasedAndRetiredTableTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of payment of cash or stock made to limited partner of limited partnership (LP).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_DistributionsMadeToLimitedPartnerByDistributionTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EquityAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

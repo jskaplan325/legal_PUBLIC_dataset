@@ -1,0 +1,1053 @@
+XML
+130
+R108.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+FAIR VALUE MEASUREMENTS - Changes in Level III Liabilities (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Fair Value, Recurring Basis Unobservable Input Reconciliation, Liability, Gain (Loss), Statement Of Income, Extensible List, Not Disclosed Flag
+Net Unrealized and Realized Gains (Losses)
+
+Net Unrealized and Realized Gains (Losses)
+
+Fair Value, Liability, Recurring Basis, Unobservable Input Reconciliation, Liability, Gain (Loss), Statement of Other Comprehensive Income or Comprehensive Income [Extensible Enumeration]
+Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest
+
+Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest
+
+Fair Value Liabilities, Recurring Basis, Still Held, Unrealized Gain (Loss), Statement Of Income, Extensible List Not Disclosed Flag
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+
+Level III
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+$ 4,136,577
+
+$ 918,599
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+1,059,050
+
+895,749
+
+Net Unrealized and Realized Gains (Losses)
+318,950
+
+2,077,498
+
+Change in OCI
+25,722
+
+244,731
+
+Balance, End of Period
+5,540,299
+
+4,136,577
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+2,165
+
+(42,632)
+
+Level III | Asset Management and Strategic Holdings
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+94,683
+
+137,315
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+0
+
+0
+
+Net Unrealized and Realized Gains (Losses)
+2,165
+
+(42,632)
+
+Change in OCI
+0
+
+0
+
+Balance, End of Period
+96,848
+
+94,683
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+2,165
+
+(42,632)
+
+Level III | Insurance
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+4,041,894
+
+781,284
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+1,059,050
+
+895,749
+
+Net Unrealized and Realized Gains (Losses)
+316,785
+
+2,120,130
+
+Change in OCI
+25,722
+
+244,731
+
+Balance, End of Period
+5,443,451
+
+4,041,894
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+0
+
+0
+
+Level III | Unfunded Revolver Commitments | Asset Management and Strategic Holdings
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+94,683
+
+137,315
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+0
+
+0
+
+Net Unrealized and Realized Gains (Losses)
+2,165
+
+(42,632)
+
+Change in OCI
+0
+
+0
+
+Balance, End of Period
+96,848
+
+94,683
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+2,165
+
+(42,632)
+
+Level III | Policy Liabilities | Insurance
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+1,474,970
+
+1,063,496
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+44,891
+
+(4,292)
+
+Net Unrealized and Realized Gains (Losses)
+(268,545)
+
+177,932
+
+Change in OCI
+28,478
+
+237,834
+
+Balance, End of Period
+1,279,794
+
+1,474,970
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+0
+
+0
+
+Level III | Closed Block Policy Liabilities | Insurance
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+968,554
+
+1,016,313
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+5,652
+
+(11,951)
+
+Net Unrealized and Realized Gains (Losses)
+16,870
+
+(42,705)
+
+Change in OCI
+(2,756)
+
+6,897
+
+Balance, End of Period
+988,320
+
+968,554
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+0
+
+0
+
+Level III | Funds Withheld Payable at Interest | Insurance
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+(2,447,303)
+
+(3,487,766)
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+0
+
+0
+
+Net Unrealized and Realized Gains (Losses)
+(350,241)
+
+1,040,463
+
+Change in OCI
+0
+
+0
+
+Balance, End of Period
+(2,797,544)
+
+(2,447,303)
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+0
+
+0
+
+Level III | Embedded Derivative | Insurance | Interest Sensitive Life
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+458,302
+
+337,860
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+(100,797)
+
+(43,820)
+
+Net Unrealized and Realized Gains (Losses)
+134,313
+
+164,262
+
+Change in OCI
+0
+
+0
+
+Balance, End of Period
+491,818
+
+458,302
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+0
+
+0
+
+Level III | Embedded Derivative | Insurance | Fixed-Indexed Annuity
+
+Fair value, liabilities measured on recurring basis, level 3 fair-value category reconciliation
+
+Balance, Beg. of Period
+3,587,371
+
+1,851,381
+
+Transfers In / (Out) - Changes in Consolidation
+0
+
+0
+
+Transfers In
+0
+
+0
+
+Transfers Out
+0
+
+0
+
+Net Purchases/Sales/Settlements/Issuances
+1,109,304
+
+955,812
+
+Net Unrealized and Realized Gains (Losses)
+784,388
+
+780,178
+
+Change in OCI
+0
+
+0
+
+Balance, End of Period
+5,481,063
+
+3,587,371
+
+Changes in Net Unrealized Gains (Losses) Included in Earnings related to Level III Assets and Liabilities still held as of the Reporting Date
+$ 0
+
+$ 0
+
+X
+
+- DefinitionFair Value Liability, Recurring Basis Still Held, Unrealized Gain (Loss), Statement Of Income, Extensible List Not Disclosed Flag
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueLiabilityRecurringBasisStillHeldUnrealizedGainLossStatementOfIncomeExtensibleListNotDisclosedFlag
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Measurement with Unobservable Inputs Reconciliation, Liability, Transfers out of Level 3 Due to Deconsolidation of Funds
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueMeasurementwithUnobservableInputsReconciliationLiabilityTransfersoutofLevel3DuetoDeconsolidationofFunds
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value, Recurring Basis Unobservable Input Reconciliation, Liability, Gain (Loss), Statement Of Income, Extensible List, Not Disclosed Flag
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueRecurringBasisUnobservableInputReconciliationLiabilityGainLossStatementOfIncomeExtensibleListNotDisclosedFlag
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) recognized in income from liability measured at fair value on recurring basis using unobservable input (level 3) and still held.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueLiabilitiesMeasuredOnRecurringBasisChangeInUnrealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueLiabilitiesMeasuredOnRecurringBasisUnobservableInputReconciliationCalculationRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as a liability into level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationLiabilityTransfersIntoLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transfers of financial instrument classified as a liability out of level 3 of the fair value hierarchy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationLiabilityTransfersOutOfLevel3
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) recognized in income from liability measured at fair value on recurring basis using unobservable input (level 3).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityGainLossIncludedInEarnings
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) recognized in other comprehensive income (OCI) from liability measured at fair value on recurring basis using unobservable input (level 3).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(1a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityGainLossIncludedInOtherComprehensiveIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of purchases, (sales), issuances and (settlements) of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityPurchasesSalesIssuancesSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of financial instrument classified as a liability measured using unobservable inputs that reflect the entity's own assumption about the assumptions market participants would use in pricing.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueMeasurementWithUnobservableInputsReconciliationsRecurringBasisLiabilityValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionIndicates line item in statement in which other comprehensive income (OCI) is reported that includes gain (loss) from liability measured at fair value using unobservable input (level 3).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(1a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_FairValueRecurringBasisUnobservableInputReconciliationLiabilityGainLossStatementOfOtherComprehensiveIncomeExtensibleList
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+enum2:enumerationSetItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_UnfundedLoanCommitmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=kkr_LiabilityForFuturePolicyBenefitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=kkr_ClosedBlockPolicyLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=kkr_FundsWithheldPayableAtInterestMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_DerivativeFinancialInstrumentsLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InterestSensitiveLifeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_FixedAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

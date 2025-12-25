@@ -1,0 +1,1149 @@
+XML
+121
+R98.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Related Party Transactions - Additional Information (Details) - USD ($)
+ $ / shares in Units, $ in Millions
+
+1 Months Ended
+6 Months Ended
+12 Months Ended
+
+May 05, 2020
+
+Jan. 01, 2020
+
+Aug. 31, 2024
+
+Dec. 31, 2024
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Related Party Transaction [Line Items]
+
+Maximum percentage of interest on amounts due from affiliates
+
+7.02%
+
+Tax receivable agreement termination, cash payments per partnership unit exchanged (usd per share)
+
+$ 1.50
+
+Tax receivable agreement termination, term of annual installments
+
+5 years
+
+Tax receivable agreement termination, annual cash payments per partnership unit exchanged (usd per share)
+
+$ 0.30
+
+Conversion of units, deferred consideration obligation, discount
+
+$ 11.3
+
+Percentage of estimated realizable tax benefit to be paid by corporate taxpayers on exchange transactions
+
+85.00%
+
+Related parties amount of transaction
+
+$ 1.3
+
+Interest and other income
+
+218.2
+
+$ 212.1
+
+$ 135.9
+
+Fair value of assets
+
+$ 8,316.4
+
+8,316.4
+
+7,962.9
+
+Reversed unrealized income
+
+$ (157.1)
+
+(327.7)
+
+378.5
+
+Carlyle Secured Lending, Inc. Merger
+
+Related Party Transaction [Line Items]
+
+Issuance of common stock (in shares)
+
+2,000,000
+
+Share price (in dollars per share)
+
+$ 8.87
+
+$ 8.87
+
+Reversed unrealized income
+
+$ 45.5
+
+Net asset value (in dollars per share)
+
+$ 16.80
+
+$ 16.80
+
+Level III
+
+Related Party Transaction [Line Items]
+
+Fair value of assets
+
+$ 7,932.5
+
+$ 7,932.5
+
+7,379.4
+
+Level III | BDC preferred shares | Other
+
+Related Party Transaction [Line Items]
+
+Fair value of assets
+
+53.4
+
+53.4
+
+Level III | BDC preferred shares | Consensus Pricing
+
+Related Party Transaction [Line Items]
+
+Fair value of assets
+
+81.7
+
+Affiliates
+
+Related Party Transaction [Line Items]
+
+Notes receivable and accrued interest from affiliates
+
+$ 22.8
+
+$ 22.8
+
+25.0
+
+Accrued interest percentage
+
+1.00%
+
+1.00%
+
+Floor rate
+
+3.50%
+
+3.50%
+
+Actual rate
+
+0.0650
+
+0.0650
+
+Related Party | Carlyle Secured Lending, Inc.
+
+Related Party Transaction [Line Items]
+
+Purchase of investment (in shares)
+2,000,000
+
+Purchase of investment (in dollars per share)
+$ 25
+
+Preferred stock, dividend rate, percentage
+7.00%
+
+Dividend rate, payable in shares, percentage
+9.00%
+
+Initial conversion price (in usd per share)
+$ 9.50
+
+Interest and other income
+
+$ 3.5
+
+$ 3.5
+
+$ 3.5
+
+X
+
+- DefinitionInvestment, Purchase Price
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_InvestmentPurchasePrice
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLoans Receivable, Related Party, Effective Rate
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_LoansReceivableRelatedPartyEffectiveRate
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:pureItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLoans Receivable, Related Party, Floor Rate
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_LoansReceivableRelatedPartyFloorRate
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNotes receivable and accrued interest from affiliates.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_NotesReceivableAndAccruedInterestFromAffiliates
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPercentage of estimated realizable tax benefit to be paid by corporate taxpayers on exchange transactions.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PercentageOfEstimatedRealizableTaxBenefitToBePaidByCorporateTaxpayersOnExchangeTransactions
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPreferred Stock, Dividend Rate, Payable In Shares, Percentage
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PreferredStockDividendRatePayableInSharesPercentage
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPurchase Of Investment, Shares
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PurchaseOfInvestmentShares
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTermination Of Tax Receivable Agreement, Annual Installment, Cost Per Partnership Unit Exchanged
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_TerminationOfTaxReceivableAgreementAnnualInstallmentCostPerPartnershipUnitExchanged
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTermination Of Tax Receivable Agreement, Cost Per Partnership Unit Exchanged
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_TerminationOfTaxReceivableAgreementCostPerPartnershipUnitExchanged
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTermination Of Tax Receivable Agreement, Obligation, Discount
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_TerminationOfTaxReceivableAgreementObligationDiscount
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionTermination Of Tax Receivable Agreement, Term Of Annual Installments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_TerminationOfTaxReceivableAgreementTermOfAnnualInstallments
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value portion of asset recognized for present right to economic benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AssetsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNumber of shares of equity interests issued or issuable to acquire entity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPrice of a single share of a number of saleable stocks paid or offered to be paid in a business combination.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BusinessAcquisitionSharePrice
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionRepresents the total of interest and dividend income, including any amortization and accretion (as applicable) of discounts and premiums, earned from (1) loans and leases whether held-for-sale or held-in-portfolio; (2) investment securities; (3) federal funds sold; (4) securities purchased under agreements to resell; (5) investments in banker's acceptances, commercial paper, or certificates of deposit; (6) dividend income; or (7) other investments not otherwise specified herein.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 39
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477346/946-830-45-39
+
++ Details
+
+ Name:
+us-gaap_InterestAndDividendIncomeOperating
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage added to reference rate used to compute variable rate on loan receivable.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LoansReceivableBasisSpreadOnVariableRate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNet asset value per share or per unit of investments in certain entities that calculate net asset value per share. Includes, but is not limited to, by unit, membership interest, or other ownership interest. Investment includes, but is not limited to, investment in certain hedge funds, venture capital funds, private equity funds, real estate partnerships or funds. Excludes fair value disclosure.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-12
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477796/946-210-45-4
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 205
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478494/946-205-50-7
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 205
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478494/946-205-50-7
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 505
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478448/946-505-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(19))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.6-05(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-2
+
++ Details
+
+ Name:
+us-gaap_NetAssetValuePerShare
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPer share conversion price of preferred stock.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
++ Details
+
+ Name:
+us-gaap_PreferredStockConvertibleConversionPrice
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe percentage rate used to calculate dividend payments on preferred stock.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-12A(Column A)(Footnote 3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.12-12(Column A)(Footnote 4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-12B(Column A)(Footnote 3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 6
+ -Subparagraph (SX 210.12-14(Column A)(Footnote 3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-6
+
++ Details
+
+ Name:
+us-gaap_PreferredStockDividendRatePercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionYield on the receivable, on which interest has been imputed, as calculated from its issuance value or purchase price. The calculated effective interest rate considers factors such as the issued face value or price paid for the receivable, the time period between payments, and the time until maturity [full receipt] of the receivable.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482949/835-30-55-8
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482900/835-30-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
++ Details
+
+ Name:
+us-gaap_ReceivableWithImputedInterestEffectiveYieldInterestRate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of transactions with related party during the financial reporting period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 850
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-3
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAmountsOfTransaction
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) on investment.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_UnrealizedGainLossOnInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=cg_CarlyleSecuredLendingInc.MergerMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_BDCPreferredSharesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=cg_ValuationTechniqueOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=us-gaap_ValuationTechniqueConsensusPricingModelMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_AffiliatedEntityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_CarlyleSecuredLendingIncMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

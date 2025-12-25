@@ -1,0 +1,182 @@
+XML
+58
+R35.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Intangible Assets and Goodwill (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Goodwill and Intangible Assets Disclosure [Abstract]
+
+Carrying amount of intangible assets
+The following table summarizes the carrying amount of intangible assets as of December 31, 2024 and 2023:
+
+ As of December 31,
+
+ 2024
+
+ 2023
+
+ (Dollars in millions)
+
+Acquired contractual rights
+
+ $922.7
+
+ $924.1
+
+Accumulated amortization
+
+ (392.2)
+
+ (262.0)
+
+Finite-lived intangible assets, net
+
+ 530.5
+
+ 662.1
+
+Goodwill
+
+ 103.6
+
+ 104.0
+
+Intangible Assets, net
+
+ $634.1
+
+ $766.1
+
+Schedule of estimated amortization expense
+The following table summarizes the expected amortization expense for 2025 through 2029 and thereafter (Dollars in millions):
+
+Year ending December 31,
+
+2025
+
+ $131.0
+
+2026
+
+ 130.9
+
+2027
+
+ 120.8
+
+2028
+
+ 113.6
+
+2029
+
+ 31.7
+
+Thereafter
+
+ 2.5
+
+ $530.5
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of goodwill and intangible assets, which may be broken down by segment or major class.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfIntangibleAssetsAndGoodwillTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the amount of amortization expense expected to be recorded in succeeding fiscal years for finite-lived intangible assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482640/350-30-55-40
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleofFiniteLivedIntangibleAssetsFutureAmortizationExpenseTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,298 @@
+XML
+72
+R43.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Offsetting of Assets And Liabilities (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Offsetting of Assets
+ The following tables present the offsetting of assets and liabilities as of December 31, 2024 and 2023:
+
+December 31, 2024
+
+Gross and Net
+
+Amounts of Assets
+Presented in the
+Statement of
+Financial Condition
+
+Gross Amounts Not Offset in
+
+the Statement of
+
+Financial Condition
+
+Financial
+Instruments (a)
+
+Cash Collateral
+Received
+
+Net Amount
+
+Assets
+
+Freestanding Derivatives
+
+$
+
+193,552
+
+$
+
+122,391
+
+$
+
+54,388
+
+$
+
+ 16,773
+
+December 31, 2024
+
+Gross and Net
+Amounts of Liabilities
+Presented in the
+Statement of
+
+Financial Condition
+
+Gross Amounts Not Offset in
+
+the Statement of
+
+Financial Condition
+
+Financial
+Instruments (a)
+
+Cash Collateral
+Pledged
+
+Net
+
+Amount
+
+Liabilities
+
+Freestanding Derivatives
+
+$
+
+137,551
+
+$
+
+125,056
+
+$
+
+10
+
+$
+
+12,485
+
+Repurchase Agreements
+
+6,758
+
+6,758
+
+$
+
+144,309
+
+$
+
+131,814
+
+$
+
+ 10
+
+$
+
+ 12,485
+
+Offsetting of Liabilities
+
+December 31, 2023
+
+Gross and Net
+Amounts of Assets
+Presented in the
+Statement of
+Financial Condition
+
+Gross Amounts Not Offset in
+
+the Statement of
+
+Financial Condition
+
+Financial
+Instruments (a)
+
+Cash Collateral
+Received
+
+Net
+
+Amount
+
+Assets
+
+Freestanding Derivatives
+
+$
+
+ 190,079
+
+$
+
+ 107,330
+
+$
+
+ 49,532
+
+$
+
+ 33,217
+
+December 31, 2023
+
+Gross and Net
+Amounts of Liabilities
+Presented in the
+Statement of
+
+Financial Condition
+
+Gross Amounts Not Offset in
+
+the Statement of
+
+Financial Condition
+
+Net
+
+Amount
+
+Financial
+Instruments (a)
+
+Cash Collateral
+Pledged
+
+Liabilities
+
+Freestanding Derivatives
+
+$
+
+ 90,635
+
+$
+
+ 87,777
+
+$
+
+ 625
+
+$
+
+ 2,233
+
+(a)
+
+Amounts presented are inclusive of both legally enforceable master netting agreements and financial instruments received or pledged as collateral. Financial instruments received or pledged as collateral offset derivative counterparty risk exposure, but do not reduce net balance sheet exposure.
+
+X
+
+- DefinitionTabular disclosure of derivative and other financial assets that are subject to offsetting, including master netting arrangements.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
++ Details
+
+ Name:
+us-gaap_OffsettingAssetsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of derivative and other financial liabilities that are subject to offsetting, including master netting arrangements.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
++ Details
+
+ Name:
+us-gaap_OffsettingLiabilitiesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

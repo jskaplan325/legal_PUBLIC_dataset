@@ -1,0 +1,204 @@
+XML
+53
+R31.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY-BASED COMPENSATION
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Share-Based Payment Arrangement [Abstract]
+
+EQUITY-BASED COMPENSATION
+EQUITY-BASED COMPENSATIONThe following table summarizes the expense associated with equity-based compensation in connection with KKR equity incentive awards and incentive awards previously granted under the Global Atlantic Financial Company Book Value Award Plan ("GA Book Value Plan") and the Global Atlantic Senior Management Equity Incentive Plan ("GA Equity Incentive Plan") for the years ended December 31, 2024, 2023, and 2022, respectively. As of December 31, 2024, there are no awards outstanding under either the GA Book Value Plan or the GA Equity Incentive Plan.
+
+ For the Years Ended December 31,
+ 2024 2023 2022
+Asset Management (1)
+ $ 611,644 $ 502,816 $ 569,518
+Insurance 134,799 115,653 160,718
+
+Total $ 746,443 $ 618,469 $ 730,236
+
+(1)For the year ended December 31, 2022, $119.8 million represents equity-based compensation expense in connection with the allocation of units of KKR Holdings, which were not dilutive to common stockholders of KKR & Co. Inc.
+
+KKR Equity Incentive Awards
+Under KKR's equity incentive plans, KKR is permitted to grant equity awards representing ownership interests in KKR & Co. Inc. common stock. On March 29, 2019, the Amended and Restated KKR & Co. Inc. 2019 Equity Incentive Plan (the "2019 Equity Incentive Plan") became effective. Following the effectiveness of the 2019 Equity Incentive Plan, KKR no longer makes further grants under the Amended and Restated KKR & Co. Inc. 2010 Equity Incentive Plan (the "2010 Equity Incentive Plan" and, together with the 2019 Equity Incentive Plan, our "Equity Incentive Plans"), and the 2019 Equity Incentive Plan became KKR's only plan for providing new equity awards by KKR & Co. Inc. Outstanding awards under the 2010 Equity Incentive Plan will remain outstanding, unchanged and subject to the terms of the 2010 Equity Incentive Plan and their respective equity award agreements, until the vesting, expiration or lapse of such awards in accordance with their terms. The total number of equity awards representing shares of common stock that may be issued under the 2019 Equity Incentive Plan is equivalent to 15% of the aggregate number of the shares of common stock and KKR Group Partnership Units (excluding KKR Group Partnership Units held by KKR & Co. Inc. or its wholly-owned subsidiaries), subject to annual adjustment. As of December 31, 2024, 48,929,325 shares may be issued under the 2019 Equity Incentive Plan. KKR has also issued equity grants in the form of restricted holdings units through KKR Holdings III L.P. ("KKR Holdings III"), which are not issued under the 2019 Equity Incentive Plan and are currently held by certain current and former Global Atlantic employees. Equity awards granted generally consist of (i) restricted stock units that convert into shares of common stock of KKR & Co. Inc. (or cash equivalent) upon vesting and (ii) restricted holdings units that are exchangeable into shares of common stock of KKR & Co. Inc. upon vesting and certain other conditions, including those described below.
+Service-Vesting Awards
+KKR grants restricted stock units and restricted holdings units that are subject to service-based vesting, typically over a three to five-year period from the date of grant (referred to hereafter as "Service-Vesting Awards"). In certain cases, these Service-Vesting Awards may have a percentage of the award that vests immediately upon grant, and certain Service-Vesting Awards may have vesting periods longer than five years. Additionally, some but not all Service-Vesting Awards are subject to transfer restrictions and/or minimum retained ownership requirements. Generally, the transfer restriction period, if applicable, lasts for (i) one year with respect to one-half of the awards vesting on any vesting date and (ii) two years with respect to the other one-half of the awards vesting on such vesting date. While providing services to KKR, some but not all of these awards are also subject to minimum retained ownership rules requiring the award recipient to continuously hold shares of common stock equivalents equal to at least 15% of their cumulatively vested awards that have or had the minimum retained ownership requirement. Holders of the Service-Vesting Awards do not participate in dividends until such awards have met their vesting requirements.
+Expense associated with the vesting of these Service-Vesting Awards is based on the closing price of KKR & Co. Inc. common stock on the date of grant, discounted for the lack of participation rights in the expected dividends on unvested equity awards. Expense is recognized on a straight line basis over the life of the award and assumes a forfeiture rate of up to 7% annually based upon expected turnover by class of recipient.
+As of December 31, 2024, there was approximately $906 million of total estimated unrecognized expense related to unvested Service-Vesting Awards, which is expected to be recognized over the weighted average remaining requisite service period of 2.4 years.
+A summary of the status of unvested Service-Vesting Awards granted from January 1, 2024 through December 31, 2024 is presented below:
+
+ Shares (1)
+ Weighted
+Average Grant
+Date Fair Value
+Balance, January 1, 2024 23,228,671 $ 53.22
+Granted 5,796,078 92.29
+Vested (7,062,056) 50.29
+Forfeitures (856,803) 60.07
+Balance, December 31, 2024 21,105,890 $ 64.65
+
+(1)Unvested Service-Vesting Awards include restricted stock units and restricted holdings units granted to certain current and former Global Atlantic employees.
+
+Market Condition Awards
+KKR also grants restricted stock units and restricted holdings units that are subject to both a service-based vesting condition and a market price based vesting condition (referred to hereafter as "Market Condition Awards"). The following is a discussion of the Market Condition Awards, excluding the Co-CEO Awards (as defined and discussed below).
+The number of Market Condition Awards (other than the Co-CEO awards) that will vest depend upon (i) the market price of KKR common stock reaching certain price targets that range from $45.00 to $140.00 and (ii) the employee being employed by KKR on a certain date, which typically ranges from five to six years from the date of grant (with exceptions for involuntary termination without cause, death and permanent disability). The market price vesting condition is met when the average closing price of KKR common stock during 20 consecutive trading days meets or exceeds the stock price targets. Holders of the Market Condition Awards do not participate in dividends until such awards have met both their service-based and market price based vesting requirements. Additionally, these awards are subject to additional transfer restrictions and minimum retained ownership requirements after vesting.
+Due to the existence of the service requirement, the vesting period for these Market Condition Awards (other than the Co-CEO awards) is explicit, and as such, compensation expense will be recognized on (i) a straight-line basis over the period from the date of grant through the date the award recipient is required to be employed by KKR and (ii) assumes a forfeiture rate of up to 7% annually based upon expected turnover. The fair value of the awards granted are based on a Monte Carlo simulation valuation model. In addition, the grant date fair value assumes that holders of the Market Condition Awards will not participate in dividends until such awards have met all of their vesting requirements.
+Below is a summary of the grant date fair value based on the Monte Carlo simulation valuation model and the significant assumptions used to estimate the grant date fair value of these Market Condition Awards:
+
+ Weighted
+Average Range
+Grant Date Fair Value $30.62 $19.87 - $79.94
+
+Closing KKR share price as of valuation date $51.74 $37.93 - $98.62
+
+Risk Free Rate 2.21% 0.41% - 4.41%
+
+Volatility 30.04% 28.00% - 38.00%
+
+Dividend Yield 1.27% 0.71% - 1.53%
+
+Expected Cost of Equity 10.74% 9.13% - 11.80%
+
+As of December 31, 2024, there was approximately $557 million of total estimated unrecognized expense related to these unvested Market Condition Awards, which is expected to be recognized over the weighted average remaining requisite service period of 2.6 years.
+A summary of the status of unvested Market Condition Awards granted from January 1, 2024 through December 31, 2024 is presented below:
+
+ Shares (1)
+ Weighted
+Average Grant
+Date Fair Value
+Balance, January 1, 2024 36,497,589 $ 29.59
+Granted 2,278,830 58.31
+Vested (234,776) 22.10
+Forfeitures (522,620) 31.44
+Balance, December 31, 2024 38,019,023 $ 31.33
+
+(1)Unvested Market Condition Awards include restricted holdings units granted to certain current and former Global Atlantic employees.
+As of December 31, 2024, all of the Market Condition awards have met their market price based vesting condition. These Market Condition awards remain unvested until their service conditions (as described above) are satisfied.
+Co-CEO Awards
+On December 9, 2021, the Board of Directors approved grants of 7.5 million restricted holdings units to each of KKR s Co-Chief Executive Officers that are subject to both a service-based vesting condition and a market price based vesting condition (referred to hereafter as "Co-CEOs Awards"). For both Co-Chief Executive Officers, 20% of the Co-CEOs Awards are eligible to vest at each of the following KKR common stock prices targets: $95.80, $105.80, $115.80, $125.80 and $135.80. The market price based vesting condition is met when the average closing price of KKR common stock during 20 consecutive trading days meets or exceeds the stock price targets. In addition to the market price based vesting conditions, in order for the award to vest, the Co-Chief Executive Officer is required to be employed by KKR on December 31, 2026 (with exceptions for involuntary termination without cause, death and permanent disability).
+These awards will be automatically canceled and forfeited upon the earlier of a Co-Chief Executive Officer s termination of service (except for involuntary termination without cause, death or permanent disability) or the failure to meet the market price based vesting condition by December 31, 2028 (for which continued service is required if the market price vesting condition is met after December 31, 2026). Co-CEO Awards do not participate in dividends until such awards have met both their service-based and market price based vesting requirements. Additionally, these awards are subject to additional transfer restrictions and minimum retained ownership requirements after vesting.
+Due to the existence of the service requirement, the vesting period for these Co-CEO Awards is explicit, and as such, compensation expense will be recognized on a straight-line basis over the period from the date of grant through December 31, 2026 given the derived service period is less than the explicit service period. The fair value of the awards granted are based on a Monte Carlo simulation valuation model. In addition, the grant date fair value assumes that these Co-CEO Awards will not participate in dividends until such awards have met all of their vesting requirements.
+Below is a summary of the grant date fair value based on the Monte Carlo simulation valuation model and the significant assumptions used to estimate the grant date fair value of these Co-CEO Awards:
+
+Grant Date Fair Value $48.91
+Closing KKR share price as of valuation date $75.76
+Risk Free Rate 1.42 %
+Volatility 28.0 %
+Dividend Yield 0.77 %
+Expected Cost of Equity 9.36 %
+
+As of December 31, 2024, there was approximately $290 million of total estimated unrecognized expense related to these unvested Co-CEO Awards, which is expected to be recognized ratably from January 1, 2025 to December 31, 2026. As of December 31, 2024, all Co-CEO Awards have met their market price based vesting condition. The Co-CEO Awards remain unvested until their service conditions (as described above) are satisfied.
+Modification and Replacement of Book Value Awards - Insurance
+On February 1, 2021, Global Atlantic adopted the GA Book Value Plan to enhance the ability of Global Atlantic to attract, motivate and retain its employees and to promote the success of the Global Atlantic business.
+The GA Book Value Plan authorized the grant of cash-settled awards ("book value awards," or "BVAs") representing the right to receive one or more payments upon vesting equal to the product of an initial dollar value set by the award multiplied by a pre-determined formula as of each applicable vesting date. The predetermined formula was equal to the quotient determined by dividing the book value of one share of TGAFG on the applicable vesting date by the book value of a share on the original grant date, subject to adjustments. Book value awards generally vested in three equal, annual installments, subject to continued employment.
+BVAs were accounted for as profit sharing arrangements in accordance with Accounting Standard Codification 710, Compensation General ("ASC 710"). On January 2, 2024, KKR replaced the BVAs with approximately 1.9 million of Service-Vesting Awards granted pursuant to our 2019 Equity Incentive Plan, which are accounted for as equity classified awards in scope of ASC 718. As such, this modification resulted in (i) a change in scope from ASC 710 to ASC 718, (ii) a change in classification from liability to equity and (iii) a corresponding reclassification of $77 million from Accrued Expenses and Other Liabilities to Additional Paid-In Capital in the consolidated statement of financial condition. Accordingly, these awards are not remeasured to fair value after the modification date. No incremental expense recognition was required upon the modification of the BVAs, because no incremental value was transferred to employees. The service and vesting conditions of the Service-Vesting Awards mirror those of the BVAs.
+Modification and Replacement of GA Equity Incentive Plan Awards - Insurance
+On June 24, 2021, Global Atlantic issued 1,000 non-voting incentive shares to a Bermuda exempted partnership owned by certain Global Atlantic employees, who were eligible to receive incentive units under the GA Equity Incentive Plan. These incentive units represented an interest in the receipt of certain amounts based on Global Atlantic's book value, market value, and AUM, in each case as derived in part from the value of TGAFG s fully-diluted equity shares.
+The GA Equity Incentive Plan awards were accounted for as a hybrid compensation plan, consisting of one component most closely aligned with a profit-sharing plan under ASC 710, as well as other components within scope of ASC 718, in all cases with obligations liability-classified. Accordingly, with regard to awards within scope of ASC 710, Global Atlantic recorded expense based on payouts deemed to be probable and reasonably estimable based on the book value growth of Global Atlantic at the grant date and at each reporting period. For award components subject to liability-classification under ASC 718, Global Atlantic recorded expense, net of a 0% estimated forfeiture rate, based on the fair value of awards granted, with periodic adjustments to expense for changes in fair value, over the requisite 5-year service period.
+On January 2, 2024, KKR replaced the GA Equity Incentive Plan awards with (i) 1.3 million of Service-Vesting Awards with a remaining vesting period of approximately 2 years and 0.9 million of Market Condition Awards, both of which are accounted for as equity classified awards in scope of ASC 718, and (ii) $54 million in vested KKR Holdings III restricted holdings units. As such, this modification resulted in (i) a change in scope from ASC 710 to ASC 718 for a portion of the award, (ii) a change in classification from liability to equity and (iii) a corresponding reclassification of $149 million from Accrued Expenses and Other Liabilities to Additional Paid-In Capital in the consolidated statement of financial condition. No incremental expense recognition was required upon the modification of the GA Equity Incentive Plan awards, because no incremental value was transferred to employees.
+Due to the existence of the service requirement, the vesting period for the Market Condition Awards is explicit, and as such, compensation expense will be recognized on (i) a straight-line basis over the period from the date of grant through the date the award recipient is required to be employed by KKR and (ii) assumes a forfeiture rate of up to 4% annually based upon expected turnover. The fair value of the awards granted are based on a Monte Carlo simulation valuation model.
+
+X
+
+- DefinitionThe entire disclosure for share-based payment arrangement.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/718/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (l)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

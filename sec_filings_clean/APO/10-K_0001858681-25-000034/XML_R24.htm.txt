@@ -1,0 +1,366 @@
+XML
+54
+R24.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Equity
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Equity [Abstract]
+
+Equity
+16. Equity
+
+Common Stock
+
+Holders of common stock are entitled to participate in dividends from the Company on a pro rata basis.
+
+During the years ended December 31, 2024, 2023 and 2022, the Company issued shares of common stock in settlement of vested RSUs. The Company has generally allowed holders of vested RSUs and exercised share options to settle their tax liabilities by reducing the number of shares of common stock issued to them, which the Company refers to as net share settlement. Additionally, the Company has generally allowed holders of share options to settle their exercise price by reducing the number of shares of common stock issued to them at the time of exercise by an amount sufficient to cover the exercise price. The net share settlement results in a liability for the Company and a corresponding adjustment to retained earnings (accumulated deficit).
+
+On January 3, 2022, the Company announced a share repurchase program, pursuant to which, the Company was authorized to repurchase (i) up to an aggregate of $1.5 billion of shares of its common stock in order to opportunistically reduce its share count and (ii) up to an aggregate of $1.0 billion of shares of its common stock in order to offset the dilutive impact of share issuances under its equity incentive plans. On February 21, 2023, the AGM board of directors approved a reallocation of the Company s share repurchase program, pursuant to which, the Company was authorized to repurchase (i) up to an aggregate of $1.0 billion of shares of its common stock in order to opportunistically reduce its share count, a decrease of $0.5 billion of
+shares from the previously authorized amount and (ii) up to an aggregate of $1.5 billion of shares of its common stock in order to offset the dilutive impact of share issuances under its equity incentive plans, an increase of $0.5 billion of shares from the previously authorized amount.
+
+On February 8, 2024, the AGM board of directors terminated the Company s prior share repurchase program and approved a new share repurchase program, pursuant to which, the Company is authorized to repurchase up to $3.0 billion of shares of its common stock to opportunistically reduce the Company s share count or offset the dilutive impact of share issuances under the Company s equity incentive plans. Shares of common stock may be repurchased from time to time in open market transactions, in privately negotiated transactions, pursuant to a trading plan adopted in accordance with Rule 10b5-1 of the Exchange Act, or otherwise, as well as through reductions of shares that otherwise would have been issued to participants under the Company s Equity Plan in order to satisfy associated tax obligations. The repurchase program does not obligate the Company to make any repurchases at any specific time. The program is effective until the aggregate repurchase amount that has been approved by the AGM board of directors has been expended and may be suspended, extended, modified or discontinued at any time.
+
+The table below outlines the share activity for the years ended December 31, 2024, 2023 and 2022 :
+
+ Years ended December 31,
+ 2024 2023 2022
+Shares of common stock issued in settlement of vested RSUs and options exercised1
+ 7,852,512 8,643,520 6,663,694
+Shares issued to Apollo Opportunity Foundation2
+ 1,724,137
+Reduction of shares of common stock issued3
+ (2,998,607) (3,185,680) (2,896,130)
+Shares of common stock purchased related to share issuances and forfeitures4
+ (150,676) (162,123) (219,960)
+Issuance of shares of common stock for equity-based awards 4,703,229 5,295,717 5,271,741
+
+1 The gross value of shares issued was $868 million, $626 million and $420 million for the years ended December 31, 2024, 2023 and 2022, respectively, based on the closing price of the shares of common stock at the time of issuance.
+
+2 Shares issued to Apollo Opportunity Foundation in connection with an irrevocable pledge to contribute 1.7 million shares of common stock. The gross value of shares issued for the year ended December 31, 2022 totaled $103 million.
+
+3 Cash paid for tax liabilities associated with net share settlement was $338 million, $259 million and $185 million for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+4 Certain Apollo employees receive a portion of the profit sharing proceeds of certain funds in the form of (a) restricted shares of common stock that they are required to purchase with such proceeds or (b) RSUs, in each case which equity-based awards generally vest over three years. These equity-based awards are granted under the Company's Equity Plan. To prevent dilution on account of these awards, Apollo may, in its discretion, repurchase shares of common stock on the open market and retire them. During the years ended December 31, 2024, 2023 and 2022, Apollo issued 401,111, 551,333 and 546,766 of such restricted shares and 150,676, 162,123 and 219,960 of such RSUs under the Equity Plan, respectively. During the years ended December 31, 2023 and 2022, Apollo repurchased 713,456 and 766,726 shares of common stock in open-market transactions not pursuant to a publicly-announced repurchase plan or program, respectively. In addition, there were 1,085, 10,880 and 12,883 restricted shares forfeited during the years ended December 31, 2024, 2023 and 2022, respectively.
+
+During the years ended December 31, 2024, 2023 and 2022, 7,845,000, 7,469,544 and 9,974,909 shares of common stock, respectively, were repurchased in open market transactions as part of the publicly announced share repurchase programs discussed above, and such shares were subsequently canceled by the Company. The Company paid $890 million, $508 million and $588 million for these open market share repurchases during the years ended December 31, 2024, 2023 and 2022, respectively.
+
+During the second quarter of 2024, the Company issued 742,742 shares of common stock in settlement of share-based contingent consideration. See note 19 for further information on the contingent consideration.
+
+Mandatory Convertible Preferred Stock
+
+On August 11, 2023, the Company issued 28,750,000 shares, or $1.4 billion aggregate liquidation preference, of its 6.75% Series A Mandatory Convertible Preferred Stock (the Mandatory Convertible Preferred Stock ).
+
+Dividends on the Mandatory Convertible Preferred Stock will be payable on a cumulative basis when, as and if declared by the AGM board of directors, or an authorized committee thereof, at an annual rate of 6.75% on the liquidation preference of $50.00 per share, and may be paid in cash or, subject to certain limitations, in shares of common stock or, subject to certain limitations, any combination of cash and shares of common stock. If declared, dividends on the Mandatory Convertible Preferred Stock will be payable quarterly on January 31, April 30, July 31 and October 31 of each year, commencing on October 31, 2023, and
+ending on, and including, July 31, 2026. The first dividend payment on October 31, 2023 was $0.7500 per share of Mandatory Convertible Preferred Stock, with subsequent quarterly cash dividends expected to be $0.8438 per share of Mandatory Convertible Preferred Stock.
+
+Unless converted earlier in accordance with its terms, each share of Mandatory Convertible Preferred Stock will automatically convert on the mandatory conversion date, which is expected to be July 31, 2026, into between 0.5056 shares and 0.6067 shares of common stock, in each case, subject to customary anti-dilution adjustments described in the certificate of designations related to the Mandatory Convertible Preferred Stock (the Certificate of Designations ). The number of shares of common stock issuable upon conversion will be determined based on the average volume weighted average price per share of common stock over the 20 consecutive trading day period beginning on, and including, the 21st scheduled trading day immediately prior to July 31, 2026.
+
+Holders of shares of Mandatory Convertible Preferred Stock have the option to convert all or any portion of their shares of Mandatory Convertible Preferred Stock at any time. The conversion rate applicable to any early conversion may in certain circumstances be increased to compensate holders of the Mandatory Convertible Preferred Stock for certain unpaid accumulated dividends as described in the Certificate of Designations.
+
+If a Fundamental Change, as defined in the Certificate of Designations, occurs on or prior to July 31, 2026, then holders of the Mandatory Convertible Preferred Stock will be entitled to convert all or any portion of their Mandatory Convertible Preferred Stock at the Fundamental Change Conversion Rate for a specified period of time and to also receive an amount to compensate them for certain unpaid accumulated dividends and any remaining future scheduled dividend payments.
+
+The Mandatory Convertible Preferred Stock is not subject to redemption at the Company s option.
+
+During the year ended December 31, 2024, 235 shares of the Mandatory Convertible Preferred Stock were converted at the option of the respective holders. As of December 31, 2024 and December 31, 2023, there were 28,749,765 and 28,750,000 shares of Mandatory Convertible Preferred Stock issued and outstanding, respectively.
+
+Warrants
+
+In 2022, the Company issued warrants in a private placement exercisable for up to 12.5 million shares of common stock at an exercise price of $82.80 per share. As of December 31, 2024, warrants exercisable for 7.5 million shares of common stock were vested and exercisable. The remaining warrants exercisable for 2.5 million shares of common stock each become exercisable in the first quarter of 2025 and 2026, respectively.
+
+In November 2024, the Company issued warrants in a private placement exercisable for up to 2.9 million shares of common stock at an exercise price of $173.51 per share. The warrants are exercisable on the issuance date and each of the first, second, third, fourth, fifth and sixth anniversaries thereof. As of December 31, 2024, warrants exercisable for 0.4 million shares of common stock were vested and exercisable. Each warrant, to the extent exercised, will be settled on a cashless net exercise basis. The warrants will expire on the seventh anniversary of the issuance date, with any vested but unexercised warrants being automatically exercised at such time if the trading price of common stock is above the exercise price.
+
+Donor-Advised Fund
+
+In February 2025, the Company disclosed that it is establishing a new donor-advised fund (the Apollo DAF ) as part of its ongoing commitment to philanthropy. The Company issued 1,213,003 shares of common stock in February 2025 to fund the Apollo DAF.
+Dividends and Distributions
+
+Outlined below is information regarding quarterly dividends and distributions (in millions, except per share data).
+
+Dividend Declaration Date Dividend per Share of Common Stock Payment Date Dividend to Common Stockholders Distribution Equivalents on Participating Securities
+
+February 11, 2022 $ 0.40 February 28, 2022 $ 229 $ 12
+May 5, 2022 0.40 May 31, 2022 229 12
+August 4, 2022 0.40 August 31, 2022 229 11
+November 2, 2022 0.40 November 30, 2022 229 11
+Year ended December 31, 2022 $ 1.60 $ 916 $ 46
+February 9, 2023 $ 0.40 February 28, 2023 $ 229 $ 12
+May 9, 2023 0.43 May 31, 2023 244 12
+August 3, 2023 0.43 August 31, 2023 244 12
+November 1, 2023 0.43 November 30, 2023 244 15
+Year ended December 31, 2023 $ 1.69 $ 961 $ 51
+February 8, 2024 $ 0.43 February 29, 2024 $ 245 $ 14
+May 2, 2024 0.46 May 31, 2024 263 16
+August 1, 2024 0.46 August 30, 2024 262 15
+November 5, 2024 0.46 November 29, 2024 262 15
+Year ended December 31, 2024 $ 1.81 $ 1,032 $ 60
+
+Accumulated Other Comprehensive Income (Loss)
+
+(In millions) Unrealized investment gains (losses) on AFS securities without a credit allowance Unrealized investment gains (losses) on AFS securities with a credit allowance Unrealized gains (losses) on hedging instruments Remeasurement gains (losses) on future policy benefits related to discount rate Remeasurement gains (losses) on market risk benefits related to credit risk Foreign currency translation and other adjustments Accumulated other comprehensive income (loss)
+Balance at December 31, 2023 $ (8,675) $ (289) $ (81) $ 3,458 $ 3 $ 9 $ (5,575)
+
+Other comprehensive income (loss) before reclassifications (1,354) (5) (8) 1,425 (149) (101) (192)
+Less: Reclassification adjustments for gains (losses) realized1
+ (223) (15) 43 (195)
+Less: Income tax expense (benefit) (219) 3 (8) 287 (31) (11) 21
+Less: Other comprehensive income (loss) attributable to non-controlling interests, net of tax (413) 2 (5) 361 (12) (32) (99)
+Balance at December 31, 2024 $ (9,174) $ (284) $ (119) $ 4,235 $ (103) $ (49) $ (5,494)
+
+1 Recognized in investment related gains (losses) on the consolidated statements of operations.
+
+(In millions) Unrealized investment gains (losses) on AFS securities without a credit allowance Unrealized investment gains (losses) on AFS securities with a credit allowance Unrealized gains (losses) on hedging instruments Remeasurement gains (losses) on future policy benefits related to discount rate Remeasurement gains (losses) on market risk benefits related to credit risk Foreign currency translation and other adjustments Accumulated other comprehensive income (loss)
+Balance at December 31, 2022 $ (12,568) $ (334) $ 48 $ 5,256 $ 285 $ (22) $ (7,335)
+
+Other comprehensive income (loss) before reclassifications 5,067 51 (117) (2,236) (374) 65 2,456
+Less: Reclassification adjustments for gains (losses) realized1
+ (163) (3) 82 (84)
+Less: Income tax expense (benefit) 588 6 (51) 38 (78) 10 513
+Less: Other comprehensive income (loss) attributable to non-controlling interests, net of subsidiary issuance of equity interest and tax 749 3 (19) (476) (14) 24 267
+Balance at December 31, 2023 $ (8,675) $ (289) $ (81) $ 3,458 $ 3 $ 9 $ (5,575)
+
+1 Recognized in investment related gains (losses) on the consolidated statements of operations.
+
+(In millions) Unrealized investment gains (losses) on AFS securities without a credit allowance Unrealized investment gains (losses) on AFS securities with a credit allowance Unrealized gains (losses) on hedging instruments Remeasurement gains (losses) on future policy benefits related to discount rate Remeasurement gains (losses) on market risk benefits related to credit risk Foreign currency translation and other adjustments Accumulated other comprehensive income (loss)
+Balance at December 31, 2021 $ (1) $ $ (1) $ $ $ (3) $ (5)
+
+Other comprehensive income (loss) before reclassifications (17,931) (463) 71 8,425 366 (58) (9,590)
+Less: Reclassification adjustments for gains (losses) realized1
+ (218) (18) 67 (169)
+Less: Income tax expense (benefit) (3,154) (86) 12 1,223 77 (5) (1,933)
+Less: Other comprehensive income (loss) attributable to non-controlling interests, net of tax (1,992) (25) (57) 1,946 4 (34) (158)
+Balance at December 31, 2022 $ (12,568) $ (334) $ 48 $ 5,256 $ 285 $ (22) $ (7,335)
+
+1 Recognized in investment related gains (losses) on the consolidated statements of operations.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EquityAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for equity.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 505
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478448/946-505-50-6
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480237/815-40-50-6
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(e)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 10: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/505/tableOfContent
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 16
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-16
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
++ Details
+
+ Name:
+us-gaap_StockholdersEquityNoteDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

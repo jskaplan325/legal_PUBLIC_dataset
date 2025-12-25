@@ -1,0 +1,133 @@
+XML
+47
+R25.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Earnings Per Share [Abstract]
+
+NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK
+NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCKFor the years ended December 31, 2024, 2023, and 2022, basic and diluted Net Income (Loss) attributable to KKR & Co. Inc. per share of common stock were calculated as follows:
+
+ Years Ended December 31,
+ 2024 2023 2022
+
+Net Income (Loss) Available to KKR & Co. Inc.
+Common Stockholders - Basic $ 3,076,245 $ 3,680,514 $ (590,664)
+(+) Series C Mandatory Convertible Preferred Dividend (if dilutive) (1)
+ 51,747
+Net Income (Loss) Available to KKR & Co. Inc.
+Common Stockholders - Diluted $ 3,076,245 $ 3,732,261 $ (590,664)
+
+Basic Net Income (Loss) Per Share of Common Stock
+Weighted Average Shares of Common Stock Outstanding - Basic 887,021,433 867,496,813 749,504,970
+Net Income (Loss) Attributable to KKR & Co. Inc.
+Per Share of Common Stock - Basic $ 3.47 $ 4.24 $ (0.79)
+
+Diluted Net Income (Loss) Per Share of Common Stock
+Weighted Average Shares of Common Stock Outstanding - Basic 887,021,433 867,496,813 749,504,970
+Incremental Common Shares:
+Assumed vesting of dilutive equity awards (2)
+ 51,883,167 25,294,958
+Assumed conversion of Series C Mandatory Convertible Preferred Stock (1)
+ 18,995,662
+Weighted Average Shares of Common Stock Outstanding - Diluted 938,904,600 911,787,433 749,504,970
+Net Income (Loss) Attributable to KKR & Co. Inc.
+Per Share of Common Stock - Diluted $ 3.28 $ 4.09 $ (0.79)
+
+(1)For the year ended December 31, 2023, the impact of Series C Mandatory Convertible Preferred Stock calculated under the if-converted method was dilutive, and as such (i) shares of common stock (assuming a conversion ratio based on the average volume weighted average price per share of common stock over each reporting period) were included in the Weighted Average Shares of Common Stock Outstanding - Diluted and (ii) Series C Mandatory Convertible Preferred dividends were added back to Net Income (Loss) Available to KKR & Co. Inc. Common Stockholders - Diluted.
+(2)For the years ended December 31, 2024 and 2023 Weighted Average Shares of Common Stock Outstanding Diluted includes unvested equity awards, including certain equity awards that have met their market price-based vesting condition but have not satisfied their service-based vesting condition. Vesting of these equity awards dilute equity holders of KKR Group Partnership, including KKR & Co. Inc. and holders of exchangeable securities pro rata in accordance with their respective ownership interests in KKR Group Partnership. For the year ended December 31, 2022, all unvested equity awards are excluded from the calculation of Diluted Net Income (Loss) Attributable to KKR & Co. Inc. Per Share of Common Stock because inclusion of such unvested equity awards would be anti-dilutive having the effect of decreasing the loss per share of common stock.
+Exchangeable Securities
+For the years ended December 31, 2024, 2023, and 2022, KKR Holdings Units and vested restricted holdings units (as defined in Note 19 "Equity Based Compensation") have been excluded from the calculation of Net Income (Loss) Attributable to KKR & Co. Inc. Per Share of Common Stock - Diluted since the exchange of these units would not dilute KKR & Co. Inc. s ownership interests in KKR Group Partnership. Since May 31, 2022, there are no outstanding KKR Holdings Units. See Note 1 "Organization" in our financial statements.
+
+ Years Ended December 31,
+ 2024 2023 2022
+Weighted Average KKR Holdings Units 107,018,025
+Weighted Average Vested Restricted Holdings Units 6,828,095 3,675,345 2,250,186
+Total 6,828,095 3,675,345 109,268,211
+
+Market Condition Awards
+For the years ended December 31, 2024, 2023, and 2022, 19.4 million, 25.7 million, and 17.5 million respectively, of unvested equity awards that are subject to market price based and service-based vesting conditions were excluded from the calculation of Net Income (Loss) Attributable to KKR & Co. Inc. Per Share of Common Stock - Diluted since the market price based vesting condition was not satisfied. See Note 19 "Equity Based Compensation" in our financial statements.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EarningsPerShareAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for earnings per share.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/260/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-3
+
++ Details
+
+ Name:
+us-gaap_EarningsPerShareTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,1016 @@
+XML
+117
+R94.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Commitments and Contingencies - Additional Information (Details)
+ R$ in Millions
+
+2 Months Ended
+12 Months Ended
+
+Jan. 13, 2025
+
+USD ($)
+
+Feb. 28, 2025
+
+USD ($)
+
+Dec. 31, 2024
+
+USD ($)
+
+employee
+
+Dec. 31, 2023
+
+USD ($)
+
+Dec. 31, 2022
+
+USD ($)
+
+Dec. 31, 2024
+
+BRL (R$)
+
+Loss Contingencies [Line Items]
+
+Unfunded commitment
+
+$ 4,200,000,000
+
+Unfunded commitment to be paid by senior Carlyle executives and professionals
+
+3,500,000,000
+
+Commitments related to origination and syndication of loans
+
+15,300,000
+
+Accrued giveback obligations
+
+44,000,000.0
+
+$ 44,000,000.0
+
+Due from affiliates and other receivables, net
+
+805,600,000
+
+691,600,000
+
+Amount of giveback obligation of current and former related parties
+
+11,500,000
+
+Amount of net accrued giveback obligation of subsidiary
+
+$ 32,500,000
+
+Options to extend (up to)
+
+5 years
+
+5 years
+
+Options to terminate (within)
+
+1 year
+
+Operating lease cost
+
+$ 61,300,000
+
+58,500,000
+
+$ 56,300,000
+
+Number of employees serving on board of directors | employee
+
+2
+
+Proceeds from sale of investment
+
+$ 87,500,000
+
+Loss contingency accrual
+
+$ 44,000,000
+
+Minimum
+
+Loss Contingencies [Line Items]
+
+Term of lease
+
+1 year
+
+1 year
+
+Maximum
+
+Loss Contingencies [Line Items]
+
+Term of lease
+
+12 years
+
+12 years
+
+Affiliates
+
+Loss Contingencies [Line Items]
+
+Due from affiliates and other receivables, net
+
+$ 805,600,000
+
+691,600,000
+
+Unbilled receivable for giveback obligations from current and former employees | Affiliates
+
+Loss Contingencies [Line Items]
+
+Due from affiliates and other receivables, net
+
+11,500,000
+
+11,500,000
+
+Financial Guarantee, Employee Credit Facility
+
+Loss Contingencies [Line Items]
+
+Guarantor obligations, current carrying value
+
+0
+
+Contingent Obligations Giveback
+
+Loss Contingencies [Line Items]
+
+Cash withheld from carried interest distributions for potential giveback obligations
+
+144,800,000
+
+$ 145,400,000
+
+Amount of realized and distributed carried interest subject to potential giveback on after-tax basis
+
+1,400,000,000
+
+Amount of realized and distributed carried interest subject to potential giveback on after-tax basis, responsibility of current and former senior Carlyle professionals
+
+500,000,000
+
+Indemnifications
+
+Loss Contingencies [Line Items]
+
+Guaranteed loans
+
+$ 16,200,000
+
+R$ 100.0
+
+Subsequent event
+
+Loss Contingencies [Line Items]
+
+Civil penalty amount
+$ 8,500,000
+
+Scenario, Forecast | Subsequent event
+
+Loss Contingencies [Line Items]
+
+Debt extinguishment costs
+
+$ 4,300,000
+
+X
+
+- DefinitionAmount of realized performance fees, if the fund were liquidated at the reporting date fair value, that would be given back to the fund investors at the end of the fund's life if the fund fair value does not recover sufficiently to pass through the hurdle rate that allows for the recognition of performance fees.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AccruedGivebackObligations
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of accrued giveback obligation of various current and former senior Carlyle professionals and other limited partners of Carlyle Holdings partnerships
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AmountOfGivebackObligationOfCurrentAndFormerRelatedParties
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount represents the net accrued giveback obligation attributable to Carlyle Holdings
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AmountOfNetAccruedGivebackObligationOfSubsidiary
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of realized and distributed carried interest of potential giveback on after-tax basis.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AmountOfRealizedAndDistributedCarriedInterestOfPotentialGivebackOnAfterTaxBasis
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount Of Realized And Distributed Carried Interest Of Potential Giveback On After Tax Basis, Responsibility Of Third Parties
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AmountOfRealizedAndDistributedCarriedInterestOfPotentialGivebackOnAfterTaxBasisResponsibilityOfThirdParties
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionCash withheld from carried interest distributions for potential giveback obligations.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_CashWithheldFromCarriedInterestDistributionsForPotentialGivebackObligations
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLessee, Operating Lease, Option To Terminate, Term
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_LesseeOperatingLeaseOptionToTerminateTerm
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNumber Of Employees Serving On Board Of Directors
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_NumberOfEmployeesServingOnBoardOfDirectors
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUnfunded commitment as of the reporting date.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_UnfundedCommitment
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionUnfunded commitment to be paid by senior executives and professionals.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_UnfundedCommitmentToBePaidBySeniorExecutivesAndProfessionals
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionUnfunded Commitments, Origination And Syndication Of Loans
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_UnfundedCommitmentsOriginationAndSyndicationOfLoans
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionGross amount of debt extinguished.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ExtinguishmentOfDebtAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe current carrying amount of the liability for the freestanding or embedded guarantor's obligations under the guarantee or each group of similar guarantees.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-4
+
++ Details
+
+ Name:
+us-gaap_GuaranteeObligationsCurrentCarryingValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionMaximum potential amount of future payments (undiscounted) the guarantor could be required to make under the guarantee or each group of similar guarantees before reduction for potential recoveries under recourse or collateralization provisions.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-4
+
++ Details
+
+ Name:
+us-gaap_GuaranteeObligationsMaximumExposure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionTerm of lessee's operating lease renewal, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents reported fact of one year, five months, and thirteen days.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-3
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseRenewalTerm
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionTerm of lessee's operating lease, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents reported fact of one year, five months, and thirteen days.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-3
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseTermOfContract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 720
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483359/720-20-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 27
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482395/460-10-55-27
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-3
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
++ Details
+
+ Name:
+us-gaap_LossContingenciesLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of loss contingency liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/recommendedDisclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-10
+
++ Details
+
+ Name:
+us-gaap_LossContingencyAccrualAtCarryingValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of damages paid to the plaintiff in the legal matter.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
++ Details
+
+ Name:
+us-gaap_LossContingencyDamagesPaidValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of single lease cost, calculated by allocation of remaining cost of lease over remaining lease term. Includes, but is not limited to, single lease cost, after impairment of right-of-use asset, calculated by amortization of remaining right-of-use asset and accretion of lease liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 53
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479589/842-20-55-53
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_OperatingLeaseCost
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after allowance, of receivables classified as other, due within one year or the operating cycle, if longer.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OtherReceivablesNetCurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cash inflow from the sale of investments classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 12
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-12
+
++ Details
+
+ Name:
+us-gaap_ProceedsFromSaleOfOtherInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_AffiliatedEntityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_GIvebackObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_GuaranteeObligationsByNatureAxis=cg_FinancialGuaranteeEmployeeCreditFacilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_GuaranteeObligationsByNatureAxis=cg_ContingentObligationsGivebackMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_GuaranteeObligationsByNatureAxis=us-gaap_IndemnificationGuaranteeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_SubsequentEventTypeAxis=us-gaap_SubsequentEventMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementScenarioAxis=srt_ScenarioForecastMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

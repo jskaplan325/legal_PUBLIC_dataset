@@ -1,0 +1,627 @@
+XML
+115
+R85.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Derivatives - Schedule of Gains (Losses) Related to Cash Flow Hedges (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Foreign currency forwards
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivatives
+$ 220
+
+$ (169)
+
+$ 183
+
+Hedged items
+(238)
+
+167
+
+(190)
+
+Net
+(18)
+
+(2)
+
+(7)
+
+Foreign currency forwards | Fair Value Hedging
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Recognized in income through amortization approach
+43
+
+82
+
+67
+
+Recognized in income through changes in fair value
+19
+
+20
+
+9
+
+Gains (losses) excluded from the assessment of hedge effectiveness recognized in OCI
+(23)
+
+(45)
+
+20
+
+Foreign currency swaps
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivatives
+513
+
+(159)
+
+286
+
+Hedged items
+(520)
+
+169
+
+(310)
+
+Net
+(7)
+
+10
+
+(24)
+
+Foreign currency swaps | Fair Value Hedging
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Recognized in income through amortization approach
+0
+
+0
+
+0
+
+Recognized in income through changes in fair value
+0
+
+0
+
+0
+
+Gains (losses) excluded from the assessment of hedge effectiveness recognized in OCI
+(29)
+
+(187)
+
+88
+
+Foreign currency interest rate swaps
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivatives
+(160)
+
+282
+
+(622)
+
+Hedged items
+148
+
+(269)
+
+632
+
+Net
+(12)
+
+13
+
+10
+
+Foreign currency interest rate swaps | Fair Value Hedging
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Recognized in income through amortization approach
+0
+
+0
+
+0
+
+Recognized in income through changes in fair value
+0
+
+0
+
+0
+
+Interest rate swaps
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivatives
+6
+
+111
+
+(332)
+
+Hedged items
+(58)
+
+(118)
+
+323
+
+Net
+(52)
+
+(7)
+
+(9)
+
+Interest rate swaps | Fair Value Hedging
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Recognized in income through amortization approach
+0
+
+0
+
+0
+
+Recognized in income through changes in fair value
+0
+
+0
+
+0
+
+Foreign currency interest rate swaps
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Derivatives
+87
+
+57
+
+52
+
+Hedged items
+(85)
+
+(60)
+
+(53)
+
+Net
+2
+
+(3)
+
+(1)
+
+Foreign currency interest rate swaps | Fair Value Hedging
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Recognized in income through amortization approach
+0
+
+0
+
+0
+
+Recognized in income through changes in fair value
+$ 0
+
+$ 0
+
+$ 0
+
+X
+
+- DefinitionAmount of gain (loss) from the increase (decrease) in fair value of derivative and nonderivative instruments designated as fair value hedging instruments recognized in the income statement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 25
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480238/815-25-50-1
+
++ Details
+
+ Name:
+us-gaap_ChangeInUnrealizedGainLossOnFairValueHedgingInstruments1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of the increase (decrease) in fair value of the hedged item in a fair value hedge recognized in the income statement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 25
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480238/815-25-50-1
+
++ Details
+
+ Name:
+us-gaap_ChangeInUnrealizedGainLossOnHedgedItemInFairValueHedge1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) from excluded component of derivative hedge, recognized in earnings. Excludes recognition under systematic and rational method.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1A
+ -Subparagraph (b)
+ -SubTopic 20
+ -Topic 815
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480627/815-20-45-1A
+
++ Details
+
+ Name:
+us-gaap_DerivativeExcludedComponentGainLossRecognizedInEarnings
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTotal amount of gain (loss) derived from fair value hedges recognized in earnings in the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
++ Details
+
+ Name:
+us-gaap_GainLossOnFairValueHedgesRecognizedInEarnings
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax, of adjustments from accumulated other comprehensive income (AOCI) for gain (loss) from increase (decrease) in value of excluded component of derivative designated and qualifying as hedge. Adjustments include, but are not limited to, reclassifications for sale and settlement, and amounts recognized under systematic and rational method.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-11
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-15
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10A
+ -Subparagraph (dd)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-10A
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAdjustmentsBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before tax and adjustments, of gain (loss) from increase (decrease) in value of excluded component of derivative designated and qualifying as hedge. Adjustments include, but are not limited to, reclassifications for sale and settlement, and amounts recognized under systematic and rational method.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-11
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480627/815-20-45-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10A
+ -Subparagraph (dd)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482790/220-10-45-10A
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4C
+ -Subparagraph (bb)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4CCC
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4CCC
+
++ Details
+
+ Name:
+us-gaap_OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseBeforeAdjustmentsAndTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeForwardMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=us-gaap_FairValueHedgingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CurrencySwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CrossCurrencyInterestRateContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateSwapMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=apo_ForeignCurrencyInterestRateSwapInterestSensitiveContractBenefitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

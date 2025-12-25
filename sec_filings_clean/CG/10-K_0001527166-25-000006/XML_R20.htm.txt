@@ -1,0 +1,143 @@
+XML
+43
+R20.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Non-controlling Interests in Consolidated Entities
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Noncontrolling Interest [Abstract]
+
+Non-controlling Interests in Consolidated Entities
+11. Non-controlling Interests in Consolidated EntitiesThe components of the Company s non-controlling interests in consolidated entities are as follows:
+
+ As of December 31,
+
+ 2024
+
+ 2023
+
+ (Dollars in millions)
+
+Non-Carlyle interests in Consolidated Funds
+
+ $407.1
+
+ $415.3
+
+Non-Carlyle interests in majority-owned subsidiaries
+
+ 334.2
+
+ 184.5
+
+Non-controlling interest in carried interest, giveback obligations and cash held for carried
+interest distributions
+
+ (0.6)
+
+ (6.7)
+
+Non-controlling interests in consolidated entities
+
+ $740.7
+
+ $593.1
+
+The components of the Company s non-controlling interests in income of consolidated entities are as follows:
+
+ Year Ended December 31,
+
+ 2024
+
+ 2023
+
+ 2022
+
+ (Dollars in millions)
+
+Non-Carlyle interests in Consolidated Funds
+
+ $8.7
+
+ $82.6
+
+ $36.1
+
+Non-Carlyle interests in majority-owned subsidiaries
+
+ 61.5
+
+ 27.4
+
+ 20.7
+
+Non-controlling interest in carried interest, giveback obligations and cash
+held for carried interest distributions
+
+ 0.5
+
+ 1.7
+
+ 2.9
+
+Non-controlling interests in income of consolidated entities
+
+ $70.7
+
+ $111.7
+
+ $59.7
+
+X
+
+- DefinitionThe entire disclosure for noncontrolling interest in consolidated subsidiaries, which could include the name of the subsidiary, the ownership percentage held by the parent, the ownership percentage held by the noncontrolling owners, the amount of the noncontrolling interest, the location of this amount on the balance sheet (when not reported separately), an explanation of the increase or decrease in the amount of the noncontrolling interest, the noncontrolling interest share of the net Income or Loss of the subsidiary, the location of this amount on the income statement (when not reported separately), the nature of the noncontrolling interest such as background information and terms, the amount of the noncontrolling interest represented by preferred stock, a description of the preferred stock, and the dividend requirements of the preferred stock.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 810
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/810/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_MinorityInterestDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_NoncontrollingInterestAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

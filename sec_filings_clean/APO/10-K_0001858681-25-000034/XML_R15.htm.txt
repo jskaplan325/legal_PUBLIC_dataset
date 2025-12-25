@@ -1,0 +1,1061 @@
+XML
+45
+R15.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Fair Value Disclosures [Abstract]
+
+Fair Value
+7. Fair Value
+
+Fair Value Measurements of Financial Instruments
+
+The following summarize the Company s financial assets and liabilities recorded at fair value hierarchy level:
+
+ December 31, 2024
+(In millions) Level 1 Level 2 Level 3 NAV Total
+Assets
+Asset Management
+
+Cash and cash equivalents $ 2,692 $ $ $ $ 2,692
+Restricted cash and cash equivalents 3 3
+Cash and cash equivalents of VIEs 158 158
+
+Investments, at fair value 238 22 1,052 1
+ 72 1,384
+Investments of consolidated VIEs 191 111 2,258 234 2,794
+Due from related parties2
+ 27 27
+Derivative assets3
+ 40 29 69
+Total Assets Asset Management
+ 3,282 173 3,366 306 7,127
+Retirement Services
+
+AFS Securities
+U.S. government and agencies 7,149 2 7,151
+U.S. state, municipal and political subdivisions 921 921
+Foreign governments 658 881 29 1,568
+Corporate 11 79,253 4,321 83,585
+CLO 29,182 29,182
+ABS 7,672 16,529 24,201
+CMBS 10,741 10,741
+RMBS 7,759 256 8,015
+Total AFS securities 7,818 136,411 21,135 165,364
+Trading securities 22 1,539 22 1,583
+Equity securities 190 1,073 27 1,290
+Mortgage loans 63,239 63,239
+
+Funds withheld at interest embedded derivative (3,035) (3,035)
+Derivative assets 121 8,032 1 8,154
+Short-term investments 86 169 255
+Other investments 711 895 1,606
+Cash and cash equivalents 12,733 12,733
+Restricted cash and cash equivalents 943 943
+Investments in related parties
+AFS securities
+Corporate 1,029 1,108 2,137
+CLO 5,339 696 6,035
+ABS 890 9,741 10,631
+
+Total AFS securities related parties 7,258 11,545 18,803
+Trading securities 573 573
+Equity securities 234 234
+Mortgage loans 1,297 1,297
+Investment funds 1,139 1,139
+Funds withheld at interest embedded derivative (615) (615)
+
+Other investments 331 331
+Reinsurance recoverable 1,661 1,661
+Other assets5
+ 313 313
+(Continued)
+
+ December 31, 2024
+(In millions) Level 1 Level 2 Level 3 NAV Total
+Assets of consolidated VIEs
+Trading securities 347 1,954 2,301
+
+Mortgage loans 2,579 2,579
+Investment funds 770 16,890 17,660
+Other investments 4 103 107
+Cash and cash equivalents 583 583
+Total Assets Retirement Services
+ 22,414 155,457 104,337 16,890 299,098
+Total Assets $ 25,696 $ 155,630 $ 107,703 $ 17,196 $ 306,225
+Liabilities
+Asset Management
+
+Contingent consideration obligations4
+ $ $ $ 67 $ $ 67
+
+Total Liabilities Asset Management
+ 67 67
+Retirement Services
+
+Interest sensitive contract liabilities
+Embedded derivative 11,242 11,242
+Universal life benefits 742 742
+Future policy benefits
+AmerUs Life Insurance Company ( AmerUs ) Closed Block 1,102 1,102
+Indianapolis Life Insurance Company ( ILICO ) Closed Block and life benefits 538 538
+Market risk benefits5
+ 4,028 4,028
+Derivative liabilities 19 3,536 1 3,556
+Other liabilities 225 225
+Total Liabilities Retirement Services
+ 19 3,536 17,878 21,433
+Total Liabilities $ 19 $ 3,536 $ 17,945 $ $ 21,500
+
+(Concluded)
+
+ December 31, 2023
+(In millions) Level 1 Level 2 Level 3 NAV Total
+Assets
+Asset Management
+
+Cash and cash equivalents $ 2,748 $ $ $ $ 2,748
+Restricted cash and cash equivalents 2 2
+Cash and cash equivalents of VIEs 62 62
+
+Investments, at fair value 202 38 1,188 1
+ 61 1,489
+Investments of consolidated VIEs 16 1,492 127 1,635
+Due from related parties2
+ 37 37
+Derivative assets3
+ 13 13
+Total Assets Asset Management
+ 3,014 54 2,730 188 5,986
+
+Retirement Services
+
+AFS Securities
+U.S. government and agencies 5,392 7 5,399
+U.S. state, municipal and political subdivisions 1,046 1,046
+Foreign governments 895 964 40 1,899
+Corporate 10 75,711 2,525 78,246
+CLO 20,207 20,207
+ABS 6,440 6,943 13,383
+CMBS 6,570 21 6,591
+RMBS 7,302 265 7,567
+Total AFS securities 6,297 118,247 9,794 134,338
+Trading securities 24 1,654 28 1,706
+Equity securities 210 699 26 935
+Mortgage loans 44,115 44,115
+
+Funds withheld at interest embedded derivative (3,379) (3,379)
+Derivative assets 108 5,190 5,298
+Short-term investments 236 105 341
+Other investments 313 630 943
+Cash and cash equivalents 13,020 13,020
+Restricted cash and cash equivalents 1,761 1,761
+Investments in related parties
+AFS securities
+Corporate 181 1,171 1,352
+CLO 3,762 506 4,268
+ABS 563 7,826 8,389
+Total AFS securities related parties 4,506 9,503 14,009
+Trading securities 838 838
+Equity securities 63 255 318
+Mortgage loans 1,281 1,281
+Investment funds 1,082 1,082
+Funds withheld at interest embedded derivative (721) (721)
+
+Other investments 343 343
+Reinsurance recoverable 1,367 1,367
+Other assets5
+ 378 378
+Assets of consolidated VIEs
+Trading securities 284 1,852 2,136
+
+Mortgage loans 2,173 2,173
+Investment funds 977 14,843 15,820
+
+(Continued)
+
+ December 31, 2023
+(In millions) Level 1 Level 2 Level 3 NAV Total
+Other investments 2 101 103
+Cash and cash equivalents 98 98
+Total Assets Retirement Services
+ 21,581 131,131 70,748 14,843 238,303
+Total Assets $ 24,595 $ 131,185 $ 73,478 $ 15,031 $ 244,289
+Liabilities
+Asset Management
+
+Other liabilities of consolidated VIEs, at fair value $ $ 3 $ $ $ 3
+Contingent consideration obligations4
+ 93 93
+Derivative liabilities3
+ 42 42
+
+Total Liabilities Asset Management
+ 45 93 138
+
+Retirement Services
+
+Interest sensitive contract liabilities
+Embedded derivative 9,059 9,059
+Universal life benefits 834 834
+Future policy benefits
+AmerUs Closed Block 1,178 1,178
+ILICO Closed Block and life benefits 522 522
+Market risk benefits5
+ 3,751 3,751
+Derivative liabilities 17 1,977 1 1,995
+Other liabilities (64) 330 266
+Total Liabilities Retirement Services
+ 17 1,913 15,675 17,605
+Total Liabilities $ 17 $ 1,958 $ 15,768 $ $ 17,743
+
+(Concluded)
+
+1 Investments as of December 31, 2024 and December 31, 2023 excludes $248 million and $218 million, respectively, of performance allocations classified as Level 3 related to certain investments for which the Company elected the fair value option. The Company s policy is to account for performance allocations as investments.
+
+2 Due from related parties represents a receivable from a fund.
+
+3 Derivative assets and derivative liabilities are presented as a component of Other assets and Other liabilities, respectively, in the consolidated statements of financial condition.
+
+4 Other liabilities as of December 31, 2024 includes profit sharing payable of $67 million related to contingent obligations classified as Level 3. Other liabilities as of December 31, 2023 includes $26 million of contingent obligations related to the Griffin Capital acquisition classified as Level 3 and profit sharing payable of $67 million related to other contingent obligations classified as Level 3.
+
+5 Other assets consist of market risk benefits assets. See note 11 for additional information on market risk benefits assets and liabilities valuation methodology and additional fair value disclosures.
+
+Changes in fair value of contingent consideration obligations in connection with the acquisitions of Stone Tower and Griffin Capital are recorded in compensation and benefits expense and other income (loss), net, respectively, in the consolidated statements of operations. Refer to note 19 for further details.
+Level 3 Financial Instruments
+
+The following tables summarize the valuation techniques and quantitative inputs and assumptions used for financial assets and liabilities categorized as Level 3:
+
+ December 31, 2024
+ Fair Value
+(In millions)
+ Valuation Technique Unobservable Inputs Ranges Weighted Average
+Financial Assets
+Asset Management
+
+Investments $ 765 Discounted cash flow Discount rate 13.5% 52.8%
+ 17.8% 1
+
+ 128 Direct capitalization Capitalization rate 6.7% 6.7%
+ 159 Adjusted transaction value N/A N/A N/A
+Due from related parties 27 Discounted cash flow Discount rate 14.0% 14.0%
+Derivative assets 29 Option model Volatility rate 52.5% 52.5%
+Investments of consolidated VIEs
+Bank loans 168 Discounted cash flow Discount rate 5.6% 23.4%
+ 9.0% 1
+
+ 179 Adjusted transaction value N/A N/A N/A
+Equity securities 495 Dividend discount model Discount rate 14.1% 14.1%
+ 417 Discounted cash flow Discount rate 8.3% 13.3%
+ 13.3% 1
+
+ 69 Adjusted transaction value N/A N/A N/A
+ 27 Option Model Volatility rate 84.8% 117.5%
+ 110.7% 1
+
+Bonds 412 Discounted cash flow Discount rate 6.6% 11.7%
+ 7.0% 1
+
+ 491 Adjusted transaction value N/A N/A N/A
+
+Retirement Services
+AFS, trading and equity securities 28,655 Discounted cash flow Discount rate 4.7% 20.0%
+ 7.1% 1
+
+Mortgage loans2
+ 67,115 Discounted cash flow Discount rate 1.8% 43.1%
+ 6.7% 1
+
+Investment funds2
+ 1,909 Discounted cash flow Discount rate 6.6% 14.0%
+ 10.8% 1
+
+Financial Liabilities
+Asset Management
+Contingent consideration obligations 67 Discounted cash flow Discount rate 20.0% 25.0%
+ 23.6% 1
+
+Retirement Services
+Interest sensitive contract liabilities fixed indexed annuities embedded derivatives 11,242 Discounted cash flow Nonperformance risk 0.4% 1.1%
+ 0.7% 3
+
+ Option budget 0.5% 6.0%
+ 2.8% 4
+
+ Surrender rate 6.0% 14.2%
+ 9.0% 4
+
+1 Unobservable inputs were weighted based on the fair value of the investments included in the range.
+
+2 Includes those of consolidated VIEs.
+
+3 The nonperformance risk weighted average is based on the projected cash flows attributable to the embedded derivative.
+
+4 The option budget and surrender rate weighted averages are calculated based on projected account values.
+
+ December 31, 2023
+ Fair Value
+(In millions)
+ Valuation Techniques Unobservable Inputs Ranges Weighted Average
+Financial Assets
+Asset Management
+Investments $ 857 Discounted cash flow Discount rate 10.5% 52.8%
+ 17.2% 1
+
+ 112 Direct capitalization Capitalization rate 6.9% 6.9%
+
+ 219 Adjusted transaction value N/A N/A N/A
+Due from related parties 37 Discounted cash flow Discount rate 14.0% 14.0%
+Derivative assets 13 Option model Volatility rate 62.5% 62.5%
+Investments of consolidated VIEs
+Bank loans 605 Discounted cash flow Discount rate 7.7% 11.0%
+ 9.4% 1
+
+ 64 Adjusted transaction value N/A N/A N/A
+Equity securities 494 Dividend discount model Discount rate 13.5% 13.5%
+
+ 131 Adjusted transaction value N/A N/A N/A
+
+Bonds 35 Discounted cash flow Discount rate 6.1% 13.0%
+ 10.7% 1
+
+ 163 Adjusted transaction value N/A N/A N/A
+Retirement Services
+AFS, trading and equity securities 14,247 Discounted cash flow Discount rate 2.3% 18.1%
+ 7.0% 1
+
+Mortgage loans2
+ 47,569 Discounted cash flow Discount rate 2.5% 20.6%
+ 6.8% 1
+
+Investment funds2
+ 1,574 Discounted cash flow Discount rate 6.3% 13.5%
+ 11.2% 1
+
+ 483 Net tangible asset values Implied multiple 1.14x
+ 1.14x
+
+Financial Liabilities
+
+Asset Management
+Contingent consideration obligations 93 Discounted cash flow Discount rate 20.0% 25.0%
+ 23.3% 1
+
+ Option model Volatility rate 31.4% 33.4%
+ 32.4% 1
+
+Retirement Services
+Interest sensitive contract liabilities fixed indexed annuities embedded derivatives 9,059 Discounted cash flow Nonperformance risk 0.4% 1.4%
+ 0.9% 3
+
+ Option budget 0.5% 6.0%
+ 2.3% 4
+
+ Surrender rate 6.0% 13.4%
+ 8.7% 4
+
+1 Unobservable inputs were weighted based on the fair value of the investments included in the range.
+
+2 Includes those of consolidated VIEs.
+
+3 The nonperformance risk weighted average is based on the projected cash flows attributable to the embedded derivative.
+
+4 The option budget and surrender rate weighted averages are calculated based on projected account values.
+
+The following are reconciliations for Level 3 assets and liabilities measured at fair value on a recurring basis:
+
+ Year ended December 31, 2024
+ Total realized and unrealized gains (losses)
+(In millions) Beginning Balance Included in Income Included in OCI Net Purchases, Issuances, Sales and Settlements Net Transfers In (Out) Ending Balance Total Gains (Losses) Included in Earnings1
+ Total Gains (Losses) Included in OCI1
+
+Assets Asset Management
+
+Investments and derivative assets $ 1,201 $ (24) $ $ (28) $ (68) $ 1,081 $ 26 $
+Investments of consolidated VIEs 1,492 (15) 579 202 2,258 (17)
+Total Level 3 assets Asset Management
+ $ 2,693 $ (39) $ $ 551 $ 134 $ 3,339 $ 9 $
+
+Assets Retirement Services
+
+AFS securities
+
+Foreign governments $ 40 $ $ 1 $ (12) $ $ 29 $ $ 1
+Corporate 2,525 (20) 36 2,815 (1,035) 4,321 (18) 38
+
+ABS 6,943 47 (128) 9,812 (145) 16,529 (3) (130)
+CMBS 21 3 (5) (19)
+RMBS 265 8 83 (100) 256 (1)
+Trading securities 28 1 (21) 14 22 (1)
+Equity securities 26 1 27
+Mortgage loans 44,115 (192) 19,316 63,239 (145)
+
+Funds withheld at interest embedded derivative (3,379) 344 (3,035)
+Derivative assets 1 1
+Short-term investments 105 (1) (1) 145 (79) 169 (1)
+Other investments 630 (24) 289 895 (6)
+Investments in related parties
+AFS securities
+Corporate 1,171 (2) 40 53 (154) 1,108 24
+CLO 506 13 177 696 14
+ABS 7,826 48 (12) 1,879 9,741 (14)
+Trading securities 838 (1) (264) 573 (3)
+Equity securities 255 (16) (5) 234 (15)
+Mortgage loans 1,281 17 (1) 1,297 17
+Investment funds 1,082 (49) 106 1,139 (49)
+
+Funds withheld at interest embedded derivative (721) 106 (615)
+Other investments 343 (12) 331 (12)
+Reinsurance recoverable 1,367 (61) 355 1,661
+Assets of consolidated VIEs
+Trading securities 1,852 (80) 50 132 1,954 (87)
+
+Mortgage loans 2,173 (62) 447 21 2,579 (64)
+Investment funds 977 (68) 331 (470) 770 (16)
+Other investments 101 (10) 32 (20) 103 (9)
+Total Level 3 assets Retirement Services
+ $ 70,370 $ (24) $ (56) $ 35,588 $ (1,854) $ 104,024 $ (411) $ (69)
+
+(Continued)
+
+ Year ended December 31, 2024
+ Total realized and unrealized gains (losses)
+(In millions) Beginning Balance Included in Income Included in OCI Net Purchases, Issuances, Sales and Settlements Net Transfers In (Out) Ending Balance Total Gains (Losses) Included in Earnings1
+ Total Gains (Losses) Included in OCI1
+
+Liabilities Asset Management
+
+Contingent consideration obligations $ 93 $ 79 $ $ (105) $ $ 67 $ $
+
+Total Level 3 liabilities Asset Management
+ $ 93 $ 79 $ $ (105) $ $ 67 $ $
+
+Liabilities Retirement Services
+
+Interest sensitive contract liabilities
+Embedded derivative $ (9,059) $ (174) $ $ (2,009) $ $ (11,242) $ $
+Universal life benefits (834) 92 (742)
+Future policy benefits
+AmerUs Closed Block (1,178) 76 (1,102)
+ILICO Closed Block and life benefits (522) (16) (538)
+Derivative liabilities (1) (1)
+Other liabilities (330) (13) 54 64 (225)
+Total Level 3 liabilities Retirement Services
+ $ (11,924) $ (35) $ $ (1,955) $ 64 $ (13,850) $ $
+
+(Concluded)
+1 Related to instruments held at end of period.
+
+ Year ended December 31, 2023
+ Total realized and unrealized gains (losses)
+(In millions) Beginning Balance Included in Income Included in OCI Net Purchases, Issuances, Sales and Settlements Net Transfers In (Out) Ending Balance Total Gains (Losses) Included in Earnings1
+ Total Gains (Losses) Included in OCI1
+
+Assets Asset Management
+
+Investments and derivative assets $ 1,098 $ 63 $ $ 40 $ $ 1,201 $ 68 $
+Investments of consolidated VIEs 727 69 698 (2) 1,492 13
+Total Level 3 assets Asset Management
+ $ 1,825 $ 132 $ $ 738 $ (2) $ 2,693 $ 81 $
+Assets Retirement Services
+
+AFS securities
+
+Foreign governments $ 1 $ $ (2) $ 41 $ $ 40 $ $ (2)
+Corporate 1,665 (21) 45 1,298 (462) 2,525 21
+
+ABS 4,867 (9) 61 3,241 (1,217) 6,943 45
+CMBS 1 20 21 3
+RMBS 232 8 4 256 (235) 265 2
+Trading securities 53 2 (16) (11) 28
+Equity securities 92 (8) (45) (13) 26
+Mortgage loans 27,454 183 16,478 44,115 184
+
+Funds withheld at interest embedded derivative (4,847) 1,468 (3,379)
+Short-term investments 36 (3) 69 3 105
+Other investments 441 189 630 (3)
+Investments in related parties
+AFS securities
+Corporate 812 3 (32) 173 215 1,171 (32)
+CLO 303 18 185 506 18
+ABS 5,542 19 103 1,878 284 7,826 6 96
+Trading securities 878 12 (52) 838 8
+Equity securities 279 8 (32) 255 7
+Mortgage loans 1,302 9 (30) 1,281 8
+Investment funds 959 91 32 1,082 91
+Funds withheld at interest embedded derivative (1,425) 704 (721)
+
+Other investments 303 (2) 42 343 (3)
+Reinsurance recoverable 1,388 (21) 1,367
+Assets of consolidated VIEs
+Trading securities 622 69 (116) 1,277 1,852 69
+
+Mortgage loans 2,055 (9) 127 2,173 (9)
+Investment funds 2,471 (30) 73 (1,537) 977 (31)
+Other investments 99 9 (7) 101 9
+Total Level 3 assets Retirement Services
+ $ 45,582 $ 2,485 $ 195 $ 23,784 $ (1,676) $ 70,370 $ 336 $ 151
+
+Liabilities Asset Management
+
+Contingent consideration obligations $ 86 $ 11 $ $ (4) $ $ 93 $ $
+
+Total Level 3 liabilities Asset Management
+ $ 86 $ 11 $ $ (4) $ $ 93 $ $
+
+(Continued)
+
+ Year ended December 31, 2023
+ Total realized and unrealized gains (losses)
+(In millions) Beginning Balance Included in Income Included in OCI Net Purchases, Issuances, Sales and Settlements Net Transfers In (Out) Ending Balance Total Gains (Losses) Included in Earnings1
+ Total Gains (Losses) Included in OCI1
+
+Liabilities Retirement Services
+
+Interest sensitive contract liabilities
+Embedded derivative $ (5,841) $ (1,443) $ $ (1,775) $ $ (9,059) $ $
+Universal life benefits (829) (5) (834)
+Future policy benefits
+AmerUs Closed Block (1,164) (14) (1,178)
+ILICO Closed Block and life benefits (548) 26 (522)
+Derivative liabilities (1) (1)
+Other liabilities (142) (113) (75) (330)
+Total Level 3 liabilities Retirement Services
+ $ (8,525) $ (1,549) $ $ (1,850) $ $ (11,924) $ $
+
+(Concluded)
+1 Related to instruments held at end of period.
+
+The following represents the gross components of purchases, issuances, sales and settlements, net, and net transfers in (out) shown above:
+
+ Year ended December 31, 2024
+(In millions) Purchases Issuances Sales Settlements Net Purchases, Issuances, Sales and Settlements Transfers In Transfers Out Net Transfers In (Out)
+Assets Asset Management
+
+Investments and derivative assets $ 36 $ $ (64) $ $ (28) $ $ (68) $ (68)
+Investments of consolidated VIEs 4,009 (3,430) 579 452 (250) 202
+Total Level 3 assets Asset Management
+ $ 4,045 $ $ (3,494) $ $ 551 $ 452 $ (318) $ 134
+
+Assets Retirement Services
+
+AFS securities
+
+Foreign governments $ $ $ $ (12) $ (12) $ $ $
+Corporate 3,146 (41) (290) 2,815 166 (1,201) (1,035)
+
+ABS 11,886 (423) (1,651) 9,812 769 (914) (145)
+CMBS (19) (19)
+RMBS 99 (16) 83 (100) (100)
+Trading securities (21) (21) 14 14
+Equity securities 2 (1) 1 9 (9)
+Mortgage loans 27,596 (106) (8,174) 19,316
+
+Derivative assets 1 1
+Short-term investments 172 (6) (21) 145 (79) (79)
+
+Other investments 289 289
+Investments in related parties
+AFS securities
+Corporate 63 (1) (9) 53 (154) (154)
+CLO 177 177
+ABS 7,197 (504) (4,814) 1,879
+Trading securities 4 (268) (264)
+Equity securities (5) (5)
+Mortgage loans 87 (88) (1)
+Investment funds 106 106
+
+Reinsurance recoverable 359 (4) 355
+Assets of consolidated VIEs
+Trading securities 235 (178) (7) 50 220 (88) 132
+
+Mortgage loans 558 (111) 447 21 21
+Investment funds 341 (10) 331 (470) (470)
+Other investments 56 (24) 32 (20) (20)
+Total Level 3 assets Retirement Services
+ $ 52,014 $ 359 $ (1,299) $ (15,486) $ 35,588 $ 1,200 $ (3,054) $ (1,854)
+
+Liabilities - Asset Management
+
+Contingent consideration obligations $ $ $ $ (105) $ (105) $ $ $
+
+Total Level 3 liabilities Asset Management
+ $ $ $ $ (105) $ (105) $ $ $
+
+Liabilities Retirement Services
+
+Interest sensitive contract liabilities
+Interest sensitive contract liabilities embedded derivative $ $ (3,010) $ $ 1,001 $ (2,009) $ $ $
+
+Other liabilities 54 54 64 64
+Total Level 3 liabilities Retirement Services
+ $ $ (3,010) $ $ 1,055 $ (1,955) $ 64 $ $ 64
+
+ Year ended December 31, 2023
+(In millions) Purchases Issuances Sales Settlements Net Purchases, Issuances, Sales and Settlements Transfers In Transfers Out Net Transfers In (Out)
+Assets Asset Management
+
+Investments and derivative assets $ 45 $ $ (5) $ $ 40 $ $ $
+Investments of consolidated VIEs 5,019 (4,321) 698 (2) (2)
+Total Level 3 assets Asset Management
+ $ 5,064 $ $ (4,326) $ $ 738 $ $ (2) $ (2)
+
+Assets Retirement Services
+
+AFS securities
+
+Foreign governments $ 53 $ $ $ (12) $ 41 $ $ $
+Corporate 1,704 (177) (229) 1,298 29 (491) (462)
+
+ABS 4,221 (33) (947) 3,241 828 (2,045) (1,217)
+CMBS 20 20
+RMBS 262 (6) 256 5 (240) (235)
+Trading securities 8 (24) (16) 5 (16) (11)
+Equity securities (45) (45) (13) (13)
+Mortgage loans 21,018 (529) (4,011) 16,478
+
+Short-term investments 100 (31) 69 26 (23) 3
+Other investments 620 (431) 189
+Investments in related parties
+AFS securities
+Corporate 184 (11) 173 215 215
+CLO 185 185
+ABS 3,751 (162) (1,711) 1,878 284 284
+Trading securities 66 (38) (80) (52)
+Equity securities (32) (32)
+Mortgage loans (30) (30)
+Investment funds 32 32
+
+Other investments 42 42
+
+Assets of consolidated VIEs
+Trading securities 40 (156) (116) 1,308 (31) 1,277
+
+Mortgage loans 203 (76) 127
+Investment funds 113 (40) 73 475 (2,012) (1,537)
+Other investments 14 (21) (7)
+
+Total Level 3 assets Retirement Services
+ $ 32,616 $ $ (1,201) $ (7,631) $ 23,784 $ 3,195 $ (4,871) $ (1,676)
+Liabilities - Asset Management
+
+Contingent consideration obligations $ $ $ $ (4) $ (4) $ $ $
+
+Total Level 3 liabilities Asset Management
+ $ $ $ $ (4) $ (4) $ $ $
+
+Liabilities Retirement Services
+
+Interest sensitive contract liabilities Embedded derivative $ $ (2,431) $ $ 656 $ (1,775) $ $ $
+
+Other liabilities (75) (75)
+
+Total Level 3 liabilities Retirement Services
+ $ $ (2,431) $ $ 581 $ (1,850) $ $ $
+
+Financial Instruments Without Readily Determinable Fair Values
+
+The Company elected the measurement alternative for certain equity securities that do not have a readily determinable fair value. The equity securities are held at cost less any impairment. The carrying amount of the equity securities was $358 million, net of an impairment of $42 million, as of December 31, 2024 and December 31, 2023. As a result of slower than expected growth of the investee, Athene recorded an impairment of $42 million in the fourth quarter of 2023.
+
+Fair Value Option Retirement Services
+
+The following represents the gains (losses) recorded for instruments for which Athene has elected the fair value option, including related parties and VIEs:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Trading securities $ (156) $ 66 $ (424)
+Mortgage loans (237) 183 (3,213)
+Investment funds (59) 77 114
+Future policy benefits 76 (14) 356
+Other 28 (113) (37)
+Total gains (losses) $ (348) $ 199 $ (3,204)
+
+Gains and losses on trading securities, mortgage loans, and other are recorded in investment related gains (losses) on the consolidated statements of operations. Gains and losses related to investment funds are recorded in net investment income on the consolidated statements of operations. Gains and losses related to investments of consolidated VIEs are recorded in revenues of consolidated VIEs on the consolidated statements of operations. The change in fair value of future policy benefits is recorded to future policy and other policy benefits on the consolidated statements of operations.
+
+The following summarizes information for fair value option mortgage loans, including related parties and VIEs:
+
+(In millions) December 31, 2024 December 31, 2023
+Unpaid principal balance $ 69,754 $ 50,752
+Mark to fair value (2,639) (3,183)
+Fair value $ 67,115 $ 47,569
+
+The following represents the commercial mortgage loan portfolio 90 days or more past due and/or in non-accrual status:
+
+(In millions) December 31, 2024 December 31, 2023
+Unpaid principal balance of commercial mortgage loans 90 days or more past due and/or in non-accrual status $ 195 $ 221
+Mark to fair value of commercial mortgage loans 90 days or more past due and/or in non-accrual status (102) (74)
+Fair value of commercial mortgage loans 90 days or more past due and/or in non-accrual status $ 93 $ 147
+
+Fair value of commercial mortgage loans 90 days or more past due $ 31 $ 64
+Fair value of commercial mortgage loans in non-accrual status 93 147
+
+The following represents the residential mortgage loan portfolio 90 days or more past due and/or in non-accrual status:
+
+(In millions) December 31, 2024 December 31, 2023
+Unpaid principal balance of residential mortgage loans 90 days or more past due and/or in non-accrual status $ 898 $ 528
+Mark to fair value of residential mortgage loans 90 days or more past due and/or in non-accrual status (51) (49)
+Fair value of residential mortgage loans 90 days or more past due and/or in non-accrual status $ 847 $ 479
+
+Fair value of residential mortgage loans 90 days or more past due1
+ $ 847 $ 479
+Fair value of residential mortgage loans in non-accrual status 765 355
+
+1 As of December 31, 2024 and December 31, 2023, includes $82 million and $124 million, respectively, of residential mortgage loans that are guaranteed by U.S. government-sponsored agencies.
+
+The following is the estimated amount of gains (losses) included in earnings during the period attributable to changes in instrument-specific credit risk on our mortgage loan portfolio:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Mortgage loans $ (58) $ (53) $ (41)
+
+The portion of gains and losses attributable to changes in instrument-specific credit risk is estimated by identifying commercial mortgage loans with loan-to-value ratios meeting credit quality criteria, and residential mortgage loans with delinquency status meeting credit quality criteria.
+
+Fair Value of Financial Instruments Not Carried at Fair Value Retirement Services
+
+The following represents Athene s financial instruments not carried at fair value on the consolidated statements of financial condition:
+
+ December 31, 2024
+(In millions) Carrying Value Fair Value NAV Level 1 Level 2 Level 3
+Financial assets
+
+Investment funds $ 107 $ 107 $ 107 $ $ $
+Policy loans 318 318 318
+Funds withheld at interest 21,901 21,901 21,901
+Short-term investments 192 192 192
+Other investments 93 101 101
+Investments in related parties
+
+Investment funds 714 714 714
+Funds withheld at interest 5,665 5,665 5,665
+Short-term investments 743 743 743
+
+Total financial assets not carried at fair value $ 29,733 $ 29,741 $ 821 $ $ 1,061 $ 27,859
+
+Financial liabilities
+Interest sensitive contract liabilities $ 200,278 $ 192,025 $ $ $ $ 192,025
+Debt 6,309 5,844 581 5,263
+Securities to repurchase 5,716 5,716 5,716
+Funds withheld liability 4,331 4,331 4,331
+Total financial liabilities not carried at fair value $ 216,634 $ 207,916 $ $ 581 $ 10,979 $ 196,356
+
+ December 31, 2023
+(In millions) Carrying Value Fair Value NAV Level 1 Level 2 Level 3
+Financial assets
+
+Investment funds $ 109 $ 109 $ 109 $ $ $
+Policy loans 334 334 334
+Funds withheld at interest 27,738 27,738 27,738
+
+Other investments 46 52 52
+Investments in related parties
+
+Investment funds 550 550 550
+Funds withheld at interest 7,195 7,195 7,195
+Short-term investments 947 947 947
+
+Total financial assets not carried at fair value $ 36,919 $ 36,925 $ 659 $ $ 1,281 $ 34,985
+
+Financial liabilities
+Interest sensitive contract liabilities $ 154,095 $ 146,038 $ $ $ $ 146,038
+Debt 4,209 3,660 3,660
+Securities to repurchase 3,853 3,853 3,853
+Funds withheld liability 350 350 350
+Total financial liabilities not carried at fair value $ 162,507 $ 153,901 $ $ $ 7,863 $ 146,038
+
+The fair value for financial instruments not carried at fair value are estimated using the same methods and assumptions as those carried at fair value. The financial instruments presented above are reported at carrying value on the consolidated statements of financial condition; however, in the case of policy loans, funds withheld at interest and liability, short-term investments, and securities to repurchase, the carrying amount approximates fair value.
+
+Interest sensitive contract liabilities The carrying and fair value of interest sensitive contract liabilities above includes fixed indexed and traditional fixed annuities without mortality or morbidity risks, funding agreements and payout annuities without life contingencies. The embedded derivatives within fixed indexed annuities without mortality or morbidity risks are excluded, as they are carried at fair value. The valuation of these investment contracts is based on discounted cash flow methodologies using significant unobservable inputs. The estimated fair value is determined using current market risk-free interest rates, adding a spread to reflect nonperformance risk and subtracting a risk margin to reflect uncertainty inherent in the projected cash flows.
+
+Debt The fair value of debt is obtained from commercial pricing services. See note 14 for further information on debt.
+
+Significant Unobservable Inputs
+
+Asset Management
+
+Discounted Cash Flow and Direct Capitalization Model
+
+When a discounted cash flow or direct capitalization model is used to determine fair value, the significant input used in the valuation model is the discount rate applied to present value the projected cash flows or the capitalization rate, respectively. Increases in the discount or capitalization rate can significantly lower the fair value of an investment and the contingent consideration obligations; conversely decreases in the discount or capitalization rate can significantly increase the fair value of an investment and the contingent consideration obligations. See note 19 for further discussion of the contingent consideration obligations.
+
+Option Model
+
+When an option model is used to determine fair value, the significant input used in the valuation model is the volatility rate applied to present value the projected cash flows. Increases in the volatility rate can significantly lower the fair value of an investment and the contingent consideration obligations; conversely decreases in the discount or capitalization rate can significantly increase the fair value of an investment and the contingent consideration obligations.
+Consolidated VIEs Investments
+
+The significant unobservable input used in the fair value measurement of the equity securities, bank loans and bonds is the discount rate applied in the valuation models. This input in isolation can cause significant increases or decreases in fair value, which would result in a significantly lower or higher fair value measurement. The discount rate is determined based on the market rates an investor would expect for a similar investment with similar risks.
+
+NAV
+
+Certain investments and investments of VIEs are valued using the NAV per share equivalent calculated by the investment manager as a practical expedient to determine an independent fair value.
+
+Retirement Services
+
+AFS, trading and equity securities
+
+Athene uses discounted cash flow models to calculate the fair value for certain fixed maturity and equity securities. The discount rate is a significant unobservable input because the credit spread includes adjustments made to the base rate. The base rate represents a market comparable rate for securities with similar characteristics. This excludes assets for which fair value is provided by independent broker quotes.
+
+Mortgage loans
+
+Athene uses discounted cash flow models from independent commercial pricing services to calculate the fair value of its mortgage loan portfolio. The discount rate is a significant unobservable input. This approach uses market transaction information and client portfolio-oriented information, such as prepayments or defaults, to support the valuations.
+
+Interest sensitive contract liabilities embedded derivative
+
+Significant unobservable inputs used in the fixed indexed annuities embedded derivative of the interest sensitive contract liabilities valuation include:
+
+1.Nonperformance risk For contracts Athene issues, it uses the credit spread, relative to the U.S. Treasury curve based on Athene s public credit rating as of the valuation date. This represents Athene s credit risk for use in the estimate of the fair value of embedded derivatives.
+2.Option budget Athene assumes future hedge costs in the derivative s fair value estimate. The level of option budgets determines the future costs of the options and impacts future policyholder account value growth.
+3.Policyholder behavior Athene regularly reviews the full withdrawal (surrender rate) assumptions. These are based on initial pricing assumptions updated for actual experience. Actual experience may be limited for recently issued products.
+
+Valuation of Underlying Investments
+
+Asset Management
+
+As previously noted, the underlying entities that Apollo manages and invests in are primarily investment companies that account for their investments at estimated fair value.
+
+On a quarterly basis, valuation committees consisting of members from senior management review and approve the valuation results related to the investments of the funds Apollo manages. Apollo also retains external valuation firms to provide third-party valuation consulting services to Apollo, which consist of certain limited procedures that management identifies and requests them to perform. The limited procedures provided by the external valuation firms assist management with validating their valuation results or determining fair value. Apollo performs various back-testing procedures to validate their valuation approaches, including comparisons between expected and observed outcomes, forecast evaluations and variance analyses. However, because of the inherent uncertainty of valuation, those estimated values may differ significantly from the values that would have been used had a ready market for the investments existed, and the differences could be material.
+Credit Investments
+
+Credit investments are generally valued based on third-party vendor prices and/or quoted market prices and valuation models. Valuations using quoted market prices are based on the average of the bid and the ask quotes provided by multiple brokers wherever possible without any adjustments. Apollo will designate certain brokers to use to value specific securities. In determining the designated brokers, Apollo considers the following: (i) brokers with which Apollo has previously transacted, (ii) the underwriter of the security and (iii) active brokers indicating executable quotes. In addition, when valuing a security based on broker quotes wherever possible Apollo tests the standard deviation amongst the quotes received and the variance between the concluded fair value and the value provided by a pricing service. When relying on a third-party vendor as a primary source, Apollo (i) analyzes how the price has moved over the measurement period, (ii) reviews the number of brokers included in the pricing service s population, if available, and (iii) validates the valuation levels with Apollo s pricing team and traders.
+
+Debt securities that are not publicly traded or whose market prices are not readily available are valued at fair value utilizing a model-based approach to determine fair value. Valuation approaches used to estimate the fair value of illiquid credit investments also may include the income approach, as described below. The valuation approaches used consider, as applicable, market risks, credit risks, counterparty risks and foreign currency risks.
+
+Equity Investments
+
+The majority of illiquid equity investments are valued using the market approach and/or the income approach, as described below.
+
+Market Approach
+
+The market approach is driven by current market conditions, including actual trading levels of similar companies and, to the extent available, actual transaction data of similar companies. Judgment is required by management when assessing which companies are similar to the subject company being valued. Consideration may also be given to any of the following factors: (1) the subject company s historical and projected financial data; (2) valuations given to comparable companies; (3) the size and scope of the subject company s operations; (4) the subject company s individual strengths and weaknesses; (5) expectations relating to the market s receptivity to an offering of the subject company s securities; (6) applicable restrictions on transfer; (7) industry and market information; (8) general economic and market conditions; and (9) other factors deemed relevant. Market approach valuation models typically employ a multiple that is based on one or more of the factors described above.
+
+Enterprise value as a multiple of EBITDA is common and relevant for most companies and industries, however, other industry specific multiples are employed where available and appropriate. Sources for gaining additional knowledge related to comparable companies include public filings, annual reports, analyst research reports and press releases. Once a comparable company set is determined, Apollo reviews certain aspects of the subject company s performance and determines how its performance compares to the group and to certain individuals in the group. Apollo compares certain measurements such as EBITDA margins, revenue growth over certain time periods, leverage ratios and growth opportunities. In addition, Apollo compares the entry multiple and its relation to the comparable set at the time of acquisition to understand its relation to the comparable set on each measurement date.
+
+Income Approach
+
+The income approach provides an indication of fair value based on the present value of cash flows that a business or security is expected to generate in the future. The most widely used methodology for the income approach is a discounted cash flow method. Inherent in the discounted cash flow method are significant assumptions related to the subject company s expected results, the determination of a terminal value and a calculated discount rate, which is normally based on the subject company s WACC. The WACC represents the required rate of return on total capitalization, which is comprised of a required rate of return on equity, plus the current tax-effected rate of return on debt, weighted by the relative percentages of equity and debt that are typical in the industry. The most critical step in determining the appropriate WACC for each subject company is to select companies that are comparable in nature to the subject company and the credit quality of the subject company. Sources for gaining additional knowledge about the comparable companies include public filings, annual reports, analyst research reports and press releases. The general formula then used for calculating the WACC considers the after-tax rate of return on debt capital and the rate of return on common equity capital, which further considers the risk-free rate of return, market beta, market
+risk premium and small stock premium, if applicable. The variables used in the WACC formula are inferred from the comparable market data obtained. The Company evaluates the comparable companies selected and concludes on WACC inputs based on the most comparable company or analyzes the range of data for the investment.
+
+The value of liquid investments, where the primary market is an exchange (whether foreign or domestic), is determined using period end market prices. Such prices are generally based on the close price on the date of determination.
+
+Certain of the funds Apollo manages may also enter into foreign currency exchange contracts, total return swap contracts, credit default swap contracts and other derivative contracts, which may include options, caps, collars and floors. Foreign currency exchange contracts are marked-to-market by recognizing the difference between the contract exchange rate and the current market rate as unrealized appreciation or depreciation. If securities are held at the end of the period, the changes in value are recorded in income as unrealized. Realized gains or losses are recognized when contracts are settled. Total return swap and credit default swap contracts are recorded at fair value as an asset or liability with changes in fair value recorded as unrealized appreciation or depreciation. Realized gains or losses are recognized at the termination of the contract based on the difference between the close-out price of the total return or credit default swap contract and the original contract price. Forward contracts are valued based on market rates obtained from counterparties or prices obtained from recognized financial data service providers.
+
+Retirement Services
+
+AFS and trading securities
+
+The fair values for most marketable securities without an active market are obtained from several commercial pricing services. These are classified as Level 2 assets. The pricing services incorporate a variety of market observable information in their valuation techniques, including benchmark yields, trading activity, credit quality, issuer spreads, bids, offers and other reference data. This category typically includes U.S. and non-U.S. corporate bonds, U.S. agency and government guaranteed securities, CLO, ABS, CMBS and RMBS.
+
+Athene also has fixed maturity securities priced based on indicative broker quotes or by employing market accepted valuation models. For certain fixed maturity securities, the valuation model uses significant unobservable inputs and these are included in Level 3 in the fair value hierarchy. Significant unobservable inputs used include discount rates, issue-specific credit adjustments, material non-public financial information, estimation of future earnings and cash flows, default rate assumptions, liquidity assumptions and indicative quotes from market makers.
+
+Privately placed fixed maturity securities are valued based on the credit quality and duration of comparable marketable securities, which may be securities of another issuer with similar characteristics. In some instances, a matrix-based pricing model is used. These models consider the current level of risk-free interest rates, corporate spreads, credit quality of the issuer and cash flow characteristics of the security. Additional factors such as net worth of the borrower, value of collateral, capital structure of the borrower, presence of guarantees and Athene s evaluation of the borrower s ability to compete in its relevant market are also considered. Privately placed fixed maturity securities are classified as Level 2 or 3.
+
+Equity securities
+
+Fair values of publicly traded equity securities are based on quoted market prices and classified as Level 1. Other equity securities, typically private equities or equity securities not traded on an exchange, are valued based on other sources, such as commercial pricing services or brokers, and are classified as Level 2 or 3.
+
+Mortgage loans
+
+Athene estimates fair value monthly using discounted cash flow analysis and rates being offered for similar loans to borrowers with similar credit ratings. Loans with similar characteristics are aggregated for purposes of the calculations. The discounted cash flow model uses unobservable inputs, including estimates of discount rates and loan prepayments. Mortgage loans are classified as Level 3.
+Investment funds
+
+Investment funds are typically measured using NAV as a practical expedient in determining fair value and are not classified in the fair value hierarchy. The carrying value reflects a pro rata ownership percentage as indicated by NAV in the investment fund financial statements, which may be adjusted if it is determined NAV is not calculated consistent with investment company fair value principles. The underlying investments of the investment funds may have significant unobservable inputs, which may include but are not limited to, comparable multiples and WACC rates applied in valuation models or a discounted cash flow model.
+
+Certain investment funds for which Athene has elected the fair value option are included in Level 3 and are priced based on market accepted valuation models. The valuation models use significant unobservable inputs, which include material non-public financial information, estimation of future distributable earnings and demographic assumptions.
+
+Other investments
+
+The fair values of other investments are determined using a discounted cash flow model using discount rates for similar investments.
+
+Funds withheld at interest embedded derivatives
+
+Funds withheld at interest embedded derivatives represent the right to receive or obligation to pay the total return on the assets supporting the funds withheld at interest or funds withheld liability, respectively, and are analogous to a total return swap with a floating rate leg. The fair value of embedded derivatives on funds withheld and modco agreements is measured as the unrealized gain (loss) on the underlying assets and classified as Level 3.
+
+Derivatives
+
+Derivative contracts can be exchange traded or over the counter. Exchange-traded derivatives typically fall within Level 1 of the fair value hierarchy depending on trading activity. Over-the-counter derivatives are valued using valuation models or an income approach using third-party broker valuations. Valuation models require a variety of inputs, including contractual terms, market prices, yield curves, credit curves, measures of volatility, prepayment rates and correlation of the inputs. Athene considers and incorporates counterparty credit risk in the valuation process through counterparty credit rating requirements and monitoring of overall exposure. Athene also evaluates and includes its own nonperformance risk in valuing derivatives. The majority of Athene s derivatives trade in liquid markets; therefore, it can verify model inputs and model selection does not involve significant management judgment. These are typically classified within Level 2 of the fair value hierarchy.
+
+Interest sensitive contract liabilities embedded derivatives
+
+Embedded derivatives related to interest sensitive contract liabilities with fixed indexed annuity products are classified as Level 3. The valuations include significant unobservable inputs associated with economic assumptions and actuarial assumptions for policyholder behavior.
+
+AmerUs Closed Block
+
+Athene elected the fair value option for the future policy benefits liability in the AmerUs Closed Block. The valuation technique is to set the fair value of policyholder liabilities equal to the fair value of assets. There is an additional component which captures the fair value of the open block s obligations to the closed block business. This component is the present value of the projected release of required capital and future earnings before income taxes on required capital supporting the AmerUs Closed Block, discounted at a rate which represents a market participant s required rate of return, less the initial required capital. Unobservable inputs include estimates for these items. The AmerUs Closed Block policyholder liabilities and any corresponding reinsurance recoverable are classified as Level 3.
+
+ILICO Closed Block
+
+Athene elected the fair value option for the ILICO Closed Block. The valuation technique is to set the fair value of policyholder liabilities equal to the fair value of assets. There is an additional component which captures the fair value of the open block s obligations to the closed block business. This component uses the present value of future cash flows which include
+commissions, administrative expenses, reinsurance premiums and benefits, and an explicit cost of capital. The discount rate includes a margin to reflect the business and nonperformance risk. Unobservable inputs include estimates for these items. The ILICO Closed Block policyholder liabilities and corresponding reinsurance recoverable are classified as Level 3.
+
+Universal life liabilities and other life benefits
+
+Athene elected the fair value option for certain blocks of universal and other life business ceded to Global Atlantic. Athene uses a present value of liability cash flows. Unobservable inputs include estimates of mortality, persistency, expenses, premium payments and a risk margin used in the discount rates that reflect the riskiness of the business. The universal life policyholder liabilities and corresponding reinsurance recoverable are classified as Level 3.
+
+Other liabilities
+
+Other liabilities include funds withheld liability embedded derivatives, as described above in funds withheld at interest embedded derivatives, and a ceded modco agreement of certain inforce funding agreement contracts for which Athene elected the fair value option. Athene estimates the fair value of the ceded modco agreement by discounting projected cash flows for net settlements and certain periodic and non-periodic payments. Unobservable inputs include estimates for asset portfolio returns and economic inputs used in the discount rate, including risk margin. Depending on the projected cash flows and other assumptions, the contract may be recorded as an asset or liability. The estimate is classified as Level 3.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueDisclosuresAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for the fair value of financial instruments (as defined), including financial assets and financial liabilities (collectively, as defined), and the measurements of those instruments as well as disclosures related to the fair value of non-financial assets and liabilities. Such disclosures about the financial instruments, assets, and liabilities would include: (1) the fair value of the required items together with their carrying amounts (as appropriate); (2) for items for which it is not practicable to estimate fair value, disclosure would include: (a) information pertinent to estimating fair value (including, carrying amount, effective interest rate, and maturity, and (b) the reasons why it is not practicable to estimate fair value; (3) significant concentrations of credit risk including: (a) information about the activity, region, or economic characteristics identifying a concentration, (b) the maximum amount of loss the entity is exposed to based on the gross fair value of the related item, (c) policy for requiring collateral or other security and information as to accessing such collateral or security, and (d) the nature and brief description of such collateral or security; (4) quantitative information about market risks and how such risks are managed; (5) for items measured on both a recurring and nonrecurring basis information regarding the inputs used to develop the fair value measurement; and (6) for items presented in the financial statement for which fair value measurement is elected: (a) information necessary to understand the reasons for the election, (b) discussion of the effect of fair value changes on earnings, (c) a description of [similar groups] items for which the election is made and the relation thereof to the balance sheet, the aggregate carrying value of items included in the balance sheet that are not eligible for the election; (7) all other required (as defined) and desired information.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 107
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-107
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 940
+ -SubTopic 820
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478119/940-820-50-1
+
++ Details
+
+ Name:
+us-gaap_FairValueDisclosuresTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

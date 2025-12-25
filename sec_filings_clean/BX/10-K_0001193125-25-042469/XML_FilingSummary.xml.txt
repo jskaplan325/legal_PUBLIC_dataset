@@ -1,0 +1,1236 @@
+XML
+151
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+ 3.25.0.1
+
+ html
+ 756
+ 596
+ 1
+ true
+ 185
+ 0
+ false
+ 9
+
+ false
+ false
+ R1.htm
+ 1001 - Document - Cover Page
+ Sheet
+ http://www.blackstone.com/role/CoverPage
+ Cover Page
+ Cover
+ 1
+
+ false
+ false
+ R2.htm
+ 1002 - Statement - Consolidated Statements of Financial Condition
+ Sheet
+ http://www.blackstone.com/role/ConsolidatedStatementsOfFinancialCondition
+ Consolidated Statements of Financial Condition
+ Statements
+ 2
+
+ false
+ false
+ R3.htm
+ 1003 - Statement - Consolidated Statements of Financial Condition (Parenthetical)
+ Sheet
+ http://www.blackstone.com/role/ConsolidatedStatementsOfFinancialConditionParenthetical
+ Consolidated Statements of Financial Condition (Parenthetical)
+ Statements
+ 3
+
+ false
+ false
+ R4.htm
+ 1004 - Statement - Consolidated Statements of Operations
+ Sheet
+ http://www.blackstone.com/role/ConsolidatedStatementsOfOperations
+ Consolidated Statements of Operations
+ Statements
+ 4
+
+ false
+ false
+ R5.htm
+ 1005 - Statement - Consolidated Statements of Comprehensive Income
+ Sheet
+ http://www.blackstone.com/role/ConsolidatedStatementsOfComprehensiveIncome
+ Consolidated Statements of Comprehensive Income
+ Statements
+ 5
+
+ false
+ false
+ R6.htm
+ 1006 - Statement - Consolidated Statement of Changes in Equity
+ Sheet
+ http://www.blackstone.com/role/ConsolidatedStatementOfChangesInEquity
+ Consolidated Statement of Changes in Equity
+ Statements
+ 6
+
+ false
+ false
+ R7.htm
+ 1007 - Statement - Consolidated Statement of Changes in Equity (Parenthetical)
+ Sheet
+ http://www.blackstone.com/role/ConsolidatedStatementOfChangesInEquityParenthetical
+ Consolidated Statement of Changes in Equity (Parenthetical)
+ Statements
+ 7
+
+ false
+ false
+ R8.htm
+ 1008 - Statement - Consolidated Statements of Cash Flows
+ Sheet
+ http://www.blackstone.com/role/ConsolidatedStatementsOfCashFlows
+ Consolidated Statements of Cash Flows
+ Statements
+ 8
+
+ false
+ false
+ R9.htm
+ 1009 - Statement - Consolidated Statements of Cash Flows (Parenthetical)
+ Sheet
+ http://www.blackstone.com/role/ConsolidatedStatementsOfCashFlowsParenthetical
+ Consolidated Statements of Cash Flows (Parenthetical)
+ Statements
+ 9
+
+ false
+ false
+ R10.htm
+ 995410 - Disclosure - Pay vs Performance Disclosure
+ Sheet
+ http://xbrl.sec.gov/ecd/role/PvpDisclosure
+ Pay vs Performance Disclosure
+ Notes
+ 10
+
+ false
+ false
+ R11.htm
+ 995445 - Disclosure - Insider Trading Arrangements
+ Sheet
+ http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements
+ Insider Trading Arrangements
+ Notes
+ 11
+
+ false
+ false
+ R12.htm
+ 995447 - Disclosure - Insider Trading Policies and Procedures
+ Sheet
+ http://xbrl.sec.gov/ecd/role/InsiderTradingPoliciesProc
+ Insider Trading Policies and Procedures
+ Notes
+ 12
+
+ false
+ false
+ R13.htm
+ 995550 - Disclosure - Cybersecurity Risk Management and Strategy Disclosure
+ Sheet
+ http://xbrl.sec.gov/cyd/role/CybersecurityRiskManagementAndStrategyDisclosure
+ Cybersecurity Risk Management and Strategy Disclosure
+ Notes
+ 13
+
+ false
+ false
+ R14.htm
+ 999002 - Disclosure - Organization
+ Sheet
+ http://www.blackstone.com/role/Organization
+ Organization
+ Notes
+ 14
+
+ false
+ false
+ R15.htm
+ 999003 - Disclosure - Summary of Significant Accounting Policies
+ Sheet
+ http://www.blackstone.com/role/SummaryOfSignificantAccountingPolicies
+ Summary of Significant Accounting Policies
+ Notes
+ 15
+
+ false
+ false
+ R16.htm
+ 999004 - Disclosure - Goodwill and Intangible Assets
+ Sheet
+ http://www.blackstone.com/role/GoodwillAndIntangibleAssets
+ Goodwill and Intangible Assets
+ Notes
+ 16
+
+ false
+ false
+ R17.htm
+ 999005 - Disclosure - Investments
+ Sheet
+ http://www.blackstone.com/role/Investments
+ Investments
+ Notes
+ 17
+
+ false
+ false
+ R18.htm
+ 999006 - Disclosure - Derivative Financial Instruments
+ Sheet
+ http://www.blackstone.com/role/DerivativeFinancialInstruments
+ Derivative Financial Instruments
+ Notes
+ 18
+
+ false
+ false
+ R19.htm
+ 999007 - Disclosure - Fair Value Option
+ Sheet
+ http://www.blackstone.com/role/FairValueOption
+ Fair Value Option
+ Notes
+ 19
+
+ false
+ false
+ R20.htm
+ 999008 - Disclosure - Fair Value Measurements of Financial Instruments
+ Sheet
+ http://www.blackstone.com/role/FairValueMeasurementsOfFinancialInstruments
+ Fair Value Measurements of Financial Instruments
+ Notes
+ 20
+
+ false
+ false
+ R21.htm
+ 999009 - Disclosure - Variable Interest Entities
+ Sheet
+ http://www.blackstone.com/role/VariableInterestEntities
+ Variable Interest Entities
+ Notes
+ 21
+
+ false
+ false
+ R22.htm
+ 999010 - Disclosure - Repurchase Agreements
+ Sheet
+ http://www.blackstone.com/role/RepurchaseAgreements
+ Repurchase Agreements
+ Notes
+ 22
+
+ false
+ false
+ R23.htm
+ 999011 - Disclosure - Other Assets
+ Sheet
+ http://www.blackstone.com/role/OtherAssets
+ Other Assets
+ Notes
+ 23
+
+ false
+ false
+ R24.htm
+ 999012 - Disclosure - Offsetting of Assets And Liabilities
+ Sheet
+ http://www.blackstone.com/role/OffsettingOfAssetsAndLiabilities
+ Offsetting of Assets And Liabilities
+ Notes
+ 24
+
+ false
+ false
+ R25.htm
+ 999013 - Disclosure - Borrowings
+ Sheet
+ http://www.blackstone.com/role/Borrowings
+ Borrowings
+ Notes
+ 25
+
+ false
+ false
+ R26.htm
+ 999014 - Disclosure - Leases
+ Sheet
+ http://www.blackstone.com/role/Leases
+ Leases
+ Notes
+ 26
+
+ false
+ false
+ R27.htm
+ 999015 - Disclosure - Income Taxes
+ Sheet
+ http://www.blackstone.com/role/IncomeTaxes
+ Income Taxes
+ Notes
+ 27
+
+ false
+ false
+ R28.htm
+ 999016 - Disclosure - Earnings Per Share and Stockholders' Equity
+ Sheet
+ http://www.blackstone.com/role/EarningsPerShareAndStockholdersEquity
+ Earnings Per Share and Stockholders' Equity
+ Notes
+ 28
+
+ false
+ false
+ R29.htm
+ 999017 - Disclosure - Equity-Based Compensation
+ Sheet
+ http://www.blackstone.com/role/EquityBasedCompensation
+ Equity-Based Compensation
+ Notes
+ 29
+
+ false
+ false
+ R30.htm
+ 999018 - Disclosure - Related Party Transactions
+ Sheet
+ http://www.blackstone.com/role/RelatedPartyTransactions
+ Related Party Transactions
+ Notes
+ 30
+
+ false
+ false
+ R31.htm
+ 999019 - Disclosure - Commitments and Contingencies
+ Sheet
+ http://www.blackstone.com/role/CommitmentsAndContingencies
+ Commitments and Contingencies
+ Notes
+ 31
+
+ false
+ false
+ R32.htm
+ 999020 - Disclosure - Segment Reporting
+ Sheet
+ http://www.blackstone.com/role/SegmentReporting
+ Segment Reporting
+ Notes
+ 32
+
+ false
+ false
+ R33.htm
+ 999021 - Disclosure - Subsequent Events
+ Sheet
+ http://www.blackstone.com/role/SubsequentEvents
+ Subsequent Events
+ Notes
+ 33
+
+ false
+ false
+ R34.htm
+ 999022 - Disclosure - Summary of Significant Accounting Policies (Policies)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfSignificantAccountingPoliciesPolicies
+ Summary of Significant Accounting Policies (Policies)
+ Policies
+ http://www.blackstone.com/role/SummaryOfSignificantAccountingPolicies
+ 34
+
+ false
+ false
+ R35.htm
+ 999023 - Disclosure - Goodwill and Intangible Assets (Tables)
+ Sheet
+ http://www.blackstone.com/role/GoodwillAndIntangibleAssetsTables
+ Goodwill and Intangible Assets (Tables)
+ Tables
+ http://www.blackstone.com/role/GoodwillAndIntangibleAssets
+ 35
+
+ false
+ false
+ R36.htm
+ 999024 - Disclosure - Investments (Tables)
+ Sheet
+ http://www.blackstone.com/role/InvestmentsTables
+ Investments (Tables)
+ Tables
+ http://www.blackstone.com/role/Investments
+ 36
+
+ false
+ false
+ R37.htm
+ 999025 - Disclosure - Derivative Financial Instruments (Tables)
+ Sheet
+ http://www.blackstone.com/role/DerivativeFinancialInstrumentsTables
+ Derivative Financial Instruments (Tables)
+ Tables
+ http://www.blackstone.com/role/DerivativeFinancialInstruments
+ 37
+
+ false
+ false
+ R38.htm
+ 999026 - Disclosure - Fair Value Option (Tables)
+ Sheet
+ http://www.blackstone.com/role/FairValueOptionTables
+ Fair Value Option (Tables)
+ Tables
+ http://www.blackstone.com/role/FairValueOption
+ 38
+
+ false
+ false
+ R39.htm
+ 999027 - Disclosure - Fair Value Measurements of Financial Instruments (Tables)
+ Sheet
+ http://www.blackstone.com/role/FairValueMeasurementsOfFinancialInstrumentsTables
+ Fair Value Measurements of Financial Instruments (Tables)
+ Tables
+ http://www.blackstone.com/role/FairValueMeasurementsOfFinancialInstruments
+ 39
+
+ false
+ false
+ R40.htm
+ 999028 - Disclosure - Variable Interest Entities (Tables)
+ Sheet
+ http://www.blackstone.com/role/VariableInterestEntitiesTables
+ Variable Interest Entities (Tables)
+ Tables
+ http://www.blackstone.com/role/VariableInterestEntities
+ 40
+
+ false
+ false
+ R41.htm
+ 999029 - Disclosure - Repurchase Agreements (Tables)
+ Sheet
+ http://www.blackstone.com/role/RepurchaseAgreementsTables
+ Repurchase Agreements (Tables)
+ Tables
+ http://www.blackstone.com/role/RepurchaseAgreements
+ 41
+
+ false
+ false
+ R42.htm
+ 999030 - Disclosure - Other Assets (Tables)
+ Sheet
+ http://www.blackstone.com/role/OtherAssetsTables
+ Other Assets (Tables)
+ Tables
+ http://www.blackstone.com/role/OtherAssets
+ 42
+
+ false
+ false
+ R43.htm
+ 999031 - Disclosure - Offsetting of Assets And Liabilities (Tables)
+ Sheet
+ http://www.blackstone.com/role/OffsettingOfAssetsAndLiabilitiesTables
+ Offsetting of Assets And Liabilities (Tables)
+ Tables
+ http://www.blackstone.com/role/OffsettingOfAssetsAndLiabilities
+ 43
+
+ false
+ false
+ R44.htm
+ 999032 - Disclosure - Borrowings (Tables)
+ Sheet
+ http://www.blackstone.com/role/BorrowingsTables
+ Borrowings (Tables)
+ Tables
+ http://www.blackstone.com/role/Borrowings
+ 44
+
+ false
+ false
+ R45.htm
+ 999033 - Disclosure - Leases (Tables)
+ Sheet
+ http://www.blackstone.com/role/LeasesTables
+ Leases (Tables)
+ Tables
+ http://www.blackstone.com/role/Leases
+ 45
+
+ false
+ false
+ R46.htm
+ 999034 - Disclosure - Income Taxes (Tables)
+ Sheet
+ http://www.blackstone.com/role/IncomeTaxesTables
+ Income Taxes (Tables)
+ Tables
+ http://www.blackstone.com/role/IncomeTaxes
+ 46
+
+ false
+ false
+ R47.htm
+ 999035 - Disclosure - Earnings Per Share and Stockholders' Equity (Tables)
+ Sheet
+ http://www.blackstone.com/role/EarningsPerShareAndStockholdersEquityTables
+ Earnings Per Share and Stockholders' Equity (Tables)
+ Tables
+ http://www.blackstone.com/role/EarningsPerShareAndStockholdersEquity
+ 47
+
+ false
+ false
+ R48.htm
+ 999036 - Disclosure - Equity-Based Compensation (Tables)
+ Sheet
+ http://www.blackstone.com/role/EquityBasedCompensationTables
+ Equity-Based Compensation (Tables)
+ Tables
+ http://www.blackstone.com/role/EquityBasedCompensation
+ 48
+
+ false
+ false
+ R49.htm
+ 999037 - Disclosure - Related Party Transactions (Tables)
+ Sheet
+ http://www.blackstone.com/role/RelatedPartyTransactionsTables
+ Related Party Transactions (Tables)
+ Tables
+ http://www.blackstone.com/role/RelatedPartyTransactions
+ 49
+
+ false
+ false
+ R50.htm
+ 999038 - Disclosure - Commitments and Contingencies (Tables)
+ Sheet
+ http://www.blackstone.com/role/CommitmentsAndContingenciesTables
+ Commitments and Contingencies (Tables)
+ Tables
+ http://www.blackstone.com/role/CommitmentsAndContingencies
+ 50
+
+ false
+ false
+ R51.htm
+ 999039 - Disclosure - Segment Reporting (Tables)
+ Sheet
+ http://www.blackstone.com/role/SegmentReportingTables
+ Segment Reporting (Tables)
+ Tables
+ http://www.blackstone.com/role/SegmentReporting
+ 51
+
+ false
+ false
+ R52.htm
+ 999040 - Disclosure - Organization - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/OrganizationAdditionalInformationDetail
+ Organization - Additional Information (Detail)
+ Details
+ 52
+
+ false
+ false
+ R53.htm
+ 999041 - Disclosure - Summary of Significant Accounting Policies - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfSignificantAccountingPoliciesAdditionalInformationDetail
+ Summary of Significant Accounting Policies - Additional Information (Detail)
+ Details
+ 53
+
+ false
+ false
+ R54.htm
+ 999042 - Disclosure - Goodwill and Intangible Assets, Net (Detail)
+ Sheet
+ http://www.blackstone.com/role/GoodwillAndIntangibleAssetsNetDetail
+ Goodwill and Intangible Assets, Net (Detail)
+ Details
+ http://www.blackstone.com/role/GoodwillAndIntangibleAssetsTables
+ 54
+
+ false
+ false
+ R55.htm
+ 999043 - Disclosure - Goodwill and Intangible Assets - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/GoodwillAndIntangibleAssetsAdditionalInformationDetail
+ Goodwill and Intangible Assets - Additional Information (Detail)
+ Details
+ 55
+
+ false
+ false
+ R56.htm
+ 999044 - Disclosure - Changes in Partnership's Intangible Assets, Net (Detail)
+ Sheet
+ http://www.blackstone.com/role/ChangesInPartnershipsIntangibleAssetsNetDetail
+ Changes in Partnership's Intangible Assets, Net (Detail)
+ Details
+ 56
+
+ false
+ false
+ R57.htm
+ 999045 - Disclosure - Investments (Detail)
+ Sheet
+ http://www.blackstone.com/role/InvestmentsDetail
+ Investments (Detail)
+ Details
+ http://www.blackstone.com/role/InvestmentsTables
+ 57
+
+ false
+ false
+ R58.htm
+ 999046 - Disclosure - Investments - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/InvestmentsAdditionalInformationDetail
+ Investments - Additional Information (Detail)
+ Details
+ 58
+
+ false
+ false
+ R59.htm
+ 999047 - Disclosure - Reconciliation of Realized and Net Change in Unrealized Gains (Losses) to Other Income (Loss) - Net Gains (Losses) from Fund Investment Activities in Consolidated Statements of Operations (Detail)
+ Sheet
+ http://www.blackstone.com/role/ReconciliationOfRealizedAndNetChangeInUnrealizedGainsLossesToOtherIncomeLossNetGainsLossesFromFundInvestmentActivitiesInConsolidatedStatementsOfOperationsDetail
+ Reconciliation of Realized and Net Change in Unrealized Gains (Losses) to Other Income (Loss) - Net Gains (Losses) from Fund Investment Activities in Consolidated Statements of Operations (Detail)
+ Details
+ 59
+
+ false
+ false
+ R60.htm
+ 999048 - Disclosure - Summarized Financial Information of Partnership's Equity Method Investments (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummarizedFinancialInformationOfPartnershipsEquityMethodInvestmentsDetail
+ Summarized Financial Information of Partnership's Equity Method Investments (Detail)
+ Details
+ 60
+
+ false
+ false
+ R61.htm
+ 999049 - Disclosure - Performance Fees Allocated to Funds (Detail)
+ Sheet
+ http://www.blackstone.com/role/PerformanceFeesAllocatedToFundsDetail
+ Performance Fees Allocated to Funds (Detail)
+ Details
+ 61
+
+ false
+ false
+ R62.htm
+ 999050 - Disclosure - Realized and Net Change in Unrealized Gains (Losses) on Investments (Detail)
+ Sheet
+ http://www.blackstone.com/role/RealizedAndNetChangeInUnrealizedGainsLossesOnInvestmentsDetail
+ Realized and Net Change in Unrealized Gains (Losses) on Investments (Detail)
+ Details
+ 62
+
+ false
+ false
+ R63.htm
+ 999051 - Disclosure - Realized and Net Change in Unrealized Gains (Losses) in Other Investments (Detail)
+ Sheet
+ http://www.blackstone.com/role/RealizedAndNetChangeInUnrealizedGainsLossesInOtherInvestmentsDetail
+ Realized and Net Change in Unrealized Gains (Losses) in Other Investments (Detail)
+ Details
+ 63
+
+ false
+ false
+ R64.htm
+ 999052 - Disclosure - Summary of Aggregate Notional Amount and Fair Value of Derivative Financial Instruments (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfAggregateNotionalAmountAndFairValueOfDerivativeFinancialInstrumentsDetail
+ Summary of Aggregate Notional Amount and Fair Value of Derivative Financial Instruments (Detail)
+ Details
+ 64
+
+ false
+ false
+ R65.htm
+ 999053 - Disclosure - Summary of Impact of Derivative Financial Instruments to Consolidated Statements of Operations (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfImpactOfDerivativeFinancialInstrumentsToConsolidatedStatementsOfOperationsDetail
+ Summary of Impact of Derivative Financial Instruments to Consolidated Statements of Operations (Detail)
+ Details
+ 65
+
+ false
+ false
+ R66.htm
+ 999054 - Disclosure - Summary of Financial Instruments for Which Fair Value Option Has Been Elected (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfFinancialInstrumentsForWhichFairValueOptionHasBeenElectedDetail
+ Summary of Financial Instruments for Which Fair Value Option Has Been Elected (Detail)
+ Details
+ 66
+
+ false
+ false
+ R67.htm
+ 999055 - Disclosure - Realized and Net Change in Unrealized Gains (Losses) on Financial Instruments on Financial Instruments on Which Fair Value Option was Elected (Detail)
+ Sheet
+ http://www.blackstone.com/role/RealizedAndNetChangeInUnrealizedGainsLossesOnFinancialInstrumentsOnFinancialInstrumentsOnWhichFairValueOptionWasElectedDetail
+ Realized and Net Change in Unrealized Gains (Losses) on Financial Instruments on Financial Instruments on Which Fair Value Option was Elected (Detail)
+ Details
+ 67
+
+ false
+ false
+ R68.htm
+ 999056 - Disclosure - Information for Financial Instruments on Which Fair Value Option was Elected (Detail)
+ Sheet
+ http://www.blackstone.com/role/InformationForFinancialInstrumentsOnWhichFairValueOptionWasElectedDetail
+ Information for Financial Instruments on Which Fair Value Option was Elected (Detail)
+ Details
+ 68
+
+ false
+ false
+ R69.htm
+ 999057 - Disclosure - Fair Value Option - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/FairValueOptionAdditionalInformationDetail
+ Fair Value Option - Additional Information (Detail)
+ Details
+ 69
+
+ false
+ false
+ R70.htm
+ 999058 - Disclosure - Financial Assets and Liabilities at Fair Value (Detail)
+ Sheet
+ http://www.blackstone.com/role/FinancialAssetsAndLiabilitiesAtFairValueDetail
+ Financial Assets and Liabilities at Fair Value (Detail)
+ Details
+ 70
+
+ false
+ false
+ R71.htm
+ 999059 - Disclosure - Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds' Remaining Unfunded Commitments and Ability to Redeem Such Investments (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfFairValueByStrategyTypeAlongsideConsolidatedFundsOfHedgeFundsRemainingUnfundedCommitmentsAndAbilityToRedeemSuchInvestmentsDetail
+ Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds' Remaining Unfunded Commitments and Ability to Redeem Such Investments (Detail)
+ Details
+ 71
+
+ false
+ false
+ R72.htm
+ 999060 - Disclosure - Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds' Remaining Unfunded Commitments and Ability to Redeem Such Investments (Parenthetical) (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfFairValueByStrategyTypeAlongsideConsolidatedFundsOfHedgeFundsRemainingUnfundedCommitmentsAndAbilityToRedeemSuchInvestmentsParentheticalDetail
+ Summary of Fair Value by Strategy Type Alongside Consolidated Funds of Hedge Funds' Remaining Unfunded Commitments and Ability to Redeem Such Investments (Parenthetical) (Detail)
+ Details
+ 72
+
+ false
+ false
+ R73.htm
+ 999061 - Disclosure - Summary of Quantitative Inputs and Assumptions for Items Categorized in Level III of Fair Value Hierarchy (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfQuantitativeInputsAndAssumptionsForItemsCategorizedInLevelIiiOfFairValueHierarchyDetail
+ Summary of Quantitative Inputs and Assumptions for Items Categorized in Level III of Fair Value Hierarchy (Detail)
+ Details
+ 73
+
+ false
+ false
+ R74.htm
+ 999062 - Disclosure - Summary of Changes in Financial Assets and Liabilities Measured at Fair Value for Which Level III Inputs Were Used (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfChangesInFinancialAssetsAndLiabilitiesMeasuredAtFairValueForWhichLevelIiiInputsWereUsedDetail
+ Summary of Changes in Financial Assets and Liabilities Measured at Fair Value for Which Level III Inputs Were Used (Detail)
+ Details
+ 74
+
+ false
+ false
+ R75.htm
+ 999063 - Disclosure - Fair Value Measurements of Financial instruments - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/FairValueMeasurementsOfFinancialInstrumentsAdditionalInformationDetail
+ Fair Value Measurements of Financial instruments - Additional Information (Detail)
+ Details
+ 75
+
+ false
+ false
+ R76.htm
+ 999064 - Disclosure - Maximum Exposure to Loss Relating to Non-Consolidated VIEs (Detail)
+ Sheet
+ http://www.blackstone.com/role/MaximumExposureToLossRelatingToNonConsolidatedViesDetail
+ Maximum Exposure to Loss Relating to Non-Consolidated VIEs (Detail)
+ Details
+ 76
+
+ false
+ false
+ R77.htm
+ 999065 - Disclosure - Repurchase Agreements - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/RepurchaseAgreementsAdditionalInformationDetail
+ Repurchase Agreements - Additional Information (Detail)
+ Details
+ 77
+
+ false
+ false
+ R78.htm
+ 999066 - Disclosure - Schedule of Repurchase Agreements Obligation by Type of Collateral Pledged (Detail)
+ Sheet
+ http://www.blackstone.com/role/ScheduleOfRepurchaseAgreementsObligationByTypeOfCollateralPledgedDetail
+ Schedule of Repurchase Agreements Obligation by Type of Collateral Pledged (Detail)
+ Details
+ 78
+
+ false
+ false
+ R79.htm
+ 999067 - Disclosure - Components of Other Assets (Detail)
+ Sheet
+ http://www.blackstone.com/role/ComponentsOfOtherAssetsDetail
+ Components of Other Assets (Detail)
+ Details
+ 79
+
+ false
+ false
+ R80.htm
+ 999068 - Disclosure - Other Assets - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/OtherAssetsAdditionalInformationDetail
+ Other Assets - Additional Information (Detail)
+ Details
+ 80
+
+ false
+ false
+ R81.htm
+ 999069 - Disclosure - Offsetting of Assets and Liabilities (Detail)
+ Sheet
+ http://www.blackstone.com/role/OffsettingOfAssetsAndLiabilitiesDetail
+ Offsetting of Assets and Liabilities (Detail)
+ Details
+ 81
+
+ false
+ false
+ R82.htm
+ 999070 - Disclosure - Offsetting Of Assets And Liabilities - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/OffsettingOfAssetsAndLiabilitiesAdditionalInformationDetail
+ Offsetting Of Assets And Liabilities - Additional Information (Detail)
+ Details
+ 82
+
+ false
+ false
+ R83.htm
+ 999071 - Disclosure - Borrowings - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/BorrowingsAdditionalInformationDetail
+ Borrowings - Additional Information (Detail)
+ Details
+ 83
+
+ false
+ false
+ R84.htm
+ 999072 - Disclosure - Partnership Credit Facilities (Detail)
+ Sheet
+ http://www.blackstone.com/role/PartnershipCreditFacilitiesDetail
+ Partnership Credit Facilities (Detail)
+ Details
+ 84
+
+ false
+ false
+ R85.htm
+ 999073 - Disclosure - Partnership Credit Facilities (Parenthetical) (Detail)
+ Sheet
+ http://www.blackstone.com/role/PartnershipCreditFacilitiesParentheticalDetail
+ Partnership Credit Facilities (Parenthetical) (Detail)
+ Details
+ 85
+
+ false
+ false
+ R86.htm
+ 999074 - Disclosure - Carrying Value and Fair Value of Blackstone Issued Notes (Detail)
+ Notes
+ http://www.blackstone.com/role/CarryingValueAndFairValueOfBlackstoneIssuedNotesDetail
+ Carrying Value and Fair Value of Blackstone Issued Notes (Detail)
+ Details
+ 86
+
+ false
+ false
+ R87.htm
+ 999075 - Disclosure - Carrying Value and Fair Value of Blackstone Issued Notes (Parenthetical) (Detail)
+ Notes
+ http://www.blackstone.com/role/CarryingValueAndFairValueOfBlackstoneIssuedNotesParentheticalDetail
+ Carrying Value and Fair Value of Blackstone Issued Notes (Parenthetical) (Detail)
+ Details
+ 87
+
+ false
+ false
+ R88.htm
+ 999076 - Disclosure - Scheduled Principal Payments for Borrowings (Detail)
+ Sheet
+ http://www.blackstone.com/role/ScheduledPrincipalPaymentsForBorrowingsDetail
+ Scheduled Principal Payments for Borrowings (Detail)
+ Details
+ 88
+
+ false
+ false
+ R89.htm
+ 999077 - Disclosure - Leases - Additional informaton (Detail)
+ Sheet
+ http://www.blackstone.com/role/LeasesAdditionalInformatonDetail
+ Leases - Additional informaton (Detail)
+ Details
+ 89
+
+ false
+ false
+ R90.htm
+ 999078 - Disclosure - Leases Components of leases expenses (Detail)
+ Sheet
+ http://www.blackstone.com/role/LeasesComponentsOfLeasesExpensesDetail
+ Leases Components of leases expenses (Detail)
+ Details
+ 90
+
+ false
+ false
+ R91.htm
+ 999079 - Disclosure - Leases Supplemental Cash Flow Information Related Leases (Detail)
+ Sheet
+ http://www.blackstone.com/role/LeasesSupplementalCashFlowInformationRelatedLeasesDetail
+ Leases Supplemental Cash Flow Information Related Leases (Detail)
+ Details
+ 91
+
+ false
+ false
+ R92.htm
+ 999080 - Disclosure - Leases Cash flows Annual Basis For Operating Lease Liabilities (Detail)
+ Sheet
+ http://www.blackstone.com/role/LeasesCashFlowsAnnualBasisForOperatingLeaseLiabilitiesDetail
+ Leases Cash flows Annual Basis For Operating Lease Liabilities (Detail)
+ Details
+ 92
+
+ false
+ false
+ R93.htm
+ 999081 - Disclosure - Income Before Provision for Taxes (Detail)
+ Sheet
+ http://www.blackstone.com/role/IncomeBeforeProvisionForTaxesDetail
+ Income Before Provision for Taxes (Detail)
+ Details
+ 93
+
+ false
+ false
+ R94.htm
+ 999082 - Disclosure - Provision (Benefit) for Income Taxes (Detail)
+ Sheet
+ http://www.blackstone.com/role/ProvisionBenefitForIncomeTaxesDetail
+ Provision (Benefit) for Income Taxes (Detail)
+ Details
+ 94
+
+ false
+ false
+ R95.htm
+ 999083 - Disclosure - Summary of Tax Positions (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfTaxPositionsDetail
+ Summary of Tax Positions (Detail)
+ Details
+ 95
+
+ false
+ false
+ R96.htm
+ 999084 - Disclosure - Reconciliations of Effective Income Tax Rate to Federal Statutory Tax Rate (Detail)
+ Sheet
+ http://www.blackstone.com/role/ReconciliationsOfEffectiveIncomeTaxRateToFederalStatutoryTaxRateDetail
+ Reconciliations of Effective Income Tax Rate to Federal Statutory Tax Rate (Detail)
+ Details
+ 96
+
+ false
+ false
+ R97.htm
+ 999085 - Disclosure - Income Taxes - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/IncomeTaxesAdditionalInformationDetail
+ Income Taxes - Additional Information (Detail)
+ Details
+ 97
+
+ false
+ false
+ R98.htm
+ 999086 - Disclosure - Summary of Tax Effects of Temporary Differences (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfTaxEffectsOfTemporaryDifferencesDetail
+ Summary of Tax Effects of Temporary Differences (Detail)
+ Details
+ 98
+
+ false
+ false
+ R99.htm
+ 999087 - Disclosure - Schedule of Major Filing Jurisdictions and Open Period Subject to Examinations (Detail)
+ Sheet
+ http://www.blackstone.com/role/ScheduleOfMajorFilingJurisdictionsAndOpenPeriodSubjectToExaminationsDetail
+ Schedule of Major Filing Jurisdictions and Open Period Subject to Examinations (Detail)
+ Details
+ 99
+
+ false
+ false
+ R100.htm
+ 999088 - Disclosure - Unrecognized Tax Benefits Excluding Related Interest and Penalties (Detail)
+ Sheet
+ http://www.blackstone.com/role/UnrecognizedTaxBenefitsExcludingRelatedInterestAndPenaltiesDetail
+ Unrecognized Tax Benefits Excluding Related Interest and Penalties (Detail)
+ Details
+ 100
+
+ false
+ false
+ R101.htm
+ 999089 - Disclosure - Basic and Diluted Net Income Per Common Stock (Detail)
+ Sheet
+ http://www.blackstone.com/role/BasicAndDilutedNetIncomePerCommonStockDetail
+ Basic and Diluted Net Income Per Common Stock (Detail)
+ Details
+ 101
+
+ false
+ false
+ R102.htm
+ 999090 - Disclosure - Summary of Anti-Dilutive Securities (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfAntiDilutiveSecuritiesDetail
+ Summary of Anti-Dilutive Securities (Detail)
+ Details
+ 102
+
+ false
+ false
+ R103.htm
+ 999091 - Disclosure - Schedule of Shares Eligible For Dividends and Distribution (Detail)
+ Sheet
+ http://www.blackstone.com/role/ScheduleOfSharesEligibleForDividendsAndDistributionDetail
+ Schedule of Shares Eligible For Dividends and Distribution (Detail)
+ Details
+ 103
+
+ false
+ false
+ R104.htm
+ 999092 - Disclosure - Earnings Per Share and Stockholder's Equity - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/EarningsPerShareAndStockholderSEquityAdditionalInformationDetail
+ Earnings Per Share and Stockholder's Equity - Additional Information (Detail)
+ Details
+ 104
+
+ false
+ false
+ R105.htm
+ 999093 - Disclosure - Equity-Based Compensation - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/EquityBasedCompensationAdditionalInformationDetail
+ Equity-Based Compensation - Additional Information (Detail)
+ Details
+ 105
+
+ false
+ false
+ R106.htm
+ 999094 - Disclosure - Summary of Status of Partnership's Unvested Equity-Based Awards (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfStatusOfPartnershipsUnvestedEquityBasedAwardsDetail
+ Summary of Status of Partnership's Unvested Equity-Based Awards (Detail)
+ Details
+ 106
+
+ false
+ false
+ R107.htm
+ 999095 - Disclosure - Unvested Shares and Units, After Expected Forfeitures (Detail)
+ Sheet
+ http://www.blackstone.com/role/UnvestedSharesAndUnitsAfterExpectedForfeituresDetail
+ Unvested Shares and Units, After Expected Forfeitures (Detail)
+ Details
+ 107
+
+ false
+ false
+ R108.htm
+ 999096 - Disclosure - Due from Affiliates and Due to Affiliates (Detail)
+ Sheet
+ http://www.blackstone.com/role/DueFromAffiliatesAndDueToAffiliatesDetail
+ Due from Affiliates and Due to Affiliates (Detail)
+ Details
+ 108
+
+ false
+ false
+ R109.htm
+ 999097 - Disclosure - Related Party Transactions - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/RelatedPartyTransactionsAdditionalInformationDetail
+ Related Party Transactions - Additional Information (Detail)
+ Details
+ 109
+
+ false
+ false
+ R110.htm
+ 999098 - Disclosure - Commitments and Contingencies - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/CommitmentsAndContingenciesAdditionalInformationDetail
+ Commitments and Contingencies - Additional Information (Detail)
+ Details
+ 110
+
+ false
+ false
+ R111.htm
+ 999099 - Disclosure - Clawback Obligations by Segment (Detail)
+ Sheet
+ http://www.blackstone.com/role/ClawbackObligationsBySegmentDetail
+ Clawback Obligations by Segment (Detail)
+ Details
+ 111
+
+ false
+ false
+ R112.htm
+ 999100 - Disclosure - Segment Reporting - Additional Information (Detail)
+ Sheet
+ http://www.blackstone.com/role/SegmentReportingAdditionalInformationDetail
+ Segment Reporting - Additional Information (Detail)
+ Details
+ 112
+
+ false
+ false
+ R113.htm
+ 999101 - Disclosure - Summary of Revenue from External Customers by Geographic Areas (Detail)
+ Sheet
+ http://www.blackstone.com/role/SummaryOfRevenueFromExternalCustomersByGeographicAreasDetail
+ Summary of Revenue from External Customers by Geographic Areas (Detail)
+ Details
+ 113
+
+ false
+ false
+ R114.htm
+ 999102 - Disclosure - Financial Data of Segments (Detail)
+ Sheet
+ http://www.blackstone.com/role/FinancialDataOfSegmentsDetail
+ Financial Data of Segments (Detail)
+ Details
+ 114
+
+ false
+ false
+ R115.htm
+ 999103 - Disclosure - Reconciliation of Total Segments to Income (Loss) Before Provision for Taxes and Total Assets (Detail)
+ Sheet
+ http://www.blackstone.com/role/ReconciliationOfTotalSegmentsToIncomeLossBeforeProvisionForTaxesAndTotalAssetsDetail
+ Reconciliation of Total Segments to Income (Loss) Before Provision for Taxes and Total Assets (Detail)
+ Details
+ 115
+
+ false
+ false
+ R116.htm
+ 999104 - Disclosure - Reconciliation of Total Segments to Income (Loss) Before Provision for Taxes and Total Assets (Parenthetical) (Detail)
+ Sheet
+ http://www.blackstone.com/role/ReconciliationOfTotalSegmentsToIncomeLossBeforeProvisionForTaxesAndTotalAssetsParentheticalDetail
+ Reconciliation of Total Segments to Income (Loss) Before Provision for Taxes and Total Assets (Parenthetical) (Detail)
+ Details
+ 116
+
+ false
+ false
+ R117.htm
+ 999105 - Disclosure - Reconciliation of Total Segments to Reported on the Consolidated Statements of Operations (Detail)
+ Sheet
+ http://www.blackstone.com/role/ReconciliationOfTotalSegmentsToReportedOnTheConsolidatedStatementsOfOperationsDetail
+ Reconciliation of Total Segments to Reported on the Consolidated Statements of Operations (Detail)
+ Details
+ 117
+
+ false
+ false
+ All Reports
+ Book
+ All Reports
+
+ bx-20241231.xsd
+ bx-20241231_cal.xml
+ bx-20241231_def.xml
+ bx-20241231_lab.xml
+ bx-20241231_pre.xml
+ d912273d10k.htm
+
+ g912273dsp001.jpg
+ g912273g01g04.jpg
+ g912273g01g06.jpg
+ g912273g01g07.jpg
+ g912273g0221120640607.jpg
+ g912273g88g88.jpg
+ g912273g97g97.jpg
+
+ http://fasb.org/srt/2024
+ http://fasb.org/us-gaap/2024
+ http://xbrl.sec.gov/cyd/2024
+ http://xbrl.sec.gov/dei/2024
+ http://xbrl.sec.gov/ecd/2024
+
+ true
+ true

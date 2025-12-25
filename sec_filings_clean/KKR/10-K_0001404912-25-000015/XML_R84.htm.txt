@@ -1,0 +1,368 @@
+XML
+106
+R84.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Allowance for Credit Losses, Receivables (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Financing Receivable, Excluding Accrued Interest, Allowance for Credit Loss [Roll Forward]
+
+Balance, as of Beginning of Period
+$ 602,443
+
+$ 560,228
+
+$ 374,077
+
+Net Provision (Release)
+305,770
+
+210,704
+
+369,296
+
+Charge-offs
+(322,578)
+
+(190,257)
+
+(183,145)
+
+Recoveries of Amounts Previously Charged-off
+28,773
+
+21,768
+
+Balance, as of End of Period
+614,408
+
+602,443
+
+560,228
+
+Commercial Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, Allowance for Credit Loss [Roll Forward]
+
+Balance, as of Beginning of Period
+319,631
+
+227,315
+
+65,970
+
+Net Provision (Release)
+164,254
+
+113,932
+
+161,345
+
+Charge-offs
+(163,478)
+
+(21,616)
+
+0
+
+Recoveries of Amounts Previously Charged-off
+5,650
+
+0
+
+Balance, as of End of Period
+326,057
+
+319,631
+
+227,315
+
+Residential Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, Allowance for Credit Loss [Roll Forward]
+
+Balance, as of Beginning of Period
+107,204
+
+125,825
+
+72,082
+
+Net Provision (Release)
+5,157
+
+(10,445)
+
+74,798
+
+Charge-offs
+(5,116)
+
+(8,176)
+
+(21,055)
+
+Recoveries of Amounts Previously Charged-off
+0
+
+0
+
+Balance, as of End of Period
+107,245
+
+107,204
+
+125,825
+
+Consumer and Other Loan Receivables
+
+Financing Receivable, Excluding Accrued Interest, Allowance for Credit Loss [Roll Forward]
+
+Balance, as of Beginning of Period
+175,608
+
+207,088
+
+236,025
+
+Net Provision (Release)
+136,359
+
+107,217
+
+133,153
+
+Charge-offs
+(153,984)
+
+(160,465)
+
+(162,090)
+
+Recoveries of Amounts Previously Charged-off
+23,123
+
+21,768
+
+12,800
+
+Balance, as of End of Period
+$ 181,106
+
+$ 175,608
+
+$ 207,088
+
+X
+
+- DefinitionAmount excluding accrued interest, of allowance for credit loss on financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, excluding accrued interest, of increase in allowance for credit loss on financing receivable from recovery. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestAllowanceForCreditLossRecovery
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestAllowanceForCreditLossRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding accrued interest, of decrease in allowance for credit loss on financing receivable from writeoff. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestAllowanceForCreditLossWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding accrued interest, of credit loss expense (reversal of expense) on financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestCreditLossExpenseReversal
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_CommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ResidentialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=kkr_ConsumerAndOtherPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

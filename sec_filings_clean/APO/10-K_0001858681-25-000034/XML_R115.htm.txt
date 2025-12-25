@@ -1,0 +1,192 @@
+XML
+145
+R115.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Long-duration Contracts - Schedule of Remeasurement of Gain (Losses) (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Insurance [Abstract]
+
+Reserves
+$ 25
+
+$ 364
+
+$ 120
+
+Deferred profit liability
+(48)
+
+(246)
+
+(126)
+
+Negative VOBA
+39
+
+(65)
+
+21
+
+Total remeasurement gains (losses)
+$ 16
+
+$ 53
+
+$ 15
+
+X
+
+- DefinitionLiability For Future Policy Benefit, Remeasurement Gain (Loss), Deferred Profit Liability
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_LiabilityForFuturePolicyBenefitRemeasurementGainLossDeferredProfitLiability
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLiability For Future Policy Benefit, Remeasurement Gain (Loss), Reserves
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_LiabilityForFuturePolicyBenefitRemeasurementGainLossReserves
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of remeasurement gain (loss) on liability for future policy benefit from application of revised benefit ratio as of contract issue. Includes, but is not limited to, remeasurement gain (loss) for annuitization insurance benefit, death and other insurance benefits, and traditional and limited-payment contracts.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-4
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitRemeasurementGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of remeasurement gain (loss) on liability for future policy benefit for limited-payment contract from application of revised benefit ratio as of contract issue date.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-4
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitRemeasurementGainLossLimitedPaymentContract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration

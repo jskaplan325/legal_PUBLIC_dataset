@@ -1,0 +1,393 @@
+XML
+86
+R56.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Segments (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Segment Reporting [Abstract]
+
+Schedule of Financial Data for Reportable Segments
+The following presents financial data for the Company s reportable segments.
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Asset Management
+
+Management fees1
+ $ 2,776 $ 2,480 $ 2,134
+Capital solutions fees and other, net 668 538 414
+Fee-related performance fee 208 146 72
+Fee-related compensation (925) (835) (754)
+Other operating expenses (664) (561) (456)
+Fee Related Earnings 2,063 1,768 1,410
+
+Retirement Services
+Fixed income and other net investment income 10,805 8,739 5,706
+Alternative net investment income 939 864 1,206
+Strategic capital management fees 105 72 53
+Cost of funds (7,702) (5,650) (3,755)
+Other operating expenses (458) (481) (462)
+Interest and other financing costs (465) (436) (279)
+Spread Related Earnings 3,224 3,108 2,469
+
+Principal Investing
+Realized performance fees2
+ 921 742 595
+Realized investment income 74 (2) 330
+Principal investing compensation (664) (601) (585)
+Other operating expenses (60) (56) (56)
+Principal Investing Income 271 83 284
+
+Segment Income $ 5,558 $ 4,959 $ 4,163
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Segment Revenue
+Asset Management1
+ $ 3,652 $ 3,164 $ 2,620
+Retirement Services 11,849 9,675 6,965
+Principal Investing2
+ 995 740 925
+Total Segment Revenue $ 16,496 $ 13,579 $ 10,510
+
+Segment Assets December 31, 2024 December 31, 2023
+Asset Management $ 2,286 $ 1,938
+Retirement Services 355,683 294,730
+Principal Investing 10,473 9,573
+Total Assets $ 368,442 $ 306,241
+
+1 Includes intersegment management fees from Retirement Services of $1,223 million, $955 million and $764 million for the years ended December 31, 2024, 2023 and 2022, respectively.
+
+2 Includes intersegment realized performance fees from Retirement Services of $30 million and $20 million for the years ended December 31, 2024 and 2023, respectively.
+
+Schedule of Reconciliation of Income Before Income Tax Provision to Segments
+The following presents the reconciliation of Segment Income and Segment Revenue to income (loss) before income tax (provision) benefit and total revenues reported in the consolidated statements of operations:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Segment Income $ 5,558 $ 4,959 $ 4,163
+Asset Management Adjustments:
+
+Equity-based profit sharing expense and other1,6
+ (321) (239) (276)
+Equity-based compensation (308) (236) (185)
+Special equity-based compensation and other charges (438)
+
+Transaction-related charges2
+ (180) (32) 42
+Merger-related transaction and integration costs3
+ (30) (27) (70)
+Gains (losses) from change in tax receivable agreement liability 42 (13) (26)
+Net income (loss) attributable to non-controlling interests in consolidated entities 1,840 1,556 (1,499)
+Unrealized performance fees6
+ 264 127 2
+Unrealized profit sharing expense6
+ (145) (179) (20)
+
+HoldCo interest and other financing costs4
+ (80) (88) (122)
+Unrealized principal investment (income) loss6
+ (9) 88 (176)
+Unrealized net gains (losses) from investment activities and other6
+ 30 (26) 144
+Retirement Services Adjustments:
+Investment gains (losses), net of offsets 217 170 (7,467)
+Non-operating change in insurance liabilities and related derivatives5
+ 846 182 1,433
+Integration, restructuring and other non-operating expenses (239) (130) (133)
+Equity-based compensation (50) (88) (56)
+Income (loss) before income tax (provision) benefit $ 7,435 $ 5,586 $ (4,246)
+
+1 Equity-based profit sharing expense and other includes certain profit sharing arrangements in which a portion of performance fees distributed to the general partner are required to be used by employees of Apollo to purchase restricted shares of common stock or is delivered in the form of RSUs, which are granted under the Equity Plan. Equity-based profit sharing expense and other also includes performance grants which are tied to the Company s receipt of performance fees, within prescribed periods, sufficient to cover the associated equity-based compensation expense.
+
+2 Transaction-related charges include contingent consideration, equity-based compensation charges and the amortization of intangible assets and certain other charges associated with acquisitions, and restructuring charges.
+
+3 Merger-related transaction and integration costs includes advisory services, technology integration, equity-based compensation charges and other costs associated with the Mergers.
+
+4 Represents interest and other financing costs related to AGM not attributable to any specific segment.
+
+5 Includes change in fair values of derivatives and embedded derivatives, non-operating change in funding agreements, change in fair value of market risk benefits, and non-operating change in liability for future policy benefits.
+
+6 Represents adjustments that primarily impact the Principal Investing segment.
+
+Schedule of Reconciliation of Consolidated Revenues to Total Asset Management Fee Related Revenues
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Segment Revenues $ 16,496 $ 13,579 $ 10,510
+Asset Management Adjustments:
+
+Adjustments related to consolidated funds and VIEs1
+ 525 362 (364)
+Performance fees2
+ 273 126 (2)
+Principal investment income (loss)2
+ 7 102 (136)
+Equity awards granted by unconsolidated related parties, reimbursable expenses and other1
+ 479 331 199
+Retirement Services Adjustments:
+Premiums, product charges, investment related gains (losses) and other retirement services revenue3
+ 4,398 15,616 (378)
+Change in fair value of reinsurance assets 129 (86) (333)
+Forward points adjustment on FX derivative hedges (133) (187) (125)
+Held-for-trading amortization 108 191 228
+Reinsurance impacts 223 264 41
+ACRA non-controlling interests on net investment earnings 3,864 2,377 1,505
+Other retirement services adjustments (255) (31) (177)
+Total Revenues $ 26,114 $ 32,644 $ 10,968
+
+1 Represents advisory fees, management fees and performance fees earned from consolidated VIEs which are eliminated in consolidation. Includes non-cash
+revenues related to equity awards granted by unconsolidated related parties to employees of the Company and certain compensation and administrative related expense reimbursements.
+
+2 Represents adjustments that primarily impact the Principal Investing segment.
+
+3 Refer to the consolidated statement of operations for breakout of individual items.
+
+Schedule of Reconciliation of Total Reportable Segment Assets to Total Assets
+The following table presents the reconciliation of the Company s total reportable segment assets to total assets:
+
+(In millions) December 31, 2024 December 31, 2023
+Total reportable segment assets $ 368,442 $ 306,241
+Adjustments1
+ 9,453 7,247
+Total assets $ 377,895 $ 313,488
+
+1 Represents the addition of assets of consolidated funds and VIEs and consolidation elimination adjustments.
+
+Schedule of Revenue from External Customers by Geographic Areas
+The table below presents the percentage of total asset management GAAP revenues generated from external customers attributed to the Company s region of domicile and attributed to all foreign regions which the public entity derives its revenues. Revenues attributed to a geographic region are generally based on the country of domicile of the Apollo funds.
+
+ Years ended December 31,
+ 2024 2023 2022
+Asset Management
+Americas 88 % 91 % 86 %
+Europe, Middle East and Africa 11 8 12
+Asia-Pacific 1 1 2
+ 100 % 100 % 100 %
+
+X
+
+- DefinitionTabular disclosure of all significant reconciling items in the reconciliation of total assets from reportable segments to the entity's consolidated assets.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-31
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
++ Details
+
+ Name:
+us-gaap_ReconciliationOfAssetsFromSegmentToConsolidatedTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the reconciliation of profit (loss) from reportable segments to the consolidated income (loss) before income tax expense (benefit) and discontinued operations. Includes, but is not limited to, reconciliation after income tax if income tax is allocated to the reportable segment.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-31
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
++ Details
+
+ Name:
+us-gaap_ReconciliationOfOperatingProfitLossFromSegmentsToConsolidatedTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of all significant reconciling items in the reconciliation of total revenues from reportable segments to the entity's consolidated revenues.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-31
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
++ Details
+
+ Name:
+us-gaap_ReconciliationOfRevenueFromSegmentsToConsolidatedTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of revenue from external customers by geographic areas attributed to the entity's country of domicile and to foreign countries from which the entity derives revenue.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
++ Details
+
+ Name:
+us-gaap_RevenueFromExternalCustomersByGeographicAreasTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the profit or loss and total assets for each reportable segment. An entity discloses certain information on each reportable segment if the amounts (a) are included in the measure of segment profit or loss reviewed by the chief operating decision maker or (b) are otherwise regularly provided to the chief operating decision maker, even if not included in that measure of segment profit or loss.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 25
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-25
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfSegmentReportingInformationBySegmentTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

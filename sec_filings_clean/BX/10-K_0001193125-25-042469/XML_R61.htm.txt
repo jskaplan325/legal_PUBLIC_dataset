@@ -1,0 +1,340 @@
+XML
+90
+R61.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Performance Fees Allocated to Funds (Detail)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+USD ($)
+
+Schedule of Performance Fees and Allocations to the General Partner [Line Items]
+
+Beginning Balance
+$ 26,146,622
+
+Ending Balance
+29,800,566
+
+Performance Fees
+
+Schedule of Performance Fees and Allocations to the General Partner [Line Items]
+
+Beginning Balance
+10,775,355
+
+Performance Allocations as a Result of Changes in Fund Fair Values
+4,004,143
+
+Foreign Exchange Gain
+5,124
+
+Fund Distributions
+(2,387,256)
+
+Ending Balance
+12,397,366
+
+Real Estate Segment
+
+Schedule of Performance Fees and Allocations to the General Partner [Line Items]
+
+Beginning Balance
+2,990,602
+
+Performance Allocations as a Result of Changes in Fund Fair Values
+(490,902)
+
+Foreign Exchange Gain
+5,124
+
+Fund Distributions
+(518,807)
+
+Ending Balance
+1,986,017
+
+Private Equity Segment
+
+Schedule of Performance Fees and Allocations to the General Partner [Line Items]
+
+Beginning Balance
+7,093,920
+
+Performance Allocations as a Result of Changes in Fund Fair Values
+3,801,294
+
+Fund Distributions
+(1,433,278)
+
+Ending Balance
+9,461,936
+
+Credit & Insurance Segment
+
+Schedule of Performance Fees and Allocations to the General Partner [Line Items]
+
+Beginning Balance
+599,779
+
+Performance Allocations as a Result of Changes in Fund Fair Values
+471,043
+
+Fund Distributions
+(268,973)
+
+Ending Balance
+801,849
+
+Multi-Asset Investing | Performance Fees
+
+Schedule of Performance Fees and Allocations to the General Partner [Line Items]
+
+Beginning Balance
+91,054
+
+Performance Allocations as a Result of Changes in Fund Fair Values
+222,708
+
+Fund Distributions
+(166,198)
+
+Ending Balance
+$ 147,564
+
+X
+
+- DefinitionForeign Currency Exchange Gain Loss
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ForeignCurrencyExchangeGainLoss
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFund Distributions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FundDistributions
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance Fees Allocated As Result Of Changes In Fund Fair Values
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PerformanceFeesAllocatedAsResultOfChangesInFundFairValues
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSchedule of Performance Fees and Allocations to the General Partner [Line Items]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ScheduleOfPerformanceFeesAndAllocationsToGeneralPartnerLineItems
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSum of the carrying amounts as of the balance sheet date of all investments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-14
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(1)(h))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(1)(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_Investments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=bx_PerformanceFeesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_RealEstateSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_PrivateEquitySegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_CreditAndInsuranceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_MultiAssetInvestingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

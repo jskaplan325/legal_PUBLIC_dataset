@@ -1,0 +1,87 @@
+XML
+68
+R46.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Accounting Policies [Abstract]
+
+Schedule of Revenues from Contracts with Customers
+The following table summarizes KKR's revenues from contracts with customers:
+
+Revenue Type Customer Performance Obligation Performance Obligation Satisfied Over Time or
+Point In Time (1)
+ Variable or
+Fixed Consideration Payment Terms Subject to Return Once Recognized Classification of Uncollected Amounts (2)
+
+Management Fees Investment funds, CLOs and other vehicles Investment management services Over time as services are rendered Variable consideration since varies based on fluctuations in the basis of the management fee over time Typically quarterly or annually in arrears No Due from Affiliates
+Transaction Fees Portfolio companies and third party companies Advisory services and debt and equity arranging and underwriting Point in time when the transaction (e.g. underwriting) is completed Fixed consideration Typically paid on or shortly after transaction closes No Due from Affiliates (portfolio companies)
+
+Other Assets (third parties)
+Monitoring Fees
+Recurring Fees Portfolio companies Monitoring services Over time as services are rendered Variable consideration since varies based on fluctuations in the basis of the recurring fee Typically quarterly in arrears No Due from Affiliates
+Termination Fees Portfolio companies Monitoring services Point in time when the termination is completed Fixed consideration Typically paid on or shortly after termination occurs No Due from Affiliates
+Incentive Fees Investment funds and other vehicles Investment management services that result in achievement of minimum investment return levels Over time as services are rendered Variable consideration since contingent upon the investment fund and other vehicles achieving more than stipulated investment return hurdles Typically paid shortly after the end of the performance measurement period No Due from Affiliates
+Expense Reimbursements Investment funds and portfolio companies Investment management and monitoring services Point in time when the related expense is incurred Fixed consideration Typically shortly after expense is incurred No Due from Affiliates
+Consulting Fees Portfolio companies and other companies Consulting and other services Over time as services are rendered Fixed consideration Typically quarterly in arrears No Due from Affiliates
+
+(1)For performance obligations satisfied at a point in time, there were no significant judgments made in evaluating when a customer obtains control of the promised service.
+(2)For amounts classified in Other Assets, see Note 14 "Other Assets and Accrued Expenses and Other Liabilities." For amounts classified in Due from Affiliates, see Note 20 "Related Party Transactions."
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AccountingPoliciesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of entity-wide revenues from external customers for each product or service or each group of similar products or services if the information is not provided as part of the reportable operating segment information.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 280
+ -SubTopic 10
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEntityWideInformationRevenueFromExternalCustomersByProductsAndServicesTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

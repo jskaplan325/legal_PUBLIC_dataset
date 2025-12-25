@@ -1,0 +1,362 @@
+XML
+92
+R62.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Merger with Athene - Schedule of Fair Value and Weighted Average Estimate Useful Lives of VOBA and Other Identifiable Intangible Assets Acquired (Details)
+ $ in Millions
+
+Jan. 01, 2022
+
+USD ($)
+
+Acquired Indefinite-lived Intangible Assets [Line Items]
+
+Total
+$ 5,428
+
+State Insurance Licenses
+
+Acquired Indefinite-lived Intangible Assets [Line Items]
+
+Fair value
+26
+
+VOBA Asset
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Fair value (in millions)
+$ 3,372
+
+Average useful life (in years)
+7 years
+
+Distribution Channels
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Fair value (in millions)
+$ 1,870
+
+Average useful life (in years)
+18 years
+
+Trade Name
+
+Acquired Finite-Lived Intangible Assets [Line Items]
+
+Fair value (in millions)
+$ 160
+
+Average useful life (in years)
+20 years
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 985
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481283/985-20-50-2
+
++ Details
+
+ Name:
+us-gaap_AcquiredFiniteLivedIntangibleAssetsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted average amortization period of finite-lived intangible assets acquired either individually or as part of a group of assets, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 985
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481283/985-20-50-2
+
++ Details
+
+ Name:
+us-gaap_AcquiredFiniteLivedIntangibleAssetsWeightedAverageUsefulLife
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-1
+
++ Details
+
+ Name:
+us-gaap_AcquiredIndefiniteLivedIntangibleAssetsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of assets, excluding financial assets and goodwill, that lack physical substance, having a projected indefinite period of benefit, acquired at the acquisition date.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIndefiniteLivedIntangibleAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of intangible assets, excluding goodwill, acquired at the acquisition date.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibleAssetsOtherThanGoodwill
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe amount of identifiable intangible assets recognized as of the acquisition date.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 55
+ -Paragraph 37
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479303/805-10-55-37
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_IndefiniteLivedIntangibleAssetsByMajorClassAxis=us-gaap_LicensingAgreementsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FiniteLivedIntangibleAssetsByMajorClassAxis=us-gaap_InsuranceContractsAcquiredInBusinessCombinationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FiniteLivedIntangibleAssetsByMajorClassAxis=us-gaap_DistributionRightsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FiniteLivedIntangibleAssetsByMajorClassAxis=us-gaap_TradeNamesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

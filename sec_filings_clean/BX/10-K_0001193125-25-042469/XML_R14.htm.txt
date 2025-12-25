@@ -1,0 +1,61 @@
+XML
+43
+R14.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Organization
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Organization
+
+1.
+
+Organization
+
+Blackstone Inc., together with its consolidated subsidiaries ( Blackstone or the Company ), is the world s largest alternative asset manager. Blackstone s asset management business includes global investment strategies focused on real estate, private equity, infrastructure, life sciences, growth equity, credit, real assets, secondaries and hedge funds. Blackstone Funds refers to the funds and other vehicles that are managed by Blackstone. Blackstone s business is organized into four segments: Real Estate, Private Equity, Credit & Insurance and Multi-Asset Investing.
+
+Blackstone Inc. was initially formed as The Blackstone Group L.P., a Delaware limited partnership, on March 12, 2007. Prior to its conversion on July 1, 2019 to a Delaware corporation, Blackstone Inc. was managed and operated by Blackstone Group Management L.L.C., which is wholly owned by Blackstone s senior managing directors and controlled by one of Blackstone s founders, Stephen A. Schwarzman (the Founder ).
+
+The activities of Blackstone are conducted through its holding partnerships: Blackstone Holdings I L.P., Blackstone Holdings AI L.P., Blackstone Holdings II L.P., Blackstone Holdings III L.P. and Blackstone Holdings IV L.P. (collectively, Blackstone Holdings, Blackstone Holdings Partnerships or the Holding Partnerships ). Blackstone, through its wholly owned subsidiaries, is the sole general partner of each of the Holding Partnerships. Generally, holders of the limited partner interests in the Holding Partnerships may, four times each year, exchange their limited partnership interests ( Partnership Units ) for Blackstone common stock, on a one-to-one basis, exchanging one Partnership Unit from each of the Holding Partnerships for one share of Blackstone common stock.
+
+X
+
+- DefinitionThe entire disclosure for the nature of an entity's business, major products or services, principal markets including location, and the relative importance of its operations in each business and the basis for the determination, including but not limited to, assets, revenues, or earnings. For an entity that has not commenced principal operations, disclosures about the risks and uncertainties related to the activities in which the entity is currently engaged and an understanding of what those activities are being directed toward.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/275/tableOfContent
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-1
+
++ Details
+
+ Name:
+us-gaap_NatureOfOperations
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

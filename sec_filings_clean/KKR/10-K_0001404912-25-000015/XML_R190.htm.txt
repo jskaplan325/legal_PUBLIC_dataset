@@ -1,0 +1,743 @@
+XML
+212
+R190.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SCHEDULE IV - REINSURANCE (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+SEC Schedule, 12-17, Insurance Companies, Reinsurance [Abstract]
+
+Gross Amount
+$ 75,603,581
+
+$ 81,531,659
+
+$ 87,800,041
+
+Ceded to Other Companies
+(57,446,060)
+
+(69,253,317)
+
+(50,258,155)
+
+Assumed from Other Companies
+43,934,822
+
+45,073,052
+
+20,664,894
+
+Net Amount
+$ 62,092,343
+
+$ 57,351,394
+
+$ 58,206,780
+
+Percentage of Amount Assumed to Net
+71.00%
+
+79.00%
+
+36.00%
+
+Gross Amount
+$ 642,803
+
+$ 118,535
+
+Ceded to Other Companies
+(4,659,566)
+
+(2,281,618)
+
+Assumed from Other Companies
+11,915,597
+
+4,138,758
+
+Net Amount
+$ 7,898,834
+
+$ 1,975,675
+
+$ 1,182,461
+
+Percentage of Amount Assumed to Net
+151.00%
+
+209.00%
+
+204.00%
+
+Gross Amount
+$ 917,684
+
+$ 912,931
+
+$ 950,702
+
+Ceded to Other Companies
+(651,996)
+
+(94,767)
+
+(17,509)
+
+Assumed from Other Companies
+1,111,998
+
+442,085
+
+328,528
+
+Net Amount
+$ 1,377,686
+
+$ 1,260,249
+
+$ 1,261,721
+
+Percentage of Amount Assumed to Net
+81.00%
+
+35.00%
+
+26.00%
+
+X
+
+- DefinitionAssumed Policy Fees Earned
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_AssumedPolicyFeesEarned
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCeded Policy Fees Earned
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_CededPolicyFeesEarned
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicy Fees Earned, Gross
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyFeesEarnedGross
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicy Fees Earned, Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyFeesEarnedNet
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSEC Schedule, 12-17, Insurance Companies, Reinsurance, Policy Fees, Percentage Assumed To Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_SECSchedule1217InsuranceCompaniesReinsurancePolicyFeesPercentageAssumedToNet
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of life insurance issued and outstanding assumed from other entity, as disclosed in supplementary reinsurance information. Includes, but is not limited to, dividend and adjustment to face value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-X (SX)
+ -Number 210
+ -Section 12
+ -Subsection 17
+ -Paragraph Column D
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column D))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
++ Details
+
+ Name:
+srt_LifeInsuranceInForceAssumed
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of life insurance issued and outstanding ceded to other entity, as disclosed in supplementary reinsurance information. Includes, but is not limited to, dividend and adjustment to face value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-X (SX)
+ -Number 210
+ -Section 12
+ -Subsection 17
+ -Paragraph Column C
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column C))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
++ Details
+
+ Name:
+srt_LifeInsuranceInForceCeded
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before effect of reinsurance, of life insurance issued and outstanding, as disclosed in supplementary reinsurance information. Includes, but is not limited to, dividend and adjustment to face value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-X (SX)
+ -Number 210
+ -Section 12
+ -Subsection 17
+ -Paragraph Column B
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column B))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
++ Details
+
+ Name:
+srt_LifeInsuranceInForceGross
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after effect of reinsurance, of life insurance issued and outstanding, as disclosed in supplementary reinsurance information. Includes, but is not limited to, dividend and adjustment to face value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-X (SX)
+ -Number 210
+ -Section 12
+ -Subsection 17
+ -Paragraph Column E
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
++ Details
+
+ Name:
+srt_LifeInsuranceInForceNet
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPercentage of assumed life insurance contract issued and outstanding to life insurance contract issued and outstanding after effect of reinsurance, as disclosed in supplementary reinsurance information. Includes, but is not limited to, dividend and adjustment to face value.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-X (SX)
+ -Number 210
+ -Section 12
+ -Subsection 17
+ -Paragraph Column F
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column F))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
++ Details
+
+ Name:
+srt_LifeInsuranceInForcePercentageAssumedToNet
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+srt_SupplementalScheduleOfReinsurancePremiumsForInsuranceCompaniesAbstract
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of earned premiums assumed from other entities.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column D))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
++ Details
+
+ Name:
+us-gaap_AssumedPremiumsEarned
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of earned premiums ceded to other entities.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column C))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478832/944-605-45-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
++ Details
+
+ Name:
+us-gaap_CededPremiumsEarned
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before premiums ceded to other entities and premiums assumed by the entity, of premiums earned.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column B))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
++ Details
+
+ Name:
+us-gaap_DirectPremiumsEarned
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after premiums ceded to other entities and premiums assumed by the entity, of premiums earned.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(13)(c))
+ -SubTopic 220
+ -Topic 942
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(1))
+ -SubTopic 220
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_PremiumsEarnedNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage of assumed premium earned to premium earned after effects of reinsurance, as disclosed in supplementary reinsurance information.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column F))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
++ Details
+
+ Name:
+us-gaap_PremiumsPercentageAssumedToNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

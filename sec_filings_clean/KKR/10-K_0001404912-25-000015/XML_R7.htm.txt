@@ -1,0 +1,133 @@
+XML
+29
+R7.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+CONSOLIDATED STATEMENTS OF OPERATIONS (Parenthetical) - USD ($)
+ $ in Thousands
+
+3 Months Ended
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Income Statement [Abstract]
+
+Market risk benefit, (gain) loss
+$ (147,790)
+
+$ 224,380
+
+$ (673,399)
+
+Liability for future policy benefit, remeasurement (gain) loss
+$ (74,645)
+
+$ 15,497
+
+$ (57,128)
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_IncomeStatementAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of remeasurement gain (loss) on liability for future policy benefit from application of revised benefit ratio as of contract issue. Includes, but is not limited to, remeasurement gain (loss) for annuitization insurance benefit, death and other insurance benefits, and traditional and limited-payment contracts.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-4
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitRemeasurementGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) from (increase) decrease in fair value of contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk. Excludes change attributable to instrument-specific credit risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-3
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitChangeInFairValueGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration

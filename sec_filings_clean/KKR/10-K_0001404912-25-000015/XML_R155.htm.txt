@@ -1,0 +1,969 @@
+XML
+177
+R155.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+POLICY LIABILITIES - Closed Blocks (Details) - Global Atlantic - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Assets
+
+Total Investments
+$ 1,361
+
+$ 1,272
+
+Cash and Cash Equivalents
+9,062
+
+6,332
+
+Accrued Investment Income
+46
+
+46
+
+Reinsurance Recoverable
+940,732
+
+926,035
+
+Deferred Income Taxes
+50,321
+
+42,926
+
+Total Assets
+1,001,522
+
+976,611
+
+Liabilities
+
+Policy Liabilities
+899,732
+
+877,856
+
+Policyholder Dividend Obligation at Fair Value
+76,297
+
+77,762
+
+Policyholder Dividends Payable at Fair Value
+9,578
+
+10,240
+
+Total Policy Liabilities
+985,607
+
+965,858
+
+Accrued Expenses and Other Liabilities
+13,639
+
+12,793
+
+Total Liabilities
+999,246
+
+978,651
+
+Excess of Closed Block Liabilities Over Assets Designated to the Closed Blocks and Maximum Future Earnings to be Recognized from Closed Block Assets and Liabilities
+(2,276)
+
+2,040
+
+Revenues
+
+Premiums and Other Income
+1,449
+
+(911)
+
+$ (436)
+
+Net Investment Expense
+332
+
+319
+
+164
+
+Total Revenues
+1,781
+
+(592)
+
+(272)
+
+Benefits and Expenses
+
+Policy Benefits and Claims
+(929)
+
+(2,219)
+
+(12,141)
+
+Other Expenses
+44
+
+(13)
+
+251
+
+Total Benefits and Expenses
+(885)
+
+(2,232)
+
+(11,890)
+
+Net Contribution from the Closed Blocks
+2,666
+
+1,640
+
+11,618
+
+Income Tax (Benefit) Expense
+(7,367)
+
+861
+
+16,185
+
+Net Income (Loss)
+$ 10,033
+
+$ 779
+
+$ (4,567)
+
+X
+
+- DefinitionAssets Designated to Closed Block, Reinsurance Recoverable
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_AssetsDesignatedToClosedBlockReinsuranceRecoverable
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionClosed Block Liabilities, Policy Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ClosedBlockLiabilitiesPolicyLiabilities
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionClosed Block Operations, Net Investment Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ClosedBlockOperationsNetInvestmentExpense
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionClosed Block Operations, Other Expense (Reversal), Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ClosedBlockOperationsOtherExpenseReversalNet
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionClosed Block Operations, Policyholder Benefits And Claims, Assumed and Ceded
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ClosedBlockOperationsPolicyholderBenefitsAndClaimsAssumedAndCeded
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionClosed Block Operations, Policyholder Benefits And Expense Incurred, Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ClosedBlockOperationsPolicyholderBenefitsAndExpenseIncurredNet
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionClosed Block Operations, Premium (Ceded), Net
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ClosedBlockOperationsPremiumCededNet
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionClosed Block Operations, Revenue, Net Of Ceded Business
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ClosedBlockOperationsRevenueNetOfCededBusiness
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AssetsDesignatedToClosedBlockAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of accrued investment income held by the closed block.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_AssetsDesignatedToClosedBlockAccruedInvestmentIncome
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionCash and highly liquid, safe investments that can be readily converted into cash (cash equivalents) allocated to the segregated group of participating or dividend-paying policies and contracts identified as the closed block.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_AssetsDesignatedToClosedBlockCashAndCashEquivalents
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after valuation allowance and deferred tax liability, of deferred tax asset pertaining to the closed block.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_AssetsDesignatedToClosedBlockDeferredTaxAssetNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of investments held by the closed block.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_AssetsDesignatedToClosedBlockInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of other assets held by the closed block. Excludes other investments.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_AssetsDesignatedToClosedBlockOtherClosedBlockAssets1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFor the segregated group of participating or dividend-paying policies and contracts along with the assets backing them (known as a closed block), the total of future policy benefits, policyholder account balance, policyholder dividend obligation and any other closed block liabilities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockLiabilitiesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe liability as of the balance sheet date for future benefits to be paid to or on behalf of policyholders and expenses, less the present value of future net premiums payable under the insurance contracts and the policy cash accumulations, for the segregated group of participating or dividend-paying policies and contracts identified as a closed block.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockLiabilitiesFuturePolicyBenefitsAndPolicyholderAccountBalances
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of liabilities allocated to the closed block, classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockLiabilitiesOtherClosedBlockLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe liability as of the balance sheet date for the excess of the cumulative actual closed block earnings over the cumulative expected (actuarially determined) closed block earnings (each) for the period from the actuarial calculation date to the date of measurement. The excess will result in future dividends to closed block policyholders, unless offset by less favorable than expected future performance of the closed block. The policyholder dividend obligation, which may not have a negative balance, recognizes that a portion of earnings in certain cases will not inure to the stockholders of the insurance entity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockLiabilitiesPolicyholderDividendObligation
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of dividends payable as of the balance sheet date to policyholders of contracts in the closed block.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)(8)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockLiabilitiesPolicyholderDividendsPayable
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockOperationsBenefitsAndExpenseAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe amount of income tax expense or benefit allocated to the operations of the closed block for the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockOperationsIncomeTaxes
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of net income (loss) from operations of the closed block.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockOperationsNetResults
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe revenues less expenses from operations of the closed block during the period, before income taxes allocated thereto.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockOperationsResultsBeforeIncomeTaxes
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockOperationsRevenueAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe difference between the liabilities of and the assets allocated to the segregated group of participating or dividend-paying policies and contracts identified as the closed block.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 55
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477301/944-805-55-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ExcessOfReportedClosedBlockLiabilitiesOverAssetsDesignatedToClosedBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=kkr_GlobalAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

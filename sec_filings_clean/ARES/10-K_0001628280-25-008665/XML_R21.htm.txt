@@ -1,0 +1,319 @@
+XML
+93
+R21.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY AND REDEEMABLE INTEREST
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Stockholders' Equity Note [Abstract]
+
+EQUITY AND REDEEMABLE INTEREST
+13. EQUITY AND REDEEMABLE INTEREST
+Common Stock
+
+ The Company s common stock consists of Class A, Class B, Class C and non-voting common stock, each $0.01 par value per share. The non-voting common stock has the same economic rights as the Class A common stock. Sumitomo Mitsui Banking Corporation ( SMBC ) is the sole holder of the non-voting common stock. The Class B common stock and Class C common stock are non-economic and holders are not entitled to dividends from the Company or to receive any assets of the Company in the event of any dissolution, liquidation or winding up of the Company. Ares Management GP LLC is the sole holder of the Class B common stock and Ares Voting LLC ( Ares Voting ) is the sole holder of the Class C common stock.
+Except as otherwise expressly provided in the Company s Certificate of Incorporation (the Certificate of Incorporation ), the Company s common stockholders are entitled to vote on all matters on which stockholders of a corporation are generally entitled to vote under the Delaware General Corporation Law (the DGCL ), including the election of the Company s board of directors. Holders of shares of the Company s Class A common stock are entitled to one vote per share of the Company s Class A common stock. On any date on which the Ares Ownership Condition (as defined in the Certificate of Incorporation) is satisfied, holders of shares of the Company s Class B common stock are, in the aggregate, entitled to a number of votes equal to (x) four times the aggregate number of votes attributable to the Company s Class A common stock minus (y) the aggregate number of votes attributable to the Company s Class C common stock. On any date on which the Ares Ownership Condition is not satisfied, holders of shares of the Company s Class B common stock are not entitled to vote on any matter submitted to a vote of the Company s stockholders. The holder of shares of the Company s Class C common stock is generally entitled to a number of votes equal to the number of AOG Units (as defined in the Certificate of Incorporation) held of record by each Ares Operating Group Limited Partner (as defined in the Certificate of Incorporation) other than the Company and its
+subsidiaries. Issuances of Class C common stock correspond with increases in Ares Owners Holdings L.P. s ownership interest in the AOG entities.
+ The Company has a stock repurchase program that allows for the repurchase of up to $150.0 million of shares of Class A common stock. Under the program, shares may be repurchased from time to time in open market purchases, privately negotiated transactions or otherwise, including in reliance on Rule 10b5-1 of the Securities Act. The renewal of the program is subject to authorization by the Company s board of directors on an annual basis. As of December 31, 2024, the program was scheduled to expire in March 2025. In February 2025, the renewal of the program was authorized by the Company s board of directors and will expire in March 2026, with an increase in size up to $750.0 million. Repurchases under the program, if any, will depend on the prevailing market conditions and other factors. During the years ended December 31, 2024, 2023 and 2022, the Company did not repurchase any shares as part of the stock repurchase program.
+
+The Company issued and sold 3,047,500 shares of Class A common stock during the year ended December 31, 2024 (the Offering ). The Offering resulted in net proceeds of approximately $407.2 million (after deducting underwriting discounts and offering expenses).
+
+The following table presents the changes in each class of common stock:
+
+ Class A Common Stock Non-Voting Common Stock Class B Common Stock Class C Common Stock Total
+Balance as of December 31, 2023 187,069,907 3,489,911 1,000 117,024,758 307,585,576
+Issuance of common stock 3,122,628 63,179 3,185,807
+Exchanges of AOG Units 7,281,248 (7,281,248)
+
+Stock option exercises, net of shares withheld for tax 79,524 79,524
+
+Vesting of restricted unit awards, net of shares withheld for tax 2,319,264 2,319,264
+
+Balance as of December 31, 2024 199,872,571 3,489,911 1,000 109,806,689 313,170,171
+
+The following table presents each partner s AOG Units and corresponding ownership interest in each of the AOG entities, as well as its daily average ownership of AOG Units in each of the AOG entities:
+
+ Daily Average Ownership
+ As of December 31, 2024 As of December 31, 2023 Year ended December 31,
+ AOG Units Direct Ownership Interest AOG Units Direct Ownership Interest 2024 2023 2022
+Ares Management Corporation 203,362,482 64.94% 190,559,818 61.95% 63.61% 60.83% 59.76%
+Ares Owners Holdings, L.P. 109,806,689 35.06 117,024,758 38.05 36.39 39.17 40.24
+Total 313,169,171 100.00% 307,584,576 100.00%
+
+The Company s ownership percentage of the AOG Units will continue to change upon: (i) the vesting of restricted units that were granted under the Equity Incentive Plan; (ii) the exchange of AOG Units for shares of Class A common stock; (iii) the cancellation of AOG Units in connection with certain individuals forfeiture of AOG Units upon termination of employment; and (iv) the issuance of new AOG Units, including in connection with acquisitions, among other strategic reasons. Holders of the AOG Units, subject to any applicable transfer restrictions, may up to four times each year (subject to the terms of the exchange agreement) exchange their AOG Units for shares of Class A common stock on a one-for-one basis. Equity is reallocated among partners upon a change in ownership to ensure each partners capital account properly reflects their respective claim on the residual value of the Company. This change is reflected as either a reallocation of interest or as dilution within the Consolidated Statements of Changes in Equity.
+Preferred Stock
+
+In October 2024, the Company issued 30,000,000 shares of its Series B mandatory convertible preferred stock for total proceeds of $1,462.5 million (after deducting underwriting discounts but before offering expenses).
+As of December 31, 2024, the Company had 30,000,000 shares of Series B mandatory convertible preferred stock outstanding. When, as and if declared by the Company s board of directors, dividends on the Series B mandatory convertible preferred stock are payable quarterly at a rate per annum equal to 6.75% on January 1, April 1, July 1 and October 1 of each year, beginning on January 1, 2025 and concluding on October 1, 2027. Declared dividends on the Series B mandatory convertible preferred stock will be payable, at the Company s election, in cash, shares of its Class A common stock or a combination of cash and shares of its Class A common stock. Dividends on Series B mandatory convertible preferred stock are cumulative and the Series B mandatory convertible preferred stock, unless previously converted or redeemed, will automatically convert into the Company s Class A common stock on October 1, 2027.
+Redeemable Interest
+
+On July 1, 2020, the Company completed its acquisition of a majority interest in SSG Capital Holdings Limited and its operating subsidiaries ( SSG and subsequently rebranded as Ares SSG ) (the SSG Acquisition ). In connection with the SSG Acquisition, the former owners of SSG retained a 20% ownership interest in the operations acquired by the Company. During the year ended December 31, 2023, the Company purchased a portion of the redeemable interest in AOG entities (the SSG Buyout ), and the Company now owns 100% of Ares SSG s fee-generating business. The remaining redeemable interest in AOG entities represents ownership in certain investments that were not included in the 20% ownership interest buyout arrangement, and continues to be presented at the redemption amount within mezzanine equity within the Consolidated Statements of Financial Condition.
+
+During the year ended December 31, 2023, Ares Acquisition Corporation II (NYSE: AACT) ( AAC II ), the Company s second sponsored SPAC, consummated its initial public offering and generated gross proceeds of $500.0 million. As of December 31, 2024, the 50,000,000 AAC II Class A ordinary shares are presented at the redemption amount within mezzanine equity within the Consolidated Statements of Financial Condition.
+The following table summarizes the activities associated with the redeemable interest in AOG entities:
+
+ Total
+Balance as of December 31, 2021 $ 96,008
+Distributions (1,887)
+Net loss (851)
+Currency translation adjustment, net of tax (426)
+Equity compensation 285
+Balance as of December 31, 2022 93,129
+Changes in ownership interests and related tax benefits (66,507)
+Distributions (2,883)
+Net income 226
+Currency translation adjustment, net of tax (41)
+Equity compensation 174
+Balance as of December 31, 2023 24,098
+
+Distributions (302)
+Net income 103
+Currency translation adjustment, net of tax (403)
+
+Balance as of December 31, 2024 $ 23,496
+
+The following table summarizes the activities associated with the redeemable interest in Consolidated Funds:
+
+ Total
+
+Balance as of December 31, 2022 $ 1,013,282
+Gross proceeds from the initial public offering of AAC II 500,000
+Change in redemption value 55,530
+Redemptions from Class A ordinary shares of Ares Acquisition Corporation (formerly NYSE: AAC) (1,045,874)
+Balance as of December 31, 2023 522,938
+
+Change in redemption value 27,762
+
+Balance as of December 31, 2024 $ 550,700
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_StockholdersEquityNoteAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for equity.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 505
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478448/946-505-50-6
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480237/815-40-50-6
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(e)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 10: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/505/tableOfContent
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-13
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-14
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 16
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-16
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-18
+
++ Details
+
+ Name:
+us-gaap_StockholdersEquityNoteDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,918 @@
+XML
+32
+R10.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY (Parenthetical) - $ / shares
+
+12 Months Ended
+
+Dec. 31, 2022
+
+Dec. 31, 2021
+
+Accounting Standards Update [Extensible Enumeration]
+Accounting Standards Update 2018-12 [Member]
+
+Accounting Standards Update 2018-12 [Member]
+
+Common stock, dividends declared (in dollars per share)
+$ 0.610
+
+Series C Mandatory Convertible Preferred Stock Dividends
+
+Preferred stock, dividends declared (in dollars per share)
+$ 3.00
+
+X
+
+- DefinitionIndicates amendment to accounting standards.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476173/280-10-65-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476173/280-10-65-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 9
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482615/740-10-65-9
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 9
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482615/740-10-65-9
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482615/740-10-65-9
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 105
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 7
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479343/105-10-65-7
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 60
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476176/805-60-65-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 60
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (d)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476176/805-60-65-1
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 60
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476176/805-60-65-1
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 60
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476176/805-60-65-1
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 60
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476176/805-60-65-1
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 848
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483550/848-10-65-2
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (d)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (d)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 323
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478666/740-323-65-2
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 848
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (a)(3)(iii)(03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483550/848-10-65-2
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 848
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (a)(3)(iii)(01)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483550/848-10-65-2
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 848
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483550/848-10-65-2
+
+Reference 27: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 848
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483550/848-10-65-2
+
+Reference 28: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 848
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483550/848-10-65-1
+
+Reference 29: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 8
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479832/842-10-65-8
+
+Reference 30: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 50
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477123/405-50-65-1
+
+Reference 31: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 13
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482477/820-10-65-13
+
+Reference 32: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482477/820-10-65-13
+
+Reference 33: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 5
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-5
+
+Reference 34: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 5
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-5
+
+Reference 35: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 5
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-5
+
+Reference 36: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480528/815-20-65-6
+
+Reference 37: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 6
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480528/815-20-65-6
+
+Reference 38: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 6
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480528/815-20-65-6
+
+Reference 39: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479845/805-20-65-3
+
+Reference 40: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479845/805-20-65-3
+
+Reference 41: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 3
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479845/805-20-65-3
+
+Reference 42: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 105
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479343/105-10-65-6
+
+Reference 43: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 105
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 6
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479343/105-10-65-6
+
+Reference 44: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 105
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 6
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479343/105-10-65-6
+
+Reference 45: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 105
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 6
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479343/105-10-65-6
+
+Reference 46: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 105
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 6
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479343/105-10-65-6
+
+Reference 47: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 48: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 49: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 50: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (f)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 51: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (f)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 52: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 53: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(2)(ii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 54: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(2)(iii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 55: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(2)(iv)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 56: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 57: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 58: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-4
+
+Reference 59: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-4
+
+Reference 60: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 4
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-4
+
+Reference 61: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 8
+ -Subparagraph (d)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482615/740-10-65-8
+
+Reference 62: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 4
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-4
+
+Reference 63: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 4
+ -Subparagraph (e)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-4
+
+Reference 64: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 4
+ -Subparagraph (e)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479654/326-10-65-4
+
+Reference 65: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-1
+
+Reference 66: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-1
+
+Reference 67: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 68: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 69: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 70: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 71: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 72: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 73: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 74: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (e)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 75: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (e)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 76: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (e)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 77: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480175/815-40-65-1
+
+Reference 78: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 60
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476166/350-60-65-1
+
+Reference 79: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 60
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147476166/350-60-65-1
+
+Reference 80: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-1
+
++ Details
+
+ Name:
+us-gaap_AccountingStandardsUpdateExtensibleList
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+enum2:enumerationSetItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAggregate dividends declared during the period for each share of common stock outstanding.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_CommonStockDividendsPerShareDeclared
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAggregate dividends declared during the period for each share of preferred stock outstanding.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PreferredStockDividendsPerShareDeclared
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=us-gaap_SeriesCPreferredStockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

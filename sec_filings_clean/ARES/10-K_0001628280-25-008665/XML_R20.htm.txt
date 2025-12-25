@@ -1,0 +1,165 @@
+XML
+92
+R20.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY COMPENSATION
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Share-Based Payment Arrangement [Abstract]
+
+EQUITY COMPENSATION
+12. EQUITY COMPENSATION
+Equity Incentive Plan
+Equity-based compensation is granted under the Company s Equity Incentive Plan. The total number of shares available to be issued under the Equity Incentive Plan resets based on a formula defined in the Equity Incentive Plan and may increase on January 1 of each year. On January 1, 2024, the total number of shares available for issuance under the Equity Incentive Plan reset to 69,122,318 shares and as of December 31, 2024, 62,634,307 shares remained available for issuance.
+Generally, unvested awards are forfeited upon termination of employment in accordance with the Equity Incentive Plan. The Company recognizes forfeitures as a reversal of previously recognized compensation expense in the period the forfeiture occurs.
+Equity-based compensation expense, net of forfeitures, recorded by the Company for unvested awards is presented in the following table:
+
+ Year ended December 31,
+ 2024 2023 2022
+Unvested awards $ 352,851 $ 255,965 $ 200,391
+
+Unvested Awards
+
+Each unvested award represents either a share of the Company s Class A common stock that is subject to restriction or a restricted unit, representing an unfunded, unsecured right of the holder to receive a share of the Company s Class A common stock on a specific date. The unvested awards generally vest and the restrictions lapse or are settled in shares of Class A common stock, as applicable, at a rate of either: (i) one-quarter per year, beginning on the second anniversary of the grant date or the holder s employment commencement date; or (ii) one-third per year, beginning on the first anniversary of the grant date, in each case generally subject to the holder s continued employment as of the applicable vesting date (subject to accelerated vesting upon certain qualifying terminations of employment or retirement eligibility provisions). Compensation expense associated with unvested awards is recognized on a straight-line basis over the requisite service period of the award.
+
+Restricted units are delivered net of the holder s payroll-related taxes upon vesting. For the year ended December 31, 2024, 4.2 million restricted units vested and 2.3 million shares of Class A common stock were delivered to the holders. For the year ended December 31, 2023, 3.8 million restricted units vested and 2.2 million shares of Class A common stock were delivered to the holders.
+
+The following table summarizes the Company s dividends declared and Dividend Equivalents paid during the year ended December 31, 2024:
+
+Record Date Dividends Per Share Dividend Equivalents Paid
+March 15, 2024 $ 0.93 $ 16,294
+June 14, 2024 0.93 16,008
+September 16, 2024 0.93 16,242
+December 17, 2024 0.93 16,098
+
+During the first quarter of 2024, the Company approved the future grant of restricted units to certain senior executives in each of 2025 and 2026, subject to the holder s continued employment and acceleration in certain instances. These restricted units vest before July 1, 2029, at a rate of either: (i) one-quarter per year, beginning on the first anniversary of the grant date; or (ii) one-third per year, beginning on the first anniversary of the grant date. Given that these future restricted units have been communicated to the recipient, the Company accounts for these awards as if they have been granted and recognizes the compensation expense on a straight-line basis over the service period. The restricted units that have been approved and communicated but not yet granted are not eligible to receive a Dividend Equivalent until the grant date.
+The following table presents unvested awards activity:
+
+ Unvested Awards Weighted Average
+Grant Date Fair
+Value Per Unvested Award
+Balance as of December 31, 2023 17,359,829 $ 59.20
+Granted 5,167,328 124.88
+Vested (4,151,900) 52.27
+Forfeited (406,317) 85.06
+Balance as of December 31, 2024 17,968,940 $ 79.11
+
+The total compensation expense expected to be recognized in all future periods associated with unvested awards is approximately $909.7 million as of December 31, 2024 and is expected to be recognized over the remaining weighted average period of 3.5 years.
+
+Options
+Upon exercise, each option entitles the holders to purchase from the Company one share of Class A common stock at the stated exercise price.
+A summary of options activity during the year ended December 31, 2024 is presented below:
+
+ Options Weighted Average Exercise Price Weighted Average Remaining Life
+(in years) Aggregate Intrinsic Value
+Balance as of December 31, 2023 79,524 $ 19.00 0.3 $ 7,946
+
+Exercised (79,524) 19.00
+
+Balance as of December 31, 2024 $ $
+
+Net cash proceeds from exercises of options were $1.5 million for the year ended December 31, 2024. The Company realized tax benefits of approximately $1.4 million from the exercise of the remaining options during the first quarter of 2024.
+
+X
+
+- DefinitionThe entire disclosure for share-based payment arrangement.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/718/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (l)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

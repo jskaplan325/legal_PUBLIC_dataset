@@ -1,0 +1,153 @@
+XML
+45
+R16.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Goodwill and Intangible Assets
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Goodwill and Intangible Assets
+
+3.
+
+Goodwill and Intangible Assets
+
+The carrying value of Goodwill was $1.9 billion as of December 31, 2024 and 2023. At December 31, 2024 and 2023, Blackstone determined there was no evidence of Goodwill impairment.
+
+At December 31, 2024 and 2023, Goodwill has been allocated to each of Blackstone s four segments as follows: Real Estate ($421.7 million), Private Equity ($870.0 million), Credit & Insurance ($366.7 million) and Multi-Asset Investing ($231.8 million).
+
+ Intangible Assets, Net consists of the following:
+
+December 31,
+
+2024
+
+2023
+
+Finite-Lived Intangible Assets/Contractual Rights
+
+$
+
+1,769,372
+
+$
+
+1,769,372
+
+Accumulated Amortization
+
+(1,604,129
+
+)
+
+(1,568,164
+
+)
+
+Intangible Assets, Net
+
+$
+
+165,243
+
+$
+
+201,208
+
+ Changes in Blackstone s Intangible Assets, Net consists of the following:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Balance, Beginning of Year
+
+$
+
+201,208
+
+$
+
+217,287
+
+$
+
+284,384
+
+Amortization Expense
+
+(35,965
+
+)
+
+(40,075
+
+)
+
+(67,097
+
+)
+
+Acquisitions
+
+23,996
+
+Balance, End of Year
+
+$
+
+ 165,243
+
+$
+
+ 201,208
+
+$
+
+ 217,287
+
+ Amortization of Intangible Assets held at December 31, 2024 is expected to be $35.9 million, $35.7 million, $34.6 million, $17.8 million and $16.6 million for each of the years ending December 31, 2025, 2026, 2027, 2028 and 2029, respectively. Blackstone s Intangible Assets as of December 31, 2024 are expected to amortize over a weighted-average period of 5.3 years.
+
+X
+
+- DefinitionThe entire disclosure for goodwill and intangible assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

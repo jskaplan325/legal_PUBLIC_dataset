@@ -1,0 +1,331 @@
+XML
+129
+R106.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Income Taxes - Reconciliation of the Unrecognized Tax Benefits (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Unrecognized Tax Benefits [Roll Forward]
+
+Balance at January 1
+$ 24.5
+
+$ 26.2
+
+$ 20.6
+
+Additions based on tax positions related to current year
+1.3
+
+1.5
+
+2.4
+
+Additions for tax positions of prior years
+0.0
+
+1.6
+
+5.3
+
+Reductions for tax position of prior years
+(1.2)
+
+(0.2)
+
+(1.6)
+
+Reductions due to lapse of statute of limitations
+(0.4)
+
+(4.6)
+
+(0.5)
+
+Reductions due to settlements
+(2.9)
+
+0.0
+
+0.0
+
+Balance at December 31
+$ 21.3
+
+$ 24.5
+
+$ 26.2
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ReconciliationOfUnrecognizedTaxBenefitsExcludingAmountsPertainingToExaminedTaxReturnsRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrecognized tax benefits.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482525/740-10-45-10B
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefits
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of decrease in unrecognized tax benefits resulting from tax positions taken in prior period tax returns.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of decrease in unrecognized tax benefits resulting from settlements with taxing authorities.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in unrecognized tax benefits resulting from tax positions that have been or will be taken in current period tax return.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in unrecognized tax benefits resulting from tax positions taken in prior period tax returns.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 217
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-217
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of decrease in unrecognized tax benefits resulting from lapses of applicable statutes of limitations.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15A
+ -Subparagraph (a)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15A
+
++ Details
+
+ Name:
+us-gaap_UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration

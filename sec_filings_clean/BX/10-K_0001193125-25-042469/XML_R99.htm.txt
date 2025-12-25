@@ -1,0 +1,166 @@
+XML
+128
+R99.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Schedule of Major Filing Jurisdictions and Open Period Subject to Examinations (Detail)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Federal
+
+Income Tax Examination [Line Items]
+
+Open Tax Year
+2021
+
+New York City
+
+Income Tax Examination [Line Items]
+
+Open Tax Year
+2009
+
+New York State
+
+Income Tax Examination [Line Items]
+
+Open Tax Year
+2016
+
+United Kingdom
+
+Income Tax Examination [Line Items]
+
+Open Tax Year
+2011
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxExaminationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTax year that remains open to examination under enacted tax laws, in YYYY format.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-15
+
++ Details
+
+ Name:
+us-gaap_OpenTaxYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:gYearListItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatutoryAccountingPracticesByJurisdictionAxis=us-gaap_DomesticCountryMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatutoryAccountingPracticesByJurisdictionAxis=bx_NewyorkCityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatutoryAccountingPracticesByJurisdictionAxis=bx_NewyorkStateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatutoryAccountingPracticesByJurisdictionAxis=country_GB
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,491 @@
+XML
+137
+R115.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Deferred Policy Acquisition Costs (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+Balance, as of the Beginning of the Period
+$ 1,154,697
+
+$ 820,970
+
+$ 397,581
+
+Capitalizations
+811,718
+
+484,162
+
+502,908
+
+Amortization Expense
+(235,339)
+
+(150,435)
+
+(79,519)
+
+Balance, as of the End of the Period
+1,731,076
+
+1,154,697
+
+820,970
+
+Fixed Rate Annuities
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+Balance, as of the Beginning of the Period
+373,863
+
+221,679
+
+107,104
+
+Capitalizations
+197,662
+
+218,243
+
+144,635
+
+Amortization Expense
+(108,132)
+
+(66,059)
+
+(30,060)
+
+Balance, as of the End of the Period
+463,393
+
+373,863
+
+221,679
+
+Fixed Indexed Annuities
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+Balance, as of the Beginning of the Period
+481,970
+
+367,813
+
+179,449
+
+Capitalizations
+404,165
+
+175,869
+
+220,866
+
+Amortization Expense
+(98,550)
+
+(61,712)
+
+(32,502)
+
+Balance, as of the End of the Period
+787,585
+
+481,970
+
+367,813
+
+Interest Sensitive Life
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+Balance, as of the Beginning of the Period
+132,079
+
+116,021
+
+54,298
+
+Capitalizations
+7,640
+
+23,592
+
+67,892
+
+Amortization Expense
+(8,576)
+
+(7,534)
+
+(6,169)
+
+Balance, as of the End of the Period
+131,143
+
+132,079
+
+116,021
+
+Other
+
+Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+Balance, as of the Beginning of the Period
+166,785
+
+115,457
+
+56,730
+
+Capitalizations
+202,251
+
+66,458
+
+69,515
+
+Amortization Expense
+(20,081)
+
+(15,130)
+
+(10,788)
+
+Balance, as of the End of the Period
+$ 348,955
+
+$ 166,785
+
+$ 115,457
+
+X
+
+- DefinitionAmount of amortization expense (reversal of expense) for deferred policy acquisition costs.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479868/944-20-45-2
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(7)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-1
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCostAmortizationExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of deferred policy acquisition cost capitalized on contract remaining in force.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -SubTopic 825
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478219/944-825-45-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCosts
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of deferred policy acquisition cost capitalized.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479401/944-30-55-2
+
++ Details
+
+ Name:
+us-gaap_DeferredPolicyAcquisitionCostsAdditions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MovementAnalysisOfDeferredPolicyAcquisitionCostsRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedRateAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedIndexedAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InterestSensitiveLifeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_OtherLongdurationInsuranceProductLineMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

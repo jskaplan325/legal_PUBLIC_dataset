@@ -1,0 +1,100 @@
+EX-101.LAB
+5
+kkr-20251107_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+ Class of Stock [Domain]
+ Class of Stock [Domain]
+
+ Entity Incorporation, State or Country Code
+ Entity Incorporation, State or Country Code
+
+ Class of Stock [Axis]
+ Class of Stock [Axis]
+
+ Security Exchange Name
+ Security Exchange Name
+
+ Entity Address, City or Town
+ Entity Address, City or Town
+
+ Soliciting Material
+ Soliciting Material
+
+ Cover [Abstract]
+ Cover [Abstract]
+
+ City Area Code
+ City Area Code
+
+ Common Stock
+ Common Stock [Member]
+
+ Amendment Flag
+ Amendment Flag
+
+ Entity Tax Identification Number
+ Entity Tax Identification Number
+
+ Trading Symbol
+ Trading Symbol
+
+ Entity Registrant Name
+ Entity Registrant Name
+
+ Pre-commencement Tender Offer
+ Pre-commencement Tender Offer
+
+ Entity Emerging Growth Company
+ Entity Emerging Growth Company
+
+ Entity Central Index Key
+ Entity Central Index Key
+
+ 6.25% Series D Mandatory Convertible Preferred Stock
+ Series D 6.25 Percent Convertible Preferred Stock [Member]
+ Series D 6.25 Percent Convertible Preferred Stock
+
+ Entity File Number
+ Entity File Number
+
+ Entity Address, State or Province
+ Entity Address, State or Province
+
+ Pre-commencement Issuer Tender Offer
+ Pre-commencement Issuer Tender Offer
+
+ Entity Address, Address Line One
+ Entity Address, Address Line One
+
+ Document Information [Table]
+ Document Information [Table]
+
+ Entity Address, Postal Zip Code
+ Entity Address, Postal Zip Code
+
+ 4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLC
+ Senior Notes 4.625 Percent Due 2061 [Member]
+ Senior Notes 4.625 Percent Due 2061
+
+ Written Communications
+ Written Communications
+
+ Local Phone Number
+ Local Phone Number
+
+ Title of 12(b) Security
+ Title of 12(b) Security
+
+ Document Period End Date
+ Document Period End Date
+
+ Entity Information [Line Items]
+ Entity Information [Line Items]
+
+ Document Type
+ Document Type
+
+ 6.875% Subordinated Notes due 2065
+ Subordinated Notes 6.875 Percent Due 2026 [Member]
+ Subordinated Notes 6.875 Percent Due 2026

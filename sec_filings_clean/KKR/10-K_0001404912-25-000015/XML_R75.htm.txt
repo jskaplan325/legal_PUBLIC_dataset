@@ -1,0 +1,165 @@
+XML
+97
+R75.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Management Fees (Details)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Accounting Policies [Abstract]
+
+Fee Credits as a percentage of monitoring and transaction fees net of fund-related expenses, older funds
+80.00%
+
+Fee Credits as a percentage of monitoring and transaction fees net of fund-related expenses, newer funds
+100.00%
+
+Incentive fee, low end of range (as a percent)
+5.00%
+
+Incentive fee, high end of range (as a percent)
+20.00%
+
+Incentive fee, payment period
+90 days
+
+X
+
+- DefinitionFee Credits As Percentage Of Monitoring And Transaction Fees, Newer Funds
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FeeCreditsAsPercentageOfMonitoringAndTransactionFeesNewerFunds
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the percentage of monitoring and transaction fees net of fund-related expenses shared with limited partners.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FeeCreditsAsPercentageOfMonitoringAndTransactionFeesOlderFunds
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIncentive Fee, Payment Period
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_IncentiveFeePaymentPeriod
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the high end of the range of incentive fee, expressed as a percentage.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_MaximumRangePercentageOfIncentiveFee
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the low end of the range of incentive fee, expressed as a percentage.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_MinimumRangePercentageOfIncentiveFee
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AccountingPoliciesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

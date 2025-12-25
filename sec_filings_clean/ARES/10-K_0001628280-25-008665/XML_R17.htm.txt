@@ -1,0 +1,210 @@
+XML
+89
+R17.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+RELATED PARTY TRANSACTIONS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Related Party Transactions [Abstract]
+
+RELATED PARTY TRANSACTIONS
+9. RELATED PARTY TRANSACTIONS
+
+Substantially all of the Company s revenue is earned from its affiliates. The related accounts receivable are included within due from affiliates within the Consolidated Statements of Financial Condition, except that accrued carried interest, which is predominantly due from affiliated funds, is presented separately within investments within the Consolidated Statements of Financial Condition.
+
+The Company has investment management agreements with the Ares Funds that it manages. In accordance with these agreements, these Ares Funds may bear certain operating costs and expenses which are initially paid by the Company and subsequently reimbursed by the Ares Funds.
+
+Employees and other related parties may be permitted to participate in co-investment vehicles that generally invest in Ares Funds alongside fund investors. Participation is limited by law to individuals who qualify under applicable securities laws. These co-investment vehicles generally do not require these individuals to pay management fees, carried interest or incentive fees.
+Carried interest and incentive fees from the funds can be distributed to professionals or their related entities on a current basis, subject, in the case of carried interest programs, to repayment by the subsidiary of the Company that acts as general partner of the relevant fund in the event that certain specified return thresholds are not ultimately achieved. The professionals have personally guaranteed, subject to certain limitations, the obligations of these subsidiaries in respect of this general partner obligation. Such guarantees are several, and not joint, and are limited to distributions received by the relevant recipient.
+The Company considers its professionals and non-consolidated funds to be affiliates. Amounts due from and to affiliates were composed of the following:
+
+ As of December 31,
+ 2024 2023
+Due from affiliates:
+Management fees receivable from non-consolidated funds $ 636,835 $ 560,629
+Incentive fee receivable from non-consolidated funds 172,235 159,098
+Payments made on behalf of and amounts due from non-consolidated funds and employees 247,538 177,019
+Due from affiliates Company $ 1,056,608 $ 896,746
+
+Due to affiliates:
+Management fee received in advance and rebates payable to non-consolidated funds $ 5,767 $ 9,585
+Tax receivable agreement liability 402,359 191,299
+Carried interest and incentive fees payable 78,692 33,374
+Payments made by non-consolidated funds on behalf of and payable by the Company 13,662 5,996
+Due to affiliates Company $ 500,480 $ 240,254
+Amounts due to portfolio companies and non-consolidated funds $ $ 3,554
+Due to affiliates Consolidated Funds $ $ 3,554
+
+Due from and Due to Ares Funds and Portfolio Companies
+
+In the normal course of business, the Company pays certain expenses on behalf of Consolidated Funds and non-consolidated funds for which it is reimbursed. Conversely, Consolidated Funds and non-consolidated funds may pay certain expenses that are reimbursed by the Company. Certain expenses initially paid by the Company, primarily professional services, travel and other costs associated with particular portfolio company holdings, are subject to reimbursement by the portfolio companies.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for related party transactions. Examples of related party transactions include transactions between (a) a parent company and its subsidiary; (b) subsidiaries of a common parent; (c) and entity and its principal owners; and (d) affiliates.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-5
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-6
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477968/946-235-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(e))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/850/tableOfContent
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-6
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

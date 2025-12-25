@@ -1,0 +1,182 @@
+XML
+104
+R32.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INVESTMENTS (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Investments in and Advances to Affiliates [Abstract]
+
+Schedule of Investments Held
+The following table summarizes the Company s investments:
+
+ As of Percentage of total investments as of
+ December 31, December 31,
+
+ 2024 2023 2024 2023
+Equity method investments:
+Equity method - carried interest
+ $ 3,495,115 $ 3,413,007 75.2% 73.8%
+Equity method private investment partnership interests - principal 536,912 535,292 11.6 11.6
+Equity method private investment partnership interests and other (held at fair value) 411,417 418,778 8.9 9.0
+Equity method private investment partnership interests and other 55,461 44,989 1.2 1.0
+Total equity method investments 4,498,905 4,412,066 96.9 95.4
+Collateralized loan obligations 19,040 20,799 0.4 0.4
+Fixed income securities 22,793 105,495 0.5 2.3
+Collateralized loan obligations and fixed income securities, at fair value 41,833 126,294 0.9 2.7
+Common stock, at fair value 104,037 86,572 2.2 1.9
+Total investments $ 4,644,775 $ 4,624,932
+
+The following table summarizes investments held in the Consolidated Funds:
+
+ Fair Value as of Percentage of total investments as of
+
+ December 31, December 31, December 31, December 31,
+ 2024 2023 2024 2023
+Fixed income investments:
+Loans and securitization vehicles $ 7,907,449 $ 10,616,458 62.1% 72.7%
+Money market funds and U.S. treasury securities 550,800 523,038 4.3 3.6
+Bonds 418,069 578,949 3.3 4.0
+Total fixed income investments 8,876,318 11,718,445 69.7 80.3
+Partnership interests 2,000,380 1,642,489 15.7 11.2
+Equity securities 1,861,146 1,240,653 14.6 8.5
+Total investments, at fair value $ 12,737,844 $ 14,601,587
+
+Schedule of Equity Method Investments
+The following tables present summarized financial information for the Company s equity method investments, which are primarily funds managed by the Company:
+
+ As of and for the Year Ended December 31, 2024
+ Credit Group Real Assets Group Private Equity Group Secondaries Group Other
+ Total
+Statement of Financial Condition
+Investments $ 24,635,069 $ 19,966,560 $ 5,906,807 $ 15,191,773 $ 35,804 $ 65,736,013
+Total assets 27,987,915 21,368,342 5,897,152 15,632,653 36,519 70,922,581
+Total liabilities 6,403,988 7,535,764 151,502 4,304,893 100 18,396,247
+Total equity 21,583,927 13,832,578 5,745,650 11,327,760 36,419 52,526,334
+
+Statement of Operations
+Revenues $ 2,357,057 $ 1,018,717 $ 196,756 $ 10,508 $ $ 3,583,038
+Expenses (893,272) (564,678) (67,667) (507,192) (1,001) (2,033,810)
+Net realized and unrealized gains (losses) from investments 556,170 382,681 496,096 208,947 (417) 1,643,477
+Income tax expense (5,884) (9,341) (27,554) (42,779)
+Net income (loss) $ 2,014,071 $ 827,379 $ 597,631 $ (287,737) $ (1,418) $ 3,149,926
+
+ As of and for the Year Ended December 31, 2023
+ Credit Group Real Assets Group Private Equity Group Secondaries Group Other
+ Total
+Statement of Financial Condition
+Investments $ 23,032,497 $ 17,757,664 $ 5,305,566 $ 13,497,266 $ 38,212 $ 59,631,205
+Total assets 24,694,682 18,792,446 5,431,332 13,808,556 38,284 62,765,300
+Total liabilities 5,163,355 6,528,302 119,894 3,632,879 418 15,444,848
+Total equity 19,531,327 12,264,144 5,311,438 10,175,677 37,866 47,320,452
+
+Statement of Operations
+Revenues $ 2,584,262 $ 1,036,710 $ 133,749 $ 1,960 $ $ 3,756,681
+Expenses (862,257) (632,433) (88,841) (482,478) (1,658) (2,067,667)
+Net realized and unrealized gains (losses) from investments 525,776 (599,200) 322,165 373,064 (7,316) 614,489
+Income tax benefit (expense) (28,334) (10,197) 22,587 (19) (15,963)
+Net income (loss) $ 2,219,447 $ (205,120) $ 389,660 $ (107,454) $ (8,993) $ 2,287,540
+
+ As of and for the Year Ended December 31, 2022
+ Credit Group Real Assets Group Private Equity Group Secondaries Group Other
+ Total
+
+Statement of Operations
+Revenues $ 1,552,306 $ 618,796 $ 60,935 $ 2,874 $ $ 2,234,911
+Expenses (515,535) (357,845) (76,527) (289,741) (1,500) (1,241,148)
+Net realized and unrealized gains (losses) from investments (230,076) 304,068 (239,720) (11,173) 1,365 (175,536)
+Income tax benefit (expense) (5,870) (36,501) 1,238 (10) (41,143)
+Net income (loss) $ 800,825 $ 528,518 $ (254,074) $ (298,040) $ (145) $ 777,084
+
+The following table presents the Company s other income, net from its equity method investments, which were included within principal investment income, net realized and unrealized gains on investments, and interest and dividend income within the Consolidated Statements of Operations:
+
+ Year ended December 31,
+ 2024 2023 2022
+Total other income, net related to equity method investments
+ $ 52,350 $ 86,729 $ 21,657
+
+The following table summarizes the changes in fair value of the Company s equity method investments held at fair value, which are included within net realized and unrealized gains on investments within the Consolidated Statements of Operations:
+
+ Year ended December 31,
+ 2024 2023 2022
+Equity method private investment partnership interests and other (held at fair value) $ (4,762) $ 50,772 $ 5,626
+
+X
+
+- DefinitionTabular disclosure of equity method investments including, but not limited to, name of each investee or group of investments, percentage ownership, difference between recorded amount of an investment and the value of the underlying equity in the net assets, and summarized financial information.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
++ Details
+
+ Name:
+us-gaap_EquityMethodInvestmentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InvestmentsInAndAdvancesToAffiliatesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the summary of investment holdings.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SummaryInvestmentHoldingsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

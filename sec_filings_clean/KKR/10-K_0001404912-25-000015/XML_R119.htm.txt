@@ -1,0 +1,203 @@
+XML
+141
+R119.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Unearned Revenue Reserve (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Liability for Unpaid Claims and Claims Adjustment Expense [Roll Forward]
+
+Balance, as of the Beginning of the Period
+$ 235,100
+
+Balance, as of the End of the Period
+303,800
+
+$ 235,100
+
+Certain Universal Life Insurance Products And Preneed Contracts
+
+Liability for Unpaid Claims and Claims Adjustment Expense [Roll Forward]
+
+Balance, as of the Beginning of the Period
+178,053
+
+118,186
+
+$ 55,510
+
+Deferral
+69,303
+
+71,798
+
+69,548
+
+Amortized to Income during the Period
+(16,566)
+
+(11,931)
+
+(6,872)
+
+Balance, as of the End of the Period
+$ 230,790
+
+$ 178,053
+
+$ 118,186
+
+X
+
+- DefinitionLiability For Claims And Claims Adjustment Expense, Liability, Deferrals
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_LiabilityForClaimsAndClaimsAdjustmentExpenseLiabilityDeferrals
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLiability For Claims And Claims Adjustment Expense, Liability, Revenue Recognized, Excluding Opening Balance
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_LiabilityForClaimsAndClaimsAdjustmentExpenseLiabilityRevenueRecognizedExcludingOpeningBalance
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe amount needed to reflect the estimated ultimate cost of settling claims relating to insured events that have occurred on or before the balance sheet date, whether or not reported to the insurer at that date.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-7
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-9E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (cc)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-3
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(13)(a)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_LiabilityForClaimsAndClaimsAdjustmentExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LiabilityForUnpaidClaimsAndClaimsAdjustmentExpenseNetAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_CertainUniversalLifeInsuranceProductsAndPreneedContractsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

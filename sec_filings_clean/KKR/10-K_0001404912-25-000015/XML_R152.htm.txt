@@ -1,0 +1,1368 @@
+XML
+174
+R152.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+POLICY LIABILITIES - Market Based Risk (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Market Risk Benefit [Roll Forward]
+
+Balance as of Beginning of Period
+$ 1,120,951
+
+Effect of Changes in Other Future Expected Assumptions
+128,700
+
+$ 37,600
+
+Balance as of End of Period
+999,917
+
+1,120,951
+
+Asset
+2,319
+
+17
+
+Liability
+1,002,236
+
+1,120,968
+
+Net
+(999,917)
+
+(1,120,951)
+
+Fixed Indexed Annuity And Variable And Other Annuities, Netting
+
+Market Risk Benefit [Roll Forward]
+
+Balance as of Beginning of Period
+1,120,951
+
+668,858
+
+Balance as of Beginning of Period, Before Impact of Changes in Instrument-specific Credit Risk
+1,016,209
+
+802,199
+
+Issuances
+59,212
+
+1,803
+
+Interest
+52,107
+
+47,329
+
+Attributed Fees Collected
+194,400
+
+187,673
+
+Benefit Payments
+(14,320)
+
+(6,095)
+
+Effect of Changes in Interest Rates
+(256,401)
+
+(22,937)
+
+Effect of Changes in Equity Markets
+(87,586)
+
+(109,669)
+
+Effect of Actual Experience Different from Assumptions
+31,698
+
+153,474
+
+Effect of Changes in Other Future Expected Assumptions
+(128,668)
+
+(37,568)
+
+Balance as of End of Period Before Impact of Changes in Instrument-Specific Credit Risk
+866,651
+
+1,016,209
+
+Effect of Changes in Instrument-specific Credit Risk
+133,266
+
+104,742
+
+Balance as of End of Period
+999,917
+
+1,120,951
+
+Less: Reinsurance Recoverable as of the End of the Period
+(11,371)
+
+(14,214)
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+988,546
+
+1,106,737
+
+Net Amount at Risk
+$ 5,984,873
+
+$ 5,706,758
+
+Weighted-average Attained Age of Contract holders (Years)
+71 years
+
+70 years
+
+Net
+$ (999,917)
+
+$ (1,120,951)
+
+Fixed Indexed Annuities
+
+Market Risk Benefit [Roll Forward]
+
+Balance as of Beginning of Period
+868,268
+
+548,536
+
+Balance as of Beginning of Period, Before Impact of Changes in Instrument-specific Credit Risk
+790,615
+
+651,641
+
+Issuances
+59,261
+
+1,839
+
+Interest
+41,965
+
+38,739
+
+Attributed Fees Collected
+104,938
+
+103,961
+
+Benefit Payments
+(7,240)
+
+(4,366)
+
+Effect of Changes in Interest Rates
+(177,230)
+
+(27,401)
+
+Effect of Changes in Equity Markets
+(18,262)
+
+(23,026)
+
+Effect of Actual Experience Different from Assumptions
+49,020
+
+142,453
+
+Effect of Changes in Other Future Expected Assumptions
+(126,523)
+
+(93,225)
+
+Balance as of End of Period Before Impact of Changes in Instrument-Specific Credit Risk
+716,544
+
+790,615
+
+Effect of Changes in Instrument-specific Credit Risk
+99,437
+
+77,653
+
+Balance as of End of Period
+815,981
+
+868,268
+
+Less: Reinsurance Recoverable as of the End of the Period
+0
+
+0
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+815,981
+
+868,268
+
+Net Amount at Risk
+$ 4,696,606
+
+$ 4,282,995
+
+Weighted-average Attained Age of Contract holders (Years)
+71 years
+
+70 years
+
+Asset
+$ 2,319
+
+$ 0
+
+Liability
+818,300
+
+868,268
+
+Net
+(815,981)
+
+(868,268)
+
+Variable- and Other Annuities
+
+Market Risk Benefit [Roll Forward]
+
+Balance as of Beginning of Period
+252,683
+
+120,322
+
+Balance as of Beginning of Period, Before Impact of Changes in Instrument-specific Credit Risk
+225,594
+
+150,558
+
+Issuances
+(49)
+
+(36)
+
+Interest
+10,142
+
+8,590
+
+Attributed Fees Collected
+89,462
+
+83,712
+
+Benefit Payments
+(7,080)
+
+(1,729)
+
+Effect of Changes in Interest Rates
+(79,171)
+
+4,464
+
+Effect of Changes in Equity Markets
+(69,324)
+
+(86,643)
+
+Effect of Actual Experience Different from Assumptions
+(17,322)
+
+11,021
+
+Effect of Changes in Other Future Expected Assumptions
+(2,145)
+
+55,657
+
+Balance as of End of Period Before Impact of Changes in Instrument-Specific Credit Risk
+150,107
+
+225,594
+
+Effect of Changes in Instrument-specific Credit Risk
+33,829
+
+27,089
+
+Balance as of End of Period
+183,936
+
+252,683
+
+Less: Reinsurance Recoverable as of the End of the Period
+(11,371)
+
+(14,214)
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+172,565
+
+238,469
+
+Net Amount at Risk
+$ 1,288,267
+
+$ 1,423,763
+
+Weighted-average Attained Age of Contract holders (Years)
+70 years
+
+69 years
+
+Asset
+$ 0
+
+$ 17
+
+Liability
+183,936
+
+252,700
+
+Net
+$ (183,936)
+
+$ (252,683)
+
+X
+
+- DefinitionAmount, before tax, of accumulated other comprehensive income (loss) (AOCI) from (increase) decrease in instrument-specific credit risk on contract or contract feature in long-duration contract issued by insurance entity protecting contract holder from other-than-nominal capital market risk and exposing insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (k)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_AociMarketRiskBenefitInstrumentSpecificCreditRiskBeforeTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before effect of reinsurance and after accumulated increase (decrease) in instrument-specific credit risk, of contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480112/944-40-45-3
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitAfterIncreaseDecreaseFromInstrumentSpecificCreditRisk
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after effect of reinsurance and cumulative increase (decrease) in instrument-specific credit risk, of contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitAfterReinsuranceAndCumulativeIncreaseDecreaseFromInstrumentSpecificCreditRiskChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of asset position for contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitAssetAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cash inflow to contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from attributed fee collected.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitAttributedFeeCollected
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before effect of reinsurance and cumulative increase (decrease) in instrument-specific credit risk, of contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitBeforeReinsuranceAndCumulativeIncreaseDecreaseFromInstrumentSpecificCreditRiskChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cash outflow to policyholder from benefit payment for contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitBenefitPayment
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from change in equity market assumption.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitIncreaseDecreaseFromEquityMarketChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from change in future expected policyholder behavior assumption.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitIncreaseDecreaseFromFutureExpectedPolicyholderBehaviorAssumption
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from change in interest rate.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitIncreaseDecreaseFromInterestRateChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from change in assumption, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (j)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitIncreaseDecreaseFromOtherAssumption
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of interest expense for contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitInterestExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk from contract issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13K
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13K
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitIssuance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of liability position for contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitLiabilityAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of guaranteed benefit in excess of current account balance of contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitNetAmountAtRisk
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after allowance for credit loss, recoverable under reinsurance for contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitReinsuranceRecoverableAfterAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted average attained age of policyholders or contract holders in the specified guarantee type and subset of guarantee class, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)(5)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480109/944-80-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479808/944-20-55-15
+
++ Details
+
+ Name:
+us-gaap_NetAmountAtRiskByProductAndGuaranteeWeightedAverageAttainedAge1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedIndexedAnnuityAndVariableAndOtherAnnuitiesNettingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedIndexedAnnuityNettingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_VariableAndOtherAnnuitiesNettingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

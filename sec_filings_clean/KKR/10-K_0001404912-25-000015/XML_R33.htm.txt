@@ -1,0 +1,477 @@
+XML
+55
+R33.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SEGMENT REPORTING
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Segment Reporting [Abstract]
+
+SEGMENT REPORTING
+SEGMENT REPORTING KKR operates through three reportable segments which are presented below and reflect how its chief operating decision-makers, who are the Co-Chief Executive Officers, allocate resources and assess performance:
+ Asset Management - The asset management business offers a broad range of investment management services to investment funds, vehicles and accounts (including Global Atlantic and the Strategic Holdings segment) and provides capital markets services to portfolio companies and third parties. This reportable segment also reflects how its business lines operate collaboratively with predominantly a single expense pool.
+ Insurance - The insurance business is operated by Global Atlantic, which is a leading U.S. retirement and life insurance company that provides a broad suite of protection, legacy and savings products and reinsurance solutions to clients across individual and institutional markets. Global Atlantic primarily generates income by earning a spread between its investment income and the cost of policyholder benefits.
+ Strategic Holdings - The strategic holdings business currently represents KKR's participation in its core private equity strategy, which was previously presented in the Asset Management segment s Principal Activities business line. This segment primarily generates income from dividends from these businesses. Dividends are presented net of management fees paid to the Asset Management segment. If KKR were to sell a portion or all of a business reported in Strategic Holdings, the realized gain or loss would be presented as realized investment income, net of a performance fee paid to the Asset Management segment.
+KKR s segment profitability measure used to make operating decisions and assess performance across KKR s reportable segments is presented prior to giving effect to the allocation of income (loss) among KKR & Co. Inc. and holders of any exchangeable securities, and the consolidation of the investment funds, vehicles and accounts that KKR advises, manages or sponsors (including CFEs). For each segment, the chief operating decision makers use the key measure of segment earnings to allocate resources to that segment in the annual budget and forecasting process. KKR's segment profitability measure excludes: (i) equity-based compensation charges, (ii) amortization of acquired intangibles, and (iii) transaction-related and non-operating items, if any. Transaction-related and non-operating items arise from corporate actions and non-operating items, which consist of: (i) impairments, (ii) transaction costs from acquisitions, (iii) depreciation on real estate that KKR owns and occupies, (iv) contingent liabilities, net of any recoveries, and (v) other gains or charges that affect period-to-period comparability and are not reflective of KKR's ongoing operational performance. Inter-segment transactions are not eliminated from segment results when management considers those transactions in assessing the results of the respective segments. These transactions include (i) management fees earned by the Asset Management segment as the investment adviser for Global Atlantic insurance companies, (ii) management and performance fees earned by the Asset Management segment from the Strategic Holdings segment, and (iii) interest income and expense based on lending arrangements where the Asset Management segment borrows from the Insurance segment. All these inter-segment transactions are recorded by each segment based on the applicable governing agreements. Total Segment Earnings represents the total segment earnings of KKR s Asset Management, Insurance, and Strategic Holdings segments:
+ Asset Management Segment Earnings is the segment profitability measure used to make operating decisions and to assess the performance of the Asset Management segment. This measure is presented before income taxes and is comprised of: (i) Fee Related Earnings, (ii) Realized Performance Income, (iii) Realized Performance Income Compensation, (iv) Realized Investment Income, and (v) Realized Investment Income Compensation. Asset Management Segment Earnings excludes the impact of: (i) unrealized gains (losses) on investments, (ii) unrealized carried interest, and (iii) unrealized carried interest compensation. Management fees earned by KKR as the adviser, manager or sponsor for its investment funds, vehicles and accounts, including its Global Atlantic insurance companies and Strategic Holdings segment, are included in Asset Management Segment Earnings.
+ Insurance Operating Earnings is the segment profitability measure used to make operating decisions and to assess the performance of the Insurance segment. This measure is presented before income taxes and is comprised of: (i) Net Investment Income, (ii) Net Cost of Insurance, and (iii) General, Administrative, and Other Expenses. Insurance Operating Earnings excludes the impact of: (i) investment gains (losses) which include realized gains (losses) related to asset/liability matching investment strategies and unrealized investment gains (losses) and (ii) non-operating changes in policy liabilities and derivatives which includes (a) changes in the fair value of market risk benefits and other policy liabilities measured at fair value and related benefit payments, (b) fees attributed to guaranteed benefits, (c) derivatives used to manage the risks associated with policy liabilities, and (d) losses at contract issuance on payout annuities. Insurance Operating Earnings includes (i) realized gains and losses not related to asset/liability matching investment strategies and (ii) the investment management costs that are earned by our Asset Management segment as the investment adviser of the Global Atlantic insurance companies.
+ Strategic Holdings Segment Earnings is the segment profitability measure used to make operating decisions and to assess the performance of the Strategic Holdings segment. This measure is presented before income taxes and is comprised of: Dividends, Net and Net Realized Investment Income. Strategic Holdings Segment Earnings excludes the impact of unrealized gains (losses) on investments. Strategic Holdings Segment Earnings includes management fees and performance fee expenses that are earned by the Asset Management segment.
+KKR disclosed all the segment expenses under the significant expense principle for each reportable segment. There are no expenses to be disclosed in the other segment category, because segment revenues minus segment expenses equals the segment measure of profit of each reportable segment.
+Modification of Segment Information
+In connection with the scaling of the core private equity strategy on KKR s balance sheet and the acquisition of the remaining minority equity interests in Global Atlantic on January 2, 2024, KKR reevaluated the manner in which it makes operational and resource deployment decisions and assesses the overall performance of KKR's business. Effective with the first quarter of 2024, KKR changed the preparation of the reports used by KKR's chief operating decision makers. As a result, KKR has modified the presentation of its segment financial information with retrospective application to all prior periods presented.
+ The most significant changes between KKR's current segment presentation and its previous segment presentation reported prior to the first quarter of 2024, are as follows:
+ Creating a new business segment, Strategic Holdings - The new segment is currently comprised of KKR s participation in its core private equity strategy. Our participation in the core private equity strategy has scaled into a business KKR now evaluates separately from its Asset Management segment. Additionally, KKR may also acquire other long-term assets that are not part of the core private equity strategy for this segment. As of the first quarter of 2024, KKR s participation in its core private equity strategy no longer is reported as part of the Asset Management segment. The Asset Management segment continues to represent KKR's business separate from its insurance operations and continues to reflect how the chief operating decision makers allocate resources and assess performance in the asset management business, which includes operating collaboratively across its business lines, with predominantly a single expense pool. Effective as of the first quarter of 2024, the results of our Strategic Holdings segment includes a management fee and performance fee that is paid to our Asset Management segment for providing advisory services rather than allocating the costs borne by our Asset Management segment to support our Strategic Holdings segment. The historical amounts presented herein do not include any management or performance fees since the governing agreement was not in place prior to the first quarter of 2024.
+ Segment Earnings - Segment Earnings is the performance measure for KKR's segment profitability and is used by management in making operational decisions and to assess performance.
+Segment Presentation
+The following tables set forth information regarding KKR's segment results:
+
+ Years Ended December 31,
+ 2024 2023 2022
+Asset Management
+Management Fees (1)(2)
+ $ 3,461,381 $ 3,030,325 $ 2,656,487
+Transaction and Monitoring Fees, Net 1,165,884 720,654 775,933
+Fee Related Performance Revenues 137,992 94,427 90,665
+Fee Related Compensation (833,918) (865,336) (769,735)
+Other Operating Expenses (663,543) (596,284) (585,999)
+Fee Related Earnings 3,267,796 2,383,786 2,167,351
+Realized Performance Income (3)
+ 1,822,115 1,065,389 2,176,658
+Realized Performance Income Compensation (1,213,327) (666,440) (1,333,526)
+Realized Investment Income (4)
+ 534,668 645,031 1,033,186
+Realized Investment Income Compensation (80,198) (103,590) (159,003)
+Asset Management Segment Earnings $ 4,331,054 $ 3,324,176 $ 3,884,666
+
+Insurance
+Net Investment Income (1) (4)
+ $ 6,328,822 $ 5,377,817 $ 4,112,244
+Net Cost of Insurance (4,448,886) (3,283,009) (2,295,133)
+General, Administrative and Other (865,390) (805,109) (638,274)
+ Pre-tax Operating Earnings 1,014,546 1,289,699 1,178,837
+
+Pre-tax Operating Earnings Attributable to Noncontrolling Interests (473,062) (454,075)
+Insurance Operating Earnings $ 1,014,546 $ 816,637 $ 724,762
+
+Strategic Holdings
+Dividends, Net (2)
+ $ 76,211 $ 14,531 $ 52,863
+ Strategic Holdings Operating Earnings 76,211 14,531 52,863
+Net Realized Investment Income (3)
+ 87,693 35,332
+Strategic Holdings Segment Earnings $ 163,904 $ 14,531 $ 88,195
+
+Total Segment Earnings $ 5,509,504 $ 4,155,344 $ 4,697,623
+
+(1) Includes intersegment management fees of $537.2 million, $445.9 million, and $301.3 million earned by the Asset Management segment from the Insurance segment for the years ended December 31, 2024, 2023, and 2022, respectively.
+
+(2) Includes intersegment management fees of $31.8 million earned by the Asset Management segment from the Strategic Holdings segment for the year ended December 31, 2024.
+
+(3) Includes intersegment performances fees of $15.5 million earned by the Asset Management segment from the Strategic Holdings segment for the year ended December 31, 2024.
+
+(4) Includes intersegment interest expense of $10.2 million, $186.4 million, and $145.3 million for the years ended December 31, 2024, 2023, and 2022, respectively.
+
+ As of December 31,
+ 2024 2023
+Segment Assets:
+ Asset Management $ 25,868,340 $ 27,052,445
+ Insurance 243,719,868 207,160,065
+ Strategic Holdings 8,052,232 6,668,834
+Total Segment Assets $ 277,640,440 $ 240,881,344
+
+ Years Ended December 31,
+Non-cash expenses excluded from Segment Earnings 2024 2023 2022
+Equity Based Compensation and Other
+ Asset Management (1)
+ $ 611,644 $ 502,816 $ 569,518
+ Insurance (2)
+ 134,799 71,579 93,508
+Total Non-cash expenses $ 746,443 $ 574,395 $ 663,026
+
+(1)For the year ended December 31, 2022, $119.8 million represents equity-based compensation expense in connection with the allocation of units of KKR Holdings, which were not dilutive to common stockholders of KKR & Co. Inc.
+(2)Amounts include the portion allocable to KKR & Co. Inc.
+Reconciliations of Total Segment Amounts
+The following tables reconcile Segment Revenues, Expenses, Earnings, and Assets to their equivalent GAAP measure:
+
+ Years Ended December 31,
+ 2024 2023 2022
+
+Total GAAP Revenues $ 21,878,698 $ 14,499,312 $ 5,704,180
+Impact of Consolidation and Other 1,344,972 861,928 841,711
+Asset Management Adjustments:
+Capital Allocation-Based Income (Loss) (GAAP) (3,558,284) (2,843,437) 2,500,509
+Realized Carried Interest 1,481,760 1,005,759 1,993,860
+Realized Investment Income 534,668 645,031 1,033,186
+Capstone Fees (110,953) (100,314) (86,665)
+Expense Reimbursements (152,726) (75,687) (102,927)
+Strategic Holdings Adjustments:
+Realized Investment Income and Dividends 211,157 14,531 88,195
+Insurance Adjustments:
+Net Premiums (7,898,834) (1,975,675) (1,182,461)
+Policy Fees (1,377,686) (1,260,249) (1,261,721)
+Other Income (238,410) (176,442) (139,124)
+(Gains) Losses from Investments(1)
+ 1,532,863 700,380 472,053
+Non-Operating Changes in Policy Liabilities and Derivatives (32,459) (346,963) 1,072,572
+Total Segment Revenues (2)
+ $ 13,614,766 $ 10,948,174 $ 10,933,368
+
+(1)Includes gains and losses on funds withheld receivables and payables embedded derivatives.
+(2)Total Segment Revenues is comprised of (i) Management Fees, (ii) Transaction and Monitoring Fees, Net, (iii) Fee Related Performance Revenues, (iv) Realized Performance Income, (v) Realized Investment Income, (vi) Net Investment Income, and (vii) Dividends, Net.
+
+ Years Ended December 31,
+ 2024 2023 2022
+
+Total GAAP Expenses $ 20,985,860 $ 12,358,605 $ 5,997,816
+Impact of Consolidation and Other (448,776) (392,778) (252,829)
+Equity-based compensation - KKR Holdings(1)
+ (119,834)
+Asset Management Adjustments:
+Equity-based Compensation (611,644) (502,816) (449,685)
+Unrealized Carried Interest Compensation (1,505,558) (792,758) 1,753,396
+
+Transaction-related and Non-operating Items (122,009) (31,805) (53,919)
+Reimbursable Expenses (152,726) (75,687) (102,927)
+
+Capstone Expenses (81,280) (77,642) (81,746)
+
+Insurance Adjustments:
+Net Premiums (7,898,834) (1,975,675) (1,182,461)
+Policy Fees (1,377,686) (1,260,249) (1,261,721)
+Other Income (238,410) (176,442) (139,124)
+Non-Operating Changes in Policy Liabilities (270,326) (608,081) 1,877,814
+Equity-Based and Other Compensation (134,799) (115,653) (160,718)
+Amortization of Intangibles (17,935) (17,647) (17,647)
+Transaction-Related and Non-Operating Items (20,615) (11,604) (24,745)
+Total Segment Expenses (2)
+ $ 8,105,262 $ 6,319,768 $ 5,781,670
+
+(1)Represents equity-based compensation expense in connection with the allocation of KKR Holdings Units, which were not dilutive to common stockholders of KKR & Co. Inc.
+(2)Total Segment Expenses is comprised of (i) Fee Related Compensation, (ii) Realized Performance Income Compensation, (iii) Realized Investment Income Compensation, (iv) Net Cost of Insurance, (v) General, Administrative and Other, and (vi) Other Operating Expenses.
+
+ Years Ended December 31,
+ 2024 2023 2022
+
+Income (Loss) Before Tax (GAAP) $ 5,860,433 $ 6,554,609 $ (292,221)
+Impact of Consolidation and Other (1,252,727) (1,543,641) (371,227)
+Interest Expense, Net 302,381 325,919 302,151
+Equity-based compensation - KKR Holdings(1)
+ 119,834
+Asset Management Adjustments:
+Unrealized (Gains) Losses (673,790) (843,627) 2,445,529
+Unrealized Carried Interest (1,943,200) (1,656,974) 4,231,359
+Unrealized Carried Interest Compensation 1,505,558 792,758 (1,753,396)
+Transaction-related and Non-operating Items 122,009 31,805 94,629
+Equity-based Compensation 279,418 230,858 210,756
+Equity-based Compensation - Performance based 332,226 271,958 238,929
+Strategic Holdings Adjustments:
+Unrealized (Gains) Losses (958,418) (691,307) (443,447)
+Insurance Adjustments:(2)
+
+(Gains) Losses from Investments(2)(3)
+ 1,465,348 363,956 379,647
+Non-Operating Changes in Policy Liabilities and Derivatives(2)
+ 296,917 228,929 (584,495)
+Transaction-Related and Non-Operating Items(2)
+ 20,615 7,347 15,215
+Equity-Based and Other Compensation(2)
+ 134,799 71,579 93,508
+Amortization of Acquired Intangibles(2)
+ 17,935 11,175 10,852
+
+Total Segment Earnings $ 5,509,504 $ 4,155,344 $ 4,697,623
+
+(1)Represents equity-based compensation expense in connection with the allocation of KKR Holdings Units, which were not dilutive to common stockholders of KKR & Co. Inc.
+(2)Amounts represent the portion allocable to KKR.
+(3)Includes gains and losses on funds withheld receivables and payables embedded derivatives.
+
+ As of
+ December 31, 2024 December 31, 2023
+Total GAAP Assets $ 360,099,411 $ 317,294,194
+Impact of Consolidation and Reclassifications (78,288,198) (73,748,156)
+Carry Pool Reclassifications (4,170,773) (2,664,694)
+
+Total Segment Assets $ 277,640,440 $ 240,881,344
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for reporting segments including data and tables. Reportable segments include those that meet any of the following quantitative thresholds a) it's reported revenue, including sales to external customers and intersegment sales or transfers is 10 percent or more of the combined revenue, internal and external, of all operating segments b) the absolute amount of its reported profit or loss is 10 percent or more of the greater, in absolute amount of 1) the combined reported profit of all operating segments that did not report a loss or 2) the combined reported loss of all operating segments that did report a loss c) its assets are 10 percent or more of the combined assets of all operating segments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 54
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-54
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 47
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-47
+
+Reference 8: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 54
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-54
+
+Reference 9: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 47
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-47
+
+Reference 10: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 54
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-54
+
+Reference 11: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 47
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-47
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-31
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 34
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-34
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 26C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-26C
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 26B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-26B
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-15
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/280/tableOfContent
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 26
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-26
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 21
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-21
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 21
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-21
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

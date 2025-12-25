@@ -1,0 +1,179 @@
+XML
+61
+R31.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Schedule I Condensed Financial Information of Registrant (Parent Company Only)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Condensed Financial Information Disclosure [Abstract]
+
+Schedule I Condensed Financial Information of Registrant (Parent Company Only)
+
+(In millions, except share data) As of
+December 31, 2024 As of
+December 31, 2023
+Assets
+Cash $ 657 $ 987
+Investments 19,124 13,736
+Due from subsidiaries 148 431
+Goodwill 1 1
+Other assets 355 398
+Total Assets $ 20,285 $ 15,553
+Liabilities and Equity
+Liabilities
+Accounts payable, accrued expenses, and other liabilities $ 234 $ 84
+Due to subsidiaries 487 350
+Debt 2,311 1,075
+Total Liabilities $ 3,032 $ 1,509
+Equity
+Mandatory Convertible Preferred Stock, 28,749,765 and 28,750,000 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively
+ 1,398 1,398
+
+Common Stock, $0.00001 par value, 90,000,000,000 shares authorized, 565,738,933 and 567,762,932 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively
+
+Additional paid in capital 15,327 15,249
+Retained earnings (accumulated deficit) 6,022 2,972
+Accumulated other comprehensive income (loss) (5,494) (5,575)
+Total Equity 17,253 14,044
+Total Liabilities and Equity $ 20,285 $ 15,553
+
+See accompanying notes to condensed financial information of registrant (parent company only)
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Revenues
+Investment income (loss) $ 4,932 $ 4,646 $ (2,250)
+Total Revenues 4,932 4,646 (2,250)
+Expenses
+Interest expense 128 27 2
+General, administrative and other 32 26 33
+Total Expenses 160 53 35
+Other income (loss)
+Other income (loss), net 13 41 11
+Total Other income (loss) 13 41 11
+Income (loss) before income tax (provision) benefit 4,785 4,634 (2,274)
+Income tax (provision) benefit (208) 413 313
+Net income (loss) attributable to Apollo Global Management, Inc. 4,577 5,047 (1,961)
+Preferred stock dividends (97) (46)
+Net income (loss) attributable to Apollo Global Management, Inc. common stockholders $ 4,480 $ 5,001 $ (1,961)
+
+See accompanying notes to condensed financial information of registrant (parent company only)
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Cash Flows from Operating Activities
+Net cash provided by (used in) operating activities $ (23) $ (63) $ 36
+Cash Flows from Investing Activities
+Contributions to subsidiaries $ (71) $ (1,250) $
+Distributions from subsidiaries 453 1,166 2,016
+Due from subsidiaries, net 209 147 (579)
+Net cash provided by investing activities $ 591 $ 63 $ 1,437
+Cash Flows from Financing Activities
+Preferred stock dividends $ (97) $ (22) $
+Common stock dividends (1,092) (1,012) (916)
+Issuance of debt 1,250 1,100
+Payment of debt issuance cost (17) (25)
+Issuance of Mandatory Convertible Preferred stock, net of issuance costs 1,398
+Repurchase of common stock (890) (561) (635)
+Due to subsidiaries, net (52) 109 78
+Net cash provided by (used in) financing activities $ (898) $ 987 $ (1,473)
+Net Increase (Decrease) in Cash and Cash Equivalents (330) 987
+Cash and Cash Equivalents, Beginning of Period 987
+Cash and Cash Equivalents, End of Period $ 657 $ 987 $
+
+Supplemental Disclosure of Cash Flow Information
+Cash paid for taxes $ 37 $ 37 $ 55
+Cash paid for interest 100 14
+
+See accompanying notes to condensed financial information of registrant (parent company only)
+
+1. Basis of Presentation
+
+The accompanying condensed financial statements of Apollo Global Management Inc. ( AGM ) should be read in conjunction with the consolidated financial statements and notes of AGM and its subsidiaries ( consolidated financial statements ).
+
+For purposes of these condensed financial statements, AGM s wholly owned and majority owned subsidiaries are presented under the equity method of accounting. Under this method, the assets and liabilities of subsidiaries are not consolidated. The investments in subsidiaries are recorded on the condensed statements of financial condition. The income from subsidiaries is reported on a net basis as equity earnings of subsidiaries on the condensed statements of operations.
+
+2. Intercompany Transactions
+
+Unsecured Revolving Notes Receivable AGM has unsecured revolving notes receivable from its subsidiaries Apollo Asset Management ( AAM ) and Athene Holding Ltd. ( AHL ). The note from AAM accrues interest at a rate per annum equal to the U.S. short-term federal rate applicable at the time the proceeds are loaned and the balance is due at AGM s request. The note from AAM had an outstanding net receivable balance of $121 million and $431 million as of December 31, 2024 and 2023, respectively. The note from AHL has a borrowing capacity of $500 million. Interest accrues at a rate per annum, equal to the U.S. mid-term applicable federal rate, and the balance is due on December 13, 2025, or earlier at AGM s request. There was no outstanding balance on the note from AHL as of December 31, 2024 and 2023.
+
+Unsecured Revolving Note Payable In addition to the unsecured revolving notes receivable described above, AGM has an unsecured revolving note payable to its subsidiary AHL. The note to AHL has a borrowing capacity of $500 million. Interest accrues at a rate per annum, equal to the U.S. mid-term applicable federal rate, and the balance is due on December 13, 2025, or earlier at AHL s request. The note had an outstanding balance of $142 million and $109 million as of December 31, 2024 and 2023, respectively.
+
+3. Dividends
+
+During the years ended December 31, 2024, 2023 and 2022, AGM received $452 million, $1,082 million and $1,897 million, respectively, of dividends from its subsidiaries. See note 20 Statutory Requirements to the consolidated financial statements for additional information on subsidiary dividend restrictions.
+
+4. Debt and Guarantees
+
+See note 14 Debt and note 19 Commitments and Contingencies to the consolidated financial statements for additional information on the Company s debt and guarantees.
+
+5. Equity
+
+See note 16 Equity to the consolidated financial statements for additional information on the Company s 6.75% Series A Mandatory Convertible Preferred Stock.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+srt_CondensedFinancialInformationOfParentCompanyOnlyDisclosureAbstract
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for condensed financial information, including the financial position, cash flows, and the results of operations of the registrant (parent company) as of the same dates or for the same periods for which audited consolidated financial statements are being presented. Alternatively, the details of this disclosure can be reported by the specific parent company taxonomy elements, indicating the appropriate date and period contexts in an instance document.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-04(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-3
+
+Reference 2: http://www.xbrl.org/2003/role/recommendedDisclosureRef
+ -Topic 810
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481231/810-10-45-11
+
++ Details
+
+ Name:
+us-gaap_CondensedFinancialInformationOfParentCompanyOnlyDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

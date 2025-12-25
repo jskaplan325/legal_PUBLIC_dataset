@@ -1,0 +1,453 @@
+XML
+50
+R28.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DEBT OBLIGATIONS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Debt Disclosure [Abstract]
+
+DEBT OBLIGATIONS
+DEBT OBLIGATIONSKKR enters into credit agreements and issues debt for its general operating and investment purposes.
+KKR's Asset Management and Strategic Holdings debt obligations consisted of the following:
+
+ December 31, 2024 December 31, 2023
+By remaining maturity at
+period end date Financing Available Principal Carrying Value Fair
+Value Financing Available Principal Carrying Value Fair
+Value
+Revolving Credit Facilities: (1)
+
+Under 1 Year $ 750,000 $ $ $ $ 750,000 $ $ $
+1-5 Years 3,468,753 2,236,492
+After 5 Years
+Subtotal 4,218,753 2,986,492
+KKR USD Senior Notes: (2)(3)(6)(8)
+
+Under 1 Year
+1-5 Years 750,000 746,000 709,328
+After 5 Years 4,250,000 4,167,548 3,436,331 5,000,000 4,890,919 4,181,595
+Subtotal 5,000,000 4,913,548 4,145,659 5,000,000 4,890,919 4,181,595
+KKR Yen Senior Notes: (2)(3)(6)
+
+Under 1 Year 31,788 31,762 31,766
+1-5 Years 830,314 826,986 823,390 610,552 608,047 606,447
+After 5 Years 591,902 584,999 570,285 363,069 357,986 337,097
+Subtotal 1,454,004 1,443,747 1,425,441 973,621 966,033 943,544
+KKR Euro Senior Notes: (2)(3)(6)
+
+Under 1 Year
+1-5 Years 673,366 669,325 634,836 717,400 712,331 646,248
+After 5 Years
+Subtotal 673,366 669,325 634,836 717,400 712,331 646,248
+KKR Subordinated Notes: (2)(3)(7)
+
+Under 1 Year
+1-5 Years
+After 5 Years 500,000 487,110 366,200 500,000 486,755 377,400
+Subtotal 500,000 487,110 366,200 500,000 486,755 377,400
+KFN USD Senior Notes: (2)(3)(4)(9)
+
+Under 1 Year
+1-5 Years
+After 5 Years 690,000 684,730 608,237 690,000 684,032 624,018
+Subtotal 690,000 684,730 608,237 690,000 684,032 624,018
+KFN Junior Subordinated Notes:(2)(4)(5)(9)
+
+Under 1 Year
+1-5 Years
+After 5 Years 258,517 240,136 211,909 258,517 238,801 208,902
+Subtotal 258,517 240,136 211,909 258,517 238,801 208,902
+Total KKR & KFN Notes 4,218,753 8,575,887 8,438,596 7,392,282 2,986,492 8,139,538 7,978,871 6,981,707
+
+Other Debt Obligations: (1)(2)(8)
+ 5,628,669 37,697,802 37,495,324 37,409,158 6,618,692 37,274,503 36,907,999 36,699,920
+
+Total $ 9,847,422 $ 46,273,689 $ 45,933,920 $ 44,801,440 $ 9,605,184 $ 45,414,041 $ 44,886,870 $ 43,681,627
+
+(1)Financing available is reduced by the dollar amounts specified in any issued letters of credit.
+(2)Carrying value includes: (i) unamortized note discount (net of premium), as applicable and (ii) unamortized debt issuance costs, as applicable. Financing costs related to the issuance of the notes have been deducted from the note liability and are being amortized over the life of the notes.
+(3)Interest rates of the notes are fixed and the weighted average interest rates are the following:
+
+ December 31, 2024 December 31, 2023
+KKR USD Senior Notes 4.23% 4.23%
+KKR Yen Senior Notes 1.67% 1.46%
+KKR Euro Senior Notes 1.63% 1.63%
+KKR Subordinated Notes 4.63% 4.63%
+KFN USD Senior Notes 5.44% 5.44%
+
+(4)These debt obligations are classified as Level III within the fair value hierarchy and valued using the same valuation methodologies as KKR's Level III credit investments.
+(5)Interest rates of the notes are floating and the weighted average interest rate is 7.3% and 8.1% and the weighted average years to maturity is 11.8 years and 12.8 years as of December 31, 2024 and December 31, 2023, respectively.
+(6)The notes are classified as Level II within the fair value hierarchy and fair value is determined by third party broker quotes.
+(7)The notes are classified as Level I within the fair value hierarchy and fair value is determined by quoted prices in active markets since the debt is publicly listed.
+(8)As of December 31, 2024 and December 31, 2023, the principal value, carrying value and fair value reflects the elimination for the portion of applicable debt obligations that are held by Global Atlantic.
+(9)KKR consolidates and reports debt obligations of KKR Financial Holdings LLC, a KKR subsidiary ("KFN"), which are non-recourse to KKR beyond the assets of KFN. From time to time, KKR may provide credit support for the funding obligations of its subsidiaries.
+
+Third Amended and Restated Credit Agreement
+On July 3, 2024, KKR Group Partnership L.P. and Kohlberg Kravis Roberts & Co. L.P. (collectively, the Borrowers ), entered into a Third Amended and Restated Credit Agreement (the Corporate Credit Agreement ) by and among the Borrowers, the guarantors from time to time party thereto (together with the Borrowers, the Loan Parties ), the lending institutions from time to time party thereto and HSBC Bank USA, National Association, as administrative agent (the Administrative Agent ), which amends and restates in its entirety the Second Amended and Restated Credit Agreement, dated as of August 4, 2021 (as amended by the First Amendment and Lender Joiner Agreement, dated as of September 2, 2022), by and among the Loan Parties, the lending institutions from time to time party thereto and the Administrative Agent.
+The Corporate Credit Agreement provides the Borrowers with a senior unsecured multicurrency revolving credit facility (the Corporate Credit Facility ) in an aggregate principal amount of $2.75 billion, as of July 3, 2024, with the option to request an increase in the facility amount of up to an additional $750 million, for an aggregate principal amount of $3.50 billion, subject to certain conditions. The Corporate Credit Facility is a five-year facility, scheduled to mature on July 3, 2029, with the Borrowers option to extend the maturity date, subject to the consent of the applicable lenders, and the Borrowers may prepay, terminate or reduce the commitments under the Corporate Credit Facility at any time without penalty. Borrowings under the Corporate Credit Facility are available for general corporate purposes and available in U.S. dollars and other currencies. Interest on borrowings in U.S. dollars under the Corporate Credit Facility will be based on either term Secured Overnight Financing Rate (SOFR) or alternate base rate, with the applicable margin per annum based on a corporate ratings-based grid. The Borrowers have agreed to pay a facility fee on the total commitments at a rate per annum also based on a corporate ratings-based grid. Borrowings under the Corporate Credit Facility are guaranteed by KKR & Co. Inc. and any entity (other than the Borrowers) that guarantees certain specified senior notes of KKR & Co. Inc. s financing subsidiaries.
+Certain other terms of the Corporate Credit Agreement include: (i) financial covenants that require KKR to maintain a maximum leverage ratio (excluding the indebtedness of KKR Financial Holdings LLC and Global Atlantic of not greater than 4.0x covenant EBITDA and to maintain at least $150 billion in fee paying assets under management; (ii) customary affirmative covenants and certain negative covenants, including a limitation on the ability of the Borrowers and the guarantors to, among other things, pledge the stock of their subsidiaries; and (iii) customary events of default, upon the occurrence of which the lenders will have the ability to accelerate all outstanding loans thereunder and terminate the commitments.
+KKR Group Finance Co. XI LLC May 2024 Notes Offering
+On May 30, 2024, KKR Group Finance Co. XI LLC, an indirect subsidiary of KKR & Co. Inc., completed the offering of (i) 44,600,000,000 aggregate principal amount of its 1.559% Senior Notes due 2029 (the 2029 Notes ), (ii) 1,000,000,000 aggregate principal amount of its 1.762% Senior Notes due 2031 (the 2031 Notes ), (iii) 26,200,000,000 aggregate principal amount of its 2.083% Senior Notes due 2034 (the 2034 Notes ), (iv) 10,000,000,000 aggregate principal amount of its 2.719% Senior Notes due 2044 (the 2044 Notes ), and (v) 9,600,000,000 aggregate principal amount of its 3.008% Senior Notes due 2054 (the 2054 Notes and, together with the 2029 Notes, the 2031 Notes, the 2034 Notes and the 2044 Notes, the Yen Notes ). The Yen Notes are guaranteed by KKR & Co. Inc. and KKR Group Partnership L.P.
+Interest on the Yen Notes accrues from May 30, 2024 and is payable semi-annually in arrears on May 30 and November 30 of each year, commencing on November 30, 2024 and ending on the applicable maturity date unless earlier redeemed. The Yen Notes are unsecured and unsubordinated obligations of KKR Group Finance Co. XI LLC. The Yen Notes are fully and unconditionally guaranteed, jointly and severally, by each of the guarantors. The guarantees are unsecured and unsubordinated obligations of the guarantors.
+The Yen Notes were issued pursuant to an indenture dated as of April 26, 2022, among KKR Group Finance Co. XI LLC, KKR Group Co. Inc. (formerly known as KKR & Co. Inc.), KKR Group Partnership and The Bank of New York Mellon Trust Company, N.A., as trustee (as supplemented, the Indenture ). The Indenture includes covenants, including limitations on KKR Group Finance Co. XI LLC s and the guarantors ability to, subject to exceptions, incur indebtedness secured by liens on voting stock or profit participating equity interests of their subsidiaries or merge, consolidate or sell, transfer or convey all or substantially all of their assets. The Indenture also provides for events of default and further provides that the trustee or the holders of not less than 25% in aggregate principal amount of the outstanding Yen Notes may declare the Yen Notes immediately due and payable upon the occurrence and during the continuance of any event of default after expiration of any applicable grace period. In the case of specified events of bankruptcy, insolvency, receivership, or reorganization, the principal amount of the Yen Notes and any accrued and unpaid interest on the Yen Notes automatically become due and payable. If a change of control repurchase event occurs, the Yen Notes are subject to repurchase by KKR Group Finance Co. XI LLC at a repurchase price in cash equal to 101% of the aggregate principal amount of the Yen Notes repurchased plus any accrued and unpaid interest on the Yen Notes repurchased to, but not including, the date of repurchase.
+KCM 364-Day Revolving Credit Facility
+On April 4, 2024, KKR Capital Markets Holdings L.P. and certain other capital markets subsidiaries (the "KCM Borrowers") replaced their existing 364-day revolving credit agreement with a new 364-day revolving credit agreement (the "KCM 364-Day Revolving Credit Facility ) with Mizuho Bank, Ltd., as administrative agent, and one or more lenders party thereto. The KCM 364-Day Revolving Credit Facility replaces the prior 364-day revolving credit facility, dated as of April 7, 2023, between the KCM Borrowers and the administrative agent, and one or more lenders party to the prior facility, which was terminated according to its terms on April 4, 2024. The KCM 364-Day Revolving Credit Facility provides for revolving borrowings up to $750 million, expires on April 3, 2025, and ranks pari passu with the existing $750 million revolving credit facility provided by them for KKR's capital markets business (the "KCM Credit Facility").
+If a borrowing is made under the KCM 364-Day Revolving Credit Agreement, the interest rate will vary depending on the type of drawdown requested. If the borrowing is: (i) denominated in U.S. dollars and a term rate, it will be based on the term Secured Overnight Financing Rate ("SOFR"), (ii) denominated in euros, it will be based on EURIBOR and (iii) denominated in pounds sterling, it will be based on the Sterling Overnight Interbank Average Rate ("SONIA"), in each case, plus the applicable margin which ranges initially between 1.50% and 2.75%, depending on the duration of the loan. If the borrowing is an ABR Loan, it will be based on the greater of (i) the federal funds rate plus 0.50% and (ii) term SOFR for one-month tenor plus 1.00%, in each case, plus the applicable margin which ranges initially between 0.50% and 1.75% depending on the amount and nature of the loan. Borrowings under the KCM 364-Day Revolving Credit Agreement may only be used to facilitate the settlement of debt transactions syndicated by KKR's capital markets business. Obligations under the KCM 364-Day Revolving Credit Agreement are limited to the KCM Borrowers, which are solely entities involved in KKR's capital markets business, and liabilities under the KCM 364-Day Revolving Credit Agreement are non-recourse to other parts of KKR.
+The KCM 364-Day Revolving Credit Facility contains customary representations and warranties, events of default, and affirmative and negative covenants, including a financial covenant providing for a maximum debt to equity ratio for the KCM Borrowers. The KCM Borrowers' obligations under the KCM 364-Day Revolving Credit Facility are secured by certain assets of the KCM Borrowers, including a pledge of equity interests of certain subsidiaries of the KCM Borrowers.
+KCM Credit Facility
+On April 4, 2024, the KCM Borrowers (as defined above) also entered into a fourth amended and restated 5-year revolving credit agreement (the KCM Credit Facility ) with Mizuho Bank, Ltd., as administrative agent, and the lenders party thereto. This facility provides for revolving borrowings of up to $750 million with a $750 million sublimit for letters of credit, expires on April 4, 2029 and ranks pari passu with the KCM 364-Day Revolving Credit Facility. The prior facility for the KCM Borrowers, dated as of March 20, 2020 (as amended), between the KCM Borrowers, Mizuho Bank, Ltd., as administrative agent, and the lenders party thereto, was terminated according to its terms on April 4, 2024 and replaced by the KCM Credit Facility.
+If a borrowing is made on the KCM Credit Facility, the interest rate will vary depending on the type of drawdown requested. If the borrowing is (i) denominated in U.S. dollars and a term rate, it will be based on term SOFR, (ii) denominated in euros, it will be based on EURIBOR, and (iii) denominated in pounds sterling, it will be based on SONIA, in each case, plus the applicable margin which ranges initially between 1.75% and 3.00%, depending on the amount and nature of the loan. If the loan is an ABR Loan, it will be based on the greater of (i) the federal funds rate plus 0.50% and (ii) term SOFR for one-month tenor plus 1.00%, in each case, plus the applicable margin which ranges initially between 0.75% and 2.00% depending on the amount and nature of the loan. Obligations under the KCM Credit Facility may only be used for KKR s capital markets business, and its only obligors are entities involved in KKR s capital markets business, and its liabilities are non-recourse to other parts of KKR s business.
+The KCM Credit Facility contains customary representations and warranties, events of default, and affirmative and negative covenants, including a financial covenant providing for a maximum debt to equity ratio for the KCM Borrowers. The KCM Borrowers obligations under the KCM Credit Facility are secured by certain assets of the KCM Borrowers, including a pledge of equity interests of certain subsidiaries of the KCM Borrowers.
+Other Asset Management and Strategic Holdings Debt Obligations
+Certain of KKR's consolidated investment funds have entered into financing arrangements with financial institutions, generally to provide liquidity to such investment funds. These financing arrangements are generally not direct obligations of the general partners of KKR's investment funds (beyond KKR's capital interest) or its management companies. Such borrowings have varying maturities and bear interest at floating rates. Borrowings are generally secured by the investment purchased with the proceeds of the borrowing and/or the uncalled capital commitment of each respective fund. When an investment vehicle borrows, the proceeds are available only for use by that investment vehicle and are not available for the benefit of other investment vehicles or KKR. Collateral within each investment vehicle is also available only against borrowings by that investment vehicle and not against the borrowings of other investment vehicles or KKR.
+In certain other cases, investments and other assets held directly by majority-owned consolidated levered investment vehicles and other entities have been funded with borrowings that are collateralized by the investments and assets they own. These borrowings are non-recourse to KKR beyond the investments or assets serving as collateral or the capital that KKR has committed to fund such investment vehicles. Such borrowings have varying maturities and generally bear interest at fixed rates.
+In addition, consolidated CFEs issue debt securities to third-party investors which are collateralized by assets held by the CFE. Debt securities issued by CFEs are supported solely by the assets held at the CFEs and are not collateralized by assets of any other KKR entity. CFEs also may have warehouse facilities with banks to provide liquidity to the CFE. The CFE's debt obligations are non-recourse to KKR beyond the assets of the CFE.
+As of December 31, 2024, other debt obligations consisted of the following:
+ Financing Available Principal Carrying Value Fair Value Weighted
+Average
+Interest Rate Weighted Average Remaining Maturity in Years
+Financing Facilities of Consolidated Funds and Other (1)
+ $ 5,628,669 $ 10,368,391 $ 10,344,515 $ 10,258,349 5.7% 4.4
+Debt Obligations of Consolidated CFEs 27,329,411 27,150,809 27,150,809 (2)
+ 10.4
+ $ 5,628,669 $ 37,697,802 $ 37,495,324 $ 37,409,158
+
+(1)Includes borrowings collateralized by fund investments, fund co-investments, and other assets held by levered investment vehicles of $2.8 billion.
+(2)The senior notes of the consolidated CFEs had a weighted average interest rate of 6.1%. The subordinated notes of the consolidated CLOs do not have contractual interest rates but instead receive a pro rata amount of the net distributions from the excess cash flows of the respective CLO vehicle. Accordingly, weighted average borrowing rates for the subordinated notes are based on cash distributions during the period, if any.
+Debt obligations of consolidated CLOs are collateralized by assets held by each respective CLO vehicle and assets of one CLO vehicle may not be used to satisfy the liabilities of another. As of December 31, 2024, the fair value of the consolidated CLO assets was $30.8 billion. This collateral consisted of Cash and Cash Equivalents, Investments, and Other Assets.
+Global Atlantic's debt obligations consisted of the following:
+
+ December 31, 2024 December 31, 2023
+By Remaining Maturity at
+Period End Date Financing Available Principal Carrying Value(1)
+ Fair Value(2)
+ Financing Available Principal Carrying Value(1)
+ Fair Value(2)
+
+Revolving Credit Facilities:
+Under 1 Year $ $ $ $ $ $ $ $
+1-5 Years 1,000,000 800,000 200,000 200,000 200,000
+After 5 Years
+Subtotal 1,000,000 800,000 200,000 200,000 200,000
+Senior Notes: (4)
+
+Under 1 Year
+1-5 Years 500,000 459,138 474,250
+After 5 Years 2,050,000 1,854,183 2,040,505 1,800,000 1,648,467 1,715,155
+Subtotal 2,550,000 2,313,321 2,514,755 1,800,000 1,648,467 1,715,155
+Subordinated Notes: (4)
+
+Under 1 Year
+1-5 Years
+After 5 Years 1,350,000 1,329,615 1,353,975 750,000 739,390 643,575
+Subtotal 1,350,000 1,329,615 1,353,975 750,000 739,390 643,575
+
+Debt Obligations of Consolidated Special Purpose Vehicles(3)
+ 269,600 70,400 70,400 70,394
+Total $ 1,269,600 $ 3,970,400 $ 3,713,336 $ 3,939,124 $ 800,000 $ 2,750,000 $ 2,587,857 $ 2,558,730
+
+(1)Carrying value of debt as of December 31, 2024 and 2023, includes purchase accounting adjustments of $34.1 million and $40.2 million, respectively, net debt issuance costs of $(57.9) million and $(36.5) million, respectively, and cumulative fair value loss on hedged debt obligations of $(233.2) million and $(165.8) million, respectively. The amortization of the purchase accounting adjustments was $6.1 million, $3.1 million, and $7.8 million for the years ended December 31, 2024, 2023, and 2022, respectively.
+(2)These debt obligations are classified as Level III within the fair value hierarchy and valued using the same valuation methodologies as KKR's Level III credit investments.
+(3)These debt obligations primarily include debt obligations of consolidated sponsored reinsurance vehicles that are not guaranteed by KKR or Global Atlantic.
+(4)Interest rates of the notes are fixed and the weighted average interest rates are the following:
+
+ December 31, 2024 December 31, 2023
+Senior Notes 5.67% 5.22%
+Subordinated Notes 6.14% 4.70%
+
+Senior Notes Due 2054
+Global Atlantic (Fin) Company ("GA FinCo") and Global Atlantic Limited (Delaware) (formerly known as Global Atlantic Financial Limited, "GALD") are both wholly-owned indirect subsidiaries of TGAFG, the holding company for the Global Atlantic business.
+In March 2024, GA FinCo issued $750 million aggregate principal amount of 6.750% senior unsecured notes due 2054 (the GA 2054 Senior Notes ). The GA 2054 Senior Notes were issued pursuant to an indenture, dated October 7, 2019, among GA FinCo, as issuer, GALD, as guarantor, and U.S. Bank National Association, as trustee, and supplemented by the fifth supplemental indenture thereto, dated March 15, 2024, among GA FinCo, GALD and the trustee. The GA 2054 Senior Notes are fully and unconditionally guaranteed on a senior unsecured basis by GALD.
+The GA 2054 Senior Notes bear interest at a rate of 6.750% per year. Interest on the GA 2054 Senior Notes is payable semi-annually in arrears on March 15 and September 15 of each year, beginning on September 15, 2024. The GA 2054 Senior Notes will mature on March 15, 2054. GA FinCo may, at its option, redeem some or all of the GA 2054 Senior Notes at any time: (i) prior to September 15, 2053 at a redemption price equal to the greater of 100% of the principal amount of the GA 2054 Senior Notes to be redeemed and a make-whole payment plus, in either case, accrued and unpaid interest, if any, to the date of redemption; and (ii) on or after September 15, 2053 at a redemption price equal to 100% of the principal amount of the GA 2054 Senior Notes to be redeemed, plus accrued and unpaid interest to the date of redemption.
+Global Atlantic Subordinated Notes Due 2054
+On June 11 2024, GA FinCo issued $600 million of 7.950% fixed-to-fixed rate subordinated debentures maturing on October 15, 2054 (the GA 2054 Subordinated Debentures. ) The GA 2054 Subordinated Debentures were issued pursuant to the Subordinated Indenture, dated as of July 6, 2021 among GA FinCo, as issuer, GALD, as guarantor, and U.S. Bank National Association, as trustee, as supplemented by the Second Supplemental Indenture thereto, dated as of June 11, 2024.
+The GA 2054 Subordinated Debentures will bear interest (i) from, and including, June 11, 2024 to, but not including, the initial interest reset date of October 15, 2029 at an annual rate of 7.95% and (ii) from and including October 15, 2029, during each interest reset period, at an annual rate equal to the five-year Treasury rate as of the most recent reset interest determination date, plus 3.608%. Interest on the GA 2054 Subordinated Debentures is payable semi-annually in arrears on April 15 and October 15 of each year, commencing on October 15, 2024, and on the maturity date.
+GA FinCo has the right on one or more occasions to defer the payment of interest on the GA 2054 Subordinated Debentures for up to five consecutive years. During an optional deferral period, interest will continue to accrue at the interest rate on the GA 2054 Subordinated Debentures, compounded semi-annually as of each interest payment date.
+If GA FinCo has exercised its right to defer interest payments on the GA 2054 Subordinated Debentures, GA FinCo and GALD generally may not (1) make payments on or redeem or purchase (A) GA FinCo or GALD common stock, or (B) with respect to GA FinCo, any indebtedness ranking on parity with or junior to the GA 2054 Subordinated Debentures, and with respect to GALD, any indebtedness ranking on parity with or junior to the guarantee or (2) make any guarantee payments with respect to any guarantee by GA FinCo or GALD of any securities or any of their respective subsidiaries if such guarantee ranks equally with or junior to the GA 2054 Subordinated Debentures.
+GA FinCo may elect to redeem the GA 2054 Subordinated Debentures either (1) in whole at any time or in part from time to time during the three-month period prior to, and including, October 15, 2029, or the three month period prior to, and including, each subsequent interest reset date, in each case at 100% of the principal amount of the GA 2054 Subordinated Debentures being redeemed, plus accrued and unpaid interest (including compounded interest, if any) to, but excluding, the redemption date; (2) in whole, but not in part, at any time within 90 days after the occurrence of a tax event at 100% of the principal amount of the GA 2054 Subordinated Debentures being redeemed, plus accrued and unpaid interest (including compounded interest, if any) to, but excluding, the redemption date; (3) in whole, but not in part, at any time within 90 days after the occurrence of a rating agency event at 102% of the principal amount of the GA 2054 Subordinated Debentures being redeemed, plus accrued and unpaid interest (including compounded interest, if any) to, but excluding, the redemption date; or (4) in whole, but not in part, at any time within 90 days after the occurrence of a regulatory capital event at 100% of the principal amount of the GA 2054 Subordinated Debentures being redeemed, plus accrued and unpaid interest (including compounded interest, if any) to, but excluding, the redemption date.
+Global Atlantic Credit Agreement
+In March 2024, GA FinCo repaid $300 million then outstanding indebtedness under the Global Atlantic Credit Agreement with proceeds from the GA 2054 Senior Notes.
+In May 2024, GA FinCo terminated its revolving credit facility and replaced it with a new credit agreement with GA FinCo, as borrower, GALD, as guarantor, and Wells Fargo Bank, N.A., as administrative agent, that (1) provides for up to $1.0 billion of revolving borrowings, including up to $500 million of letters of credit, (2) has a maturity of May 2029, and (3) contains customary events of default, representations and warranties and covenants that are substantially similar to those that were in the terminated revolving credit agreement, including the consolidated debt to capitalization and net worth covenants. Interest on any funded borrowings accrues at SOFR plus a spread ranging from 1.225% to 1.975%, based on GALD s long-term issuer credit ratings. The borrower must pay a commitment fee on any unfunded committed balance under the agreement, ranging from 0.125% to 0.300% based on the long-term issuer credit rating.
+Debt Covenants
+Borrowings of KKR (including Global Atlantic) contain various debt covenants. These covenants do not, in management's opinion, materially restrict KKR's operating business or investment strategies as of December 31, 2024. KKR (including Global Atlantic) was in compliance with such debt covenants in all material respects as of December 31, 2024.
+
+Scheduled principal payments for Asset Management and Strategic Holdings debt obligations at December 31, 2024 are as follows:
+ Revolving Credit
+Facilities
+ Notes Issued Other
+Debt Obligations
+ Total
+2025 31,788 3,685,902 3,717,690
+2026 496,776 496,776
+2027 231,420 404,349 635,769
+2028 284,188 614,527 898,715
+2029 1,738,072 574,652 2,312,724
+Thereafter 6,290,419 31,921,596 38,212,015
+ $ $ 8,575,887 $ 37,697,802 $ 46,273,689
+
+Scheduled principal payments for Insurance debt obligations at December 31, 2024 are as follows:
+ Revolving Credit
+Facilities
+ Notes Issued Other
+Debt Obligations
+ Total
+2025 $ $ $ $
+2026
+2027 70,400 70,400
+2028
+2029 500,000 500,000
+Thereafter 3,400,000 3,400,000
+ $ $ 3,900,000 $ 70,400 $ 3,970,400
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for information about short-term and long-term debt arrangements, which includes amounts of borrowings under each line of credit, note payable, commercial paper issue, bonds indenture, debenture issue, own-share lending arrangements and any other contractual agreement to repay funds, and about the underlying arrangements, rationale for a classification as long-term, including repayment terms, interest rates, collateral provided, restrictions on use of assets and activities, whether or not in compliance with debt covenants, and other matters important to users of the financial statements, such as the effects of refinancing and noncompliance with debt covenants.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 405
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477092/405-40-50-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 10: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 470
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/470/tableOfContent
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1C
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1C
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1C
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1C
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1C
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1C
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1E
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1E
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1I
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1I
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1I
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1I
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1I
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1I
+
++ Details
+
+ Name:
+us-gaap_DebtDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

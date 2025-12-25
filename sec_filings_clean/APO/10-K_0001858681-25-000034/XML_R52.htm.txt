@@ -1,0 +1,152 @@
+XML
+82
+R52.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Earnings per Share (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Earnings Per Share [Abstract]
+
+Schedule of Basic and Diluted Net Income (Loss) Per Share of Common Stock
+The following presents basic and diluted net income (loss) per share of common stock computed using the two-class method:
+
+ Basic and Diluted
+ Years ended December 31,
+(In millions, except share and per share amounts) 2024 2023 2022
+Numerator:
+Net income (loss) attributable to common stockholders $ 4,480 $ 5,001 $ (1,961)
+Dividends declared on common stock1
+ (1,032) (961) (916)
+Dividends on participating securities2
+ (60) (51) (46)
+Earnings allocable to participating securities3
+ (91) (115)
+Undistributed income (loss) attributable to common stockholders: Basic 3,297 3,874 (2,923)
+Dilution effect on distributable income attributable to Mandatory Convertible Preferred Stock 97 46
+Dilution effect on distributable income attributable to contingent shares (5)
+Undistributed income (loss) attributable to common stockholders: Diluted $ 3,394 $ 3,915 $ (2,923)
+Denominator:
+Weighted average number of shares of common stock outstanding: Basic 586,069,166 581,380,268 584,691,775
+Dilution effect of Mandatory Convertible Preferred Stock 14,530,212 6,440,346
+Dilution effect of options 1,090,151 994,172
+Dilution effect of warrants 2,346,463
+Dilution effect of contingent shares 31,661
+Weighted average number of shares of common stock outstanding: Diluted 604,035,992 588,846,447 584,691,775
+Net income (loss) per share of common stock: Basic4
+
+Distributed income $ 1.82 $ 1.69 $ 1.60
+Undistributed income (loss) 5.57 6.63 (5.03)
+Net income (loss) per share of common stock: Basic $ 7.39 $ 8.32 $ (3.43)
+Net income (loss) per share of common stock: Diluted
+Distributed income $ 1.82 $ 1.69 $ 1.60
+Undistributed income (loss) 5.51 6.59 (5.03)
+Net income (loss) per share of common stock: Diluted $ 7.33 $ 8.28 $ (3.43)
+
+1 See note 16 for information regarding quarterly dividends.
+
+2 Participating securities consist of vested and unvested RSUs that have rights to dividends and unvested restricted shares.
+
+3 No allocation of undistributed losses was made to the participating securities in 2022 as the holders do not have a contractual obligation to share in the losses of the Company with common stockholders.
+
+4 For the year ended December 31, 2022, all of the classes of securities were determined to be anti-dilutive.
+
+Schedule of Anti-dilutive Securities
+The following table summarizes the anti-dilutive securities:
+
+ Years ended December 31,
+ 2024 2023 2022
+Weighted average unvested RSUs 14,273,743 15,316,350 13,664,334
+Weighted average unexercised options 2,422,343
+Weighted average unexercised warrants 63,388 4,761,918 2,279,452
+
+Weighted average unvested restricted shares 1,327,484 1,688,421 2,114,622
+Weighted average contingent shares outstanding 190,468
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EarningsPerShareAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of securities (including those issuable pursuant to contingent stock agreements) that could potentially dilute basic earnings per share (EPS) in the future that were not included in the computation of diluted EPS because to do so would increase EPS amounts or decrease loss per share amounts for the period presented, by antidilutive securities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 260
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfAntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of an entity's basic and diluted earnings per share calculations, including a reconciliation of numerators and denominators of the basic and diluted per-share computations for income from continuing operations.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEarningsPerShareBasicAndDilutedTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

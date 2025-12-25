@@ -1,0 +1,204 @@
+XML
+58
+R28.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Statutory Requirements
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Statutory Requirements
+9. Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired
+
+The following represents a rollforward of DAC and DSI by product, and a rollforward of VOBA. See note 11 for more information on Athene s products.
+
+ DAC DSI VOBA Total DAC, DSI and VOBA
+(In millions) Traditional Deferred Annuities Indexed Annuities Funding Agreements Other Investment-Type Indexed Annuities
+Balance at January 1, 2022 $ $ $ $ $ $ 3,372 $ 3,372
+Additions 320 784 14 9 411 1,538
+Amortization (16) (29) (3) (12) (384) (444)
+
+Balance at December 31, 2022
+ 304 755 11 9 399 2,988 4,466
+Additions 701 863 3 3 634 2,204
+Amortization (115) (101) (4) (1) (63) (404) (688)
+Other (3) (3)
+Balance at December 31, 2023
+ 890 1,517 10 11 970 2,581 5,979
+Additions 519 945 42 1 630 2,137
+Amortization (249) (184) (12) (1) (124) (371) (941)
+Other (2) (2)
+Balance at December 31, 2024
+ $ 1,158 $ 2,278 $ 40 $ 11 $ 1,476 $ 2,210 $ 7,173
+
+Deferred costs related to universal life-type policies and investment contracts with significant revenue streams from sources other than investment of the policyholder funds, including traditional deferred annuities and indexed annuities, are amortized on a constant-level basis for a cohort of contracts using initial premium or deposit. Significant inputs and assumptions are required for determining the expected duration of the cohort and involves using accepted actuarial methods to determine decrement rates related to policyholder behavior for lapses, withdrawals (surrenders) and mortality. The assumptions used to determine the amortization of DAC and DSI are consistent with those used to estimate the related liability balance.
+
+Deferred costs related to investment contracts without significant revenue streams from sources other than investment of policyholder funds are amortized using the effective interest method, which primarily includes funding agreements. The effective interest method requires inputs to project future cash flows, which for funding agreements includes contractual terms of notional value, periodic interest payments based on either fixed or floating interest rates, and duration. For other investment-type contracts which include immediate annuities and assumed endowments without significant mortality risks, assumptions are required related to policyholder behavior for lapses and withdrawals (surrenders).
+
+The expected amortization of VOBA for the next five years is as follows:
+
+(In millions) Expected Amortization
+
+2025 $ 295
+2026 261
+2027 227
+2028 194
+2029 167
+
+20. Statutory Requirements
+
+Athene s insurance and reinsurance subsidiaries are subject to insurance laws and regulations in the jurisdictions in which they operate, including Bermuda and the U.S. Certain regulations include restrictions that limit the dividends or other distributions, such as loans or cash advances, available to stockholders without prior approval of the insurance regulatory authorities. The differences between financial statements prepared for insurance regulatory authorities and U.S. GAAP financial statements vary by jurisdiction.
+
+Bermuda Statutory Requirements
+
+ALRe, AARe, Athene Co-Invest Reinsurance Affiliate 1A Ltd. ( ACRA 1A ) and Athene Co-Invest Reinsurance Affiliate 2A Ltd. ( ACRA 2A ) are each licensed by the Bermuda Monetary Authority (the BMA ) as long-term insurers and are subject to the Insurance Act 1978, as amended (the Bermuda Insurance Act ) and regulations promulgated thereunder. The BMA implemented the Economic Balance Sheet (the EBS ) framework into the Bermuda Solvency Capital Requirement ( BSCR ), which was granted equivalence to the European Union s Directive (2009/138/EC) ( Solvency II ). Amounts reported for Bermuda entities within these statutory disclosures exclude the impact of any deferred taxes on the EBS or statutory bases resulting from the enactment of Bermuda CIT.
+
+Under the Bermuda Insurance Act, long-term insurers are required to maintain minimum statutory capital and surplus to meet the minimum margin of solvency ( MMS ) and minimum economic statutory capital and surplus (EBS capital and surplus) to meet the Enhanced Capital Requirement ( ECR ). For Athene s Class C reinsurers, ACRA 1A and ACRA 2A, MMS is equal to the greater of $500,000, 1.5% of the total statutory assets or 25% of ECR. For Athene s Class E reinsurers, ALRe and AARe, MMS is equal to the greater of $8 million, 2% of the first $500 million of statutory assets plus 1.5% of statutory assets above $500 million or 25% of ECR. For each class, the ECR is calculated based on a risk-based capital model where risk factor charges are applied to the EBS. The ECR is floored at the MMS. As of December 31, 2024, Athene s Bermuda subsidiaries were in excess of the minimum levels required. For Athene s Bermuda reinsurance subsidiaries, the ECR is the binding regulatory constraint. The following represents the EBS capital and surplus and BSCR ratios:
+
+ December 31,
+ 2024
+ 2023
+
+(In millions, except percentages) EBS capital & surplus BSCR ratio EBS capital & surplus BSCR ratio
+ALRe $ 23,547 420 % $ 18,245 233 %
+AARe 27,693 238 % 26,647 291 %
+ACRA 1A 3,866 165 % 5,296 219 %
+ACRA 2A 4,277 176 % 3,717 353 %
+
+Under the Bermuda statutory framework, statutory financial statements are generally equivalent to U.S. GAAP financial statements, with the exception of prudential filters and permitted practices granted by the BMA. Athene s Bermuda subsidiaries have permission in the statutory financial statements to use amortized cost instead of fair value as the basis for certain investments. Additionally, Athene s Bermuda subsidiaries use U.S. statutory reserving principles for the calculation of insurance reserves instead of U.S. GAAP, subject to the reserves being proved adequate based on cash flow testing.
+The following represents the effect of the permitted practices to the statutory financial statements:
+
+ December 31, 2024
+(In millions) ALRe AARe ACRA 1A ACRA 2A
+Increase (decrease) to capital and surplus due to permitted practices $ (5) $ 6,119 $ 3,768 $ 51
+Increase (decrease) to statutory net income due to permitted practices 973 (2,695) 54 515
+
+Under the Bermuda Insurance Act, Athene s Bermuda subsidiaries are prohibited from paying a dividend in an amount exceeding 25% of the prior year s statutory capital and surplus, unless at least two members of the companies respective board of directors and its principal representative in Bermuda sign and submit to the BMA an affidavit attesting that a dividend in excess of this amount would not cause the subsidiary to fail to meet its relevant margins. In certain instances, the Bermuda subsidiary would also be required to provide prior notice to the BMA in advance of the payment of dividends. In the event that such an affidavit is submitted to the BMA, and further subject to meeting the MMS and ECR requirements, a Bermuda subsidiary is permitted to distribute up to the sum of 100% of statutory surplus and an amount less than 15% of statutory capital. Distributions in excess of this amount require the approval of the BMA. The following represents the maximum distribution Athene s Bermuda subsidiaries would be permitted to remit to its parent without the need for prior approval:
+
+ December 31,
+(In millions) 2024 2023
+ALRe $ 10,112 $ 7,023
+AARe 10,207 8,012
+ACRA 1A 1,044 1,614
+ACRA 2A 877 30
+
+U.S. Statutory Requirements
+
+Athene s primary regulated U.S. subsidiaries and the corresponding insurance regulatory authorities are as follows:
+
+Subsidiary Regulatory Authority
+AAIA Iowa Insurance Division
+AANY New York Department of Financial Services
+Athene Re USA IV State of Vermont Department of Financial Regulation
+
+On October 11, 2024, Athene Annuity & Life Assurance Company ( AADE ) merged with and into AAIA, with AAIA as the surviving entity following the receipt of all required regulatory approvals. Prior year amounts relating to AAIA below have been restated to reflect the effect of the merger.
+Each entity s statutory statements are presented on the basis of accounting practices determined by the respective regulatory authority. The regulatory authority recognizes only statutory accounting practices prescribed or permitted by the corresponding state for determining and reporting the financial condition and results of operations of an insurance company and for determining its solvency under insurance law.
+The maximum dividend these subsidiaries can pay to stockholders, without prior approval of the respective state insurance department, is subject to restrictions relating to statutory surplus or net gain from operations. The maximum dividend payment over a twelve-month period may not, without prior approval, be paid from a source other than earned surplus and may not exceed the greater of (1) the prior year s net gain from operations or (2) 10% of prior year s policyholders surplus. Based on these restrictions, the maximum dividend AAIA, and its predecessor by merger AADE, could pay to its parent absent regulatory approval was $0 million as of each of December 31, 2024 and December 31, 2023. Any dividends from AHL s other U.S. statutory entities in excess of the amounts allowed for AAIA would not be able to be remitted to its parent without regulatory approval from the Iowa Insurance Division.
+
+As of December 31, 2024, Athene s U.S. subsidiaries solvency, liquidity and risk-based capital amounts were significantly in excess of the minimum levels required.
+In some instances, the states of domicile of U.S. subsidiaries have adopted prescribed accounting practices that differ from the required accounting outlined in NAIC Statutory Accounting Principles ( SAP ). These subsidiaries also have certain accounting practices permitted by the states of domicile that differ from those found in NAIC SAP. These prescribed and permitted practices are described as follows:
+
+AAIA
+
+Among the products issued by AAIA are indexed universal life insurance and fixed indexed annuities. These products allow a portion of the premium to earn interest based on certain indices, including the S&P 500 and other bespoke indices. Athene purchases call options, futures and variance swaps to hedge the growth in interest credited to the customer as a direct result of increases in the related index. The Iowa Insurance Division allows an insurer to elect (1) to use an amortized cost method to account for certain derivative instruments, such as call options, purchased to hedge the growth in interest credited to the customer on indexed insurance products and (2) to use an indexed annuity reserve calculation methodology under which call options associated with the current index interest crediting term are valued at zero. AAIA has elected to apply this option to its over-the-counter call options and reserve liabilities. As a result, AAIA s statutory surplus increased by $38 million and decreased by $2 million as of December 31, 2024 and December 31, 2023, respectively.
+
+Athene Re USA IV
+
+AAIA has ceded the AmerUs Closed Block to Athene Re USA IV on a 100% funds withheld basis. A permitted practice in the State of Vermont allows Athene Re USA IV to include as admitted assets the face amount of all issued and outstanding letters of credit used to fund its reinsurance obligations to AAIA in its statutory financial statements. If Athene Re USA IV had not followed this permitted practice, then it would not have exceeded authorized control level risk-based capital requirements. As of December 31, 2024 and December 31, 2023, Athene Re USA IV included as admitted assets $86 million and $96 million, respectively, related to the outstanding letters of credit.
+
+Statutory capital and surplus and net income (loss)
+
+The following table presents, for each of Athene s primary insurance subsidiaries, the statutory capital and surplus and the statutory net income (loss), based on the most recent statutory financial statements to be filed with insurance regulators:
+
+ Statutory capital & surplus Statutory net income (loss)
+ December 31, Years ended December 31,
+(In millions) 2024 2023 2024 2023 2022
+ALRe $ 17,623 $ 14,474 $ 3,140 $ 832 $ 937
+AARe 21,049 17,773 2,910 408 1,329
+ACRA 1A 4,521 5,092 841 297 (87)
+ACRA 2A 4,569 1,952 877 (759) (2)
+AAIA 3,899 3,306 949 (79) (486)
+AANY 318 290 25 (3) (23)
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for the types of coverages and products sold, and the assets, obligations, recorded liabilities, revenues and expenses arising therefrom, and the amounts of and methodologies and assumptions used in determining the amounts of such items.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/944/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)(4)(ii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477363/944-310-50-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)(4)(iv)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477363/944-310-50-3
+
++ Details
+
+ Name:
+us-gaap_InsuranceDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

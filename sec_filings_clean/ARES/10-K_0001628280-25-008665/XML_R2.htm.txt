@@ -1,0 +1,165 @@
+XML
+74
+R2.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Audit Information
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Auditor Information [Abstract]
+
+Auditor Firm ID
+42
+
+Auditor Name
+Ernst & Young LLP
+
+Auditor Location
+Los Angeles, California
+
+X
+
+- DefinitionAuditor Information
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_AuditorInformationAbstract
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPCAOB issued Audit Firm Identifier
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 10-K
+ -Number 249
+ -Section 310
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Number 249
+ -Section 220
+ -Subsection f
+
+Reference 3: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 40-F
+ -Number 249
+ -Section 240
+ -Subsection f
+
++ Details
+
+ Name:
+dei_AuditorFirmId
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:nonemptySequenceNumberItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 10-K
+ -Number 249
+ -Section 310
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Number 249
+ -Section 220
+ -Subsection f
+
+Reference 3: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 40-F
+ -Number 249
+ -Section 240
+ -Subsection f
+
++ Details
+
+ Name:
+dei_AuditorLocation
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:internationalNameItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 10-K
+ -Number 249
+ -Section 310
+
+Reference 2: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 20-F
+ -Number 249
+ -Section 220
+ -Subsection f
+
+Reference 3: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Form 40-F
+ -Number 249
+ -Section 240
+ -Subsection f
+
++ Details
+
+ Name:
+dei_AuditorName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:internationalNameItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

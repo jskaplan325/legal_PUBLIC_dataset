@@ -1,0 +1,183 @@
+XML
+82
+R53.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Significant Accounting Policies - Additional Information (Detail)
+
+Dec. 31, 2024
+
+Summary Of Significant Accounting Policies [Line Items]
+
+Finite-lived intangible assets, useful life, years
+5 years 3 months 18 days
+
+Leasehold Improvements
+
+Summary Of Significant Accounting Policies [Line Items]
+
+Property, plant and equipment, useful life, years
+7 years
+
+Minimum
+
+Summary Of Significant Accounting Policies [Line Items]
+
+Finite-lived intangible assets, useful life, years
+3 years
+
+Minimum | Furniture Fittings And Other Assets [Member]
+
+Summary Of Significant Accounting Policies [Line Items]
+
+Property, plant and equipment, useful life, years
+3 years
+
+Maximum
+
+Summary Of Significant Accounting Policies [Line Items]
+
+Finite-lived intangible assets, useful life, years
+20 years
+
+Maximum | Furniture Fittings And Other Assets [Member]
+
+Summary Of Significant Accounting Policies [Line Items]
+
+Property, plant and equipment, useful life, years
+5 years
+
+X
+
+- DefinitionSummary Of Significant Accounting Policies [Line Items]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_SummaryOfSignificantAccountingPoliciesLineItems
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUseful life of finite-lived intangible assets, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FiniteLivedIntangibleAssetUsefulLife
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionUseful life of long lived, physical assets used in the normal conduct of business and not intended for resale, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days. Examples include, but not limited to, land, buildings, machinery and equipment, office equipment, furniture and fixtures, and computer equipment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentUsefulLife
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentByTypeAxis=us-gaap_LeaseholdImprovementsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentByTypeAxis=bx_FurnitureFittingsAndOtherAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

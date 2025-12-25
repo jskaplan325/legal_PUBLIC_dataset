@@ -1,0 +1,586 @@
+XML
+102
+R80.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+$ 246,832
+
+$ (776,473)
+
+$ 1,298,506
+
+Net Unrealized Gains (Losses)
+3,196,021
+
+3,801,856
+
+(2,964,043)
+
+Total
+3,442,853
+
+3,025,383
+
+(1,665,537)
+
+Private Equity
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+191,791
+
+(300,439)
+
+784,736
+
+Net Unrealized Gains (Losses)
+1,694,901
+
+2,931,254
+
+(1,541,242)
+
+Total
+1,886,692
+
+2,630,815
+
+(756,506)
+
+Credit
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+(509,690)
+
+(322,067)
+
+(168,025)
+
+Net Unrealized Gains (Losses)
+279,102
+
+505,868
+
+(470,254)
+
+Total
+(230,588)
+
+183,801
+
+(638,279)
+
+Investments of Consolidated CFEs
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+(61,580)
+
+(104,196)
+
+(69,234)
+
+Net Unrealized Gains (Losses)
+84,799
+
+1,019,063
+
+(1,437,482)
+
+Total
+23,219
+
+914,867
+
+(1,506,716)
+
+Real Assets
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+287,041
+
+(322,894)
+
+323,901
+
+Net Unrealized Gains (Losses)
+(200,080)
+
+16,107
+
+220,207
+
+Total
+86,961
+
+(306,787)
+
+544,108
+
+Equity Method - Other
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+409,833
+
+327,549
+
+73,317
+
+Net Unrealized Gains (Losses)
+606,258
+
+586,125
+
+(298,100)
+
+Total
+1,016,091
+
+913,674
+
+(224,783)
+
+Other Investments
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+(187,015)
+
+(329,006)
+
+29,490
+
+Net Unrealized Gains (Losses)
+109,411
+
+198,889
+
+(661,967)
+
+Total
+(77,604)
+
+(130,117)
+
+(632,477)
+
+Foreign Exchange Forward Contracts and Options
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+171,330
+
+155,784
+
+389,371
+
+Net Unrealized Gains (Losses)
+549,055
+
+(312,408)
+
+(26,406)
+
+Total
+720,385
+
+(156,624)
+
+362,965
+
+Securities Sold Short
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+(31,912)
+
+4,780
+
+89,705
+
+Net Unrealized Gains (Losses)
+13,633
+
+(12,872)
+
+11,010
+
+Total
+(18,279)
+
+(8,092)
+
+100,715
+
+Other Derivatives
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+(40,055)
+
+11,120
+
+(32,614)
+
+Net Unrealized Gains (Losses)
+16,332
+
+2,383
+
+39,404
+
+Total
+(23,723)
+
+13,503
+
+6,790
+
+Debt Obligations and Other
+
+Gain (Loss) on Investments [Line Items]
+
+Net Realized Gains (Losses)
+17,089
+
+102,896
+
+(122,141)
+
+Net Unrealized Gains (Losses)
+42,610
+
+(1,132,553)
+
+1,200,787
+
+Total
+$ 59,699
+
+$ (1,029,657)
+
+$ 1,078,646
+
+X
+
+- DefinitionConsists of realized gains and losses and unrealized gains and losses arising from investment activities. The majority of net gains (losses) from investment activities are related to private equity investments. Changes in net gains (losses) from investment activities between reporting periods is driven primarily by changes in the fair value of the investment portfolio as well as the realization of investments.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_GainLossFromInvestmentActivitiesNet
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized gain (loss) on investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(3)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RealizedInvestmentGainsLosses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfGainLossOnInvestmentsIncludingMarketableSecuritiesAndInvestmentsHeldAtCostIncomeStatementReportedAmountsSummaryLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) on investment.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_UnrealizedGainLossOnInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_PrivateEquityFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_FixedIncomeInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=kkr_RealAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=kkr_EquityMethodInvestmentsOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_OtherAggregatedInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_ForeignExchangeForwardMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_SecuritiesSoldNotYetPurchasedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=kkr_OtherDerivativeLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_CollateralizedDebtObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

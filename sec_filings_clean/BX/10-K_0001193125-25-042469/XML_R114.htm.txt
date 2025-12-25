@@ -1,0 +1,972 @@
+XML
+143
+R114.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Financial Data of Segments (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting Information [Line Items]
+
+Fee Related Performance Revenues
+$ 2,135,945
+
+$ 858,527
+
+$ 1,449,497
+
+Realized Performance Revenues
+4,421,924
+
+2,919,012
+
+5,906,767
+
+Realized Performance Compensation
+(1,805,803)
+
+(1,181,926)
+
+(2,433,262)
+
+Realized Principal Investment Income
+92,526
+
+110,932
+
+396,256
+
+Operating Segments
+
+Segment Reporting Information [Line Items]
+
+Base Management Fees
+6,780,882
+
+6,465,847
+
+6,045,038
+
+Transaction, Advisory and Other Fees, Net
+399,688
+
+235,892
+
+310,117
+
+Management Fee Offsets
+(47,036)
+
+(38,495)
+
+(72,209)
+
+Total Management and Advisory Fees, Net
+7,133,534
+
+6,663,244
+
+6,282,946
+
+Fee Related Performance Revenues
+2,135,945
+
+858,527
+
+1,449,497
+
+Fee Related Compensation
+(2,739,322)
+
+(2,088,110)
+
+(2,330,775)
+
+Other Operating Expenses
+(1,248,092)
+
+(1,084,333)
+
+(989,023)
+
+Fee Related Earnings
+5,282,065
+
+4,349,328
+
+4,412,645
+
+Realized Performance Revenues
+2,287,031
+
+2,061,102
+
+4,461,338
+
+Realized Performance Compensation
+(951,246)
+
+(896,017)
+
+(1,814,097)
+
+Realized Principal Investment Income
+92,526
+
+110,932
+
+396,256
+
+Total Net Realizations
+1,428,311
+
+1,276,017
+
+3,043,497
+
+Total Segment Distributable Earnings
+6,710,376
+
+5,625,345
+
+7,456,142
+
+Segment Assets
+40,228,391
+
+36,443,911
+
+Operating Segments | Real Estate Segment
+
+Segment Reporting Information [Line Items]
+
+Base Management Fees
+2,716,983
+
+2,794,232
+
+2,462,179
+
+Transaction, Advisory and Other Fees, Net
+175,010
+
+78,483
+
+171,424
+
+Management Fee Offsets
+(16,716)
+
+(29,357)
+
+(10,538)
+
+Total Management and Advisory Fees, Net
+2,875,277
+
+2,843,358
+
+2,623,065
+
+Fee Related Performance Revenues
+203,425
+
+294,240
+
+1,075,424
+
+Fee Related Compensation
+(674,965)
+
+(675,880)
+
+(1,039,125)
+
+Other Operating Expenses
+(380,321)
+
+(325,050)
+
+(315,331)
+
+Fee Related Earnings
+2,023,416
+
+2,136,668
+
+2,344,033
+
+Realized Performance Revenues
+200,974
+
+244,358
+
+2,985,713
+
+Realized Performance Compensation
+(101,011)
+
+(123,299)
+
+(1,168,045)
+
+Realized Principal Investment Income
+14,522
+
+7,628
+
+150,790
+
+Total Net Realizations
+114,485
+
+128,687
+
+1,968,458
+
+Total Segment Distributable Earnings
+2,137,901
+
+2,265,355
+
+4,312,491
+
+Segment Assets
+11,573,910
+
+13,016,980
+
+Operating Segments | Private Equity Segment
+
+Segment Reporting Information [Line Items]
+
+Base Management Fees
+2,027,855
+
+1,903,972
+
+1,882,197
+
+Transaction, Advisory and Other Fees, Net
+176,469
+
+108,848
+
+97,972
+
+Management Fee Offsets
+(6,044)
+
+(5,228)
+
+(56,078)
+
+Total Management and Advisory Fees, Net
+2,198,280
+
+2,007,592
+
+1,924,091
+
+Fee Related Performance Revenues
+1,185,428
+
+0
+
+(648)
+
+Fee Related Compensation
+(1,164,237)
+
+(619,678)
+
+(599,758)
+
+Other Operating Expenses
+(391,309)
+
+(329,221)
+
+(314,967)
+
+Fee Related Earnings
+1,828,162
+
+1,058,693
+
+1,008,718
+
+Realized Performance Revenues
+1,392,447
+
+1,343,865
+
+1,206,594
+
+Realized Performance Compensation
+(633,491)
+
+(584,154)
+
+(550,306)
+
+Realized Principal Investment Income
+52,356
+
+76,220
+
+144,585
+
+Total Net Realizations
+811,312
+
+835,931
+
+800,873
+
+Total Segment Distributable Earnings
+2,639,474
+
+1,894,624
+
+1,809,591
+
+Segment Assets
+18,027,030
+
+14,901,682
+
+Operating Segments | Credit & Insurance Segment
+
+Segment Reporting Information [Line Items]
+
+Base Management Fees
+1,561,649
+
+1,297,406
+
+1,185,289
+
+Transaction, Advisory and Other Fees, Net
+44,354
+
+44,542
+
+34,481
+
+Management Fee Offsets
+(24,196)
+
+(3,907)
+
+(5,432)
+
+Total Management and Advisory Fees, Net
+1,581,807
+
+1,338,041
+
+1,214,338
+
+Fee Related Performance Revenues
+747,092
+
+564,287
+
+374,721
+
+Fee Related Compensation
+(755,620)
+
+(628,064)
+
+(512,727)
+
+Other Operating Expenses
+(371,354)
+
+(323,773)
+
+(260,028)
+
+Fee Related Earnings
+1,201,925
+
+950,491
+
+816,304
+
+Realized Performance Revenues
+313,092
+
+317,620
+
+147,285
+
+Realized Performance Compensation
+(129,814)
+
+(140,210)
+
+(63,845)
+
+Realized Principal Investment Income
+39,855
+
+21,752
+
+79,763
+
+Total Net Realizations
+223,133
+
+199,162
+
+163,203
+
+Total Segment Distributable Earnings
+1,425,058
+
+1,149,653
+
+979,507
+
+Segment Assets
+8,668,716
+
+6,705,647
+
+Operating Segments | Multi Assets Investing Segment
+
+Segment Reporting Information [Line Items]
+
+Base Management Fees
+474,395
+
+470,237
+
+515,373
+
+Transaction, Advisory and Other Fees, Net
+3,855
+
+4,019
+
+6,240
+
+Management Fee Offsets
+(80)
+
+(3)
+
+(161)
+
+Total Management and Advisory Fees, Net
+478,170
+
+474,253
+
+521,452
+
+Fee Related Performance Revenues
+0
+
+0
+
+0
+
+Fee Related Compensation
+(144,500)
+
+(164,488)
+
+(179,165)
+
+Other Operating Expenses
+(105,108)
+
+(106,289)
+
+(98,697)
+
+Fee Related Earnings
+228,562
+
+203,476
+
+243,590
+
+Realized Performance Revenues
+380,518
+
+155,259
+
+121,746
+
+Realized Performance Compensation
+(86,930)
+
+(48,354)
+
+(31,901)
+
+Realized Principal Investment Income
+(14,207)
+
+5,332
+
+21,118
+
+Total Net Realizations
+279,381
+
+112,237
+
+110,963
+
+Total Segment Distributable Earnings
+507,943
+
+315,713
+
+$ 354,553
+
+Segment Assets
+$ 1,958,735
+
+$ 1,819,602
+
+X
+
+- DefinitionBase management fees.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_BaseManagementFees
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee related compensation
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedCompensation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee related earnings.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedEarnings
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee related performance revenues.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedPerformanceRevenues
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement and advisory fees net.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ManagementAndAdvisoryFeesNet
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement Fee Offsets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ManagementFeeOffsets
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOther operating expenses.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_OtherOperatingExpenses
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance revenue realized.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PerformanceRevenueRealized
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized income net.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedIncomeNet
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized performance compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPerformanceCompensation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized principal investment income (loss).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPrincipalInvestmentIncomeLoss
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSegment assets.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_SegmentAssets
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionSegment distributable earnings.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_SegmentDistributableEarnings
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTransaction advisory and other fees, net.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_TransactionAdvisoryAndOtherFeesNet
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_RealEstateSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_PrivateEquitySegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_CreditAndInsuranceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=bx_MultiAssetsInvestingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

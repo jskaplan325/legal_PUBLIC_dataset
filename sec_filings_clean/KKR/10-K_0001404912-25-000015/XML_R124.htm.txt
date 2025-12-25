@@ -1,0 +1,570 @@
+XML
+146
+R124.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+REINSURANCE - Effects of Reinsurance on Statements of Operations (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Net Premiums:
+
+Direct
+$ 642,803
+
+$ 118,535
+
+$ 111,602
+
+Assumed
+11,915,597
+
+4,138,758
+
+2,413,234
+
+Ceded
+(4,659,566)
+
+(2,281,618)
+
+(1,342,375)
+
+Net Premiums
+7,898,834
+
+1,975,675
+
+1,182,461
+
+Policy Fees:
+
+Direct
+917,684
+
+912,931
+
+950,702
+
+Assumed
+1,111,998
+
+442,085
+
+328,528
+
+Ceded
+(651,996)
+
+(94,767)
+
+(17,509)
+
+Net Policy Fees
+1,377,686
+
+1,260,249
+
+1,261,721
+
+Net Policy Benefits and Claims:
+
+Direct
+4,047,792
+
+3,406,055
+
+812,961
+
+Assumed
+15,949,420
+
+5,922,927
+
+3,255,354
+
+Ceded
+(6,703,930)
+
+(2,966,725)
+
+(1,710,077)
+
+Net Policy Benefits and Claims
+$ 13,293,282
+
+$ 6,362,257
+
+$ 2,358,238
+
+X
+
+- DefinitionPolicyholder Fees
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderFees
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicyholder Fees
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderFeesAbstract
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicyholder Fees, Assumed
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderFeesAssumed
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicyholder Fees, Ceded
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderFeesCeded
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicyholder Fees, Direct
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderFeesDirect
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of written premiums assumed from other entities.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
++ Details
+
+ Name:
+us-gaap_AssumedPremiumsWritten
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BenefitsLossesAndExpensesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of written premiums ceded to other entities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
++ Details
+
+ Name:
+us-gaap_CededPremiumsWritten
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before premiums ceded to other entities and premiums assumed by the entity, of premiums written.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
++ Details
+
+ Name:
+us-gaap_DirectPremiumsWritten
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before effect of policies assumed or ceded, of expense related to provision for policy benefits and costs incurred.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_PolicyholderBenefitsAndClaimsIncurredGross
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after effects of policies assumed or ceded, of expense related to the provision for policy benefits and costs incurred.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_PolicyholderBenefitsAndClaimsIncurredNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PolicyholderBenefitsAndClaimsIncurredNetAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after premiums ceded to other entities and premiums assumed by the entity, of premiums earned.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-17(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477965/944-235-S99-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(13)(c))
+ -SubTopic 220
+ -Topic 942
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(1))
+ -SubTopic 220
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_PremiumsEarnedNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of policy benefits and costs incurred for policies assumed.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceEffectOnClaimsAndBenefitsIncurredAmountAssumed
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of reduction of provision for policy benefits and costs incurred for policies ceded.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-3
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceEffectOnClaimsAndBenefitsIncurredAmountCeded
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration

@@ -1,0 +1,539 @@
+XML
+120
+R48.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+GOODWILL AND INTANGIBLE ASSETS - Schedule of Goodwill (Details) - USD ($)
+ $ in Thousands
+
+3 Months Ended
+12 Months Ended
+
+Mar. 31, 2023
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Goodwill [Roll Forward]
+
+Goodwill, beginning balance
+$ 999,656
+
+$ 1,123,976
+
+$ 999,656
+
+Acquisitions
+
+39,696
+
+124,414
+
+Reallocation
+
+0
+
+0
+
+Foreign currency translation
+
+(1,036)
+
+(94)
+
+Goodwill, ending balance
+
+1,162,636
+
+1,123,976
+
+Credit Group
+
+Goodwill [Roll Forward]
+
+Goodwill, beginning balance
+32,196
+
+256,679
+
+32,196
+
+Acquisitions
+
+0
+
+0
+
+Reallocation
+224,600
+
+55,658
+
+224,587
+
+Foreign currency translation
+
+(305)
+
+(104)
+
+Goodwill, ending balance
+
+312,032
+
+256,679
+
+Real Assets Group
+
+Goodwill [Roll Forward]
+
+Goodwill, beginning balance
+277,183
+
+277,205
+
+277,183
+
+Acquisitions
+
+35,091
+
+22
+
+Reallocation
+
+0
+
+0
+
+Foreign currency translation
+
+(727)
+
+0
+
+Goodwill, ending balance
+
+311,569
+
+277,205
+
+Private Equity Group
+
+Goodwill [Roll Forward]
+
+Goodwill, beginning balance
+48,070
+
+172,462
+
+48,070
+
+Acquisitions
+
+4,605
+
+124,392
+
+Reallocation
+
+(55,658)
+
+0
+
+Foreign currency translation
+
+(1)
+
+0
+
+Goodwill, ending balance
+
+121,408
+
+172,462
+
+Secondaries Group
+
+Goodwill [Roll Forward]
+
+Goodwill, beginning balance
+417,620
+
+417,630
+
+417,620
+
+Acquisitions
+
+0
+
+0
+
+Reallocation
+
+0
+
+0
+
+Foreign currency translation
+
+(3)
+
+10
+
+Goodwill, ending balance
+
+417,627
+
+417,630
+
+Other
+
+Goodwill [Roll Forward]
+
+Goodwill, beginning balance
+$ 224,587
+
+0
+
+224,587
+
+Acquisitions
+
+0
+
+0
+
+Reallocation
+
+0
+
+(224,587)
+
+Foreign currency translation
+
+0
+
+0
+
+Goodwill, ending balance
+
+$ 0
+
+$ 0
+
+X
+
+- DefinitionAmount, after accumulated impairment loss, of asset representing future economic benefit arising from other asset acquired in business combination or from joint venture formation or both, that is not individually identified and separately recognized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 852
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481372/852-10-55-10
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482598/350-20-45-1
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(10)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_Goodwill
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of increase in asset representing future economic benefits arising from other assets acquired in a business combination that are not individually identified and separately recognized resulting from a business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
++ Details
+
+ Name:
+us-gaap_GoodwillAcquiredDuringPeriod
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of foreign currency translation gain (loss) which increases (decreases) asset representing future economic benefit from other asset acquired in business combination or from joint venture formation or both, that is not individually identified and separately recognized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
++ Details
+
+ Name:
+us-gaap_GoodwillForeignCurrencyTranslationGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_GoodwillRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) from transfer into (out of) asset representing future economic benefit arising from other asset acquired in business combination or from joint venture formation or both, that is not individually identified and separately recognized.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
++ Details
+
+ Name:
+us-gaap_GoodwillTransfers
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_CreditGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_RealAssetsGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_PrivateEquityGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=ares_SecondariesGroupMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=us-gaap_AllOtherSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,261 @@
+XML
+72
+R50.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Schedule of Net Investment Gains (Losses)
+Net investment-related gains (losses) were as follows:
+
+ Years Ended December 31,
+ 2024 2023 2022
+Realized Gains (Losses) on Available-for-Sale Fixed Maturity Securities $ (567,985) $ (64,140) $ (559,987)
+Credit Loss Allowances on Available-for-Sale Securities (115,367) (168,899) (57,411)
+Credit Loss Allowances on Mortgage and Other Loan Receivables (305,770) (210,704) (369,296)
+Credit Loss Allowances on Unfunded Commitments 30,639 6,321 (34,112)
+Impairment of Available-for-Sale Fixed Maturity Securities Due to Intent to Sell (26,741)
+Unrealized Gains (Losses) on Fixed Maturity Securities Classified as Trading (735,209) 1,031,227 (2,603,874)
+Unrealized Gains (Losses) on Other Investments Recognized under the Fair-Value Option and Equity Investments 9,560 (23,540) (60,388)
+
+Unrealized Gains (Losses) on Real Assets (167,873) (202,671) 77,755
+Realized Gains (Losses) on Real Assets 11,418 71,158 (150,288)
+Net Gains (Losses) on Derivative Instruments 419,927 (680,717) 2,346,747
+Realized Gains (Losses) on Funds Withheld at Interest Payable Portfolio 126,422 25,427 38,074
+Realized Gains (Losses) on Funds Withheld at Interest Receivable Portfolio (62,493) (9,193) (3,176)
+
+Other Realized Gains (Losses) (66,355) 17,210 57,466
+Net Investment-Related Gains (Losses) $ (1,423,086) $ (235,262) $ (1,318,490)
+
+Schedule of Roll-forward of the Allowance for Credit Losses for Fixed Maturity Securities
+The table below presents a roll-forward of the allowance for credit losses recognized for fixed maturity securities held by Global Atlantic:
+
+ Year Ended December 31, 2024 Year Ended December 31, 2023
+ Corporate Structured Total Corporate Structured Total
+Balance, as of Beginning of Period $ 49,008 $ 219,704 $ 268,712 $ 1,298 $ 127,034 $ 128,332
+Initial Credit Loss Allowance Recognized on Securities with No Previously Recognized Allowance 106,038 2,805 108,843 68,166 75,623 143,789
+
+Accretion of Initial Credit Loss Allowance on PCD Securities 611 611 1,191 1,191
+Reductions due to Sales (or Maturities, Pay Downs or Prepayments) During the Period of Securities with a Previously Recognized Credit Loss Allowance (1,089) (19,377) (20,466) (2,843) (13,220) (16,063)
+
+Net Additions / Reductions for Securities with a Previously Recognized Credit Loss Allowance 22,184 (15,660) 6,524 (3,966) 29,076 25,110
+Balances Charged Off (76,525) (12,377) (88,902) (13,647) (13,647)
+
+Balance, as of End of Period $ 99,616 $ 175,706 $ 275,322 $ 49,008 $ 219,704 $ 268,712
+
+ Year Ended December 31, 2022
+ Corporate Structured Total
+Balance, as of Beginning of Period $ 3,238 $ 84,895 $ 88,133
+Initial Credit Loss Allowance Recognized on Securities with No Previously Recognized Allowance 791 68,943 69,734
+Initial Credit Loss Allowance Recognized on Purchased Credit Deteriorated ("PCD") Securities 707 707
+Accretion of Initial Credit Loss Allowance on PCD Securities 1,847 1,847
+Reductions due to Sales (or Maturities, Pay Downs or Prepayments) During the Period of Securities with a Previously Recognized Credit Loss Allowance (11,925) (11,925)
+
+Net Additions / Reductions for Securities with a Previously Recognized Credit Loss Allowance 5,110 (17,433) (12,323)
+Balances Charged Off (7,841) (7,841)
+
+Balance, as of End of Period $ 1,298 $ 127,034 $ 128,332
+
+Schedule of Changes in the Allowance for Credit Losses for Mortgages and Other Loan Receivables
+Changes in the allowance for credit losses on mortgage and other loan receivables held by Global Atlantic are summarized below:
+
+ Year Ended December 31, 2024 Year Ended December 31, 2023
+ Commercial Mortgage Loans Residential Mortgage Loans Consumer and Other Loan Receivables Total Commercial Mortgage Loans Residential Mortgage Loans Consumer and Other Loan Receivables Total
+Balance, as of Beginning of Period $ 319,631 $ 107,204 $ 175,608 $ 602,443 $ 227,315 $ 125,825 $ 207,088 $ 560,228
+Net Provision (Release) 164,254 5,157 136,359 305,770 113,932 (10,445) 107,217 210,704
+
+Charge-offs (163,478) (5,116) (153,984) (322,578) (21,616) (8,176) (160,465) (190,257)
+Recoveries of Amounts Previously Charged-off 5,650 23,123 28,773 21,768 21,768
+Balance, as of End of Period $ 326,057 $ 107,245 $ 181,106 $ 614,408 $ 319,631 $ 107,204 $ 175,608 $ 602,443
+
+ Year Ended December 31, 2022
+ Commercial Mortgage Loans Residential Mortgage Loans Consumer and Other Loan Receivables Total
+Balance, as of Beginning of Period $ 65,970 $ 72,082 $ 236,025 $ 374,077
+Net Provision (Release) 161,345 74,798 133,153 369,296
+
+Charge-offs(1)
+ (21,055) (162,090) (183,145)
+
+Balance, as of End of Period $ 227,315 $ 125,825 $ 207,088 $ 560,228
+
+(1)Consumer and other loan receivables included $12.8 million of recoveries for the year ended December 31, 2022.
+
+Schedule of Proceeds from Voluntary Sales and Gross Gains and Losses for AFS Fixed Maturity Securities
+The proceeds from voluntary sales and the gross gains and losses on those sales of available-for-sale ("AFS") fixed maturity securities were as follows:
+
+ Years Ended December 31,
+ 2024 2023 2022
+AFS Fixed Maturity Securities:
+Proceeds from Voluntary Sales $ 19,370,239 $ 6,687,271 $ 12,050,106
+Gross Gains $ 112,264 $ 62,452 $ 21,567
+Gross Losses $ (643,899) $ (120,799) $ (569,706)
+
+X
+
+- DefinitionTabular disclosure of allowance for credit loss on financing receivable.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 11B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-11B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_AllowanceForCreditLossesOnFinancingReceivablesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLossTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of realized and unrealized gain (loss) on investment in security.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_GainLossOnInvestmentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the proceeds from sales of available-for-sale securities and the gross realized gains and gross realized losses that have been included in earnings as a result of those sales.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfRealizedGainLossTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

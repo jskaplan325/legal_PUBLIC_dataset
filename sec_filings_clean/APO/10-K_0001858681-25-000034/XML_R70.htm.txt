@@ -1,0 +1,158 @@
+XML
+100
+R70.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Unrealized Losses on AFS Securities Including Related Parties (Details)
+
+Dec. 31, 2024
+
+position
+
+Debt Securities, Available-for-sale, Unrealized Loss Position [Line Items]
+
+Unrealized Loss Position
+7,745
+
+Unrealized Loss Position 12 Months or More
+6,087
+
+Related Party
+
+Debt Securities, Available-for-sale, Unrealized Loss Position [Line Items]
+
+Unrealized Loss Position
+143
+
+Unrealized Loss Position 12 Months or More
+59
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479081/326-30-55-8
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-4
+
++ Details
+
+ Name:
+us-gaap_AvailableForSaleSecuritiesContinuousUnrealizedLossPositionFairValueAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNumber of investments in debt securities measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in continuous unrealized loss position for 12 months or longer, without an allowance for credit loss. Includes beneficial interest in securitized financial asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-4
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleContinuousUnrealizedLossPosition12MonthsOrLongerNumberOfPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNumber of investments in debt securities measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), in unrealized loss position, without allowance for credit loss. Includes beneficial interest in securitized financial asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-4
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleUnrealizedLossPositionNumberOfPositions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=us-gaap_RelatedPartyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

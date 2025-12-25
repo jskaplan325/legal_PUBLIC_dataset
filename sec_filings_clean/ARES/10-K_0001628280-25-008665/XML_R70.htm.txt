@@ -1,0 +1,137 @@
+XML
+142
+R70.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+COMMITMENTS AND CONTINGENCIES - Schedule of Supplemental information on the measurement of operating lease liabilities (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Supplemental information on the measurement of operating lease liabilities
+
+Operating cash flows for operating leases
+$ 55,439
+
+$ 45,103
+
+$ 46,558
+
+Leased assets obtained in exchange for new operating lease liabilities
+$ 308,377
+
+$ 168,876
+
+$ 43,331
+
+X
+
+- DefinitionCash Flow, Lessee [Abstract]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_CashFlowLesseeAbstract
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cash outflow from operating lease, excluding payments to bring another asset to condition and location necessary for its intended use.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479041/842-20-45-5
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_OperatingLeasePayments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in right-of-use asset obtained in exchange for operating lease liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 53
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479589/842-20-55-53
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (g)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration

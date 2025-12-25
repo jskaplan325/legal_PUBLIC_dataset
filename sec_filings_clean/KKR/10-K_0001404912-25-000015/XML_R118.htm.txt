@@ -1,0 +1,755 @@
+XML
+140
+R118.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Estimated Future Amortization of VOBA (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Dec. 31, 2021
+
+VOBA
+
+2025
+$ 84,071
+
+2026
+78,852
+
+2027
+73,940
+
+2028
+69,456
+
+2029
+65,376
+
+Thereafter
+793,498
+
+Total
+1,165,193
+
+$ 1,252,984
+
+$ 1,316,529
+
+$ 1,417,968
+
+Negative VOBA
+
+2025
+(86,456)
+
+2026
+(70,146)
+
+2027
+(59,329)
+
+2028
+(51,274)
+
+2029
+(45,433)
+
+Thereafter
+(453,670)
+
+Total
+(766,308)
+
+Total, net
+
+2025
+(2,385)
+
+2026
+8,706
+
+2027
+14,611
+
+2028
+18,182
+
+2029
+19,943
+
+Thereafter
+339,828
+
+Total
+$ 398,885
+
+X
+
+- DefinitionPresent Value Of Future Insurance Losses
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceLosses
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value of Future Insurance Losses, Expected Amortization
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceLossesExpectedAmortizationAbstract
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPresent Value Of Future Insurance Losses, Expected Amortization, After Year Five
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceLossesExpectedAmortizationAfterYearFive
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Losses, Expected Amortization, Year Five
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceLossesExpectedAmortizationYearFive
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Losses, Expected Amortization, Year Four
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceLossesExpectedAmortizationYearFour
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Losses, Expected Amortization, Year One
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceLossesExpectedAmortizationYearOne
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Losses, Expected Amortization, Year Three
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceLossesExpectedAmortizationYearThree
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Losses, Expected Amortization, Year Two
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceLossesExpectedAmortizationYearTwo
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value of Future Insurance Profits, Expected Amortization, After Year Five
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsExpectedAmortizationAfterYearFive
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits (Losses)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLosses
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits (Losses), Expected Amortization
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLossesExpectedAmortizationAbstract
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits (Losses), Expected Amortization, After Year Five
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLossesExpectedAmortizationAfterYearFive
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits (Losses), Expected Amortization, Year Five
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLossesExpectedAmortizationYearFive
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits (Losses), Expected Amortization, Year Four
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLossesExpectedAmortizationYearFour
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits (Losses), Expected Amortization, Year One
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLossesExpectedAmortizationYearOne
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits (Losses), Expected Amortization, Year Three
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLossesExpectedAmortizationYearThree
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits (Losses), Expected Amortization, Year Two
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLossesExpectedAmortizationYearTwo
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ExpectedAmortizationExpenseOfEndingPresentValueOfFutureInsuranceProfitsNetOfInterestAccruedAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of amortization for present value of future profits of insurance contract acquired in business combination expected to be recognized during fifth fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 805
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsAmortizationExpenseYearFive
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of amortization for present value of future profits of insurance contract acquired in business combination expected to be recognized during fourth fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 805
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsAmortizationExpenseYearFour
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of amortization for present value of future profits of insurance contract acquired in business combination expected to be recognized during next fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 805
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsAmortizationExpenseYearOne
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of amortization for present value of future profits of insurance contract acquired in business combination expected to be recognized during third fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 805
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsAmortizationExpenseYearThree
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of amortization for present value of future profits of insurance contract acquired in business combination expected to be recognized during second fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 805
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482665/350-30-50-2
+
++ Details
+
+ Name:
+us-gaap_PresentValueOfFutureInsuranceProfitsAmortizationExpenseYearTwo
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after accumulated amortization, of present value of future profits of insurance contract acquired in business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479735/944-20-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479432/944-30-50-2B
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(10))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_ValueOfBusinessAcquiredVOBA
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant

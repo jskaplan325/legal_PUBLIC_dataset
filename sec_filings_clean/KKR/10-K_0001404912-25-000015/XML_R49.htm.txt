@@ -1,0 +1,127 @@
+XML
+71
+R49.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET INVESTMENT INCOME - INSURANCE (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Investments, All Other Investments [Abstract]
+
+Schedule of Net Investment Income
+The components of net investment income were as follows:
+
+ Years Ended December 31,
+ 2024 2023 2022
+Fixed Maturity Securities $ 5,597,124 $ 4,450,917 $ 3,257,226
+Mortgage and Other Loan Receivables 2,681,876 1,958,875 1,572,308
+
+Real Assets 815,612 625,707 608,074
+Short-Term and Other Investment Income 513,276 309,861 116,884
+Income Assumed from Funds Withheld Receivable at Interest 81,335 94,658 91,608
+Policy Loans 84,320 37,460 31,433
+
+Income Ceded to Funds Withheld Payable at Interest (2,391,926) (1,363,704) (954,763)
+Total Investment Income 7,381,617 6,113,774 4,722,770
+Less Investment Expenses:
+Investment Management and Administration 498,733 352,042 364,609
+Real Asset Depreciation and Maintenance 204,934 198,385 215,672
+Interest Expense on Derivative Collateral and Repurchase Agreements 103,342 48,445 24,243
+Net Investment Income $ 6,574,608 $ 5,514,902 $ 4,118,246
+
+X
+
+- DefinitionTabular disclosure of investment income, including, but not limited to, interest and dividend income and amortization of discount (premium) derived from debt and equity securities. Excludes realized and unrealized gain (loss) on investments.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(8))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_InvestmentIncomeTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InvestmentsAllOtherInvestmentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

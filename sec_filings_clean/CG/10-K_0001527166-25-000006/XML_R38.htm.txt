@@ -1,0 +1,180 @@
+XML
+61
+R38.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Commitments and Contingencies (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Commitments and Contingencies Disclosure [Abstract]
+
+Lease cost, cash flows and other supplemental information related to operating leases
+The following table summarizes the Company s lease cost, cash flows and other supplemental information related to its operating leases (Dollars in millions):
+
+ Year Ended December 31,
+
+ 2024
+
+ 2023
+
+Operating lease cost
+
+ $61.3
+
+ $58.5
+
+Sublease income
+
+ (4.6)
+
+ (5.9)
+
+ Total operating lease cost
+
+ $56.7
+
+ $52.6
+
+Cash paid for amounts included in the measurement of operating lease liabilities
+
+ $69.1
+
+ $68.3
+
+Weighted-average remaining lease term
+
+ 9.8
+
+ 10.4
+
+Weighted-average discount rate
+
+ 4.4%
+
+ 4.3%
+
+Maturities of operating lease liabilities
+Maturities of lease liabilities related to operating leases were as follows (Dollars in millions):
+Year ending December 31,
+
+2025
+
+ $70.7
+
+2026
+
+ 68.1
+
+2027
+
+ 68.4
+
+2028
+
+ 67.7
+
+2029
+
+ 67.6
+
+Thereafter
+
+ 249.6
+
+Total lease payments
+
+ $592.1
+
+Less imputed interest
+
+ (103.5)
+
+Total lease liabilities
+
+ $488.6
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CommitmentsAndContingenciesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of lessee's lease cost. Includes, but is not limited to, interest expense for finance lease, amortization of right-of-use asset for finance lease, operating lease cost, short-term lease cost, variable lease cost and sublease income.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-4
+
++ Details
+
+ Name:
+us-gaap_LeaseCostTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of undiscounted cash flows of lessee's operating lease liability. Includes, but is not limited to, reconciliation of undiscounted cash flows to operating lease liability recognized in statement of financial position.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityMaturityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

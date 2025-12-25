@@ -1,0 +1,495 @@
+XML
+85
+R13.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+FAIR VALUE
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Fair Value Disclosures [Abstract]
+
+FAIR VALUE
+5. FAIR VALUE
+Financial Instrument Valuations
+The valuation techniques used by the Company to measure fair value maximize the use of observable inputs and minimize the use of unobservable inputs. The valuation techniques applied to investments held by the Company and by the Consolidated Funds vary depending on the nature of the investment.
+CLOs and CLO loan obligations: The fair value of CLOs held by the Company are estimated based on either a third-party pricing service or broker quote and are classified as Level III. The Company measures its CLO loan obligations of the Consolidated Funds by first determining whether the fair values of the financial assets or financial liabilities of its Consolidated CLOs are more observable.
+Contingent consideration: The Company generally determines the fair value of its contingent consideration liabilities by using a probability weighted expected return method, including the Monte Carlo simulation model. These models consider a range of assumptions including historical experience, prior period performance, current progress towards targets, probability-weighted scenarios, and management s own assumptions. The discount rate used is determined based on the weighted average cost of capital for the Company. Once the associated targets are achieved, the contingent consideration is reported at the
+settlement amount. The fair value of the Company s contingent consideration liabilities are classified as Level III. Liabilities recorded in connection with the Company s contingent consideration are included within accounts payable, accrued expenses and other liabilities in the Consolidated Statements of Financial Condition and the associated changes in fair value are included within other income, net in the Consolidated Statements of Operations.
+Corporate debt, bonds, bank loans, securitization vehicles and derivative instruments: The fair value of corporate debt, bonds, bank loans, securitization vehicles and derivative instruments is estimated based on quoted market prices, dealer quotations or alternative pricing sources supported by observable inputs. These investments are generally classified as Level II. The Company obtains prices from independent pricing services that generally utilize broker quotes and may use various other pricing techniques, which take into account appropriate factors such as yield, quality, coupon rate, maturity, type of issue, trading characteristics and other data. If management is only able to obtain a single broker quote, or utilizes a pricing model, such securities will generally be classified as Level III.
+Equity and equity-related securities: Securities traded on a national securities exchange are stated at the last reported sales price on the day of valuation. To the extent these securities are actively traded and valuation adjustments are not applied, they are classified as Level I. Securities that trade in markets that are not considered to be active but are valued based on quoted market prices, dealer quotations or alternative pricing sources supported by observable inputs obtained by the Company from independent pricing services are classified as Level II. Securities that have market prices that are not readily available, utilize valuation models of third-party pricing service or internal models using unobservable inputs to determine the fair value are classified as Level III.
+Money market funds and U.S. treasury securities: The fair value of money market funds that invest in treasury-backed securities and U.S. treasury securities is estimated using quoted market prices in active markets. These investments are classified as Level I.
+Partnership interests: The Company generally values its investments using the NAV per share equivalent calculated by the investment manager as a practical expedient to determining an independent fair value or estimates based on various valuation models of third-party pricing services, as well as internal models. The Company does not categorize within the fair value hierarchy investments where fair value is measured using the net asset value per share practical expedient.
+In limited circumstances, the Company may determine, based on its own due diligence and investment procedures, that NAV per share does not represent fair value. In such circumstances, the Company will estimate the fair value in good faith and in a manner that it reasonably chooses. As of December 31, 2024 and 2023, NAV per share represents the fair value of the Company s investments in partnership interests.
+
+The substantial majority of the Company s private commingled funds are closed-ended, and accordingly, do not permit investors to redeem their interests other than in limited circumstances that are beyond the control of the Company, such as instances in which retaining the interest could cause the investor to violate a law, regulation or rule. The Company also has open-ended and evergreen funds where investors have the right to withdraw their capital, subject to the terms of the respective constituent documents, over periods generally ranging from one month to three years. In addition, the Company has minority investments in vehicles that may only have a single other investor that may allow such investors to terminate the fund pursuant to the terms of the applicable constituent documents of such vehicle.
+Fair Value of Financial Instruments Held by the Company and Consolidated Funds
+The following tables summarize the financial assets and financial liabilities measured at fair value for the Company and the Consolidated Funds as of December 31, 2024:
+
+Financial Instruments of the Company Level I Level II Level III Investments Measured at NAV Total
+Assets, at fair value
+
+Cash equivalents:
+
+Money market funds $ 1,071,071 $ $ $ $ 1,071,071
+Investments:
+
+Common stock and other equity securities 104,037 411,179 515,216
+Collateralized loan obligations and fixed income securities
+ 41,833 41,833
+Partnership interests 238 238
+Total investments, at fair value 104,037 453,012 238 557,287
+Derivatives-foreign currency forward contracts 3,737 3,737
+Total assets, at fair value $ 1,071,071 $ 107,774 $ 453,012 $ 238 $ 1,632,095
+Liabilities, at fair value
+Derivatives-foreign currency forward contracts $ $ (216) $ $ $ (216)
+Contingent consideration (17,550) (17,550)
+Total liabilities, at fair value $ $ (216) $ (17,550) $ $ (17,766)
+
+Financial Instruments of the Consolidated Funds Level I Level II Level III Investments Measured at NAV Total
+Assets, at fair value
+Investments:
+Fixed income investments:
+Loans and securitization vehicles $ $ 7,313,632 $ 593,817 $ $ 7,907,449
+U.S. treasury securities 550,800 550,800
+Bonds 418,069 418,069
+
+Total fixed income investments 550,800 7,731,701 593,817 8,876,318
+Partnership interests 2,000,380 2,000,380
+Equity securities 28,603 2,615 1,829,928 1,861,146
+Total investments, at fair value 579,403 7,734,316 2,423,745 2,000,380 12,737,844
+
+Derivatives-foreign currency forward contracts 2,995 2,995
+
+Total assets, at fair value $ 579,403 $ 7,737,311 $ 2,423,745 $ 2,000,380 $ 12,740,839
+Liabilities, at fair value
+Loan obligations of CLOs $ $ (9,672,189) $ $ $ (9,672,189)
+Derivatives:
+
+Foreign currency forward contracts (2,888) (2,888)
+Asset swaps (1,846) (1,846)
+
+Total derivative liabilities, at fair value (2,888) (1,846) (4,734)
+Total liabilities, at fair value $ $ (9,675,077) $ (1,846) $ $ (9,676,923)
+
+The following tables summarize the financial assets and financial liabilities measured at fair value for the Company and the Consolidated Funds as of December 31, 2023:
+
+Financial Instruments of the Company Level I Level II Level III Investments Measured at NAV Total
+Assets, at fair value
+
+Investments:
+
+Common stock and other equity securities $ $ 86,572 $ 412,491 $ $ 499,063
+Collateralized loan obligations and fixed income securities
+ 126,294 126,294
+Partnership interests 6,287 6,287
+Total investments, at fair value 86,572 538,785 6,287 631,644
+Derivatives-foreign currency forward contracts 1,129 1,129
+Total assets, at fair value $ $ 87,701 $ 538,785 $ 6,287 $ 632,773
+Liabilities, at fair value
+Derivatives-foreign currency forward contracts $ $ (2,645) $ $ $ (2,645)
+
+Total liabilities, at fair value $ $ (2,645) $ $ $ (2,645)
+
+Financial Instruments of the Consolidated Funds Level I Level II Level III Investments Measured at NAV Total
+Assets, at fair value
+Investments:
+Fixed income investments:
+Loans and securitization vehicles $ $ 9,879,915 $ 736,543 $ $ 10,616,458
+Bonds 575,379 3,570 578,949
+U.S. treasury securities 523,038 523,038
+Total fixed income investments 523,038 10,455,294 740,113 11,718,445
+Partnership interests 1,642,489 1,642,489
+Equity securities 47,503 2,750 1,190,400 1,240,653
+Total investments, at fair value 570,541 10,458,044 1,930,513 1,642,489 14,601,587
+
+Derivatives-foreign currency forward contracts 9,126 9,126
+
+Total assets, at fair value $ 570,541 $ 10,467,170 $ 1,930,513 $ 1,642,489 $ 14,610,713
+Liabilities, at fair value
+Loan obligations of CLOs $ $ (12,345,657) $ $ $ (12,345,657)
+Derivatives:
+
+Foreign currency forward contracts (9,491) (9,491)
+Asset swaps (1,291) (1,291)
+Total derivative liabilities, at fair value (9,491) (1,291) (10,782)
+Total liabilities, at fair value $ $ (12,355,148) $ (1,291) $ $ (12,356,439)
+
+The following tables set forth a summary of changes in the fair value of the Level III measurements:
+
+Level III Assets of the Company Equity Securities Fixed Income Contingent Consideration Total
+Balance as of December 31, 2023
+ $ 412,491 $ 126,294 $ $ 538,785
+
+Established in connection with acquisition (see Note 8)
+ (17,550) (17,550)
+Transfer in(1)
+ 39,636 39,636
+Transfer out(1)
+ (872) (872)
+Purchases(2)
+ 1,453 436,649 438,102
+Sales/settlements(3)
+ (2,382) (561,492) (563,874)
+
+Realized and unrealized appreciation, net 489 746 1,235
+Balance as of December 31, 2024
+ $ 411,179 $ 41,833 $ (17,550) $ 435,462
+Change in net unrealized appreciation/depreciation included in earnings related to financial assets still held at the reporting date $ (904) $ 2,172 $ $ 1,268
+
+Level III Net Assets of Consolidated Funds Equity Securities Fixed Income Derivatives, Net Total
+Balance as of December 31, 2023 $ 1,190,400 $ 740,113 $ (1,291) $ 1,929,222
+
+Transfer in(1)
+ 87,505 87,505
+Transfer out(1)
+ (1,017) (154,961) (155,978)
+Purchases(2)
+ 518,369 877,311 130 1,395,810
+Sales/settlements(3)
+ (114) (960,839) (960,953)
+
+Realized and unrealized appreciation (depreciation), net 122,289 4,688 (685) 126,292
+Balance as of December 31, 2024 $ 1,829,927 $ 593,817 $ (1,846) $ 2,421,898
+Change in net unrealized appreciation/depreciation included in earnings related to financial assets and liabilities still held at the reporting date $ 123,659 $ 2,237 $ (744) $ 125,152
+
+(1)Transfers in and out include changes in the observability of inputs used in valuations, and changes due to the consolidation and deconsolidation of funds.
+(2)Purchases include paid-in-kind interest and securities received in connection with restructurings.
+(3)Sales/settlements include distributions, principal redemptions and securities disposed of in connection with restructurings.
+
+Level III Assets of the Company Equity Securities Fixed Income Total
+Balance as of December 31, 2022
+ $ 121,785 $ 76,934 $ 198,719
+
+Purchases(1)
+ 244,335 88,480 332,815
+Sales/settlements(2)
+ (2) (37,332) (37,334)
+
+Realized and unrealized appreciation (depreciation), net 46,373 (1,788) 44,585
+Balance as of December 31, 2023
+ $ 412,491 $ 126,294 $ 538,785
+Change in net unrealized appreciation/depreciation included in earnings related to financial assets still held at the reporting date $ 46,161 $ (1,577) $ 44,584
+
+Level III Net Assets of Consolidated Funds Equity Securities Fixed Income Partnership Interests Derivatives, Net Total
+Balance as of December 31, 2022 $ 730,880 $ 869,668 $ 368,655 $ (3,556) $ 1,965,647
+
+Transfer in(3)
+ 247,661 247,661
+Transfer out(3)
+ (38,757) (508,600) (374,049) (921,406)
+Purchases(1)
+ 347,583 813,564 49,000 1,210,147
+Sales/settlements(2)
+ (2,595) (700,944) (48,889) (154) (752,582)
+
+Realized and unrealized appreciation, net 153,289 18,764 5,283 2,419 179,755
+Balance as of December 31, 2023 $ 1,190,400 $ 740,113 $ $ (1,291) $ 1,929,222
+Change in net unrealized appreciation/depreciation included in earnings related to financial assets and liabilities still held at the reporting date $ 152,336 $ (15,623) $ $ 1,590 $ 138,303
+
+(1)Purchases include paid-in-kind interest and securities received in connection with restructurings.
+(2)Sales/settlements include distributions, principal redemptions and securities disposed of in connection with restructurings.
+(3)Transfers in and out include changes in the observability of inputs used in valuations, and changes due to the consolidation and deconsolidation of funds.
+
+Transfers out of Level III were generally attributable to certain investments that experienced a more significant level of market activity during the period and thus were valued using observable inputs either from independent pricing services or multiple brokers. Transfers into Level III were generally attributable to certain investments that experienced a less significant level of market activity during the period and thus were only able to obtain one or fewer quotes from a broker or independent pricing service.
+The following tables summarize the quantitative inputs and assumptions used for the Company s and the Consolidated Funds Level III measurements as of December 31, 2024:
+
+Level III Measurements of the Company Fair Value Valuation Technique(s) Significant Unobservable Input(s) Range Weighted Average
+Assets
+Equity securities
+ $ 168,387 Transaction price(1)
+ N/A N/A N/A
+ 100,000 Market approach Yield 8.0%
+ 8.0%
+
+ 57,659 Market approach Multiple of book value 1.0x - 1.1x
+ 1.0x
+
+ Discounted cash flow Discount rate 10.0% - 14.0%
+ 12.0%
+
+ 56,918 Market approach Multiple of book value 1.2x - 1.7x
+ 1.4x
+
+ 19,205 Option pricing model Volatility 35.0% 35.0%
+ 8,489 Market approach Earnings multiple
+ 15.4x
+ 15.4x
+
+ 521 Discounted cash flow Discount rate 18.5% - 21.5%
+ 20.0%
+Fixed income investments
+ 22,283 Transaction price(1)
+ N/A N/A
+ N/A
+ 19,040 Broker quotes and/or 3rd party pricing services N/A N/A N/A
+ 510 Other N/A N/A N/A
+Total assets $ 453,012
+Liabilities
+Contingent consideration $ (17,550) Monte Carlo simulation Discount rate 6.6% - 6.9%
+ 6.8%
+ Volatility 11.1% 11.1%
+Total liabilities $ (17,550)
+
+Level III Measurements of the Consolidated Funds Fair Value Valuation Technique(s) Significant Unobservable Input(s) Range Weighted Average
+Assets
+Equity securities
+ $ 985,109 Discounted cash flow Discount rate 10.0% - 20.0%
+ 13.0%
+ 835,432 Market approach Multiple of book value 1.0x - 1.7x
+ 1.4x
+
+ 8,598 Market approach EBITDA multiple(2)
+ 5.6x - 34.6x
+ 10.7x
+
+ 789 Other N/A N/A N/A
+
+Fixed income investments
+ 308,675 Broker quotes and/or 3rd party pricing services N/A N/A N/A
+ 284,950 Market approach Yield 7.4% - 28.6%
+ 9.9%
+
+ 192 Other N/A N/A N/A
+
+Total assets $ 2,423,745
+Liabilities
+Derivative instruments $ (1,846) Broker quotes and/or 3rd party pricing services N/A N/A N/A
+Total liabilities $ (1,846)
+
+(1)Transaction price consists of securities purchased or restructured. The Company determined that there was no change to the valuation based on the underlying assumptions used at the closing of such transactions.
+(2) EBITDA in the table above is a non-GAAP financial measure and refers to earnings before interest, tax, depreciation and amortization.
+
+The following tables summarize the quantitative inputs and assumptions used for the Company s and the Consolidated Funds Level III measurements as of December 31, 2023:
+
+Level III Measurements of the Company Fair Value Valuation Technique(s) Significant Unobservable Input(s) Range Weighted Average
+Assets
+Equity securities
+ $ 154,460 Discounted cash flow Discount rate 20.0% - 30.0%
+ 25.0%
+ 118,846 Market approach Multiple of book value 1.3x - 1.6x
+ 1.5x
+
+ 131,864 Transaction price(1)
+ N/A N/A N/A
+ 6,447 Market approach Earnings multiple 15.4x
+ 15.4x
+
+ 874 Other N/A N/A N/A
+
+Fixed income investments
+ 83,000 Transaction price(1)
+ N/A N/A N/A
+ 20,799 Broker quotes and/or 3rd party pricing services N/A N/A N/A
+ 22,495 Other N/A N/A N/A
+Total assets $ 538,785
+
+Level III Measurements of the Consolidated Funds Fair Value Valuation Technique(s) Significant Unobservable Input(s) Range Weighted Average
+Assets
+Equity securities
+ $ 648,581 Discounted cash flow Discount rate 10.0% - 16.0%
+ 13.0%
+
+ 537,733 Market approach Multiple of book value 1.0x - 1.7x
+ 1.3x
+
+ 3,909 Market approach EBITDA multiple(2)
+ 4.5x - 32.4x
+ 8.9x
+
+ 177 Other N/A N/A N/A
+
+Fixed income investments
+ 548,264 Broker quotes and/or 3rd party pricing services N/A N/A N/A
+ 188,322 Market approach Yield 8.3% - 24.1%
+ 12.2%
+
+ 2,974 Market approach EBITDA multiple(2)
+ 4.5x - 32.4x
+ 9.0x
+
+ 104 Discounted cash flow Discount rate 12.3%
+ 12.3%
+
+ 449 Other N/A N/A N/A
+
+Total assets $ 1,930,513
+Liabilities
+Derivative instruments $ (1,291) Broker quotes and/or 3rd party pricing services N/A N/A N/A
+Total liabilities $ (1,291)
+
+(1)Transaction price consists of securities purchased or restructured. The Company determined that there has been no change to the valuation based on the underlying assumptions used at the closing of such transactions.
+(2) EBITDA in the table above is a non-GAAP financial measure and refers to earnings before interest, tax, depreciation and amortization.
+
+The Consolidated Funds have limited partnership interests in private equity funds managed by the Company that are valued using NAV per share. The terms and conditions of these funds do not allow for redemptions without certain events or approvals that are outside the Company s control.
+
+The following table summarizes the investments held at fair value and unfunded commitments of the Consolidated Funds interests valued using NAV per share:
+
+ As of December 31,
+ 2024 2023
+
+Investments (held at fair value) $ 2,000,380 $ 1,642,489
+Unfunded commitments 932,473 738,621
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FairValueDisclosuresAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for the fair value of financial instruments (as defined), including financial assets and financial liabilities (collectively, as defined), and the measurements of those instruments as well as disclosures related to the fair value of non-financial assets and liabilities. Such disclosures about the financial instruments, assets, and liabilities would include: (1) the fair value of the required items together with their carrying amounts (as appropriate); (2) for items for which it is not practicable to estimate fair value, disclosure would include: (a) information pertinent to estimating fair value (including, carrying amount, effective interest rate, and maturity, and (b) the reasons why it is not practicable to estimate fair value; (3) significant concentrations of credit risk including: (a) information about the activity, region, or economic characteristics identifying a concentration, (b) the maximum amount of loss the entity is exposed to based on the gross fair value of the related item, (c) policy for requiring collateral or other security and information as to accessing such collateral or security, and (d) the nature and brief description of such collateral or security; (4) quantitative information about market risks and how such risks are managed; (5) for items measured on both a recurring and nonrecurring basis information regarding the inputs used to develop the fair value measurement; and (6) for items presented in the financial statement for which fair value measurement is elected: (a) information necessary to understand the reasons for the election, (b) discussion of the effect of fair value changes on earnings, (c) a description of [similar groups] items for which the election is made and the relation thereof to the balance sheet, the aggregate carrying value of items included in the balance sheet that are not eligible for the election; (7) all other required (as defined) and desired information.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 107
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-107
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6A
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 940
+ -SubTopic 820
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478119/940-820-50-1
+
++ Details
+
+ Name:
+us-gaap_FairValueDisclosuresTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

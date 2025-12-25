@@ -1,0 +1,146 @@
+XML
+88
+R66.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Equity [Abstract]
+
+Schedule of Share Repurchases
+The following table presents the shares of KKR & Co. Inc. common stock that have been repurchased or equity awards retired under the repurchase program:
+
+ For the Years Ended December 31,
+ 2024 2023 2022
+Shares of common stock repurchased 5,395,162 5,191,174
+Equity awards for common stock retired 1,170,857 764,999 1,308,501
+
+Schedule of Noncontrolling Interests
+The following table presents total noncontrolling interests:
+
+ For the Years Ended December 31,
+ 2024 2023 2022
+Beginning of Period (as previously reported for the prior period) $ 34,904,791 $ 35,778,000 $ 40,474,565
+Adoption of New Accounting Standard (See Note 2) 632,858 104,961
+Balance at the beginning of the period (as revised for the prior period) 34,904,791 36,410,858 40,579,526
+Net Income (Loss) Attributable to Noncontrolling Interests 1,756,643 1,630,230 101,258
+Other Comprehensive Income (Loss), net of tax 6,294 588,415 (3,919,807)
+Compensation Modification - Issuance of Holdings III Units (See Note 19) 53,623
+Equity-Based Compensation (Non Cash Contribution) 432,299 323,577 364,225
+2024 GA Acquisition - Cash consideration (See Note 1) (2,622,230)
+2024 GA Acquisition - Issuance of Holdings III Units (See Note 1) 40,789
+Exchange of KKR Holdings units to Common Stock (12,865)
+Holdings Merger (See Note 1) (7,197,950)
+Change in KKR & Co. Inc.'s Ownership - 2024 GA Acquisition 2,169,300
+Change in KKR & Co. Inc.'s Ownership Interest (431,394) (156,867) (170,436)
+Capital Contributions 7,466,717 12,871,585 13,706,821
+Capital Distributions (8,191,990) (8,301,516) (7,039,914)
+Changes in Consolidation 1,163,105 (8,461,491)
+Balance at the end of the period $ 36,747,947 $ 34,904,791 $ 36,410,858
+
+X
+
+- DefinitionRepresents the tabular disclosure of movement in noncontrolling interests attributable to KKR Holdings.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ScheduleOfReconciliationOfMinorityInterestTableTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EquityAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of treasury stock, including, but not limited to, average cost per share, description of share repurchase program, shares repurchased, shares held for each class of treasury stock.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 30
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481520/505-30-50-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 30
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481520/505-30-50-3
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 30
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481520/505-30-50-4
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 505
+ -SubTopic 30
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481549/505-30-45-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfTreasuryStockByClassTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

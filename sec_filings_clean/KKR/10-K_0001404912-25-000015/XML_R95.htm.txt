@@ -1,0 +1,676 @@
+XML
+117
+R95.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INVESTMENTS - Mortgage Loan Portfolio (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 53,365,485
+
+$ 39,780,370
+
+Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 46,844,764
+
+$ 34,584,023
+
+Financing receivable, before allowance for credit loss, to total, percent
+100.00%
+
+100.00%
+
+Residential | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 21,581,616
+
+$ 12,722,778
+
+Financing receivable, before allowance for credit loss, to total, percent
+46.10%
+
+36.80%
+
+Multi-family | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 12,793,478
+
+$ 11,495,638
+
+Financing receivable, before allowance for credit loss, to total, percent
+27.30%
+
+33.20%
+
+Industrial | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 6,357,311
+
+$ 4,415,819
+
+Financing receivable, before allowance for credit loss, to total, percent
+13.60%
+
+12.80%
+
+Office Building | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 4,468,303
+
+$ 4,586,277
+
+Financing receivable, before allowance for credit loss, to total, percent
+9.50%
+
+13.30%
+
+Other Property Types | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 804,743
+
+$ 578,799
+
+Financing receivable, before allowance for credit loss, to total, percent
+1.70%
+
+1.70%
+
+Retail | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 504,812
+
+$ 493,596
+
+Financing receivable, before allowance for credit loss, to total, percent
+1.10%
+
+1.40%
+
+Warehouse | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 334,501
+
+$ 291,116
+
+Financing receivable, before allowance for credit loss, to total, percent
+0.70%
+
+0.80%
+
+South Atlantic | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 13,215,065
+
+$ 9,653,955
+
+Financing receivable, before allowance for credit loss, to total, percent
+28.20%
+
+27.90%
+
+Pacific | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 11,739,093
+
+$ 8,649,256
+
+Financing receivable, before allowance for credit loss, to total, percent
+25.10%
+
+25.00%
+
+Middle Atlantic | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 5,841,960
+
+$ 4,436,129
+
+Financing receivable, before allowance for credit loss, to total, percent
+12.50%
+
+12.80%
+
+West South Central | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 5,395,952
+
+$ 4,202,501
+
+Financing receivable, before allowance for credit loss, to total, percent
+11.50%
+
+12.20%
+
+Mountain | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 4,001,411
+
+$ 3,262,801
+
+Financing receivable, before allowance for credit loss, to total, percent
+8.50%
+
+9.40%
+
+New England | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 1,679,335
+
+$ 1,470,741
+
+Financing receivable, before allowance for credit loss, to total, percent
+3.60%
+
+4.30%
+
+East North Central | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 1,505,688
+
+$ 1,166,460
+
+Financing receivable, before allowance for credit loss, to total, percent
+3.20%
+
+3.40%
+
+East South Central | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 986,070
+
+$ 731,053
+
+Financing receivable, before allowance for credit loss, to total, percent
+2.10%
+
+2.10%
+
+West North Central | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 455,503
+
+$ 358,609
+
+Financing receivable, before allowance for credit loss, to total, percent
+1.00%
+
+1.00%
+
+Foreign and Other Regions | Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Mortgage loans
+$ 2,024,687
+
+$ 652,518
+
+Financing receivable, before allowance for credit loss, to total, percent
+4.30%
+
+1.90%
+
+X
+
+- DefinitionPercentage, before allowance for credit loss, of financing receivable to total financing receivable.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-K (SK)
+ -Number 229
+ -Section 1405
+ -Paragraph c
+ -Publisher SEC
+
++ Details
+
+ Name:
+srt_FinancingReceivableBeforeAllowanceForCreditLossToTotalPercent
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 310
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 40
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481628/310-20-40-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-2
+
++ Details
+
+ Name:
+us-gaap_AccountsNotesAndLoansReceivableLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, before allowance for credit loss, of financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-5
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=kkr_ResidentialAndCommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=kkr_ResidentialMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_MultifamilyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_IndustrialPropertyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_OfficeBuildingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_OtherPropertyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_RetailSiteMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_WarehouseMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_SouthAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_PacificMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_MiddleAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_WestSouthCentralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_MountainMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_NewEnglandMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_EastNorthCentralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_EastSouthCentralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_WestNorthCentralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=kkr_OtherGeographicalRegionsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

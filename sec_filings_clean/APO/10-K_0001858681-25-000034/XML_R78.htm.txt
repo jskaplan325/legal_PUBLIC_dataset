@@ -1,0 +1,311 @@
+XML
+108
+R78.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Mortgage Loan Portfolio, with Fair Value Option Loans (Details) - Mortgage loans - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unpaid principal balance
+$ 69,754
+
+$ 50,752
+
+Mark to fair value
+(2,639)
+
+(3,183)
+
+Fair value
+67,115
+
+47,569
+
+Mortgage loans
+67,115
+
+47,569
+
+Commercial mortgage loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unpaid principal balance
+34,531
+
+28,858
+
+Mark to fair value
+(2,099)
+
+(2,246)
+
+Fair value
+32,432
+
+26,612
+
+Residential mortgage loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unpaid principal balance
+35,223
+
+21,894
+
+Mark to fair value
+(540)
+
+(937)
+
+Fair value
+34,683
+
+20,957
+
+Real Estate Loan | Commercial mortgage loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unpaid principal balance
+32,544
+
+27,630
+
+Under-development | Commercial mortgage loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unpaid principal balance
+$ 1,987
+
+$ 1,228
+
+X
+
+- DefinitionFair Value, Option, Loans Held As Assets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueOptionLoansHeldAsAssets
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair Value, Option, Loans Held As Assets, Including Loans Held By Variable Interest Entities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueOptionLoansHeldAsAssetsIncludingLoansHeldByVariableInterestEntities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair Value, Option, Loans Held As Assets, Mark To Fair Value
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueOptionLoansHeldAsAssetsMarkToFairValue
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair Value, Option, Loans Held As Assets, Unpaid Principal Balance
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_FairValueOptionLoansHeldAsAssetsUnpaidPrincipalBalance
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-31
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionQuantitativeDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=apo_MortgageLoansMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_CommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ResidentialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivableRecordedInvestmentByClassOfFinancingReceivableAxis=us-gaap_RealEstateLoanMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivableRecordedInvestmentByClassOfFinancingReceivableAxis=apo_UnderDevelopmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

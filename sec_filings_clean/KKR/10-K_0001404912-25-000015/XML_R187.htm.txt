@@ -1,0 +1,202 @@
+XML
+209
+R187.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUBSEQUENT EVENTS (Details) - USD ($)
+ $ / shares in Units, $ in Billions
+
+3 Months Ended
+12 Months Ended
+
+Feb. 04, 2025
+
+Mar. 31, 2025
+
+Dec. 31, 2024
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Jun. 30, 2025
+
+Subsequent Events
+
+Dividend declared (in dollars per share)
+
+$ 0.70
+
+$ 0.690
+
+$ 0.650
+
+$ 0.610
+
+Forecast
+
+Subsequent Events
+
+Dividend declared (in dollars per share)
+
+$ 0.74
+
+Subsequent Event
+
+Subsequent Events
+
+Dividend declared (in dollars per share)
+$ 0.175
+
+Subsequent Event | Forecast | Strategic Holdings
+
+Subsequent Events
+
+Increase in ownership interest in certain core private equity businesses
+
+$ 1.1
+
+X
+
+- DefinitionEquity Method Investment, Ownership Increase
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_EquityMethodInvestmentOwnershipIncrease
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAggregate dividends declared during the period for each share of common stock outstanding.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_CommonStockDividendsPerShareDeclared
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDetail information of subsequent event by type. User is expected to use existing line items from elsewhere in the taxonomy as the primary line items for this disclosure, which is further associated with dimension and member elements pertaining to a subsequent event.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481674/830-30-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 855
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483399/855-10-50-2
+
++ Details
+
+ Name:
+us-gaap_SubsequentEventLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_StatementScenarioAxis=srt_ScenarioForecastMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_SubsequentEventTypeAxis=us-gaap_SubsequentEventMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_StrategicHoldingsSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

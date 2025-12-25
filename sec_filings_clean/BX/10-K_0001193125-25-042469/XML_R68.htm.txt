@@ -1,0 +1,204 @@
+XML
+97
+R68.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Information for Financial Instruments on Which Fair Value Option was Elected (Detail) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Excess (Deficiency) of fair value over uncollected principal
+$ (55,599)
+
+$ (60,653)
+
+Fair value of financial instruments more than one day past due
+1,359
+
+1,345
+
+Debt Securities
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Excess (Deficiency) of fair value over uncollected principal
+(55,890)
+
+(52,577)
+
+Corporate Loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Excess (Deficiency) of fair value over uncollected principal
+(2,478)
+
+(8,751)
+
+Fair value of financial instruments more than one day past due
+1,359
+
+1,345
+
+Loans and Receivables
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Excess (Deficiency) of fair value over uncollected principal
+2,769
+
+675
+
+Fair value of financial instruments more than one day past due
+$ 0
+
+$ 0
+
+X
+
+- DefinitionExcess Deficiency of Fair Value over Uncollected Principal Balance on Financial Instruments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ExcessDeficiencyOfFairValueOverUncollectedPrincipalBalanceOnFinancialInstruments
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair Value of Financial Instruments More Than One Day Past Due
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueOfFinancialInstrumentsMoreThanOneDayPastDue
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-31
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionQuantitativeDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_DebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AccountsNotesLoansAndFinancingReceivableByReceivableTypeAxis=us-gaap_LoansReceivableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

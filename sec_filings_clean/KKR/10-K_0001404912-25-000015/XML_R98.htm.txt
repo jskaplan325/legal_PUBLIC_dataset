@@ -1,0 +1,610 @@
+XML
+120
+R98.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INVESTMENTS - Loan Modifications (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+$ 491,217
+
+$ 592,004
+
+Current
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+466,458
+
+30 to 59 Days Past Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+14,386
+
+60 to 89 Days Past Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+5,445
+
+90 days or More Past Due or in Process of Foreclosure
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+4,928
+
+Commercial
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+$ 387,903
+
+$ 478,836
+
+Percentage of Total Carrying Value Outstanding
+1.54%
+
+2.19%
+
+Commercial | Current
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+$ 387,903
+
+Commercial | 30 to 59 Days Past Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+0
+
+Commercial | 60 to 89 Days Past Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+0
+
+Commercial | 90 days or More Past Due or in Process of Foreclosure
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+0
+
+Residential
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+$ 18,790
+
+$ 35,852
+
+Percentage of Total Carrying Value Outstanding
+0.09%
+
+0.28%
+
+Residential | Current
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+$ 15,461
+
+Residential | 30 to 59 Days Past Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+1,519
+
+Residential | 60 to 89 Days Past Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+158
+
+Residential | 90 days or More Past Due or in Process of Foreclosure
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+1,652
+
+Consumer Loans
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+$ 84,524
+
+$ 77,316
+
+Percentage of Total Carrying Value Outstanding
+1.74%
+
+1.75%
+
+Consumer Loans | Current
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+$ 63,094
+
+Consumer Loans | 30 to 59 Days Past Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+12,867
+
+Consumer Loans | 60 to 89 Days Past Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+5,287
+
+Consumer Loans | 90 days or More Past Due or in Process of Foreclosure
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+3,276
+
+Deferral of Amounts Due
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+7,358
+
+$ 7,886
+
+Deferral of Amounts Due | Commercial
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+0
+
+0
+
+Deferral of Amounts Due | Residential
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+4,563
+
+1,371
+
+Deferral of Amounts Due | Consumer Loans
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+2,795
+
+6,515
+
+Interest Rate Relief
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+901
+
+4,974
+
+Interest Rate Relief | Commercial
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+0
+
+0
+
+Interest Rate Relief | Residential
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+0
+
+1,206
+
+Interest Rate Relief | Consumer Loans
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+901
+
+3,768
+
+Maturity Extension
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+29,865
+
+73,698
+
+Maturity Extension | Commercial
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+0
+
+0
+
+Maturity Extension | Residential
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+0
+
+25,130
+
+Maturity Extension | Consumer Loans
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+29,865
+
+48,568
+
+Combination
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+453,093
+
+505,446
+
+Combination | Commercial
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+387,903
+
+478,836
+
+Combination | Residential
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+14,227
+
+8,145
+
+Combination | Consumer Loans
+
+Financing Receivable, Troubled Debt Restructuring [Line Items]
+
+Carrying value of loans to borrowers experiencing financial difficulty
+$ 50,963
+
+$ 18,465
+
+X
+
+- DefinitionFinancing Receivable, Excluding Accrued Interest, Modified In Period, Amount
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableExcludingAccruedInterestModifiedInPeriodAmount
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFinancing Receivable, Excluding Accrued Interest, Modified In Period, To Total Financing Receivables, Percentage
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableExcludingAccruedInterestModifiedInPeriodToTotalFinancingReceivablesPercentage
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 34
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-34
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 33
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-33
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481933/310-10-55-12A
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-42
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-42
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableModificationsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablesPeriodPastDueAxis=us-gaap_FinancialAssetNotPastDueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablesPeriodPastDueAxis=us-gaap_FinancingReceivables30To59DaysPastDueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablesPeriodPastDueAxis=us-gaap_FinancingReceivables60To89DaysPastDueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablesPeriodPastDueAxis=us-gaap_FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_CommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ResidentialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ConsumerPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LoanRestructuringModificationAxis=us-gaap_PaymentDeferralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LoanRestructuringModificationAxis=kkr_InterestRateReductionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LoanRestructuringModificationAxis=us-gaap_ExtendedMaturityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LoanRestructuringModificationAxis=kkr_PaymentDeferralAndExtendedMaturityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,211 @@
+XML
+199
+R169.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Schedule II Valuation and Qualifying Accounts (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+SEC Schedule, 12-09, Movement in Valuation Allowances and Reserves [Roll Forward]
+
+Balance at beginning of year
+$ 33
+
+$ 105
+
+$ 0
+
+Charged to costs and expenses
+42
+
+156
+
+53
+
+Assumed through acquisitions
+0
+
+0
+
+66
+
+Deductions
+0
+
+(228)
+
+(14)
+
+Balance at end of year
+$ 75
+
+$ 33
+
+$ 105
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_MovementInValuationAllowancesAndReservesRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of valuation and qualifying accounts and reserves.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column B))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
++ Details
+
+ Name:
+us-gaap_ValuationAllowancesAndReservesBalance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of increase in valuation and qualifying accounts and reserves from charge to cost and expense.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column C)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
++ Details
+
+ Name:
+us-gaap_ValuationAllowancesAndReservesChargedToCostAndExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of decrease in valuation and qualifying accounts and reserves.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column D))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
++ Details
+
+ Name:
+us-gaap_ValuationAllowancesAndReservesDeductions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in valuation and qualifying accounts and reserves from business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09(Column C)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
++ Details
+
+ Name:
+us-gaap_ValuationAllowancesAndReservesReservesOfBusinessesAcquired
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration

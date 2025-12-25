@@ -1,0 +1,978 @@
+XML
+87
+R64.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Investment in Fortitude (Details) - USD ($)
+ $ in Millions
+
+1 Months Ended
+12 Months Ended
+
+Jun. 02, 2020
+
+Nov. 13, 2018
+
+Nov. 30, 2024
+
+Oct. 31, 2023
+
+May 31, 2023
+
+May 31, 2022
+
+Mar. 31, 2022
+
+May 31, 2020
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Schedule of Equity Method Investments [Line Items]
+
+Dividend paid
+
+$ 3,292.3
+
+$ 3,024.1
+
+Fortitude Holdings
+
+Schedule of Equity Method Investments [Line Items]
+
+Ownership percentage acquired
+
+19.90%
+
+Purchase of investment in Fortitude Re
+
+$ 381.0
+
+Deferred consideration, maximum
+
+95.0
+
+Purchase price adjustment, maximum
+
+$ 99.5
+
+Purchase price adjustment, payable upon inability to make distribution
+
+$ 79.6
+
+19.9
+
+Dividends
+
+$ 200.0
+
+Principal investment income
+
+7.9
+
+Fortitude Holdings | Carlyle FRL
+
+Schedule of Equity Method Investments [Line Items]
+
+Ownership percentage acquired
+51.60%
+
+38.50%
+
+97.50%
+
+Percentage ownership
+71.50%
+
+Dividends
+
+76.9
+
+Distribution received
+
+$ 21.0
+
+Fortitude Holdings | T&D United Capital Co Ltd
+
+Schedule of Equity Method Investments [Line Items]
+
+Ownership percentage acquired
+25.00%
+
+Fortitude Holdings | Carlyle FRL and T&D
+
+Schedule of Equity Method Investments [Line Items]
+
+Percentage ownership
+96.50%
+
+Fortitude Holdings | Fortitude Re | Maximum
+
+Schedule of Equity Method Investments [Line Items]
+
+Committed capital
+
+19,400.0
+
+Fortitude Holdings | Carlyle FRL
+
+Schedule of Equity Method Investments [Line Items]
+
+Ownership interest transferred
+19.90%
+
+Carlyle FRL
+
+Schedule of Equity Method Investments [Line Items]
+
+Equity capital raised
+
+$ 1,000.0
+
+$ 1,100.0
+
+$ 2,000.0
+
+Investment loss
+
+$ 104.0
+
+$ 176.9
+
+Dividend paid
+
+723.5
+
+Investment cost
+
+$ 666.8
+
+Carlyle FRL | Fortitude Holdings
+
+Schedule of Equity Method Investments [Line Items]
+
+Percentage ownership
+
+10.50%
+
+13.50%
+
+Carlyle FRL | Fortitude Holdings | Maximum
+
+Schedule of Equity Method Investments [Line Items]
+
+Percentage ownership
+
+19.90%
+
+Carlyle FRL | Fortitude Holdings | Minimum
+
+Schedule of Equity Method Investments [Line Items]
+
+Percentage ownership
+
+13.50%
+
+Carlyle FRL | T&D United Capital Co Ltd
+
+Schedule of Equity Method Investments [Line Items]
+
+Percentage committed capital
+
+$ 100.0
+
+Fortitude Re | Fortitude Holdings
+
+Schedule of Equity Method Investments [Line Items]
+
+Percentage ownership
+
+100.00%
+
+X
+
+- DefinitionEquity Method Investment, Ownership Interest Transferred
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_EquityMethodInvestmentOwnershipInterestTransferred
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionEquity Method Investment, Ownership Percentage Acquired
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_EquityMethodInvestmentOwnershipPercentageAcquired
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionEquity Method Investment, Required Dividend Distribution Purchase Price Adjustment, Maximum
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_EquityMethodInvestmentRequiredDividendDistributionPurchasePriceAdjustmentMaximum
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionEquity Method Investments, Deferred Consideration, Maximum
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_EquityMethodInvestmentsDeferredConsiderationMaximum
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPayments For Equity Method Investment, Deferred Purchase Price
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PaymentsForEquityMethodInvestmentDeferredPurchasePrice
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPayments To Acquire Equity Method Investments, Operating Activities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PaymentsToAcquireEquityMethodInvestmentsOperatingActivities
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPurchase Agreement, Assets Commitment Allocation
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PurchaseAgreementAssetsCommitmentAllocation
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of paid and unpaid cash, stock, and paid-in-kind (PIK) dividends declared, for example, but not limited to, common and preferred stock.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -SubTopic 405
+ -Topic 942
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477787/942-405-45-2
+
++ Details
+
+ Name:
+us-gaap_Dividends
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThis element represents the aggregate cost of investments accounted for under the equity method of accounting.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(12))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_EquityMethodInvestmentAggregateCost
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of gain (loss) on sale or disposal of an equity method investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_EquityMethodInvestmentRealizedGainLossOnDisposal
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThis item represents the carrying amount on the entity's balance sheet of its investment in common stock of an equity method investee. This is not an indicator of the fair value of the investment, rather it is the initial cost adjusted for the entity's share of earnings and losses of the investee, adjusted for any distributions (dividends) and other than temporary impairment (OTTI) losses recognized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481664/323-10-45-1
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(10))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 25
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-25
+
++ Details
+
+ Name:
+us-gaap_EquityMethodInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of funds committed to investment company from investors.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 205
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 25
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478494/946-205-50-25
+
++ Details
+
+ Name:
+us-gaap_InvestmentCompanyCommittedCapital
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized and unrealized gain (loss), from the firm's direct investment activity, conducted separately from customer trading activities, and includes, but is not limited to, investments in private equity, alternative investment products, real estate, and exchanges and memberships.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(13)(h))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(13)(g))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_PrincipalInvestmentGainsLosses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of distribution received from equity method investee for return of investment, classified as investing activities. Excludes distribution for return on investment, classified as operating activities.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 12
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-12
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 21D
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-21D
+
++ Details
+
+ Name:
+us-gaap_ProceedsFromEquityMethodInvestmentDividendsOrDistributionsReturnOfCapital
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe cash inflow associated with the sale of equity method investments, which are investments in joint ventures and entities in which the entity has an equity ownership interest normally of 20 to 50 percent and exercises significant influence.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 12
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-12
+
++ Details
+
+ Name:
+us-gaap_ProceedsFromSaleOfEquityMethodInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(g)(1)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 28
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEquityMethodInvestmentsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage of subsidiary's or equity method investee's stock owned by parent immediately after all stock transactions.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SubsidiaryOrEquityMethodInvesteeCumulativePercentageOwnershipAfterAllTransactions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_FortitudeGroupHoldingsLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_CarlyleFRLMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_TDUnitedCapitalCoLtdMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_CarlyleFRLAndTDMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=cg_FortitudeReinsuranceCompanyLtd.fkaDSAReinsuranceCompanyLtdMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=cg_CarlyleFRLMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_CarlyleFRLMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_FortitudeGroupHoldingsLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_FortitudeReinsuranceCompanyLtd.fkaDSAReinsuranceCompanyLtdMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

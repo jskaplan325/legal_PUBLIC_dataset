@@ -1,0 +1,219 @@
+XML
+71
+R41.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Variable Interest Entities (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+Schedule of VIE Financial Information
+The following table presents net gains (losses) from investment activities of the consolidated VIEs:
+
+ Years ended December 31,
+(In millions) 20241
+ 20231
+ 20221
+
+Net gains (losses) from investment activities $ 39 $ 67 $ 93
+Net gains (losses) from debt (8) 144
+
+Interest and other income 172 176 354
+Interest and other expenses (113) (113) (97)
+Net gains (losses) from investment activities of consolidated variable interest entities $ 90 $ 130 $ 494
+
+1 Amounts reflect consolidation eliminations.
+
+The following summarizes the statements of operations activity of the consolidated VIEs:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Trading securities $ 152 $ 102 $ 34
+
+Mortgage loans 128 110 88
+Investment funds 46 41 9
+Other (22) 1 (10)
+Net investment income 304 254 121
+
+Net recognized investment gains (losses) on trading securities
+ 17 10 (66)
+Net recognized investment losses on mortgage loans
+ (35) (22) (250)
+Net recognized investment gains on investment funds
+ 1,542 1,228 552
+Other gains (losses)
+ (6) (29) 83
+Investment related gains (losses) 1,518 1,187 319
+Revenues of consolidated variable interest entities $ 1,822 $ 1,441 $ 440
+
+The following table presents the maximum exposure to losses relating to these VIEs for which Apollo has concluded that it holds a significant variable interest, but that it is not the primary beneficiary.
+
+(In millions) December 31, 2024 December 31, 2023
+Maximum Loss Exposure1,2
+ $ 614 $ 325
+
+1 Represents Apollo s direct investment in those entities in which it holds a significant variable interest and certain other investments. Additionally, cumulative performance allocations are subject to reversal in the event of future losses.
+
+2 Some amounts included are a quarter in arrears.
+
+The following summarizes the carrying value and maximum loss exposure of these non-consolidated investments:
+
+ December 31, 2024 December 31, 2023
+(In millions) Carrying Value Maximum Loss Exposure Carrying Value Maximum Loss Exposure
+Investment funds $ 107 $ 987 $ 109 $ 876
+Investment in related parties investment funds 1,853 3,226 1,632 2,377
+Assets of consolidated VIEs investment funds 17,660 23,488 15,820 22,129
+Investment in fixed maturity securities 72,523 74,797 48,155 50,623
+Investment in related parties fixed maturity securities 17,239 21,793 13,495 15,608
+Investment in related parties equity securities 234 234 318 318
+Total non-consolidated investments $ 109,616 $ 124,525 $ 79,529 $ 91,931
+
+The tables below present the financial information of these previously consolidated SPACs in the aggregate.
+
+ Years ended December 31,
+ (In millions) 2023 2022
+
+Expenses:
+
+General, administrative and other $ 3 $ 8
+Total Expenses 3 8
+Other Income (Loss):
+Net gains (losses) from investment activities (15) 20
+Interest income 27 13
+
+Total Other Income (Loss) 12 33
+Income (loss) before income tax provision 9 25
+Income tax provision (2) (1)
+Net Income (Loss) 7 24
+Net income attributable to non-controlling interests (41)
+Net Income (Loss) Attributable to Apollo Global Management, Inc. (34) 24
+
+Schedule of Principal Provisions Debt
+The following table summarizes the principal provisions of those amounts:
+ December 31, 2024 December 31, 2023
+(In millions, except percentages) Principal Outstanding Weighted Average Interest Rate Weighted Average Remaining Maturity in Years Principal Outstanding Weighted Average Interest Rate Weighted Average Remaining Maturity in Years
+Asset Management
+
+Subscription lines1
+ $ 1,198 6.84 % 0.06 $ 1,072 7.16 % 0.09
+
+Total Asset Management
+ $ 1,198 $ 1,072
+
+1 The subscription lines of the consolidated VIEs are collateralized by assets held by each respective vehicle and assets of one vehicle may not be used to satisfy the liabilities of another vehicle.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of information pertaining to short-term and long-debt instruments or arrangements, including but not limited to identification of terms, features, collateral requirements and other information necessary to a fair presentation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDebtTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the significant judgments and assumptions made in determining whether a variable interest (as defined) held by the entity requires the variable interest entity (VIE) (as defined) to be consolidated and (or) disclose information about its involvement with the VIE, individually or in aggregate (as applicable); the nature of restrictions, if any, on the consolidated VIE's assets and on the settlement of its liabilities reported by an entity in its statement of financial position, including the carrying amounts of such assets and liabilities; the nature of, and changes in, the risks associated with involvement in the VIE; how involvement with the VIE affects the entity's financial position, financial performance, and cash flows; the lack of recourse if creditors (or beneficial interest holders) of the consolidated VIE have no recourse to the general credit of the primary beneficiary (if applicable); the terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests, if any, that could require the entity to provide financial support to the VIE, including events or circumstances that could expose the entity to a loss; the methodology used by the entity for determining whether or not it is the primary beneficiary of the variable interest entity; the significant factors considered and judgments made in determining that the power to direct the activities of a VIE that most significantly impact the VIE's economic performance are shared (as defined); the carrying amounts and classification of assets and liabilities of the VIE included in the statement of financial position; the entity's maximum exposure to loss, if any, as a result of its involvement with the VIE, including how the maximum exposure is determined and significant sources of the entity's exposure to the VIE; a comparison of the carrying amounts of the assets and liabilities and the entity's maximum exposure to loss; information about any liquidity arrangements, guarantees, and (or) other commitments by third parties that may affect the fair value or risk of the entity's variable interest in the VIE; whether or not the entity has provided financial support or other support (explicitly or implicitly) to the VIE that it was not previously contractually required to provide or whether the entity intends to provide that support, including the type and amount of the support and the primary reasons for providing the support; and supplemental information the entity determines necessary to provide.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 5A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-5A
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-9
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-4
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-6
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfVariableInterestEntitiesTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

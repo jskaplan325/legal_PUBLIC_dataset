@@ -1,0 +1,916 @@
+XML
+91
+R61.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Merger with Athene - Schedule of Recognized for the Assets Acquired and Liabilities Assumed and Resulting Goodwill (Details) - USD ($)
+ $ in Millions
+
+Jan. 01, 2022
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Liabilities [Abstract]
+
+Goodwill attributable to Athene
+
+$ 4,327
+
+$ 4,329
+
+Athene Holding Limited
+
+Business Combination, Consideration Transferred, Including Equity Interest in Acquiree Held Prior to Combination [Abstract]
+
+Merger consideration
+$ 13,050
+
+Fair value of previously held equity interest
+4,554
+
+Total AHL equity value held by AGM
+17,604
+
+Total Value to Allocate
+
+Investments
+176,015
+
+Cash and cash equivalents
+9,479
+
+Restricted cash and cash equivalents
+796
+
+Investment in related parties
+33,863
+
+Reinsurance recoverable
+4,977
+
+VOBA
+3,372
+
+Assets of consolidated variable interest entities
+3,635
+
+Other assets
+6,115
+
+Estimated fair value of total assets acquired (excluding goodwill)
+238,252
+
+Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Liabilities [Abstract]
+
+Interest sensitive contract liabilities
+160,241
+
+Future policy benefits
+41,482
+
+Market risk benefits
+4,813
+
+Debt
+3,295
+
+Payables for collateral on derivatives and securities to repurchase
+7,044
+
+Liabilities of consolidated variable interest entities
+461
+
+Other liabilities
+2,443
+
+Estimated fair value of total liabilities assumed
+219,779
+
+Non-controlling interest
+4,942
+
+Estimated fair value of net assets acquired, excluding goodwill
+13,531
+
+Goodwill attributable to Athene
+$ 4,073
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Future Policy Benefits
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedFuturePolicyBenefits
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Interest Sensitive Contract Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedInterestSensitiveContractLiabilities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Investment In Related Parties
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedInvestmentInRelatedParties
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Long-term Debt
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedLongTermDebt
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Market Risk Benefit
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedMarketRiskBenefit
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Noncurrent Liabilities, Liabilities Of Consolidated Variable Interest Entities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedNoncurrentLiabilitiesLiabilitiesOfConsolidatedVariableInterestEntities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Noncurrent Liabilities, Payable For Collateral On Derivative And Securities To Repurchase
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedNoncurrentLiabilitiesPayableForCollateralOnDerivativeAndSecuritiesToRepurchase
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Other Assets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedOtherAssets
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Other Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedOtherLiabilities
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Reinsurance Recoverable
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedReinsuranceRecoverable
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Restricted Cash and Equivalents
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedRestrictedCashAndEquivalents
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Value of Business Acquired
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedValueOfBusinessAcquired
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Variable Interest Entity, Consolidated, Assets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedVariableInterestEntityConsolidatedAssets
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThis element represents the fair value of the noncontrolling interest in the acquiree at the acquisition date.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationAcquisitionOfLessThan100PercentNoncontrollingInterestFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of consideration transferred, consisting of acquisition-date fair value of assets transferred by the acquirer, liabilities incurred by the acquirer, and equity interest issued by the acquirer.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 8
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479637/805-30-30-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 7
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479637/805-30-30-7
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationConsiderationTransferred1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value at acquisition-date of the assets transferred by the acquirer, liabilities incurred by the acquirer, and equity interests issued by the acquirer, including but not limited to, instruments or interests issued or issuable in consideration for the business combination.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (g)
+ -SubTopic 10
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationConsiderationTransferredIncludingEquityInterestInAcquireeHeldPriorToCombination1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationConsiderationTransferredIncludingEquityInterestInAcquireeHeldPriorToCombinationAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of assets acquired at the acquisition date.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedAssetsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of currency on hand as well as demand deposits with banks or financial institutions, acquired at the acquisition date. Includes other kinds of accounts that have the general characteristics of demand deposits. Also includes short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedCashAndEquivalents
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe amount of financial assets (as defined) recognized as of the acquisition date.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 825
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/825/tableOfContent
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 55
+ -Paragraph 37
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479303/805-10-55-37
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedFinancialAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of liabilities assumed at the acquisition date.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedLiabilitiesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount recognized as of the acquisition date for the identifiable assets acquired in excess of (less than) the aggregate liabilities assumed.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 55
+ -Paragraph 37
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479303/805-10-55-37
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value at acquisition-date of the equity interest in the acquiree held by the acquirer, immediately before the acquisition date for businesses combined in stages.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -SubTopic 10
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationStepAcquisitionEquityInterestInAcquireeFairValue1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after accumulated impairment loss, of asset representing future economic benefit arising from other asset acquired in business combination or from joint venture formation or both, that is not individually identified and separately recognized.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482548/350-20-55-24
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 852
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481372/852-10-55-10
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(15))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482598/350-20-45-1
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (h)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482573/350-20-50-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(10)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_Goodwill
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=apo_AtheneHoldingLimitedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

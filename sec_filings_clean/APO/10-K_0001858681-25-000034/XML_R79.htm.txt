@@ -1,0 +1,918 @@
+XML
+109
+R79.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Distribution of Commercial and Residential Mortgage Loans, Percentage by Geographical Location (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 32,432
+
+$ 26,612
+
+Percentage of Total
+100.00%
+
+100.00%
+
+Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+100.00%
+
+100.00%
+
+Total U.S. residential mortgage loan percentage | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 26,968
+
+$ 22,598
+
+Percentage of Total
+83.20%
+
+85.00%
+
+Total U.S. residential mortgage loan percentage | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+90.90%
+
+91.00%
+
+East North Central | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 1,546
+
+$ 1,517
+
+Percentage of Total
+4.80%
+
+5.70%
+
+East South Central | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 438
+
+$ 523
+
+Percentage of Total
+1.30%
+
+2.00%
+
+Middle Atlantic | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 8,386
+
+$ 7,147
+
+Percentage of Total
+25.90%
+
+26.90%
+
+Mountain | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 1,322
+
+$ 1,196
+
+Percentage of Total
+4.10%
+
+4.50%
+
+New England | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 1,118
+
+$ 1,295
+
+Percentage of Total
+3.40%
+
+4.90%
+
+Pacific | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 5,768
+
+$ 4,860
+
+Percentage of Total
+17.80%
+
+18.30%
+
+South Atlantic | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 6,198
+
+$ 4,583
+
+Percentage of Total
+19.10%
+
+17.20%
+
+West North Central | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 221
+
+$ 249
+
+Percentage of Total
+0.70%
+
+0.90%
+
+West South Central | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 1,971
+
+$ 1,228
+
+Percentage of Total
+6.10%
+
+4.60%
+
+California | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+25.60%
+
+27.60%
+
+Florida | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+12.40%
+
+12.00%
+
+Texas | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+7.40%
+
+6.10%
+
+New York | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+4.70%
+
+5.90%
+
+Other | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+40.80%
+
+39.40%
+
+Total international region | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 5,464
+
+$ 4,014
+
+Percentage of Total
+16.80%
+
+15.00%
+
+Total international region | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+9.10%
+
+9.00%
+
+United Kingdom | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 2,281
+
+$ 2,343
+
+Percentage of Total
+7.00%
+
+8.70%
+
+United Kingdom | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+4.40%
+
+4.00%
+
+Other | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 3,183
+
+$ 1,671
+
+Percentage of Total
+9.80%
+
+6.30%
+
+Other | Residential Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Percentage of Total
+4.70%
+
+5.00%
+
+Apartment | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 11,746
+
+$ 9,591
+
+Percentage of Total
+36.20%
+
+36.00%
+
+Industrial | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 6,793
+
+$ 4,143
+
+Percentage of Total
+21.00%
+
+15.60%
+
+Office building | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 4,162
+
+$ 4,455
+
+Percentage of Total
+12.80%
+
+16.70%
+
+Hotels | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 2,786
+
+$ 2,913
+
+Percentage of Total
+8.60%
+
+11.00%
+
+Retail | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 2,269
+
+$ 2,158
+
+Percentage of Total
+7.00%
+
+8.10%
+
+Other commercial | Commercial Mortgage Loan
+
+Financing Receivable, Allowance for Credit Loss [Line Items]
+
+Fair Value
+$ 4,676
+
+$ 3,352
+
+Percentage of Total
+14.40%
+
+12.60%
+
+X
+
+- DefinitionInvestments, Percentage Of Total
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_InvestmentsPercentageOfTotal
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-K (SK)
+ -Number 229
+ -Section 1405
+ -Paragraph c
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableAllowanceForCreditLossesLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSum of the carrying amounts as of the balance sheet date of all investments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-14
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(1)(h))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(1)(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_Investments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CommercialLoanMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ResidentialMortgageMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=country_US
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_USEastNorthCentralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_USEastSouthCentralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_USMiddleAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_USMountainMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_NewEnglandMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_USPacificMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_USSouthAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_USWestNorthCentralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_USWestSouthCentralMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=stpr_CA
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=stpr_FL
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=stpr_TX
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=stpr_NY
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_OtherUSStatesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=us-gaap_NonUsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=country_GB
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=apo_InternationalOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_ApartmentBuildingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_IndustrialPropertyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_OfficeBuildingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_HotelMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_RetailSiteMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_MortgageLoansOnRealEstateDescriptionTypeOfPropertyAxis=srt_OtherPropertyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

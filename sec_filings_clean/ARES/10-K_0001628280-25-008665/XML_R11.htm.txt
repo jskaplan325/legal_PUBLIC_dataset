@@ -1,0 +1,133 @@
+XML
+83
+R11.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+GOODWILL AND INTANGIBLE ASSETS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Goodwill and Intangible Assets Disclosure [Abstract]
+
+GOODWILL AND INTANGIBLE ASSETS
+3. GOODWILL AND INTANGIBLE ASSETS
+Intangible Assets, Net
+The following table summarizes the carrying value, net of accumulated amortization, of the Company s intangible assets:
+
+ Weighted Average Amortization Period (in years) as of December 31, 2024 As of December 31,
+
+ 2024 2023
+Management contracts 4.0 $ 590,675 $ 604,242
+Client relationships 7.7 210,720 200,920
+
+Other 0.0 500 500
+Finite-lived intangible assets 801,895 805,662
+Foreign currency translation (789) 1,126
+Total finite-lived intangible assets 801,106 806,788
+Less: accumulated amortization (393,078) (316,093)
+Finite-lived intangible assets, net 408,028 490,695
+
+Indefinite-lived management contracts 567,800 567,800
+Intangible assets, net $ 975,828 $ 1,058,495
+
+On December 1, 2024, a subsidiary of the Company completed the acquisition of all the equity interests in Walton Street Capital Mexico S. de R.L. de C.V. and certain of its affiliates ( WSM ) (the WSM Acquisition ). WSM is a real estate asset management platform focused primarily on the industrial real estate sector in Mexico. The results of WSM are presented within the Real Assets Group. The Company allocated $27.0 million and $9.8 million of the purchase price to the fair value of the acquired management contracts and client relationships, respectively. The acquired management contracts and client relationships had a weighted average amortization period from the date of acquisition of 6.7 years and 10.0 years, respectively.
+During the year ended December 31, 2024, the Company recorded a non-cash impairment charge of $8.9 million to the fair value of management contracts of certain funds within the Credit Group, Real Assets Group and Secondaries Group. The primary indicator of impairment was the lower than expected future fee revenue generated from these funds. During the year ended December 31, 2023, the Company recorded a non-cash impairment charge of $78.7 million primarily related to the value of client relationships from the acquisition of Landmark Partners, LLC (the Landmark Acquisition ). The primary indicator of impairment was the lower than expected fee paying assets under management in a private equity secondaries fund from existing investors as of the date of the Landmark Acquisition. During the year ended December 31, 2022, the Company recorded non-cash impairment charges of $181.6 million related to rebranding of its secondaries group as Ares Secondaries and discontinued the ongoing use of the Landmark trade name, and fair value of management contracts in connection with lower than expected fee paying assets under management.
+
+Amortization expense associated with intangible assets, excluding the accelerated amortization described above, was $116.3 million, $126.0 million and $133.6 million for the years ended December 31, 2024, 2023 and 2022, respectively, and has been presented within general, administrative and other expenses within in the Consolidated Statements of Operations. During the year ended December 31, 2024, the Company removed $47.5 million of fully-amortized management contracts.
+
+As of December 31, 2024, future annual amortization of finite-lived intangible assets for the years 2025 through 2029 and thereafter is estimated to be:
+
+Year Amortization
+2025 $ 107,317
+2026 81,538
+2027 70,153
+2028 46,236
+2029 39,859
+Thereafter 62,925
+Total $ 408,028
+
+Goodwill
+
+The following table summarizes the carrying value of the Company s goodwill:
+
+ Credit Group Real Assets Group Private Equity Group Secondaries Group
+ Other
+ Total
+Balance as of December 31, 2022
+ $ 32,196 $ 277,183 $ 48,070 $ 417,620 $ 224,587 $ 999,656
+Acquisitions 22 124,392 124,414
+Reallocation 224,587 (224,587)
+Foreign currency translation (104) 10 (94)
+Balance as of December 31, 2023 256,679 277,205 172,462 417,630 1,123,976
+Acquisitions 35,091 4,605 39,696
+Reallocation 55,658 (55,658)
+Foreign currency translation (305) (727) (1) (3) (1,036)
+Balance as of December 31, 2024 $ 312,032 $ 311,569 $ 121,408 $ 417,627 $ $ 1,162,636
+
+In connection with the WSM Acquisition, the Company allocated $28.4 million of the purchase price to goodwill.
+In connection with the segment reorganization of the former special opportunities strategy as described in Note 14. Segment Reporting, the Company had an associated change in its reporting units and reallocated goodwill of $55.7 million from the Private Equity Group to the Credit Group using a relative fair value allocation approach in the first quarter of 2024.
+In connection with the acquisition of the investment management business and related operating entities collectively doing business as Crescent Point Capital ( Crescent Point ) (the Crescent Point Acquisition ) in the fourth quarter of 2023, the Company allocated $124.4 million of the purchase price to goodwill.
+
+In connection with the SSG Buyout in the first quarter of 2023 as described in Note 13. Equity and Redeemable Interest, the former Ares SSG reporting unit has been transferred in its entirety to the Credit Group and the total goodwill of $224.6 million has been reallocated accordingly.
+
+There was no impairment of goodwill recorded during the years ended December 31, 2024 and 2023. The impact of foreign currency translation adjustments are reflected within the Consolidated Statements of Comprehensive Income.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for goodwill and intangible assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

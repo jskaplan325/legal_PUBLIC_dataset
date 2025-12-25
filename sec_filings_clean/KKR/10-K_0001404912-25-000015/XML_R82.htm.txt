@@ -1,0 +1,614 @@
+XML
+104
+R82.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Net Investment Gains (Losses) (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Net Investment Income [Line Items]
+
+Credit Loss Allowances on Mortgage and Other Loan Receivables
+$ (305,770)
+
+$ (210,704)
+
+$ (369,296)
+
+Insurance
+
+Net Investment Income [Line Items]
+
+Realized Gains (Losses) on Available-for-Sale Fixed Maturity Securities
+(567,985)
+
+(64,140)
+
+(559,987)
+
+Credit Loss Allowances on Available-for-Sale Securities
+(115,367)
+
+(168,899)
+
+(57,411)
+
+Credit Loss Allowances on Mortgage and Other Loan Receivables
+(305,770)
+
+(210,704)
+
+(369,296)
+
+Credit Loss Allowances on Unfunded Commitments
+30,639
+
+6,321
+
+(34,112)
+
+Impairment of Available-for-Sale Fixed Maturity Securities Due to Intent to Sell
+0
+
+(26,741)
+
+0
+
+Unrealized Gains (Losses) on Fixed Maturity Securities Classified as Trading
+(735,209)
+
+1,031,227
+
+(2,603,874)
+
+Unrealized Gains (Losses) on Other Investments Recognized under the Fair-Value Option and Equity Investments
+9,560
+
+(23,540)
+
+(60,388)
+
+Unrealized Gains (Losses) on Real Assets
+(167,873)
+
+(202,671)
+
+77,755
+
+Realized Gains (Losses) on Real Assets
+11,418
+
+71,158
+
+(150,288)
+
+Net Gains (Losses) on Derivative Instruments
+419,927
+
+(680,717)
+
+2,346,747
+
+Other Realized Gains (Losses)
+(66,355)
+
+17,210
+
+57,466
+
+Net Investment-Related Gains (Losses)
+(1,423,086)
+
+(235,262)
+
+(1,318,490)
+
+Insurance | Payable Portfolio Segment
+
+Net Investment Income [Line Items]
+
+Realized Gains (Losses) on Funds Withheld at Interest Payable/Receivable Portfolio
+126,422
+
+25,427
+
+38,074
+
+Insurance | Receivable Portfolio Segment
+
+Net Investment Income [Line Items]
+
+Realized Gains (Losses) on Funds Withheld at Interest Payable/Receivable Portfolio
+$ (62,493)
+
+$ (9,193)
+
+$ (3,176)
+
+X
+
+- DefinitionFunds Withheld Receivable At Interest, Realized Gain (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FundsWithheldReceivableAtInterestRealizedGainLoss
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized Gains (Losses) On Real Assets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_RealizedGainsLossesOnRealAssets
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUnrealized Gain (Loss) On Investments, Fair Value Option And Equity Investments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_UnrealizedGainLossOnInvestmentsFairValueOptionAndEquityInvestments
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUnrealized Gains (Losses) On Real Assets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_UnrealizedGainsLossesOnRealAssets
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding accrued interest, of increase (decrease) in allowance for credit loss of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterestAllowanceForCreditLossPeriodIncreaseDecrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding accrued interest, of decrease in allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale) from intent to sell or more likely than not will be required to sell before recovery of amortized cost basis.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterestAllowanceForCreditLossSellBeforeRecovery
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized gain (loss) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleRealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of unrealized gain (loss) on investment in debt security measured at fair value with change in fair value recognized in net income (trading).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-14
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesTradingUnrealizedGainLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase (decrease) in the fair value of derivatives recognized in the income statement.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_DerivativeGainLossOnDerivativeNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding accrued interest, of credit loss expense (reversal of expense) on financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestCreditLossExpenseReversal
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of realized and unrealized gain (loss) on investment.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 3: http://www.xbrl.org/2003/role/recommendedDisclosureRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_GainLossOnInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of gain (loss) included in earnings for investments classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_GainLossOnSaleOfOtherInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense (reversal of expense) for expected credit loss for off-balance sheet credit exposure. Excludes off-balance sheet credit exposure accounted for as insurance and instrument accounted for under derivatives and hedging.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_OffBalanceSheetCreditLossLiabilityCreditLossExpenseReversal
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(2)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfInvestmentIncomeReportedAmountsByCategoryLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=kkr_PayablePortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=kkr_ReceivablePortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

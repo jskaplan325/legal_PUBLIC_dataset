@@ -1,0 +1,1073 @@
+XML
+114
+R85.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Partnership Credit Facilities (Parenthetical) (Detail) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Line of Credit Facility [Line Items]
+
+Maximum percentage of aggregate principal amount of the outstanding notes
+25.00%
+
+Percentage of repurchase of note on principal amount of notes
+101.00%
+
+Secured Borrowings One
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, maturity date
+Oct. 27, 2033
+
+Secured Borrowings Two
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, maturity date
+Jan. 29, 2035
+
+Secured Debt
+
+Line of Credit Facility [Line Items]
+
+Secured Debt
+$ 49.6
+
+Senior Secured Note | 2.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+2.00%
+
+Debt instrument, maturity date
+May 19, 2025
+
+Senior Secured Note | 1.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+1.00%
+
+Debt instrument, maturity date
+Oct. 05, 2026
+
+Senior Secured Note | 3.150% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+3.15%
+
+Debt instrument, maturity date
+Oct. 02, 2027
+
+Senior Secured Note | 5.900% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+5.90%
+
+Debt instrument, maturity date
+Nov. 03, 2027
+
+Senior Secured Note | 1.625% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+1.625%
+
+Debt instrument, maturity date
+Aug. 05, 2028
+
+Senior Secured Note | 1.500% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+1.50%
+
+Debt instrument, maturity date
+Apr. 10, 2029
+
+Senior Secured Note | 2.500% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+2.50%
+
+Debt instrument, maturity date
+Jan. 10, 2030
+
+Senior Secured Note | 1.600% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+1.60%
+
+Debt instrument, maturity date
+Mar. 30, 2031
+
+Senior Secured Note | 2.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+2.00%
+
+Debt instrument, maturity date
+Jan. 30, 2032
+
+Senior Secured Note | 2.550% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+2.55%
+
+Debt instrument, maturity date
+Mar. 30, 2032
+
+Senior Secured Note | 6.200% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+6.20%
+
+Debt instrument, maturity date
+Apr. 22, 2033
+
+Senior Secured Note | 3.500% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+3.50%
+
+Debt instrument, maturity date
+Jun. 01, 2034
+
+Senior Secured Note | 5.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+5.00%
+
+Debt instrument, maturity date
+Dec. 06, 2034
+
+Senior Secured Note | 6.250% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+6.25%
+
+Debt instrument, maturity date
+Aug. 15, 2042
+
+Senior Secured Note | 5.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+5.00%
+
+Debt instrument, maturity date
+Jun. 15, 2044
+
+Senior Secured Note | 4.450% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+4.45%
+
+Debt instrument, maturity date
+Jul. 15, 2045
+
+Senior Secured Note | 4.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+4.00%
+
+Debt instrument, maturity date
+Oct. 02, 2047
+
+Senior Secured Note | 3.500% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+3.50%
+
+Debt instrument, maturity date
+Sep. 10, 2049
+
+Senior Secured Note | 2.800% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+2.80%
+
+Debt instrument, maturity date
+Sep. 30, 2050
+
+Senior Secured Note | 2.850% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+2.85%
+
+Debt instrument, maturity date
+Aug. 05, 2051
+
+Senior Secured Note | 3.200% Notes
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+3.20%
+
+Debt instrument, maturity date
+Jan. 30, 2052
+
+Letter of Credit
+
+Line of Credit Facility [Line Items]
+
+Credit facility, maximum borrowing capacity
+$ 38.9
+
+$ 40.3
+
+Revolving Credit Facility [Member]
+
+Line of Credit Facility [Line Items]
+
+Debt instrument, interest rate
+5.00%
+
+Commitment fee percentage
+0.06%
+
+Debt instrument, basis spread on variable rate
+0.75%
+
+0.75%
+
+Debt Instrument Additional Credit Spread Adjustment
+0.10%
+
+X
+
+- DefinitionDebt Instrument Additional Credit Spread Adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_DebtInstrumentAdditionalCreditSpreadAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionMaximum percentage of aggregate principal amount of the outstanding notes.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_MaximumPercentageOfAggregatePrincipalAmountOfOutstandingNotes
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage of repurchase of notes on principal amount of notes.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PercentageOfRepurchaseOfNotesOnPrincipalAmountOfNotes
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage points added to the reference rate to compute the variable rate on the debt instrument.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentBasisSpreadOnVariableRate1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionContractual interest rate for funds borrowed, under the debt agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(a)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentInterestRateStatedPercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDate when the debt instrument is scheduled to be fully repaid, in YYYY-MM-DD format.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1B
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentMaturityDate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:dateItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe fee, expressed as a percentage of the line of credit facility, for the line of credit facility regardless of whether the facility has been used.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityCommitmentFeePercentage
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(f))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionMaximum borrowing capacity under the credit facility without consideration of any current restrictions on the amount that could be borrowed or the amounts currently outstanding under the facility.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(19)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityMaximumBorrowingCapacity
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionCarrying value as of the balance sheet date, including the current and noncurrent portions, of collateralized debt obligations (with maturities initially due after one year or beyond the operating cycle, if longer). Such obligations include mortgage loans, chattel loans, and any other borrowings secured by assets of the borrower.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(16))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(16)(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_SecuredDebt
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SecuredBorrowingsOneMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SecuredBorrowingsTwoMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=us-gaap_SecuredDebtMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CreditFacilityAxis=bx_SeniorSecuredNoteMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointOneFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointNineZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointSixTwoFivePercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointFiveZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointFiveZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointSixZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointZeroZeroZero1PercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointFiveFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SixPointTwoZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointFiveZeroZeroPercentNoteMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SixPointTwoFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointZeroZeroZero1PercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FourPointFourFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FourPointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointFiveZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointEightZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointEightFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointTwoZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CreditFacilityAxis=us-gaap_LetterOfCreditMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CreditFacilityAxis=us-gaap_RevolvingCreditFacilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

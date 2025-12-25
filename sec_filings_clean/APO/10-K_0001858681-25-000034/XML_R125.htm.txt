@@ -1,0 +1,280 @@
+XML
+155
+R125.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Income Taxes - Net Operating Losses (Details)
+ $ in Millions
+
+Dec. 31, 2024
+
+USD ($)
+
+Operating Loss Carryforwards [Line Items]
+
+U.S. foreign tax credit
+$ 66
+
+U.S. corporate alternative minimum tax credit
+115
+
+Federal
+
+Operating Loss Carryforwards [Line Items]
+
+Net operating losses, subject to expire
+580
+
+Foreign | United Kingdom
+
+Operating Loss Carryforwards [Line Items]
+
+Net operating losses, not subject to expire
+194
+
+Foreign | Bermuda
+
+Operating Loss Carryforwards [Line Items]
+
+Net operating losses, not subject to expire
+7,797
+
+State
+
+Operating Loss Carryforwards [Line Items]
+
+Net operating losses, subject to expire
+$ 281
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible operating loss carryforwards that are not subject to expiration dates.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsOperatingLossCarryforwardsNotSubjectToExpiration
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible operating loss carryforwards that are subject to expiration dates.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible alternative minimum tax credit carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsTaxCreditCarryforwardsAlternativeMinimumTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount before allocation of valuation allowances of deferred tax asset attributable to deductible foreign tax credit carryforwards.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-6
+
++ Details
+
+ Name:
+us-gaap_DeferredTaxAssetsTaxCreditCarryforwardsForeign
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-3
+
++ Details
+
+ Name:
+us-gaap_OperatingLossCarryforwardsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeTaxAuthorityAxis=us-gaap_DomesticCountryMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeTaxAuthorityAxis=us-gaap_ForeignCountryMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=country_GB
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=country_BM
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeTaxAuthorityAxis=us-gaap_StateAndLocalJurisdictionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

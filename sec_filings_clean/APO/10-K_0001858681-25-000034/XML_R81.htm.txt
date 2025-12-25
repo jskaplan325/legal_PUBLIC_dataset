@@ -1,0 +1,215 @@
+XML
+111
+R81.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Schedule of Concentration of Risk, by Risk Factor (Details) - Shareholders' Equity - Investment Concentration Risk - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+AP Grange Holdings, LLC
+
+Concentration Risk [Line Items]
+
+Investment concentration risk, amount
+$ 4,661
+
+Atlas
+
+Concentration Risk [Line Items]
+
+Investment concentration risk, amount
+3,172
+
+Fox Hedge L.P.
+
+Concentration Risk [Line Items]
+
+Investment concentration risk, amount
+$ 2,924
+
+Wheels, Inc. ( Wheels )
+
+Concentration Risk [Line Items]
+
+Investment concentration risk, amount
+
+$ 1,591
+
+AT&T Inc.
+
+Concentration Risk [Line Items]
+
+Investment concentration risk, amount
+
+$ 1,526
+
+X
+
+- DefinitionInvestment Concentration Risk, Amount
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_InvestmentConcentrationRiskAmount
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478785/954-310-50-2
+
++ Details
+
+ Name:
+us-gaap_ConcentrationRiskLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_ConcentrationRiskByBenchmarkAxis=us-gaap_StockholdersEquityTotalMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ConcentrationRiskByTypeAxis=apo_InvestmentConcentrationRiskMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=apo_APGrangeHoldingsLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=apo_AtlasMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=apo_FoxHedgeL.PMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=apo_WheelsInc.Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=apo_ATTIncMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,138 @@
+XML
+38
+R16.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Investments, Debt and Equity Securities [Abstract]
+
+NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGSNet Gains (Losses) from Investment Activities in the consolidated statements of operations consist primarily of the realized and unrealized gains and losses on investments (including foreign exchange gains and losses attributable to foreign denominated investments and related activities) and other financial instruments, including those for which the fair value option has been elected. Unrealized gains or losses result from changes in the fair value of these investments and other financial instruments during a period. Upon disposition of an investment or financial instrument, previously recognized unrealized gains or losses are reversed and an offsetting realized gain or loss is recognized in the current period.
+The following table summarizes total Net Gains (Losses) from Investment Activities:
+
+ For the Year Ended December 31, 2024
+ Net Realized Gains (Losses) Net Unrealized Gains (Losses) Total
+Private Equity (1)
+ $ 191,791 $ 1,694,901 $ 1,886,692
+Credit (1)
+ (509,690) 279,102 (230,588)
+Investments of Consolidated CFEs (1)
+ (61,580) 84,799 23,219
+Real Assets (1)
+ 287,041 (200,080) 86,961
+Equity Method - Other (1)
+ 409,833 606,258 1,016,091
+Other Investments (1)
+ (187,015) 109,411 (77,604)
+Foreign Exchange Forward Contracts and Options (2)
+ 171,330 549,055 720,385
+Securities Sold Short (2)
+ (31,912) 13,633 (18,279)
+Other Derivatives (2)
+ (40,055) 16,332 (23,723)
+Debt Obligations and Other (3)
+ 17,089 42,610 59,699
+Net Gains (Losses) From Investment Activities $ 246,832 $ 3,196,021 $ 3,442,853
+
+ For the Year Ended December 31, 2023
+ Net Realized Gains (Losses) Net Unrealized Gains (Losses) Total
+Private Equity (1)
+ $ (300,439) $ 2,931,254 $ 2,630,815
+Credit (1)
+ (322,067) 505,868 183,801
+Investments of Consolidated CFEs (1)
+ (104,196) 1,019,063 914,867
+Real Assets (1)
+ (322,894) 16,107 (306,787)
+Equity Method - Other (1)
+ 327,549 586,125 913,674
+Other Investments (1)
+ (329,006) 198,889 (130,117)
+Foreign Exchange Forward Contracts and Options (2)
+ 155,784 (312,408) (156,624)
+Securities Sold Short (2)
+ 4,780 (12,872) (8,092)
+Other Derivatives (2)
+ 11,120 2,383 13,503
+Debt Obligations and Other (3)
+ 102,896 (1,132,553) (1,029,657)
+Net Gains (Losses) From Investment Activities $ (776,473) $ 3,801,856 $ 3,025,383
+
+ For the Year Ended December 31, 2022
+ Net Realized Gains (Losses) Net Unrealized Gains (Losses) Total
+Private Equity (1)
+ $ 784,736 $ (1,541,242) $ (756,506)
+Credit (1)
+ (168,025) (470,254) (638,279)
+Investments of Consolidated CFEs (1)
+ (69,234) (1,437,482) (1,506,716)
+Real Assets (1)
+ 323,901 220,207 544,108
+Equity Method - Other (1)
+ 73,317 (298,100) (224,783)
+Other Investments (1)
+ 29,490 (661,967) (632,477)
+Foreign Exchange Forward Contracts and Options (2)
+ 389,371 (26,406) 362,965
+Securities Sold Short (2)
+ 89,705 11,010 100,715
+Other Derivatives (2)
+ (32,614) 39,404 6,790
+Debt Obligations and Other (3)
+ (122,141) 1,200,787 1,078,646
+Net Gains (Losses) From Investment Activities $ 1,298,506 $ (2,964,043) $ (1,665,537)
+
+(1)See Note 7 "Investments."
+(2)See Note 8 "Derivatives" and Note 14 "Other Assets and Accrued Expenses and Other Liabilities."
+(3)See Note 16 "Debt Obligations."
+
+X
+
+- DefinitionThe entire disclosure of realized gains and losses and unrealized gains and losses arising from investment activities. The majority of net gains (losses) from investment activities are related to private equity investments. Changes in net gains (losses) from investment activities between reporting periods is driven primarily by changes in the fair value of the investment portfolio as well as the realization of investments.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_GainLossFromInvestmentActivitiesNetDisclosureTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InvestmentsDebtAndEquitySecuritiesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,441 @@
+XML
+105
+R83.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Allowance for Credit Losses (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Debt Securities, Available-for-sale, Allowance for Credit Loss [Roll Forward]
+
+Balance, as of Beginning of Period
+$ 268,712
+
+$ 128,332
+
+$ 88,133
+
+Initial Credit Loss Allowance Recognized on Securities with No Previously Recognized Allowance
+108,843
+
+143,789
+
+69,734
+
+Initial Credit Loss Allowance Recognized on Purchased Credit Deteriorated ("PCD") Securities
+
+707
+
+Accretion of Initial Credit Loss Allowance on PCD Securities
+611
+
+1,191
+
+1,847
+
+Reductions due to Sales (or Maturities, Pay Downs or Prepayments) During the Period of Securities with a Previously Recognized Credit Loss Allowance
+(20,466)
+
+(16,063)
+
+(11,925)
+
+Net Additions / Reductions for Securities with a Previously Recognized Credit Loss Allowance
+6,524
+
+25,110
+
+(12,323)
+
+Balances Charged Off
+(88,902)
+
+(13,647)
+
+(7,841)
+
+Balance, as of End of Period
+275,322
+
+268,712
+
+128,332
+
+Corporate
+
+Debt Securities, Available-for-sale, Allowance for Credit Loss [Roll Forward]
+
+Balance, as of Beginning of Period
+49,008
+
+1,298
+
+3,238
+
+Initial Credit Loss Allowance Recognized on Securities with No Previously Recognized Allowance
+106,038
+
+68,166
+
+791
+
+Initial Credit Loss Allowance Recognized on Purchased Credit Deteriorated ("PCD") Securities
+
+0
+
+Accretion of Initial Credit Loss Allowance on PCD Securities
+0
+
+0
+
+0
+
+Reductions due to Sales (or Maturities, Pay Downs or Prepayments) During the Period of Securities with a Previously Recognized Credit Loss Allowance
+(1,089)
+
+(2,843)
+
+0
+
+Net Additions / Reductions for Securities with a Previously Recognized Credit Loss Allowance
+22,184
+
+(3,966)
+
+5,110
+
+Balances Charged Off
+(76,525)
+
+(13,647)
+
+(7,841)
+
+Balance, as of End of Period
+99,616
+
+49,008
+
+1,298
+
+Structured
+
+Debt Securities, Available-for-sale, Allowance for Credit Loss [Roll Forward]
+
+Balance, as of Beginning of Period
+219,704
+
+127,034
+
+84,895
+
+Initial Credit Loss Allowance Recognized on Securities with No Previously Recognized Allowance
+2,805
+
+75,623
+
+68,943
+
+Initial Credit Loss Allowance Recognized on Purchased Credit Deteriorated ("PCD") Securities
+
+707
+
+Accretion of Initial Credit Loss Allowance on PCD Securities
+611
+
+1,191
+
+1,847
+
+Reductions due to Sales (or Maturities, Pay Downs or Prepayments) During the Period of Securities with a Previously Recognized Credit Loss Allowance
+(19,377)
+
+(13,220)
+
+(11,925)
+
+Net Additions / Reductions for Securities with a Previously Recognized Credit Loss Allowance
+(15,660)
+
+29,076
+
+(17,433)
+
+Balances Charged Off
+(12,377)
+
+0
+
+0
+
+Balance, as of End of Period
+$ 175,706
+
+$ 219,704
+
+$ 127,034
+
+X
+
+- DefinitionDebt Securities, Available-for-Sale, Excluding Accrued Interest, Allowance for Credit Loss, Purchased with Credit Deterioration, Increase
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DebtSecuritiesAvailableForSaleExcludingAccruedInterestAllowanceForCreditLossPurchasedWithCreditDeteriorationIncrease
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDebt Securities, Available-for-sale, Excluding Accrued Interest, Purchased with Credit Deterioration, Accretion
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DebtSecuritiesAvailableForSaleExcludingAccruedInterestPurchasedWithCreditDeteriorationAccretion
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAllowanceForCreditLossRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount excluding accrued interest, of allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479130/326-30-45-1
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleAmortizedCostAllowanceForCreditLossExcludingAccruedInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, excluding accrued interest, of credit loss expense on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale) with no credit loss previously recorded.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterestAllowanceForCreditLossNotPreviouslyRecorded
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding accrued interest, of credit loss expense (reversal of expense) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale) with previously recorded allowance and not intended to be sold and not more likely than not will be required to sell before recovery of amortized cost basis.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterestAllowanceForCreditLossNotToSellBeforeRecoveryCreditLossPreviouslyRecordedExpenseReversal
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding accrued interest, of decrease in allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale) from sale.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterestAllowanceForCreditLossSecuritiesSold
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding accrued interest, of decrease in allowance for credit loss on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale) from writeoff.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (g)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-9
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterestAllowanceForCreditLossWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_StructuredFinanceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

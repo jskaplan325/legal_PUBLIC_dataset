@@ -1,0 +1,157 @@
+XML
+37
+R14.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Intangible Assets and Goodwill
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Goodwill and Intangible Assets Disclosure [Abstract]
+
+Intangible Assets and Goodwill
+5. Intangible Assets and GoodwillThe following table summarizes the carrying amount of intangible assets as of December 31, 2024 and 2023:
+
+ As of December 31,
+
+ 2024
+
+ 2023
+
+ (Dollars in millions)
+
+Acquired contractual rights
+
+ $922.7
+
+ $924.1
+
+Accumulated amortization
+
+ (392.2)
+
+ (262.0)
+
+Finite-lived intangible assets, net
+
+ 530.5
+
+ 662.1
+
+Goodwill
+
+ 103.6
+
+ 104.0
+
+Intangible Assets, net
+
+ $634.1
+
+ $766.1
+
+As of December 31, 2024, goodwill included $91.1 million related to the Company s Global Private Equity segment in
+connection with the acquisition of Abingworth. The balance also included $5.5 million associated with the Company s Global
+Credit segment and $7.0 million associated with the Company s Global Investment Solutions segment.
+
+As discussed in Note 2, Summary of Significant Accounting Policies, the Company reviews its intangible assets for
+impairment whenever events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable,
+and considers factors including, but not limited to, expected cash flows from its interest in future management fees and the
+ability to raise new funds. During the years ended December 31, 2024 and 2023, the Company recorded no impairment losses.
+During the year ended December 31, 2022, the Company recorded an impairment charge of $4.0 million on certain acquired
+contractual rights related to Carlyle Aviation Partners as a result of impaired income streams from aircraft under lease in
+Russia.
+Intangible asset amortization expense was $130.8 million, $135.0 million and $103.9 million for the years ended
+December 31, 2024, 2023 and 2022, respectively, and is included in general, administrative, and other expenses in the
+consolidated statements of operations. Certain intangible assets are held by entities of which the functional currency is not the
+U.S. dollar. Any corresponding currency translation is recorded in accumulated other comprehensive income (loss).
+The following table summarizes the expected amortization expense for 2025 through 2029 and thereafter (Dollars in
+millions):
+
+Year ending December 31,
+
+2025
+
+ $131.0
+
+2026
+
+ 130.9
+
+2027
+
+ 120.8
+
+2028
+
+ 113.6
+
+2029
+
+ 31.7
+
+Thereafter
+
+ 2.5
+
+ $530.5
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for goodwill and intangible assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

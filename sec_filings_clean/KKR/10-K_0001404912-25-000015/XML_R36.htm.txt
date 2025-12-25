@@ -1,0 +1,197 @@
+XML
+58
+R36.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+COMMITMENTS AND CONTINGENCIES
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Commitments and Contingencies Disclosure [Abstract]
+
+COMMITMENTS AND CONTINGENCIES
+COMMITMENTS AND CONTINGENCIES Funding Commitments and Others
+As of December 31, 2024, KKR had unfunded commitments consisting of $11.0 billion to its investment funds and vehicles. These unfunded commitments also include funding requirements to levered investment vehicles and structured transactions to fund or otherwise be liable for a portion of the vehicle's investment losses and/or to provide the vehicle with liquidity upon certain termination events.
+In addition to these uncalled commitments and funding obligations to KKR's investment funds and vehicles, KKR has entered into contractual commitments primarily with respect to underwriting transactions, debt financing, revolving credit facilities, and syndications in KKR's Capital Markets business line. As of December 31, 2024, these capital markets commitments amounted to $0.7 billion. Whether these amounts are actually funded, in whole or in part, depends on the contractual terms of such capital markets commitments, including the satisfaction or waiver of any conditions to closing or funding. KKR's capital markets business has arrangements with third parties, which are expected to reduce KKR's risk under certain circumstances when underwriting certain debt transactions. As a result, our unfunded capital markets commitments as of December 31, 2024 have been reduced to reflect the amount expected to be funded by such third parties. As of December 31, 2024, KKR's capital markets business line has entered into such arrangements representing a total notional amount of $4.5 billion.
+Global Atlantic has commitments to purchase or fund investments of $3.1 billion as of December 31, 2024. These commitments include those related to mortgage loans, other lending facilities, and real assets. For those commitments that represent a contractual obligation to extend credit, Global Atlantic has recorded a liability of $14.9 million for current expected credit losses as of December 31, 2024.
+In addition, Global Atlantic has entered into certain forward flow agreements to purchase loans. Global Atlantic's obligations under these agreements are subject to change, curtailment, and cancellation based on various provisions including repricing mechanics, due diligence reviews, and performance or pool quality, among other factors.
+Global Atlantic has certain contingent funding obligations related to development-stage renewable energy projects in the amount of $329.7 million as of December 31, 2024, with expiration dates occurring between May 2025 and September 2027. For accounting purposes, these contingent funding obligations are considered guarantees of the obligations of the development-stage renewable energy projects.
+As of December 31, 2024, purchase commitments under agreements with third-party administrators and other service providers were as follows:
+
+2025 $ 35,659
+2026 31,329
+2027 21,830
+2028 12,537
+2029 11,160
+Thereafter 54,913
+Total $ 167,428
+
+Non-cancelable Operating Leases
+KKR's non-cancelable operating leases consist of leases of office space around the world. There are no material rent holidays, contingent rent, rent concessions, or leasehold improvement incentives associated with any of these property leases. In addition to base rentals, certain lease agreements are subject to escalation provisions and rent expense is recognized on a straight line basis over the term of the lease agreement. Global Atlantic also enters into land leases for its consolidated investments in renewable energy.
+As of December 31, 2024, the approximate aggregate future lease payments required on the asset management operating leases are as follows:
+
+2025 $ 51,593
+2026 80,012
+2027 73,910
+2028 70,413
+2029 66,906
+Thereafter 584,472
+Total Lease Payments Required 927,306
+Less: Imputed Interest 205,065
+Total Operating Lease Liabilities $ 722,241
+
+As of December 31, 2024, the approximate aggregate future lease payments required on the Global Atlantic operating leases are as follows:
+
+2025 $ 18,699
+2026 17,041
+2027 17,056
+2028 13,425
+2029 12,091
+Thereafter 289,301
+Total Lease Payments Required 367,613
+Less: Imputed Interest 182,066
+Total Operating Lease Liabilities $ 185,547
+
+Contingent Repayment Guarantees
+The partnership documents governing KKR's carry-paying investment funds and vehicles generally include a "clawback" provision that, if triggered, may give rise to a contingent obligation requiring the general partner to return amounts to the fund for distribution to the fund investors at the end of the life of the fund. Under a clawback obligation, upon the liquidation of a fund, the general partner is required to return, typically on an after-tax basis, previously distributed carry to the extent that, due to the diminished performance of later investments, the aggregate amount of carry distributions received by the general partner during the term of the fund exceed the amount to which the general partner was ultimately entitled, including the effects of any performance thresholds. KKR has guaranteed its general partners' clawback obligations.
+As of December 31, 2024, approximately $546 million of carried interest was subject to this clawback obligation, assuming that all applicable carry-paying funds and their alternative investment vehicles were liquidated at their December 31, 2024 fair values. Although KKR would be required to remit the entire amount to fund investors that are entitled to receive the clawback payment, KKR would be entitled to seek reimbursement of approximately $221 million of that amount from Associates Holdings, which is not a KKR subsidiary. As of December 31, 2024, Associates Holdings had access to cash reserves sufficient to reimburse the full $221 million that would be due to KKR. If the investments in all carry-paying funds were to be liquidated at zero value, a possibility that management views to be remote, the clawback obligation would have been approximately $4.7 billion as of December 31, 2024. KKR will acquire control of Associates Holdings when a subsidiary of KKR becomes its general partner upon the closing of the transactions contemplated to occur on the Sunset Date (as defined in Note 1 "Organization"), which will occur not later than December 31, 2026.
+Carried interest is recognized in the consolidated statements of operations based on the contractual conditions set forth in the agreements governing the fund as if the fund were terminated and liquidated at the reporting date and the fund's investments were realized at the then estimated fair values. Amounts earned pursuant to carried interest are earned by the general partner of those funds to the extent that cumulative investment returns are positive and where applicable, preferred return thresholds have been met. If these investment amounts earned decrease or turn negative in subsequent periods, recognized carried interest will be reversed and to the extent that the aggregate amount of carry distributions received by the general partner during the term of the fund exceed the amount to which the general partner was ultimately entitled, a clawback obligation would be recorded. For funds that are consolidated, this clawback obligation, if any, is reflected as an increase in noncontrolling interests in the consolidated statements of financial condition. For funds that are not consolidated, this clawback obligation, if any, is reflected as a reduction of KKR's investment balance as this is where carried interest is initially recorded.
+Indemnifications and Other Guarantees
+KKR may incur contingent liabilities for claims that may be made against it in the future. KKR enters into contracts that contain a variety of representations, warranties and covenants, including indemnifications. KKR (including KFN) and certain of KKR's investment funds have provided and provide certain credit support, such as indemnities and guarantees, relating to a variety of matters, including non-recourse carve-out guarantees for fraud, willful misconduct and other wrongful acts in connection with the financing of (i) certain real estate investments that we have made, including KKR's corporate real estate, and (ii) certain investment vehicles that KKR manages or sponsors.
+KKR also has provided, and provides, credit support in connection with its businesses, including:
+
+i.to certain of its subsidiaries' obligations in connection with a limited number of investment vehicles that KKR manages,
+
+ii.in connection with repayment and funding obligations to third-party lenders on behalf of certain employees, excluding its executive officers, in connection with their personal investments in KKR investment funds and a levered multi-asset investment vehicle,
+
+iii.to one of its hedge fund partnerships,
+
+iv.through a contingent guarantee of a subsidiary s loan repayment obligations, which does not become effective unless and until its loan becomes accelerated due to certain specified events of default involving the investment vehicles managed by KJRM,
+
+v.the obligations of our subsidiaries' funding obligations to our investment vehicles, and
+
+vi.certain of our investment vehicles to fund or otherwise be liable for a portion of their investment losses and/or to provide them with liquidity upon certain termination events.
+
+In addition, KKR has agreed to tender to one of its consolidated investment vehicles up to a fixed number of shares that KKR owns in it if the net asset value of such shares is less than an agreed upon value on June 1, 2027.
+KKR may also become liable for certain fees payable to sellers of businesses or assets if a transaction does not close, subject to certain conditions, if any, specified in the acquisition agreements for such businesses or assets.
+In addition, the Global Atlantic business was formerly owned by The Goldman Sachs Group, Inc. (together with its subsidiaries, "Goldman Sachs"). In connection with the separation of Global Atlantic from Goldman Sachs in 2013, Global Atlantic entered into a tax benefit payment agreement with Goldman Sachs. Under the tax benefit payment agreement, GA FinCo is obligated to make annual payments out of available cash, guaranteed by GAFG, to Goldman Sachs over an approximately 25-year period. As of December 31, 2024, the present value of the remaining amount to be paid is $49.5 million. Although these payments are subordinated and deferrable, deferral of these payments would result in restrictions on distributions by GA FinCo and GAFG.
+Unless otherwise stated above, KKR's maximum exposure under the arrangements described under this section Indemnifications and Other Guarantees are currently unknown as there are no stated or notional amounts included in these arrangements and KKR's liabilities for these matters would require a claim to be made against KKR in the future.
+Legal Proceedings
+From time to time, KKR (including Global Atlantic) is involved in various legal proceedings, requests for information, lawsuits, arbitration, and claims incidental to the conduct of KKR's businesses. KKR's businesses are also subject to extensive regulation, which may result in regulatory or other legal proceedings against them. Moreover, in the ordinary course of business, KKR is and can be the defendant or the plaintiff in numerous lawsuits with respect to acquisitions, bankruptcy, insolvency and other events. Such lawsuits may involve claims, or may be resolved on terms, that adversely affect the value of certain investments owned by KKR's funds and Global Atlantic's insurance companies.
+Kentucky Matter
+In December 2017, KKR & Co. L.P. (which is now KKR Group Co. Inc.) and its then Co-Chief Executive Officers, Henry Kravis and George Roberts, were named as defendants in a lawsuit filed in Kentucky state court (the 2017 Action ) alleging, among other things, the violation of fiduciary and other duties in connection with certain separately managed accounts that Prisma Capital Partners LP, a former subsidiary of KKR, manages for the Kentucky Retirement Systems. Also named as defendants in the lawsuit are certain current and former trustees and officers of the Kentucky Retirement Systems, Prisma Capital Partners LP, and various other service providers to the Kentucky Retirement Systems and their related persons. The 2017 Action was dismissed at the direction of the Supreme Court of Kentucky for lack of Kentucky constitutional standing. This dismissal became final on February 16, 2024.
+On July 21, 2020, the Office of the Attorney General, on behalf of the Commonwealth of Kentucky (the "Kentucky AG"), filed a new lawsuit in the same Kentucky state court (the 2020 AG Action ) making essentially the same allegations as those raised in the 2017 Action, including against what was then KKR & Co. Inc. (now KKR Group Co. Inc.) and Messrs. Kravis and Roberts. On May 1, 2024, the trial court denied motions to dismiss the 2020 AG Action filed by KKR & Co. Inc. and Messrs. Kravis and Roberts.
+On April 8, 2024, after receiving permission from the Kentucky trial court in the 2020 AG Action, the Kentucky AG amended its complaint in the 2020 AG Action to add a claim for breach of contract. The Kentucky AG also filed an action (the "2024 AG Action") substantially identical to the 2020 AG Action, including the new claim for breach of contract. On April 23, 2024, KKR & Co. Inc., Messrs. Kravis and Roberts and other defendants moved to strike the Kentucky AG's amended complaint in the 2020 AG Action, to stay consideration of the breach of contract claim and the 2024 AG Action until after the trial court's ruling on the motions to dismiss the 2020 AG Action, and to deny a motion by the Kentucky AG to consolidate the 2020 AG Action and the 2024 AG Action. These motions were denied, and the trial court consolidated the 2020 AG Action with the 2024 AG Action. On June 17, 2024, KKR & Co. Inc., Messrs. Kravis and Roberts and other defendants filed new motions to dismiss the consolidated 2020 AG Action and 2024 AG Action.
+In January 2021, some of the attorneys for the plaintiffs in the 2017 Action filed a new lawsuit on behalf of a new set of plaintiffs, who claim to be Tier 3 members of Kentucky Retirement Systems (the Tier 3 Plaintiffs ), alleging substantially the same allegations as in the 2017 Action. On July 9, 2021, the Tier 3 Plaintiffs served an amended complaint, which purports to assert, on behalf of a class of beneficiaries of Kentucky Retirement Systems, direct claims for breach of fiduciary duty and civil violations under the Racketeer Influenced and Corrupt Organizations Act ( RICO ). This complaint was removed to the U.S. District Court for the Eastern District of Kentucky, which has entered an order staying this case until the completion of the 2020 AG Action. On August 20, 2021, the Tier 3 Plaintiffs and other individual plaintiffs filed a second complaint in Kentucky state court (the Second Tier 3 Action ), purportedly on behalf of Kentucky Retirement Systems funds, alleging the same claims against what was then KKR & Co. Inc. (now KKR Group Co. Inc.) and Messrs. Kravis and Roberts as in the July 9th amended complaint but without the RICO or class action allegations. On May 1, 2024, the trial court denied motions to dismiss the Second Tier 3 Action filed by KKR & Co. Inc. and Messrs. Kravis and Roberts. On July 3, 2024, KKR & Co. Inc., Messrs. Kravis and Roberts and other defendants filed a writ of prohibition asking the Kentucky Court of Appeals to order the trial court to dismiss the Second Tier 3 Action. The Second Tier 3 Action is stayed pending the outcome of this petition.
+On March 24, 2022, in a separate declaratory judgment action brought by the Commonwealth of Kentucky regarding the enforceability of certain indemnification provisions available to what was then KKR & Co. Inc. (now KKR Group Co. Inc.) and Prisma Capital Partners LP, the Kentucky state court concluded that it has personal jurisdiction over KKR & Co. Inc. in that action, and that the indemnification provisions violated the Kentucky Constitution and were therefore unenforceable. On December 1, 2023, the Kentucky Court of Appeals reversed the trial court s summary judgment on the issue of personal jurisdiction over KKR & Co. Inc., but affirmed the trial court s rulings that the indemnification provisions violated the Kentucky Constitution and were unenforceable. On February 5, 2024, the Kentucky Court of Appeals denied the petitions of KKR & Co. Inc. and others for rehearing. On April 8, 2024, KKR & Co. Inc. and other defendants in the declaratory judgment case filed motions with the Supreme Court of Kentucky for discretionary review of the Court of Appeals' December 1, 2023 decision. On August 14, 2024, the Kentucky Supreme Court granted discretionary review in the Kentucky AG s declaratory judgment case of both personal jurisdiction over KKR & Co. Inc. and the enforceability and constitutionality of the indemnification provisions.
+On January 8, 2025, KKR, Messrs. Kravis and Roberts, Prisma Capital Partners L.P., and certain other defendants entered into an agreement with the Commonwealth of Kentucky, Kentucky Public Pensions Authority, County Employees Retirement System and Kentucky Retirement Systems (the KPPA Entities ) to settle the 2020 AG Action and the 2024 AG Action. If the settlement is approved by the court, the defendants must collectively deposit the settlement recovery of $227.5 million into an agreed escrow account, minus a dollar-for-dollar credit in the amount of the remaining funds and assets held in the Daniel Boone Fund reserve which is controlled by defendant Prisma Capital Partners L.P.; currently the Daniel Boone Fund reserve
+totals approximately $145 million. If the following conditions are met, the escrow account will be terminated, the Daniel Boone Fund reserve will be delivered to the KPPA Entities, and all claims in connection with the investments and related matters against KKR, Messrs. Kravis and Roberts, Prisma Capital Partners L.P., and the other defendants that are party to the settlement agreement will be dismissed: (1) the approval of the settlement becomes final and non-appealable, and (2) either (i) there is a final ruling that all claims currently pending against the defendants in the Second Tier 3 Action are dismissed with prejudice and the dismissal is final and non-appealable or (ii) there is a final ruling that the Tier 3 Plaintiffs do not have standing or otherwise lack legal authority to continue pursuing claims against the defendants or their related parties for collective, plan-wide, trust-wide, system-wide, pension fund-wide, tier-wide relief, or relief on behalf of or for the KPPA Entities. KKR, Messrs. Kravis and Roberts, Prisma Capital Partners L.P., and the other defendants that are party to the settlement deny any liability, wrongdoing, or damage, maintain that the settlement is not an admission of any fault, liability, wrongdoing or damage, and maintain that they have entered into the settlement solely to avoid further legal expense, inconvenience, and the distraction of burdensome and protracted litigation. Until such time as the settlement becomes final, KKR intends to continue to vigorously defend against all claims against KKR and Messrs. Kravis and Roberts.
+Shareholder Derivative Litigation
+On July 30, 2024, a shareholder derivative complaint was filed in Delaware Chancery Court and was subsequently amended on August 7, 2024. The amended complaint claims, among other matters, that the Co-Founders and various current and former executive officers and directors of KKR & Co. Inc. breached fiduciary duties and wasted corporate assets in connection with transactions contemplated by the Reorganization Agreement pursuant to which, among other things, the Co-Founders, certain current and former executive officers, and other senior executives of KKR received common stock from KKR. The suit seeks to recover on behalf of KKR & Co. Inc. a cancellation of shares issued in the reorganization, monetary damages, injunctive relief, restitution, and other remedies. KKR & Co. Inc. filed a motion to dismiss the amended complaint on December 19, 2024.
+Regulatory Matters
+KKR currently is, and expects to continue to become from time to time, subject to various examinations, inquiries and investigations by various U.S. and non-U.S. governmental and regulatory agencies. Such examinations, inquiries and investigations may result in the commencement of civil, criminal or administrative proceedings, or the imposition of fines, penalties, or other remedies, against KKR and its personnel. KKR is subject to periodic examinations of its regulated businesses by various U.S. and non-U.S. governmental and regulatory agencies, including but not limited to the Securities and Exchange Commission ("SEC"), Financial Industry Regulatory Authority ("FINRA"), the U.K. Financial Conduct Authority, Central Bank of Ireland, Monetary Authority of Singapore, U.S. state insurance regulatory authorities, and the Bermuda Monetary Authority. KKR may also become subject to inquiries or investigations (through a request for information, civil investigative demand, subpoena or otherwise) by any of the foregoing governmental and regulatory agencies as well as by any other U.S. or non-U.S. governmental or regulatory agency, including but not limited to the SEC, U.S. Department of Justice ("DOJ"), U.S. state attorney generals, and similar non-U.S. governmental or regulatory agencies.
+KKR has been subject to investigations by the Antitrust Division of the DOJ (the DOJ ) related to the accuracy and completeness of certain filings made by KKR pursuant to the premerger notification requirements under the Hart Scott Rodino Act of 1976 ( HSR ) for certain transactions in 2021 and 2022. Since 2022, KKR was cooperating with the DOJ in connection with these investigations and has engaged in discussions with the DOJ about possible resolution of these investigations. On January 14, 2025, the DOJ filed a civil antitrust complaint (the DOJ Complaint ) in the U.S. District Court for the Southern District of New York against KKR and various KKR-sponsored investment entities (the KKR Defendants ) alleging violations of the HSR Act. The DOJ Complaint requests various relief for the alleged violations of the HSR Act by the KKR Defendants, including civil penalties in an amount to be determined and various equitable relief, including potential disgorgement and injunctive relief against future violations of the HSR Act. On January 14, 2025, KKR filed a complaint (the KKR Complaint ) in the U.S. District Court for the District of Columbia against Doha Mekki in her official capacity as Acting Assistant Attorney General of the United States for the Antitrust Division, the DOJ, the Federal Trade Commission ( FTC ), and the United States of America pertaining to the HSR-related investigations conducted by the DOJ. On January 16, 2025, KKR voluntarily dismissed the KKR Complaint filed in the U.S. District Court for the District of Columbia and re-filed it in the U.S. District Court for the Southern District of New York as related to the DOJ Complaint. The KKR Complaint requests various forms of relief, including declaratory judgments that: (i) KKR did not violate the HSR Act; (ii) the DOJ s and FTC s interpretations of the HSR Act are unconstitutionally vague; and (iii) the DOJ seeks an excessive fine in violation of the U.S. Constitution. KKR intends to vigorously defend against the DOJ Complaint and prosecute the KKR Complaint. The DOJ may initiate additional civil or criminal proceedings or take other actions against KKR, its employees or portfolio companies, which could include further antitrust investigations into past HSR filings or transactions or other purported violations of antitrust law. There can be no certainty as to the possible outcome of the DOJ Complaint, the KKR Complaint, or such other proceedings or other actions,
+any of which could result in a range of adverse financial and non financial consequences to KKR. Even in the event that the parties are able to settle the pending litigation, it is possible that any such settlement could involve significant monetary penalties and/or other possible remedial measures. In addition, KKR is currently subject to other investigations by the Antitrust Division of the DOJ related to antitrust matters, including restrictions on interlocking directorates under Section 8 of the Clayton Act. KKR is currently cooperating with the DOJ in connection with these other investigations.
+On January 13, 2025, KKR entered into a settlement with the SEC to resolve the SEC s investigation related to the preservation of text messages and similar communications on electronic messaging applications under the Investment Advisers Act of 1940 (the Advisers Act ). Under the terms of the settlement, among other things, KKR paid a civil penalty of $11.0 million, made certain admissions about recordkeeping violations under the Advisers Act, and agreed, among other things, to conduct a self-assessment of KKR s compliance with its policies and procedures to preserve electronic communications.
+Loss Contingencies
+KKR establishes an accrued liability for legal or regulatory proceedings only when those matters present loss contingencies that are both probable and reasonably estimable. KKR includes in its financial statements the amount of any reserve for regulatory, litigation and related matters that Global Atlantic includes in its financial statements. No loss contingency is recorded for matters where such losses are either not probable or reasonably estimable (or both) at the time of determination. Such matters also have the possibility of resulting in losses in excess of any amounts accrued. To the extent KKR can in any particular period estimate an aggregate range of reasonably possible losses, these decisions involve significant judgment given that it is inherently difficult to determine whether any loss for a matter is probable or even possible or to estimate the amount of any loss in many legal, governmental and regulatory matters.
+Estimating an accrued liability or a reasonably possible loss involves significant judgment due to many uncertainties, including among others: (i) the proceeding may be in early stages; (ii) damages sought may be unspecified, unsupportable, unexplained or uncertain; (iii) discovery may not have been started or is incomplete; (iv) there may be uncertainty as to the outcome of pending appeals or motions; (v) there may be significant factual issues to be resolved; (vi) there may be novel legal issues or unsettled legal theories to be presented or a large number of parties; or (vii) the proceeding relates to a regulatory examination, inquiry, or investigation. It is not possible to predict the ultimate outcome of all pending litigations, arbitrations, claims, and governmental or regulatory examinations, inquiries, investigations and proceedings, and some of the matters discussed above seek or may seek potentially large or indeterminate relief. Consequently, management is unable as of the date of filing of this report to estimate an amount or range of reasonably possible losses related to matters pending against KKR. In addition, any amounts accrued as loss contingencies or disclosed as reasonably possible losses may be, in part or in whole, subject to insurance or other payments such as contributions and indemnity, which may reduce any ultimate loss.
+As of the date of filing this report, management does not believe, based on currently available information, that the outcomes of the matters pending against KKR will have a material adverse effect upon its financial statements. However, given the potentially large and/or indeterminate relief sought or that may be sought in certain of these matters and the inherent unpredictability of litigations, arbitrations, claims, and governmental or regulatory examinations, inquiries, investigations and proceedings, it is possible that an adverse outcome in certain matters could have a material adverse effect on KKR's financial results in any future period. In addition, there can be no assurance that material losses will not be incurred from claims that have not yet been asserted or those where potential losses have not yet been determined to be probable or possible and reasonably estimable.
+Other Financing Arrangements
+Global Atlantic has financing arrangements with unaffiliated third parties to support the reserves of its affiliated special purpose reinsurers. Total fees associated with these financing arrangements were $17.9 million, $20.3 million, and $20.1 million for the years ended December 31, 2024, 2023, and 2022, respectively, and are included in insurance expenses in the consolidated statements of operations. As of December 31, 2024 and 2023, the total capacity of the financing arrangements with third parties was $2.4 billion and $2.3 billion, respectively.
+Other than the matters disclosed above, there were no outstanding or unpaid balances from the financing arrangements with unaffiliated third parties as of both December 31, 2024 and 2023.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CommitmentsAndContingenciesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for commitments and contingencies.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 405
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/405-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 440
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482648/440-10-50-4
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/450/tableOfContent
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 440
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478522/954-440-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 440
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482648/440-10-50-4
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 440
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/440/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_CommitmentsAndContingenciesDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

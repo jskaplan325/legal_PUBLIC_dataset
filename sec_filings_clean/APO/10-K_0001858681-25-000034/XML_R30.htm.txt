@@ -1,0 +1,85 @@
+XML
+60
+R30.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Subsequent Events
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Subsequent Events [Abstract]
+
+Subsequent Events
+22. Subsequent Events
+
+Dividends
+
+On February 4, 2025, the Company declared a cash dividend of $0.4625 per share of common stock, which will be paid on February 28, 2025 to holders of record at the close of business on February 18, 2025.
+
+On February 4, 2025, the Company also declared and set aside for payment a cash dividend of $0.8438 per share of its Mandatory Convertible Preferred Stock, which will be paid on April 30, 2025 to holders of record at the close of business on April 15, 2025.
+
+Bridge Acquisition
+
+On February 23, 2025, the Company entered into a definitive agreement for Apollo to acquire Bridge Investment Group Holdings Inc. ( Bridge ) in an all-stock transaction. The transaction is expected to close in the third quarter of 2025, subject to customary closing conditions, including approval by a majority of Bridge shareholders, and the receipt of regulatory approvals.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SubsequentEventsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for significant events or transactions that occurred after the balance sheet date through the date the financial statements were issued or the date the financial statements were available to be issued. Examples include: the sale of a capital stock issue, purchase of a business, settlement of litigation, catastrophic loss, significant foreign exchange rate changes, loans to insiders or affiliates, and transactions not in the ordinary course of business.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 855
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/855/tableOfContent
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 855
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483399/855-10-50-2
+
++ Details
+
+ Name:
+us-gaap_SubsequentEventsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

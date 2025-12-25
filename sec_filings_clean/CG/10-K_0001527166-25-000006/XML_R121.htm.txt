@@ -1,0 +1,367 @@
+XML
+144
+R121.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Segment Reporting - Expense Adjustments (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting Information [Line Items]
+
+Unrealized performance and fee related performance revenue compensation expense
+$ 608.4
+
+$ 629.9
+
+$ (306.5)
+
+Equity-based compensation
+467.9
+
+249.1
+
+154.0
+
+Expenses
+4,056.1
+
+3,571.7
+
+2,824.7
+
+Total Reportable Segments
+
+Segment Reporting Information [Line Items]
+
+Unrealized performance and fee related performance revenue compensation expense
+635.2
+
+612.6
+
+(326.2)
+
+Expenses
+
+2,492.4
+
+Reconciling Items
+
+Segment Reporting Information [Line Items]
+
+Equity-based compensation
+476.5
+
+260.1
+
+161.9
+
+Acquisition or disposition-related charges and amortization of intangibles and impairment
+136.6
+
+145.3
+
+187.4
+
+Tax (expense) benefit associated with certain foreign performance revenues related compensation
+(1.0)
+
+(1.0)
+
+2.9
+
+Non-controlling interests and other adjustments to present certain costs on a net basis
+92.8
+
+148.7
+
+82.7
+
+Other adjustments
+21.2
+
+11.6
+
+12.4
+
+Expenses
+1,315.9
+
+1,136.8
+
+77.0
+
+Eliminations
+
+Segment Reporting Information [Line Items]
+
+Equity-based compensation
+0.0
+
+0.0
+
+0.0
+
+Expenses
+$ (45.4)
+
+$ (40.5)
+
+$ (44.1)
+
+X
+
+- DefinitionAcquisition And Disposition Related Charges And Amortization Of Intangibles
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AcquisitionAndDispositionRelatedChargesAndAmortizationOfIntangibles
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionEconomic interests in acquired business.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_EconomicInterestsInAcquiredBusiness
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOther Adjustments Expenses
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_OtherAdjustmentsExpenses
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount represents tax expense associated with performance fee compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PerformanceFeeRelatedCompensationExpenseTax
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUnrealized Gain (Loss) On Performance Revenues And Fees, Compensation Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_UnrealizedGainLossOnPerformanceRevenuesAndFeesCompensationExpense
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTotal costs of sales and operating expenses for the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_CostsAndExpenses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of noncash expense for share-based payment arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (a)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensation
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_MaterialReconcilingItemsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=srt_ConsolidationEliminationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

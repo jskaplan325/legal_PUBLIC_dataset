@@ -1,0 +1,2147 @@
+XML
+67
+R45.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Policies)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Accounting Policies [Abstract]
+
+Basis of Presentation
+Basis of Presentation
+The accompanying consolidated financial statements (referred to hereafter as the "financial statements") have been prepared in accordance with accounting principles generally accepted in the United States of America ("GAAP").
+KKR consolidates the financial results of KKR Group Partnership and its consolidated entities, which include the accounts of KKR's investment management and capital markets companies, the general partners of certain unconsolidated investment funds, general partners of consolidated investment funds, and their respective consolidated investment funds, Global Atlantic s insurance companies, and certain other entities including CFEs. References to Global Atlantic hereafter includes the insurance companies of Global Atlantic, which are consolidated by KKR starting on February 1, 2021 (the "2021 GA Acquisition Date").
+The presentations in the consolidated statement of financial condition and consolidated statement of operations reflect the significant industry diversification of KKR by its acquisition of Global Atlantic. Global Atlantic operates an insurance business, and KKR operates an asset management business, which manages the operations of the newly-formed Strategic Holdings segment (see Note 21 "Segment Reporting"), each of which possess distinct characteristics. As a result, KKR developed a two-tiered approach for the financial statements presentation, where Global Atlantic's insurance operations are presented separately from KKR's asset management business. KKR believes that these separate presentations provide a more informative view of the consolidated financial position and results of operations than traditional aggregated presentations and that reporting Global Atlantic s insurance operations separately is appropriate given, among other factors, the relative significance of Global Atlantic s policy liabilities, which are not obligations of KKR & Co. Inc. (other than the insurance companies that issued them). If a traditional aggregate presentation were to be used, KKR would expect to eliminate or combine several identical or similar captions, which would condense the presentations, but would also reduce the level of information presented. KKR also believes that using a traditional aggregate presentation would result in no new line items compared to the two-tier presentation included in the financial statements in this report.
+The summary of the significant accounting policies has been organized considering the two-tiered approach and includes a section for common accounting policies and an accounting policy section for each of the two tiers when a policy is specific to one of the tiers.
+In the ordinary course of business, KKR s Asset Management business, Strategic Holdings business, and Insurance business enter into transactions with each other, which may include transactions pursuant to their investment management agreements and certain financing arrangements. The borrowings from these financing arrangements are non-recourse to KKR beyond the assets designated to support such borrowings. All of the investment management and financing arrangements amongst KKR segments are eliminated in consolidation.
+All intercompany transactions and balances have been eliminated.
+
+Use of Estimates and Risks and Uncertainties
+Use of Estimates and Risks and Uncertainties
+The preparation of the financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the recognition and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues, expenses, investment income (loss), and income taxes during the reporting periods. Such estimates include but are not limited to (i) the valuation of investments and financial instruments, (ii) the determination of the income tax provision, (iii) the impairment of goodwill and intangible assets, (iv) the impairment of available-for-sale investments, (v) the valuation of insurance policy liabilities, including market risk benefits, (vi) the valuation of embedded derivatives in policy liabilities and funds withheld, (vii) the determination of the allowance for loan losses, and (viii) amortization of deferred revenues and expenses associated with the insurance business.
+Certain events particular to each industry and country or region in which the portfolio companies conduct their operations, as well as general market, economic, political and geopolitical, regulatory, and natural disasters and catastrophes, including public health crises, may have a significant negative impact on KKR s investments and profitability. Such events are beyond KKR s control, and the likelihood that they may occur and the effect on KKR's use of estimates cannot be predicted. Actual results could differ from those estimates, and such differences could be material to the financial statements.
+
+Principles of Consolidation
+Principles of Consolidation
+The types of entities KKR assesses for consolidation include (i) subsidiaries, including management companies, broker-dealers and general partners of investment funds that KKR manages, (ii) entities that have the attributes of an investment company, like investment funds, (iii) CFEs, (iv) Global Atlantic and its insurance companies, and (v) other entities. Each of these entities is assessed for consolidation on a case by case basis depending on the specific facts and circumstances surrounding that entity.
+Pursuant to its consolidation policy, KKR first considers whether an entity is considered a VIE and therefore whether to apply the consolidation guidance under the VIE model. Entities that do not qualify as VIEs are assessed for consolidation as voting interest entities ("VOEs") under the voting interest model. Most of KKR's investment funds are categorized as VIEs.
+KKR's funds are, for GAAP purposes, investment companies and therefore are not required to consolidate their investments in portfolio companies even if majority-owned and controlled. Rather, the consolidated funds and vehicles reflect their investments at fair value as described below in " Fair Value Measurements."
+An entity in which KKR holds a variable interest is a VIE if any one of the following conditions exist: (a) the total equity investment at risk is not sufficient to permit the legal entity to finance its activities without additional subordinated financial support, (b) the holders of the equity investment at risk (as a group) lack either the direct or indirect ability through voting rights or similar rights to make decisions about a legal entity's activities that have a significant effect on the success of the legal entity or the obligation to absorb the expected losses or right to receive the expected residual returns, or (c) the voting rights of some investors are disproportionate to their obligation to absorb the expected losses of the legal entity, their rights to receive the expected residual returns of the legal entity, or both and substantially all of the legal entity's activities either involve or are conducted on behalf of an investor with disproportionately few voting rights. Limited partnerships and other similar entities where unaffiliated limited partners have not been granted (i) substantive participatory rights or (ii) substantive rights to either dissolve the partnership or remove the general partner ("kick-out rights") are VIEs. KKR's investment funds (i) are generally limited partnerships, (ii) generally provide KKR with operational discretion and control, and (iii) generally have fund investors with no substantive rights to impact ongoing governance and operating activities of the fund, including the ability to remove the general partner, and, as such, the limited partners do not have kick-out rights.
+KKR consolidates all VIEs in which it is the primary beneficiary. A reporting entity is determined to be the primary beneficiary if it holds a controlling financial interest in a VIE. A controlling financial interest is defined as (a) the power to direct the activities of a VIE that most significantly impact the VIE's economic performance and (b) the obligation to absorb losses of the VIE that could potentially be significant to the VIE or the right to receive benefits from the VIE that could potentially be significant to the VIE. The consolidation guidance requires an analysis to determine (i) whether an entity in which KKR holds a variable interest is a VIE and (ii) whether KKR's involvement, through holding interests directly or indirectly in the entity or contractually through other variable interests (for example, management and performance income), would give it a controlling financial interest. Performance of that analysis requires the exercise of judgment. Fees earned by KKR that are customary and commensurate with the level of effort required to provide those services, and where KKR does not hold other economic interests in the entity that would absorb more than an insignificant amount of the expected losses or returns of the entity, would not be considered to be variable interests. KKR factors in all economic interests including interests held through related parties, to determine if it holds a variable interest. KKR determines whether it is the primary beneficiary of a VIE at the time it becomes involved with a VIE and reconsiders that conclusion when facts and circumstances change.
+For entities that are determined not to be VIEs, these entities are generally considered VOEs and are evaluated under the voting interest model. KKR consolidates VOEs it controls through a majority voting interest or through other means.
+The consolidation assessment, including the determination as to whether an entity qualifies as a VIE or VOE, depends on the facts and circumstances for each entity, and therefore certain of KKR's investment funds may qualify as VIEs whereas others may qualify as VOEs.
+With respect to CLOs (which are generally VIEs), in KKR's role as collateral manager, KKR generally has the power to direct the activities of the CLO that most significantly impact the economic performance of the entity. In some, but not all cases, KKR, through its residual interest in the CLO may have variable interests that represent an obligation to absorb losses of, or a right to receive benefits from, the CLO that could potentially be significant to the CLO. In cases where KKR has both the power to direct the activities of the CLO that most significantly impact the CLO's economic performance and the obligation to absorb losses of the CLO or the right to receive benefits from the CLO that could potentially be significant to the CLO, KKR is deemed to be the primary beneficiary and consolidates the CLO.
+Global Atlantic has formed certain VIEs to hold investments, including investments in real assets, consumer and other loans and fixed maturity securities. These VIEs issue beneficial interests primarily to Global Atlantic s insurance companies, and Global Atlantic maintains the power to direct the activities of the VIEs that most significantly impact their economic performance and bears the obligation to absorb losses or receive benefits from the VIEs that could potentially be significant. Accordingly, Global Atlantic is the primary beneficiary of these VIEs, which are consolidated in Global Atlantic s results.
+For certain consolidated renewable energy partnerships consolidated by Global Atlantic's insurance companies, Global Atlantic uses a hypothetical liquidation at book value ("HLBV") method to allocate income and cash flows based on third-party investors claim to net assets, including those for the noncontrolling interests and redeemable noncontrolling interests.
+KKR classifies certain noncontrolling interests with redemption features that are not solely within the control of KKR outside of permanent equity on its consolidated statements of financial condition. These redeemable noncontrolling interests are reported using the greater of the carrying value at each reporting date as determined by the HLBV method or the estimated redemption value in each reporting period.
+Noncontrolling Interests
+Noncontrolling interests in consolidated entities of KKR represent the non-redeemable ownership interests that are held primarily by:
+(i)third party fund investors in KKR's consolidated funds and certain other entities;
+(ii)third parties in KKR's Capital Markets business line;
+(iii)certain current and former employees who hold exchangeable securities; and
+(iv)certain third-party investors in certain of Global Atlantic's consolidated entities.
+For further details see Note 22 "Equity." Noncontrolling interests held by KKR Holdings before the closing of the Reorganization Mergers are described in Note 1 "Organization."
+
+Cash and Cash Equivalents
+Cash and Cash Equivalents
+Generally KKR considers all liquid short term investments with original maturities of three months or less when purchased to be cash equivalents. Cash and cash equivalents includes cash held at consolidated entities, which represents cash that, although not legally restricted, is not available generally to fund liquidity needs of KKR, as the use of such funds is generally limited to the investment activities of KKR's investment funds and CFEs. The carrying values of cash and cash equivalents are considered to be reasonable estimates of their fair values.
+
+Restricted Cash and Cash Equivalents
+Restricted Cash and Cash Equivalents
+Restricted cash and cash equivalents primarily represent amounts that are held by third parties under certain of KKR's financing and derivative transactions. The duration of this restricted cash generally matches the duration of the related financing or derivative transaction. Global Atlantic s restricted cash principally includes certain cash and cash equivalents held in trusts formed for the benefit of ceding companies or held in connection with open derivative transactions. The carrying values of restricted cash and cash equivalents are considered to be reasonable estimates of their fair values.
+
+Fair Value Measurements
+Fair Value Measurements
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date under current market conditions. Where available, fair value is based on observable market prices or parameters or derived from such prices or parameters. Where observable prices or inputs are not available, valuation techniques are applied. These valuation techniques involve varying levels of management estimation and judgment, the degree of which is dependent on a variety of factors.
+GAAP establishes a hierarchical disclosure framework which prioritizes and ranks the level of market price observability used in measuring financial instruments at fair value. Market price observability is affected by a number of factors, including the type of financial instrument, the characteristics specific to the financial instrument and the state of the marketplace, including the existence and transparency of transactions between market participants. Financial instruments with readily available quoted prices in active markets generally will have a higher degree of market price observability and a lesser degree of judgment used in measuring fair value.
+Investments and financial instruments measured and reported at fair value are classified and disclosed based on the observability of inputs used in the determination of fair values, as follows:
+Level I - Pricing inputs are unadjusted, quoted prices in active markets for identical assets or liabilities as of the measurement date. The types of financial instruments included in this category are publicly-listed equities, U.S. government and agencies securities, and securities sold short.
+Level II - Pricing inputs are other than quoted prices in active markets, which are either directly or indirectly observable as of the measurement date, and fair value is determined through the use of models or other valuation methodologies. The types of financial instruments included in this category are credit investments, fixed-income securities held by consolidated insurance companies, investments and debt obligations of consolidated CLO entities, convertible debt securities indexed to publicly-listed securities, less liquid and restricted equity securities, certain funds withheld payable at interest, and certain over-the-counter derivatives such as foreign currency option and forward contracts.
+Level III - Pricing inputs are unobservable for the financial instruments and include situations where there is little, if any, market activity for the financial instrument. The inputs into the determination of fair value require significant management judgment or estimation. The types of financial instruments generally included in this category are private portfolio companies, real assets investments, certain credit investments, equity method investments for which the fair value option was elected, certain fixed-income and structured securities held by the consolidated insurance subsidiaries, reinsurance recoverables carried at fair value, certain insurance policy liabilities carried at fair value, and certain embedded derivatives related to (i) certain funds withheld payable at interest, and (ii) annuities and indexed universal life products, which contain equity-indexed features.
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, the level in the fair value hierarchy within which the fair value measurement in its entirety falls has been determined based on the lowest level input that is significant to the fair value measurement in its entirety. KKR's assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and consideration of factors specific to the asset.
+A significant decrease in the volume and level of activity for the asset or liability is an indication that transactions or quoted prices may not be representative of fair value because in such market conditions there may be increased instances of transactions that are not orderly. In those circumstances, further analysis of transactions or quoted prices is needed, and a significant adjustment to the transactions or quoted prices may be necessary to estimate fair value.
+The availability of observable inputs can vary depending on the financial asset or liability and is affected by a wide variety of factors, including, for example, the type of instrument, whether the instrument has recently been issued, whether the instrument is traded on an active exchange or in the secondary market, and current market conditions. To the extent that valuation is based on models or inputs that are less observable or unobservable in the market, the determination of fair value requires additional judgment. Accordingly, the degree of judgment exercised by KKR in determining fair value is greatest for instruments categorized in Level III. The variability and availability of the observable inputs affected by the factors described above may cause transfers between Levels I, II, and III, which KKR recognizes at the beginning of the reporting period.
+Investments and other financial instruments that have readily observable market prices (such as those traded on a securities exchange) are stated at the last quoted sales price as of the reporting date. KKR does not adjust the quoted price for these investments, even in situations where KKR holds a large position and a sale could reasonably affect the quoted price.
+Management's determination of fair value is based upon the methodologies and processes described below and may incorporate assumptions that are management's best estimates after consideration of a variety of internal and external factors.
+Level II Valuation Methodologies
+Credit Investments, U.S. Municipal Securities, Corporate Bonds and Structured Securities: These financial instruments generally have bid and ask prices that can be observed in the marketplace. Bid prices reflect the highest price that KKR and others are willing to pay for an instrument. Ask prices represent the lowest price that KKR and others are willing to accept for an instrument. For financial instruments whose inputs are based on bid-ask prices obtained from third party pricing services, fair value may not always be a predetermined point in the bid-ask range. KKR's policy is generally to allow for mid-market pricing and adjusting to the point within the bid-ask range that meets KKR's best estimate of fair value. KKR may also use model-derived valuations whose inputs are observable or whose significant value drivers are observable.
+Investments and Debt Obligations of Consolidated CLO Vehicles: Investments of consolidated CLO vehicles are reported within Investments of Consolidated CFEs and are valued using the same valuation methodology as described above for credit investments. KKR measures CLO debt obligations on the basis of the fair value of the financial assets of the CLO.
+Securities Indexed to Publicly-Listed Securities: These securities are typically valued using standard convertible security pricing models. The key inputs into these models that require some amount of judgment are the credit spreads utilized and the volatility assumed. To the extent the company being valued has other outstanding debt securities that are publicly-traded, the implied credit spread on the company's other outstanding debt securities would be utilized in the valuation. To the extent the company being valued does not have other outstanding debt securities that are publicly-traded, the credit spread will be estimated based on the implied credit spreads observed in comparable publicly-traded debt securities. In certain cases, an additional spread will be added to reflect an illiquidity discount due to the fact that the security being valued is not publicly-traded. The volatility assumption is based upon the historically observed volatility of the underlying equity security into which the convertible debt security is convertible and/or the volatility implied by the prices of options on the underlying equity security.
+Equity Securities: The valuation of certain equity securities is based on (i) an observable price for an identical security adjusted for the effect of a restriction or leverage that collateralized the equity securities and (ii) quoted prices for identical or similar instruments in markets that are not active.
+Derivatives: The valuation incorporates observable inputs comprising yield curves, foreign currency rates, interest rate volatility and credit spreads.
+Level III Valuation Methodologies
+Private Equity Investments: KKR generally employs two valuation methodologies when determining the fair value of a private equity investment. The first methodology is typically a market comparables analysis that considers key financial inputs, which may take into account recent public and private transactions and other available measures. The second methodology utilized is typically a discounted cash flow analysis, which incorporates significant assumptions and judgments. Estimates of key inputs used in this methodology include the weighted average cost of capital for the investment and assumed inputs used to calculate terminal values, such as exit EBITDA multiples. The results of the discounted cash flow approach can be significantly impacted by these estimates. Other inputs are also used in both methodologies. In addition, when a definitive agreement has been executed to sell an investment, KKR generally considers a significant determinant of fair value to be the consideration to be received by KKR pursuant to the executed definitive agreement.
+Upon completion of the valuations conducted using these methodologies, a weighting is ascribed to each method, and an illiquidity discount is typically applied where appropriate. The ultimate fair value recorded for a particular investment will generally be within a range suggested by the two methodologies, except that the value may be higher or lower than such range in the case of investments being sold pursuant to an executed definitive agreement.
+When determining the weighting ascribed to each valuation methodology, KKR considers, among other factors, the availability of direct market comparables, the applicability of a discounted cash flow analysis, the expected hold period and manner of realization for the investment, and in the case of investments being sold pursuant to an executed definitive agreement, an estimated probability of such sale being completed. These factors can result in different weightings among investments in the portfolio and in certain instances may result in up to a 100% weighting to a single methodology.
+When an illiquidity discount is to be applied, KKR seeks to take a uniform approach across its portfolio and generally applies a minimum 5% discount to all private equity investments. KKR then evaluates such private equity investments to determine if factors exist that could make it more challenging to monetize the investment and, therefore, justify applying a higher illiquidity discount. These factors generally include (i) the nature of KKR's governance rights, (ii) whether the portfolio company is undergoing significant restructuring activity or similar factors, and (iii) characteristics about the portfolio company regarding its size and/or whether the portfolio company is experiencing, or expected to experience, a significant decline in earnings. These factors generally make it less likely that a portfolio company would be sold or publicly offered in the near term at a price indicated by using just a market multiples and/or discounted cash flow analysis, and these factors tend to reduce the number of opportunities to sell an investment and/or increase the time horizon over which an investment may be monetized. Depending on the applicability of these factors, KKR determines the amount of any incremental illiquidity discount to be applied above the 5% minimum, and during the time KKR holds the investment, the illiquidity discount may be increased or decreased, from time to time, based on changes to these factors. The amount of illiquidity discount applied at any time requires considerable judgment about what a market participant would consider and is based on the facts and circumstances of each individual investment. Accordingly, the illiquidity discount ultimately considered by a market participant upon the realization of any investment may be higher or lower than that estimated by KKR in its valuations.
+In the case of growth equity investments, enterprise values may be determined using the market comparables analysis and discounted cash flow analysis described above. A scenario analysis may also be conducted to subject the estimated enterprise values to a downside, base and upside case, which involves significant assumptions and judgments. A milestone analysis may also be conducted to assess the current level of progress towards value drivers that we have determined to be important, which involves significant assumptions and judgments. The enterprise value in each case may then be allocated across the investment's capital structure to reflect the terms of the security and subjected to probability weightings. In certain cases, the values of growth equity investments may be based on recent or expected financings or other transactions.
+Real Asset Investments: Real asset investments in infrastructure, real estate, and energy are valued using one or a combination of the discounted cash flow analysis, market comparables analysis and direct income capitalization methods, which in each case incorporates significant assumptions and judgments.
+Infrastructure investments are generally valued using the discounted cash flow analysis. Key inputs used in this methodology can include the weighted average cost of capital and assumed inputs used to calculate terminal values, such as exit EBITDA multiples.
+Real estate investments are generally valued using a combination of direct income capitalization and discounted cash flow analysis. Certain real estate investments are valued by KKR based on ranges of valuations determined by independent valuation firms. Key inputs used in such methodologies that require estimates include an unlevered discount rate, current capitalization rate and exit capitalization rate. The valuations of real assets investments also use other inputs.
+Energy investments are generally valued using a discounted cash flow approach, and where applicable, a market approach using comparable companies and transactions. Key inputs used in our valuations include (i) the weighted average cost of capital, (ii) future commodity prices, as quoted on indices, and long-term commodity price forecasts, and (iii) the asset s projected future operating performance.
+Credit Investments: Credit investments are valued using values obtained from dealers or market makers, and where these values are not available, credit investments are generally valued by KKR based on ranges of valuations determined by an independent valuation firm. Valuation models are based on discounted cash flow analyses, for which the key inputs are determined based on market comparables, which incorporate similar instruments from similar issuers.
+Real Estate Mortgage Loans: Real estate mortgage loans are illiquid, structured investments that are specific to the property and its operating performance. KKR engages an independent valuation firm to estimate the fair value of each loan. KKR reviews the quarterly loan valuation estimates provided by the independent valuation firm. These loans are generally valued using a discounted cash flow model using discount rates derived from observable market data applied to the capital structure of the respective sponsor and estimated property value.
+Other Investments: With respect to other investments including equity method investments, KKR generally employs the same valuation methodologies as described above for private equity, credit investments and real assets investments when valuing these other investments.
+Funds withheld at interest: The funds withheld receivables and payables at interest carried at fair value are primarily valued based on the fair value of the underlying investments, which have quoted prices or other observable inputs to pricing. A portion of the funds withheld receivable and payables at interest carried at fair value represent embedded derivatives and are generally valued as the difference between the fair value of the underlying assets and the carrying value of the host contract at the balance sheet date.
+Reinsurance recoverables: Reinsurance recoverables carried at fair value are valued using present value techniques that consider inputs including mortality and surrender rates for the associated policies, as well as estimates of policy expenses and the cost of capital held in support of the related closed block policy liabilities.
+Insurance policy liabilities, insurance embedded derivatives, and market risk benefits: Certain insurance policy liabilities that are carried at fair value are valued using present value techniques that discount estimated liability cash flows at a rate that reflects the variability of those cash flows and also consider policyholder behavior (including lapse rates, surrender rates and mortality).
+Closed block policy liabilities carried at fair value are valued using present value techniques that consider inputs including mortality and surrender rates for the respective policies, as well as estimates of policy expenses and the cost of capital held in support of the liabilities.
+Insurance embedded derivative liabilities are related to our fixed-indexed annuity, variable annuity and indexed universal life products, which contain equity-indexed features. These embedded derivative liabilities are calculated as the present value of future projected benefits in excess of the projected guaranteed benefits, using an option budget as the indexed account value growth rate and considering an adjustment to reflect the risk of nonperformance on our obligation and inputs such as projected withdrawal and surrender activity, and mortality. KKR calculates nonperformance risk using a blend of observable peer company credit spreads, adjusted to reflect the claims paying ability of our insurance entities, as well as an adjustment to reflect the priority of policyholder claims.
+Market risk benefits include certain contract features on fixed annuity and variable annuity products. These features include minimum guarantees to policyholders, such as guaranteed minimum death benefits (GMDBs), guaranteed minimum withdrawal benefits (GMWBs), and long-term care benefits (which are capped at the return of account value plus one or two times the account value). Market risk benefits are measured at fair value using a non-option and option valuation approach based on current net amounts at risk, market data, experience, and other factors.
+Key unobservable inputs that have a significant impact on KKR's Level III valuations as described above are included in Note 9 "Fair Value Measurements." KKR utilizes several unobservable pricing inputs and assumptions in determining the fair value of its Level III financial instruments. These unobservable pricing inputs and assumptions may differ by financial instruments and in the application of KKR's valuation methodologies. KKR's reported fair value estimates could vary materially if KKR had chosen to incorporate different unobservable pricing inputs and other assumptions or, for certain applicable investments, if KKR only used either the discounted cash flow methodology or the market comparables methodology instead of assigning a weighting to both methodologies.
+There is inherent uncertainty involved in the valuation of Level III financial instruments and there is no assurance that, upon liquidation or sale, KKR will realize the values reflected in our valuations. Our valuations may differ significantly from the values that would have been used had an active market for the financial instruments existed, and it is reasonably possible that the difference could be material.
+
+Business Combinations
+Business Combinations
+KKR accounts for business combinations using the acquisition method of accounting, under which the purchase price of the acquisition is allocated to the assets acquired and liabilities assumed using the fair values determined by management as of the acquisition date.
+
+Goodwill and Indefinite-Lived Intangible Assets
+Goodwill and Indefinite-Lived Intangible Assets
+Goodwill represents the excess of acquisition cost over the fair value of net tangible and intangible assets acquired in connection with an acquisition. Goodwill is assessed for impairment annually in the third quarter of each fiscal year or more frequently if circumstances indicate impairment may have occurred.
+In accordance with GAAP, KKR has the option to either (i) perform a quantitative impairment test or (ii) first perform a qualitative assessment (commonly known as "step zero") to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount, in which case the quantitative test would then be performed. When performing a quantitative impairment test, KKR compares the fair value of a reporting unit with its carrying amount, including goodwill. If the fair value of the reporting unit is less than its carrying amount, the goodwill impairment loss is equal to the excess of the carrying value over the fair value, limited to the carrying amount of goodwill allocated to that reporting unit. The estimated fair values of the reporting units are derived based on valuation techniques KKR believes market participants would use for each respective reporting unit. The estimated fair values are generally determined by utilizing a discounted cash flow methodology and methodologies that incorporate market multiples of certain comparable companies.
+KKR tests goodwill for impairment at the reporting unit level, which is generally at the level of or one level below its reportable segments, on an annual basis, or, when an event occurs or circumstances change that would more likely than not reduce the fair value of a reporting unit below its carrying amount. Goodwill recorded as a result of the acquisition of Global Atlantic has been allocated to the insurance segment, and goodwill recorded as a result of the acquisition of KJR Management ("KJRM") has been allocated to the asset management segment. In the first quarter of 2024, the change in reportable segments required the identification of a new reporting unit related to the creation of the Strategic Holdings segment and the allocation of goodwill to this reporting unit based on the relative fair value approach.
+During the third quarter of 2024, KKR performed its annual impairment analysis for the goodwill recorded at the asset management, strategic holdings and insurance reporting units.
+KKR elected to perform step zero for the purposes of its impairment analysis for the goodwill recorded at its reporting units. Based upon these assessments, KKR determined that it is more likely than not that the fair value of the reporting units exceeds its carrying value. Factors considered in the qualitative assessment included macroeconomic conditions, industry and market considerations, cost factors, current and projected financial performance, changes in management or strategy and market capitalization.
+KKR tests indefinite-lived intangible assets for impairment at the aggregate level of management contracts. KKR has the option to either (i) perform a quantitative impairment test or (ii) first perform a qualitative assessment to determine whether it is more likely than not that the fair value is less than its carrying amount, in which case, the quantitative test would be performed.
+During the third quarter of 2024, KKR performed its annual impairment analysis on KJRM s investment management contracts recorded at KKR s asset management business, which were determined to have indefinite useful lives and are not subject to amortization. KKR elected to perform a qualitative assessment for the purposes of its impairment analysis. Based upon this assessment, KKR determined that it is more likely than not that the fair value of the KJRM investment management contracts exceeded their carrying value. Factors considered in the qualitative assessment included macroeconomic conditions, industry and market considerations, cost factors, and current and projected financial performance.
+Goodwill and Intangible Assets are recorded in Other Assets in the accompanying consolidated statements of financial condition.
+
+Fixed Assets, Depreciation and Amortization
+Fixed Assets, Depreciation and Amortization
+Fixed assets consist primarily of corporate real estate, leasehold improvements, furniture and computer hardware. Such amounts are recorded at cost less accumulated depreciation and amortization and are included in Other Assets within the accompanying consolidated statements of financial condition. Depreciation and amortization are calculated using the straight line method over the assets' estimated economic useful lives, which for leasehold improvements are the lesser of the lease term or the life of the asset, for KKR's owner occupied corporate real estate is up to 40 years, and 3 to 7 years for other fixed assets.
+
+Foreign Currency
+Foreign Currency
+Consolidated entities that have a functional currency that differs from KKR's reporting currency are (i) KKR's investment management and capital markets companies located outside the United States and (ii) certain CFEs. Foreign currency denominated assets and liabilities are translated using the exchange rates prevailing at the end of each reporting period. Results of foreign operations are translated at the weighted average exchange rate for each reporting period. Translation adjustments are included as a component of accumulated other comprehensive income (loss) until realized. Foreign currency income or expenses resulting from transactions outside of the functional currency of a consolidated entity are recorded as incurred in general, administrative and other expense in the consolidated statements of operations.
+
+Leases
+Leases
+At contract inception, KKR determines if an arrangement contains a lease by evaluating whether (i) the identified asset has been deployed in the contract explicitly or implicitly and (ii) KKR obtains substantially all of the economic benefits from the use of that underlying asset and directs how and for what purpose the asset is used during the term of the contract. Additionally, at contract inception KKR will evaluate whether the lease is an operating or finance lease. Right-of-use ("ROU") assets represent KKR s right to use an underlying asset for the lease term and lease liabilities represent KKR s obligation to make lease payments arising from the lease.
+ROU assets and the associated lease liabilities are recognized at the commencement date based on the present value of the future minimum lease payments over the lease term. The discount rate implicit in the lease is generally not readily determinable. Consequently, KKR uses its incremental borrowing rate based on the information available including, but not limited to, collateral assumptions, the term of the lease, and the economic environment in which the lease is denominated at the commencement date in determining the present value of the future lease payments. The ROU assets are recognized as the initial measurement of the lease liabilities plus any initial direct costs and any prepaid lease payments less lease incentives received, if any. The lease terms may include options to extend or terminate the lease which are accounted for when it is reasonably certain that KKR will exercise that option. Certain leases that include lease and non-lease components are accounted for as one single lease component. In addition to contractual rent payments, occupancy lease agreements generally include additional payments for certain costs incurred by the landlord, such as building expenses and utilities. To the extent these are fixed or determinable, they are included as part of the lease payments used to measure the operating lease liability.
+Operating lease expense is recognized on a straight-line basis over the lease term and is recorded within Occupancy and Related Charges in the accompanying consolidated statements of operations. The ROU assets are included in Other Assets and the lease liabilities are included in Accrued Expenses and Other Liabilities in the accompanying consolidated statements of financial condition. See Note 14 "Other Assets and Accrued Expenses and Other Liabilities."
+
+Equity-based, Incentive and Other Deferred Compensation
+Equity-based Compensation
+In addition to the cash-based compensation and carry pool allocations as described above, employees receive equity awards. Most of these awards are subject to service-based vesting typically over a three to five-year period from the date of grant, while in certain cases vesting is subject to the achievement of market conditions. Certain of these awards are subject to transfer restrictions and minimum retained ownership requirements. KKR considers both historical volatility and implied volatility in estimating expected volatility. All these awards are equity-classified and the related expense is recognized in Compensation and Benefits.
+The total tax benefit recognized in the consolidated statements of operations for equity based compensation for the years ended December 31, 2024, 2023, and 2022 was $126.7 million, $51.3 million and $65.4 million, respectively, and was recognized as an income tax benefit in the consolidated statements of operations.
+Incentive and Other Deferred Compensation
+Global Atlantic measured compensation cost for certain legacy deferred or cash-based compensation plans that were in place prior to 2024 using an intrinsic value method, beginning on the date of grant, and remeasured the value at each reporting period until the awards are settled. Accrued compensation expense is recognized in general, administrative and other expenses in the consolidated statements of operations and within accrued expenses and other liabilities in the consolidated statements of financial condition. See Note 19, "Equity Based Compensation", for additional information relating to the modification and replacement of these legacy plans.
+
+Comprehensive Income (Loss)
+Comprehensive Income (Loss)
+Comprehensive income is defined as the change in equity of a business enterprise during a period from transactions and other events and circumstances, excluding those resulting from contributions from and distributions to owners. In the accompanying consolidated financial statements, comprehensive income is recorded net of income taxes and is comprised of (i) Net Income (Loss), as presented in the consolidated statements of operations, (ii) unrealized gains (losses) on available-for-sale securities and other (iii) net effect of changes in discount rates and instrument-specific credit risk on policy liabilities and (iv) foreign currency translation.
+
+Income Taxes
+Income Taxes
+KKR & Co. Inc. is a domestic corporation for U.S. federal income tax purposes and is subject to U.S. federal, state and local income taxes at the entity level on its share of taxable income. In addition, KKR Group Partnership and certain of its subsidiaries operate as partnerships for U.S. federal tax purposes but as taxable entities for certain state, local or non-U.S. tax purposes. Moreover, certain corporate subsidiaries of KKR, including certain subsidiaries of Global Atlantic, are domestic corporations for U.S. federal income tax purposes and are subject to U.S. federal, state, and local income taxes.
+Deferred Income Taxes
+Income taxes are accounted for using the asset and liability method of accounting. Under this method, deferred tax assets and liabilities are recognized for the expected future tax consequences of differences between the carrying amounts of assets and liabilities and their respective tax basis, using tax rates in effect for the year in which the differences are expected to reverse. The effect on deferred assets and liabilities of a change in tax rates is recognized in the consolidated statements of operations in the period when the change is enacted.
+Deferred tax assets, which are recorded in Other Assets within the consolidated statements of financial condition, are reduced by a valuation allowance when, based on the weight of available evidence, it is more likely than not that some portion or all of the deferred tax assets will not be realized. When evaluating the realizability of the deferred tax assets, all evidence, both positive and negative, is considered. Items considered when evaluating the need for a valuation allowance include the ability to carry back losses, future reversals of existing temporary differences, tax planning strategies, and expectations of future earnings.
+For a particular tax paying component of an entity and within a particular tax jurisdiction, deferred tax assets and liabilities are offset and presented as a single amount within Other Assets or Accrued and Other Liabilities, as applicable, in the accompanying statements of financial condition.
+Uncertain Tax Positions
+KKR analyzes its tax filing positions in all of the U.S. federal, state and local tax jurisdictions and foreign tax jurisdictions where it is required to file income tax returns, as well as for all open tax years in these jurisdictions. If, based on this analysis, KKR determines that uncertainties in tax positions exist, a reserve is established. The reserve for uncertain tax positions is recorded in Accrued and Other Liabilities in the accompanying statements of financial condition. KKR recognizes accrued interest and penalties related to uncertain tax positions within the provision for income taxes in the consolidated statements of operations.
+KKR records uncertain tax positions on the basis of a two step process: (a) determination is made whether it is more likely than not that the tax positions will be sustained based on the technical merits of the position and (b) those tax positions that meet the more likely than not threshold are recognized as the largest amount of tax benefit that is greater than 50 percent likely to be realized upon ultimate settlement with the related tax authority.
+
+Net Income (Loss) attributable to KKR & Co. Inc. per share of common stock
+Net Income (Loss) attributable to KKR & Co. Inc. per share of common stock
+Net Income (Loss) attributable to KKR per share of common stock (Basic) is computed by dividing earnings (losses) attributable to KKR common stockholders by the weighted average number of common shares outstanding for the period. Net Income (Loss) attributable to KKR per share of common stock (Diluted) reflects the assumed conversion of all dilutive securities.
+For further information on net income (loss) per common share, see Note 13 "Net Income (Loss) Attributable to KKR & Co. Inc. per Share of Common Stock."
+
+Investments
+Investments
+Investments consist primarily of private equity, credit, investments of consolidated CFEs, real assets, equity method and other investments. Investments denominated in currencies other than the entity's functional currency are valued based on the spot rate of the respective currency at the end of the reporting period with changes related to exchange rate movements reflected in the consolidated statements of operations. Security and loan transactions are recorded on a trade date basis. Further disclosure on investments is presented in Note 7 "Investments."
+The following describes the types of securities held within each investment class.
+Private Equity - Consists primarily of equity investments in operating businesses, including growth equity investments.
+Credit - Consists primarily of investments in below investment grade corporate debt securities (primarily high yield bonds and syndicated bank loans), originated, distressed and opportunistic credit, real estate mortgage loans, and interests in unconsolidated CLOs.
+Investments of Consolidated CFEs - Consists primarily of investments in below investment grade corporate debt securities (primarily high yield bonds and syndicated bank loans) held directly by the consolidated CLOs.
+Real Assets - Consists primarily of investments in (i) infrastructure assets, (ii) real estate, principally residential and commercial real estate assets and businesses, and (iii) energy related assets, principally oil and natural gas properties.
+Equity Method - Other - Consists primarily of (i) certain direct interests in operating companies in which KKR is deemed to exert significant influence under GAAP and (ii) certain interests in partnerships and joint ventures that hold private equity and real assets investments.
+Equity Method - Capital Allocation-Based Income - Consists primarily of (i) the capital interest KKR holds as the general partner in certain investment funds, which are not consolidated and (ii) the carried interest component of the general partner interest, which are accounted for as a single unit of account.
+Other - Consists primarily of investments in common stock, preferred stock, warrants and options of companies that are not private equity, real assets, credit or investments of consolidated CFEs.
+Investments held by Consolidated Investment Funds
+The consolidated investment funds are, for GAAP purposes, investment companies and reflect their investments and other financial instruments, including portfolio companies that are majority-owned and controlled by KKR's investment funds, at fair value. KKR has retained this specialized accounting for the consolidated investment funds in consolidation. Accordingly, the unrealized gains and losses resulting from changes in fair value of the investments and other financial instruments held by the consolidated investment funds are reflected as a component of Net Gains (Losses) from Investment Activities in the consolidated statements of operations.
+Certain energy investments are made through consolidated investment funds, including investments in working and royalty interests in oil and natural gas properties as well as investments in operating companies that operate in the energy industry. Since these investments are held through consolidated investment funds, such investments are reflected at fair value as of the end of the reporting period.
+Investments in operating companies that are held through KKR's consolidated investment funds are generally classified within private equity investments and investments in working and royalty interests in oil and natural gas properties are generally classified as real asset investments.
+Fair Value Option
+For certain investments and other financial instruments, KKR has elected the fair value option. Such election is irrevocable until the occurrence of certain qualifying events as defined in ASC 825, when KKR has, in addition to the ability to elect or the option to cease applying the fair value option to an eligible item to which it was previously applied and is applied on a financial instrument by financial instrument basis at initial recognition. KKR has elected the fair value option for certain private equity, real assets, credit, investments of consolidated CFEs, equity method - other and other financial instruments not held through a consolidated investment fund. Accounting for these investments at fair value is consistent with how KKR accounts for its investments held through consolidated investment funds. Changes in the fair value of such instruments are recognized in Net Gains (Losses) from Investment Activities in the consolidated statements of operations. Interest income on interest bearing credit securities on which the fair value option has been elected is based on stated coupon rates adjusted for the accretion of purchase discounts and the amortization of purchase premiums. This interest income is recorded within Interest Income in the consolidated statements of operations.
+Equity Method
+For certain investments in entities over which KKR exercises significant influence but which do not meet the requirements for consolidation and for which KKR has not elected the fair value option, KKR uses the equity method of accounting. The carrying value of equity method investments, for which KKR has not elected the fair value option, is determined based on the amounts invested by KKR, adjusted for the equity in earnings or losses of the investee allocated based on KKR's respective ownership percentage, less distributions.
+For equity method investments for which KKR has not elected the fair value option, KKR records its proportionate share of the investee's earnings or losses based on the most recently available financial information of the investee, which in certain cases may lag the date of KKR's financial statements by no more than three calendar months. As of December 31, 2024, equity method investees for which KKR reports financial results on a lag include Marshall Wace LLP ("Marshall Wace").
+KKR evaluates its equity method investments for which KKR has not elected the fair value option for impairment whenever events or changes in circumstances indicate that the carrying amounts of such investments may not be recoverable.
+The carrying value of investments classified as Equity Method - Capital Allocation-Based Income approximates fair value, because the underlying investments of the unconsolidated investment funds are reported at fair value.
+Financial Instruments held by Consolidated CFEs
+KKR measures both the financial assets and financial liabilities of the consolidated CFEs in its financial statements using the more observable of the fair value of the financial assets and the fair value of the financial liabilities which results in KKR's consolidated net income (loss) reflecting KKR's own economic interests in the consolidated CFEs including (i) changes in the fair value of the beneficial interests retained by KKR and (ii) beneficial interests that represent compensation for services rendered.
+For the consolidated CLOs, KKR has determined that the fair value of the financial assets of the consolidated CLOs is more observable than the fair value of the financial liabilities of the consolidated CLOs. As a result, the financial assets of the consolidated CLOs are being measured at fair value and the financial liabilities are being measured in consolidation as: (1) the sum of the fair value of the financial assets and the carrying value of any nonfinancial assets that are incidental to the operations of the CLOs less (2) the sum of the fair value of any beneficial interests retained by KKR (other than those that represent compensation for services) and KKR's carrying value of any beneficial interests that represent compensation for services. The resulting amount is allocated to the individual financial liabilities (other than the beneficial interests retained by KKR).
+Investments
+In the normal course of business, Global Atlantic enters into transactions involving various types of investments.
+Investments include the following: U.S. government and agency obligations; commercial mortgage-backed securities ("CMBS"), residential mortgage-backed securities ("RMBS"), CLOs, collateralized bond obligations ("CBOs"), and all other structured securities, consisting primarily of asset-backed securities ("ABS") (collectively, "structured securities"); corporate bonds; state and political subdivision obligations; foreign government obligations; equity securities; mortgage and other loan receivables; policy loans; and other non-derivative investments.
+Available-For-Sale Fixed Maturity Securities
+Global Atlantic primarily accounts for its fixed maturity securities (including bonds, structured securities and redeemable preferred stock) as available-for-sale ("AFS"). AFS fixed maturity securities are generally recorded on a trade-date basis and are carried at fair value. Impairment associated with AFS fixed maturity securities is recognized as an allowance for credit losses. The allowance for credit losses is established either by a charge to net investment-related losses in the consolidated statements of operations, for securities identified as credit impaired after purchase, or by a gross-up recognition of an initial allowance for purchased credit deteriorated ("PCD") securities.
+PCD securities are those purchased by Global Atlantic that were assessed at acquisition as having experienced a more-than-insignificant deterioration in credit quality since their origination. Global Atlantic considers an AFS fixed maturity security to be PCD if there are indicators of a credit loss at the acquisition date or, in the case of structured securities, if there is a significant difference between contractual cash flows and expected cash flows at acquisition. PCD securities also include those AFS fixed maturity securities previously held by Global Atlantic that were similarly assessed at the time when KKR acquired a majority controlling interest in Global Atlantic on February 1, 2021 (the "2021 GA Acquisition"). The initial amortized cost for a PCD security equals the purchase price plus the initial allowance for credit losses. The initial allowance for credit losses is determined using a discounted cash flow method based on the best estimate of the present value of cash flows expected to be collected. After purchase, the accounting for a PCD security is generally consistent with that applied to all other securities.
+Unrealized gains and losses on AFS fixed maturity securities, net of tax and insurance intangible amortization, are reported in accumulated other comprehensive income ("AOCI") in the consolidated statements of financial condition. Realized investment gains and losses are recognized on a first-in first-out ("FIFO") basis and are reported in net investment-related gains (losses) in the consolidated statements of operations. The amortized cost of fixed maturity securities is adjusted for impairment charge-offs, amortization of premiums and accretion of discounts. Such amortization and accretion is calculated using the effective yield method and included in net investment income in the consolidated statements of operations.
+For structured securities, Global Atlantic recognizes interest income using a constant effective yield based on estimated cash flows generated from internal models utilizing interest rate, default and prepayment assumptions. Effective yields for structured securities that are not of high credit quality are recalculated and adjusted prospectively based on changes in expected undiscounted future cash flows, after consideration of any appropriate recognition or release of an allowance for credit losses. For structured securities that are of high credit quality, effective yields are recalculated based on payments received and updated prepayment expectations, and amortized cost is adjusted to the amount that would have existed had the new effective yield been applied since acquisition with a corresponding charge or credit to net investment income. Prepayment fees are recorded when earned in net investment income in the consolidated statements of operations.
+Global Atlantic generally suspends accrual of interest for securities that are more than 90 days past due and reverses any related accrued interest to net investment income in the consolidated statements of operations. When a security is in non-accrual status, coupon payments are recognized as interest income as cash is received, subject to consideration as to the overall collectibility of the security. A security is returned to accrual status when Global Atlantic determines that the collection of amounts due is probable. The allowance for credit losses excludes accrued interest from the amortized cost basis for which losses are estimated.
+Trading Fixed Maturity Securities
+Global Atlantic accounts for certain fixed maturity securities as trading at acquisition, based on intent or via the election of the fair value option. Trading securities are generally recorded on a trade-date basis and are carried at fair value, with realized and unrealized gains and losses reported in net investment-related gains (losses) in the consolidated statements of operations. Interest income from these securities is reported in net investment income. Trading securities, which are primarily used to match asset and liability accounting, back funds withheld payable at interest where the investment performance is ceded to reinsurers under the terms of the respective reinsurance agreements.
+Equity Securities
+Global Atlantic accounts for its investments in equity securities (including common stock and non-redeemable preferred stock) that do not require equity method accounting or result in consolidation, at fair value. Realized and unrealized investment gains and losses are reported in net investment-related gains (losses) in the consolidated statements of operations.
+Mortgage and Other Loan Receivables
+Global Atlantic purchases and originates mortgage and other loan receivables, and the majority of these loans are carried at cost, less the allowance for credit losses and as adjusted for amortization/accretion of premiums/discounts. Loan premiums or discounts are amortized or accreted using the effective yield method. The allowance for credit losses is established either by a charge to net investment-related losses in the consolidated statements of operations or, for PCD mortgage and other loan receivables, by a gross-up recognition of the initial allowance in the consolidated statements of financial condition.
+PCD mortgage and other loan receivables are those purchased by Global Atlantic that were assessed at acquisition as having experienced a more-than-insignificant deterioration in credit quality since their origination. PCD mortgage and other loan receivables also include those mortgage and other loan receivables previously held by Global Atlantic that were similarly assessed at the time of the 2021 GA Acquisition. The initial amortized cost for a PCD mortgage or other loan receivable equals the purchase price plus the initial allowance for credit losses. The initial allowance for credit losses is determined using a method consistent with that used for other similar loans. See further discussion of allowance methods below. After purchase, the accounting for a PCD mortgage or other loan receivable is consistent with that applied to all other mortgage and other loan receivables.
+Global Atlantic has elected the fair value option for certain mortgage and other loan receivables, when purchased or originated. Changes in the fair value of these mortgage and other loan receivables are reported in net investment related gains (losses) in the consolidated statements of operations.
+Interest income is accrued on the principal balance of each loan based on its contractual interest rate. The accrual of interest is generally suspended when the collection of interest is no longer probable or the collection of any portion of principal is doubtful. Global Atlantic generally suspends accrual of interest for loans that are more than 90 days past due and reverses any related accrued interest to net investment income in the consolidated statements of operations. When a loan is in non-accrual status, coupon payments are generally recognized as interest income as cash is received, subject to consideration as to the overall collectibility of the loan. A loan is returned to accrual status when Global Atlantic determines that the collection of amounts due is probable. The allowance for credit losses for loans carried at amortized cost excludes accrued interest from the amortized cost basis for which losses are estimated.
+Policy Loans
+Policy loans are loans policyholders take out against their life insurance policies. Each policy loan is fully collateralized by the cash surrender value of the policyholder s life insurance policy. Policy loans are carried at unpaid principal balances. Interest income on such loans is recognized as earned using the contractually agreed upon interest rate and reflected in net investment income in the consolidated statements of operations. Generally, interest is capitalized on the associated policy s anniversary date.
+Real Assets and Other Investments
+Real assets consist primarily of investments in real estate assets, transportation assets, energy-related assets (principally renewable energy properties), and infrastructure assets. Other investments include equity securities, limited partnership interests, investments in Federal Home Loan Bank ("FHLB") common stock, and other interests.
+Real assets and other investments in the consolidated statements of financial condition include investments in investment partnerships, for which Global Atlantic does not have voting control or power to direct activities. These investments are accounted for using the equity method of accounting unless Global Atlantic s interest is so minor that it has virtually no influence over partnership operating or financial policies. The equity method of accounting requires that the investments be initially recorded at cost and the carrying amount of the investment subsequently be adjusted to recognize Global Atlantic s share of the earnings and losses of the investee. Where there is a difference between the cost of the investment and Global Atlantic s proportionate share of the equity method investee s net assets, this basis difference is accreted to net investment income over the life of the underlying assets. In applying the equity method, Global Atlantic uses financial information provided by the investee, generally on a one to three month lag due to the timing of the receipt of related financial statements.
+The income from Global Atlantic s equity method investments is included in net investment income in the consolidated statements of operations. In limited circumstances, Global Atlantic elects to apply the fair value option to investment partnerships, which are carried at fair value with unrealized gains and losses reported in net investment-related gains (losses) in the consolidated statements of operations. Distributions from investment partnerships that apply equity method accounting are classified as either investing or operating activities within the consolidated statements of cash flows based on the nature of the distributions.
+Global Atlantic consolidates investment partnerships and other entities when it has a controlling financial interest. The results of certain consolidated investment entities are reported on a one to three month lag and intervening events are evaluated for materiality and recognition by disclosure or otherwise, as appropriate.
+Included in real assets are Global Atlantic s investments in renewable energy entities, including partnerships and limited liability companies. Respective investments are consolidated when Global Atlantic has a controlling financial interest, or are accounted for using the equity method of accounting when Global Atlantic has the ability to exercise significant influence but not control. These investments involve tiered capital structures that facilitate a waterfall of returns and allocations to ensure the efficient use of tax credits. A conventional income statement oriented approach to the equity method of accounting, or to the recognition of noncontrolling interests (when Global Atlantic is consolidating the investment), based on ownership percentages does not accurately reflect the proper allocation of income and cash flows for these investments. Instead, Global Atlantic uses the HLBV which is a balance sheet oriented approach to the equity method of accounting and to the recognition of noncontrolling interests that allocates income and cash flows based on changes to each investor s claim to net assets assuming a liquidation of the investee as of each reporting date, including an assessment of the likelihood of liquidation in determining the contractual provisions to utilize when applying the HLBV method.
+The income, net of the depreciation and other expenses associated with consolidated real assets is reported in net investment income in the consolidated statements of operations. Income on real assets is generally earned from the lease of the assets or, in the case of energy-related assets, from the contracted sale of the energy generated. Real assets carried at depreciated cost, excluding land, are depreciated on a straight-line basis over their estimated useful lives. As appropriate, depreciation is recognized to the estimated salvage value of the respective asset.
+Global Atlantic has certain investments in real estate held in consolidated investment companies that account for such real estate at fair value under investment company accounting, and this specialized accounting is retained in consolidation. Real asset investments in real estate are valued using one or a combination of the discounted cash flow analysis, market comparables analysis and direct income capitalization methods, which in each case incorporates significant assumptions and judgments. Certain real estate investments are valued based on ranges of valuations determined by independent valuation firms. Changes in the fair value of real estate in consolidated investment companies are recognized in net investment-related gains (losses) in the consolidated statements of operations.
+Investments in equity securities are carried at fair value, with changes recognized in net investment related gains (losses) in the consolidated statements of operations. Investments in FHLB common stock are accounted at cost.
+
+Due from and Due to Affiliates
+Due from and Due to Affiliates
+KKR considers its principals and their related entities, unconsolidated investment funds and the portfolio companies of its funds to be affiliates for accounting purposes. Receivables from and payables to affiliates are recorded at their current settlement amount.
+
+Derivative Instruments
+Derivative instruments
+Freestanding derivatives are instruments that KKR's asset management business and certain of its consolidated funds have entered into as part of their overall risk management and investment strategies. These derivative contracts are not designated as hedging instruments for accounting purposes. Such contracts may include forward, swap and option contracts related to foreign currencies and interest rates to manage foreign exchange risk and interest rate risk arising from certain assets and liabilities. All derivatives are recognized in Other Assets or Accrued Expenses and Other Liabilities and are presented on a gross basis in the consolidated statements of financial condition and measured at fair value with changes in fair value recorded in Net Gains (Losses) from Investment Activities in the accompanying consolidated statements of operations. KKR's derivative financial instruments contain credit risk to the extent that its counterparties may be unable to meet the terms of the agreements. KKR attempts to reduce this risk by limiting its counterparties to major financial institutions with strong credit ratings.Derivative Instruments
+Derivatives are instruments that derive their values from underlying asset prices, indices, foreign exchange rates, reference rates and other inputs or a combination of these factors. Derivatives may be privately negotiated contracts, which are usually referred to as over-the-counter ("OTC") derivatives, or they may be listed and traded on an exchange ("exchange-traded"). Global Atlantic s derivative instruments are primarily used to hedge certain risks, including interest rate risk, equity market risk and foreign exchange risk. Where certain criteria are met, some of these hedging arrangements may achieve hedge accounting.
+Derivative instruments are recognized at estimated fair value in either funds withheld receivable at interest, other assets, funds withheld payable at interest or accrued expenses and other liabilities in the consolidated statements of financial condition, with changes in fair value recorded in net investment-related gains (losses) in the consolidated statements of operations. Where certain qualifying criteria are met, some derivative instruments are designated as accounting hedges and are recognized at estimated fair value in derivative assets or accrued expenses and other liabilities in the consolidated statements of financial condition. For derivative instruments designated as fair value hedges, changes in fair value are recognized in the consolidated statements of operations, in the same line where the hedged item is reported. For derivative instruments designated as cash flow hedges, changes in fair value are initially recognized in accumulated other comprehensive income (loss) in the consolidated statements of financial condition and subsequently reclassified to the consolidated statements of operations when the hedged item affects earnings, in the same line item where the hedged item is reported. For derivative instruments designated as net investment hedges, changes in fair value are recognized in accumulated other comprehensive income (loss) in the consolidated statements of financial condition, consistent with the translation adjustment for the hedged investment.
+Derivative receivables and payables with a counterparty that are subject to an International Swaps and Derivatives Association Master Agreement ("ISDA") or other similar agreement that provides a legal right of setoff, are presented at their net amounts. Where the legal right of setoff exists, Global Atlantic also offsets the fair value of cash collateral received or posted under an ISDA, or other similar agreement with a counterparty, against the related derivative balances as appropriate.
+
+Securities Sold Short
+Securities Sold Short
+Whether part of a hedging transaction or a transaction in its own right, securities sold short represent obligations of KKR to deliver the specified security at the contracted price at a future point in time, and thereby create a liability to repurchase the security in the market at the prevailing prices. The liability for such securities sold short, which is recorded in Accrued Expenses and Other Liabilities in the statement of financial condition, is marked to market based on the current fair value of the underlying security at the reporting date with changes in fair value recorded as unrealized gains or losses in Net Gains (Losses) from Investment Activities in the accompanying consolidated statements of operations. These transactions may involve market risk in excess of the amount currently reflected in the accompanying consolidated statements of financial condition.
+
+Fees and Other
+Fees and Other
+Fees and Other, as detailed above, are accounted for as contracts with customers. Under ASC 606, Revenue from Contracts with Customers ("ASC 606"), KKR is required to (a) identify the contract(s) with a customer, (b) identify the performance obligations in the contract, (c) determine the transaction price, (d) allocate the transaction price to the performance obligations in the contract, and (e) recognize revenue when (or as) KKR satisfies its performance obligation. In determining the transaction price, KKR has included variable consideration only to the extent that it is probable that a significant reversal in the amount of cumulative revenue recognized would not occur when the uncertainty associated with the variable consideration is resolved.
+The following table summarizes KKR's revenues from contracts with customers:
+
+Revenue Type Customer Performance Obligation Performance Obligation Satisfied Over Time or
+Point In Time (1)
+ Variable or
+Fixed Consideration Payment Terms Subject to Return Once Recognized Classification of Uncollected Amounts (2)
+
+Management Fees Investment funds, CLOs and other vehicles Investment management services Over time as services are rendered Variable consideration since varies based on fluctuations in the basis of the management fee over time Typically quarterly or annually in arrears No Due from Affiliates
+Transaction Fees Portfolio companies and third party companies Advisory services and debt and equity arranging and underwriting Point in time when the transaction (e.g. underwriting) is completed Fixed consideration Typically paid on or shortly after transaction closes No Due from Affiliates (portfolio companies)
+
+Other Assets (third parties)
+Monitoring Fees
+Recurring Fees Portfolio companies Monitoring services Over time as services are rendered Variable consideration since varies based on fluctuations in the basis of the recurring fee Typically quarterly in arrears No Due from Affiliates
+Termination Fees Portfolio companies Monitoring services Point in time when the termination is completed Fixed consideration Typically paid on or shortly after termination occurs No Due from Affiliates
+Incentive Fees Investment funds and other vehicles Investment management services that result in achievement of minimum investment return levels Over time as services are rendered Variable consideration since contingent upon the investment fund and other vehicles achieving more than stipulated investment return hurdles Typically paid shortly after the end of the performance measurement period No Due from Affiliates
+Expense Reimbursements Investment funds and portfolio companies Investment management and monitoring services Point in time when the related expense is incurred Fixed consideration Typically shortly after expense is incurred No Due from Affiliates
+Consulting Fees Portfolio companies and other companies Consulting and other services Over time as services are rendered Fixed consideration Typically quarterly in arrears No Due from Affiliates
+
+(1)For performance obligations satisfied at a point in time, there were no significant judgments made in evaluating when a customer obtains control of the promised service.
+(2)For amounts classified in Other Assets, see Note 14 "Other Assets and Accrued Expenses and Other Liabilities." For amounts classified in Due from Affiliates, see Note 20 "Related Party Transactions."
+
+Management Fees
+KKR provides investment management services to investment funds, CLOs, and other vehicles and entities in exchange for a management fee. Management fees are generally determined quarterly based on an annual rate and are generally based upon a percentage of the capital committed, capital invested or net asset value during the investment period, if applicable. Thereafter, management fees are generally based on a percentage of remaining invested capital, net asset value, gross assets or as otherwise defined in the respective contractual agreements. Since some of the factors that cause the fees to fluctuate are outside of KKR's control, management fees are considered to be constrained and are therefore not included in the transaction price. Revenue recognized for the investment management services provided is generally determined at the end of the period because these management fees are payable on a regular basis (typically quarterly) and the uncertainty for that period is resolved.
+ Management fees earned from KKR's consolidated investment funds and other vehicles and entities are eliminated in consolidation. However, because these amounts are funded by, and earned from, noncontrolling interests, KKR's allocated share of the net income from the consolidated investment funds and other vehicles is increased by the amount of fees that are eliminated. Accordingly, net income (loss) attributable to KKR and KKR s stockholder s equity would be unchanged, if such investment funds and other vehicles were not consolidated.
+Management fee calculations based on committed capital or invested capital are mechanical in nature and therefore do not require the use of significant estimates or judgments. Management fee calculations based on net asset value, total assets, or investment fair value depend on the fair value of the underlying investments within the investment vehicle.
+Fee Credits
+Under the terms of the management agreements with certain of its investment funds, KKR is required to share with such funds an agreed upon percentage of certain fees, including monitoring and transaction fees earned from portfolio companies ("Fee Credits"). Investment funds earn Fee Credits only with respect to monitoring and transaction fees that are allocable to the fund's investment in the portfolio company and not, for example, any fees allocable to capital invested through co-investment vehicles. Fee Credits are calculated after deducting certain costs incurred in connection with pursuing potential investments that do not result in completed transactions ("broken-deal expenses") and generally amount to 80% for older funds formed on or prior to January 1, 2015, or 100% for newer funds, of allocable monitoring and transaction fees after broken-deal expenses are recovered, although the actual percentage may vary from fund to fund. Fee Credits are recognized and owed to investment funds concurrently with the recognition of monitoring fees, transaction fees and broken-deal expenses. Since Fee Credits are payable to investment funds, amounts owed are generally applied as a reduction of the management fee that is otherwise billed to the investment fund. Fee credits are recorded as a reduction of revenues in the consolidated statement of operations. Fee Credits owed to investment funds are recorded in Due to Affiliates on the consolidated statements of financial condition. See Note 20 "Related Party Transactions."
+Transaction Fees
+KKR (i) arranges debt and equity financing, places and underwrites securities offerings, and provides other types of capital markets services for companies seeking financing in its Capital Markets business line and (ii) provides advisory services in connection with successful Private Equity, Real Assets, and Credit and Liquid Strategies business line portfolio company investment transactions, in each case, in exchange for a transaction fee. Transaction fees are separately negotiated for each transaction and are generally based on (i) for Capital Markets business line transactions, a percentage of the overall transaction size and (ii) for Private Equity, Real Assets, and Credit and Liquid Strategies business line transactions, a percentage of either total enterprise value of an investment or a percentage of the aggregate price paid for an investment. After the contract is established, there are no significant judgments made when determining the transaction price.
+Monitoring Fees
+KKR provides services in connection with monitoring portfolio companies in exchange for a fee. Recurring monitoring fees are separately negotiated for each portfolio company. In addition, certain monitoring fee arrangements may provide for a termination payment following an initial public offering or change of control as defined in the contractual terms of the related agreement. These termination payments are recognized in the period when the related transaction closes. After the contract is established, there are no significant judgments made when determining the transaction price.
+Incentive Fees
+KKR provides investment management services to certain investment funds, CLOs and other vehicles in exchange for a management fee as discussed above and, in some cases an incentive fee when KKR is not entitled to a carried interest. Incentive fee rates generally range from 5% to 20% of investment gains. Incentive fees are considered a form of variable consideration as these fees are subject to reversal, and therefore the recognition of such fees is deferred until the end of each fund's measurement period when the performance-based incentive fees become fixed and determinable. Incentive fees are generally paid within 90 days of the end of the investment vehicles' measurement period. After the contract is established, there are no significant judgments made when determining the transaction price.
+Incentive fees earned from KKR's consolidated investment funds, CLOs, and other vehicles are eliminated in consolidation. However, because these amounts are funded by, and earned from, noncontrolling interests, KKR's allocated share of the net income from the consolidated investment funds, CLOs, and other vehicles is increased by the amount of fees that are eliminated. Accordingly, net income (loss) attributable to KKR would be unchanged if such investment funds and other vehicles were not consolidated.
+Expense Reimbursements
+Providing investment management services to investment funds and monitoring KKR s portfolio companies require KKR to arrange for services on behalf of them. In those situations where KKR is acting as an agent on behalf of its investment funds or portfolio companies, it presents the cost of services on a net basis as a reduction of Revenues. In all other situations, KKR is primarily responsible for fulfilling the services and is therefore acting as a principal for those arrangements for accounting purposes. As a result, the expense and related reimbursement associated with those services is presented on a gross basis. Costs incurred are classified within Expenses and reimbursements of such costs are classified as Expense Reimbursements within Revenues on the consolidated statements of operations. After the contract is established, there are no significant judgments made when determining the transaction price.
+Consulting Fees
+KKR provides consulting and other services to portfolio companies and other companies in exchange for a consulting fee. Consulting fees are separately negotiated with each company for which services are provided. After the contract is established, there are no significant judgments made when determining the transaction price.
+Capital Allocation-Based Income (Loss)
+Capital allocation-based income (loss) is earned from those arrangements where KKR has a general partner capital interest and is entitled to a disproportionate allocation of investment income (referred to hereafter as "carried interest"). KKR accounts for its general partner interests in capital allocation-based arrangements as financial instruments under ASC 323, Investments - Equity Method and Joint Ventures ("ASC 323") since the general partner has significant governance rights in the investment funds in which it invests, which demonstrates significant influence. In accordance with ASC 323, KKR records equity method income based on the proportionate share of the income of the investment fund, including carried interest, assuming the investment fund was liquidated as of each reporting date pursuant to each investment fund's governing agreements. Accordingly, these general partner interests are accounted for outside of the scope of ASC 606. Other arrangements surrounding contractual incentive fees through an advisory contract are separate and distinct and accounted for in accordance with ASC 606. In these incentive fee arrangements, accounted for in accordance with ASC 606, KKR s economics in the entity do not involve an allocation of capital. See "Incentive Fees" above.
+Carried interest is allocated to the general partner based on cumulative fund performance to date, and where applicable, subject to a preferred return to the funds' limited partners. At the end of each reporting period, KKR calculates the carried interest that would be due to KKR for each investment fund, pursuant to the fund agreements, as if the fair value of the underlying investments were realized as of such date, irrespective of whether such amounts have been realized. As the fair value of underlying investments varies between reporting periods, it is necessary to make adjustments to amounts recorded as carried interest to reflect either (a) positive performance resulting in an increase in the carried interest allocated to the general partner or (b) negative performance that would cause the amount due to KKR to be less than the amount previously recognized, resulting in a negative adjustment to carried interest allocated to the general partner. In each case, it is necessary to calculate the carried interest on cumulative results compared to the carried interest recorded to date and to make the required positive or negative adjustments. KKR ceases to record negative carried interest allocations once previously recognized carried interest allocations for an investment fund have been fully reversed. KKR is not obligated to make payments for guaranteed returns or hurdles and, therefore, cannot have negative carried interest over the life of an investment fund. Accrued but unpaid carried interest as of the reporting date is reflected in Investments in the consolidated statements of financial condition.
+
+Compensation and Benefits
+Compensation and Benefits
+Compensation and Benefits expense includes (i) base cash compensation consisting of salaries and wages, (ii) benefits, (iii) carry pool allocations, (iv) equity-based compensation, and (v) discretionary cash bonuses.
+To supplement base cash compensation, benefits, carry pool allocations, and equity-based compensation, KKR typically pays discretionary cash bonuses, which are included in Compensation and Benefits expense in the consolidated statements of operations, based principally on the level of segment (i) management fees and other fee revenues (including incentive fees), (ii) realized performance income and (iii) realized investment income earned during the year. The amounts paid as discretionary cash bonuses, if any, are at KKR s sole discretion and vary by individual to individual and from period to period, including having no cash bonus. KKR accrues discretionary cash bonuses when payment becomes probable and reasonably estimable which is generally in the period when KKR makes the decision to pay discretionary cash bonuses and is based upon a number of factors including the recognition of segment fee revenues, realized performance income, realized investment income and other factors determined during the year.
+KKR decides whether to pay a discretionary cash bonus and determines the percentage of applicable revenue components to pay compensation only upon the occurrence of the realization event. There is no contractual or other binding obligation that requires KKR to pay a discretionary cash bonus to its employees, except in limited circumstances.
+Carry Pool Allocation
+With respect to our funds that provide for carried interest, KKR allocates a portion of the realized and unrealized carried interest that KKR earns to Associates Holdings, which is referred to as the carry pool, from which KKR's asset management employees and certain other carry pool participants are eligible to receive a carried interest allocation. The allocation is determined based upon a fixed arrangement between Associates Holdings and KKR, and KKR does not exercise discretion on whether to make an allocation to the carry pool upon a realization event. KKR refers to the portion of carried interest that KKR allocates to the carry pool as the carry pool percentage.
+As of December 31, 2023, the carry pool percentage was fixed at 40%, 43% or 65% by investment fund, depending on the fund s vintage. For funds that closed after December 31, 2020 but before December 31, 2023, the carry pool percentage was fixed at 65%. For funds that closed after June 30, 2017 but before December 31, 2020, the carry pool percentage was fixed at 43%, and the carry pool percentage was fixed at 40% for older funds that contributed to KKR's carry pool. Effective January 2, 2024, KKR is authorized to apply a carry pool percentage in excess of these fixed percentages of up to 80% for all funds.
+This increase to the carry pool percentage was approved by a majority of KKR's independent directors, and the carry pool percentage may not be increased above 80% without the further approval of a majority of KKR's independent directors. For funds that closed after December 31, 2023, the carry pool percentage is fixed at 80%. For funds that closed prior to December 31, 2023, the carry pool percentage is calculated at a fixed percentage of 40%, 43% or 65% (depending on the fund s vintage) for carried interest realized up to a high water mark, which was established based on the unrealized carried interest balance that existed on January 2, 2024, plus an additional percentage amount up to 80% based on a formulaic allocation, only if the unrealized carried interest balance at any period end exceeds the high water mark. This imposes a limitation of the carry pool allocation for such funds based on the amount of cumulative unrealized carried interest income earned subsequent to December 31, 2023.
+For funds that closed before December 31, 2023, if the cumulative carried interest subsequent to December 31, 2023 is not sufficient to fund this formulaic allocation, the allocation of carried interest reverts to the carry pool percentage in effect before this modification. As such, upon modification of the carry pool percentage effective on January 2, 2024, the cumulative unrealized carried interest was not sufficient to fund the additional formulaic allocation percentage in excess of the pre-existing 40%, 43% and 65% carry pool percentages, and therefore no incremental expense was recognized as of such date. The carry pool percentage applicable for all funds that closed prior to December 31, 2023 will not be less than their applicable carry pool percentages of 40%, 43% or 65% prior to December 31, 2023, and will not be more than 80%. The intent of this modification is that for all funds that closed prior to January 2, 2024, upon the final liquidation of each fund, realized carried interest distributed will equal the historical fund carry pool allocations up to the high water mark and only distributions of realized carried interest in excess of the high water mark will be distributed at 80 percent if and only if the unrealized carried interest balance at any period end exceeds the high water mark. Under no circumstance would a distribution of carried interest exceed 80% of the total allocable carried interest at any time.
+KKR accounts for the carry pool as a compensatory profit-sharing arrangement in Accrued Expenses and Other Liabilities within the accompanying consolidated statements of financial condition in conjunction with the related carried interest income and it is recorded as compensation expense. The liability that is recorded in each period reflects the legal entitlement of Associates Holdings at each point in time should the total unrealized carried interest be realized at the value recorded at each reporting date. Upon a reversal of carried interest income, the related carry pool allocation, if any, is also reversed. Accordingly, such compensation expense is subject to both positive and negative adjustments.
+Profit Sharing Plan
+KKR provides certain profit sharing programs for KKR employees. In particular, KKR provides a 401(k) plan for eligible employees in the United States. For certain employees who are participants in the 401(k) plan, KKR may, in its discretion, contribute an amount after the end of the plan year.
+
+General, Administrative and Other Expenses
+General, Administrative and Other
+General, administrative and other expense consists primarily of professional fees paid to legal advisors, accountants, advisors and consultants, insurance costs, travel and related expenses, communications and information services, depreciation and amortization charges, broken-deal expenses, placement fees and other general operating expenses. A portion of these general administrative and other expenses, in particular broken-deal expenses, are borne by fund investors.
+General, Administrative and Other Expenses
+General, administrative and other expenses are primarily comprised of employee compensation and benefit expenses, administrative and professional services and other operating expenses.
+
+Investment Income
+Investment Income
+Investment income consists primarily of the net impact of:
+i.Realized and unrealized gains and losses on investments, securities sold short, derivatives and debt obligations of consolidated CFEs which are recorded in Net Gains (Losses) from Investment Activities. Upon disposition of an investment, previously recognized unrealized gains or losses are reversed and a realized gain or loss is recognized.
+ii.Foreign exchange gains and losses relating to mark to market activity on foreign exchange forward contracts, foreign currency options and foreign denominated debt which are recorded in Net Gains (Losses) from Investment Activities.
+iii.Dividends, which are recognized on the ex dividend date, or, in the absence of a formal declaration of a record date, on the date it is received.
+iv.Interest income, which is recognized as earned.
+v.Interest expense, which is recognized as incurred.
+
+Investment Credit Losses and Impairment
+Investment Credit Losses and Impairment
+Available-For-Sale Fixed Maturity Securities
+One of the significant estimates related to AFS securities is the evaluation of those investments for credit losses. The evaluation of investments for credit losses is a quantitative and qualitative quarterly process that is subject to risks and uncertainties and involves significant estimates and judgments by management. Changes in the estimates and judgments used in such analysis can have a significant impact on the consolidated statements of operations. Considerations relevant to the evaluation of credit losses may include the severity of any loss position, as well as changes in market interest rates, changes in business climate, management changes, litigation, government actions, and other similar factors that may impact an issuer s ability to meet current and future principal and interest obligations. Indicators of credit impairment may also include changes in credit ratings, the frequency of late payments, pricing levels and deterioration in any, or a combination of, key financial ratios, financial statements, revenue forecasts and cash flow projections.
+For AFS fixed maturity securities in an unrealized loss position, Global Atlantic first considers the intent to sell a security, or whether it is more-likely-than-not that it will be required to sell the security, before the recovery of its amortized cost. If Global Atlantic intends to sell an AFS fixed maturity security with an unrealized loss or it is more-likely-than-not that it will be required to sell an AFS fixed maturity security with an unrealized loss before recovery of its amortized cost basis, the amortized cost is written down to fair value and a corresponding charge is recognized to net investment-related losses.
+For AFS fixed maturity securities in an unrealized loss position that Global Atlantic does not intend to sell, and will not be required to sell, Global Atlantic bifurcates the impairment into two components: credit impairment and non-credit impairment. Credit impairments are measured as the difference between the security s cost or amortized cost and its estimated recoverable value, which is the present value of its expected future cash flows discounted at the current effective interest rate. The estimated recoverable value is subject to a floor equal to the fair value of the security. The remaining difference between the security s fair value and the recoverable value, if any, is the non-credit impairment. Credit impairments are recognized in the allowance for credit losses on AFS fixed maturity securities, which is established via a charge to net investment-related losses in the consolidated statements of operations, and non-credit impairments are charged to accumulated other comprehensive income in the consolidated statements of financial condition.
+In determining the estimated recoverable value, the review of expected future cash flows for structured securities includes assumptions about key systemic risks (e.g., unemployment rates, housing prices) and loan-specific information (e.g., delinquency rates, loan-to-value ratios). Estimating future cash flows is a quantitative and qualitative process that incorporates information received from third parties, along with assumptions and judgments about the future performance of the underlying collateral. For corporate and government bonds the recoverable value is determined using cash flow estimates that consider facts and circumstances relevant to the security and the issuer, including overall financial strength and secondary sources of repayment as well as pending restructuring or disposition of assets.
+In periods subsequent to the initial recognition of an allowance for credit losses on a fixed maturity security, whether for a PCD security or a security impaired since purchase, Global Atlantic continues to monitor credit loss expectations. Deterioration in the estimated recoverable value of a credit impaired security is recognized as an addition to the allowance for credit losses, as limited by the amount by which the security s fair value is less than amortized cost. Improvements in the estimated recoverable value of a credit impaired security or improvements in the fair value of a credit impaired security that limit the amount of the allowance result in reductions in the allowance for credit losses, which are recognized as a credit to net investment-related gains (losses) in the consolidated statements of income.
+Amounts are charged off against the allowance for credit losses when deemed uncollectible or when Global Atlantic determines that it intends to sell, or more likely than not will be required to sell, the security. Charge-offs are reflected as a decrease in the allowance and a direct write down in the amortized cost of the security. If Global Atlantic recovers all or a portion of an amount previously written off on a credit impaired security, the recovery is recognized as a realized investment gain.
+Mortgage and Other Loan Receivables
+Global Atlantic updates its estimate of the expected credit losses on its investments in mortgage and other loan receivables carried at amortized cost each quarter. For loans that share similar risk characteristics, expected credit losses are measured on a pool basis. For loans that do not share similar risk characteristics, expected credit losses are measured individually. Loans subject to individual evaluation include those loans that are collateral dependent, where the borrower is experiencing financial difficulty. For these collateral dependent loans, expected credit losses are measured as the difference between the fair value of the collateral (less costs to sell, where the collateral is to be sold) and the amortized cost basis of the loan.
+For commercial mortgage loans, the current expected credit losses are estimated using a model that evaluates the probability that each loan will default and estimates the amount of loss given the occurrence of such a default over the life of each loan in the portfolio. The model incorporates historical and current data on the relevant property market and projects potential future paths for each loan s collateral, considering both the net income to be generated by the collateral real estate and its market value. The model considers how macroeconomic forecasts (such as gross domestic product, unemployment, and interest rates) influence commercial real estate market factors (including vacancy rates, rental and income growth rates, property value changes), and in turn how commercial real estate market conditions, in combination with loan specific information (including debt service coverage and loan to value), drive commercial mortgage loan credit risk.
+For residential mortgage loans and consumer loans, the current expected credit losses are primarily estimated using a discounted cash flow model. The model considers loan-specific information as well as current, historical and forecasted data relevant to the respective loans, including home prices, interest rates and unemployment. Expected cash flows are projected for each loan and are discounted using the effective interest rate of the respective loan. Any shortfalls between the discounted cash flows and the amortized cost of each individual loan are aggregated to determine the total allowances on the residential mortgage loan and consumer loan portfolios. For certain residential mortgage loans secured by single-family rental properties, current expected credit losses are determined using a model consistent with that described above for commercial mortgage loans.
+With regard to the use of forecasts in the determination of Global Atlantic s current expected credit losses, the reversion of forecasts to historical data is based on reversion dynamics that depend on the specific variable and its interaction with the other parameters of the respective model; however, the forecasts generally tend to revert to a long-term equilibrium trend within two to three years from the forecast start date.
+For the investment in other loan receivables, a variety of methodologies are used to estimate the respective current expected credit losses. These methodologies consider the terms specific to each loan, including the value of any collateral, and evaluate the risk of loss over the life of these loans.
+Global Atlantic also assesses and measures an allowance for credit losses arising from off-balance sheet commitments, including loan commitments, that are not unconditionally cancellable by Global Atlantic. This allowance for credit losses for off-balance sheet commitments is determined using methods consistent with those used for the associated mortgage and other loan receivable class, as described above, and is recognized in other liabilities in the consolidated statements of financial condition, since there is no funded asset for the committed amount.
+When all or a portion of a loan is deemed uncollectible, the uncollectible portion of the carrying amount of the loan is charged off against the allowance. If Global Atlantic recovers all or a portion of an amount previously written off on a credit impaired loan, the recovery is recognized as a realized investment gain.
+Real Assets and Other Investments
+The determination of the amount of impairment on other classes of investments also requires significant judgment and is based upon a periodic evaluation and assessment of known and inherent risks associated with the respective asset class. Such assessments are revised as conditions change and new information becomes available.
+Impairment of consolidated real assets carried at depreciated cost is assessed whenever events or changes in circumstances indicate that the carrying amount may not be recoverable. When indicators of impairment are present, a recoverability test is performed to determine if the sum of the estimated undiscounted future cash flows attributable to the assets is greater than the carrying amount. If the undiscounted estimated future cash flows are less than the carrying amount, an impairment loss is recognized based on the amount by which the carrying amount exceeds its estimated fair value.
+Impairment of investments subject to the equity method of accounting is assessed whenever events or circumstances suggest that the carrying amount may not be recoverable. An impairment charge is recognized in earnings for a decline in value that is determined to be other than temporary and is measured as the difference between the carrying amount and the fair value of the equity method investment as of the balance sheet date.
+
+Deferral and Amortization of Certain Revenues and Expenses
+Deferral and Amortization of Certain Revenues and Expenses
+Deferrals
+Deferred policy acquisition costs ("DAC") consist of commissions and other costs that are directly related to the successful acquisition of new or renewal life insurance or annuity contracts. DAC is estimated using a group approach, instead of on an individual contract level. DAC groups, or cohorts, are by product type and issue year and consistent with the groups used in estimating the associated insurance liability. DAC is recorded in insurance intangibles in the consolidated statements of financial condition.
+Value of business acquired ("VOBA") represents the difference between the carrying value of the purchased insurance contract liabilities at the time of the business combination and the estimated fair value of insurance and reinsurance contracts. VOBA can be either positive or negative. Positive VOBA is recorded in insurance intangibles. Negative VOBA is recorded in the same financial statement line in the consolidated statements of financial condition as the associated reserves.
+For limited-payment products (e.g., payout annuities), gross premiums received in excess of net premiums are deferred at initial recognition as a deferred profit liability ( DPL ). DPL is measured using assumptions consistent with those used in the measurement of the liability for future policy benefits, including discount rate, mortality, lapses, and expenses. DPL is recorded in policy liabilities in the consolidated statements of financial condition.
+For certain preneed contracts, the gross premium is in excess of the benefit reserve plus additional insurance liability. An unearned front-end load ("UFEL") is established to defer the recognition of this front-end load. UFEL is recorded in policy liabilities in the consolidated statements of financial condition.
+Amortization
+DAC is amortized on a constant level basis for the grouped contracts over the expected economic life of the related contracts. Global Atlantic amortizes DAC for all products on a constant level basis based on policy count, except for DAC for traditional life products that are amortized on a constant level basis based on face amount. The constant level bases used for amortization are projected using mortality and lapse assumptions that are based on Global Atlantic's experience, industry data, and other factors and are consistent with those used for the liability for future policy benefits. If those projected assumptions change in future periods, they will be reflected in the cohort level amortization basis at that time. Unexpected lapses, due to higher mortality and lapse experience than expected, are recognized in the current period as a reduction of the capitalized balances.
+Amortization of DAC is included in amortization of policy acquisition costs in the consolidated statements of operations.
+VOBA is generally amortized using the same methodology and assumptions used to amortize DAC.
+DPL is amortized and recognized in proportion to insurance in-force for life insurance contracts and expected future benefit payments for annuity contracts. Interest is accreted on the balance of the DPL using the discount rate determined at contract issuance. Global Atlantic reviews and updates its estimates of cash flows for the DPL at the same time as the estimates of cash flows for the liability for future policy benefits. When cash flows are updated, the updated estimates are used to recalculate the DPL at contract issuance. The recalculated DPL as of the beginning of the current reporting period is compared to the carrying amount of the DPL as of the beginning of the current reporting period, and any difference is recognized as either a charge or credit to net policy benefits and claims.
+UFEL is amortized consistent with the amortization of DAC on preneed contracts.
+The key assumptions used in the calculation of the amortization of these balances are reviewed quarterly and updated if actual experience or other evidence suggests that current assumptions should be revised. In addition, Global Atlantic formally reviews assumptions annually as part of the assumptions review process. The effects of changes in assumptions are recorded in net income in the period in which the changes are made.
+Internal Replacements
+An internal replacement is a modification in product benefits, features, rights, or coverages that occurs by the legal extinguishment of one contract and the issuance of another contract (a contract exchange), or by amendment, endorsement, or rider to a contract, or by the election of a benefit, feature, right, or coverage within a contract. If the modification does not substantially change the contract, the unchanged contract is viewed as a prospective revision and the unamortized DAC is adjusted prospectively. As such, unamortized DAC and other associated balances from the unchanged contract are retained and acquisition costs incurred to modify the contract are not deferred but expensed as incurred. Other balances associated with the unchanged contract, such as any liability for future policyholder benefit or market risk benefits, should similarly be accounted for as if the unchanged contract is a continuation of the original contract. If an internal replacement represents a substantial change, the original contract is considered to be extinguished and any related DAC or other policy balances are charged or credited to income, and any new deferrable costs associated with the replacement contract are deferred.
+
+Separate Accounts
+Separate Accounts
+Separate account assets and liabilities represent segregated funds administered and invested by Global Atlantic for the benefit of variable annuities and variable universal life insurance contractholders and certain pension funds. Global Atlantic reports separately, as assets and liabilities, investments held in the separate accounts and liabilities of separate accounts if: (1) such separate accounts are legally recognized; (2) assets supporting the contract liabilities are legally insulated from Global Atlantic s general account liabilities; (3) investments are directed by the contract owner or participant; and (4) all investment performance, net of contract fees and assessments, is passed through to the contract owner.
+Separate account assets consist principally of mutual funds at fair value. The investment income and gains and losses of these accounts generally accrue to the contractholders and therefore, are not included in Global Atlantic s net income. However, Global Atlantic s net income reflects fees assessed and earned on fund values of these contracts which are presented as a component of policy fees in the consolidated statements of operations. Realized investment gains and losses related to separate accounts that meet the conditions for separate account reporting accrue to and are borne by the contractholder.
+
+Policy Liabilities
+Policy Liabilities
+Policy liabilities, or collectively, reserves, are the portion of past premiums or assessments received that are set aside to meet future policy and contract obligations as they become due. Interest accrues on these reserves and on future premiums, which may also be available to pay for future obligations. Global Atlantic establishes reserves to pay future policyholder benefits, claims, and certain expenses for its life policies and annuity contracts.
+Reserves are estimates based on models that include many actuarial assumptions and projections. These assumptions and projections, which are inherently uncertain, involve significant judgment, including assumptions as to the levels and/or timing of premiums, benefits, claims, expenses, interest credits, investment results (including equity market returns), mortality, longevity, and persistency.
+The assumptions on which reserves are based are intended to represent an estimation of experience for the period that policyholder benefits are payable. The adequacy of these reserves and the assumptions underlying those reserves are reviewed at least annually. Global Atlantic cannot, however, determine with precision the amount or the timing of actual policyholder benefit payments. If actual experience is better than or equal to the assumptions, then reserves would be adequate to provide for future policyholder benefits and expenses. If experience is worse than the assumptions, additional reserves may be required to meet future policy and contract obligations. This would result in a charge to Global Atlantic s net income during the period in which excess policyholder benefits are paid or an increase in reserves occurs.
+For a majority of Global Atlantic s in-force policies, including its universal life policies and most annuity contracts, the base policy reserve is equal to the account value. For these products, the account value represents Global Atlantic s obligation to repay to the policyholder the amounts held on deposit. However, there are several significant blocks of business where additional policyholder reserves are explicitly calculated, including fixed-indexed annuities, variable annuities, universal life with secondary guarantees, indexed universal life and preneed policies.
+Annuity Contracts
+Fixed Indexed Annuities ("FIA")
+Policy liabilities for fixed-indexed annuities earning a fixed rate of interest and certain other fixed-rate annuity products are computed under a retrospective deposit method and represent policyholder account balances before applicable surrender charges. For certain fixed-rate annuity products, an additional reserve was established for above market interest rate guarantees upon acquisition. These reserves are amortized on a straight-line basis over the remaining guaranteed interest rate period.
+Certain of Global Atlantic s fixed-indexed annuity products enable the policyholder to allocate contract value between a fixed crediting rate and strategies which reflect the change in the value of an index, such as the S&P 500 Index or other indices. These products are accounted for as investment-type contracts. The liability for these products consists of a combination of the underlying account value and an embedded derivative value. The liability for the underlying account value is primarily based on policy guarantees and its initial value is the difference between the premium payment and the fair value of the embedded derivative. Thereafter, the account value liability is determined in a manner consistent with the accounting for a deposit liability under the effective yield method. All future host balances are determined as: (1) the initial host balance; (2) plus interest; (3) less applicable policyholder benefits. The interest rate used in the prior roll forward is re-determined on each valuation date, per the effective yield method. The embedded derivative component s fair value is based on an estimate of the policyholders expected participation in future increases in the relevant index. The fair value of this embedded derivative component includes assumptions, including those about future interest rates and investment yields, future costs for options used to hedge the contract obligations, projected withdrawal and surrender activity, benefit utilization and the level and limits on contract participation in any future increases in the respective index option. The account value liability and embedded derivative are recorded in policy liabilities in the consolidated statements of financial condition, with changes in value of the liabilities recorded in policy benefits and claims in the consolidated statements of operations.
+Contractholder deposit funds reserves for certain assumed blocks of fixed-indexed and fixed-rate annuity products are accounted for as investment-type contracts. A net liability (consisting of the benefit reserve plus deferred revenue liability less ceding commission paid between a ceding and assuming reinsurance company) is established at inception and amortized under the effective yield method.
+Global Atlantic issues registered index-linked annuity ("RILA") contracts, which are similar to FIAs in offering the policyholder the opportunity to participate in the performance of a market index, subject to a cap or adjusted for a participation rate. In contrast to the FIA, the RILA enables policyholders to earn higher returns but with the risk of loss to principal and related earnings. In particular, if performance of the market indices is negative, the policyholder may potentially absorb losses, subject to downside protection in the form of either a "buffer" or a "floor" specified in the contract. A "buffer" is protection from downside performance up to a certain percentage, typically 10 percent, with uncapped losses thereafter. A "floor" is protection from downside performance in excess of the "floor," e.g., if the floor is 10% then the policyholder absorbs losses up to 10% but not in excess.
+The RILA is accounted for similar to the FIA. The RILA host contract is calculated at the inception of the contract as the value of the initial premium minus the value of the index option, which is an embedded derivative. That initial host value is then accreted to the guaranteed surrender value at the end of the surrender charge period. The RILA index option, which is an embedded derivative, is required to be measured at fair value. Fair value represents the policyholders expected participation in future increases in the relevant index and is calculated as the excess cash flows from the indexed crediting feature above the guaranteed cash flows. The excess cash flows are based on the option budget methodology whereby the indexed account is projected to grow by the option budget. A key difference from a standard FIA product is that the RILA policyholder can lose principal on this investment. Therefore, it is possible that the embedded derivative can become negative. The option budget will be calculated depending on the product type and strategy. The growth in the indexed account will be projected based on the value of the options dependent upon the strategy and associated hedge construction. The fair value of this embedded derivative component includes assumptions, including those about future interest rates and investment yields, future costs for options used to hedge the contract obligations, projected withdrawal and surrender activity, benefit utilization and the level and limits on contract participation in any future increases in the respective index option. The account value liability and embedded derivative are recorded in policy liabilities in the consolidated statements of financial condition, with changes in value of the liabilities recorded in policy benefits and claims in the consolidated statements of operations.
+Variable Annuities
+Global Atlantic issues and assumes variable annuity contracts for which the liabilities are included in policy liabilities in the consolidated statements of financial condition. The change in the liabilities for these benefits is included in policy benefits and claims in the consolidated statements of operations. Variable annuity contracts may have certain guarantees that are accounted for as market risk benefits, which are discussed in more detail below.
+Funding Agreements
+Global Atlantic issues funding agreements to certain unaffiliated special purpose entities that have issued debt securities for which payment of interest and principal is secured by such funding agreements. Global Atlantic also has similar obligations to Federal Home Loan Banks. Global Atlantic s funding agreements are considered investment type contracts and liabilities are net deposits plus accrued and unpaid interest. Global Atlantic's obligation is reported in policy liabilities in the consolidated statements of financial condition. Interest expense is calculated using the effective interest method and recorded in policy benefits and claims in the consolidated statements of operations.
+Interest-Sensitive Life Products
+For universal life policies, the base policy reserve is the policyholder account value.
+Policy liabilities for indexed universal life with returns linked to the performance of a specified market index are equal to the sum of two components: (1) the fair value of the embedded derivative; and (2) the host (or guaranteed) component. The fair value of the embedded derivative component is based on the fair value of the policyholders expected participation in future increases in the relevant index over the life of the contract. The fair value of this embedded derivative component includes assumptions, including those about future interest rates and investment yields, future costs for options used to hedge the contract obligations, projected benefits, benefit utilization and the level and limits on contract participation in any future increases in the respective index option.
+The initial host balance is established at the time of premium payment and is equal to the total account value less the embedded derivative component. Thereafter, the balance of the host component is determined in a manner consistent with the accounting for a deposit liability under the effective yield method. All future host balances are determined as: (1) the initial host balance; (2) plus interest; (3) less applicable policyholder benefits. The interest rate used in the prior roll forward is re-determined on each valuation date, per the effective yield method.
+Preneed Policies
+Preneed insurance contracts that feature death benefits with variable growth rates are accounted for as universal life-type contracts, which requires that the retrospective deposit method be used. This includes contracts where Global Atlantic has the discretion to adjust death benefit growth rates up or down, or where death benefit growth rates are tied to inflation as measured by the U.S. Consumer Price Index. The retrospective deposit method establishes a liability for policyholder benefits in an amount determined by the account or contract balance that accrues to the benefit of the policyholder. This account value is deemed to be equal to the contract s statutory cash surrender value. In addition to the account balance, Global Atlantic establishes an additional reserve for expected future discretionary benefits which is reflected as policy liabilities in KKR's consolidated statements of financial condition.
+Preneed insurance contracts without a discretionary death benefit growth rate have death benefits which are fixed and guaranteed. For these contracts, Global Atlantic recognizes a liability for future policy benefits.
+Traditional and Limited Payment Contracts
+Liability for Future Policy Benefits
+A liability for future policy benefits, which is the present value of estimated future policy benefits to be paid to or on behalf of policyholders and certain related expenses less the present value of estimated future net premiums to be collected from policyholders, is accrued as premium revenue is recognized. The liability is estimated using current assumptions that include mortality, morbidity, lapses, and expenses. These current assumptions are based on judgments that consider Global Atlantic s historical experience, industry data, and other factors.
+For nonparticipating traditional and limited-payment contracts, contracts are grouped into cohorts by contract type and issue year. The liability is adjusted for differences between actual and expected experience. With the exception of the expense assumption, Global Atlantic reviews its historical and future cash flow assumptions quarterly and updates the net premium ratio used to calculate the liability each time the assumptions are changed. Global Atlantic has elected to use expense assumptions that are locked in at contract inception and are not subsequently reviewed or updated.
+Each quarter, Global Atlantic updates its estimate of cash flows expected over the entire life of a group of contracts using actual historical experience and current future cash flow assumptions. These updated cash flows are discounted using the discount rate or curve on the original contract issue date to calculate the revised net premiums and net premium ratio, which are used to derive an updated liability for future policy benefits. This amount is then compared to the carrying amount of the liability before the updating of cash flow assumptions to determine the current period change in liability estimate. This current period change in the liability is the liability remeasurement gain or loss and is presented parenthetically as a separate component of benefit expense in the consolidated statements of operations.
+For nonparticipating traditional and limited-payment contracts, the discount rate assumption is a spot rate yield curve that is derived based on upper medium grade (low credit risk) fixed-income instruments with similar duration to the liability. Global Atlantic uses one or more external indices of corporate credit issues as its proxy for these instruments. The discount rate assumption is updated quarterly and used to remeasure the liability at the reporting date, with the resulting change in the discount rate reflected in other comprehensive income. For liability cash flows between two market observable points on the yield curve, Global Atlantic interpolates the effective yield by holding the marginal rates constant. For liability cash flows that are projected beyond the last market-observable point on the yield curve, Global Atlantic uses the last market-observable yield level.
+Payout Annuities
+Payout annuities include single premium immediate annuities, annuitizations of deferred annuities, pension risk transfer and structured settlements. These contracts subject the insurer to risks over a period that extends beyond the period or periods in which premiums are collected. These contracts may be either non-life contingent or life contingent. Non-life contingent annuities are accounted for as investment contracts. For life contingent annuities, Global Atlantic records a liability at the present value of future annuity payments and estimated future expenses calculated using expected mortality and costs, and expense assumptions. Any gross premiums received in excess of the net premium is the DPL and is recognized separately in income in a constant relationship with the discounted amount of the insurance in-force or expected future benefit payments. These liabilities are recorded in policy liabilities in the consolidated statements of financial condition.
+Also included under payout annuities are liabilities for disability income benefits which pertain primarily to disability income policies that are already in claim payout status. Liabilities for disability income benefits are calculated as the present value of future disability payments and estimated future expenses using expected mortality and costs, and interest assumptions. The liabilities are recorded in policy liabilities in the consolidated statements of financial condition.
+Whole and Term Life
+Global Atlantic has established liabilities for amounts payable under insurance policies, including whole life insurance and term life insurance policies. These policies provide death benefits in exchange for a guaranteed level premium for a specified period of time and, in the case of whole life, a guaranteed minimum cash surrender value. Generally, liabilities for these policies are calculated as the present value of future expected benefits to be paid, reduced by the present value of future expected net premiums. Current assumptions are used in the establishment of liabilities for future policyholder benefits including mortality, policy lapse, renewal, investment returns, inflation, expenses and other contingent events as appropriate for the respective product. Each quarter, Global Atlantic updates its estimate of cash flows using actual historical experience and current future cash flow assumptions. These updated cash flows are discounted using the discount rate or curve on the original contract issue date to calculate the revised net premiums and net premium ratio, which are used to derive an updated liability for future policy benefits. This amount is then compared to the carrying amount of the liability before the updating of cash flow assumptions to determine the current period change in liability estimate. This current period change in the liability is the liability remeasurement gain or loss and is presented parenthetically as a separate component of benefit expense in the consolidated statements of operations.
+Policy liabilities for participating whole life insurance policies are equal to the aggregate of: (1) net level premium reserves for death and endowment policyholder benefits (calculated based upon the non-forfeiture interest rate, and mortality rated guarantee in calculating the cash surrender values described in such contracts); and (2) the liability for terminal dividends.
+Long-Term Care
+Long-term care policies are purchased by individuals to pay for specified personal care costs, typically in the later stage of life at the onset of a loss of ability to perform certain basic activities of daily living. Policyholders pay ongoing premiums to keep the policy in force and receive benefits in the event their health becomes impaired. Global Atlantic has established liabilities for future policyholder benefits payable under its long-term care policies reinsured. Liabilities for long-term care benefits are calculated as the present value of future expected benefits to be paid reduced by the present value of future expected net premiums. Principal assumptions used in the establishment of liabilities for future policyholder benefits are mortality, morbidity (claim incidence and continuation), lapse, and future interest rates.
+Long-term care insurance risks assumed by Global Atlantic have been retroceded to a third-party reinsurer in exchange for fixed cash flows. Net of this reinsurance, the long-term care block has the economic profile of a period certain annuity.
+Product Guarantees
+Market Risk Benefits
+Market risk benefits are contracts or contract features that both provide protection to the policyholder from other-than-nominal capital market risk and expose Global Atlantic to other-than-nominal capital market risk.
+Market risk benefits include certain contract features on fixed annuity and variable annuity products. These features include minimum guarantees to policyholders, such as guaranteed minimum death benefits ( GMDBs ), guaranteed minimum withdrawal benefits ( GMWBs ), and long-term care benefits (which are capped at the return of account value plus one or two times the account value). Market risk benefits are measured at fair value using a non-option and option valuation approach based on current net amounts at risk, market data, experience, and other factors. Changes in fair value are recognized in net income each period with the exception of the portion of the change in fair value due to a change in the instrument-specific credit risk, which is recognized in other comprehensive income.
+Additional Liability for Annuitization, Death, or Other Insurance Benefits
+Global Atlantic establishes additional liabilities for contracts or contract features that provide for potential benefits in addition to the account balance but are not market risk benefits or embedded derivatives. These benefits include annuitization benefits and death or other insurance benefits (e.g., universal life secondary guarantees). For these benefits, the liability is the sum of the current benefit ratio multiplied by cumulative assessments and accreted interest, less excess payments.
+In particular, Global Atlantic holds additional liabilities for universal life products with secondary guarantees, sometimes referred to as no-lapse guarantees. The additional liabilities are measured using the benefit ratio approach where excess benefits are spread over the life of the contract based on assessments collected from the policyholder. Generally, total expected excess benefit payments are the aggregate of death claims after the policyholder account value is exhausted. The exception is when the cost of insurance charges are insufficient to produce consistently positive earnings in the future. In this case, all death benefits are deemed to be excess benefits. For annuitization benefits, the benefit ratio is the present value of expected annuitization payments to be made less the accrued account balance at the expected annuitization date divided by the present value of expected assessments during the accumulation phase of the contract, discounted at the contract rate. Expected annuitization payments and related incremental claim adjustment expenses, expected assessments, and expected excess payments are calculated using discount rate, mortality, lapse, and expense assumptions.
+Global Atlantic recognizes a shadow reserve adjustment for the additional insurance liabilities when unrealized gains and losses are included in the investment margin while calculating the present value of expected assessments for the benefit ratios. Shadow reserve adjustments are recognized in other comprehensive income.
+For additional liabilities for death or other insurance benefits, the discount rate assumption is based on the contract rate at inception. The mortality, lapse, and expense assumptions are based on Global Atlantic s experience, industry data, and other factors. Assumptions are reviewed and updated, if necessary, at least annually. When those assumptions are updated, the benefit ratio and the liability are remeasured, with the resulting gain or loss reflected in total benefits expense.
+
+Outstanding Claims
+Outstanding Claims
+Outstanding claims include amounts payable relating to in course of settlement and incurred but not reported claim liabilities. In course of settlement, claim liabilities are established for policies when Global Atlantic is notified of the death of the policyholder, but the claim has not been paid as of the reporting date. Incurred but not reported claim liabilities are determined using studies of past experience and are estimated using actuarial assumptions of historical claims expense, adjusted for current trends and conditions. These estimates are continually reviewed, and the ultimate liability may vary significantly from the amounts initially recognized, which are reflected in net income in the period in which they are determined. Changes in policyholder and contract claims are recorded in policy benefits and claims in the consolidated statements of operations.
+
+Closed Blocks
+Closed Blocks
+Through its insurance companies, Global Atlantic has acquired several closed blocks of participating life insurance policies. Global Atlantic has elected to account for the closed block policy liabilities using the fair value option.
+The assets and cash flow generated by the closed blocks inure solely to the benefit of the holders of policies included in the closed blocks. All closed block assets will ultimately be paid out as policyholder benefits and through policyholder dividends. In the event that the closed blocks assets are insufficient to meet the benefits of the closed blocks' benefits, general assets of Global Atlantic would be used to meet the contractual benefits to the closed blocks policyholders.
+The closed block liabilities are measured at fair value, which comprises the fair value of the closed block assets plus the present value of projected expenses including commissions and the cost of capital charges associated with the closed blocks. In calculating the present value, Global Atlantic used a discount rate based on current U.S. Treasury rates, with a risk margin to reflect uncertainties in the closed block liability and a provision for Global Atlantic s instrument-specific credit risk.
+
+Reinsurance
+Reinsurance
+Consistent with the overall business strategy, Global Atlantic assumes certain policy risks written by other insurance companies on a coinsurance, modified coinsurance or funds withheld coinsurance basis. Reinsurance accounting is applied for these ceded and assumed transactions when risk transfer provisions have been met. To meet risk transfer requirements, a long-duration reinsurance contract must transfer mortality or morbidity risks, and subject the reinsurer to a reasonable possibility of a significant loss. Those contracts that do not meet risk transfer requirements are accounted for using deposit accounting. Global Atlantic seeks to diversify risk and limits its overall financial exposure through reinsurance.
+With respect to ceded reinsurance, Global Atlantic values reinsurance recoverables on reported claims at the time the underlying claim is recognized in accordance with contract terms. For future policyholder benefits, Global Atlantic estimates the amount of reinsurance recoverables based on the terms of the reinsurance contracts and historical reinsurance recovery information. The reinsurance recoverables are based on what Global Atlantic believes are reasonable estimates and the balance is reported as an asset in the consolidated statements of financial condition. However, the ultimate amount of the reinsurance recoverable is not known until all claims are settled.
+The cost of reinsurance, which is the difference between the amount paid for a reinsurance contract and the amount of the liabilities for policy benefits relating to the underlying reinsured contracts, is deferred and amortized over the reinsurance contract period for short-duration contracts, or over the terms of the reinsured policies on a basis consistent with the reporting of those policies for long-duration contracts. Generally, Global Atlantic amortizes cost of reinsurance based on policy count or effective yield method, retrospectively calculated based on actual and projected future cash flows. Cost of reinsurance assets and liabilities are reported in insurance intangibles and policy liabilities in the consolidated statements of financial condition, respectively. Reinsurance contracts do not relieve Global Atlantic from its obligations to policyholders, and failure of reinsurers to honor their obligations could result in losses to Global Atlantic; consequently, allowances are established for expected credit losses, via a charge to policy benefits and claims in the consolidated statements of operations. Global Atlantic s funds withheld receivable at interest and reinsurance recoverable assets are reviewed for expected credit losses by considering credit ratings for each reinsurer, historical insurance industry specific default rate factors, rights of offset, expected recovery rates upon default and the impact of other terms specific to the reinsurance arrangement.
+For funds withheld and modified coinsurance agreements, Global Atlantic has the right to receive or obligation to pay the total return on assets supporting the funds withheld receivable at interest or funds withheld payable at interest. This indirectly exposes Global Atlantic to the credit risk of the underlying assets. As a result, funds withheld coinsurance and modified coinsurance agreements are viewed as total return swaps and accounted for as embedded derivatives. Embedded derivatives are required to be separated from the host contracts and measured at fair value with changes in fair value recognized in net income. Generally, the embedded derivative is measured as the difference between the fair value of the underlying assets and the carrying value of the host contract at the balance sheet date. The fair value of the embedded derivative is included in the funds withheld receivable at interest or the funds withheld payable at interest on the consolidated statements of financial condition. Changes in the fair value of the embedded derivative are reported in operating activities on the consolidated statements of cash flows.
+
+Recognition of Insurance Revenue and Related Benefits and Insurance Expenses
+Recognition of Insurance Revenue and Related Benefits
+Premiums related to whole life and term life insurance contracts and payout contracts with life contingencies are recognized in premiums in the consolidated statements of operations when due from the contractholders.
+Amounts received as payment for universal life and investment-type contracts are reported as deposits to contractholder account balances and recorded in policy liabilities in the consolidated statements of financial condition. Amounts received as payment for Global Atlantic s fixed fund variable annuities are reported as a component of policy liabilities in the consolidated statements of financial condition. Revenues from these contracts consist primarily of fees assessed against the contractholder account balance for mortality, policy administration, separate account administration and surrender charges, and are reported in policy fees in the consolidated statements of operations. Additionally, Global Atlantic earns investment income from the investment of contract deposits in Global Atlantic s insurance companies' general account portfolio, which is reported in net investment income in the consolidated statements of operations.
+Fees assessed that represent compensation to Global Atlantic for benefits to be provided in future periods and certain other fees are established as an unearned revenue reserve liability and amortized into revenue over the expected life of the related contracts in a manner consistent with DAC for these contracts. Unearned revenue reserves are reported in policy liabilities in the consolidated statements of financial condition and amortized into policy fees in the consolidated statements of operations. Benefits and expenses for these products include claims in excess of related account balances, expenses for contract administration and interest credited to contractholder account balances in the consolidated statements of operations.
+Global Atlantic primarily earns revenues from premiums, policy fees, income from investments, and other administration, management, and distribution fees. For the year ended December 31, 2024, Global Atlantic s revenue was sourced in its entirety from the Americas (100%), based on the geographic region of the reporting subsidiary company. Due to a large block reinsurance transaction during the year ended December 31, 2024, Global Atlantic recognized more than 10% of KKR's total consolidated revenues with one reinsurance counterparty in the period. Predominantly all of Global Atlantic s fixed assets are located in the United States.
+Insurance Expenses
+Insurance expenses are primarily comprised of commissions expense, premium taxes, amortization of acquired distribution and trade name intangibles, and other expenses related to insurance products and reinsurance transactions.
+
+Other Income
+Other Income
+Other income is primarily comprised of expense allowances on ceded reinsurance, administration fees, management fees and distribution fees.
+
+Adoption of New Accounting Pronouncements and Future Application of Accounting Standards
+Adoption of New Accounting Pronouncements
+Targeted Improvements to the Accounting for Long-Duration Contracts
+Effective January 1, 2023, Global Atlantic adopted new accounting guidance for insurance and reinsurance companies that issue long-duration contracts ( LDTI ), with retrospective application from the 2021 GA Acquisition Date, coinciding with the 2021 GA Acquisition. Accordingly, the financial statements for all prior periods presented were restated to reflect the new accounting guidance. Detailed information regarding the adjustments made to prior period balances can be found in Note 2, Summary of Significant Accounting Policies in the 2023 Annual Report.
+Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions
+In June 2022, the FASB issued ASU 2022-03, ASC Subtopic 820 Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions ("ASU 2022-03"). According to ASU 2022-03, an entity should not consider the contractual sale restriction when measuring the equity security s fair value and an entity is not allowed to recognize a contractual sale restriction as a separate unit of account.
+ASU 2022-03 is effective for fiscal years beginning after December 15, 2023, and interim periods within those fiscal years. KKR adopted this accounting standard effective January 1, 2024 and its adoption on a prospective basis did not have a material impact on KKR's consolidated financial statements.
+Accounting for Investments in Tax Credit Structures
+In March 2023, the FASB issued ASU 2023-02 "Investments-Equity Method and Joint Ventures (Topic 323): Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method" ("ASU 2023-02") to expand the population of investments in tax credit structures that may be eligible to apply the proportional amortization method ( PAM ), if certain criteria are met. The election to use the PAM can be made on a tax credit program-by-program basis. Under the new guidance, certain disclosures are required for investments in tax credit programs for which the PAM is elected. The guidance is effective for fiscal years beginning after December 15, 2023. KKR adopted this accounting standard effective January 1, 2024 and its adoption did not have a material impact on KKR's consolidated financial statements.
+Improvements to Reportable Segment Disclosures
+In November 2023, the FASB issued ASU 2023-07 "Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures" ("ASU 2023-07"). ASU 2023-07 intends to improve reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. This is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. KKR adopted this accounting standard effective for the year ended December 31, 2024 and its adoption did not have a material impact on KKR's consolidated financial statements. Refer to Note 21 "Segment Reporting" for the expanded disclosures.
+Future Application of Accounting Standards
+Improvements to Income Tax Disclosures
+In December 2023, the FASB issued ASU 2023-09 "Improvements to Income Tax Disclosures" ("ASU 2023-09"). ASU 2023-09 intends to enhance the transparency and decision usefulness of income tax disclosures, requiring disaggregated information about an entity s effective tax rate reconciliation as well as income taxes paid. This is effective for fiscal years beginning after December 15, 2024. KKR is currently evaluating the impact of the adoption of this guidance on its consolidated financial statements and disclosures.
+Scope Application of Profits Interest and Similar Awards
+In March 2024, the FASB issued ASU 2024-01, Compensation-Stock Compensation (Topic 718): Scope Application of Profits Interest and Similar Awards ( ASU 2024-01 ). ASU 2024-01 amends the guidance in Accounting Standard Codification 718 ( ASC 718 ) by adding an illustrative example to demonstrate and clarify how to apply the scope guidance to determine whether profits interests and similar awards should be accounted for as a share-based payment arrangement under ASC 718 or another standard. ASU 2024-01 will be effective for KKR s reporting period ended March 31, 2025. KKR is currently evaluating the impact of the adoption of this guidance on its consolidated financial statements and disclosures.
+Expense Disaggregation Disclosures
+In November 2024, the FASB issued ASU 2024-03, Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures. The ASU requires a public business entity to provide disaggregated disclosures of certain categories of expenses on an annual and interim basis including employee compensation, depreciation, and intangible asset amortization for each income statement line item that contains those expenses. The update will be effective for annual periods beginning after December 15, 2026 and interim periods beginning after December 15, 2027. KKR is currently evaluating the impact of adopting this ASU on its consolidated financial statements and disclosures.
+
+X
+
+- DefinitionDeferred Policy Acquisition Costs, Sales Inducements To Contract Holders, And Internal Replacements, Policy
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DeferredPolicyAcquisitionCostsSalesInducementsToContractHoldersAndInternalReplacementsPolicyPolicyTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDue From and Due to Affiliates [Policy Text Block]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DueFromAndDueToAffiliatesPolicyTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionInvestment Income [Policy Text Block]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_InvestmentIncomePolicyTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AccountingPoliciesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for basis of accounting, or basis of presentation, used to prepare the financial statements (for example, US Generally Accepted Accounting Principles, Other Comprehensive Basis of Accounting, IFRS).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BasisOfAccountingPolicyPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for completed business combinations (purchase method, acquisition method or combination of entities under common control). This accounting policy may include a general discussion of the purchase method or acquisition method of accounting (including for example, the treatment accorded contingent consideration, the identification of assets and liabilities, the purchase price allocation process, how the fair values of acquired assets and liabilities are determined) and the entity's specific application thereof. An entity that acquires another entity in a leveraged buyout transaction generally discloses the accounting policy followed by the acquiring entity in determining the basis used to value its interest in the acquired entity, and the rationale for that accounting policy.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 05
+ -Paragraph 4
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479515/805-10-05-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 05
+ -Paragraph 4
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479515/805-10-05-4
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 05
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479515/805-10-05-4
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 05
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479515/805-10-05-4
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationsPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionEntity's cash and cash equivalents accounting policy with respect to restricted balances. Restrictions may include legally restricted deposits held as compensating balances against short-term borrowing arrangements, contracts entered into with others, or company statements of intention with regard to particular deposits; however, time deposits and short-term certificates of deposit are not generally included in legally restricted deposits.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(1)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-1
+
++ Details
+
+ Name:
+us-gaap_CashAndCashEquivalentsRestrictedCashAndCashEquivalentsPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for cash and cash equivalents with respect to unrestricted balances.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-1
+
++ Details
+
+ Name:
+us-gaap_CashAndCashEquivalentsUnrestrictedCashAndCashEquivalentsPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for defined, limited group of policies and defined set of assets governed by set of operating rules to preserve reasonable dividend expectation of individual policyholder with individual life, health, and annuity policies for which dividends are currently being paid or are expected to be paid under current dividend scale.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 60
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479482/944-60-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -SubTopic 805
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-2
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockAccountingPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for salaries, bonuses, incentive awards, postretirement and postemployment benefits granted to employees, including equity-based arrangements; discloses methodologies for measurement, and the bases for recognizing related assets and liabilities and recognizing and reporting compensation expense.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (f)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_CompensationRelatedCostsPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for comprehensive income.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ComprehensiveIncomePolicyPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy regarding (1) the principles it follows in consolidating or combining the separate financial statements, including the principles followed in determining the inclusion or exclusion of subsidiaries or other entities in the consolidated or combined financial statements and (2) its treatment of interests (for example, common stock, a partnership interest or other means of exerting influence) in other entities, for example consolidation or use of the equity or cost methods of accounting. The accounting policy may also address the accounting treatment for intercompany accounts and transactions, noncontrolling interest, and the income statement treatment in consolidation for issuances of stock by a subsidiary.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483426/235-10-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ConsolidationPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for credit loss on financial instrument measured at amortized cost basis, net investment in lease, off-balance sheet credit exposure, and available-for-sale debt security. Includes, but is not limited to, methodology used to estimate allowance for credit loss, how writeoff of uncollectible amount is recognized, and determination of past due status and nonaccrual status.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 6.M.2.Q4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483530/326-20-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-14
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 5A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479391/326-20-30-5A
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3C
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 8A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479366/326-20-35-8A
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3D
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3D
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-5
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479175/326-30-30-1B
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-3C
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-3A
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3D
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-3D
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 13A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479148/326-30-35-13A
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 4A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479391/326-20-30-4A
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 7A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479148/326-30-35-7A
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 21
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-21
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-11
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-7
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-17
+
++ Details
+
+ Name:
+us-gaap_CreditLossFinancialInstrumentPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for its derivative instruments and hedging activities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -SubTopic 10
+ -Topic 815
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(n))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-7
+
++ Details
+
+ Name:
+us-gaap_DerivativesPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for computing basic and diluted earnings or loss per share for each class of common stock and participating security. Addresses all significant policy factors, including any antidilutive items that have been excluded from the computation and takes into account stock dividends, splits and reverse splits that occur after the balance sheet date of the latest reporting period but before the issuance of the financial statements.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 260
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 260
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-2
+
++ Details
+
+ Name:
+us-gaap_EarningsPerSharePolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for determining the fair value of financial instruments.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 10
+ -Topic 825
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-1
+
++ Details
+
+ Name:
+us-gaap_FairValueOfFinancialInstrumentsPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for (1) transactions denominated in a currency other than the reporting enterprise's functional currency, (2) translating foreign currency financial statements that are incorporated into the financial statements of the reporting enterprise by consolidation, combination, or the equity method of accounting, and (3) remeasurement of the financial statements of a foreign reporting enterprise in a hyperinflationary economy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/830/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_ForeignCurrencyTransactionsAndTranslationsPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for goodwill and intangible assets. This accounting policy also may address how an entity assesses and measures impairment of goodwill and intangible assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for income taxes, which may include its accounting policies for recognizing and measuring deferred tax assets and liabilities and related valuation allowances, recognizing investment tax credits, operating loss carryforwards, tax credit carryforwards, and other carryforwards, methodologies for determining its effective income tax rate and the characterization of interest and penalties in the financial statements.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-20
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 19
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-19
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 25
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482525/740-10-45-25
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(h)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 17
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-17
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-9
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482525/740-10-45-28
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482765/220-10-50-1
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for insurance companies that are industry specific.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 05
+ -Paragraph 1
+ -SubTopic 10
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477108/944-10-05-1
+
++ Details
+
+ Name:
+us-gaap_IndustrySpecificPoliciesInsuranceCompaniesTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for investment in financial asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(3)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(f)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(f)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(f)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 12
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-12
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 19
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-19
+
++ Details
+
+ Name:
+us-gaap_InvestmentPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for leasing arrangement entered into by lessee.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-1
+
++ Details
+
+ Name:
+us-gaap_LesseeLeasesPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for estimating its liability as of the balance sheet date for the ultimate cost of settling reported and unreported claims incurred and claims adjustment expenses (including effects of inflation and other societal and economic factors).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/944-40/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_LiabilityReserveEstimatePolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy pertaining to new accounting pronouncements that may impact the entity's financial reporting. Includes, but is not limited to, quantification of the expected or actual impact.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_NewAccountingPronouncementsPolicyPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for contracts reported in separate accounts, including the extent and terms of minimum guarantees, basis of presentation for separate account assets and liabilities and related separate account activity, the liability valuation method and assumptions used in valuing each type of policyholder and contract holder account maintained by the entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountsPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for long-lived, physical asset used in normal conduct of business and not intended for resale. Includes, but is not limited to, work of art, historical treasure, and similar asset classified as collections.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 10
+ -Topic 360
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482099/360-10-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(8)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -SubTopic 360
+ -Topic 958
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477798/958-360-50-6
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -SubTopic 360
+ -Topic 958
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477798/958-360-50-1
+
++ Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of reinsurance accounting policy, for example, but not limited to, description of the methodologies and assumptions underlying determination of reinsurance recoverables, reinsurance payables and retention policy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477548/944-605-55-12
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477548/944-605-55-15
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceAccountingPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for revenue from contract with customer.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-17
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 19
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-19
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-18
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-18
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 20
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-20
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 20
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-20
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 20
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-20
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 20
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-20
+
+Reference 9: http://www.xbrl.org/2003/role/exampleRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (e)
+ -SubTopic 10
+ -Topic 235
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483426/235-10-50-4
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Topic 606
+ -Publisher FASB
+ -URI https://asc.fasb.org/606/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for revenue. Includes revenue from contract with customer and from other sources.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483426/235-10-50-4
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (e)
+ -SubTopic 10
+ -Topic 235
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483426/235-10-50-4
+
++ Details
+
+ Name:
+us-gaap_RevenueRecognitionPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for securities borrowed or loaned by the entity. Disclosure may include a description of the business purposes for the transactions, how the transactions are recognized in the financial statements, the types of securities involved in the transactions, the method for monitoring the market value of the securities, the entity's practice and policies associated with cash deposits and collateral for the transactions, and the classification of fees and interest associated with the transactions.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (a)
+ -SubTopic 30
+ -Topic 860
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481420/860-30-50-1A
+
++ Details
+
+ Name:
+us-gaap_SecuritiesBorrowedAndLoanedPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for inclusion of significant items in the selling, general and administrative (or similar) expense report caption.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 720
+ -SubTopic 35
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483406/720-35-50-1
+
++ Details
+
+ Name:
+us-gaap_SellingGeneralAndAdministrativeExpensesPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for award under share-based payment arrangement. Includes, but is not limited to, methodology and assumption used in measuring cost.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (f)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (f)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (f)(2)(ii)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (f)(2)(v)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 14.C.Q3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479830/718-10-S99-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 14.D.1.Q5)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479830/718-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 14.D.3.Q2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479830/718-10-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 14.D.2.Q6)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479830/718-10-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/718/tableOfContent
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (f)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ShareBasedCompensationOptionAndIncentivePlansPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for estimating the ultimate cost of settling insurance claims relating to insured events that have occurred on or before a particular date (ordinarily, the statement of financial position date). The estimated liability includes the amount of money that will be required for future payments of (a) claims that have been reported to the insurer, (b) claims related to insured events that have occurred but that have not been reported to the insurer as of the date the liability is estimated, and (c) claim adjustment expenses. Claims adjustment expenses include costs incurred in the claim settlement process such as legal fees; outside adjuster fees; and costs to record, process, and adjust claims.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-9
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-4
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-1
+
++ Details
+
+ Name:
+us-gaap_UnpaidPolicyClaimsAndClaimsAdjustmentExpensePolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for the use of estimates in the preparation of financial statements in conformity with generally accepted accounting principles.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -SubTopic 10
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-9
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-4
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 11
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-11
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-12
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-8
+
++ Details
+
+ Name:
+us-gaap_UseOfEstimates
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

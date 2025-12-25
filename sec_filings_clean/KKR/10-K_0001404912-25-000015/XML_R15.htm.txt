@@ -1,0 +1,174 @@
+XML
+37
+R15.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Revenue from Contract with Customer [Abstract]
+
+REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS For the years ended December 31, 2024, 2023, and 2022, respectively, Asset Management and Strategic Holdings revenues consisted of the following:
+
+ Years Ended December 31,
+ 2024 2023 2022
+Management Fees $ 1,994,089 $ 1,843,144 $ 1,682,466
+Fee Credits (696,091) (297,936) (532,355)
+Transaction Fees 1,857,317 1,075,204 1,316,637
+Monitoring Fees 187,538 138,339 131,750
+Incentive Fees 47,430 29,117 33,537
+Expense Reimbursements 152,726 75,687 102,927
+Consulting Fees 110,953 100,314 86,665
+Total Fees and Other 3,653,962 2,963,869 2,821,627
+
+Carried Interest 3,243,495 2,304,623 (2,068,662)
+General Partner Capital Interest 314,789 538,814 (431,847)
+Total Capital Allocation-Based Income (Loss) 3,558,284 2,843,437 (2,500,509)
+
+Total Revenues $ 7,212,246 $ 5,807,306 $ 321,118
+
+KKR earns management fees, incentive fees, and capital allocation-based income (loss) from investment funds, CLOs, and other vehicles whose primary focus is making investments in specified geographical locations and KKR also earns transaction, monitoring, and consulting fees from portfolio companies located in varying geographies. For the years ended December 31, 2024, 2023, and 2022, over 10% of consolidated revenues were earned in the United States.
+For the year ended December 31, 2024, $2.2 billion, $0.8 billion, and $0.7 billion of total fees and other were generated in the Americas, Europe/Middle East, and Asia-Pacific, respectively. For the year ended December 31, 2023, $1.8 billion, $0.6 billion, and $0.6 billion of total fees and other were generated in the Americas, Europe/Middle East, and Asia-Pacific, respectively. For the year ended December 31, 2022, $1.7 billion, $0.5 billion, and $0.6 billion of total fees and other were generated in the Americas, Europe/Middle East, and Asia-Pacific, respectively. The determination of the geographic region was based on the geographic focus of the associated investment vehicle or where the portfolio company is headquartered.
+For the year ended December 31, 2024, $2.2 billion, $0.4 billion, and $0.9 billion of total capital allocation-based income (loss) were generated in the Americas, Europe/Middle East, and Asia-Pacific, respectively. For the year ended December 31, 2023, $1.5 billion, $0.4 billion, and $0.9 billion of total capital allocation-based income (loss) were generated in the Americas, Europe/Middle East, and Asia-Pacific, respectively. For the year ended December 31, 2022, $(1.6) billion, $0.1 billion, and $(1.0) billion of total capital allocation-based income (loss) were generated in the Americas, Europe/Middle East, and Asia-Pacific, respectively. The determination of the geographic region was based on the geographic focus of the associated investment vehicle.
+For the year ended December 31, 2024, revenues from one of KKR s flagship private equity funds contributed more than 10% of KKR's total Asset Management and Strategic Holdings revenues representing approximately $0.9 billion. For the year ended December 31, 2023, revenues from one of KKR s flagship private equity funds contributed more than 10% of KKR's total Asset Management and Strategic Holdings revenues representing approximately $1.0 billion. For the year ended December 31, 2022, revenues from one of KKR s flagship private equity funds contributed more than 10% of KKR's total fees and other representing approximately $0.2 billion. For the year ended December 31, 2022, revenues from three of KKR's flagship private equity funds contributed more than 10% of KKR's total capital allocation-based income (loss) representing approximately $(2.6) billion.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure of revenue from contract with customer to transfer good or service and to transfer nonfinancial asset. Includes, but is not limited to, disaggregation of revenue, credit loss recognized from contract with customer, judgment and change in judgment related to contract with customer, and asset recognized from cost incurred to obtain or fulfill contract with customer. Excludes insurance and lease contracts.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-9
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-10
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-15
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-12
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-12
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-12
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-12
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-12
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-13
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Topic 606
+ -Publisher FASB
+ -URI https://asc.fasb.org/606/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

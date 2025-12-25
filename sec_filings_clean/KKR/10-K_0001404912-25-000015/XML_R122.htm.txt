@@ -1,0 +1,580 @@
+XML
+144
+R122.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+REINSURANCE - Credit Quality Indicator (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+$ 47,808,483
+
+$ 39,343,524
+
+Credit Enhancements
+43,961,910
+
+34,025,326
+
+Net Reinsurance Credit Exposure
+4,351,365
+
+5,318,426
+
+Credit loss allowance
+16,400
+
+21,000
+
+A++
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+26,854
+
+38,857
+
+Credit Enhancements
+0
+
+0
+
+Net Reinsurance Credit Exposure
+26,854
+
+38,857
+
+A+
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+1,731,697
+
+1,801,954
+
+Credit Enhancements
+0
+
+0
+
+Net Reinsurance Credit Exposure
+1,731,697
+
+1,801,954
+
+A
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+2,143,893
+
+2,212,800
+
+Credit Enhancements
+0
+
+0
+
+Net Reinsurance Credit Exposure
+2,143,893
+
+2,212,800
+
+A-
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+3,926,161
+
+4,430,484
+
+Credit Enhancements
+3,477,840
+
+3,814,976
+
+Net Reinsurance Credit Exposure
+448,321
+
+615,508
+
+B++
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+600
+
+589
+
+Credit Enhancements
+0
+
+0
+
+Net Reinsurance Credit Exposure
+600
+
+589
+
+B+
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+0
+
+0
+
+Credit Enhancements
+0
+
+0
+
+Net Reinsurance Credit Exposure
+0
+
+0
+
+B
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+0
+
+0
+
+Credit Enhancements
+0
+
+0
+
+Net Reinsurance Credit Exposure
+0
+
+0
+
+B-
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+0
+
+0
+
+Credit Enhancements
+0
+
+0
+
+Net Reinsurance Credit Exposure
+0
+
+0
+
+C++/C+
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+(231)
+
+(228)
+
+Credit Enhancements
+0
+
+0
+
+Net Reinsurance Credit Exposure
+0
+
+0
+
+Not Rated or Private Rating
+
+Ceded Credit Risk [Line Items]
+
+Reinsurance Recoverable and Funds Withheld Receivable at Interest
+39,979,509
+
+30,859,068
+
+Credit Enhancements
+40,484,070
+
+30,210,350
+
+Net Reinsurance Credit Exposure
+0
+
+648,718
+
+Net reinsurance credit exposure associated with cessions to co-investment vehicles
+$ 40,000,000
+
+$ 30,800,000
+
+X
+
+- DefinitionFunds Withheld Payable At Interest And Deferred Intangible Reinsurance Assets And Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FundsWithheldPayableAtInterestAndDeferredIntangibleReinsuranceAssetsAndLiabilities
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionReinsurance Recoverable And Funds Withheld Receivable At Interest
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ReinsuranceRecoverableAndFundsWithheldReceivableAtInterest
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionReinsurance Recoverable, Net Of Reinsurance Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ReinsuranceRecoverableNetOfReinsuranceLiabilities
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionReinsurance Recoverable, Net Of Reinsurance Liabilities, Associated With Cessions To Co-Investment Vehicles
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ReinsuranceRecoverableNetOfReinsuranceLiabilitiesAssociatedWithCessionsToCoInvestmentVehicles
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 825
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477351/944-825-50-1B
+
++ Details
+
+ Name:
+us-gaap_CededCreditRiskLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of allowance for credit loss on reinsurance recoverable.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-5
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477409/944-310-45-5
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceRecoverablesAllowance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=srt_AMBestAPlusPlusRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=srt_AMBestAPlusRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=srt_AMBestARatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=srt_AMBestAMinusRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=srt_AMBestBPlusPlusRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=srt_AMBestBPlusRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=srt_AMBestBRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=srt_AMBestBMinusRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=kkr_AMBestCAndCRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CreditRatingAMBestAxis=kkr_AMBestNotRatedOrPrivateRatingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

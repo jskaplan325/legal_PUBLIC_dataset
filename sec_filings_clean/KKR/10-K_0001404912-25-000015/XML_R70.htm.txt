@@ -1,0 +1,261 @@
+XML
+92
+R70.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+ORGANIZATION (Details)
+ $ in Millions
+
+12 Months Ended
+
+Jan. 02, 2024
+
+USD ($)
+
+Oct. 08, 2021
+
+vote
+
+Dec. 31, 2024
+
+Subsidiary of Limited Liability Company or Limited Partnership [Line Items]
+
+Number of votes per common share (vote) | vote
+
+1
+
+Reorganization agreement, anniversary of death or permanent disability of co-founders
+
+6 months
+
+Global Atlantic
+
+Subsidiary of Limited Liability Company or Limited Partnership [Line Items]
+
+Cash consideration paid by KKR
+$ 2,600
+
+Issuance of securities exchangeable for shares of KKR & Co. common stock
+$ 41
+
+KKR Group Partnership
+
+Subsidiary of Limited Liability Company or Limited Partnership [Line Items]
+
+Percentage of economic interest held by parent entity
+
+99.20%
+
+X
+
+- DefinitionCommon Stock, Voting Rights, Number Of Votes Per Common Share
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_CommonStockVotingRightsNumberOfVotesPerCommonShare
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionReorganization Agreement, Anniversary Of Death Or Permanent Disability Of Co-Founders
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ReorganizationAgreementAnniversaryOfDeathOrPermanentDisabilityOfCoFounders
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of equity interests of the acquirer, including instruments or interests issued or issuable in consideration for the business combination.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 8
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479637/805-30-30-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 7
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479637/805-30-30-7
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationConsiderationTransferredEquityInterestsIssuedAndIssuable
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage investment held by members or limited partners of limited liability company (LLC) or limited partnership (LP).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 272
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482987/272-10-50-3
+
++ Details
+
+ Name:
+us-gaap_LimitedLiabilityCompanyLLCOrLimitedPartnershipLPMembersOrLimitedPartnersOwnershipInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe cash outflow associated with the acquisition of business during the period. The cash portion only of the acquisition price.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 13
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-13
+
++ Details
+
+ Name:
+us-gaap_PaymentsToAcquireBusinessesGross
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SubsidiaryOfLimitedLiabilityCompanyOrLimitedPartnershipLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=kkr_GlobalAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_OwnershipAxis=kkr_KKRGroupPartnershipsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

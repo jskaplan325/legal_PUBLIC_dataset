@@ -1,0 +1,134 @@
+XML
+111
+R39.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EARNINGS PER SHARE (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Earnings Per Share [Abstract]
+
+Schedule of Antidilutive Securities Excluded from Earnings per Share Computation
+The computation of diluted earnings per share excludes the following restricted units and AOG Units as their effect would have been anti-dilutive under the treasury stock method:
+
+ Year ended December 31,
+ 2024 2023 2022
+
+Restricted units N/A 2,071 N/A
+AOG Units N/A 118,804,252 N/A
+
+Schedule of the Computation of Basic and Diluted Earnings per Common Share
+The following table presents the computation of basic and diluted earnings per common share:
+
+ Year ended December 31,
+ 2024 2023 2022
+Basic earnings per share of Class A and non-voting common stock:
+Net income attributable to Ares Management Corporation Class A and non-voting common stockholders $ 440,961 $ 474,326 $ 167,541
+Dividends declared and paid on Class A and non-voting common stock (742,970) (571,923) (429,104)
+Distributions on unvested restricted units (30,766) (21,303) (14,096)
+
+Dividends in excess of earnings available to Class A and non-voting common stockholders $ (332,775) $ (118,900) $ (275,659)
+Basic weighted-average shares of Class A and non-voting common stock 198,054,451 184,523,524 175,510,798
+Dividends in excess of earnings per share of Class A and non-voting common stock $ (1.68) $ (0.64) $ (1.57)
+Dividend declared and paid per Class A and non-voting common stock 3.72 3.08 2.44
+Basic earnings per share of Class A and non-voting common stock $ 2.04 $ 2.44 $ 0.87
+
+Diluted earnings per share of Class A and non-voting common stock:
+Net income attributable to Ares Management Corporation Class A and non-voting common stockholders $ 440,961 $ 474,326 $ 167,541
+Distributions on unvested restricted units (30,766) (14,096)
+
+Net income available to Class A and non-voting common stockholders $ 410,195 $ 474,326 $ 153,445
+Effect of dilutive shares:
+Restricted units 9,347,318
+Options 1,902,584
+
+Diluted weighted-average shares of Class A and non-voting common stock 198,054,451 195,773,426 175,510,798
+Diluted earnings per share of Class A and non-voting common stock $ 2.04 $ 2.42 $ 0.87
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EarningsPerShareAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of securities (including those issuable pursuant to contingent stock agreements) that could potentially dilute basic earnings per share (EPS) in the future that were not included in the computation of diluted EPS because to do so would increase EPS amounts or decrease loss per share amounts for the period presented, by antidilutive securities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 260
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfAntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of an entity's basic and diluted earnings per share calculations, including a reconciliation of numerators and denominators of the basic and diluted per-share computations for income from continuing operations.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEarningsPerShareBasicAndDilutedTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,546 @@
+XML
+67
+R38.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value Option (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Summary of Financial Instruments for Which Fair Value Option Has Been Elected
+ The following table summarizes the financial instruments for which the fair value option has been elected:
+
+December 31,
+
+2024
+
+2023
+
+ Assets
+
+ Loans and Receivables
+
+$
+
+100,866
+
+$
+
+60,738
+
+ Equity and Preferred Securities
+
+4,498,617
+
+2,894,302
+
+ Debt Securities
+
+63,671
+
+63,486
+
+ Assets of Consolidated CLO Vehicles
+
+ Corporate Loans
+
+62,426
+
+938,801
+
+$
+
+4,725,580
+
+$
+
+3,957,327
+
+ Liabilities
+
+ CLO Notes Payable
+
+$
+
+87,488
+
+$
+
+687,122
+
+ Corporate Treasury Commitments
+
+368
+
+1,264
+
+$
+
+87,856
+
+$
+
+688,386
+
+Realized and Net Change in Unrealized Gains (Losses) on Financial Instruments on Financial Instruments on Which Fair Value Option was Elected
+ The following table presents the Realized and Net Change in Unrealized Gains (Losses) on financial instruments on which the fair value option was elected:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Net Change
+
+Net Change
+
+Net Change
+
+Realized
+
+in Unrealized
+
+Realized
+
+in Unrealized
+
+Realized
+
+in Unrealized
+
+Gains
+
+Gains
+
+Gains
+
+Gains
+
+Gains
+
+Gains
+
+(Losses)
+
+(Losses)
+
+(Losses)
+
+(Losses)
+
+(Losses)
+
+(Losses)
+
+ Assets
+
+ Loans and Receivables
+
+$
+
+(4,849
+
+)
+
+$
+
+12
+
+$
+
+(8,053
+
+)
+
+$
+
+4,886
+
+$
+
+(10,733
+
+)
+
+$
+
+(464
+
+)
+
+ Equity and Preferred Securities
+
+9,431
+
+(48,209
+
+)
+
+(1,439
+
+)
+
+(122,605
+
+)
+
+22,285
+
+(91,338
+
+)
+
+ Debt Securities
+
+(2,694
+
+)
+
+(3,884
+
+)
+
+(22,240
+
+)
+
+(19,490
+
+)
+
+ Assets of Consolidated CLO Vehicles
+
+ Corporate Loans
+
+(3,828
+
+)
+
+2,889
+
+(6,063
+
+)
+
+8,728
+
+$
+
+754
+
+$
+
+(48,002
+
+)
+
+$
+
+(15,555
+
+)
+
+$
+
+(112,875
+
+)
+
+$
+
+(10,688
+
+)
+
+$
+
+(111,292
+
+)
+
+ Liabilities
+
+ CLO Notes Payable
+
+$
+
+$
+
+2,178
+
+$
+
+$
+
+282
+
+$
+
+$
+
+ Corporate Treasury Commitments
+
+896
+
+6,880
+
+(7,508
+
+)
+
+$
+
+$
+
+3,074
+
+$
+
+$
+
+7,162
+
+$
+
+$
+
+(7,508
+
+)
+
+Information for Financial Instruments on Which Fair Value Option was Elected
+ The following table presents information for those financial instruments for which the fair value option was elected:
+
+December 31, 2024
+
+December 31, 2023
+
+For Financial Assets
+
+Past Due (a)
+
+For Financial Assets
+
+Past Due (a)
+
+Excess
+
+Excess
+
+Excess
+
+Excess
+
+(Deficiency)
+
+(Deficiency)
+
+(Deficiency)
+
+(Deficiency)
+
+of Fair Value
+
+Fair
+
+of Fair Value
+
+of Fair Value
+
+Fair
+
+of Fair Value
+
+Over Principal
+
+Value
+
+Over Principal
+
+Over Principal
+
+Value
+
+Over Principal
+
+ Loans and Receivables
+
+$
+
+2,769
+
+$
+
+$
+
+$
+
+675
+
+$
+
+$
+
+ Debt Securities
+
+(55,890
+
+)
+
+(52,577
+
+)
+
+ Assets of Consolidated CLO Vehicles
+
+ Corporate Loans
+
+(2,478
+
+)
+
+1,359
+
+(8,751
+
+)
+
+1,345
+
+$
+
+(55,599
+
+)
+
+$
+
+1,359
+
+$
+
+$
+
+(60,653
+
+)
+
+$
+
+1,345
+
+$
+
+(a)
+
+ Assets are classified as past due if contractual payments are more than 90 days past due.
+
+X
+
+- DefinitionFair value options qualitative disclosures related to election.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueOptionsQualitativeDisclosuresRelatedToElectionTextBlock
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSchedule of Realized and Net Change in Unrealized Gains (Losses) On Financial Instruments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ScheduleOfRealizedAndNetChangeInUnrealizedGainsLossesOnFinancialInstrumentsTableTextBlock
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of information about asset and liability measured at fair value under fair value option.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 825
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 28
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-31
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionQuantitativeDisclosuresTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

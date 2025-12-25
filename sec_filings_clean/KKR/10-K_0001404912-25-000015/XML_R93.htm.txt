@@ -1,0 +1,455 @@
+XML
+115
+R93.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INVESTMENTS - Mortgage and Other Loans Receivable (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Dec. 31, 2021
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+$ 53,365,485
+
+$ 39,780,370
+
+Allowance for Credit Losses
+(614,408)
+
+(602,443)
+
+$ (560,228)
+
+$ (374,077)
+
+Total Mortgage and Other Loan Receivables, Net of Allowance for Credit Losses
+52,751,077
+
+39,177,927
+
+Commercial Loan, Residential Loan, Consumer Loan, and Other Loan, Fair Value Option
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+1,600,000
+
+697,400
+
+Total Mortgage and Other Loan Receivables, Net of Allowance for Credit Losses
+1,800,000
+
+785,200
+
+Purchase-Credit Deteriorated Mortgage and Other Loan Receivables
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Allowance for Credit Losses
+(72,200)
+
+(91,700)
+
+Commercial Mortgage Loans
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+25,263,148
+
+21,861,245
+
+Allowance for Credit Losses
+(326,057)
+
+(319,631)
+
+(227,315)
+
+(65,970)
+
+Residential Mortgage Loans
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+21,581,616
+
+12,722,778
+
+Allowance for Credit Losses
+(107,245)
+
+(107,204)
+
+$ (125,825)
+
+$ (72,082)
+
+Consumer Loans
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+4,848,208
+
+4,424,882
+
+Other Loan Receivables
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+1,672,513
+
+771,465
+
+Other Loan Receivables | Renewable Energy Development Loans
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+547,200
+
+Other Loan Receivables | Agricultural Mortgage
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+503,000
+
+Other Loan Receivables | Aircraft
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+271,200
+
+315,400
+
+Other Loan Receivables | Residential Mortgage Loans
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total Mortgage and Other Loan Receivables
+$ 200,000
+
+$ 200,000
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 310
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 40
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481628/310-20-40-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-2
+
++ Details
+
+ Name:
+us-gaap_AccountsNotesAndLoansReceivableLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount excluding accrued interest, of allowance for credit loss on financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, after allowance for credit loss, of financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, before allowance for credit loss, of financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-5
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivableRecordedInvestmentByClassOfFinancingReceivableAxis=kkr_CommercialLoanResidentialLoanConsumerLoanAndOtherLoanFairValueOptionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivableRecordedInvestmentByClassOfFinancingReceivableAxis=kkr_PurchaseCreditDeterioratedMortgageAndOtherLoanReceivablesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_CommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ResidentialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ConsumerPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=kkr_OtherPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CollateralAxis=kkr_AgriculturalMortgageForRenewableEnergyDevelopmentLoansMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CollateralAxis=kkr_AgriculturalMortgageForWarehouseFacilityLoansMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CollateralAxis=us-gaap_AirTransportationEquipmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CollateralAxis=us-gaap_ResidentialMortgageMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

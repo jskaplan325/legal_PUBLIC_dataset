@@ -1,0 +1,263 @@
+XML
+133
+R110.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Earnings Per Common Share - Weighted-Average Common Units Outstanding, Basic and Diluted (Details) - shares
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Earnings Per Share, Diluted, by Common Class, Including Two Class Method [Line Items]
+
+Weighted-average common shares outstanding, basic (in shares)
+358,584,203
+
+361,395,823
+
+361,278,064
+
+Weighted-average common shares outstanding, diluted (in shares)
+368,024,612
+
+361,395,823
+
+365,707,722
+
+The Carlyle Group Inc. weighted-average common shares outstanding
+
+Earnings Per Share, Diluted, by Common Class, Including Two Class Method [Line Items]
+
+Weighted-average common shares outstanding, basic (in shares)
+358,584,203
+
+361,395,823
+
+361,278,064
+
+Weighted-average common shares outstanding, diluted (in shares)
+358,584,203
+
+361,395,823
+
+361,278,064
+
+Unvested restricted stock units
+
+Earnings Per Share, Diluted, by Common Class, Including Two Class Method [Line Items]
+
+Weighted-average common shares outstanding, basic (in shares)
+0
+
+0
+
+0
+
+Weighted-average common shares outstanding, diluted (in shares)
+6,685,145
+
+0
+
+2,394,372
+
+Issuable common shares and performance-vesting restricted stock units
+
+Earnings Per Share, Diluted, by Common Class, Including Two Class Method [Line Items]
+
+Weighted-average common shares outstanding, basic (in shares)
+0
+
+0
+
+0
+
+Weighted-average common shares outstanding, diluted (in shares)
+2,755,264
+
+0
+
+2,035,286
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482689/260-10-45-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482689/260-10-45-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 60B
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482689/260-10-45-60B
+
++ Details
+
+ Name:
+us-gaap_EarningsPerShareDilutedLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe average number of shares or units issued and outstanding that are used in calculating diluted EPS or earnings per unit (EPU), determined based on the timing of issuance of shares or units in the period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 16
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482689/260-10-45-16
+
++ Details
+
+ Name:
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNumber of [basic] shares or units, after adjustment for contingently issuable shares or units and other shares or units not deemed outstanding, determined by relating the portion of time within a reporting period that common shares or units have been outstanding to the total time in that period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482689/260-10-45-10
+
++ Details
+
+ Name:
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=cg_OutstandingCommonStockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=cg_RestrictedCommonUnitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AwardTypeAxis=cg_CommonStockAndPerformanceVestingRestrictedStockUnitsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

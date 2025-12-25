@@ -1,0 +1,231 @@
+XML
+110
+R38.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INCOME TAXES (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Income Tax Disclosure [Abstract]
+
+Schedule of Components of Income Tax Expense
+The provision for income taxes attributable to the Company and the Consolidated Funds, consisted of the following:
+
+ Year ended December 31,
+Provision for Income Taxes 2024 2023 2022
+The Company
+Current:
+U.S. federal income tax expense $ 63,292 $ 34,051 $ 42,452
+State and local income tax expense 14,326 13,316 7,614
+Foreign income tax expense 24,841 24,029 14,119
+ 102,459 71,396 64,185
+Deferred:
+U.S. federal income tax expense 50,182 85,610 10,660
+State and local income tax expense 7,819 15,872 2,131
+Foreign income tax benefit (2,917) (3,730) (5,416)
+ 55,084 97,752 7,375
+Total:
+U.S. federal income tax expense 113,474 119,661 53,112
+State and local income tax expense 22,145 29,188 9,745
+Foreign income tax expense 21,924 20,299 8,703
+Income tax expense 157,543 169,148 71,560
+
+Consolidated Funds
+Current:
+
+Foreign income tax expense (benefit) (1,331) 3,823 331
+ (1,331) 3,823 331
+Deferred:
+U.S. federal income tax expense 8,405
+
+ 8,405
+Total:
+U.S. federal income tax expense 8,405
+
+Foreign income tax expense (benefit) (1,331) 3,823 331
+Income tax expense 7,074 3,823 331
+
+Total Provision for Income Taxes
+Total current income tax expense 101,128 75,219 64,516
+Total deferred income tax expense 63,489 97,752 7,375
+Income tax expense $ 164,617 $ 172,971 $ 71,891
+
+Schedule of Effective Income Tax Rate Reconciliation
+The effective income tax rate differed from the federal statutory rate for the following reasons:
+ Year ended December 31,
+ 2024 2023 2022
+Income tax expense at federal statutory rate 21.0% 21.0% 21.0%
+Income passed through to non-controlling interests (9.3) (9.6) (8.9)
+State and local taxes, net of federal benefit 1.4 1.7 2.2
+Foreign taxes (0.7) (0.7) (1.4)
+Permanent items 0.1 0.2 0.6
+Disallowed executive compensation 0.3 0.2 0.1
+Other, net 0.1 0.3 0.3
+Valuation allowance (0.1) 0.2
+Total effective rate 12.9% 13.0% 14.1%
+
+Schedule of Deferred Tax Assets and Liabilities
+The income tax effects of temporary differences that give rise to significant portions of deferred tax assets and liabilities were as follows as of December 31, 2024 and 2023. Deferred tax assets, net are included within other assets within the Consolidated Statements of Financial Condition.
+
+ As of December 31,
+Deferred Tax Assets and Liabilities of the Company 2024 2023
+Deferred tax assets
+Amortizable tax basis for AOG Unit exchanges $ 451,343 $ 205,627
+
+Net operating losses and capital loss carryforwards 1,888 1,829
+Other, net 9,793 6,511
+Total gross deferred tax assets 463,024 213,967
+Valuation allowance (941) (942)
+Total net deferred tax assets 462,083 213,025
+Deferred tax liabilities
+Investment in partnerships (220,189) (191,476)
+
+Total deferred tax liabilities (220,189) (191,476)
+Deferred tax assets, net $ 241,894 $ 21,549
+
+ As of December 31,
+Deferred Tax Assets and Liabilities of the Consolidated Funds 2024 2023
+Deferred tax assets
+Net operating losses $ 7,932 $ 2,598
+
+Total gross deferred tax assets 7,932 2,598
+Valuation allowance (1,229) (2,598)
+Total net deferred tax assets 6,703
+Deferred tax liabilities
+Investments in partnerships (15,108)
+Total deferred tax liabilities (15,108)
+Deferred tax assets (liabilities), net $ (8,405) $
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the components of income tax expense attributable to continuing operations for each year presented including, but not limited to: current tax expense (benefit), deferred tax expense (benefit), investment tax credits, government grants, the benefits of operating loss carryforwards, tax expense that results from allocating certain tax benefits either directly to contributed capital or to reduce goodwill or other noncurrent intangible assets of an acquired entity, adjustments of a deferred tax liability or asset for enacted changes in tax laws or rates or a change in the tax status of the entity, and adjustments of the beginning-of-the-year balances of a valuation allowance because of a change in circumstances that causes a change in judgment about the realizability of the related deferred tax asset in future years.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-9
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfComponentsOfIncomeTaxExpenseBenefitTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the components of net deferred tax asset or liability recognized in an entity's statement of financial position, including the following: the total of all deferred tax liabilities, the total of all deferred tax assets, the total valuation allowance recognized for deferred tax assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDeferredTaxAssetsAndLiabilitiesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the reconciliation using percentage or dollar amounts of the reported amount of income tax expense attributable to continuing operations for the year to the amount of income tax expense that would result from applying domestic federal statutory tax rates to pretax income from continuing operations.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 231
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-231
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12A
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEffectiveIncomeTaxRateReconciliationTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

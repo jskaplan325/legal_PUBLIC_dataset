@@ -1,0 +1,644 @@
+XML
+119
+R97.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INVESTMENTS - Loan-To-Value (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Financing Receivable, Credit Quality Indicator [Line Items]
+
+Total
+$ 53,365,485
+
+$ 39,780,370
+
+Commercial
+
+Financing Receivable, Credit Quality Indicator [Line Items]
+
+Year one
+4,626,771
+
+3,600,652
+
+Year two
+3,575,323
+
+6,278,419
+
+Year three
+6,012,774
+
+6,815,362
+
+Year four
+6,511,726
+
+661,316
+
+Year five
+559,931
+
+1,395,717
+
+Year six
+1,239,106
+
+1,049,249
+
+Prior
+2,737,517
+
+2,060,530
+
+Total
+25,263,148
+
+21,861,245
+
+Carrying Value Loan-to-value 70% and Less | Commercial
+
+Financing Receivable, Credit Quality Indicator [Line Items]
+
+Year one
+4,487,814
+
+3,600,652
+
+Year two
+3,575,323
+
+5,912,623
+
+Year three
+5,646,922
+
+5,110,011
+
+Year four
+4,931,730
+
+496,085
+
+Year five
+433,377
+
+1,257,983
+
+Year six
+1,145,297
+
+881,620
+
+Prior
+2,538,853
+
+1,991,780
+
+Total
+22,759,316
+
+19,250,754
+
+Carrying Value Loan-to-value 71% - 90% | Commercial
+
+Financing Receivable, Credit Quality Indicator [Line Items]
+
+Year one
+138,957
+
+0
+
+Year two
+0
+
+365,796
+
+Year three
+365,852
+
+1,483,763
+
+Year four
+1,429,694
+
+93,210
+
+Year five
+91,524
+
+93,661
+
+Year six
+54,501
+
+52,640
+
+Prior
+53,510
+
+0
+
+Total
+2,134,038
+
+2,089,070
+
+Carrying Value Loan-to-value Over 90% | Commercial
+
+Financing Receivable, Credit Quality Indicator [Line Items]
+
+Year one
+0
+
+0
+
+Year two
+0
+
+0
+
+Year three
+0
+
+221,588
+
+Year four
+150,302
+
+72,021
+
+Year five
+35,030
+
+44,073
+
+Year six
+39,308
+
+114,989
+
+Prior
+145,154
+
+68,750
+
+Total
+$ 369,794
+
+$ 521,421
+
+X
+
+- DefinitionFinancing Receivable, Excluding Accrued Interest, Originated, More Than Six Years Before Current Fiscal Year
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableExcludingAccruedInterestOriginatedMoreThanSixYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFinancing Receivable, Excluding Accrued Interest, Year Six, Originated, Five Years Before Current Fiscal Year
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableExcludingAccruedInterestYearSixOriginatedFiveYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, before allowance for credit loss, of financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-5
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated four years prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearFiveOriginatedFourYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated three years prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearFourOriginatedThreeYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated in current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearOneOriginatedCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated two years prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearThreeOriginatedTwoYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest of financing receivable originated in fiscal year prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearTwoOriginatedFiscalYearBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 29
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-29
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-5
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableRecordedInvestmentLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_CommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LoanToValueAxis=kkr_DebtToValueRatio70PercentAndLessMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LoanToValueAxis=kkr_DebtToValueRatio71To90PercentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LoanToValueAxis=kkr_DebtToValueRatioGreaterThan90PercentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

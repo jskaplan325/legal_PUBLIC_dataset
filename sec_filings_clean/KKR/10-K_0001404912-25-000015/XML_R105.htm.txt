@@ -1,0 +1,3965 @@
+XML
+127
+R105.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+FAIR VALUE MEASUREMENTS - Assets and Liabilities at Fair Value (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+$ 76,259,956
+
+$ 69,414,188
+
+Separate Account Assets
+3,981,060
+
+4,107,000
+
+Unfunded commitments
+11,000,000
+
+Liabilities, at fair value
+
+Embedded Derivative
+6,000,000
+
+4,000,000
+
+Market Risk Benefit Liability
+1,002,236
+
+1,120,968
+
+U.S. Government and Agencies
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+2,391,407
+
+1,203,092
+
+U.S. State, Municipal and Political Subdivisions
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+3,769,461
+
+4,607,392
+
+Corporate
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+41,939,267
+
+39,948,756
+
+Asset Management and Strategic Holdings
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+2,382
+
+Insurance
+
+Assets, at fair value:
+
+Reinsurance Recoverable
+45,270,625
+
+36,617,344
+
+Counterparty Netting and Cash Collateral
+(2,285,211)
+
+(1,809,329)
+
+Separate Account Assets
+3,981,060
+
+4,107,000
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+389,187
+
+146,197
+
+Funds Withheld Payable at Interest
+1,159,146
+
+1,423,242
+
+Market Risk Benefit Liability
+1,002,236
+
+1,120,968
+
+Level III | Asset Management and Strategic Holdings
+
+Liabilities, at fair value
+
+Unfunded Revolver Commitments
+96,848
+
+Level III | Insurance
+
+Assets, at fair value:
+
+Mortgage and Other Loan Receivables
+1,611,109
+
+Reinsurance Recoverable
+940,731
+
+Liabilities, at fair value
+
+Policy Liabilities (Including Market Risk Benefits)
+1,279,794
+
+Closed Block Policy Liabilities
+988,320
+
+Level III | Insurance | Interest Sensitive Life
+
+Liabilities, at fair value
+
+Embedded Derivative
+491,818
+
+Level III | Insurance | Fixed-Indexed Annuity
+
+Liabilities, at fair value
+
+Embedded Derivative
+5,481,063
+
+Level III | Insurance | Corporate
+
+Assets, at fair value:
+
+Trading Fixed Maturity Securities
+10,676,454
+
+Level III | Insurance | Structured Securities
+
+Assets, at fair value:
+
+Trading Fixed Maturity Securities
+3,067,847
+
+Fair Value Measured on Recurring Basis
+
+Assets, at fair value:
+
+Total Financial Assets
+203,774,472
+
+184,176,005
+
+Liabilities, at fair value
+
+Total Liabilities at Fair Value
+33,320,802
+
+30,152,304
+
+Fair Value Measured on Recurring Basis | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+90,153,687
+
+84,876,654
+
+Total Financial Assets
+90,673,644
+
+85,146,067
+
+Liabilities, at fair value
+
+Securities Sold Short
+109,168
+
+149,136
+
+Unfunded Revolver Commitments
+96,848
+
+94,683
+
+Total Liabilities at Fair Value
+27,488,164
+
+25,964,213
+
+Fair Value Measured on Recurring Basis | Asset Management and Strategic Holdings | Debt Obligations of Consolidated CFEs
+
+Liabilities, at fair value
+
+Debt Obligations of Consolidated CFEs
+27,150,809
+
+25,276,404
+
+Fair Value Measured on Recurring Basis | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+61,351
+
+45,694
+
+Counterparty Netting and Cash Collateral
+(2,285,211)
+
+(1,809,329)
+
+AFS Fixed Maturity Securities
+76,259,956
+
+69,414,188
+
+Trading Fixed Maturity Securities
+21,419,241
+
+18,805,470
+
+Mortgage and Other Loan Receivables
+1,611,109
+
+697,402
+
+Other Investments
+580,354
+
+130,223
+
+Funds Withheld Receivable at Interest
+125,887
+
+88,661
+
+Reinsurance Recoverable
+940,731
+
+926,035
+
+Separate Account Assets
+3,981,060
+
+4,107,000
+
+Total Financial Assets
+113,100,828
+
+99,029,938
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+389,187
+
+146,197
+
+Policy Liabilities (Including Market Risk Benefits)
+1,279,794
+
+1,474,970
+
+Closed Block Policy Liabilities
+988,320
+
+968,554
+
+Funds Withheld Payable at Interest
+(2,797,544)
+
+(2,447,303)
+
+Cash Collateral
+(910,183)
+
+(911,080)
+
+Total Liabilities at Fair Value
+5,832,638
+
+4,188,091
+
+Fair Value Measured on Recurring Basis | Insurance | Interest Sensitive Life
+
+Liabilities, at fair value
+
+Embedded Derivative
+491,818
+
+458,302
+
+Fair Value Measured on Recurring Basis | Insurance | Fixed-Indexed Annuity
+
+Liabilities, at fair value
+
+Embedded Derivative
+5,481,063
+
+3,587,371
+
+Fair Value Measured on Recurring Basis | Insurance | U.S. Government and Agencies
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+2,391,407
+
+1,203,092
+
+Trading Fixed Maturity Securities
+2,425,469
+
+2,518,113
+
+Fair Value Measured on Recurring Basis | Insurance | U.S. State, Municipal and Political Subdivisions
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+3,769,461
+
+4,607,392
+
+Trading Fixed Maturity Securities
+380,175
+
+1,223,946
+
+Fair Value Measured on Recurring Basis | Insurance | Corporate
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+41,939,267
+
+39,948,756
+
+Trading Fixed Maturity Securities
+11,454,892
+
+10,472,832
+
+Fair Value Measured on Recurring Basis | Insurance | Structured Securities
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+28,159,821
+
+23,654,948
+
+Trading Fixed Maturity Securities
+7,158,705
+
+4,590,579
+
+Fair Value Measured on Recurring Basis | Foreign Exchange Contracts and Options | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+511,513
+
+264,621
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+131,339
+
+441,608
+
+Fair Value Measured on Recurring Basis | Other Derivatives | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+8,444
+
+4,792
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+2,382
+
+Fair Value Measured on Recurring Basis | Equity Market Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+1,921,164
+
+1,480,875
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+143,049
+
+248,127
+
+Fair Value Measured on Recurring Basis | Interest Rate Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+247,800
+
+284,067
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+1,072,570
+
+678,456
+
+Fair Value Measured on Recurring Basis | Foreign Currency Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+175,703
+
+90,081
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+83,557
+
+130,094
+
+Fair Value Measured on Recurring Basis | Other Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+1,895
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+194
+
+600
+
+Fair Value Measured on Recurring Basis | Private Equity | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+34,462,952
+
+32,742,484
+
+Fair Value Measured on Recurring Basis | Credit | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+8,054,581
+
+8,274,904
+
+Fair Value Measured on Recurring Basis | Investments of Consolidated CFEs | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+27,488,538
+
+24,996,298
+
+Fair Value Measured on Recurring Basis | Real Assets | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+13,222,738
+
+12,000,008
+
+Fair Value Measured on Recurring Basis | Real Assets | Insurance
+
+Assets, at fair value:
+
+Total Investments
+8,121,139
+
+4,815,265
+
+Unfunded commitments
+1,300
+
+Fair Value Measured on Recurring Basis | Equity Method - Other | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+1,832,534
+
+2,283,588
+
+Fair Value Measured on Recurring Basis | Other Investments | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+5,092,344
+
+4,579,372
+
+Fair Value Measured on Recurring Basis | Other Investments | Insurance
+
+Assets, at fair value:
+
+Unfunded commitments
+1,500
+
+Fair Value Measured on Recurring Basis | Level I
+
+Assets, at fair value:
+
+Total Financial Assets
+5,788,526
+
+10,903,084
+
+Liabilities, at fair value
+
+Total Liabilities at Fair Value
+109,606
+
+150,776
+
+Fair Value Measured on Recurring Basis | Level I | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+1,594,827
+
+3,357,633
+
+Total Financial Assets
+1,594,869
+
+3,357,633
+
+Liabilities, at fair value
+
+Securities Sold Short
+109,168
+
+149,136
+
+Unfunded Revolver Commitments
+0
+
+0
+
+Total Liabilities at Fair Value
+109,168
+
+149,279
+
+Fair Value Measured on Recurring Basis | Level I | Asset Management and Strategic Holdings | Debt Obligations of Consolidated CFEs
+
+Liabilities, at fair value
+
+Debt Obligations of Consolidated CFEs
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+5,316
+
+(2,379)
+
+Counterparty Netting and Cash Collateral
+(159)
+
+(23,522)
+
+AFS Fixed Maturity Securities
+0
+
+1,082,421
+
+Trading Fixed Maturity Securities
+0
+
+2,354,194
+
+Mortgage and Other Loan Receivables
+0
+
+0
+
+Other Investments
+207,281
+
+4,215
+
+Funds Withheld Receivable at Interest
+0
+
+0
+
+Reinsurance Recoverable
+0
+
+0
+
+Separate Account Assets
+3,981,060
+
+4,107,000
+
+Total Financial Assets
+4,193,657
+
+7,545,451
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+438
+
+1,497
+
+Policy Liabilities (Including Market Risk Benefits)
+0
+
+0
+
+Closed Block Policy Liabilities
+0
+
+0
+
+Funds Withheld Payable at Interest
+0
+
+0
+
+Cash Collateral
+(159)
+
+(23,522)
+
+Total Liabilities at Fair Value
+438
+
+1,497
+
+Fair Value Measured on Recurring Basis | Level I | Insurance | Interest Sensitive Life
+
+Liabilities, at fair value
+
+Embedded Derivative
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Insurance | Fixed-Indexed Annuity
+
+Liabilities, at fair value
+
+Embedded Derivative
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Insurance | U.S. Government and Agencies
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+0
+
+1,082,421
+
+Trading Fixed Maturity Securities
+0
+
+2,354,194
+
+Fair Value Measured on Recurring Basis | Level I | Insurance | U.S. State, Municipal and Political Subdivisions
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+0
+
+0
+
+Trading Fixed Maturity Securities
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Insurance | Corporate
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+0
+
+0
+
+Trading Fixed Maturity Securities
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Insurance | Structured Securities
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+0
+
+0
+
+Trading Fixed Maturity Securities
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Foreign Exchange Contracts and Options | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Other Derivatives | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+42
+
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+143
+
+Fair Value Measured on Recurring Basis | Level I | Equity Market Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+5,475
+
+1,669
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+508
+
+7,088
+
+Fair Value Measured on Recurring Basis | Level I | Interest Rate Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+19,474
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+89
+
+17,931
+
+Fair Value Measured on Recurring Basis | Level I | Foreign Currency Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Other Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Private Equity | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+816,229
+
+1,762,257
+
+Fair Value Measured on Recurring Basis | Level I | Credit | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+0
+
+281,626
+
+Fair Value Measured on Recurring Basis | Level I | Investments of Consolidated CFEs | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Real Assets | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+436,546
+
+676,808
+
+Fair Value Measured on Recurring Basis | Level I | Real Assets | Insurance
+
+Assets, at fair value:
+
+Total Investments
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level I | Equity Method - Other | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+162,950
+
+418,791
+
+Fair Value Measured on Recurring Basis | Level I | Other Investments | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+179,102
+
+218,151
+
+Fair Value Measured on Recurring Basis | Level II
+
+Assets, at fair value:
+
+Total Financial Assets
+116,631,658
+
+101,494,533
+
+Liabilities, at fair value
+
+Total Liabilities at Fair Value
+27,670,897
+
+25,864,951
+
+Fair Value Measured on Recurring Basis | Level II | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+31,851,562
+
+28,045,168
+
+Total Financial Assets
+32,371,477
+
+28,314,581
+
+Liabilities, at fair value
+
+Securities Sold Short
+0
+
+0
+
+Unfunded Revolver Commitments
+0
+
+0
+
+Total Liabilities at Fair Value
+27,282,148
+
+25,720,251
+
+Fair Value Measured on Recurring Basis | Level II | Asset Management and Strategic Holdings | Debt Obligations of Consolidated CFEs
+
+Liabilities, at fair value
+
+Debt Obligations of Consolidated CFEs
+27,150,809
+
+25,276,404
+
+Fair Value Measured on Recurring Basis | Level II | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+56,035
+
+48,073
+
+Counterparty Netting and Cash Collateral
+(2,285,052)
+
+(1,785,807)
+
+AFS Fixed Maturity Securities
+64,597,162
+
+57,930,764
+
+Trading Fixed Maturity Securities
+19,337,734
+
+15,201,115
+
+Mortgage and Other Loan Receivables
+0
+
+0
+
+Other Investments
+269,250
+
+0
+
+Funds Withheld Receivable at Interest
+0
+
+0
+
+Reinsurance Recoverable
+0
+
+0
+
+Separate Account Assets
+0
+
+0
+
+Total Financial Assets
+84,260,181
+
+73,179,952
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+388,749
+
+144,700
+
+Policy Liabilities (Including Market Risk Benefits)
+0
+
+0
+
+Closed Block Policy Liabilities
+0
+
+0
+
+Funds Withheld Payable at Interest
+0
+
+0
+
+Cash Collateral
+(910,024)
+
+(887,558)
+
+Total Liabilities at Fair Value
+388,749
+
+144,700
+
+Fair Value Measured on Recurring Basis | Level II | Insurance | Interest Sensitive Life
+
+Liabilities, at fair value
+
+Embedded Derivative
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level II | Insurance | Fixed-Indexed Annuity
+
+Liabilities, at fair value
+
+Embedded Derivative
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level II | Insurance | U.S. Government and Agencies
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+2,391,407
+
+120,671
+
+Trading Fixed Maturity Securities
+2,425,469
+
+163,919
+
+Fair Value Measured on Recurring Basis | Level II | Insurance | U.S. State, Municipal and Political Subdivisions
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+3,769,461
+
+4,607,392
+
+Trading Fixed Maturity Securities
+380,175
+
+1,223,946
+
+Fair Value Measured on Recurring Basis | Level II | Insurance | Corporate
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+32,585,117
+
+31,377,753
+
+Trading Fixed Maturity Securities
+10,132,588
+
+9,815,909
+
+Fair Value Measured on Recurring Basis | Level II | Insurance | Structured Securities
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+25,851,177
+
+21,824,948
+
+Trading Fixed Maturity Securities
+6,399,502
+
+3,997,341
+
+Fair Value Measured on Recurring Basis | Level II | Foreign Exchange Contracts and Options | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+511,513
+
+264,621
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+131,339
+
+441,608
+
+Fair Value Measured on Recurring Basis | Level II | Other Derivatives | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+8,402
+
+4,792
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+2,239
+
+Fair Value Measured on Recurring Basis | Level II | Equity Market Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+1,915,689
+
+1,479,206
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+142,541
+
+241,039
+
+Fair Value Measured on Recurring Basis | Level II | Interest Rate Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+247,800
+
+264,593
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+1,072,481
+
+660,525
+
+Fair Value Measured on Recurring Basis | Level II | Foreign Currency Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+175,703
+
+90,081
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+83,557
+
+130,094
+
+Fair Value Measured on Recurring Basis | Level II | Other Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+1,895
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+194
+
+600
+
+Fair Value Measured on Recurring Basis | Level II | Private Equity | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+523,274
+
+58,653
+
+Fair Value Measured on Recurring Basis | Level II | Credit | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+3,249,173
+
+2,540,362
+
+Fair Value Measured on Recurring Basis | Level II | Investments of Consolidated CFEs | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+27,488,538
+
+24,996,298
+
+Fair Value Measured on Recurring Basis | Level II | Real Assets | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+261,902
+
+27,567
+
+Fair Value Measured on Recurring Basis | Level II | Real Assets | Insurance
+
+Assets, at fair value:
+
+Total Investments
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level II | Equity Method - Other | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+264,284
+
+326,835
+
+Fair Value Measured on Recurring Basis | Level II | Other Investments | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+64,391
+
+95,453
+
+Fair Value Measured on Recurring Basis | Level III
+
+Assets, at fair value:
+
+Total Financial Assets
+81,354,288
+
+71,778,388
+
+Liabilities, at fair value
+
+Total Liabilities at Fair Value
+5,540,299
+
+4,136,577
+
+Fair Value Measured on Recurring Basis | Level III | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+56,707,298
+
+53,473,853
+
+Total Financial Assets
+56,707,298
+
+53,473,853
+
+Liabilities, at fair value
+
+Securities Sold Short
+0
+
+0
+
+Unfunded Revolver Commitments
+96,848
+
+94,683
+
+Total Liabilities at Fair Value
+96,848
+
+94,683
+
+Fair Value Measured on Recurring Basis | Level III | Asset Management and Strategic Holdings | Debt Obligations of Consolidated CFEs
+
+Liabilities, at fair value
+
+Debt Obligations of Consolidated CFEs
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Counterparty Netting and Cash Collateral
+0
+
+0
+
+AFS Fixed Maturity Securities
+11,662,794
+
+10,401,003
+
+Trading Fixed Maturity Securities
+2,081,507
+
+1,250,161
+
+Mortgage and Other Loan Receivables
+1,611,109
+
+697,402
+
+Other Investments
+103,823
+
+126,008
+
+Funds Withheld Receivable at Interest
+125,887
+
+88,661
+
+Reinsurance Recoverable
+940,731
+
+926,035
+
+Separate Account Assets
+0
+
+0
+
+Total Financial Assets
+24,646,990
+
+18,304,535
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Policy Liabilities (Including Market Risk Benefits)
+1,279,794
+
+1,474,970
+
+Closed Block Policy Liabilities
+988,320
+
+968,554
+
+Funds Withheld Payable at Interest
+(2,797,544)
+
+(2,447,303)
+
+Cash Collateral
+0
+
+0
+
+Total Liabilities at Fair Value
+5,443,451
+
+4,041,894
+
+Fair Value Measured on Recurring Basis | Level III | Insurance | Interest Sensitive Life
+
+Liabilities, at fair value
+
+Embedded Derivative
+491,818
+
+458,302
+
+Fair Value Measured on Recurring Basis | Level III | Insurance | Fixed-Indexed Annuity
+
+Liabilities, at fair value
+
+Embedded Derivative
+5,481,063
+
+3,587,371
+
+Fair Value Measured on Recurring Basis | Level III | Insurance | U.S. Government and Agencies
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+0
+
+0
+
+Trading Fixed Maturity Securities
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Insurance | U.S. State, Municipal and Political Subdivisions
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+0
+
+0
+
+Trading Fixed Maturity Securities
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Insurance | Corporate
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+9,354,150
+
+8,571,003
+
+Trading Fixed Maturity Securities
+1,322,304
+
+656,923
+
+Fair Value Measured on Recurring Basis | Level III | Insurance | Structured Securities
+
+Assets, at fair value:
+
+AFS Fixed Maturity Securities
+2,308,644
+
+1,830,000
+
+Trading Fixed Maturity Securities
+759,203
+
+593,238
+
+Fair Value Measured on Recurring Basis | Level III | Foreign Exchange Contracts and Options | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Other Derivatives | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Equity Market Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Interest Rate Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Foreign Currency Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Other Contracts | Insurance
+
+Assets, at fair value:
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+Liabilities, at fair value
+
+Net Amounts Presented in the Statements of Financial Condition
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Private Equity | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+33,123,449
+
+30,921,574
+
+Fair Value Measured on Recurring Basis | Level III | Credit | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+4,805,408
+
+5,452,916
+
+Fair Value Measured on Recurring Basis | Level III | Investments of Consolidated CFEs | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+0
+
+0
+
+Fair Value Measured on Recurring Basis | Level III | Real Assets | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+12,524,290
+
+11,295,633
+
+Fair Value Measured on Recurring Basis | Level III | Real Assets | Insurance
+
+Assets, at fair value:
+
+Total Investments
+8,121,139
+
+4,815,265
+
+Fair Value Measured on Recurring Basis | Level III | Equity Method - Other | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+1,405,300
+
+1,537,962
+
+Fair Value Measured on Recurring Basis | Level III | Other Investments | Asset Management and Strategic Holdings
+
+Assets, at fair value:
+
+Total Investments
+4,848,851
+
+4,265,768
+
+Fair Value Measured on Recurring Basis | Fair Value Measured at Net Asset Value Per Share | Private Equity | Insurance
+
+Assets, at fair value:
+
+Other Investments
+4,300
+
+5,900
+
+Fair Value Measured on Recurring Basis | Fair Value Measured at Net Asset Value Per Share | Real Assets | Insurance
+
+Assets, at fair value:
+
+Total Investments
+$ 34,500
+
+$ 132,600
+
+X
+
+- DefinitionSecured Debt, Fair Value Disclosure
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_SecuredDebtFairValueDisclosure
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionRepresents the amount of unfunded commitments to private equity and other investment vehicles as of the balance sheet date.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_UnfundedInvestmentCommitments
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of asset recognized for present right to economic benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AssetsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AssetsFairValueDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFor the segregated group of participating or dividend-paying policies and contracts along with the assets backing them (known as a closed block), the total of future policy benefits, policyholder account balance, policyholder dividend obligation and any other closed block liabilities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 805
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478072/944-805-50-3
+
++ Details
+
+ Name:
+us-gaap_ClosedBlockLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount excluding accrued interest, of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479130/326-30-45-1
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleExcludingAccruedInterest
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of liability associated with financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-8
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column F))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssetFairValueGrossLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of liability associated with financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset, and obligation to return cash collateral under master netting arrangements.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -SubTopic 10
+ -Topic 815
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480463/815-10-45-5
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-8
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 21
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-21
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssetFairValueGrossLiabilityAndObligationToReturnCashOffset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after the effects of master netting arrangements, of a financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes assets not subject to a master netting arrangement and not elected to be offset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 103
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-103
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-12
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 11: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477439/946-210-55-1
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 20: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(3)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H)(Footnote 7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(3)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column A)(Footnote 3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
+Reference 27: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 28: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E)(Footnote 4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 29: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 30: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 31: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
+Reference 32: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_DerivativeAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value, after the effects of master netting arrangements, of a financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes liabilities not subject to a master netting arrangement and not elected to be offset.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-3
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 16: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(e))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H)(Footnote 7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column G)(Footnote 8))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5C
+ -Subparagraph (SX 210.12-13C(Column H))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5C
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SX 210.12-13(Column G))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5A
+ -Subparagraph (SX 210.12-13A(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5A
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5B
+ -Subparagraph (SX 210.12-13B(Column E)(Footnote 4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-5B
+
+Reference 27: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 28: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+
+Reference 29: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-10
+
+Reference 30: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilities
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of asset associated with financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset, and right to receive cash collateral under master netting arrangements.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -SubTopic 10
+ -Topic 815
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480463/815-10-45-5
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 8
+ -SubTopic 20
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-8
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 21
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483444/210-20-55-21
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilityFairValueGrossAssetAndRightToReclaimCashOffset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value as of the balance sheet date of the embedded derivative or group of embedded derivatives classified as a liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
++ Details
+
+ Name:
+us-gaap_EmbeddedDerivativeFairValueOfEmbeddedDerivativeLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of the reinsurer's funds held on its behalf by the ceding insurer, including funds held in trust, under reinsurance treaties or contracts with the assuming insurer as security for the payment of the obligations thereunder.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(10))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_FundsHeldUnderReinsuranceAgreementsAsset
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of funds held as security for payments to be received under reinsurance contracts.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FundsHeldUnderReinsuranceAgreementsLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of security sold but not yet purchased.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477439/946-210-55-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-1
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478795/946-210-50-6
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-12A(Column C))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-2
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(9)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.12-12A(Column C)(Footnote 5))
+ -SubTopic 320
+ -Topic 946
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-2
+
++ Details
+
+ Name:
+us-gaap_InvestmentSoldNotYetPurchasedAtFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of investment securities, including, but not limited to, marketable securities, derivative financial instruments, and investments accounted for under the equity method.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_InvestmentsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of financial and nonfinancial obligations.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_LiabilitiesFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_LiabilitiesFairValueDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after effect of reinsurance, of liability for future policy benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29E
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
++ Details
+
+ Name:
+us-gaap_LiabilityForFuturePolicyBenefitAfterReinsurance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of contractual arrangement with a lender under which borrowings can be made up to a specific amount at any point in time.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2E
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_LinesOfCreditFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of loan receivable, including, but not limited to, mortgage loans held for investment, finance receivables held for investment, policy loans on insurance contracts.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-10
+
++ Details
+
+ Name:
+us-gaap_LoansReceivableFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of liability position for contract or contract feature in long-duration contract issued by insurance entity that both protects contract holder from other-than-nominal capital market risk and exposes insurance entity to other-than-nominal capital market risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7B
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7B
+
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29G
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29G
+
++ Details
+
+ Name:
+us-gaap_MarketRiskBenefitLiabilityAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of investments classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(12))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(3)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherInvestments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, after valuation allowance, recoverable under reinsurance contracts including premium paid under reinsurance contracts. Examples include, but are not limited to, settled and unsettled claims, incurred but not reported losses, loss adjustment expense, premium paid, policy benefits and policy reserves.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-5
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 310
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477409/944-310-45-5
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(6))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceRecoverables
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of asset at fair value held for benefit of separate account policyholder.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-17
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-14
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480078/944-80-55-9
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480109/944-80-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480141/944-80-45-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(11))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 80
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480141/944-80-45-2
+
++ Details
+
+ Name:
+us-gaap_SeparateAccountAssets
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of investment in debt security measured at fair value with change in fair value recognized in net income (trading).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481830/320-10-45-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483467/210-10-45-1
+
++ Details
+
+ Name:
+us-gaap_TradingSecuritiesDebt
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_USGovernmentAgenciesDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_USStatesAndPoliticalSubdivisionsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InterestSensitiveLifeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_FixedAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_StructuredFinanceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByMeasurementFrequencyAxis=us-gaap_FairValueMeasurementsRecurringMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=us-gaap_SecuredDebtMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeForwardMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_DerivativeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_EquityContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_OtherContractMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_PrivateEquityFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_FixedIncomeInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=kkr_RealAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=kkr_EquityMethodInvestmentsOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_OtherAggregatedInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_InvestmentTypeAxis=us-gaap_OtherInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel1Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel2Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueMeasuredAtNetAssetValuePerShareMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

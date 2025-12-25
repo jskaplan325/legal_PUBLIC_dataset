@@ -1,0 +1,305 @@
+XML
+42
+R20.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DERIVATIVES
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Derivative Instruments and Hedging Activities Disclosure [Abstract]
+
+DERIVATIVES
+DERIVATIVESAsset Management and Strategic Holdings
+KKR and certain of its consolidated funds have entered into derivative transactions as part of the overall risk management for their investment strategies. These derivative contracts are not designated as hedging instruments for accounting purposes. Such contracts may include forward, swap, and option contracts related to foreign currencies and interest rates to manage foreign exchange risk and interest rate risk arising from certain assets and liabilities. All derivatives are recognized in Other Assets or Accrued Expenses and Other Liabilities and are presented on a gross basis in the consolidated statements of financial condition and measured at fair value with changes in fair value recorded in Net Gains (Losses) from Investment Activities in the accompanying consolidated statements of operations. KKR's derivative financial instruments contain credit risk to the extent that its counterparties may be unable to meet the terms of the agreements. KKR attempts to reduce this risk by limiting its counterparties to major financial institutions with strong credit ratings.
+Insurance
+Global Atlantic holds derivative instruments that are primarily used in its hedge program. Global Atlantic has established a hedge program that seeks to mitigate economic impacts primarily from interest rate and equity price movements, while taking into consideration accounting and capital impacts.
+Global Atlantic hedges interest rate and equity market risks associated with its insurance liabilities including fixed-indexed annuities, indexed universal life policies, variable annuity policies, and variable universal life policies, among others. For fixed-indexed annuities and indexed universal life policies, Global Atlantic generally seeks to use static hedges to offset the exposure primarily created by changes in its embedded derivative balances. Global Atlantic generally purchases options which replicate the crediting rate strategies, often in the form of call spreads. Call spreads are the purchase of a call option matched by the sale of a different call option. For variable annuities and variable universal life policies, Global Atlantic generally seeks to dynamically hedge its exposure to changes in the value of the guarantee it provides to policyholders. Doing so requires the active trading of several financial instruments to respond to changes in market conditions. In addition, Global Atlantic enters into inflation swaps to manage inflation risk associated with inflation-indexed preneed policies.
+In the context of specific reinsurance transactions in the institutional channel or acquisitions, Global Atlantic may also enter into hedges which are designed to limit short-term market risks to the economic value of the target assets. From time to time, Global Atlantic also enters into hedges designed to mitigate interest rate and credit risk in investment income, interest expense, and fair value of assets and liabilities. In addition, Global Atlantic enters into currency swaps and forwards to manage any foreign exchange rate risks that may arise from investments denominated in foreign currencies.
+Global Atlantic attempts to mitigate the risk of loss due to ineffectiveness under these derivative investments through a regular monitoring process which evaluates the program s effectiveness. Global Atlantic monitors its derivative activities by reviewing portfolio activities and risk levels. Global Atlantic also oversees all derivative transactions to ensure that the types of transactions entered into and the results obtained from those transactions are consistent with both Global Atlantic's risk management strategy and its policies and procedures.
+The restricted cash which was held in connection with open derivative transactions with exchange brokers was $135.7 million and $133.0 million as of December 31, 2024 and 2023, respectively.
+Global Atlantic also has embedded derivatives related to reinsurance contracts that are accounted for on a modified coinsurance and funds withheld basis. An embedded derivative exists because the arrangement exposes the reinsurer to third-party credit risk. These embedded derivatives are included in funds withheld receivable and payable at interest in the consolidated statements of financial condition.
+Credit Risk
+Global Atlantic may be exposed to credit-related losses in the event of nonperformance by its counterparties to derivatives. Generally, the current credit exposure of Global Atlantic s derivatives is limited to the positive fair value of derivatives less any collateral received from the counterparty.
+Global Atlantic manages the credit risk on its derivatives by entering into derivative transactions with highly rated financial institutions and other creditworthy counterparties and, where feasible, by trading through central clearing counterparties. Global Atlantic further manages its credit risk on derivatives via the use of master netting agreements, which require the daily posting of collateral by the party in a liability position. Counterparty credit exposure and collateral values are monitored regularly and
+measured against counterparty exposure limits. The provisions of derivative transactions may allow for the termination and settlement of a transaction if there is a downgrade to Global Atlantic s financial strength ratings below a specified level.
+The fair value and notional value of the derivative assets and liabilities were as follows:
+
+As of December 31, 2024 Notional
+Value Derivative
+Assets Derivative
+Liabilities
+Asset Management and Strategic Holdings
+Foreign Exchange Contracts and Options $ 19,452,993 $ 511,513 $ 131,339
+Other Derivatives 455,500 8,444
+Total Asset Management and Strategic Holdings $ 19,908,493 $ 519,957 $ 131,339
+
+Insurance
+Derivatives Designated as Hedge Accounting Instruments:
+Interest Rate Contracts $ 15,490,742 $ 41,578 $ 511,118
+Foreign Currency Contracts 2,541,093 66,774 28,878
+Total Derivatives Designated as Hedge Accounting Instruments $ 18,031,835 $ 108,352 $ 539,996
+Derivatives Not Designated as Hedge Accounting Instruments:
+Equity Market Contracts $ 37,151,092 $ 1,921,164 $ 143,049
+Interest Rate Contracts 29,211,430 206,222 561,452
+Foreign Currency Contracts 2,887,035 108,929 54,679
+Other Contracts 61,508 1,895 194
+
+Total Derivatives Not Designated as Hedge Accounting Instruments $ 69,311,065 $ 2,238,210 $ 759,374
+
+Counterparty Netting(2)
+ (648,549) (648,549)
+Cash Collateral (1,636,662) (261,634)
+Total Insurance(1)
+ $ 87,342,900 $ 61,351 $ 389,187
+
+Fair Value Included Within Total Assets and Liabilities $ 107,251,393 $ 581,308 $ 520,526
+
+(1)Excludes embedded derivatives. The fair value of these embedded derivatives related to assets was $125.9 million and the fair value of these embedded derivatives related to liabilities was $3.2 billion as of December 31, 2024.
+(2)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+As of December 31, 2023
+Notional
+Value Derivative
+Assets Derivative
+Liabilities
+Asset Management and Strategic Holdings
+Foreign Exchange Contracts and Options $ 15,771,463 $ 264,621 $ 441,608
+Other Derivatives 374,604 4,792 2,382
+Total Asset Management and Strategic Holdings $ 16,146,067 $ 269,413 $ 443,990
+
+Insurance
+Derivatives Designated as Hedge Accounting Instruments:
+Interest Rate Contracts $ 7,320,500 $ $ 372,212
+Foreign Currency Contracts 2,302,335 24,278 73,478
+Total Derivatives Designated as Hedge Accounting Instruments $ 9,622,835 $ 24,278 $ 445,690
+Derivatives Not Designated as Hedge Accounting Instruments:
+Equity Market Contracts $ 35,203,206 $ 1,480,875 $ 248,127
+Interest Rate Contracts 22,259,423 284,067 306,244
+Foreign Currency Contracts 1,331,345 65,803 56,616
+Other Contracts 60,000 600
+Total Derivatives Not Designated as Hedge Accounting Instruments $ 58,853,974 $ 1,830,745 $ 611,587
+Counterparty Netting(2)
+ (694,250) (694,250)
+Cash Collateral (1,115,079) (216,830)
+
+Total Insurance(1)
+ $ 68,476,809 $ 45,694 $ 146,197
+
+Fair Value Included Within Total Assets and Liabilities $ 84,622,876 $ 315,107 $ 590,187
+
+(1)Excludes embedded derivatives. The fair value of these embedded derivatives related to assets was $88.7 million and the fair value of these embedded derivatives related to liabilities was $1.6 billion as of December 31, 2023.
+(2)Represents netting of derivative exposures covered by qualifying master netting agreements.
+Derivatives Designated as Accounting Hedges
+Where Global Atlantic has derivative instruments that are designated and qualify as accounting hedges, these derivative instruments receive hedge accounting.
+Fair Value Hedges
+Global Atlantic has designated foreign exchange derivative contracts, including forwards and swaps, to hedge the foreign currency risk associated with foreign currency-denominated bonds in fair value hedges. These foreign currency-denominated bonds are accounted for as AFS fixed maturity securities. Changes in the fair value of the hedged AFS fixed maturity securities due to changes in spot exchange rates are reclassified from AOCI to earnings, which offsets the earnings impact of the spot changes of the foreign exchange derivative contracts, both of which are recognized within investment-related gains (losses). The effectiveness of these hedges is assessed using the spot method. Changes in the fair value of the foreign exchange derivative contracts related to changes in the spot-forward difference are excluded from the assessment of hedge effectiveness and are deferred in AOCI and recognized in earnings using a systematic and rational method over the life of the foreign exchange derivative contracts. The amortized cost of the AFS fixed maturity securities in qualifying foreign exchange fair value hedges was $2.1 billion and $2.3 billion as of December 31, 2024 and 2023, respectively.
+Global Atlantic has designated interest rate swaps to hedge the interest rate risk associated with certain debt and policy liabilities. These fair value hedges generally qualify for the shortcut method of assessing hedge effectiveness. The following table presents the financial statement classification, carrying amount, and cumulative fair value hedging adjustments for qualifying hedged debt and policy liabilities:
+
+ As of December 31, 2024 As of December 31, 2023
+ Carrying Amount of Hedged Liabilities Cumulative Amount of Fair Value Hedging Adjustments Included in the Carrying Amount of Hedged Liabilities(1)
+ Carrying Amount of Hedged Liabilities Cumulative Amount of Fair Value Hedging Adjustments Included in the Carrying Amount of Hedged Liabilities(1)
+
+Debt $ 2,279,261 $ (233,202) $ 1,608,294 $ (165,817)
+Policy Liabilities 4,453,766 (204,435) 4,380,048 (255,308)
+
+(1)Includes $193.3 million and $27.8 million of hedging adjustments on discontinued hedging relationships as of December 31, 2024 and 2023, respectively.
+
+Cash Flow Hedges
+Global Atlantic has designated bond forwards to hedge the interest rate risk associated with the planned purchase of AFS fixed maturity securities in cash flow hedges. These arrangements are hedging purchases through December 2029 and are expected to affect earnings until 2055. Regression analysis is used to assess the effectiveness of these hedges.
+As of December 31, 2024 and 2023, there was a cumulative gain (loss) of $(249.7) million and $(126.9) million, respectively, on the currently designated bond forwards recorded in accumulated other comprehensive income (loss). Amounts deferred in accumulated other comprehensive income (loss) are reclassified to net investment income following the qualifying purchases of AFS securities, as an adjustment to the yield earned over the life of the purchased securities, using the effective interest method.
+Global Atlantic has designated interest rate swaps to hedge the interest rate risk associated with floating rate investments, including AFS fixed maturity securities and commercial mortgage loans. Regression analysis is used to assess the effectiveness of these hedges.
+As of December 31, 2024, there was a cumulative gain (loss) of $(60.8) million on the currently designated interest rate swaps recorded in accumulated other comprehensive income (loss). Amounts deferred in accumulated other comprehensive gain (loss) are reclassified to net investment income in the same period during which the hedged investments affect earnings.
+For all cash flow hedges, Global Atlantic estimates that the amount of gains/losses in accumulated other comprehensive income (loss) to be reclassified into earnings in the next 12 months will not be material.
+Net Investment Hedges
+Global Atlantic has designated cross currency swaps to hedge the foreign currency risk associated with certain foreign currency-denominated equity method investments in net investment hedges. The effectiveness of these hedges is assessed based on changes in spot rates.
+Changes in the fair value of the swaps are recognized in other comprehensive income, consistent with the translation adjustment for the hedged investment. The component comprising the difference between forward rates and spot rates is amortized to net investment income over the life of the swaps. As of December 31, 2024, the cumulative foreign currency translation gain (loss) recorded in accumulated other comprehensive income related to net investment hedges was $(25.3) million.
+Derivative Results
+The following table presents the financial statement classification and amount of gains (losses) recognized on derivative instruments and related hedged items, where applicable. None of the Asset Management and Strategic Holdings derivatives are designated as hedge accounting instruments. The table below includes only derivatives held by Global Atlantic.
+
+ Year Ended December 31, 2024
+ Net Investment-Related Gains (Losses) Net Investment Income Net Policy Benefits and Claims Interest Expense Change in AOCI
+Derivatives Designated as Hedge Accounting Instruments:
+Fair Value Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments:
+Interest Rate Contracts $ $ $ (108,622) $ (134,580) $
+Foreign Currency Contracts 119,618 4,551 (10,977)
+Total Gains (Losses) on Derivatives Designated as Hedge Instruments $ 119,618 $ 4,551 $ (108,622) $ (134,580) $ (10,977)
+Gains (Losses) on Hedged Items:
+Interest Rate Contracts $ $ $ 108,622 $ 134,580 $
+Foreign Currency Contracts (117,318)
+Total Gains (Losses) on Hedged Items $ (117,318) $ $ 108,622 $ 134,580 $
+Amortization for Gains (Losses) Excluded from Assessment of Effectiveness:
+Foreign Currency Contracts $ 20,145 $ $ $ $
+Total Amortization for Gains (Losses) Excluded from Assessment of Effectiveness $ 20,145 $ $ $ $
+Total Gains (Losses) on Fair Value Hedges, Net of Hedged Items $ 22,445 $ 4,551 $ $ $ (10,977)
+Cash Flow Hedges
+Interest Rate Contracts $ $ (6,043) $ $ $ (183,626)
+Total Gains (Losses) on Cash Flow Hedges $ $ (6,043) $ $ $ (183,626)
+Net Investment Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments $ $ 1,388 $ $ $ (25,344)
+
+Total Gains (Losses) on Net Investment Hedges $ $ 1,388 $ $ $ (25,344)
+Derivatives Not Designated as Hedge Accounting Instruments:
+
+Insurance
+Embedded Derivatives - Funds Withheld Receivable $ 37,226 $ $ $ $
+Embedded Derivatives - Funds Withheld Payable 350,241
+Equity Index Options 567,543
+Equity Future Contracts (87,484)
+Interest Rate Contracts (569,315)
+
+Foreign Exchange and Other Derivative Contracts 99,271
+Total Gains (Losses) on Derivatives Not Designated as Hedge Accounting Instruments from Insurance Activities $ 397,482 $ $ $ $
+Total $ 419,927 $ (104) $ $ $ (219,947)
+
+ Year Ended December 31, 2023
+ Net Investment-Related Gains (Losses) Net Investment Income Net Policy Benefits and Claims Interest Expense Change in AOCI
+Derivatives Designated as Hedge Accounting Instruments:
+Fair Value Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments:
+Interest Rate Contracts $ $ $ (53,870) $ (20,410) $
+Foreign Currency Contracts (88,384) 9,119
+Total Gains (Losses) on Derivatives Designated as Hedge Instruments $ (88,384) $ $ (53,870) $ (20,410) $ 9,119
+Gains (Losses) on Hedged Items:
+Interest Rate Contracts $ $ $ 53,870 $ 20,410 $
+Foreign Currency Contracts 80,210
+Total Gains (Losses) on Hedged Items $ 80,210 $ $ 53,870 $ 20,410 $
+Amortization for Gains (Losses) Excluded from Assessment of Effectiveness:
+Foreign Currency Contracts $ 28,345 $ $ $ $
+Total Amortization for Gains (Losses) Excluded from Assessment of Effectiveness $ 28,345 $ $ $ $
+Total Gains (Losses) on Fair Value Hedges, Net of Hedged Items $ 20,171 $ $ $ $ 9,119
+Cash Flow Hedges
+Interest Rate Contracts $ $ (1,381) $ $ $ 33,446
+Total Gains (Losses) on Cash Flow Hedges $ $ (1,381) $ $ $ 33,446
+Derivatives Not Designated as Hedge Accounting Instruments:
+Insurance
+Embedded Derivatives - Funds Withheld Receivable $ 75,876 $ $ $ $
+Embedded Derivatives - Funds Withheld Payable (1,040,463)
+Equity Index Options 482,121
+Equity Future Contracts (116,766)
+Interest Rate and Foreign Exchange Contracts (101,376)
+
+Other (280)
+Total Gains (Losses) on Derivatives Not Designated as Hedge Accounting Instruments from Insurance Activities $ (700,888) $ $ $ $
+Total $ (680,717) $ (1,381) $ $ $ 42,565
+
+ Year Ended December 31, 2022
+ Net Investment-Related Gains (Losses) Net Investment Income Net Policy Benefits and Claims Interest Expense Change in AOCI
+Derivatives Designated as Hedge Accounting Instruments:
+Fair Value Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments:
+Interest Rate Contracts $ $ $ (382,376) $ (177,855) $
+Foreign Currency Contracts 64,945 (6,784)
+Total Gains (Losses) on Derivatives Designated as Hedge Instruments $ 64,945 $ $ (382,376) $ (177,855) $ (6,784)
+Gains (Losses) on Hedged Items:
+Interest Rate Contracts $ $ $ 382,376 $ 177,855 $
+Foreign Currency Contracts (61,785)
+Total Gains (Losses) on Hedged Items $ (61,785) $ $ 382,376 $ 177,855 $
+Amortization for Gains (Losses) Excluded from Assessment of Effectiveness:
+Foreign Currency Contracts $ 14,737 $ $ $ $
+Total Amortization for Gains (Losses) Excluded from Assessment of Effectiveness $ 14,737 $ $ $ $
+Total Gains (Losses) on Fair Value Hedges, Net of Hedged Items $ 17,897 $ $ $ $ (6,784)
+Cash Flow Hedges
+Interest Rate Contracts $ 1,032 $ $ $ $ (169,785)
+Total Gains (Losses) on Cash Flow Hedges $ 1,032 $ $ $ $ (169,785)
+Derivatives Not Designated as Hedge Accounting Instruments:
+Insurance
+Embedded Derivatives - Funds Withheld Receivable $ (29,390) $ $ $ $
+Embedded Derivatives - Funds Withheld Payable 3,448,710
+Equity Index Options (895,602)
+Equity Future Contracts 167,924
+Interest Rate and Foreign Exchange Contracts (333,937)
+Credit Risk Contracts (108)
+Other (29,779)
+Total Gains (Losses) on Derivatives Not Designated as Hedge Accounting Instruments from Insurance Activities $ 2,327,818 $ $ $ $
+Total $ 2,346,747 $ $ $ $ (176,569)
+
+Collateral
+The amount of Global Atlantic's net derivative assets and liabilities after consideration of collateral received or pledged were as follows:
+
+As of December 31, 2024 Gross Amount Recognized Gross Amounts Offset in the Statements of Financial Position(1)
+ Net Amounts Presented in the Statements of Financial Condition Collateral (Received) / Pledged Net Amount after Collateral
+Derivative Assets (Excluding Embedded Derivatives) $ 2,346,562 $ (2,285,211) $ 61,351 $ (157,782) $ (96,431)
+Derivative Liabilities (Excluding Embedded Derivatives) $ 1,299,370 $ (910,183) $ 389,187 $ 504,665 $ (115,478)
+
+(1)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+As of December 31, 2023 Gross Amount Recognized Gross Amounts Offset in the Statements of Financial Position(1)
+ Net Amounts Presented in the Statements of Financial Condition Collateral (Received) / Pledged Net Amount after Collateral
+Derivative Assets (Excluding Embedded Derivatives) $ 1,855,023 $ (1,809,329) $ 45,694 $ (45,095) $ 599
+Derivative Liabilities (Excluding Embedded Derivatives) $ 1,057,277 $ (911,080) $ 146,197 $ 167,973 $ (21,776)
+
+(1)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for derivative instruments and hedging activities including, but not limited to, risk management strategies, non-hedging derivative instruments, assets, liabilities, revenue and expenses, and methodologies and assumptions used in determining the amounts.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480237/815-40-50-5
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5C
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-5C
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 815
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/815/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,396 @@
+XML
+96
+R67.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Realized and Net Change in Unrealized Gains (Losses) on Financial Instruments on Financial Instruments on Which Fair Value Option was Elected (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Realized Gains (Losses) | Debt Securities
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+
+$ (22,240)
+
+Realized Gains (Losses) | Assets
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+$ 754
+
+$ (15,555)
+
+(10,688)
+
+Realized Gains (Losses) | Loans and Receivables
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+(4,849)
+
+(8,053)
+
+(10,733)
+
+Realized Gains (Losses) | Equity and Preferred Securities
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+9,431
+
+(1,439)
+
+22,285
+
+Realized Gains (Losses) | Corporate Loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+(3,828)
+
+(6,063)
+
+0
+
+Net Change In Unrealized Gains (Losses) | Debt Securities
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+(2,694)
+
+(3,884)
+
+(19,490)
+
+Net Change In Unrealized Gains (Losses) | Assets
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+(48,002)
+
+(112,875)
+
+(111,292)
+
+Net Change In Unrealized Gains (Losses) | Loans and Receivables
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+12
+
+4,886
+
+(464)
+
+Net Change In Unrealized Gains (Losses) | Liabilities
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+3,074
+
+7,162
+
+(7,508)
+
+Net Change In Unrealized Gains (Losses) | Equity and Preferred Securities
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+(48,209)
+
+(122,605)
+
+(91,338)
+
+Net Change In Unrealized Gains (Losses) | Corporate Loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+2,889
+
+8,728
+
+0
+
+Net Change In Unrealized Gains (Losses) | CLO Notes Payable
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+2,178
+
+282
+
+0
+
+Net Change In Unrealized Gains (Losses) | Corporate Treasury Commitments
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Realized and net change in unrealized gains (losses) on financial instruments
+$ 896
+
+$ 6,880
+
+$ (7,508)
+
+X
+
+- DefinitionFor each line item in the statement of financial position, the amounts of gains and losses from fair value changes included in earnings.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 825
+ -SubTopic 10
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionChangesInFairValueGainLoss1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-31
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionQuantitativeDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeStatementLocationAxis=bx_RealizedGainsLossesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_DebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_AssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_LoansReceivableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_EquityAndPreferredSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_IncomeStatementLocationAxis=bx_NetChangeInUnrealizedGainsLossesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByAssetClassAxis=us-gaap_LiabilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_LiabilitiesOfConsolidatedCloVehiclesNotesPayableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_CorporateTreasuryCommitmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

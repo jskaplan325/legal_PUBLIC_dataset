@@ -1,0 +1,253 @@
+XML
+120
+R97.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Related Party Transactions - Due from Affiliates and Other Receivables (Details) - USD ($)
+ $ in Millions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Related Party Transaction [Line Items]
+
+Due from affiliates and other receivables, net
+$ 805.6
+
+$ 691.6
+
+Affiliates
+
+Related Party Transaction [Line Items]
+
+Due from affiliates and other receivables, net
+805.6
+
+691.6
+
+Accrued incentive fees | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due from affiliates and other receivables, net
+33.7
+
+22.9
+
+Unbilled receivable for giveback obligations from current and former employees | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due from affiliates and other receivables, net
+11.5
+
+11.5
+
+Notes receivable and accrued interest from affiliates | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due from affiliates and other receivables, net
+46.2
+
+44.2
+
+Management fee receivable, net | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due from affiliates and other receivables, net
+296.4
+
+277.8
+
+Reimbursable expenses and other receivables from unconsolidated funds and affiliates, net | Affiliates
+
+Related Party Transaction [Line Items]
+
+Due from affiliates and other receivables, net
+$ 417.8
+
+$ 335.2
+
+X
+
+- DefinitionAmount, after allowance, of receivables classified as other, due within one year or the operating cycle, if longer.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OtherReceivablesNetCurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_AffiliatedEntityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_AccruedIncentiveFeeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_GIvebackObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_NotesReceivableAndAccruedInterestMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_ManagementFeeReceivableNetMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=cg_ReimbursableExpensesAndOtherReceivablesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

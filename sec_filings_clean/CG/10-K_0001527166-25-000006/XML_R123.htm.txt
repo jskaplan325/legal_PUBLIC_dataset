@@ -1,0 +1,321 @@
+XML
+146
+R123.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Segment Reporting - Adjustments for Performance Fees, Performance Fee Related Compensation and Investment Income (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting Information [Line Items]
+
+Investment income (loss)
+$ 2,254.4
+
+$ 44.8
+
+$ 1,898.0
+
+Performance revenues related compensation expense
+1,361.5
+
+1,103.7
+
+719.9
+
+Performance allocations
+
+Segment Reporting Information [Line Items]
+
+Investment income (loss)
+2,015.7
+
+(88.6)
+
+1,327.5
+
+Performance revenues related compensation expense
+1,361.5
+
+1,103.7
+
+719.9
+
+Net performance revenues
+654.2
+
+(1,192.3)
+
+607.6
+
+Performance allocations | Adjustments
+
+Segment Reporting Information [Line Items]
+
+Investment income (loss)
+(939.8)
+
+1,026.9
+
+653.2
+
+Performance revenues related compensation expense
+(651.7)
+
+(696.4)
+
+262.3
+
+Net performance revenues
+(288.1)
+
+1,723.3
+
+390.9
+
+Performance allocations | Total Reportable Segments | Global Segments
+
+Segment Reporting Information [Line Items]
+
+Investment income (loss)
+1,075.9
+
+938.3
+
+1,980.7
+
+Performance revenues related compensation expense
+709.8
+
+407.3
+
+982.2
+
+Net performance revenues
+366.1
+
+531.0
+
+998.5
+
+Principal investment income
+
+Segment Reporting Information [Line Items]
+
+Investment income (loss)
+238.7
+
+133.4
+
+570.5
+
+Principal investment income | Adjustments
+
+Segment Reporting Information [Line Items]
+
+Investment income (loss)
+(137.7)
+
+(44.6)
+
+(419.9)
+
+Principal investment income | Total Reportable Segments | Global Segments
+
+Segment Reporting Information [Line Items]
+
+Investment income (loss)
+$ 101.0
+
+$ 88.8
+
+$ 150.6
+
+X
+
+- DefinitionRepresents the amount of total performance fee revenue less performance fee-related compensation expense.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_NetPerformanceFees
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance Allocations And Incentive Fee Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PerformanceAllocationsAndIncentiveFeeExpense
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of revenue that is not accounted for under Topic 606.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(1))
+ -SubTopic 10
+ -Topic 220
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_RevenueNotFromContractWithCustomer
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=cg_PerformanceAllocationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_IntersegmentEliminationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=cg_PrincipalInvestmentIncomeLossMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

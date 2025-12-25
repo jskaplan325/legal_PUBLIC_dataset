@@ -1,0 +1,445 @@
+XML
+89
+R66.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Investment in NGP (Additional Information) (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Schedule of Equity Method Investments [Line Items]
+
+Amortization period of basis difference
+10 years
+
+Percentage of carried interest income allocated to partnership for future carry funds
+47.50%
+
+Minimum
+
+Schedule of Equity Method Investments [Line Items]
+
+Performance allocations, carry funds, percentage (percent)
+40.00%
+
+Minimum | Total investments in NGP
+
+Schedule of Equity Method Investments [Line Items]
+
+Management fee - percentage of commitments
+1.00%
+
+Management fee - percentage of invested capital
+0.50%
+
+Maximum
+
+Schedule of Equity Method Investments [Line Items]
+
+Performance allocations, carry funds, percentage (percent)
+42.75%
+
+Maximum | Total investments in NGP
+
+Schedule of Equity Method Investments [Line Items]
+
+Management fee - percentage of commitments
+2.00%
+
+Management fee - percentage of invested capital
+2.00%
+
+Investment in NGP Management | Management Fee Related Revenues
+
+Schedule of Equity Method Investments [Line Items]
+
+Percentage of income allocated under partnership investment
+55.00%
+
+Total investments in NGP
+
+Schedule of Equity Method Investments [Line Items]
+
+Performance fees, income (loss)
+$ 35.5
+
+$ 65.5
+
+$ 560.7
+
+Investment income, income (loss)
+$ 5.0
+
+$ 8.0
+
+$ 44.5
+
+X
+
+- DefinitionAmortization period of Partnership's basis difference in the underlying net assets of NGP.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_AmortizationPeriodOfBasisDifference
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionInvestment Income, Income (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_InvestmentIncomeIncomeLoss
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement Fee, Percentage Of Commitments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ManagementFeePercentageOfCommitments
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement Fee, Percentage Of Invested Capital
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ManagementFeePercentageOfInvestedCapital
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage of carried interest income to be allocated to partnership for future interests in future carry funds.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PercentageOfCarriedInterestIncomeAllocatedToPartnershipForFutureCarryFunds
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage Of Carried Interest Income Allocated To Partnership For Various Funds
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PercentageOfCarriedInterestIncomeAllocatedToPartnershipForVariousFunds
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage of income allocated under partnership investment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PercentageOfIncomeAllocatedUnderPartnershipInvestment
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance Fees, Income (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PerformanceFeesIncomeLoss
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(g)(1)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 28
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEquityMethodInvestmentsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_NGPManagementCompanyLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_NGPManagementMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PartnerTypeOfPartnersCapitalAccountAxis=cg_ManagementFeeRelatedRevenuesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_NGPManagementCompanyLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

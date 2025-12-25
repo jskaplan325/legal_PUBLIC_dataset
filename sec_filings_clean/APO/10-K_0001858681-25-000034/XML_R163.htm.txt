@@ -1,0 +1,228 @@
+XML
+193
+R163.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Segments - Schedule of Revenue from External Customers by Geographic Areas (Details) - Revenue Benchmark - Geographic Concentration Risk
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting, Reconciling Item for Operating Profit (Loss) from Segment to Consolidated [Line Items]
+
+Percentage of revenue (as percent)
+100.00%
+
+100.00%
+
+100.00%
+
+Americas
+
+Segment Reporting, Reconciling Item for Operating Profit (Loss) from Segment to Consolidated [Line Items]
+
+Percentage of revenue (as percent)
+88.00%
+
+91.00%
+
+86.00%
+
+Europe, Middle East and Africa
+
+Segment Reporting, Reconciling Item for Operating Profit (Loss) from Segment to Consolidated [Line Items]
+
+Percentage of revenue (as percent)
+11.00%
+
+8.00%
+
+12.00%
+
+Asia-Pacific
+
+Segment Reporting, Reconciling Item for Operating Profit (Loss) from Segment to Consolidated [Line Items]
+
+Percentage of revenue (as percent)
+1.00%
+
+1.00%
+
+2.00%
+
+X
+
+- DefinitionFor an entity that discloses a concentration risk in relation to quantitative amount, which serves as the "benchmark" (or denominator) in the equation, this concept represents the concentration percentage derived from the division.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 825
+ -SubTopic 10
+ -Section 50
+ -Paragraph 21
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-21
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 825
+ -SubTopic 10
+ -Section 50
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-20
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -SubTopic 10
+ -Section 50
+ -Paragraph 18
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-18
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -SubTopic 10
+ -Section 50
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-20
+
++ Details
+
+ Name:
+us-gaap_ConcentrationRiskPercentage1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingReconcilingItemForOperatingProfitLossFromSegmentToConsolidatedLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_ConcentrationRiskByBenchmarkAxis=us-gaap_SalesRevenueNetMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ConcentrationRiskByTypeAxis=us-gaap_GeographicConcentrationRiskMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=srt_AmericasMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=us-gaap_EMEAMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_StatementGeographicalAxis=srt_AsiaPacificMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

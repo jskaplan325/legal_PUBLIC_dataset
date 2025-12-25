@@ -1,0 +1,323 @@
+XML
+133
+R61.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DEBT - Schedule of Debt Issuance Costs (Details) - Ares Management L.P - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Credit Facility
+
+Debt Issuance Costs
+
+Unamortized debt issuance costs, beginning balance
+$ 4,213
+
+$ 5,510
+
+Debt issuance costs incurred
+1,832
+
+0
+
+Amortization of debt issuance costs
+(1,187)
+
+(1,297)
+
+Unamortized debt issuance costs, ending balance
+4,858
+
+4,213
+
+Senior Notes
+
+Debt Issuance Costs
+
+Unamortized debt issuance costs, beginning balance
+11,784
+
+8,393
+
+Debt issuance costs incurred
+8,662
+
+4,315
+
+Amortization of debt issuance costs
+(1,721)
+
+(924)
+
+Unamortized debt issuance costs, ending balance
+18,725
+
+11,784
+
+Subordinated Notes
+
+Debt Issuance Costs
+
+Unamortized debt issuance costs, beginning balance
+5,059
+
+5,243
+
+Debt issuance costs incurred
+0
+
+0
+
+Amortization of debt issuance costs
+(184)
+
+(184)
+
+Unamortized debt issuance costs, ending balance
+$ 4,875
+
+$ 5,059
+
+X
+
+- DefinitionDebt Issuance Costs [Roll Forward]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_DebtIssuanceCostsRollForward
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of amortization expense attributable to debt issuance costs.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(8))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1F
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1F
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-3
+
++ Details
+
+ Name:
+us-gaap_AmortizationOfFinancingCosts
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, after accumulated amortization, of debt issuance costs. Includes, but is not limited to, legal, accounting, underwriting, printing, and registration costs.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-1A
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482925/835-30-45-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 835
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482900/835-30-50-1
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 470
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1D
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481139/470-20-50-1D
+
++ Details
+
+ Name:
+us-gaap_DeferredFinanceCostsNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe cash outflow paid to third parties in connection with debt origination, which will be amortized over the remaining maturity period of the associated long-term debt.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 45
+ -Paragraph 15
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-15
+
++ Details
+
+ Name:
+us-gaap_PaymentsOfDebtIssuanceCosts
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_CreditFacilityOfCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_SeniorNotesOfTheCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=ares_SubordinatedNotesOfTheCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

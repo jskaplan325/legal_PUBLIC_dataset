@@ -1,0 +1,218 @@
+XML
+205
+R183.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+COMMITMENTS AND CONTINGENCIES - Schedule of Purchase Obligations (Details)
+ $ in Thousands
+
+Dec. 31, 2024
+
+USD ($)
+
+Commitments and Contingencies Disclosure [Abstract]
+
+2025
+$ 35,659
+
+2026
+31,329
+
+2027
+21,830
+
+2028
+12,537
+
+2029
+11,160
+
+Thereafter
+54,913
+
+Total
+$ 167,428
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CommitmentsAndContingenciesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionMinimum amount of purchase arrangement in which the entity has agreed to expend funds to procure goods or services from a supplier.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PurchaseObligation
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of purchase arrangement to be paid after fifth fiscal year following current fiscal year. Includes, but is not limited to, recorded and unrecorded purchase obligations, long-term purchase commitment, and short-term purchase commitment. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PurchaseObligationDueAfterFifthYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of purchase arrangement to be paid in fifth fiscal year following current fiscal year. Includes, but is not limited to, recorded and unrecorded purchase obligations, long-term purchase commitment, and short-term purchase commitment. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PurchaseObligationDueInFifthYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of purchase arrangement to be paid in fourth fiscal year following current fiscal year. Includes, but is not limited to, recorded and unrecorded purchase obligations, long-term purchase commitment, and short-term purchase commitment. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PurchaseObligationDueInFourthYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of purchase arrangement to be paid in next fiscal year following current fiscal year. Includes, but is not limited to, recorded and unrecorded purchase obligations, long-term purchase commitment, and short-term purchase commitment. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PurchaseObligationDueInNextTwelveMonths
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of purchase arrangement to be paid in second fiscal year following current fiscal year. Includes, but is not limited to, recorded and unrecorded purchase obligations, long-term purchase commitment, and short-term purchase commitment. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PurchaseObligationDueInSecondYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of purchase arrangement to be paid in third fiscal year following current fiscal year. Includes, but is not limited to, recorded and unrecorded purchase obligations, long-term purchase commitment, and short-term purchase commitment. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PurchaseObligationDueInThirdYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant

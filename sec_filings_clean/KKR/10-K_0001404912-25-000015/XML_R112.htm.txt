@@ -1,0 +1,447 @@
+XML
+134
+R112.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+FAIR VALUE OPTION - Financial Instruments (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+$ 33,969,566
+
+$ 30,326,496
+
+Liabilities
+28,416,687
+
+26,598,959
+
+Asset Management and Strategic Holdings
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+30,798,122
+
+28,470,182
+
+Liabilities
+27,150,809
+
+25,276,404
+
+Insurance
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+3,171,444
+
+1,856,314
+
+Liabilities
+1,265,878
+
+1,322,555
+
+Credit | Asset Management and Strategic Holdings
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+1,310,984
+
+976,978
+
+Investments of Consolidated CFEs | Asset Management and Strategic Holdings
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+27,488,538
+
+24,996,298
+
+Real Assets | Asset Management and Strategic Holdings
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+55,087
+
+59,721
+
+Real Assets | Insurance
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+471,498
+
+169,407
+
+Equity Method - Other | Asset Management and Strategic Holdings
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+1,832,534
+
+2,283,588
+
+Other Investments | Asset Management and Strategic Holdings
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+110,979
+
+153,597
+
+Other Investments | Insurance
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+47,944
+
+63,470
+
+Fixed Maturity Securities | Insurance
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+100,162
+
+0
+
+Mortgage and Other Loan Receivables | Insurance
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+1,611,109
+
+697,402
+
+Reinsurance Recoverable | Insurance
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Assets
+940,731
+
+926,035
+
+Debt Obligations of Consolidated CFEs | Asset Management and Strategic Holdings
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Liabilities
+27,150,809
+
+25,276,404
+
+Policy Liabilities | Insurance
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Liabilities
+$ 1,265,878
+
+$ 1,322,555
+
+X
+
+- DefinitionFair Value, Option, Assets
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionAssets
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair Value, Option, Liabilities
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FairValueOptionLiabilities
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-31
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionQuantitativeDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementAndStrategicHoldingsSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_InsuranceSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_FixedIncomeInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CollateralizedLoanObligationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=kkr_RealAssetsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=kkr_EquityMethodInvestmentsOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_FairValueOptionOtherEligibleItemsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_DebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_MortgageReceivablesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_ReinsuranceRecoverableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_SecuredDebtMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=kkr_LiabilityForClaimsAndClaimsAdjustmentExpenseMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

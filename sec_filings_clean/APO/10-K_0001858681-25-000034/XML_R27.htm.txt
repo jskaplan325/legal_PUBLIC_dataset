@@ -1,0 +1,185 @@
+XML
+57
+R27.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Commitments and Contingencies
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Commitments and Contingencies Disclosure [Abstract]
+
+Commitments and Contingencies
+19. Commitments and Contingencies
+
+Investment Commitments
+
+The Company has unfunded capital commitments of $564 million as of December 31, 2024 related to the funds it manages. Separately, Athene had commitments to make investments, inclusive of related party commitments discussed previously and those of its consolidated VIEs, of $24.0 billion as of December 31, 2024. Athene s commitments primarily include capital contributions to investment funds and mortgage loan commitments. The Company expects most of the current commitments will be invested over the next five years; however, these commitments could become due any time upon counterparty request.
+
+Contingent Obligations
+
+Performance allocations with respect to certain funds are subject to reversal in the event of future losses to the extent of the cumulative revenues recognized in income to date. If all of the existing investments became worthless, the amount of cumulative revenues that have been recognized by Apollo through December 31, 2024 and that could be reversed approximates $5.5 billion. Performance allocations are affected by changes in the fair values of the underlying investments in the funds that Apollo manages. Valuations, on an unrealized basis, can be significantly affected by a variety of external factors including, but not limited to, bond yields and industry trading multiples. Movements in these items can affect valuations quarter to quarter even if the underlying business fundamentals remain stable. Management views the possibility of all of the investments becoming worthless as remote.
+Additionally, at the end of the life of certain funds, Apollo may be obligated as general partner, to repay the funds performance allocations received in excess of what was ultimately earned. This obligation amount, if any, will depend on final realized values of investments at the end of the life of each fund or as otherwise set forth in the partnership agreement of the fund.
+
+Certain funds may not generate performance allocations as a result of unrealized and realized losses that are recognized in the current and prior reporting periods. In certain cases, performance allocations will not be generated until additional unrealized and realized gains occur. Any appreciation would first cover the deductions for invested capital, unreturned organizational expenses, operating expenses, management fees and priority returns based on the terms of the respective fund agreements.
+
+One of Apollo s subsidiaries, AGS, provides underwriting commitments in connection with securities offerings of related parties of Apollo, including portfolio companies of the funds Apollo manages, as well as third parties. As of December 31, 2024, there were no open underwriting commitments.
+
+The Company, along with a third-party institutional investor, has committed to provide financing to a consolidated VIE that invests across Apollo s capital markets platform (such VIE, the Apollo Capital Markets Partnership ). Pursuant to these arrangements, the Company has committed equity financing to the Apollo Capital Markets Partnership. The Apollo Capital Markets Partnership also has a revolving credit facility with Sumitomo Mitsui Banking Corporation, as lead arranger, administrative agent and letter of credit issuer, Mizuho Bank Ltd., and other lenders party thereto, pursuant to which it may borrow up to $2.5 billion. The revolving credit facility, which has a final maturity date of April 1, 2025, is non-recourse to the Company, except that the Company provided customary comfort letters with respect to its capital contributions to the Apollo Capital Markets Partnership. As of December 31, 2024, the Apollo Capital Markets Partnership had funded commitments of $1.2 billion, on a net basis, to transactions across Apollo s capital markets platform, all of which were funded through the revolving credit facility and other asset-based financing. No capital had been funded by the Company to the Apollo Capital Markets Partnership pursuant to its commitment.
+
+Whether the commitments of the Apollo Capital Markets Partnership are actually funded, in whole or in part, depends on the contractual terms of such commitments, including the satisfaction or waiver of any conditions to closing or funding. It is expected that between the time the Apollo Capital Markets Partnership makes a commitment and funding of such commitment, efforts will be made to syndicate such commitment to, among others, third parties, which should reduce its risk when committing to certain transactions. The Apollo Capital Markets Partnership may also, with respect to a particular transaction, enter into other arrangements with third parties which reduce its commitment risk.
+
+In connection with the acquisition of Stone Tower in 2012, Apollo agreed to pay its former owners a specified percentage of future performance revenues earned from certain of its funds, CLOs, and strategic investment accounts. This obligation was determined based on the present value of estimated future performance revenue payments and is recorded in other liabilities. The fair value of the remaining contingent obligation was $67 million and $67 million as of December 31, 2024 and December 31, 2023, respectively. This contingent consideration obligation is remeasured to fair value at each reporting period until the obligations are satisfied. The changes in the fair value of the Stone Tower contingent consideration obligation is reflected in profit sharing expense within compensation and benefits in the consolidated statements of operations.
+
+In connection with the acquisition of Griffin Capital s U.S. asset management business on May 3, 2022, Apollo agreed to pay its former owners certain share-based consideration contingent on specified AUM and capital raising thresholds. This obligation was determined based on the present value of estimated future performance relative to such thresholds and is recorded in other liabilities.
+
+As of December 31, 2023, the fair value of the remaining contingent obligation was $26 million. During the second quarter of 2024, the specified capital raise thresholds were achieved and the Company issued 742,742 shares of common stock to settle the share-based consideration obligation to Griffin Capital s former owners. As of December 31, 2024, the remaining contingent obligation based on the specified AUM threshold was not met and the contingent obligation expired without satisfaction, therefore, there is no remaining contingent obligation outstanding. The Company recorded a loss of $58 million related to these contingent obligations in 2024. The changes in the fair value of the Griffin Capital contingent consideration obligation were reflected in other income (loss) in the consolidated statements of income through December 31, 2024.
+Funding Agreements
+
+Athene is a member of the Federal Home Loan Bank of Des Moines ( FHLB ) and, through its membership, has issued funding agreements to the FHLB in exchange for cash advances. As of December 31, 2024 and 2023, Athene had $15.6 billion and $6.5 billion, respectively, of FHLB funding agreements outstanding. Athene is required to provide collateral in excess of the funding agreement amounts outstanding, considering any discounts to the securities posted and prepayment penalties.
+
+Athene has a funding agreement backed notes ( FABN ) program, which allows Athene Global Funding, a special purpose, unaffiliated statutory trust, to offer its senior secured medium-term notes. Athene Global Funding uses the net proceeds from each sale to purchase one or more funding agreements from Athene. As of December 31, 2024 and 2023, Athene had $24.1 billion and $19.9 billion, respectively, of FABN funding agreements outstanding. Athene had $10.2 billion of board-authorized FABN capacity remaining as of December 31, 2024.
+
+Athene also issues secured and other funding agreements. Secured funding agreements involve special-purpose, unaffiliated entities entering into repurchase agreements with a third party, the proceeds of which are used by the special-purpose entities to purchase funding agreements from Athene. As of December 31, 2024 and 2023, Athene had $14.8 billion and $6.0 billion, respectively, of secured and other funding agreements outstanding.
+
+Pledged Assets and Funds in Trust (Restricted Assets)
+
+Athene s total restricted assets included on the consolidated statements of financial condition are as follows:
+
+(In millions) December 31, 2024 December 31, 2023
+AFS securities $ 46,337 $ 32,458
+Trading securities 1,665 139
+Equity securities 286 80
+Mortgage loans 27,883 14,257
+Investment funds 777 409
+Derivative assets 91 73
+Short-term investments 2 153
+Other investments 1,507 313
+Restricted cash and cash equivalents 953 1,761
+Total restricted assets $ 79,501 $ 49,643
+
+The restricted assets are primarily related to reinsurance trusts established in accordance with coinsurance agreements and the FHLB and secured funding agreements described above.
+
+Letters of Credit
+
+Athene has undrawn letters of credit totaling $1.3 billion as of December 31, 2024. These letters of credit were issued for Athene s reinsurance program and have expirations through May 22, 2028.
+
+Atlas
+
+In connection with the Company and CS s previously announced transaction, whereby Atlas acquired certain assets of the CS Securitized Products Group, two subsidiaries of the Company have each issued an assurance letter to CS to guarantee the full five year deferred purchase obligation of Atlas in the amount of $3.3 billion. In March 2024, in connection with Atlas concluding its investment management agreement with CS, the deferred purchase obligation amount was reduced to $2.5 billion. In addition, certain strategic investors have made equity commitments to Atlas which therefore obligates these investors for a portion of the deferred purchase obligation. The Company s guarantee is not probable of payment, therefore, there is no liability on the Company s consolidated financial statements.
+Litigation and Regulatory Matters
+
+The Company is party to various legal actions arising from time to time in the ordinary course of business, including claims and lawsuits, arbitrations, reviews, investigations or proceedings by governmental and self-regulatory agencies regarding the Company s business.
+
+On December 21, 2017, several entities referred to collectively as Harbinger commenced an action in New York Supreme Court captioned Harbinger Capital Partners II LP et al. v. Apollo Global Management LLC, et al. (No. 657515/2017). The complaint named as defendants AAM, and funds managed by Apollo that invested in SkyTerra Communications, Inc. ( SkyTerra ), among others. The complaint alleged that during the period of Harbinger s various equity and debt investments in SkyTerra from 2004 to 2010, the defendants concealed from Harbinger material defects in SkyTerra technology. The complaint further alleged that Harbinger would not have made investments in SkyTerra totaling approximately $1.9 billion had it known of the defects, and that the public disclosure of these defects ultimately led to SkyTerra filing for bankruptcy in 2012 (after it had been renamed LightSquared). The complaint sought $1.9 billion in damages, as well as punitive damages, interest, costs, and fees. On June 12, 2019, Harbinger voluntarily discontinued the state action without prejudice. On June 8, 2020, Harbinger refiled its litigation in New York Supreme Court, captioned Harbinger Capital Partners II, LP et al. v. Apollo Global Management, LLC et al. (No. 652342/2020). The complaint adds eight new defendants and three new claims relating to Harbinger s contention that the new defendants induced Harbinger to buy CCTV One Four Holdings, LLC ( CCTV ) to support SkyTerra s network even though they allegedly knew that the network had material defects. On November 23, 2020, Defendants refiled a bankruptcy motion, and on November 24, 2020, filed in the state court a motion to stay the state court proceedings pending a ruling by the bankruptcy court on the bankruptcy motion. On February 1, 2021, the bankruptcy court denied the bankruptcy motion. Defendants filed their motions to dismiss the New York Supreme Court action on March 31, 2021, which were granted in part and denied in part on May 23, 2023. The court granted in full the Defendants motion to dismiss Harbinger s complaint as time-barred and denied as moot the Defendants motion to dismiss the complaint for failure to state a claim. Plaintiffs have appealed the court s decision. Apollo believes the claims in this action are without merit. No reasonable estimate of possible loss, if any, can be made at this time.
+
+In March 2020, Frank Funds, which claims to be a former shareholder of MPM Holdings, Inc. ( MPM ), commenced an action in the Delaware Court of Chancery, captioned Frank Funds v. Apollo Global Management, Inc., et al., C.A. No. 2020-0130, against AAM, certain former MPM directors (including three Apollo officers and employees), and members of the consortium that acquired MPM in a May 2019 merger. The complaint asserted, on behalf of a putative class of former MPM shareholders, a claim against Apollo for breach of its fiduciary duties as MPM s alleged controlling shareholder in connection with the May 2019 merger. Frank Funds seeks unspecified compensatory damages. On July 23, 2019, a group of former MPM shareholders filed an appraisal petition in Delaware Chancery Court seeking the fair value of their MPM shares that were purchased through MPM s May 15, 2019 merger, in an action captioned In re Appraisal of MPM Holdings, Inc., C.A. No. 2019-0519 (Del. Ch.). On June 3, 2020, petitioners moved for leave to file a verified amended appraisal petition and class-action complaint that included claims for breach of fiduciary duty and/or aiding and abetting breaches of fiduciary duty against AAM, the Apollo-affiliated fund that owned MPM s shares before the merger, certain former MPM directors (including three Apollo employees), and members of the consortium that acquired MPM, based on alleged actions related to the May 2019 merger. The petitioners also sought to consolidate their appraisal proceeding with the Frank Funds action. On November 13, 2020, the Chancery Court granted the parties stipulated order to consolidate the two matters, and on December 21, 2020, the Chancery Court granted petitioners motion for leave to file the proposed amended complaint. This new consolidated action is captioned In Re MPM Holdings Inc. Appraisal and Stockholder Litigation, C.A. No. 2019-0519 (Del Ch.). On November 17, 2023, Plaintiff and Defendants filed a stipulation of settlement with the Chancery Court. On February 23, 2024, the Chancery Court held a hearing on the proposed settlement, which is now pending Court approval.
+
+On August 4, 2020, a putative class action complaint was filed in the United States District Court for the District of Nevada against PlayAGS Inc. ( PlayAGS ), all of the members of PlayAGS s board of directors (including three directors who are affiliated with Apollo), certain underwriters of PlayAGS (including Apollo Global Securities, LLC), as well as AAM, Apollo Investment Fund VIII, L.P., Apollo Gaming Holdings, L.P., and Apollo Gaming Voteco, LLC (these last four parties, together, the Apollo Defendants ). The complaint asserted claims against all defendants arising under the Securities Act of 1933 in connection with certain secondary offerings of PlayAGS stock conducted in August 2018 and March 2019, alleging that the registration statements issued in connection with those offerings did not fully disclose certain business challenges facing PlayAGS. The complaint further asserted a control person claim under Section 20(a) of the Exchange Act against the Apollo Defendants and the director defendants (including the directors affiliated with Apollo), alleging such defendants were responsible for certain misstatements and omissions by PlayAGS about its business. On December 2, 2022, the Court dismissed all claims against the underwriters (including Apollo Global Securities, LLC) and the Apollo Defendants, but allowed a claim
+against PlayAGS and two of PlayAGS s executives to proceed. On February 13, 2024, the Court dismissed the entire case against all defendants, with prejudice, and instructed the clerk of the court to close the case. On March 14, 2024, plaintiffs filed a notice of appeal, which is now fully briefed. Apollo believes the claims in this action are without merit. No reasonable estimate of possible loss, if any, can be made at this time.
+
+On August 17, 2023, a purported stockholder of AGM filed a shareholder derivative complaint (the Original Complaint ) in the Court of Chancery of the State of Delaware against current AGM directors Marc Rowan, Scott Kleinman, James Zelter, Alvin Krongard, Michael Ducey, and Pauline Richards, Apollo Former Managing Partners Leon Black and Joshua Harris, and, as a nominal defendant, AGM. The action is captioned Anguilla Social Security Board vs. Black et al., C.A. No. 2023-0846-JTL and challenges the $570 million payments being made to the Former Managing Partners and Contributing Partners in connection with the elimination of the Up-C structure that was in place prior to Apollo s merger with Athene. As previously disclosed in Apollo s SEC filings, this purported stockholder previously had sought and received documents relating to the transaction pursuant to Section 220 of the Delaware General Corporation Law. The Original Complaint alleged that the challenged payments amount to corporate waste, that the Former Managing Partners and Contributing Partners received payments in connection with the Corporate Recapitalization that exceed fair value and therefore breached their fiduciary duties, and that the independent conflicts committee of the AAM board of directors (which then consisted of Mr. Krongard, Mr. Ducey, and Ms. Richards) that negotiated the elimination of the TRA breached their fiduciary duties. The Original Complaint alleged that pre-suit demand was futile because a majority of AGM s board is either not independent from the Former Managing Partners or face a substantial likelihood of liability in light of the challenges to the transaction. The Original Complaint sought, among other things, declaratory relief, unspecified monetary damages, interest, restitution, disgorgement, injunctive relief, costs, and attorneys fees. On November 16, 2023, the defendants moved to dismiss the Original Complaint on the basis that, among other things, the plaintiff failed to make a pre-suit demand on the Apollo board of directors. On February 9, 2024, the plaintiff filed an amended complaint (the Amended Complaint ) that adds new factual allegations but names the same defendants, asserts the same causes of action, and seeks the same relief as the Original Complaint. The Amended Complaint alleges that pre-suit demand was futile for the same reasons alleged in the Original Complaint. On April 25, 2024, the defendants moved to dismiss the Amended Complaint. On September 20, 2024, the Court of Chancery denied the defendants motion to dismiss. AGM and the defendants filed answers to the Amended Complaint on November 25, 2024. On October 28, 2024, the AGM board of directors adopted resolutions forming a Special Litigation Committee (the SLC ) comprising directors whom the board determined to be independent and disinterested. The AGM board of directors delegated to the SLC, among other things, the full and exclusive power and authority of the board to investigate, review and evaluate the facts and circumstances asserted in the litigation and determine whether pursuing the litigation is in the best interests of AGM and its stockholders. Pursuant to an order of the court, all proceedings in the litigation are stayed until May 8, 2025, to allow the SLC to complete its investigation. No reasonable estimate of possible loss, if any, can be made at this time.
+
+On March 14, 2024, a purported stockholder of AGM filed a class action complaint in the Court of Chancery of the State of Delaware against AGM. The complaint alleges, among other things, that certain provisions of the stockholders agreement, entered into on January 1, 2022 between AGM and the Former Managing Partners, violate Delaware law. Apollo believes the claims in this action are without merit. On July 11, 2024, defendants moved to dismiss. On August 7, 2024, the court entered an order staying the motion to dismiss pending the resolution of the appeal of the decision in West Palm Beach Firefighters Pension Fund v. Moelis & Co., 311 A.3d 809 (Del. Ch. 2024). No reasonable estimate of possible loss, if any, can be made at this time.
+
+As previously disclosed, certain of Apollo s investment adviser subsidiaries received a request for information and documents from the SEC in connection with an industry sweep concerning compliance with record retention requirements relating to business communications sent or received via electronic messaging channels. Apollo reached a settlement with the SEC in January 2025 to resolve this matter, paying a civil monetary penalty of $8.5 million, reflected in general, administrative and other in the consolidated statement of operations for the year ended December 31, 2024. As the SEC acknowledged, before the investigation started, Apollo pursued and began implementing technological solutions to permit its personnel to send and receive text messages and chats in a compliant manner.
+
+Guaranty Association Assessments
+
+Guaranty associations may subject member insurers, including Athene, to assessments that require the insurers to pay funds to cover contractual obligations under insurance policies issued by insurance companies that become impaired or insolvent. The assessments are based on an insurer s proportionate share of premiums written in that state during a specified one-year or three-year period for lines of business in which the impaired or insolvent insurer engaged, subject to prescribed limits. On December 30, 2022, the North Carolina Wake County Superior Court entered an Order of Liquidation (the Liquidation
+Order ) against Bankers Life Insurance Company ( BLIC ) and Colorado Bankers Life Insurance Company ( CBLIC ), which was affirmed by the North Carolina Court of Appeals on March 5, 2024. On April 9, 2024, GBIG Holdings, LLC ( GBIG ), the sole shareholder of BLIC and CBLIC, filed a Petition for Discretionary Review requesting the North Carolina Supreme Court review the decision by the North Carolina Court of Appeals to affirm the Liquidation Order. On July 11, 2024, GBIG filed a Motion to Withdraw its Petition for Discretionary Review. Athene is not a party to this litigation. The North Carolina Supreme Court granted the Motion to Withdraw on August 23, 2024, which made the Liquidation Order effective on November 30, 2024. Guaranty associations began levying assessments and we expect those assessments to continue for the foreseeable future. During the year ended December 31, 2024, Athene recorded guaranty association expenses related to the BLIC and CBLIC insolvencies of $152 million, which is net of $11 million that Athene expects to recover through future premium tax credits. As of December 31, 2024, the consolidated statements of financial condition include a liability of $18 million based on the current best estimate of assessments Athene expects to receive related to these insolvencies. The actual amount of assessments levied against Athene in connection with the BLIC and CBLIC insolvencies may vary from this estimate.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CommitmentsAndContingenciesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for commitments and contingencies.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 405
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/405-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 440
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482648/440-10-50-4
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/450/tableOfContent
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 954
+ -SubTopic 440
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478522/954-440-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 440
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482648/440-10-50-4
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 440
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/440/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_CommitmentsAndContingenciesDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,578 @@
+XML
+116
+R44.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Details)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+USD ($)
+
+loan_obligation
+
+Dec. 31, 2023
+
+USD ($)
+
+loan_obligation
+
+Dec. 31, 2022
+
+USD ($)
+
+Summary of Significant Accounting Policies [Line Items]
+
+Number of CLOs consolidated | loan_obligation
+27
+
+28
+
+Foreign currency transaction gains (losses) | $
+$ 0.6
+
+$ (9.1)
+
+$ (13.5)
+
+ARCC
+
+Summary of Significant Accounting Policies [Line Items]
+
+Management fees as a percentage of net investment income
+20.00%
+
+Hurdle rate per quarter
+1.75%
+
+Hurdle rate per annum
+7.00%
+
+Percentage of net investment income received from first dollar earned
+20.00%
+
+ASIF
+
+Summary of Significant Accounting Policies [Line Items]
+
+Management fees as a percentage of net investment income
+12.50%
+
+Hurdle rate per quarter
+1.25%
+
+Hurdle rate per annum
+5.00%
+
+Percentage of net investment income received from first dollar earned
+12.50%
+
+CADC
+
+Summary of Significant Accounting Policies [Line Items]
+
+Management fees as a percentage of net investment income
+15.00%
+
+Hurdle rate per quarter
+1.50%
+
+Hurdle rate per annum
+6.00%
+
+Percentage of net investment income received from first dollar earned
+15.00%
+
+AESIF
+
+Summary of Significant Accounting Policies [Line Items]
+
+Management fees as a percentage of net investment income
+12.50%
+
+Hurdle rate per quarter
+1.25%
+
+Hurdle rate per annum
+5.00%
+
+Percentage of net investment income received from first dollar earned
+12.50%
+
+ACI
+
+Summary of Significant Accounting Policies [Line Items]
+
+Management fees as a percentage of net investment income
+12.50%
+
+Hurdle rate per quarter
+1.25%
+
+Hurdle rate per annum
+5.00%
+
+Percentage of net investment income received from first dollar earned
+12.50%
+
+Minimum
+
+Summary of Significant Accounting Policies [Line Items]
+
+Estimated useful lives, intangible assets
+1 year
+
+Minimum | Property Plant And Equipment Other Than Leasehold Improvements
+
+Summary of Significant Accounting Policies [Line Items]
+
+Estimated useful life, fixed assets
+3 years
+
+Maximum
+
+Summary of Significant Accounting Policies [Line Items]
+
+Estimated useful lives, intangible assets
+13 years 6 months
+
+Performance fee compensation, employment or service period
+6 years
+
+Maximum | Property Plant And Equipment Other Than Leasehold Improvements
+
+Summary of Significant Accounting Policies [Line Items]
+
+Estimated useful life, fixed assets
+7 years
+
+Maximum | Leasehold Improvements
+
+Summary of Significant Accounting Policies [Line Items]
+
+Estimated useful life, fixed assets
+10 years
+
+X
+
+- DefinitionRepresents the management fees as a percentage of net investment income.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementFeesAsPercentageOfNetInvestmentIncome
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the management fees hurdle rate per annum.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementFeesHurdleRatePerAnnum
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the management fees hurdle rate per quarter.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementFeesHurdleRatePerQuarter
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the number of collateralized loan obligations consolidated by the entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_NumberOfCollateralizedLoanObligationsConsolidated
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionRepresents the percentage of net investment income received from the first dollar earned.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PercentageOfNetInvestmentIncomeReceivedFromFirstDollarEarned
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance Fee Compensation, Employment Or Service Period
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PerformanceFeeCompensationEmploymentOrServicePeriod
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSummary of Significant Accounting Policies [Line Items]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_SummaryOfSignificantAccountingPoliciesLineItems
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUseful life of finite-lived intangible assets, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FiniteLivedIntangibleAssetUsefulLife
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, before tax, of realized gain (loss) from foreign currency transaction.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 10
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479168/946-830-55-10
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 6
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479105/946-220-45-6
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(7)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 830
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481956/830-20-45-1
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 830
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481926/830-20-50-1
+
++ Details
+
+ Name:
+us-gaap_ForeignCurrencyTransactionGainLossRealized
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionUseful life of long lived, physical assets used in the normal conduct of business and not intended for resale, in 'PnYnMnDTnHnMnS' format, for example, 'P1Y5M13D' represents the reported fact of one year, five months, and thirteen days. Examples include, but not limited to, land, buildings, machinery and equipment, office equipment, furniture and fixtures, and computer equipment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentUsefulLife
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=ares_AresCapitalCorporationMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=ares_AresStrategicIncomeFundMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=ares_CIONAresDiversifiedCreditFundMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=ares_AresEuropeanStrategicIncomeFundMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=ares_AresCoreInfrastructureFundMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentByTypeAxis=ares_PropertyPlantAndEquipmentOtherThanLeaseholdImprovementsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentByTypeAxis=us-gaap_LeaseholdImprovementsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,84 @@
+XML
+81
+R9.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+ORGANIZATION
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+ORGANIZATION
+1. ORGANIZATION
+Ares Management Corporation (the Company ), a Delaware corporation, together with its subsidiaries, is a leading global alternative investment manager operating integrated groups across Credit, Real Assets, Private Equity and Secondaries. Information about segments should be read together with Note 14. Segment Reporting. Subsidiaries of the Company serve as the general partners and/or investment managers to various funds and managed accounts within each investment group (the Ares Funds ). These subsidiaries provide investment advisory services to the Ares Funds in exchange for management fees.
+
+The accompanying audited financial statements include the consolidated results of the Company and its subsidiaries. The Company is a holding company that operates and controls all of the businesses and affairs of and conducts all of its material business activities through Ares Holdings L.P. ( Ares Holdings ). Ares Holdings represents all the activities of the Ares Operating Group or AOG and may be referred to interchangeably. The Company, indirectly through its wholly owned subsidiary, Ares Holdco LLC, is the general partner of the Ares Operating Group entity.
+
+The Company manages or controls certain entities that have been consolidated in the accompanying financial statements as described in Note 2. Summary of Significant Accounting Policies. These entities include Ares funds, co-investment vehicles, collateralized loan obligations or funds (collectively CLOs ) and special purpose acquisition companies ( SPACs ) (collectively, the Consolidated Funds ).
+
+Including the results of the Consolidated Funds significantly increases the reported amounts of the assets, liabilities, revenues, expenses and cash flows within the accompanying consolidated financial statements. However, the Consolidated Funds results included herein have no direct effect on the net income attributable to Ares Management Corporation or to its stockholders equity, except where accounting for a redemption or liquidation preference requires the reallocation of ownership based on specific terms of a profit sharing agreement. Instead, economic ownership interests of the investors in the Consolidated Funds are reflected as redeemable and non-controlling interests in Consolidated Funds. Further, cash flows allocable to redeemable and non-controlling interest in Consolidated Funds are specifically identifiable within the Consolidated Statements of Cash Flows.
+
+X
+
+- DefinitionThe entire disclosure for the business description and basis of presentation concepts. Business description describes the nature and type of organization including but not limited to organizational structure as may be applicable to holding companies, parent and subsidiary relationships, business divisions, business units, business segments, affiliates and information about significant ownership of the reporting entity. Basis of presentation describes the underlying basis used to prepare the financial statements (for example, US Generally Accepted Accounting Principles, Other Comprehensive Basis of Accounting, IFRS).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 235
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/235/tableOfContent
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 275
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/275/tableOfContent
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 205
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/205/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_BusinessDescriptionAndBasisOfPresentationTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

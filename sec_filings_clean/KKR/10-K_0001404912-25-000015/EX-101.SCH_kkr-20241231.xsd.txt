@@ -1,0 +1,949 @@
+EX-101.SCH
+11
+kkr-20241231.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+ 0000001 - Document - COVER PAGE
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 0000002 - Document - AUDIT INFORMATION
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952151 - Statement - CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952152 - Statement - CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION (Parenthetical)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952153 - Statement - CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION - VIE (Parenthetical)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952154 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952155 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS (Parenthetical)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952156 - Statement - CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952157 - Statement - CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952158 - Statement - CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY (Parenthetical)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952159 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952160 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS (Parenthetical)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952161 - Disclosure - ORGANIZATION
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952162 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952163 - Disclosure - REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952164 - Disclosure - NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952165 - Disclosure - NET INVESTMENT INCOME - INSURANCE
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952166 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952167 - Disclosure - INVESTMENTS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952168 - Disclosure - DERIVATIVES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952169 - Disclosure - FAIR VALUE MEASUREMENTS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952170 - Disclosure - FAIR VALUE OPTION
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952171 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952172 - Disclosure - REINSURANCE
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952173 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952174 - Disclosure - OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952175 - Disclosure - VARIABLE INTEREST ENTITIES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952176 - Disclosure - DEBT OBLIGATIONS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952177 - Disclosure - POLICY LIABILITIES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952178 - Disclosure - INCOME TAXES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952179 - Disclosure - EQUITY-BASED COMPENSATION
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952180 - Disclosure - RELATED PARTY TRANSACTIONS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952181 - Disclosure - SEGMENT REPORTING
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952182 - Disclosure - EQUITY
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952183 - Disclosure - REDEEMABLE NONCONTROLLING INTERESTS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952184 - Disclosure - COMMITMENTS AND CONTINGENCIES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952185 - Disclosure - CAPITAL & REGULATORY REQUIREMENTS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952186 - Disclosure - SUBSEQUENT EVENTS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952187 - Disclosure - SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952188 - Disclosure - SCHEDULE IV - REINSURANCE
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955511 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Policies)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955512 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955513 - Disclosure - REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955514 - Disclosure - NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955515 - Disclosure - NET INVESTMENT INCOME - INSURANCE (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955516 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955517 - Disclosure - INVESTMENTS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955518 - Disclosure - DERIVATIVES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955519 - Disclosure - FAIR VALUE MEASUREMENTS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955520 - Disclosure - FAIR VALUE OPTION (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955521 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955522 - Disclosure - REINSURANCE (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955523 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955524 - Disclosure - OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955525 - Disclosure - VARIABLE INTEREST ENTITIES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955526 - Disclosure - DEBT OBLIGATIONS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955527 - Disclosure - POLICY LIABILITIES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955528 - Disclosure - INCOME TAXES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955529 - Disclosure - EQUITY-BASED COMPENSATION (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955530 - Disclosure - RELATED PARTY TRANSACTIONS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955531 - Disclosure - SEGMENT REPORTING (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955532 - Disclosure - EQUITY (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955533 - Disclosure - REDEEMABLE NONCONTROLLING INTERESTS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955534 - Disclosure - COMMITMENTS AND CONTINGENCIES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955535 - Disclosure - CAPITAL & REGULATORY REQUIREMENTS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955536 - Disclosure - ORGANIZATION (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955537 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Fair Value Measurements (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955538 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Fixed Assets, Depreciation and Amortization (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955539 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Equity-based Compensation (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955540 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Comprehensive Income (Loss) (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955541 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Management Fees (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955542 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Compensation and Benefits (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955543 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Recognition of Insurance Revenue and Related Benefits (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955544 - Disclosure - REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS - Schedule of Asset Management and Strategic Holdings Revenues (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955545 - Disclosure - REVENUES - ASSET MANAGEMENT - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955546 - Disclosure - NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955547 - Disclosure - NET INVESTMENT INCOME - INSURANCE (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955548 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Net Investment Gains (Losses) (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955549 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Allowance for Credit Losses (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955550 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Allowance for Credit Losses, Receivables (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955551 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Sales (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955552 - Disclosure - INVESTMENTS - Summary of Investments (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955553 - Disclosure - INVESTMENTS - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955554 - Disclosure - INVESTMENTS - Equity Method Investments (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955554 - Disclosure - INVESTMENTS - Equity Method Investments (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955555 - Disclosure - INVESTMENTS - AFS Fixed Maturity Securities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955556 - Disclosure - INVESTMENTS - Maturity Distribution for AFS Fixed Maturity Securities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955557 - Disclosure - INVESTMENTS - Purchased Credit Deteriorated Securities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955558 - Disclosure - INVESTMENTS - AFS in Continuous Unrealized Loss Position (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955559 - Disclosure - INVESTMENTS - Mortgage and Other Loans Receivable (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955560 - Disclosure - INVESTMENTS - Maturity of Residential and Commercial Loans (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955561 - Disclosure - INVESTMENTS - Mortgage Loan Portfolio (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955562 - Disclosure - INVESTMENTS - Receivables By Credit Quality Indicator (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955563 - Disclosure - INVESTMENTS - Loan-To-Value (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955564 - Disclosure - INVESTMENTS - Loan Modifications (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955565 - Disclosure - INVESTMENTS - Repurchase Agreements (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955566 - Disclosure - DERIVATIVES - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955567 - Disclosure - DERIVATIVES - Derivative Assets and Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955568 - Disclosure - DERIVATIVES - Carrying Value of Instruments (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955569 - Disclosure - DERIVATIVES - Financial Statement Classification (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955570 - Disclosure - DERIVATIVES - Offsetting Assets and Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955571 - Disclosure - FAIR VALUE MEASUREMENTS - Assets and Liabilities at Fair Value (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955572 - Disclosure - FAIR VALUE MEASUREMENTS - Changes in Level III Assets (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955573 - Disclosure - FAIR VALUE MEASUREMENTS - Breakout of Asset Net Purchases/Issuances/Sales/Settlements (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955574 - Disclosure - FAIR VALUE MEASUREMENTS - Changes in Level III Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955575 - Disclosure - FAIR VALUE MEASUREMENTS - Breakout of Liability Issuances and Settlements (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955576 - Disclosure - FAIR VALUE MEASUREMENTS - Valuation Methodologies and Significant Unobservable Inputs (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955577 - Disclosure - FAIR VALUE MEASUREMENTS - Instruments Not Carried At Fair Value (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955578 - Disclosure - FAIR VALUE OPTION - Financial Instruments (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955579 - Disclosure - FAIR VALUE OPTION - Change in Fair Value (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955580 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Reconciliation of Insurance Intangibles (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955581 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Deferred Policy Acquisition Costs (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955582 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Value of Business Acquired Asset (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955583 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Value of Business Acquired Liability (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955584 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Estimated Future Amortization of VOBA (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955584 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Estimated Future Amortization of VOBA (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955585 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Unearned Revenue Reserve (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955586 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955587 - Disclosure - REINSURANCE - Effects of Reinsurance Agreements (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955588 - Disclosure - REINSURANCE - Credit Quality Indicator (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955589 - Disclosure - REINSURANCE - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955590 - Disclosure - REINSURANCE - Effects of Reinsurance on Statements of Operations (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955591 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Earnings Per Share (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955592 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Antidilutive Securities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955593 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955594 - Disclosure - OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES - Other Assets (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955595 - Disclosure - OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES - Accounts Payable, Accrued Expenses and Other Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955596 - Disclosure - VARIABLE INTEREST ENTITIES - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955597 - Disclosure - VARIABLE INTEREST ENTITIES - Maximum Exposure to Loss (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955598 - Disclosure - DEBT OBLIGATIONS - Components of Debt Obligations (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955599 - Disclosure - DEBT OBLIGATIONS - Third Amended and Restated Credit Agreement (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955600 - Disclosure - DEBT OBLIGATIONS - KKR Group Finance Co. XI LLC May 2024 Notes Offering (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955601 - Disclosure - DEBT OBLIGATIONS - KCM 364-Day Revolving Credit Facility (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955602 - Disclosure - DEBT OBLIGATIONS - KCM Credit Facility (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955603 - Disclosure - DEBT OBLIGATIONS - Other Asset Management and Strategic Holdings Debt Obligations (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955604 - Disclosure - DEBT OBLIGATIONS - Global Atlantic's Debt Obligations (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955605 - Disclosure - DEBT OBLIGATIONS - Senior Notes (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955606 - Disclosure - DEBT OBLIGATIONS - Subordinated Notes (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955607 - Disclosure - DEBT OBLIGATIONS - Global Atlantic Credit Agreement (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955608 - Disclosure - DEBT OBLIGATIONS - Debt Covenants (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955609 - Disclosure - POLICY LIABILITIES - Composition of Policyholder Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955610 - Disclosure - POLICY LIABILITIES - Balance and Changes In Policyholder Account Balances (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955611 - Disclosure - POLICY LIABILITIES - Guaranteed Minimum Interest Rates (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955612 - Disclosure - POLICY LIABILITIES - Balances of and Changes in Liability for Future Policy Benefits (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955613 - Disclosure - POLICY LIABILITIES - Amounts Recognized in Statement of Operations (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955614 - Disclosure - POLICY LIABILITIES - Weighted-Average Interest Rates of Future Policy Benefits (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955615 - Disclosure - POLICY LIABILITIES - Expected Future Benefit Payments and Gross Premiums, Undiscounted and Discounted (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955616 - Disclosure - POLICY LIABILITIES - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955617 - Disclosure - POLICY LIABILITIES - Additional Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955618 - Disclosure - POLICY LIABILITIES - Market Based Risk (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955619 - Disclosure - POLICY LIABILITIES - Separate Account Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955620 - Disclosure - POLICY LIABILITIES - Separate Account Assets (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955621 - Disclosure - POLICY LIABILITIES - Closed Blocks (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955622 - Disclosure - INCOME TAXES - Income before Income Tax, Domestic and Foreign (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955623 - Disclosure - INCOME TAXES - Provision (Benefit) for Income Taxes (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955624 - Disclosure - INCOME TAXES - Reconciliation of Effective Income Tax Rate to the U.S. Federal Statutory Tax Rate (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955625 - Disclosure - INCOME TAXES - Components of Deferred Tax Assets or Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955626 - Disclosure - INCOME TAXES - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955627 - Disclosure - INCOME TAXES - Unrecognized Tax Benefits (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955628 - Disclosure - EQUITY-BASED COMPENSATION - KKR Equity Incentive Plan (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955629 - Disclosure - EQUITY-BASED COMPENSATION - KKR Equity Incentive Plans Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955630 - Disclosure - EQUITY-BASED COMPENSATION - Awards Rollforward (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955631 - Disclosure - EQUITY-BASED COMPENSATION - Market Condition Awards Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955632 - Disclosure - EQUITY-BASED COMPENSATION - Assumptions Used to Estimate Fair Value (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955633 - Disclosure - EQUITY-BASED COMPENSATION - Co-CEO Awards Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955634 - Disclosure - EQUITY-BASED COMPENSATION - Book Value Awards Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955635 - Disclosure - EQUITY-BASED COMPENSATION - GA Equity Incentive Plan Awards Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955636 - Disclosure - RELATED PARTY TRANSACTIONS - Schedule of Related Party Transactions (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955637 - Disclosure - RELATED PARTY TRANSACTIONS - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955638 - Disclosure - SEGMENT REPORTING - Information Regarding Segment Results (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955639 - Disclosure - SEGMENT REPORTING - Reconciliation to Total Segment Revenues (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955640 - Disclosure - SEGMENT REPORTING - Reconciliation to Total Segment Expenses (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955641 - Disclosure - SEGMENT REPORTING - Total Distributable Operating Earnings Reconciliation (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955642 - Disclosure - SEGMENT REPORTING - Total Segment Assets (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955643 - Disclosure - EQUITY - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955644 - Disclosure - EQUITY - Share Repurchases (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955645 - Disclosure - EQUITY - Noncontrolling Interests Calculation (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955646 - Disclosure - REDEEMABLE NONCONTROLLING INTERESTS - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955647 - Disclosure - REDEEMABLE NONCONTROLLING INTERESTS - Rollforward of Redeemable Noncontrolling Interest (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955648 - Disclosure - COMMITMENTS AND CONTINGENCIES - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955649 - Disclosure - COMMITMENTS AND CONTINGENCIES - Schedule of Purchase Obligations (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955650 - Disclosure - COMMITMENTS AND CONTINGENCIES - Non-cancelable Operating Leases (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955650 - Disclosure - COMMITMENTS AND CONTINGENCIES - Non-cancelable Operating Leases (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955651 - Disclosure - CAPITAL & REGULATORY REQUIREMENTS - Schedule of Ordinary Dividend Capacity (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955652 - Disclosure - CAPITAL & REGULATORY REQUIREMENTS - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955653 - Disclosure - SUBSEQUENT EVENTS (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955654 - Disclosure - SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS - Valuation For Deferred Tax Assets (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955655 - Disclosure - SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS - Reserves Deducted From Assets To Which They Apply (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955656 - Disclosure - SCHEDULE IV - REINSURANCE (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink

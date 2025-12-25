@@ -1,0 +1,1982 @@
+XML
+217
+FilingSummary.xml
+IDEA: XBRL DOCUMENT
+
+ 3.25.0.1
+
+ html
+ 1845
+ 1059
+ 1
+ false
+ 434
+ 0
+ false
+ 14
+
+ false
+ false
+ R1.htm
+ 0000001 - Document - COVER PAGE
+ Sheet
+ http://www.kkr.com/role/COVERPAGE
+ COVER PAGE
+ Cover
+ 1
+
+ false
+ false
+ R2.htm
+ 0000002 - Document - AUDIT INFORMATION
+ Sheet
+ http://www.kkr.com/role/AUDITINFORMATION
+ AUDIT INFORMATION
+ Cover
+ 2
+
+ false
+ false
+ R3.htm
+ 9952151 - Statement - CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFFINANCIALCONDITION
+ CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION
+ Statements
+ 3
+
+ false
+ false
+ R4.htm
+ 9952152 - Statement - CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION (Parenthetical)
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFFINANCIALCONDITIONParenthetical
+ CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION (Parenthetical)
+ Statements
+ 4
+
+ false
+ false
+ R5.htm
+ 9952153 - Statement - CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION - VIE (Parenthetical)
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFFINANCIALCONDITIONVIEParenthetical
+ CONSOLIDATED STATEMENTS OF FINANCIAL CONDITION - VIE (Parenthetical)
+ Statements
+ 5
+
+ false
+ false
+ R6.htm
+ 9952154 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFOPERATIONS
+ CONSOLIDATED STATEMENTS OF OPERATIONS
+ Statements
+ 6
+
+ false
+ false
+ R7.htm
+ 9952155 - Statement - CONSOLIDATED STATEMENTS OF OPERATIONS (Parenthetical)
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFOPERATIONSParenthetical
+ CONSOLIDATED STATEMENTS OF OPERATIONS (Parenthetical)
+ Statements
+ 7
+
+ false
+ false
+ R8.htm
+ 9952156 - Statement - CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFCOMPREHENSIVEINCOMELOSS
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+ Statements
+ 8
+
+ false
+ false
+ R9.htm
+ 9952157 - Statement - CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFCHANGESINEQUITY
+ CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY
+ Statements
+ 9
+
+ false
+ false
+ R10.htm
+ 9952158 - Statement - CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY (Parenthetical)
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFCHANGESINEQUITYParenthetical
+ CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY (Parenthetical)
+ Statements
+ 10
+
+ false
+ false
+ R11.htm
+ 9952159 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFCASHFLOWS
+ CONSOLIDATED STATEMENTS OF CASH FLOWS
+ Statements
+ 11
+
+ false
+ false
+ R12.htm
+ 9952160 - Statement - CONSOLIDATED STATEMENTS OF CASH FLOWS (Parenthetical)
+ Sheet
+ http://www.kkr.com/role/CONSOLIDATEDSTATEMENTSOFCASHFLOWSParenthetical
+ CONSOLIDATED STATEMENTS OF CASH FLOWS (Parenthetical)
+ Statements
+ 12
+
+ false
+ false
+ R13.htm
+ 9952161 - Disclosure - ORGANIZATION
+ Sheet
+ http://www.kkr.com/role/ORGANIZATION
+ ORGANIZATION
+ Notes
+ 13
+
+ false
+ false
+ R14.htm
+ 9952162 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIES
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ Notes
+ 14
+
+ false
+ false
+ R15.htm
+ 9952163 - Disclosure - REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+ Sheet
+ http://www.kkr.com/role/REVENUESASSETMANAGEMENTANDSTRATEGICHOLDINGS
+ REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+ Notes
+ 15
+
+ false
+ false
+ R16.htm
+ 9952164 - Disclosure - NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+ Sheet
+ http://www.kkr.com/role/NETGAINSLOSSESFROMINVESTMENTACTIVITIESASSETMANAGEMENTANDSTRATEGICHOLDINGS
+ NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS
+ Notes
+ 16
+
+ false
+ false
+ R17.htm
+ 9952165 - Disclosure - NET INVESTMENT INCOME - INSURANCE
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTINCOMEINSURANCE
+ NET INVESTMENT INCOME - INSURANCE
+ Notes
+ 17
+
+ false
+ false
+ R18.htm
+ 9952166 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCE
+ NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE
+ Notes
+ 18
+
+ false
+ false
+ R19.htm
+ 9952167 - Disclosure - INVESTMENTS
+ Sheet
+ http://www.kkr.com/role/INVESTMENTS
+ INVESTMENTS
+ Notes
+ 19
+
+ false
+ false
+ R20.htm
+ 9952168 - Disclosure - DERIVATIVES
+ Sheet
+ http://www.kkr.com/role/DERIVATIVES
+ DERIVATIVES
+ Notes
+ 20
+
+ false
+ false
+ R21.htm
+ 9952169 - Disclosure - FAIR VALUE MEASUREMENTS
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTS
+ FAIR VALUE MEASUREMENTS
+ Notes
+ 21
+
+ false
+ false
+ R22.htm
+ 9952170 - Disclosure - FAIR VALUE OPTION
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEOPTION
+ FAIR VALUE OPTION
+ Notes
+ 22
+
+ false
+ false
+ R23.htm
+ 9952171 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADS
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS
+ Notes
+ 23
+
+ false
+ false
+ R24.htm
+ 9952172 - Disclosure - REINSURANCE
+ Sheet
+ http://www.kkr.com/role/REINSURANCE
+ REINSURANCE
+ Notes
+ 24
+
+ false
+ false
+ R25.htm
+ 9952173 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK
+ Sheet
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCK
+ NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK
+ Notes
+ 25
+
+ false
+ false
+ R26.htm
+ 9952174 - Disclosure - OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES
+ Sheet
+ http://www.kkr.com/role/OTHERASSETSANDACCRUEDEXPENSESANDOTHERLIABILITIES
+ OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES
+ Notes
+ 26
+
+ false
+ false
+ R27.htm
+ 9952175 - Disclosure - VARIABLE INTEREST ENTITIES
+ Sheet
+ http://www.kkr.com/role/VARIABLEINTERESTENTITIES
+ VARIABLE INTEREST ENTITIES
+ Notes
+ 27
+
+ false
+ false
+ R28.htm
+ 9952176 - Disclosure - DEBT OBLIGATIONS
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONS
+ DEBT OBLIGATIONS
+ Notes
+ 28
+
+ false
+ false
+ R29.htm
+ 9952177 - Disclosure - POLICY LIABILITIES
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIES
+ POLICY LIABILITIES
+ Notes
+ 29
+
+ false
+ false
+ R30.htm
+ 9952178 - Disclosure - INCOME TAXES
+ Sheet
+ http://www.kkr.com/role/INCOMETAXES
+ INCOME TAXES
+ Notes
+ 30
+
+ false
+ false
+ R31.htm
+ 9952179 - Disclosure - EQUITY-BASED COMPENSATION
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATION
+ EQUITY-BASED COMPENSATION
+ Notes
+ 31
+
+ false
+ false
+ R32.htm
+ 9952180 - Disclosure - RELATED PARTY TRANSACTIONS
+ Sheet
+ http://www.kkr.com/role/RELATEDPARTYTRANSACTIONS
+ RELATED PARTY TRANSACTIONS
+ Notes
+ 32
+
+ false
+ false
+ R33.htm
+ 9952181 - Disclosure - SEGMENT REPORTING
+ Sheet
+ http://www.kkr.com/role/SEGMENTREPORTING
+ SEGMENT REPORTING
+ Notes
+ 33
+
+ false
+ false
+ R34.htm
+ 9952182 - Disclosure - EQUITY
+ Sheet
+ http://www.kkr.com/role/EQUITY
+ EQUITY
+ Notes
+ 34
+
+ false
+ false
+ R35.htm
+ 9952183 - Disclosure - REDEEMABLE NONCONTROLLING INTERESTS
+ Sheet
+ http://www.kkr.com/role/REDEEMABLENONCONTROLLINGINTERESTS
+ REDEEMABLE NONCONTROLLING INTERESTS
+ Notes
+ 35
+
+ false
+ false
+ R36.htm
+ 9952184 - Disclosure - COMMITMENTS AND CONTINGENCIES
+ Sheet
+ http://www.kkr.com/role/COMMITMENTSANDCONTINGENCIES
+ COMMITMENTS AND CONTINGENCIES
+ Notes
+ 36
+
+ false
+ false
+ R37.htm
+ 9952185 - Disclosure - CAPITAL & REGULATORY REQUIREMENTS
+ Sheet
+ http://www.kkr.com/role/CAPITALREGULATORYREQUIREMENTS
+ CAPITAL & REGULATORY REQUIREMENTS
+ Notes
+ 37
+
+ false
+ false
+ R38.htm
+ 9952186 - Disclosure - SUBSEQUENT EVENTS
+ Sheet
+ http://www.kkr.com/role/SUBSEQUENTEVENTS
+ SUBSEQUENT EVENTS
+ Notes
+ 38
+
+ false
+ false
+ R39.htm
+ 9952187 - Disclosure - SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+ Sheet
+ http://www.kkr.com/role/SCHEDULEIIVALUATIONANDQUALIFYINGACCOUNTS
+ SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+ Notes
+ 39
+
+ false
+ false
+ R40.htm
+ 9952188 - Disclosure - SCHEDULE IV - REINSURANCE
+ Sheet
+ http://www.kkr.com/role/SCHEDULEIVREINSURANCE
+ SCHEDULE IV - REINSURANCE
+ Notes
+ 40
+
+ false
+ false
+ R41.htm
+ 995410 - Disclosure - Pay vs Performance Disclosure
+ Sheet
+ http://xbrl.sec.gov/ecd/role/PvpDisclosure
+ Pay vs Performance Disclosure
+ Notes
+ 41
+
+ false
+ false
+ R42.htm
+ 995445 - Disclosure - Insider Trading Arrangements
+ Sheet
+ http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements
+ Insider Trading Arrangements
+ Notes
+ 42
+
+ false
+ false
+ R43.htm
+ 995447 - Disclosure - Insider Trading Policies and Procedures
+ Sheet
+ http://xbrl.sec.gov/ecd/role/InsiderTradingPoliciesProc
+ Insider Trading Policies and Procedures
+ Notes
+ 43
+
+ false
+ false
+ R44.htm
+ 995550 - Disclosure - Cybersecurity Risk Management and Strategy Disclosure
+ Sheet
+ http://xbrl.sec.gov/cyd/role/CybersecurityRiskManagementAndStrategyDisclosure
+ Cybersecurity Risk Management and Strategy Disclosure
+ Notes
+ 44
+
+ false
+ false
+ R45.htm
+ 9955511 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Policies)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESPolicies
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Policies)
+ Policies
+ 45
+
+ false
+ false
+ R46.htm
+ 9955512 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Tables)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESTables
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Tables)
+ Tables
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIES
+ 46
+
+ false
+ false
+ R47.htm
+ 9955513 - Disclosure - REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Tables)
+ Sheet
+ http://www.kkr.com/role/REVENUESASSETMANAGEMENTANDSTRATEGICHOLDINGSTables
+ REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Tables)
+ Tables
+ http://www.kkr.com/role/REVENUESASSETMANAGEMENTANDSTRATEGICHOLDINGS
+ 47
+
+ false
+ false
+ R48.htm
+ 9955514 - Disclosure - NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Tables)
+ Sheet
+ http://www.kkr.com/role/NETGAINSLOSSESFROMINVESTMENTACTIVITIESASSETMANAGEMENTANDSTRATEGICHOLDINGSTables
+ NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Tables)
+ Tables
+ http://www.kkr.com/role/NETGAINSLOSSESFROMINVESTMENTACTIVITIESASSETMANAGEMENTANDSTRATEGICHOLDINGS
+ 48
+
+ false
+ false
+ R49.htm
+ 9955515 - Disclosure - NET INVESTMENT INCOME - INSURANCE (Tables)
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTINCOMEINSURANCETables
+ NET INVESTMENT INCOME - INSURANCE (Tables)
+ Tables
+ http://www.kkr.com/role/NETINVESTMENTINCOMEINSURANCE
+ 49
+
+ false
+ false
+ R50.htm
+ 9955516 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE (Tables)
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCETables
+ NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE (Tables)
+ Tables
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCE
+ 50
+
+ false
+ false
+ R51.htm
+ 9955517 - Disclosure - INVESTMENTS (Tables)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSTables
+ INVESTMENTS (Tables)
+ Tables
+ http://www.kkr.com/role/INVESTMENTS
+ 51
+
+ false
+ false
+ R52.htm
+ 9955518 - Disclosure - DERIVATIVES (Tables)
+ Sheet
+ http://www.kkr.com/role/DERIVATIVESTables
+ DERIVATIVES (Tables)
+ Tables
+ http://www.kkr.com/role/DERIVATIVES
+ 52
+
+ false
+ false
+ R53.htm
+ 9955519 - Disclosure - FAIR VALUE MEASUREMENTS (Tables)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTSTables
+ FAIR VALUE MEASUREMENTS (Tables)
+ Tables
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTS
+ 53
+
+ false
+ false
+ R54.htm
+ 9955520 - Disclosure - FAIR VALUE OPTION (Tables)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEOPTIONTables
+ FAIR VALUE OPTION (Tables)
+ Tables
+ http://www.kkr.com/role/FAIRVALUEOPTION
+ 54
+
+ false
+ false
+ R55.htm
+ 9955521 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS (Tables)
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSTables
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS (Tables)
+ Tables
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADS
+ 55
+
+ false
+ false
+ R56.htm
+ 9955522 - Disclosure - REINSURANCE (Tables)
+ Sheet
+ http://www.kkr.com/role/REINSURANCETables
+ REINSURANCE (Tables)
+ Tables
+ http://www.kkr.com/role/REINSURANCE
+ 56
+
+ false
+ false
+ R57.htm
+ 9955523 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK (Tables)
+ Sheet
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCKTables
+ NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK (Tables)
+ Tables
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCK
+ 57
+
+ false
+ false
+ R58.htm
+ 9955524 - Disclosure - OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES (Tables)
+ Sheet
+ http://www.kkr.com/role/OTHERASSETSANDACCRUEDEXPENSESANDOTHERLIABILITIESTables
+ OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES (Tables)
+ Tables
+ http://www.kkr.com/role/OTHERASSETSANDACCRUEDEXPENSESANDOTHERLIABILITIES
+ 58
+
+ false
+ false
+ R59.htm
+ 9955525 - Disclosure - VARIABLE INTEREST ENTITIES (Tables)
+ Sheet
+ http://www.kkr.com/role/VARIABLEINTERESTENTITIESTables
+ VARIABLE INTEREST ENTITIES (Tables)
+ Tables
+ http://www.kkr.com/role/VARIABLEINTERESTENTITIES
+ 59
+
+ false
+ false
+ R60.htm
+ 9955526 - Disclosure - DEBT OBLIGATIONS (Tables)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSTables
+ DEBT OBLIGATIONS (Tables)
+ Tables
+ http://www.kkr.com/role/DEBTOBLIGATIONS
+ 60
+
+ false
+ false
+ R61.htm
+ 9955527 - Disclosure - POLICY LIABILITIES (Tables)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESTables
+ POLICY LIABILITIES (Tables)
+ Tables
+ http://www.kkr.com/role/POLICYLIABILITIES
+ 61
+
+ false
+ false
+ R62.htm
+ 9955528 - Disclosure - INCOME TAXES (Tables)
+ Sheet
+ http://www.kkr.com/role/INCOMETAXESTables
+ INCOME TAXES (Tables)
+ Tables
+ http://www.kkr.com/role/INCOMETAXES
+ 62
+
+ false
+ false
+ R63.htm
+ 9955529 - Disclosure - EQUITY-BASED COMPENSATION (Tables)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONTables
+ EQUITY-BASED COMPENSATION (Tables)
+ Tables
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATION
+ 63
+
+ false
+ false
+ R64.htm
+ 9955530 - Disclosure - RELATED PARTY TRANSACTIONS (Tables)
+ Sheet
+ http://www.kkr.com/role/RELATEDPARTYTRANSACTIONSTables
+ RELATED PARTY TRANSACTIONS (Tables)
+ Tables
+ http://www.kkr.com/role/RELATEDPARTYTRANSACTIONS
+ 64
+
+ false
+ false
+ R65.htm
+ 9955531 - Disclosure - SEGMENT REPORTING (Tables)
+ Sheet
+ http://www.kkr.com/role/SEGMENTREPORTINGTables
+ SEGMENT REPORTING (Tables)
+ Tables
+ http://www.kkr.com/role/SEGMENTREPORTING
+ 65
+
+ false
+ false
+ R66.htm
+ 9955532 - Disclosure - EQUITY (Tables)
+ Sheet
+ http://www.kkr.com/role/EQUITYTables
+ EQUITY (Tables)
+ Tables
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATION
+ 66
+
+ false
+ false
+ R67.htm
+ 9955533 - Disclosure - REDEEMABLE NONCONTROLLING INTERESTS (Tables)
+ Sheet
+ http://www.kkr.com/role/REDEEMABLENONCONTROLLINGINTERESTSTables
+ REDEEMABLE NONCONTROLLING INTERESTS (Tables)
+ Tables
+ http://www.kkr.com/role/REDEEMABLENONCONTROLLINGINTERESTS
+ 67
+
+ false
+ false
+ R68.htm
+ 9955534 - Disclosure - COMMITMENTS AND CONTINGENCIES (Tables)
+ Sheet
+ http://www.kkr.com/role/COMMITMENTSANDCONTINGENCIESTables
+ COMMITMENTS AND CONTINGENCIES (Tables)
+ Tables
+ http://www.kkr.com/role/COMMITMENTSANDCONTINGENCIES
+ 68
+
+ false
+ false
+ R69.htm
+ 9955535 - Disclosure - CAPITAL & REGULATORY REQUIREMENTS (Tables)
+ Sheet
+ http://www.kkr.com/role/CAPITALREGULATORYREQUIREMENTSTables
+ CAPITAL & REGULATORY REQUIREMENTS (Tables)
+ Tables
+ http://www.kkr.com/role/CAPITALREGULATORYREQUIREMENTS
+ 69
+
+ false
+ false
+ R70.htm
+ 9955536 - Disclosure - ORGANIZATION (Details)
+ Sheet
+ http://www.kkr.com/role/ORGANIZATIONDetails
+ ORGANIZATION (Details)
+ Details
+ http://www.kkr.com/role/ORGANIZATION
+ 70
+
+ false
+ false
+ R71.htm
+ 9955537 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Fair Value Measurements (Details)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESFairValueMeasurementsDetails
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Fair Value Measurements (Details)
+ Details
+ 71
+
+ false
+ false
+ R72.htm
+ 9955538 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Fixed Assets, Depreciation and Amortization (Details)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESFixedAssetsDepreciationandAmortizationDetails
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Fixed Assets, Depreciation and Amortization (Details)
+ Details
+ 72
+
+ false
+ false
+ R73.htm
+ 9955539 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Equity-based Compensation (Details)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESEquitybasedCompensationDetails
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Equity-based Compensation (Details)
+ Details
+ 73
+
+ false
+ false
+ R74.htm
+ 9955540 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Comprehensive Income (Loss) (Details)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESComprehensiveIncomeLossDetails
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Comprehensive Income (Loss) (Details)
+ Details
+ 74
+
+ false
+ false
+ R75.htm
+ 9955541 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Management Fees (Details)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESManagementFeesDetails
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Management Fees (Details)
+ Details
+ 75
+
+ false
+ false
+ R76.htm
+ 9955542 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Compensation and Benefits (Details)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESCompensationandBenefitsDetails
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Compensation and Benefits (Details)
+ Details
+ 76
+
+ false
+ false
+ R77.htm
+ 9955543 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Recognition of Insurance Revenue and Related Benefits (Details)
+ Sheet
+ http://www.kkr.com/role/SUMMARYOFSIGNIFICANTACCOUNTINGPOLICIESRecognitionofInsuranceRevenueandRelatedBenefitsDetails
+ SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES - Recognition of Insurance Revenue and Related Benefits (Details)
+ Details
+ 77
+
+ false
+ false
+ R78.htm
+ 9955544 - Disclosure - REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS - Schedule of Asset Management and Strategic Holdings Revenues (Details)
+ Sheet
+ http://www.kkr.com/role/REVENUESASSETMANAGEMENTANDSTRATEGICHOLDINGSScheduleofAssetManagementandStrategicHoldingsRevenuesDetails
+ REVENUES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS - Schedule of Asset Management and Strategic Holdings Revenues (Details)
+ Details
+ 78
+
+ false
+ false
+ R79.htm
+ 9955545 - Disclosure - REVENUES - ASSET MANAGEMENT - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/REVENUESASSETMANAGEMENTNarrativeDetails
+ REVENUES - ASSET MANAGEMENT - Narrative (Details)
+ Details
+ 79
+
+ false
+ false
+ R80.htm
+ 9955546 - Disclosure - NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Details)
+ Sheet
+ http://www.kkr.com/role/NETGAINSLOSSESFROMINVESTMENTACTIVITIESASSETMANAGEMENTANDSTRATEGICHOLDINGSDetails
+ NET GAINS (LOSSES) FROM INVESTMENT ACTIVITIES - ASSET MANAGEMENT AND STRATEGIC HOLDINGS (Details)
+ Details
+ http://www.kkr.com/role/NETGAINSLOSSESFROMINVESTMENTACTIVITIESASSETMANAGEMENTANDSTRATEGICHOLDINGSTables
+ 80
+
+ false
+ false
+ R81.htm
+ 9955547 - Disclosure - NET INVESTMENT INCOME - INSURANCE (Details)
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTINCOMEINSURANCEDetails
+ NET INVESTMENT INCOME - INSURANCE (Details)
+ Details
+ http://www.kkr.com/role/NETINVESTMENTINCOMEINSURANCETables
+ 81
+
+ false
+ false
+ R82.htm
+ 9955548 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Net Investment Gains (Losses) (Details)
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCENetInvestmentGainsLossesDetails
+ NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Net Investment Gains (Losses) (Details)
+ Details
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCETables
+ 82
+
+ false
+ false
+ R83.htm
+ 9955549 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Allowance for Credit Losses (Details)
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCEAllowanceforCreditLossesDetails
+ NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Allowance for Credit Losses (Details)
+ Details
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCETables
+ 83
+
+ false
+ false
+ R84.htm
+ 9955550 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Allowance for Credit Losses, Receivables (Details)
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCEAllowanceforCreditLossesReceivablesDetails
+ NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Allowance for Credit Losses, Receivables (Details)
+ Details
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCETables
+ 84
+
+ false
+ false
+ R85.htm
+ 9955551 - Disclosure - NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Sales (Details)
+ Sheet
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCESalesDetails
+ NET INVESTMENT-RELATED GAINS (LOSSES) - INSURANCE - Sales (Details)
+ Details
+ http://www.kkr.com/role/NETINVESTMENTRELATEDGAINSLOSSESINSURANCETables
+ 85
+
+ false
+ false
+ R86.htm
+ 9955552 - Disclosure - INVESTMENTS - Summary of Investments (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSSummaryofInvestmentsDetails
+ INVESTMENTS - Summary of Investments (Details)
+ Details
+ 86
+
+ false
+ false
+ R87.htm
+ 9955553 - Disclosure - INVESTMENTS - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSNarrativeDetails
+ INVESTMENTS - Narrative (Details)
+ Details
+ 87
+
+ false
+ false
+ R88.htm
+ 9955554 - Disclosure - INVESTMENTS - Equity Method Investments (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSEquityMethodInvestmentsDetails
+ INVESTMENTS - Equity Method Investments (Details)
+ Details
+ 88
+
+ false
+ false
+ R89.htm
+ 9955555 - Disclosure - INVESTMENTS - AFS Fixed Maturity Securities (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSAFSFixedMaturitySecuritiesDetails
+ INVESTMENTS - AFS Fixed Maturity Securities (Details)
+ Details
+ 89
+
+ false
+ false
+ R90.htm
+ 9955556 - Disclosure - INVESTMENTS - Maturity Distribution for AFS Fixed Maturity Securities (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSMaturityDistributionforAFSFixedMaturitySecuritiesDetails
+ INVESTMENTS - Maturity Distribution for AFS Fixed Maturity Securities (Details)
+ Details
+ 90
+
+ false
+ false
+ R91.htm
+ 9955557 - Disclosure - INVESTMENTS - Purchased Credit Deteriorated Securities (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSPurchasedCreditDeterioratedSecuritiesDetails
+ INVESTMENTS - Purchased Credit Deteriorated Securities (Details)
+ Details
+ 91
+
+ false
+ false
+ R92.htm
+ 9955558 - Disclosure - INVESTMENTS - AFS in Continuous Unrealized Loss Position (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSAFSinContinuousUnrealizedLossPositionDetails
+ INVESTMENTS - AFS in Continuous Unrealized Loss Position (Details)
+ Details
+ 92
+
+ false
+ false
+ R93.htm
+ 9955559 - Disclosure - INVESTMENTS - Mortgage and Other Loans Receivable (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSMortgageandOtherLoansReceivableDetails
+ INVESTMENTS - Mortgage and Other Loans Receivable (Details)
+ Details
+ 93
+
+ false
+ false
+ R94.htm
+ 9955560 - Disclosure - INVESTMENTS - Maturity of Residential and Commercial Loans (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSMaturityofResidentialandCommercialLoansDetails
+ INVESTMENTS - Maturity of Residential and Commercial Loans (Details)
+ Details
+ 94
+
+ false
+ false
+ R95.htm
+ 9955561 - Disclosure - INVESTMENTS - Mortgage Loan Portfolio (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSMortgageLoanPortfolioDetails
+ INVESTMENTS - Mortgage Loan Portfolio (Details)
+ Details
+ 95
+
+ false
+ false
+ R96.htm
+ 9955562 - Disclosure - INVESTMENTS - Receivables By Credit Quality Indicator (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSReceivablesByCreditQualityIndicatorDetails
+ INVESTMENTS - Receivables By Credit Quality Indicator (Details)
+ Details
+ 96
+
+ false
+ false
+ R97.htm
+ 9955563 - Disclosure - INVESTMENTS - Loan-To-Value (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSLoanToValueDetails
+ INVESTMENTS - Loan-To-Value (Details)
+ Details
+ 97
+
+ false
+ false
+ R98.htm
+ 9955564 - Disclosure - INVESTMENTS - Loan Modifications (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSLoanModificationsDetails
+ INVESTMENTS - Loan Modifications (Details)
+ Details
+ 98
+
+ false
+ false
+ R99.htm
+ 9955565 - Disclosure - INVESTMENTS - Repurchase Agreements (Details)
+ Sheet
+ http://www.kkr.com/role/INVESTMENTSRepurchaseAgreementsDetails
+ INVESTMENTS - Repurchase Agreements (Details)
+ Details
+ 99
+
+ false
+ false
+ R100.htm
+ 9955566 - Disclosure - DERIVATIVES - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/DERIVATIVESNarrativeDetails
+ DERIVATIVES - Narrative (Details)
+ Details
+ 100
+
+ false
+ false
+ R101.htm
+ 9955567 - Disclosure - DERIVATIVES - Derivative Assets and Liabilities (Details)
+ Sheet
+ http://www.kkr.com/role/DERIVATIVESDerivativeAssetsandLiabilitiesDetails
+ DERIVATIVES - Derivative Assets and Liabilities (Details)
+ Details
+ 101
+
+ false
+ false
+ R102.htm
+ 9955568 - Disclosure - DERIVATIVES - Carrying Value of Instruments (Details)
+ Sheet
+ http://www.kkr.com/role/DERIVATIVESCarryingValueofInstrumentsDetails
+ DERIVATIVES - Carrying Value of Instruments (Details)
+ Details
+ 102
+
+ false
+ false
+ R103.htm
+ 9955569 - Disclosure - DERIVATIVES - Financial Statement Classification (Details)
+ Sheet
+ http://www.kkr.com/role/DERIVATIVESFinancialStatementClassificationDetails
+ DERIVATIVES - Financial Statement Classification (Details)
+ Details
+ 103
+
+ false
+ false
+ R104.htm
+ 9955570 - Disclosure - DERIVATIVES - Offsetting Assets and Liabilities (Details)
+ Sheet
+ http://www.kkr.com/role/DERIVATIVESOffsettingAssetsandLiabilitiesDetails
+ DERIVATIVES - Offsetting Assets and Liabilities (Details)
+ Details
+ 104
+
+ false
+ false
+ R105.htm
+ 9955571 - Disclosure - FAIR VALUE MEASUREMENTS - Assets and Liabilities at Fair Value (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTSAssetsandLiabilitiesatFairValueDetails
+ FAIR VALUE MEASUREMENTS - Assets and Liabilities at Fair Value (Details)
+ Details
+ 105
+
+ false
+ false
+ R106.htm
+ 9955572 - Disclosure - FAIR VALUE MEASUREMENTS - Changes in Level III Assets (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTSChangesinLevelIIIAssetsDetails
+ FAIR VALUE MEASUREMENTS - Changes in Level III Assets (Details)
+ Details
+ 106
+
+ false
+ false
+ R107.htm
+ 9955573 - Disclosure - FAIR VALUE MEASUREMENTS - Breakout of Asset Net Purchases/Issuances/Sales/Settlements (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTSBreakoutofAssetNetPurchasesIssuancesSalesSettlementsDetails
+ FAIR VALUE MEASUREMENTS - Breakout of Asset Net Purchases/Issuances/Sales/Settlements (Details)
+ Details
+ 107
+
+ false
+ false
+ R108.htm
+ 9955574 - Disclosure - FAIR VALUE MEASUREMENTS - Changes in Level III Liabilities (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTSChangesinLevelIIILiabilitiesDetails
+ FAIR VALUE MEASUREMENTS - Changes in Level III Liabilities (Details)
+ Details
+ 108
+
+ false
+ false
+ R109.htm
+ 9955575 - Disclosure - FAIR VALUE MEASUREMENTS - Breakout of Liability Issuances and Settlements (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTSBreakoutofLiabilityIssuancesandSettlementsDetails
+ FAIR VALUE MEASUREMENTS - Breakout of Liability Issuances and Settlements (Details)
+ Details
+ 109
+
+ false
+ false
+ R110.htm
+ 9955576 - Disclosure - FAIR VALUE MEASUREMENTS - Valuation Methodologies and Significant Unobservable Inputs (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTSValuationMethodologiesandSignificantUnobservableInputsDetails
+ FAIR VALUE MEASUREMENTS - Valuation Methodologies and Significant Unobservable Inputs (Details)
+ Details
+ 110
+
+ false
+ false
+ R111.htm
+ 9955577 - Disclosure - FAIR VALUE MEASUREMENTS - Instruments Not Carried At Fair Value (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEMEASUREMENTSInstrumentsNotCarriedAtFairValueDetails
+ FAIR VALUE MEASUREMENTS - Instruments Not Carried At Fair Value (Details)
+ Details
+ 111
+
+ false
+ false
+ R112.htm
+ 9955578 - Disclosure - FAIR VALUE OPTION - Financial Instruments (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEOPTIONFinancialInstrumentsDetails
+ FAIR VALUE OPTION - Financial Instruments (Details)
+ Details
+ 112
+
+ false
+ false
+ R113.htm
+ 9955579 - Disclosure - FAIR VALUE OPTION - Change in Fair Value (Details)
+ Sheet
+ http://www.kkr.com/role/FAIRVALUEOPTIONChangeinFairValueDetails
+ FAIR VALUE OPTION - Change in Fair Value (Details)
+ Details
+ 113
+
+ false
+ false
+ R114.htm
+ 9955580 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Reconciliation of Insurance Intangibles (Details)
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSReconciliationofInsuranceIntangiblesDetails
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Reconciliation of Insurance Intangibles (Details)
+ Details
+ 114
+
+ false
+ false
+ R115.htm
+ 9955581 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Deferred Policy Acquisition Costs (Details)
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSDeferredPolicyAcquisitionCostsDetails
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Deferred Policy Acquisition Costs (Details)
+ Details
+ 115
+
+ false
+ false
+ R116.htm
+ 9955582 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Value of Business Acquired Asset (Details)
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSValueofBusinessAcquiredAssetDetails
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Value of Business Acquired Asset (Details)
+ Details
+ 116
+
+ false
+ false
+ R117.htm
+ 9955583 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Value of Business Acquired Liability (Details)
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSValueofBusinessAcquiredLiabilityDetails
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Value of Business Acquired Liability (Details)
+ Details
+ 117
+
+ false
+ false
+ R118.htm
+ 9955584 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Estimated Future Amortization of VOBA (Details)
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSEstimatedFutureAmortizationofVOBADetails
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Estimated Future Amortization of VOBA (Details)
+ Details
+ 118
+
+ false
+ false
+ R119.htm
+ 9955585 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Unearned Revenue Reserve (Details)
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSUnearnedRevenueReserveDetails
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Unearned Revenue Reserve (Details)
+ Details
+ 119
+
+ false
+ false
+ R120.htm
+ 9955586 - Disclosure - INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSNarrativeDetails
+ INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Narrative (Details)
+ Details
+ http://www.kkr.com/role/INSURANCEINTANGIBLESUNEARNEDREVENUERESERVESANDUNEARNEDFRONTENDLOADSTables
+ 120
+
+ false
+ false
+ R121.htm
+ 9955587 - Disclosure - REINSURANCE - Effects of Reinsurance Agreements (Details)
+ Sheet
+ http://www.kkr.com/role/REINSURANCEEffectsofReinsuranceAgreementsDetails
+ REINSURANCE - Effects of Reinsurance Agreements (Details)
+ Details
+ 121
+
+ false
+ false
+ R122.htm
+ 9955588 - Disclosure - REINSURANCE - Credit Quality Indicator (Details)
+ Sheet
+ http://www.kkr.com/role/REINSURANCECreditQualityIndicatorDetails
+ REINSURANCE - Credit Quality Indicator (Details)
+ Details
+ 122
+
+ false
+ false
+ R123.htm
+ 9955589 - Disclosure - REINSURANCE - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/REINSURANCENarrativeDetails
+ REINSURANCE - Narrative (Details)
+ Details
+ 123
+
+ false
+ false
+ R124.htm
+ 9955590 - Disclosure - REINSURANCE - Effects of Reinsurance on Statements of Operations (Details)
+ Sheet
+ http://www.kkr.com/role/REINSURANCEEffectsofReinsuranceonStatementsofOperationsDetails
+ REINSURANCE - Effects of Reinsurance on Statements of Operations (Details)
+ Details
+ 124
+
+ false
+ false
+ R125.htm
+ 9955591 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Earnings Per Share (Details)
+ Sheet
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCKEarningsPerShareDetails
+ NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Earnings Per Share (Details)
+ Details
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCKTables
+ 125
+
+ false
+ false
+ R126.htm
+ 9955592 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Antidilutive Securities (Details)
+ Sheet
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCKAntidilutiveSecuritiesDetails
+ NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Antidilutive Securities (Details)
+ Details
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCKTables
+ 126
+
+ false
+ false
+ R127.htm
+ 9955593 - Disclosure - NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCKNarrativeDetails
+ NET INCOME (LOSS) ATTRIBUTABLE TO KKR & CO. INC. PER SHARE OF COMMON STOCK - Narrative (Details)
+ Details
+ http://www.kkr.com/role/NETINCOMELOSSATTRIBUTABLETOKKRCOINCPERSHAREOFCOMMONSTOCKTables
+ 127
+
+ false
+ false
+ R128.htm
+ 9955594 - Disclosure - OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES - Other Assets (Details)
+ Sheet
+ http://www.kkr.com/role/OTHERASSETSANDACCRUEDEXPENSESANDOTHERLIABILITIESOtherAssetsDetails
+ OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES - Other Assets (Details)
+ Details
+ 128
+
+ false
+ false
+ R129.htm
+ 9955595 - Disclosure - OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES - Accounts Payable, Accrued Expenses and Other Liabilities (Details)
+ Sheet
+ http://www.kkr.com/role/OTHERASSETSANDACCRUEDEXPENSESANDOTHERLIABILITIESAccountsPayableAccruedExpensesandOtherLiabilitiesDetails
+ OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES - Accounts Payable, Accrued Expenses and Other Liabilities (Details)
+ Details
+ 129
+
+ false
+ false
+ R130.htm
+ 9955596 - Disclosure - VARIABLE INTEREST ENTITIES - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/VARIABLEINTERESTENTITIESNarrativeDetails
+ VARIABLE INTEREST ENTITIES - Narrative (Details)
+ Details
+ 130
+
+ false
+ false
+ R131.htm
+ 9955597 - Disclosure - VARIABLE INTEREST ENTITIES - Maximum Exposure to Loss (Details)
+ Sheet
+ http://www.kkr.com/role/VARIABLEINTERESTENTITIESMaximumExposuretoLossDetails
+ VARIABLE INTEREST ENTITIES - Maximum Exposure to Loss (Details)
+ Details
+ 131
+
+ false
+ false
+ R132.htm
+ 9955598 - Disclosure - DEBT OBLIGATIONS - Components of Debt Obligations (Details)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSComponentsofDebtObligationsDetails
+ DEBT OBLIGATIONS - Components of Debt Obligations (Details)
+ Details
+ 132
+
+ false
+ false
+ R133.htm
+ 9955599 - Disclosure - DEBT OBLIGATIONS - Third Amended and Restated Credit Agreement (Details)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSThirdAmendedandRestatedCreditAgreementDetails
+ DEBT OBLIGATIONS - Third Amended and Restated Credit Agreement (Details)
+ Details
+ 133
+
+ false
+ false
+ R134.htm
+ 9955600 - Disclosure - DEBT OBLIGATIONS - KKR Group Finance Co. XI LLC May 2024 Notes Offering (Details)
+ Notes
+ http://www.kkr.com/role/DEBTOBLIGATIONSKKRGroupFinanceCoXILLCMay2024NotesOfferingDetails
+ DEBT OBLIGATIONS - KKR Group Finance Co. XI LLC May 2024 Notes Offering (Details)
+ Details
+ 134
+
+ false
+ false
+ R135.htm
+ 9955601 - Disclosure - DEBT OBLIGATIONS - KCM 364-Day Revolving Credit Facility (Details)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSKCM364DayRevolvingCreditFacilityDetails
+ DEBT OBLIGATIONS - KCM 364-Day Revolving Credit Facility (Details)
+ Details
+ 135
+
+ false
+ false
+ R136.htm
+ 9955602 - Disclosure - DEBT OBLIGATIONS - KCM Credit Facility (Details)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSKCMCreditFacilityDetails
+ DEBT OBLIGATIONS - KCM Credit Facility (Details)
+ Details
+ 136
+
+ false
+ false
+ R137.htm
+ 9955603 - Disclosure - DEBT OBLIGATIONS - Other Asset Management and Strategic Holdings Debt Obligations (Details)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSOtherAssetManagementandStrategicHoldingsDebtObligationsDetails
+ DEBT OBLIGATIONS - Other Asset Management and Strategic Holdings Debt Obligations (Details)
+ Details
+ 137
+
+ false
+ false
+ R138.htm
+ 9955604 - Disclosure - DEBT OBLIGATIONS - Global Atlantic's Debt Obligations (Details)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSGlobalAtlanticsDebtObligationsDetails
+ DEBT OBLIGATIONS - Global Atlantic's Debt Obligations (Details)
+ Details
+ 138
+
+ false
+ false
+ R139.htm
+ 9955605 - Disclosure - DEBT OBLIGATIONS - Senior Notes (Details)
+ Notes
+ http://www.kkr.com/role/DEBTOBLIGATIONSSeniorNotesDetails
+ DEBT OBLIGATIONS - Senior Notes (Details)
+ Details
+ 139
+
+ false
+ false
+ R140.htm
+ 9955606 - Disclosure - DEBT OBLIGATIONS - Subordinated Notes (Details)
+ Notes
+ http://www.kkr.com/role/DEBTOBLIGATIONSSubordinatedNotesDetails
+ DEBT OBLIGATIONS - Subordinated Notes (Details)
+ Details
+ 140
+
+ false
+ false
+ R141.htm
+ 9955607 - Disclosure - DEBT OBLIGATIONS - Global Atlantic Credit Agreement (Details)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSGlobalAtlanticCreditAgreementDetails
+ DEBT OBLIGATIONS - Global Atlantic Credit Agreement (Details)
+ Details
+ 141
+
+ false
+ false
+ R142.htm
+ 9955608 - Disclosure - DEBT OBLIGATIONS - Debt Covenants (Details)
+ Sheet
+ http://www.kkr.com/role/DEBTOBLIGATIONSDebtCovenantsDetails
+ DEBT OBLIGATIONS - Debt Covenants (Details)
+ Details
+ 142
+
+ false
+ false
+ R143.htm
+ 9955609 - Disclosure - POLICY LIABILITIES - Composition of Policyholder Liabilities (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESCompositionofPolicyholderLiabilitiesDetails
+ POLICY LIABILITIES - Composition of Policyholder Liabilities (Details)
+ Details
+ 143
+
+ false
+ false
+ R144.htm
+ 9955610 - Disclosure - POLICY LIABILITIES - Balance and Changes In Policyholder Account Balances (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESBalanceandChangesInPolicyholderAccountBalancesDetails
+ POLICY LIABILITIES - Balance and Changes In Policyholder Account Balances (Details)
+ Details
+ 144
+
+ false
+ false
+ R145.htm
+ 9955611 - Disclosure - POLICY LIABILITIES - Guaranteed Minimum Interest Rates (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESGuaranteedMinimumInterestRatesDetails
+ POLICY LIABILITIES - Guaranteed Minimum Interest Rates (Details)
+ Details
+ 145
+
+ false
+ false
+ R146.htm
+ 9955612 - Disclosure - POLICY LIABILITIES - Balances of and Changes in Liability for Future Policy Benefits (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESBalancesofandChangesinLiabilityforFuturePolicyBenefitsDetails
+ POLICY LIABILITIES - Balances of and Changes in Liability for Future Policy Benefits (Details)
+ Details
+ 146
+
+ false
+ false
+ R147.htm
+ 9955613 - Disclosure - POLICY LIABILITIES - Amounts Recognized in Statement of Operations (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESAmountsRecognizedinStatementofOperationsDetails
+ POLICY LIABILITIES - Amounts Recognized in Statement of Operations (Details)
+ Details
+ 147
+
+ false
+ false
+ R148.htm
+ 9955614 - Disclosure - POLICY LIABILITIES - Weighted-Average Interest Rates of Future Policy Benefits (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESWeightedAverageInterestRatesofFuturePolicyBenefitsDetails
+ POLICY LIABILITIES - Weighted-Average Interest Rates of Future Policy Benefits (Details)
+ Details
+ 148
+
+ false
+ false
+ R149.htm
+ 9955615 - Disclosure - POLICY LIABILITIES - Expected Future Benefit Payments and Gross Premiums, Undiscounted and Discounted (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESExpectedFutureBenefitPaymentsandGrossPremiumsUndiscountedandDiscountedDetails
+ POLICY LIABILITIES - Expected Future Benefit Payments and Gross Premiums, Undiscounted and Discounted (Details)
+ Details
+ 149
+
+ false
+ false
+ R150.htm
+ 9955616 - Disclosure - POLICY LIABILITIES - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESNarrativeDetails
+ POLICY LIABILITIES - Narrative (Details)
+ Details
+ 150
+
+ false
+ false
+ R151.htm
+ 9955617 - Disclosure - POLICY LIABILITIES - Additional Liabilities (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESAdditionalLiabilitiesDetails
+ POLICY LIABILITIES - Additional Liabilities (Details)
+ Details
+ 151
+
+ false
+ false
+ R152.htm
+ 9955618 - Disclosure - POLICY LIABILITIES - Market Based Risk (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESMarketBasedRiskDetails
+ POLICY LIABILITIES - Market Based Risk (Details)
+ Details
+ 152
+
+ false
+ false
+ R153.htm
+ 9955619 - Disclosure - POLICY LIABILITIES - Separate Account Liabilities (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESSeparateAccountLiabilitiesDetails
+ POLICY LIABILITIES - Separate Account Liabilities (Details)
+ Details
+ 153
+
+ false
+ false
+ R154.htm
+ 9955620 - Disclosure - POLICY LIABILITIES - Separate Account Assets (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESSeparateAccountAssetsDetails
+ POLICY LIABILITIES - Separate Account Assets (Details)
+ Details
+ 154
+
+ false
+ false
+ R155.htm
+ 9955621 - Disclosure - POLICY LIABILITIES - Closed Blocks (Details)
+ Sheet
+ http://www.kkr.com/role/POLICYLIABILITIESClosedBlocksDetails
+ POLICY LIABILITIES - Closed Blocks (Details)
+ Details
+ 155
+
+ false
+ false
+ R156.htm
+ 9955622 - Disclosure - INCOME TAXES - Income before Income Tax, Domestic and Foreign (Details)
+ Sheet
+ http://www.kkr.com/role/INCOMETAXESIncomebeforeIncomeTaxDomesticandForeignDetails
+ INCOME TAXES - Income before Income Tax, Domestic and Foreign (Details)
+ Details
+ 156
+
+ false
+ false
+ R157.htm
+ 9955623 - Disclosure - INCOME TAXES - Provision (Benefit) for Income Taxes (Details)
+ Sheet
+ http://www.kkr.com/role/INCOMETAXESProvisionBenefitforIncomeTaxesDetails
+ INCOME TAXES - Provision (Benefit) for Income Taxes (Details)
+ Details
+ 157
+
+ false
+ false
+ R158.htm
+ 9955624 - Disclosure - INCOME TAXES - Reconciliation of Effective Income Tax Rate to the U.S. Federal Statutory Tax Rate (Details)
+ Sheet
+ http://www.kkr.com/role/INCOMETAXESReconciliationofEffectiveIncomeTaxRatetotheUSFederalStatutoryTaxRateDetails
+ INCOME TAXES - Reconciliation of Effective Income Tax Rate to the U.S. Federal Statutory Tax Rate (Details)
+ Details
+ 158
+
+ false
+ false
+ R159.htm
+ 9955625 - Disclosure - INCOME TAXES - Components of Deferred Tax Assets or Liabilities (Details)
+ Sheet
+ http://www.kkr.com/role/INCOMETAXESComponentsofDeferredTaxAssetsorLiabilitiesDetails
+ INCOME TAXES - Components of Deferred Tax Assets or Liabilities (Details)
+ Details
+ 159
+
+ false
+ false
+ R160.htm
+ 9955626 - Disclosure - INCOME TAXES - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/INCOMETAXESNarrativeDetails
+ INCOME TAXES - Narrative (Details)
+ Details
+ 160
+
+ false
+ false
+ R161.htm
+ 9955627 - Disclosure - INCOME TAXES - Unrecognized Tax Benefits (Details)
+ Sheet
+ http://www.kkr.com/role/INCOMETAXESUnrecognizedTaxBenefitsDetails
+ INCOME TAXES - Unrecognized Tax Benefits (Details)
+ Details
+ 161
+
+ false
+ false
+ R162.htm
+ 9955628 - Disclosure - EQUITY-BASED COMPENSATION - KKR Equity Incentive Plan (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONKKREquityIncentivePlanDetails
+ EQUITY-BASED COMPENSATION - KKR Equity Incentive Plan (Details)
+ Details
+ 162
+
+ false
+ false
+ R163.htm
+ 9955629 - Disclosure - EQUITY-BASED COMPENSATION - KKR Equity Incentive Plans Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONKKREquityIncentivePlansNarrativeDetails
+ EQUITY-BASED COMPENSATION - KKR Equity Incentive Plans Narrative (Details)
+ Details
+ 163
+
+ false
+ false
+ R164.htm
+ 9955630 - Disclosure - EQUITY-BASED COMPENSATION - Awards Rollforward (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONAwardsRollforwardDetails
+ EQUITY-BASED COMPENSATION - Awards Rollforward (Details)
+ Details
+ 164
+
+ false
+ false
+ R165.htm
+ 9955631 - Disclosure - EQUITY-BASED COMPENSATION - Market Condition Awards Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONMarketConditionAwardsNarrativeDetails
+ EQUITY-BASED COMPENSATION - Market Condition Awards Narrative (Details)
+ Details
+ 165
+
+ false
+ false
+ R166.htm
+ 9955632 - Disclosure - EQUITY-BASED COMPENSATION - Assumptions Used to Estimate Fair Value (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONAssumptionsUsedtoEstimateFairValueDetails
+ EQUITY-BASED COMPENSATION - Assumptions Used to Estimate Fair Value (Details)
+ Details
+ 166
+
+ false
+ false
+ R167.htm
+ 9955633 - Disclosure - EQUITY-BASED COMPENSATION - Co-CEO Awards Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONCoCEOAwardsNarrativeDetails
+ EQUITY-BASED COMPENSATION - Co-CEO Awards Narrative (Details)
+ Details
+ 167
+
+ false
+ false
+ R168.htm
+ 9955634 - Disclosure - EQUITY-BASED COMPENSATION - Book Value Awards Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONBookValueAwardsNarrativeDetails
+ EQUITY-BASED COMPENSATION - Book Value Awards Narrative (Details)
+ Details
+ 168
+
+ false
+ false
+ R169.htm
+ 9955635 - Disclosure - EQUITY-BASED COMPENSATION - GA Equity Incentive Plan Awards Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYBASEDCOMPENSATIONGAEquityIncentivePlanAwardsNarrativeDetails
+ EQUITY-BASED COMPENSATION - GA Equity Incentive Plan Awards Narrative (Details)
+ Details
+ 169
+
+ false
+ false
+ R170.htm
+ 9955636 - Disclosure - RELATED PARTY TRANSACTIONS - Schedule of Related Party Transactions (Details)
+ Sheet
+ http://www.kkr.com/role/RELATEDPARTYTRANSACTIONSScheduleofRelatedPartyTransactionsDetails
+ RELATED PARTY TRANSACTIONS - Schedule of Related Party Transactions (Details)
+ Details
+ 170
+
+ false
+ false
+ R171.htm
+ 9955637 - Disclosure - RELATED PARTY TRANSACTIONS - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/RELATEDPARTYTRANSACTIONSNarrativeDetails
+ RELATED PARTY TRANSACTIONS - Narrative (Details)
+ Details
+ 171
+
+ false
+ false
+ R172.htm
+ 9955638 - Disclosure - SEGMENT REPORTING - Information Regarding Segment Results (Details)
+ Sheet
+ http://www.kkr.com/role/SEGMENTREPORTINGInformationRegardingSegmentResultsDetails
+ SEGMENT REPORTING - Information Regarding Segment Results (Details)
+ Details
+ 172
+
+ false
+ false
+ R173.htm
+ 9955639 - Disclosure - SEGMENT REPORTING - Reconciliation to Total Segment Revenues (Details)
+ Sheet
+ http://www.kkr.com/role/SEGMENTREPORTINGReconciliationtoTotalSegmentRevenuesDetails
+ SEGMENT REPORTING - Reconciliation to Total Segment Revenues (Details)
+ Details
+ 173
+
+ false
+ false
+ R174.htm
+ 9955640 - Disclosure - SEGMENT REPORTING - Reconciliation to Total Segment Expenses (Details)
+ Sheet
+ http://www.kkr.com/role/SEGMENTREPORTINGReconciliationtoTotalSegmentExpensesDetails
+ SEGMENT REPORTING - Reconciliation to Total Segment Expenses (Details)
+ Details
+ 174
+
+ false
+ false
+ R175.htm
+ 9955641 - Disclosure - SEGMENT REPORTING - Total Distributable Operating Earnings Reconciliation (Details)
+ Sheet
+ http://www.kkr.com/role/SEGMENTREPORTINGTotalDistributableOperatingEarningsReconciliationDetails
+ SEGMENT REPORTING - Total Distributable Operating Earnings Reconciliation (Details)
+ Details
+ 175
+
+ false
+ false
+ R176.htm
+ 9955642 - Disclosure - SEGMENT REPORTING - Total Segment Assets (Details)
+ Sheet
+ http://www.kkr.com/role/SEGMENTREPORTINGTotalSegmentAssetsDetails
+ SEGMENT REPORTING - Total Segment Assets (Details)
+ Details
+ 176
+
+ false
+ false
+ R177.htm
+ 9955643 - Disclosure - EQUITY - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYNarrativeDetails
+ EQUITY - Narrative (Details)
+ Details
+ 177
+
+ false
+ false
+ R178.htm
+ 9955644 - Disclosure - EQUITY - Share Repurchases (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYShareRepurchasesDetails
+ EQUITY - Share Repurchases (Details)
+ Details
+ 178
+
+ false
+ false
+ R179.htm
+ 9955645 - Disclosure - EQUITY - Noncontrolling Interests Calculation (Details)
+ Sheet
+ http://www.kkr.com/role/EQUITYNoncontrollingInterestsCalculationDetails
+ EQUITY - Noncontrolling Interests Calculation (Details)
+ Details
+ 179
+
+ false
+ false
+ R180.htm
+ 9955646 - Disclosure - REDEEMABLE NONCONTROLLING INTERESTS - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/REDEEMABLENONCONTROLLINGINTERESTSNarrativeDetails
+ REDEEMABLE NONCONTROLLING INTERESTS - Narrative (Details)
+ Details
+ 180
+
+ false
+ false
+ R181.htm
+ 9955647 - Disclosure - REDEEMABLE NONCONTROLLING INTERESTS - Rollforward of Redeemable Noncontrolling Interest (Details)
+ Sheet
+ http://www.kkr.com/role/REDEEMABLENONCONTROLLINGINTERESTSRollforwardofRedeemableNoncontrollingInterestDetails
+ REDEEMABLE NONCONTROLLING INTERESTS - Rollforward of Redeemable Noncontrolling Interest (Details)
+ Details
+ 181
+
+ false
+ false
+ R182.htm
+ 9955648 - Disclosure - COMMITMENTS AND CONTINGENCIES - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/COMMITMENTSANDCONTINGENCIESNarrativeDetails
+ COMMITMENTS AND CONTINGENCIES - Narrative (Details)
+ Details
+ 182
+
+ false
+ false
+ R183.htm
+ 9955649 - Disclosure - COMMITMENTS AND CONTINGENCIES - Schedule of Purchase Obligations (Details)
+ Sheet
+ http://www.kkr.com/role/COMMITMENTSANDCONTINGENCIESScheduleofPurchaseObligationsDetails
+ COMMITMENTS AND CONTINGENCIES - Schedule of Purchase Obligations (Details)
+ Details
+ 183
+
+ false
+ false
+ R184.htm
+ 9955650 - Disclosure - COMMITMENTS AND CONTINGENCIES - Non-cancelable Operating Leases (Details)
+ Sheet
+ http://www.kkr.com/role/COMMITMENTSANDCONTINGENCIESNoncancelableOperatingLeasesDetails
+ COMMITMENTS AND CONTINGENCIES - Non-cancelable Operating Leases (Details)
+ Details
+ 184
+
+ false
+ false
+ R185.htm
+ 9955651 - Disclosure - CAPITAL & REGULATORY REQUIREMENTS - Schedule of Ordinary Dividend Capacity (Details)
+ Sheet
+ http://www.kkr.com/role/CAPITALREGULATORYREQUIREMENTSScheduleofOrdinaryDividendCapacityDetails
+ CAPITAL & REGULATORY REQUIREMENTS - Schedule of Ordinary Dividend Capacity (Details)
+ Details
+ 185
+
+ false
+ false
+ R186.htm
+ 9955652 - Disclosure - CAPITAL & REGULATORY REQUIREMENTS - Narrative (Details)
+ Sheet
+ http://www.kkr.com/role/CAPITALREGULATORYREQUIREMENTSNarrativeDetails
+ CAPITAL & REGULATORY REQUIREMENTS - Narrative (Details)
+ Details
+ 186
+
+ false
+ false
+ R187.htm
+ 9955653 - Disclosure - SUBSEQUENT EVENTS (Details)
+ Sheet
+ http://www.kkr.com/role/SUBSEQUENTEVENTSDetails
+ SUBSEQUENT EVENTS (Details)
+ Details
+ http://www.kkr.com/role/SUBSEQUENTEVENTS
+ 187
+
+ false
+ false
+ R188.htm
+ 9955654 - Disclosure - SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS - Valuation For Deferred Tax Assets (Details)
+ Sheet
+ http://www.kkr.com/role/SCHEDULEIIVALUATIONANDQUALIFYINGACCOUNTSValuationForDeferredTaxAssetsDetails
+ SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS - Valuation For Deferred Tax Assets (Details)
+ Details
+ 188
+
+ false
+ false
+ R189.htm
+ 9955655 - Disclosure - SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS - Reserves Deducted From Assets To Which They Apply (Details)
+ Sheet
+ http://www.kkr.com/role/SCHEDULEIIVALUATIONANDQUALIFYINGACCOUNTSReservesDeductedFromAssetsToWhichTheyApplyDetails
+ SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS - Reserves Deducted From Assets To Which They Apply (Details)
+ Details
+ 189
+
+ false
+ false
+ R190.htm
+ 9955656 - Disclosure - SCHEDULE IV - REINSURANCE (Details)
+ Sheet
+ http://www.kkr.com/role/SCHEDULEIVREINSURANCEDetails
+ SCHEDULE IV - REINSURANCE (Details)
+ Details
+ http://www.kkr.com/role/SCHEDULEIVREINSURANCE
+ 190
+
+ false
+ false
+ All Reports
+ Book
+ All Reports
+
+ kkr-20241231.htm
+ kkr-20241231.xsd
+ kkr-20241231_cal.xml
+ kkr-20241231_def.xml
+ kkr-20241231_lab.xml
+ kkr-20241231_pre.xml
+
+ kkr-20241231_g1.jpg
+ kkr-20241231_g2.jpg
+ kkr-20241231_g3.jpg
+ kkr-20241231_g4.jpg
+ kkr-20241231_g5.jpg
+ kkr-20241231_g6.jpg
+
+ http://fasb.org/srt/2024
+ http://fasb.org/us-gaap/2024
+ http://xbrl.sec.gov/cyd/2024
+ http://xbrl.sec.gov/dei/2024
+ http://xbrl.sec.gov/ecd/2024
+
+ true
+ true

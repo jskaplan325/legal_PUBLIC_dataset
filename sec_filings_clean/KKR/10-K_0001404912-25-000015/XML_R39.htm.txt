@@ -1,0 +1,135 @@
+XML
+61
+R39.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+SEC Schedule, 12-09, Valuation and Qualifying Accounts [Abstract]
+
+SCHEDULE II - VALUATION AND QUALIFYING ACCOUNTS
+
+SCHEDULE II VALUATION AND QUALIFYING ACCOUNTS
+Valuation Allowance for Deferred Tax Assets
+(in thousands)
+Asset Management and Strategic Holdings
+
+ Balance at Beginning of Period Tax Valuation Allowance (Charged) /Credited to Income Tax Provision Tax Valuation Allowance (Charged) / Credited to Balance Sheet Balance at End of Period
+Year Ended:
+
+December 31, 2022 $ (23,082) $ $ 23,082 (1)
+ $
+December 31, 2023 $ $ $ $
+December 31, 2024 $ $ $ $
+
+(1) A valuation allowance was recorded for deferred tax assets related to foreign loss carryforwards that were not considered to be more likely than not realized prior to their expiration. These deferred taxes and associated valuation allowances were reversed in 2022 as a result of a deconsolidation transaction.
+
+Insurance
+
+ Balance at Beginning of Period Tax Valuation Allowance (Charged) /Credited to Income Tax Provision Tax Valuation Allowance (Charged) / Credited to Balance Sheet Balance at End of Period
+Year Ended:
+
+December 31, 2022 $ $ $ (89,250) (2)
+ $ (89,250)
+December 31, 2023 $ (89,250) $ $ $ (89,250)
+December 31, 2024 $ (89,250) $ 67,147 $ (14,830) (3)
+ $ (36,933)
+
+(2) In 2022, a valuation allowance was recorded for deferred tax assets related to unrealized tax capital losses that were at the time not considered to be more likely than not to be realized prior to their expiration. In 2024, based on a change in judgment, Global Atlantic concluded that it had the ability to utilize realized capital loss carryforwards prior to their expiration, and to recover its unrealized losses in the available for sale securities portfolio. As a result, Global Atlantic concluded that it was more likely than not that the related deferred tax assets would be wholly realizable, and consequently released the previously recorded valuation allowance recorded against its deferred income tax assets.
+(3) On January 2, 2024, Global Atlantic became subject to Bermuda CIT and resulted in the establishment of a $22.1 million deferred tax asset, primarily on available-for-sale securities, which was offset by a full valuation allowance. As of December 31, 2024, a valuation allowance of $36.9 million was recorded on the deferred tax assets associated with Bermuda CIT.
+
+Insurance
+ Year Ended December 31, 2024
+ Additions
+ Balance at Beginning of Period Charged to Costs and Expenses Assumed Recoveries Deductions Charge-off Balance at End of Period
+
+Reserves Deducted from Assets to Which They Apply:
+Credit Loss Allowance on Available-for-sale Securities $ 268,712 $ 115,367 $ 611 $ $ (20,466) $ (88,902) $ 275,322
+Credit Loss Allowance on Loans 602,443 305,770 28,773 (322,578) 614,408
+Credit Loss Allowance on Unfunded Commitments and Letters of Credit 49,432 (30,639) 18,793
+Credit Loss Allowance on Reinsurance Recoverables 21,049 (4,681) 16,368
+
+ Year Ended December 31, 2023
+ Additions
+ Balance at Beginning of Period Charged to Costs and Expenses Assumed Recoveries Deductions Charge-off Balance at End of Period
+
+Reserves Deducted from Assets to Which They Apply:
+Credit Loss Allowance on Available-for-sale Securities $ 128,332 $ 168,899 $ 1,191 $ $ (16,063) $ (13,647) $ 268,712
+Credit Loss Allowance on Loans 560,228 210,704 21,768 (190,257) 602,443
+Credit Loss Allowance on Unfunded Commitments 55,786 (6,354) 49,432
+Credit Loss Allowance on Reinsurance Recoverables 41,163 (20,114) 21,049
+
+ Year Ended December 31, 2022
+ Additions
+ Balance at Beginning of Period Charged to Costs and Expenses Assumed Recoveries Deductions Charge-off Balance at End of Period
+
+Reserves Deducted from Assets to Which They Apply:
+Credit Loss Allowance on Available-for-sale Securities $ 88,133 $ 57,411 $ 2,554 $ $ (11,925) $ (7,841) $ 128,332
+Credit Loss Allowance on Loans 374,077 369,296 (183,145) 560,228
+Credit Loss Allowance on Unfunded Commitments 21,675 34,111 55,786
+Credit Loss Allowance on Reinsurance Recoverables 8,386 32,777 41,163
+
+X
+
+- DefinitionThe entire disclosure for valuation and qualifying accounts and reserves.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-X (SX)
+ -Number 210
+ -Section 12
+ -Subsection 09
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 4
+ -Subparagraph (SX 210.12-09)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-4
+
++ Details
+
+ Name:
+srt_ScheduleOfValuationAndQualifyingAccountsDisclosureTextBlock
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+srt_ValuationAndQualifyingAccountsAbstract
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

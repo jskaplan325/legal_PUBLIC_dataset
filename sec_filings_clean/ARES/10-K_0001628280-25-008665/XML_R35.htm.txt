@@ -1,0 +1,118 @@
+XML
+107
+R35.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+OTHER ASSETS (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Other Assets [Abstract]
+
+Schedule of Components of Other Assets
+The components of other assets were as follows:
+
+ As of December 31,
+ 2024 2023
+Other assets of the Company:
+Accounts and interest receivable $ 169,007 $ 128,756
+Fixed assets, net 177,671 122,223
+
+Deferred tax assets, net 241,894 21,549
+Other assets 186,082 157,451
+Total other assets of the Company $ 774,654 $ 429,979
+Other assets of Consolidated Funds:
+Dividends and interest receivable $ 70,657 $ 88,196
+Income tax and other receivables 11,740 12,627
+Total other assets of Consolidated Funds $ 82,397 $ 100,823
+
+Schedule of Fixed Assets, Net
+The components of fixed assets were as follows:
+
+ As of December 31,
+ 2024 2023
+
+Office and computer equipment $ 62,920 $ 52,681
+Internal-use software 29,119 51,226
+Leasehold improvements 166,250 134,272
+Fixed assets, at cost 258,289 238,179
+Less: accumulated depreciation (80,618) (115,956)
+Fixed assets, net $ 177,671 $ 122,223
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OtherAssetsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of physical assets used in the normal conduct of business and not intended for resale. Includes, but is not limited to, balances by class of assets, depreciation and depletion expense and method used, including composite depreciation, and accumulated deprecation.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 10
+ -Topic 360
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482099/360-10-50-1
+
++ Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the carrying amounts of other assets. This disclosure includes other current assets and other noncurrent assets.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfOtherAssetsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

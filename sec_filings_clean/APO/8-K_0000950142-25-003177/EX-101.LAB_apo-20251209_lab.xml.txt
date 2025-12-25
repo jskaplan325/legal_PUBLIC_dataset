@@ -1,0 +1,132 @@
+EX-101.LAB
+4
+apo-20251209_lab.xml
+XBRL LABEL FILE
+
+ Class of Stock [Axis]
+
+ Common Stock [Member]
+
+ 6.75% Series A Mandatory Convertible Preferred Stock [Member]
+
+ 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053 [Member]
+
+ Statement [Table]
+
+ Statement [Line Items]
+
+ Document Type
+
+ Amendment Flag
+
+ Amendment Description
+
+ Document Registration Statement
+
+ Document Annual Report
+
+ Document Quarterly Report
+
+ Document Transition Report
+
+ Document Shell Company Report
+
+ Document Shell Company Event Date
+
+ Document Period Start Date
+
+ Document Period End Date
+
+ Document Fiscal Period Focus
+
+ Document Fiscal Year Focus
+
+ Current Fiscal Year End Date
+
+ Entity File Number
+
+ Entity Registrant Name
+
+ Entity Central Index Key
+
+ Entity Primary SIC Number
+
+ Entity Tax Identification Number
+
+ Entity Incorporation, State or Country Code
+
+ Entity Address, Address Line One
+
+ Entity Address, Address Line Two
+
+ Entity Address, Address Line Three
+
+ Entity Address, City or Town
+
+ Entity Address, State or Province
+
+ Entity Address, Country
+
+ Entity Address, Postal Zip Code
+
+ Country Region
+
+ City Area Code
+
+ Local Phone Number
+
+ Extension
+
+ Written Communications
+
+ Soliciting Material
+
+ Pre-commencement Tender Offer
+
+ Pre-commencement Issuer Tender Offer
+
+ Title of 12(b) Security
+
+ No Trading Symbol Flag
+
+ Trading Symbol
+
+ Security Exchange Name
+
+ Title of 12(g) Security
+
+ Security Reporting Obligation
+
+ Annual Information Form
+
+ Audited Annual Financial Statements
+
+ Entity Well-known Seasoned Issuer
+
+ Entity Voluntary Filers
+
+ Entity Current Reporting Status
+
+ Entity Interactive Data Current
+
+ Entity Filer Category
+
+ Entity Small Business
+
+ Entity Emerging Growth Company
+
+ Elected Not To Use the Extended Transition Period
+
+ Document Accounting Standard
+
+ Other Reporting Standard Item Number
+
+ Entity Shell Company
+
+ Entity Public Float
+
+ Entity Bankruptcy Proceedings, Reporting Current
+
+ Entity Common Stock, Shares Outstanding
+
+ Documents Incorporated by Reference [Text Block]

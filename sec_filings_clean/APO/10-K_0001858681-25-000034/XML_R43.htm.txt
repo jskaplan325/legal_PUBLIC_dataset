@@ -1,0 +1,151 @@
+XML
+73
+R43.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Reinsurance (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Schedule of Effects of Reinsurance
+The following summarizes the effect of reinsurance on premiums and future policy and other policy benefits on the consolidated statements of operations:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Premiums
+Direct $ 1,089 $ 10,525 $ 11,373
+Reinsurance assumed 313 2,313 377
+Reinsurance ceded (84) (89) (112)
+Total premiums $ 1,318 $ 12,749 $ 11,638
+Future policy and other policy benefits
+Direct $ 2,779 $ 12,321 $ 12,142
+Reinsurance assumed 550 2,389 416
+Reinsurance ceded (275) (276) (93)
+Total future policy and other policy benefits $ 3,054 $ 14,434 $ 12,465
+
+Schedule of Reinsurance Transactions
+The following summarizes the block reinsurance agreement at inception:
+(In millions) Year ended December 31, 2023
+Liabilities assumed $ 1,975
+Less: Assets received 2,158
+Deferred profit liability1
+ $ (183)
+
+1 Included within future policy benefits on the consolidated statements of financial condition.
+
+Schedule of Reinsurance Recoverables
+The following summarizes reinsurance recoverable balances:
+
+ December 31,
+(In millions) 2024 2023
+Catalina $ 4,309 $
+Global Atlantic 2,328 2,435
+Protective 1,435 1,559
+Other1
+ 122 160
+Reinsurance recoverable $ 8,194 $ 4,154
+
+1 Represents all other reinsurers, with no single reinsurer having a carrying value in excess of 5% of the total recoverable.
+
+X
+
+- DefinitionSummary Of Reinsurance Recoverables
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_SummaryOfReinsuranceRecoverablesTableTextBlock
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSummary Of Reinsurance Transactions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_SummaryOfReinsuranceTransactionsTableTextBlock
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the effects of reinsurance, for example, but not limited to, disclosure of direct, assumed, and ceded insurance.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 605
+ -Topic 944
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479032/944-605-50-1
+
++ Details
+
+ Name:
+us-gaap_EffectsOfReinsuranceTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

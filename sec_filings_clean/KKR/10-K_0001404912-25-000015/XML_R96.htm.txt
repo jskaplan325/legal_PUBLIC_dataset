@@ -1,0 +1,1499 @@
+XML
+118
+R96.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INVESTMENTS - Receivables By Credit Quality Indicator (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Gross Charge-offs
+
+Total
+$ (322,578)
+
+$ (190,257)
+
+$ (183,145)
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Total
+53,365,485
+
+39,780,370
+
+Residential, Commercial, And Consumer Portfolio Segment
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+13,596,775
+
+6,564,559
+
+Year two
+8,151,138
+
+8,817,810
+
+Year three
+8,772,623
+
+13,237,124
+
+Year four
+12,074,182
+
+2,750,871
+
+Year five
+2,343,028
+
+2,255,351
+
+Prior
+6,755,226
+
+5,383,190
+
+Total
+51,692,972
+
+39,008,905
+
+Commercial Mortgage Loans
+
+Gross Charge-offs
+
+Year one
+0
+
+0
+
+Year two
+0
+
+0
+
+Year three
+(20,387)
+
+0
+
+Year four
+(80,798)
+
+0
+
+Year five
+(10,695)
+
+(14,000)
+
+Prior
+(51,598)
+
+(7,616)
+
+Total
+(163,478)
+
+(21,616)
+
+0
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+4,626,771
+
+3,600,652
+
+Year two
+3,575,323
+
+6,278,419
+
+Year three
+6,012,774
+
+6,815,362
+
+Year four
+6,511,726
+
+661,316
+
+Year five
+559,931
+
+1,395,717
+
+Prior
+3,976,623
+
+3,109,779
+
+Total
+25,263,148
+
+21,861,245
+
+Residential Mortgage Loans
+
+Gross Charge-offs
+
+Year one
+(15)
+
+(6)
+
+Year two
+(7)
+
+(1,228)
+
+Year three
+(1,308)
+
+(2,244)
+
+Year four
+(2,565)
+
+(913)
+
+Year five
+(524)
+
+(1,412)
+
+Prior
+(697)
+
+(2,373)
+
+Total
+(5,116)
+
+(8,176)
+
+$ (21,055)
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+8,375,644
+
+2,849,017
+
+Year two
+4,114,970
+
+2,031,510
+
+Year three
+2,059,689
+
+4,638,183
+
+Year four
+4,126,135
+
+1,375,239
+
+Year five
+1,207,987
+
+237,681
+
+Prior
+1,697,191
+
+1,591,148
+
+Total
+21,581,616
+
+12,722,778
+
+Consumer Loans
+
+Gross Charge-offs
+
+Year one
+(1,345)
+
+(185)
+
+Year two
+(6,896)
+
+(18,117)
+
+Year three
+(22,614)
+
+(83,147)
+
+Year four
+(73,814)
+
+(23,273)
+
+Year five
+(19,872)
+
+(15,740)
+
+Prior
+(29,251)
+
+(19,783)
+
+Total
+(153,792)
+
+(160,245)
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+594,360
+
+114,890
+
+Year two
+460,845
+
+507,881
+
+Year three
+700,160
+
+1,783,579
+
+Year four
+1,436,321
+
+714,316
+
+Year five
+575,110
+
+621,953
+
+Prior
+1,081,412
+
+682,263
+
+Total
+4,848,208
+
+4,424,882
+
+Current | Commercial Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+4,626,771
+
+3,600,652
+
+Year two
+3,575,323
+
+6,278,419
+
+Year three
+6,012,774
+
+6,633,293
+
+Year four
+6,414,939
+
+624,457
+
+Year five
+559,931
+
+1,395,717
+
+Prior
+3,899,288
+
+2,969,381
+
+Total
+25,089,026
+
+21,501,919
+
+Current | Residential Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+8,277,782
+
+2,794,600
+
+Year two
+3,958,884
+
+1,981,373
+
+Year three
+1,948,869
+
+4,518,357
+
+Year four
+4,010,265
+
+1,358,200
+
+Year five
+1,192,287
+
+221,566
+
+Prior
+1,470,411
+
+1,365,231
+
+Total
+20,858,498
+
+12,239,327
+
+Current | Consumer Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+592,705
+
+109,393
+
+Year two
+454,890
+
+497,113
+
+Year three
+691,198
+
+1,726,280
+
+Year four
+1,394,197
+
+701,655
+
+Year five
+566,071
+
+610,988
+
+Prior
+1,050,090
+
+656,270
+
+Total
+4,749,151
+
+4,301,699
+
+30 to 59 Days Past Due | Commercial Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+0
+
+0
+
+Year two
+0
+
+0
+
+Year three
+0
+
+0
+
+Year four
+0
+
+0
+
+Year five
+0
+
+0
+
+Prior
+0
+
+0
+
+Total
+0
+
+0
+
+30 to 59 Days Past Due | Residential Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+67,924
+
+43,432
+
+Year two
+89,078
+
+22,291
+
+Year three
+64,113
+
+37,082
+
+Year four
+39,326
+
+3,554
+
+Year five
+6,140
+
+5,461
+
+Prior
+90,891
+
+84,079
+
+Total
+357,472
+
+195,899
+
+30 to 59 Days Past Due | Consumer Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+860
+
+1,707
+
+Year two
+2,444
+
+4,229
+
+Year three
+3,433
+
+28,966
+
+Year four
+22,069
+
+5,082
+
+Year five
+4,090
+
+4,497
+
+Prior
+14,816
+
+12,686
+
+Total
+47,712
+
+57,167
+
+60 to 89 Days Past Due | Commercial Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+0
+
+0
+
+Year two
+0
+
+0
+
+Year three
+0
+
+0
+
+Year four
+0
+
+0
+
+Year five
+0
+
+0
+
+Prior
+42,335
+
+79,635
+
+Total
+42,335
+
+79,635
+
+60 to 89 Days Past Due | Residential Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+20,388
+
+8,467
+
+Year two
+24,336
+
+8,520
+
+Year three
+10,303
+
+9,991
+
+Year four
+11,554
+
+1,437
+
+Year five
+325
+
+1,389
+
+Prior
+23,597
+
+26,565
+
+Total
+90,503
+
+56,369
+
+60 to 89 Days Past Due | Consumer Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+517
+
+1,193
+
+Year two
+1,194
+
+2,548
+
+Year three
+2,178
+
+14,872
+
+Year four
+10,399
+
+3,298
+
+Year five
+2,299
+
+2,561
+
+Prior
+7,874
+
+6,756
+
+Total
+24,461
+
+31,228
+
+90 days or More Past Due or in Process of Foreclosure | Commercial Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+0
+
+0
+
+Year two
+0
+
+0
+
+Year three
+0
+
+182,069
+
+Year four
+96,787
+
+36,859
+
+Year five
+0
+
+0
+
+Prior
+35,000
+
+60,763
+
+Total
+131,787
+
+279,691
+
+90 days or More Past Due or in Process of Foreclosure | Residential Mortgage Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+9,550
+
+2,518
+
+Year two
+42,672
+
+19,326
+
+Year three
+36,404
+
+72,753
+
+Year four
+64,990
+
+12,048
+
+Year five
+9,235
+
+9,265
+
+Prior
+112,292
+
+115,273
+
+Total
+275,143
+
+231,183
+
+90 days or More Past Due or in Process of Foreclosure | Consumer Loans
+
+Financing Receivable, Excluding Accrued Interest, before Allowance for Credit Loss, by Origination Year [Abstract]
+
+Year one
+278
+
+2,597
+
+Year two
+2,317
+
+3,991
+
+Year three
+3,351
+
+13,461
+
+Year four
+9,656
+
+4,281
+
+Year five
+2,650
+
+3,907
+
+Prior
+8,632
+
+6,551
+
+Total
+$ 26,884
+
+$ 34,788
+
+X
+
+- DefinitionAmount, excluding accrued interest, of decrease in allowance for credit loss on financing receivable from writeoff. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-13
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestAllowanceForCreditLossWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestAllowanceForCreditLossWriteoffByOriginationYearAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, before allowance for credit loss, of financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-5
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLossByOriginationYearAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated more than five years prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestOriginatedMoreThanFiveYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, excluding accrued interest, of writeoff of financing receivable originated more than five years before current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestOriginatedMoreThanFiveYearsBeforeCurrentFiscalYearWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated four years prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearFiveOriginatedFourYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, excluding accrued interest, of writeoff of financing receivable originated four years before current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearFiveOriginatedFourYearsBeforeCurrentFiscalYearWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated three years prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearFourOriginatedThreeYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, excluding accrued interest, of writeoff of financing receivable originated three years before current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearFourOriginatedThreeYearsBeforeCurrentFiscalYearWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated in current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearOneOriginatedCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, excluding accrued interest, of writeoff of financing receivable originated in current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearOneOriginatedCurrentFiscalYearWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, of financing receivable originated two years prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearThreeOriginatedTwoYearsBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, excluding accrued interest, of writeoff of financing receivable originated two years before current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearThreeOriginatedTwoYearsBeforeCurrentFiscalYearWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmortized cost excluding accrued interest of financing receivable originated in fiscal year prior to current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 79
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-79
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearTwoOriginatedFiscalYearBeforeCurrentFiscalYear
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount, excluding accrued interest, of writeoff of financing receivable originated in fiscal year before current fiscal year. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-6
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestYearTwoOriginatedFiscalYearBeforeCurrentFiscalYearWriteoff
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=kkr_ResidentialCommercialAndConsumerPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_CommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ResidentialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ConsumerPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablesPeriodPastDueAxis=us-gaap_FinancingReceivables1To29DaysPastDueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablesPeriodPastDueAxis=us-gaap_FinancingReceivables30To59DaysPastDueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablesPeriodPastDueAxis=us-gaap_FinancingReceivables60To89DaysPastDueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablesPeriodPastDueAxis=us-gaap_FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

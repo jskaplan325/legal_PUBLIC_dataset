@@ -1,0 +1,115 @@
+XML
+81
+R52.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Organization - Additional Information (Detail)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Segment
+
+Person
+
+Dec. 31, 2023
+
+Segment
+
+Organization [Line Items]
+
+Number of business segments | Segment
+4
+
+4
+
+Number of Blackstone founders managing the Partnership | Person
+1
+
+X
+
+- DefinitionNumber Of Company Founders Managing Partnership
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_NumberOfCompanyFoundersManagingPartnership
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:positiveIntegerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOrganization [Line Items]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_OrganizationLineItems
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNumber of operating segments. An operating segment is a component of an enterprise: (a) that engages in business activities from which it may earn revenues and incur expenses (including revenues and expenses relating to transactions with other components of the same enterprise), (b) whose operating results are regularly reviewed by the enterprise's chief operating decision maker to make decisions about resources to be allocated to the segment and assess its performance, and (c) for which discrete financial information is available. An operating segment may engage in business activities for which it has yet to earn revenues, for example, start-up operations may be operating segments before earning revenues.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 18
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-18
+
++ Details
+
+ Name:
+us-gaap_NumberOfOperatingSegments
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

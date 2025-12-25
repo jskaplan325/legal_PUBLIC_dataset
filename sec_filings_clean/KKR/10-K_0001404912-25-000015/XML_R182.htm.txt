@@ -1,0 +1,834 @@
+XML
+204
+R182.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+COMMITMENTS AND CONTINGENCIES - Narrative (Details) - USD ($)
+
+12 Months Ended
+
+Jan. 13, 2025
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Dec. 31, 2013
+
+Jan. 08, 2025
+
+Other Commitments [Line Items]
+
+Unfunded commitments
+
+$ 11,000,000,000
+
+Notional amount
+
+107,251,393,000
+
+$ 84,622,876,000
+
+Subsequent Event
+
+Other Commitments [Line Items]
+
+Deposit of settlement recovery, estimate
+
+$ 227,500,000
+
+Fund reserve
+
+$ 145,000,000
+
+Civil penalty payment
+$ 11,000,000
+
+Global Atlantic | Unaffiliated Third Parties
+
+Other Commitments [Line Items]
+
+Total fees expensed
+
+17,900,000
+
+20,300,000
+
+$ 20,100,000
+
+Total capacity of financing arrangements
+
+2,400,000,000
+
+$ 2,300,000,000
+
+Global Atlantic | Financial Standby Letter of Credit
+
+Other Commitments [Line Items]
+
+Contingent funding obligations issued by third-party banks on behalf of borrowers
+
+329,700,000
+
+Global Atlantic | Payment Guarantee
+
+Other Commitments [Line Items]
+
+Guarantor period
+
+25 years
+
+Payment obligation
+
+49,500,000
+
+Capital Markets | KKR
+
+Other Commitments [Line Items]
+
+Unfunded commitments
+
+700,000,000
+
+Notional amount
+
+4,500,000,000
+
+Purchase or Funding of Investments | Global Atlantic
+
+Other Commitments [Line Items]
+
+Unfunded commitments
+
+3,100,000,000
+
+Commitment to Extend Credit | Global Atlantic
+
+Other Commitments [Line Items]
+
+Liability for current expected credit losses
+
+14,900,000
+
+Clawback Obligation Attributable to Certain and Former KKR Employees | Asset Management
+
+Other Commitments [Line Items]
+
+Private equity fund carried interest amount subject to clawback provision assuming liquidation at fair value
+
+546,000,000
+
+Cash reserve for full reimbursement amount
+
+221,000,000
+
+Liquidation value for clawback obligation
+
+0
+
+Clawback obligation amount if private equity vehicles liquidated at fair value
+
+4,700,000,000
+
+Clawback Obligation Attributable to Certain and Former KKR Employees | KKR Associates Holdings L.P. | Asset Management
+
+Other Commitments [Line Items]
+
+Cash reserve for full reimbursement amount
+
+$ 221,000,000
+
+X
+
+- DefinitionRepresents the entity's clawback obligation amount at zero value.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ClawbackObligationAmount
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionGuarantor Obligation, Term
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_GuarantorObligationTerm
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionGuarantor Obligations, Contingent Obligation, Current Carrying Value
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_GuarantorObligationsContingentObligationCurrentCarryingValue
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionInsurance Expenses
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_InsuranceExpenses
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLoss Contingency, Estimate Of Possible Loss, Fund Reserve
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_LossContingencyEstimateOfPossibleLossFundReserve
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionRepresents the entity's clawback obligation amount at fair value as of the balance sheet date.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PrivateEquityFundCarriedInterestAmountSubjectToClawbackProvisionLiquidationAtFairValue
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPrivate Equity Fund Carried Interest Amount Subject to Clawback Provision, Liquidation at Fair Value, Reimbursement Amount
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PrivateEquityFundCarriedInterestAmountSubjectToClawbackProvisionLiquidationAtFairValueReimbursementAmount
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPrivate Equity Fund, Hypothetical Liquidation Value for Clawback Obligation
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PrivateEquityFundHypotheticalLiquidationValueforClawbackObligation
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionRepresents the amount of unfunded commitments to private equity and other investment vehicles as of the balance sheet date.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_UnfundedInvestmentCommitments
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of allowance for credit loss on financing receivable, classified as current.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-4
+
++ Details
+
+ Name:
+us-gaap_AllowanceForNotesAndLoansReceivableCurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNominal or face amount used to calculate payment on derivative.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1B
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
++ Details
+
+ Name:
+us-gaap_DerivativeNotionalAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe current carrying amount of the liability for the freestanding or embedded guarantor's obligations under the guarantee or each group of similar guarantees.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-4
+
++ Details
+
+ Name:
+us-gaap_GuaranteeObligationsCurrentCarryingValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionMaximum borrowing capacity under the credit facility without consideration of any current restrictions on the amount that could be borrowed or the amounts currently outstanding under the facility.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(19)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityMaximumBorrowingCapacity
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionReflects the estimated amount of loss from the specified contingency as of the balance sheet date.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 720
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483359/720-20-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 27
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482395/460-10-55-27
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-3
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-2
+
++ Details
+
+ Name:
+us-gaap_LossContingencyEstimateOfPossibleLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OtherCommitmentsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe amount of cash paid for the settlement of litigation or for other legal issues during the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 25
+ -Subparagraph (g)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-25
+
++ Details
+
+ Name:
+us-gaap_PaymentsForLegalSettlements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_SubsequentEventTypeAxis=us-gaap_SubsequentEventMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=kkr_GlobalAtlanticMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=kkr_UnaffiliatedThirdPartiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_GuaranteeObligationsByNatureAxis=us-gaap_FinancialStandbyLetterOfCreditMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_GuaranteeObligationsByNatureAxis=us-gaap_PaymentGuaranteeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OtherCommitmentsAxis=kkr_CapitalMarketsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=kkr_KKRCoIncMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OtherCommitmentsAxis=kkr_PurchaseOrFundingOfInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OtherCommitmentsAxis=kkr_CommitmentToExtendCreditMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OtherCommitmentsAxis=kkr_ClawbackObligationAttributableToCertainKKREmployeesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=kkr_AssetManagementSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=kkr_KKRAssociatesHoldingsLPMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

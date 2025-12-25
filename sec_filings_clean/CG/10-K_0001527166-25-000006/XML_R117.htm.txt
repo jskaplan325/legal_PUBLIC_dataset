@@ -1,0 +1,2025 @@
+XML
+140
+R117.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Segment Reporting - Reportable Segments Financial Data (Details) - USD ($)
+ $ in Millions
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Fund level fee revenues
+
+Investment income
+$ 2,254.4
+
+$ 44.8
+
+$ 1,898.0
+
+Interest income
+218.2
+
+212.1
+
+135.9
+
+Total revenues
+5,425.8
+
+2,963.9
+
+4,438.7
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+875.5
+
+1,023.7
+
+1,052.0
+
+Realized performance revenues related compensation
+1,361.5
+
+1,103.7
+
+719.9
+
+Total compensation and benefits
+2,704.9
+
+2,376.5
+
+1,925.9
+
+General, administrative and other expenses
+665.6
+
+652.1
+
+575.8
+
+Interest expense
+121.0
+
+123.8
+
+110.4
+
+Total expenses
+4,056.1
+
+3,571.7
+
+2,824.7
+
+Distributable Earnings
+1,393.7
+
+(600.9)
+
+1,572.5
+
+Total Reportable Segments
+
+Fund level fee revenues
+
+Interest income
+
+32.8
+
+Total revenues
+
+4,401.4
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+
+994.2
+
+Total compensation and benefits
+
+1,976.4
+
+General, administrative and other expenses
+
+369.8
+
+Depreciation and amortization expense
+
+38.9
+
+Interest expense
+
+107.3
+
+Total expenses
+
+2,492.4
+
+Distributable Earnings
+1,525.5
+
+1,430.5
+
+1,909.0
+
+Realized principal investment income
+
+150.6
+
+Net interest
+
+74.5
+
+Fee Related Earnings
+1,104.6
+
+859.4
+
+834.4
+
+Total Reportable Segments | Global Segments
+
+Fund level fee revenues
+
+Total fund level fee revenues
+2,403.8
+
+2,305.8
+
+2,237.3
+
+Interest income
+74.7
+
+72.2
+
+Total revenues
+3,655.4
+
+3,405.1
+
+4,401.4
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+861.7
+
+1,031.9
+
+Total compensation and benefits
+1,571.5
+
+1,439.2
+
+General, administrative and other expenses
+390.7
+
+376.5
+
+Depreciation and amortization expense
+46.8
+
+38.0
+
+Interest expense
+120.9
+
+120.9
+
+Total expenses
+2,129.9
+
+1,974.6
+
+2,492.4
+
+Distributable Earnings
+1,525.5
+
+1,430.5
+
+1,909.0
+
+Realized principal investment income
+101.0
+
+88.8
+
+Net interest
+46.2
+
+48.7
+
+Fee Related Earnings
+1,104.6
+
+859.4
+
+Total Reportable Segments | Global Private Equity
+
+Fund level fee revenues
+
+Total fund level fee revenues
+1,243.5
+
+1,396.5
+
+1,399.8
+
+Interest income
+28.1
+
+31.6
+
+14.9
+
+Total revenues
+2,248.5
+
+2,278.5
+
+3,180.0
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+422.8
+
+583.8
+
+598.3
+
+Realized performance revenues related compensation
+590.1
+
+308.1
+
+751.5
+
+Total compensation and benefits
+1,012.9
+
+891.9
+
+1,349.8
+
+General, administrative and other expenses
+195.2
+
+221.9
+
+235.3
+
+Depreciation and amortization expense
+26.8
+
+26.0
+
+25.6
+
+Interest expense
+56.3
+
+66.9
+
+63.7
+
+Total expenses
+1,291.2
+
+1,206.7
+
+1,674.4
+
+Distributable Earnings
+957.3
+
+1,071.8
+
+1,505.6
+
+Realized net performance revenues
+337.1
+
+497.0
+
+905.1
+
+Realized principal investment income
+49.7
+
+45.3
+
+108.7
+
+Net interest
+28.2
+
+35.3
+
+48.8
+
+Fee Related Earnings
+598.7
+
+564.8
+
+540.6
+
+Total Reportable Segments | Global Credit
+
+Fund level fee revenues
+
+Total fund level fee revenues
+806.2
+
+663.3
+
+614.6
+
+Interest income
+39.0
+
+34.7
+
+15.3
+
+Total revenues
+923.4
+
+778.6
+
+799.5
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+320.1
+
+324.5
+
+284.2
+
+Realized performance revenues related compensation
+19.4
+
+20.3
+
+61.3
+
+Total compensation and benefits
+339.5
+
+344.8
+
+345.5
+
+General, administrative and other expenses
+140.4
+
+106.8
+
+97.7
+
+Depreciation and amortization expense
+13.2
+
+7.6
+
+8.2
+
+Interest expense
+53.0
+
+45.0
+
+32.6
+
+Total expenses
+546.1
+
+504.2
+
+484.0
+
+Distributable Earnings
+377.3
+
+274.4
+
+315.5
+
+Realized net performance revenues
+12.6
+
+23.2
+
+70.2
+
+Realized principal investment income
+46.2
+
+37.1
+
+38.1
+
+Net interest
+14.0
+
+10.3
+
+17.3
+
+Fee Related Earnings
+332.5
+
+224.4
+
+224.5
+
+Total Reportable Segments | Global Investment Solutions
+
+Fund level fee revenues
+
+Total fund level fee revenues
+354.1
+
+246.0
+
+222.9
+
+Interest income
+7.6
+
+5.9
+
+2.6
+
+Total revenues
+483.5
+
+348.0
+
+421.9
+
+Compensation and benefits
+
+Cash-based compensation and benefits
+118.8
+
+123.6
+
+111.7
+
+Realized performance revenues related compensation
+100.3
+
+78.9
+
+169.4
+
+Total compensation and benefits
+219.1
+
+202.5
+
+281.1
+
+General, administrative and other expenses
+55.1
+
+47.8
+
+36.8
+
+Depreciation and amortization expense
+6.8
+
+4.4
+
+5.1
+
+Interest expense
+11.6
+
+9.0
+
+11.0
+
+Total expenses
+292.6
+
+263.7
+
+334.0
+
+Distributable Earnings
+190.9
+
+84.3
+
+87.9
+
+Realized net performance revenues
+16.4
+
+10.8
+
+23.2
+
+Realized principal investment income
+5.1
+
+6.4
+
+3.8
+
+Net interest
+4.0
+
+3.1
+
+8.4
+
+Fee Related Earnings
+173.4
+
+70.2
+
+69.3
+
+Fund management fees
+
+Fund level fee revenues
+
+Total fund level fee revenues
+2,188.1
+
+2,043.2
+
+2,030.1
+
+Fund management fees | Total Reportable Segments
+
+Fund level fee revenues
+
+Total fund level fee revenues
+
+1,996.9
+
+Fund management fees | Total Reportable Segments | Global Segments
+
+Fund level fee revenues
+
+Total fund level fee revenues
+2,107.5
+
+2,064.4
+
+Fund management fees | Total Reportable Segments | Global Private Equity
+
+Fund level fee revenues
+
+Total fund level fee revenues
+1,212.0
+
+1,309.8
+
+1,300.9
+
+Fund management fees | Total Reportable Segments | Global Credit
+
+Fund level fee revenues
+
+Total fund level fee revenues
+558.3
+
+512.2
+
+473.1
+
+Fund management fees | Total Reportable Segments | Global Investment Solutions
+
+Fund level fee revenues
+
+Total fund level fee revenues
+337.2
+
+242.4
+
+222.9
+
+Portfolio advisory and transaction fees, net and other | Total Reportable Segments
+
+Fund level fee revenues
+
+Total fund level fee revenues
+
+111.1
+
+Portfolio advisory and transaction fees, net and other | Total Reportable Segments | Global Segments
+
+Fund level fee revenues
+
+Total fund level fee revenues
+163.6
+
+80.4
+
+Portfolio advisory and transaction fees, net and other | Total Reportable Segments | Global Private Equity
+
+Fund level fee revenues
+
+Total fund level fee revenues
+24.6
+
+18.4
+
+29.5
+
+Portfolio advisory and transaction fees, net and other | Total Reportable Segments | Global Credit
+
+Fund level fee revenues
+
+Total fund level fee revenues
+138.8
+
+62.0
+
+81.6
+
+Portfolio advisory and transaction fees, net and other | Total Reportable Segments | Global Investment Solutions
+
+Fund level fee revenues
+
+Total fund level fee revenues
+0.2
+
+0.0
+
+0.0
+
+Fee related performance revenues | Total Reportable Segments
+
+Fund level fee revenues
+
+Total fund level fee revenues
+
+129.3
+
+Fee related performance revenues | Total Reportable Segments | Global Segments
+
+Fund level fee revenues
+
+Total fund level fee revenues
+132.7
+
+161.0
+
+Fee related performance revenues | Total Reportable Segments | Global Private Equity
+
+Fund level fee revenues
+
+Total fund level fee revenues
+6.9
+
+68.3
+
+69.4
+
+Fee related performance revenues | Total Reportable Segments | Global Credit
+
+Fund level fee revenues
+
+Total fund level fee revenues
+109.1
+
+89.1
+
+59.9
+
+Fee related performance revenues | Total Reportable Segments | Global Investment Solutions
+
+Fund level fee revenues
+
+Total fund level fee revenues
+16.7
+
+3.6
+
+0.0
+
+Performance allocations
+
+Fund level fee revenues
+
+Investment income
+2,015.7
+
+(88.6)
+
+1,327.5
+
+Compensation and benefits
+
+Realized performance revenues related compensation
+1,361.5
+
+1,103.7
+
+719.9
+
+Realized net performance revenues
+654.2
+
+(1,192.3)
+
+607.6
+
+Performance allocations | Total Reportable Segments | Global Segments
+
+Fund level fee revenues
+
+Investment income
+1,075.9
+
+938.3
+
+1,980.7
+
+Compensation and benefits
+
+Realized performance revenues related compensation
+709.8
+
+407.3
+
+982.2
+
+Realized net performance revenues
+366.1
+
+531.0
+
+998.5
+
+Performance allocations | Total Reportable Segments | Global Private Equity
+
+Fund level fee revenues
+
+Investment income
+927.2
+
+805.1
+
+1,656.6
+
+Performance allocations | Total Reportable Segments | Global Credit
+
+Fund level fee revenues
+
+Investment income
+32.0
+
+43.5
+
+131.5
+
+Performance allocations | Total Reportable Segments | Global Investment Solutions
+
+Fund level fee revenues
+
+Investment income
+116.7
+
+89.7
+
+192.6
+
+Principal investment income
+
+Fund level fee revenues
+
+Investment income
+238.7
+
+133.4
+
+570.5
+
+Principal investment income | Total Reportable Segments | Global Segments
+
+Fund level fee revenues
+
+Investment income
+101.0
+
+88.8
+
+150.6
+
+Principal investment income | Total Reportable Segments | Global Private Equity
+
+Fund level fee revenues
+
+Investment income
+49.7
+
+45.3
+
+108.7
+
+Principal investment income | Total Reportable Segments | Global Credit
+
+Fund level fee revenues
+
+Investment income
+46.2
+
+37.1
+
+38.1
+
+Principal investment income | Total Reportable Segments | Global Investment Solutions
+
+Fund level fee revenues
+
+Investment income
+$ 5.1
+
+$ 6.4
+
+$ 3.8
+
+X
+
+- DefinitionReflects the amount of net realized earnings without the effects of consolidation of the consolidated funds. Represents economic net income less net performance fees and investment income plus realized net performance fees and realized investment income.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_DistributableEarnings
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionReflects the ability of the business to cover direct base compensation and operating expenses from fee revenues other than performance fees.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_FeeRelatedEarnings
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee Related Earnings, Realized Investment Income (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_FeeRelatedEarningsRealizedInvestmentIncomeLoss
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFund level fee revenues.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_FundLevelFeeRevenuesAbstract
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionGeneral, Administrative And Other Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_GeneralAdministrativeAndOtherExpense
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the amount of total performance fee revenue less performance fee-related compensation expense.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_NetPerformanceFees
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance Allocations And Incentive Fee Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PerformanceAllocationsAndIncentiveFeeExpense
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTotal costs of sales and operating expenses for the period.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_CostsAndExpenses
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe current period expense charged against earnings on long-lived, physical assets not used in production, and which are not intended for resale, to allocate or recognize the cost of such assets over their useful lives; or to record the reduction in book value of an intangible asset over the benefit period of such asset; or to reflect consumption during the period of an asset that is not used in production.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 360
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482099/360-10-50-1
+
++ Details
+
+ Name:
+us-gaap_DepreciationAndAmortization
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EmployeeBenefitsAndShareBasedCompensationAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents the total of interest and dividend income, including any amortization and accretion (as applicable) of discounts and premiums, earned from (1) loans and leases whether held-for-sale or held-in-portfolio; (2) investment securities; (3) federal funds sold; (4) securities purchased under agreements to resell; (5) investments in banker's acceptances, commercial paper, or certificates of deposit; (6) dividend income; or (7) other investments not otherwise specified herein.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-04(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478524/942-220-S99-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 830
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 39
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477346/946-830-45-39
+
++ Details
+
+ Name:
+us-gaap_InterestAndDividendIncomeOperating
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of interest expense classified as operating and nonoperating. Includes, but is not limited to, cost of borrowing accounted for as interest expense.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 24
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-24
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 835
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483013/835-20-50-1
+
++ Details
+
+ Name:
+us-gaap_InterestExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of interest income (expense) classified as nonoperating.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
++ Details
+
+ Name:
+us-gaap_InterestIncomeExpenseNonoperatingNet
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense for salary, wage, profit sharing; incentive and equity-based compensation; and other employee benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_LaborAndRelatedExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 4: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 924
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 11.L)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479941/924-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-5
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-4
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of revenue that is not accounted for under Topic 606.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(1))
+ -SubTopic 10
+ -Topic 220
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_RevenueNotFromContractWithCustomer
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of revenue recognized from goods sold, services rendered, insurance premiums, or other activities that constitute an earning process. Includes, but is not limited to, investment and interest income before deduction of interest expense when recognized as a component of revenue, and sales and trading gain (loss).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 48
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-48
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(g)(1)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 28
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 11: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(iii)(A))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(4)(iv))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1A
+ -Subparagraph (SX 210.13-01(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1A
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(iii)(A))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(iii)(B))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(4)(iv))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 19: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1B
+ -Subparagraph (SX 210.13-02(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480097/470-10-S99-1B
+
+Reference 20: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 21: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 22: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 23: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 24: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 25: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 942
+ -SubTopic 235
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-05(b)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477314/942-235-S99-1
+
+Reference 26: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_Revenues
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense for salary and wage arising from service rendered by nonofficer employee. Excludes allocated cost, labor-related nonsalary expense, and direct and overhead labor cost included in cost of good and service sold.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_SalariesAndWages
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalPrivateEquitySegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalCreditSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalInvestmentSolutionsSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=cg_FundManagementFeeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InvestmentAdviceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=cg_FeeRelatedPerformanceRevenuesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=cg_PerformanceAllocationsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=cg_PrincipalInvestmentIncomeLossMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,151 @@
+XML
+148
+R125.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Subsequent Events (Details) - $ / shares
+
+1 Months Ended
+3 Months Ended
+12 Months Ended
+
+Feb. 28, 2025
+
+Dec. 31, 2024
+
+Sep. 30, 2024
+
+Jun. 30, 2024
+
+Mar. 31, 2024
+
+Dec. 31, 2023
+
+Sep. 30, 2023
+
+Jun. 30, 2023
+
+Mar. 31, 2023
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Subsequent Event [Line Items]
+
+Distributions declared per common unit (in dollars per share)
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 0.35
+
+$ 1.40
+
+$ 1.40
+
+Subsequent event
+
+Subsequent Event [Line Items]
+
+Distributions declared per common unit (in dollars per share)
+$ 0.35
+
+X
+
+- DefinitionAggregate dividends declared during the period for each share of common stock outstanding.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_CommonStockDividendsPerShareDeclared
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDetail information of subsequent event by type. User is expected to use existing line items from elsewhere in the taxonomy as the primary line items for this disclosure, which is further associated with dimension and member elements pertaining to a subsequent event.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481674/830-30-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 855
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483399/855-10-50-2
+
++ Details
+
+ Name:
+us-gaap_SubsequentEventLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_SubsequentEventTypeAxis=us-gaap_SubsequentEventMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

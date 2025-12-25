@@ -1,0 +1,205 @@
+XML
+68
+R38.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Merger with Athene (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Business Combination, Asset Acquisition, and Joint Venture Formation [Abstract]
+
+Schedule of Purchase Price
+The purchase price was as follows:
+(In millions, except share price data and exchange ratio)
+AHL common shares purchased 138
+Exchange ratio 1.149
+Shares of common stock issued in exchange 158
+AGM Class A shares closing price $ 72.43
+Total merger consideration at closing $ 11,455
+Fair value of estimated RSUs, options and warrants assumed and other equity consideration1,2
+ 699
+Effective settlement of pre-existing relationships3
+ 896
+Total merger consideration 13,050
+Fair value of AHL common shares previously held (55 million shares) and other adjustments4,5
+ 4,554
+Total AHL equity value held by AGM 17,604
+Non-controlling interest6
+ 4,942
+Total AHL equity value $ 22,546
+
+1 AGM issued one-time grants of fully vested RSUs and options to certain executives and stockholders of Athene vesting upon consummation of the Mergers. Additionally, all issued and outstanding warrants of Athene prior to the Merger Date were exchanged for shares of AGM common stock at the time of the Mergers. The fair value of these awards is $600 million and is treated as part of consideration transferred.
+
+2 AGM issued replacement awards for all outstanding Athene equity awards. $99 million was included as part of consideration for the portion that was attributable to pre-combination services and $53 million will be treated as post-combination compensation expense.
+
+3 The pre-existing relationship related to receivables, payables, and dividends between Apollo and Athene. Total fees payable to AGM by Athene for asset management and advisory services were approximately $146 million. A cash dividend of $750 million was declared by Athene to its common stockholders with Apollo owning 100% of the common shares as of the dividend record date.
+
+4 Based on the December 31, 2021 closing price of AHL common shares on the NYSE.
+
+5 Other adjustments includes pushdown of goodwill arising out of deferred tax liabilities associated with identifiable net assets of Athene.
+
+6 Non-controlling interest in Athene includes holders of Athene s preferred shares and third-party investors in ACRA 1 and in consolidated VIEs of Athene. The fair value of Athene s preferred shares was based on the closing stock price of Athene s preferred shares immediately prior to the consummation of the Athene merger and the fair value of the non-controlling interest in ACRA 1 was determined using the discounted distribution model approach.
+
+Schedule of Recognized for the Assets Acquired and Liabilities Assumed and Resulting Goodwill
+The following table summarizes the fair value amounts recognized for the assets acquired and liabilities assumed and resulting goodwill as of the Merger Date:
+
+(In millions) Fair Value and Goodwill Calculation
+Merger consideration $ 13,050
+Fair value of previously held equity interest 4,554
+Total Athene Value to be Held by the Company 17,604
+
+Total Value to Allocate
+Investments 176,015
+Cash and cash equivalents 9,479
+Restricted cash and cash equivalents 796
+Investment in related parties 33,863
+
+Reinsurance recoverable 4,977
+VOBA 3,372
+Assets of consolidated variable interest entities 3,635
+Other assets 6,115
+Estimated fair value of total assets acquired (excluding goodwill) 238,252
+Interest sensitive contract liabilities 160,241
+Future policy benefits 41,482
+Market risk benefits 4,813
+Debt 3,295
+
+Payables for collateral on derivatives and securities to repurchase 7,044
+Liabilities of consolidated variable interest entities 461
+Other liabilities 2,443
+Estimated fair value of total liabilities assumed 219,779
+Non-controlling interest 4,942
+Estimated fair value of net assets acquired, excluding goodwill 13,531
+Goodwill attributable to Athene $ 4,073
+
+Schedule of Fair Value and Weighted Average Estimate Useful Lives of VOBA and Other Identifiable Intangible Assets Acquired
+The fair value and weighted average estimated useful lives of VOBA and other identifiable intangible assets acquired in the Mergers consist of the following:
+
+ Fair value
+(in millions)
+ Average useful life
+(in years)
+
+VOBA Asset $ 3,372 7
+Distribution Channels 1,870 18
+Trade Name 160 20
+State Insurance Licenses 26 Indefinite
+Total $ 5,428
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationAndAssetAcquisitionAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of finite-lived and indefinite-lived intangible assets acquired as part of a business combination.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_FiniteLivedAndIndefiniteLivedIntangibleAssetsAcquiredAsPartOfBusinessCombinationTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of a material business combination completed during the period, including background, timing, and recognized assets and liabilities. This table does not include leveraged buyouts.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfBusinessAcquisitionsByAcquisitionTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the amounts recognized as of the acquisition date for each major class of assets acquired and liabilities assumed. May include but not limited to the following: (a) acquired receivables; (b) contingencies recognized at the acquisition date; and (c) the fair value of noncontrolling interests in the acquiree.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Paragraph 1
+ -Section 50
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfRecognizedIdentifiedAssetsAcquiredAndLiabilitiesAssumedTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

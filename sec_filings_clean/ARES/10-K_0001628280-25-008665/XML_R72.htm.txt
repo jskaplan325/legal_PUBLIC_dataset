@@ -1,0 +1,437 @@
+XML
+144
+R72.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+RELATED PARTY TRANSACTIONS (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Affiliated entity | Amounts due to portfolio companies and non-consolidated funds
+
+Due to affiliates:
+
+Due to affiliates
+$ 0
+
+$ 3,554
+
+Consolidated Funds | Affiliated entity
+
+Due to affiliates:
+
+Due to affiliates
+0
+
+3,554
+
+Ares Management L.P
+
+Due from affiliates:
+
+Due from affiliates
+1,056,608
+
+896,746
+
+Due to affiliates:
+
+Due to affiliates
+500,480
+
+240,254
+
+Ares Management L.P | Affiliated entity
+
+Due from affiliates:
+
+Due from affiliates
+1,056,608
+
+896,746
+
+Due to affiliates:
+
+Due to affiliates
+500,480
+
+240,254
+
+Ares Management L.P | Affiliated entity | Management fees receivable from non-consolidated funds
+
+Due from affiliates:
+
+Due from affiliates
+636,835
+
+560,629
+
+Ares Management L.P | Affiliated entity | Incentive fee receivable from non-consolidated funds
+
+Due from affiliates:
+
+Due from affiliates
+172,235
+
+159,098
+
+Ares Management L.P | Affiliated entity | Payments made on behalf of and amounts due from non-consolidated funds and employees
+
+Due from affiliates:
+
+Due from affiliates
+247,538
+
+177,019
+
+Ares Management L.P | Affiliated entity | Management fee received in advance and rebates payable to non-consolidated funds
+
+Due to affiliates:
+
+Due to affiliates
+5,767
+
+9,585
+
+Ares Management L.P | Affiliated entity | Tax receivable agreement liability
+
+Due to affiliates:
+
+Due to affiliates
+402,359
+
+191,299
+
+Ares Management L.P | Affiliated entity | Carried interest and incentive fees payable
+
+Due to affiliates:
+
+Due to affiliates
+78,692
+
+33,374
+
+Ares Management L.P | Affiliated entity | Payments made by non-consolidated funds on behalf of and payable by the Company
+
+Due to affiliates:
+
+Due to affiliates
+$ 13,662
+
+$ 5,996
+
+X
+
+- DefinitionDue From Related Party
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_DueFromRelatedPartyAbstract
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of obligations incurred and payable classified as other.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(15)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_AccountsPayableOtherCurrentAndNoncurrent
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount due from parties in nontrade transactions, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 49
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482785/280-10-55-49
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(5)(a)(5))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(3)(a)(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_OtherReceivables
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ReceivablesOtherRelatedPartiesAndRetainageAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_AffiliatedEntityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=ares_AmountsDueToPortfolioCompaniesAndNonConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=ares_ConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidatedEntitiesAxis=srt_ParentCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=ares_ManagementFeesReceivableFromNonConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=ares_IncentiveFeeReceivableFromNonConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=ares_PaymentsMadeOnBehalfOfAndAmountsDueFromNonConsolidatedFundsAndEmployeesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=ares_ManagementFeeReceivedInAdvanceAndRebatesPayableToNonConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=ares_TaxReceivableAgreementLiabilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=ares_CarriedInterestAndIncentiveFeesPayableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=ares_PaymentsMadeByNonConsolidatedFundsOnBehalfOfAndPayableByTheCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

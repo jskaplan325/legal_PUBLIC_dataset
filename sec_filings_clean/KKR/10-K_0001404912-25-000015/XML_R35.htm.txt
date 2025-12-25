@@ -1,0 +1,78 @@
+XML
+57
+R35.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+REDEEMABLE NONCONTROLLING INTERESTS
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Noncontrolling Interest [Abstract]
+
+REDEEMABLE NONCONTROLLING INTERESTS
+REDEEMABLE NONCONTROLLING INTERESTSRedeemable noncontrolling interests represent:
+(i) Noncontrolling interests of certain KKR investment funds and vehicles that are subject to periodic redemption by fund investors following the expiration of a specified period of time, or may be withdrawn subject to a redemption fee during the period when capital may not be otherwise withdrawn. Consolidated fund investor's interests subject to redemption as described above are presented as Redeemable Noncontrolling Interests in the accompanying consolidated statements of financial condition and presented as Net Income (Loss) Attributable to Redeemable Noncontrolling Interests in the accompanying consolidated statements of operations. When redeemable amounts become legally payable to fund investors, they are classified as a liability and included in Accounts Payable, Accrued Expenses, and Other Liabilities in the accompanying consolidated statements of financial condition.
+(ii) During the quarter ended September 30, 2024, Global Atlantic acquired the remaining outstanding redeemable noncontrolling interests in certain renewable energy entities. Global Atlantic had redeemable noncontrolling interests related to a renewable energy entity of approximately $47.8 million as of December 31, 2023, as determined by the HLBV method.
+The following table presents the calculation of Redeemable Noncontrolling Interests:
+
+ For the Years Ended December 31,
+ 2024 2023 2022
+Balance at the beginning of the period $ 615,427 $ 152,065 $ 82,491
+Net Income (Loss) Attributable to Redeemable Noncontrolling Interests 73,149 (5,405) 2,792
+Capital Contributions 922,127 499,433 69,322
+Capital Distributions (23,763) (2,845) (2,540)
+Change in KKR & Co. Inc.'s Ownership Interest (1,763)
+Changes in Consolidation (27,821)
+Balance at the end of the period $ 1,585,177 $ 615,427 $ 152,065
+
+X
+
+- DefinitionThe entire disclosure for noncontrolling interest in consolidated subsidiaries, which could include the name of the subsidiary, the ownership percentage held by the parent, the ownership percentage held by the noncontrolling owners, the amount of the noncontrolling interest, the location of this amount on the balance sheet (when not reported separately), an explanation of the increase or decrease in the amount of the noncontrolling interest, the noncontrolling interest share of the net Income or Loss of the subsidiary, the location of this amount on the income statement (when not reported separately), the nature of the noncontrolling interest such as background information and terms, the amount of the noncontrolling interest represented by preferred stock, a description of the preferred stock, and the dividend requirements of the preferred stock.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 810
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/810/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_MinorityInterestDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_NoncontrollingInterestAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

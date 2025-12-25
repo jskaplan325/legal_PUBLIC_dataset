@@ -1,0 +1,205 @@
+XML
+172
+R142.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Earnings per Share - Schedule of Anti-dilutive Securities (Details) - shares
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Weighted average unvested RSUs
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Anti-dilutive securities (in shares)
+14,273,743
+
+15,316,350
+
+13,664,334
+
+Weighted average unexercised options
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Anti-dilutive securities (in shares)
+0
+
+0
+
+2,422,343
+
+Weighted average unexercised warrants
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Anti-dilutive securities (in shares)
+63,388
+
+4,761,918
+
+2,279,452
+
+Weighted average unvested restricted shares
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Anti-dilutive securities (in shares)
+1,327,484
+
+1,688,421
+
+2,114,622
+
+Weighted average contingent shares outstanding
+
+Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+Anti-dilutive securities (in shares)
+0
+
+0
+
+190,468
+
+X
+
+- DefinitionSecurities (including those issuable pursuant to contingent stock agreements) that could potentially dilute basic earnings per share (EPS) or earnings per unit (EPU) in the future that were not included in the computation of diluted EPS or EPU because to do so would increase EPS or EPU amounts or decrease loss per share or unit amounts for the period presented.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
++ Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis=apo_RestrictedStockUnitsRSUsUnvestedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis=us-gaap_EmployeeStockOptionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis=us-gaap_WarrantMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis=us-gaap_RestrictedStockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareByAntidilutiveSecuritiesAxis=apo_ContingentShareMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

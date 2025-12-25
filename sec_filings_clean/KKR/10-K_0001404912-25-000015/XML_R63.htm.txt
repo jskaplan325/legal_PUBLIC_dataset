@@ -1,0 +1,179 @@
+XML
+85
+R63.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+EQUITY-BASED COMPENSATION (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Share-Based Payment Arrangement [Abstract]
+
+Schedule of Share-Based Payment Arrangement, Expensed and Capitalized, Amount
+The following table summarizes the expense associated with equity-based compensation in connection with KKR equity incentive awards and incentive awards previously granted under the Global Atlantic Financial Company Book Value Award Plan ("GA Book Value Plan") and the Global Atlantic Senior Management Equity Incentive Plan ("GA Equity Incentive Plan") for the years ended December 31, 2024, 2023, and 2022, respectively. As of December 31, 2024, there are no awards outstanding under either the GA Book Value Plan or the GA Equity Incentive Plan.
+
+ For the Years Ended December 31,
+ 2024 2023 2022
+Asset Management (1)
+ $ 611,644 $ 502,816 $ 569,518
+Insurance 134,799 115,653 160,718
+
+Total $ 746,443 $ 618,469 $ 730,236
+
+(1)For the year ended December 31, 2022, $119.8 million represents equity-based compensation expense in connection with the allocation of units of KKR Holdings, which were not dilutive to common stockholders of KKR & Co. Inc.
+
+Schedule of Unvested Awards Granted Under Equity Incentive Plan
+A summary of the status of unvested Service-Vesting Awards granted from January 1, 2024 through December 31, 2024 is presented below:
+
+ Shares (1)
+ Weighted
+Average Grant
+Date Fair Value
+Balance, January 1, 2024 23,228,671 $ 53.22
+Granted 5,796,078 92.29
+Vested (7,062,056) 50.29
+Forfeitures (856,803) 60.07
+Balance, December 31, 2024 21,105,890 $ 64.65
+
+(1)Unvested Service-Vesting Awards include restricted stock units and restricted holdings units granted to certain current and former Global Atlantic employees.
+A summary of the status of unvested Market Condition Awards granted from January 1, 2024 through December 31, 2024 is presented below:
+
+ Shares (1)
+ Weighted
+Average Grant
+Date Fair Value
+Balance, January 1, 2024 36,497,589 $ 29.59
+Granted 2,278,830 58.31
+Vested (234,776) 22.10
+Forfeitures (522,620) 31.44
+Balance, December 31, 2024 38,019,023 $ 31.33
+
+(1)Unvested Market Condition Awards include restricted holdings units granted to certain current and former Global Atlantic employees.
+
+Schedule of Significant Assumptions Used to Estimate Grant Date Fair Value
+Below is a summary of the grant date fair value based on the Monte Carlo simulation valuation model and the significant assumptions used to estimate the grant date fair value of these Market Condition Awards:
+
+ Weighted
+Average Range
+Grant Date Fair Value $30.62 $19.87 - $79.94
+
+Closing KKR share price as of valuation date $51.74 $37.93 - $98.62
+
+Risk Free Rate 2.21% 0.41% - 4.41%
+
+Volatility 30.04% 28.00% - 38.00%
+
+Dividend Yield 1.27% 0.71% - 1.53%
+
+Expected Cost of Equity 10.74% 9.13% - 11.80%
+
+Below is a summary of the grant date fair value based on the Monte Carlo simulation valuation model and the significant assumptions used to estimate the grant date fair value of these Co-CEO Awards:
+
+Grant Date Fair Value $48.91
+Closing KKR share price as of valuation date $75.76
+Risk Free Rate 1.42 %
+Volatility 28.0 %
+Dividend Yield 0.77 %
+Expected Cost of Equity 9.36 %
+
+X
+
+- DefinitionTabular disclosure of the changes in outstanding unvested equity awards under the Equity Incentive Plan.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ScheduleOfShareBasedCompensationNonvestedEquityIncentivePlanUnitsActivityTableTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSchedule Of Share-Based Payment Award, Performance Shares, Valuation Assumptions [Table Text Block]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_ScheduleOfShareBasedPaymentAwardPerformanceSharesValuationAssumptionsTableTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DisclosureOfCompensationRelatedCostsSharebasedPaymentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of allocation of amount expensed and capitalized for award under share-based payment arrangement to statement of income or comprehensive income and statement of financial position. Includes, but is not limited to, corresponding line item in financial statement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 718
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (h)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfEmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

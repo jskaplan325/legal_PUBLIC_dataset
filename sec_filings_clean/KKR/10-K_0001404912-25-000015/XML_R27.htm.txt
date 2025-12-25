@@ -1,0 +1,82 @@
+XML
+49
+R27.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+VARIABLE INTEREST ENTITIES
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+VARIABLE INTEREST ENTITIES
+VARIABLE INTEREST ENTITIESConsolidated VIEs
+KKR consolidates certain VIEs in which it is determined that KKR is the primary beneficiary. The consolidated VIEs are predominately CLOs and certain investment funds sponsored by KKR. The primary purpose of these VIEs is to provide strategy specific investment opportunities to earn investment gains, current income or both in exchange for management fees and performance income. KKR's investment strategies differ for these VIEs; however, the fundamental risks have similar characteristics, including loss of invested capital and loss of management fees and performance income. KKR does not provide performance guarantees and has no other financial obligation to provide funding to these consolidated VIEs, beyond amounts previously committed, if any. Furthermore, KKR consolidates certain VIEs that are formed by Global Atlantic to either (i) hold investments, including fixed maturity securities, consumer and other loans, renewable energy, transportation and real estate, or (ii) to conduct certain reinsurance activities with third party commitments.
+Unconsolidated VIEs
+KKR holds variable interests in certain VIEs which are not consolidated as it has been determined that KKR is not the primary beneficiary. VIEs that are not consolidated predominantly include certain investment funds sponsored by KKR as well as certain investment partnerships where Global Atlantic retains an economic interest. KKR's investment strategies differ by investment fund; however, the fundamental risks have similar characteristics, including loss of invested capital and loss of management fees and performance income. KKR's maximum exposure to loss as a result of its investments in the unconsolidated investment funds is the carrying value of such investments, including KKR's capital interest and any unrealized carried interest. Accordingly, disaggregation of KKR's involvement by type of unconsolidated investment fund would not provide more useful information. For these unconsolidated investment funds in which KKR is the sponsor, KKR may have an obligation as general partner to provide commitments to such investment funds. As of December 31, 2024, KKR's commitments to these unconsolidated investment funds were $3.6 billion. KKR generally has not provided any financial support other than its obligated amount as of December 31, 2024. Additionally, Global Atlantic also has unfunded commitments of $25.8 million as of December 31, 2024.
+As of December 31, 2024 and December 31, 2023, the maximum exposure to loss, before allocations to the carry pool and noncontrolling interests, if any, for those VIEs in which KKR is determined not to be the primary beneficiary but in which it has a variable interest is as follows:
+
+Asset Management and Strategic Holdings December 31, 2024 December 31, 2023
+Investments $ 9,798,370 $ 7,877,904
+Due from (to) Affiliates, net 1,437,525 1,097,939
+Maximum Exposure to Loss $ 11,235,895 $ 8,975,843
+
+Insurance
+Real Assets $ 124,910 $ 189,029
+Other Investments 664,951 35,721
+
+Maximum Exposure to Loss $ 789,861 $ 224,750
+
+Total Maximum Exposure to Loss $ 12,025,756 $ 9,200,593
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for a variable interest entity (VIE), including but not limited to, judgments and assumptions in determining whether to consolidate and in identifying the primary beneficiary, gain (loss) recognized on the initial consolidation of the VIE, terms of arrangements, amounts and classification of the VIE's assets and liabilities, and the entity's maximum exposure to loss.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 810
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/810/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_VariableInterestEntityDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

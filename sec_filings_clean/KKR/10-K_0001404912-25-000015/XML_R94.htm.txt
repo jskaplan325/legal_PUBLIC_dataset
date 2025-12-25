@@ -1,0 +1,381 @@
+XML
+116
+R94.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INVESTMENTS - Maturity of Residential and Commercial Loans (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+Total
+$ 53,365,485
+
+$ 39,780,370
+
+Residential And Commercial Portfolio Segment
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+2025
+4,760,864
+
+2026
+7,285,569
+
+2027
+7,924,850
+
+2028
+1,705,955
+
+2029
+1,350,914
+
+Thereafter
+23,816,612
+
+Total
+46,844,764
+
+34,584,023
+
+Residential
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+2025
+4,935
+
+2026
+581,437
+
+2027
+602,887
+
+2028
+126,129
+
+2029
+11,336
+
+Thereafter
+20,254,892
+
+Total
+21,581,616
+
+12,722,778
+
+Commercial
+
+Accounts, Notes, Loans and Financing Receivable [Line Items]
+
+2025
+4,755,929
+
+2026
+6,704,132
+
+2027
+7,321,963
+
+2028
+1,579,826
+
+2029
+1,339,578
+
+Thereafter
+3,561,720
+
+Total
+$ 25,263,148
+
+$ 21,861,245
+
+X
+
+- DefinitionFinancing Receivable, Before Allowance For Credit Loss, Maturity, After Year Five
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableBeforeAllowanceForCreditLossMaturityAfterYearFive
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFinancing Receivable, Before Allowance For Credit Loss, Maturity, Year Five
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableBeforeAllowanceForCreditLossMaturityYearFive
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFinancing Receivable, Before Allowance For Credit Loss, Maturity, Year Four
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableBeforeAllowanceForCreditLossMaturityYearFour
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFinancing Receivable, Before Allowance For Credit Loss, Maturity, Year Three
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableBeforeAllowanceForCreditLossMaturityYearThree
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFinancing Receivable, Before Allowance For Credit Loss, Maturity, Year Two
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_FinancingReceivableBeforeAllowanceForCreditLossMaturityYearTwo
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 310
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 40
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481628/310-20-40-7
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-2
+
++ Details
+
+ Name:
+us-gaap_AccountsNotesAndLoansReceivableLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, before allowance for credit loss, of financing receivable maturing in next fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Regulation S-K (SK)
+ -Number 229
+ -Section 1404
+ -Paragraph a
+ -Subparagraph (1)
+ -Publisher SEC
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableBeforeAllowanceForCreditLossMaturityYearOne
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmortized cost excluding accrued interest, before allowance for credit loss, of financing receivable. Excludes net investment in lease.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3B
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-5
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=kkr_ResidentialAndCommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_ResidentialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancingReceivablePortfolioSegmentAxis=us-gaap_CommercialPortfolioSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

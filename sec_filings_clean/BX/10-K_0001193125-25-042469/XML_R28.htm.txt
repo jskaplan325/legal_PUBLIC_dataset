@@ -1,0 +1,238 @@
+XML
+57
+R28.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Earnings Per Share and Stockholders' Equity
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Earnings Per Share and Stockholders' Equity
+ 15. Earnings Per Share and Stockholders Equity
+
+ Earnings Per Share
+
+ Basic and diluted net income per share of common stock for the years ended December 31, 2024, 2023 and 2022 was calculated as follows:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+ Net Income for Per Share of Common Stock Calculations
+
+ Net Income Attributable to Blackstone Inc., Basic and Diluted
+
+$
+
+2,776,508
+
+$
+
+1,390,880
+
+$
+
+1,747,631
+
+ Shares/Units Outstanding
+
+ Weighted-Average Shares of Common Stock Outstanding, Basic
+
+766,487,450
+
+755,204,556
+
+740,664,038
+
+ Weighted-Average Shares of Unvested Deferred Restricted Common Stock (a)
+
+159,058
+
+215,380
+
+278,361
+
+ Weighted-Average Shares of Common Stock Outstanding, Diluted
+
+766,646,508
+
+755,419,936
+
+740,942,399
+
+ Net Income Per Share of Common Stock
+
+ Basic
+
+$
+
+3.62
+
+$
+
+1.84
+
+$
+
+2.36
+
+ Diluted
+
+$
+
+3.62
+
+$
+
+1.84
+
+$
+
+2.36
+
+ Dividends Declared Per Share of Common Stock (b)
+
+$
+
+3.45
+
+$
+
+3.32
+
+$
+
+4.94
+
+(a)
+
+ For the years ended December 31, 2024 and 2023, this includes shares to be issued under the contingently issuable share model for an acquisition-related compensation arrangement.
+
+(b)
+
+ Dividends declared reflects the calendar date of the declaration for each distribution. The fourth quarter dividends, if any, for any fiscal year will be declared and paid in the subsequent fiscal year.
+
+ In computing the dilutive effect that the exchange of Blackstone Holdings Partnership Units would have on Net Income Per Share of Common Stock, Blackstone considered that net income available to holders of shares of common stock would increase due to the elimination of non-controlling interests in Blackstone Holdings, inclusive of any tax impact. The hypothetical conversion may be dilutive to the extent there is activity at the Blackstone Inc. level that has not previously been attributed to the non-controlling interests or if there is a change in tax rate as a result of a hypothetical conversion.
+
+ The following table summarizes the anti-dilutive securities for the periods indicated:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+ Weighted-Average Blackstone Holdings Partnership Units
+
+ 455,306,643
+
+ 460,897,953
+
+ 466,083,269
+
+ Stockholders Equity
+
+ As of December 31, 2024, Blackstone had 10 billion shares of preferred stock authorized with a par value of $0.00001 per share, of which (a) 999,999,000 shares are designated as Series I preferred stock and (b) 1,000 shares are designated as Series II preferred stock. The remaining nine billion shares may be designated from time to time in accordance with Blackstone s certificate of incorporation. There was one share of Series I preferred stock and one share of Series II preferred stock issued and outstanding as of December 31, 2024.
+
+ Under Blackstone s certificate of incorporation and Delaware law, holders of Blackstone s common stock are entitled to vote, together with holders of Blackstone s Series I preferred stock, voting as a single class, on a number of significant matters, including certain sales, exchanges or other dispositions of all or substantially all of Blackstone s assets, a merger, consolidation or other business combination, the removal of the Series II Preferred Stockholder and forced transfer by the Series II Preferred Stockholder of its shares of Series II preferred stock and the designation of a successor Series II Preferred Stockholder. The Series II Preferred Stockholder elects Blackstone s directors. Holders of Blackstone s Series I preferred stock and Series II preferred stock are not entitled to dividends from Blackstone, or receipt of any of Blackstone s assets in the event of any dissolution, liquidation or winding up. Blackstone Partners L.L.C. is the sole holder of the Series I preferred stock and Blackstone Group Management L.L.C. is the sole holder of the Series II preferred stock.
+
+ Share Repurchase Program
+
+ On July 16, 2024, Blackstone s board of directors authorized the repurchase of up to $2.0 billion of common stock and Blackstone Holdings Partnership Units. This authorization replaced Blackstone s prior $2.0 billion repurchase authorization. Under the repurchase program, repurchases may be made from time to time in open market transactions, in privately negotiated transactions or otherwise. The timing and the actual numbers repurchased will depend on a variety of factors, including legal requirements, price and economic and market conditions. The repurchase program may be changed, suspended or discontinued at any time and does not have a specified expiration date.
+
+ During the year ended December 31, 2022, Blackstone repurchased 3.9 million shares of common stock at a total cost of $392.0 million. During the year ended December 31, 2023, Blackstone repurchased 3.7 million shares of common stock at a total cost of $351.3 million. During the year ended December 31, 2024, Blackstone repurchased 4.0 million shares of common stock at a total cost of $520.4 million. As of December 31, 2024, the amount remaining available for repurchases under the program was $1.8 billion.
+
+ Change in Blackstone Inc. Ownership Interest
+
+ During the year ended December 31, 2024, Blackstone recorded an out-of-period adjustment to correct the allocation of book equity between Additional Paid-In-Capital and Non-Controlling Interests in Blackstone Holdings related to change in ownership transactions, including repurchases, and the corresponding impact to the investment basis used to calculate deferred taxes. The cumulative impact of the correction related to prior years
+
+ resulted in a decrease of $1.1 billion in Non-Controlling Interests in Blackstone Holdings as of December 31, 2024, a decrease of $317.1 million in Deferred Tax Assets as of December 31, 2024, and a net increase of $781.6 million in Additional Paid-In-Capital as of December 31, 2024. The impact of the out-of-period adjustment is reflected in Change in Blackstone Inc. s Ownership Interest and Deferred Tax Effects Resulting from Change in Blackstone Inc. s Ownership Interest within the Consolidated Statement of Changes in Equity. Blackstone concluded the out-of-period adjustment was not material to the current or prior periods.
+
+ Shares Eligible for Dividends and Distributions
+
+ As of December 31, 2024, the total shares of common stock and Blackstone Holdings Partnership Units entitled to participate in dividends and distributions were as follows:
+
+Shares/Units
+
+ Common Stock Outstanding
+
+731,925,965
+
+ Unvested Participating Common Stock
+
+36,796,276
+
+ Total Participating Common Stock
+
+768,722,241
+
+ Participating Blackstone Holdings Partnership Units
+
+452,448,896
+
+1,221,171,137
+
+X
+
+- DefinitionThe entire disclosure for earnings per share.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/260/tableOfContent
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-3
+
++ Details
+
+ Name:
+us-gaap_EarningsPerShareTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

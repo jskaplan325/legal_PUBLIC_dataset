@@ -1,0 +1,161 @@
+XML
+46
+R24.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+REINSURANCE
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+REINSURANCE
+REINSURANCEGlobal Atlantic maintains a number of reinsurance treaties with third parties whereby Global Atlantic assumes annuity and life policies on a coinsurance, modified coinsurance or funds withheld basis. Global Atlantic also maintains other reinsurance treaties including the cession of certain annuity, life and health policies.
+The effects of all reinsurance agreements on the consolidated statements of financial condition were as follows:
+
+ December 31, 2024 December 31, 2023
+Policy Liabilities:
+Direct $ 84,062,566 $ 75,715,857
+Assumed 101,142,800 84,342,414
+Total Policy Liabilities 185,205,366 160,058,271
+Ceded(1)
+ (45,006,124) (35,773,958)
+Net Policy Liabilities $ 140,199,242 $ 124,284,313
+
+(1)Reported within reinsurance recoverable within the consolidated statements of financial condition.
+A key credit quality indicator is a counterparty s A.M. Best financial strength rating. A.M. Best ratings are an independent opinion of a reinsurer s ability to meet ongoing obligations to policyholders. Global Atlantic mitigates counterparty credit risk by requiring collateral and credit enhancements in various forms including engaging in funds withheld at interest and modified coinsurance transactions. The following shows the amortized cost basis of Global Atlantic s reinsurance recoverable and funds withheld receivable at interest by credit quality indicator and any associated credit enhancements Global Atlantic has obtained to mitigate counterparty credit risk:
+
+ As of December 31, 2024 As of December 31, 2023
+A.M. Best Rating(1)
+ Reinsurance Recoverable and Funds Withheld Receivable at Interest Credit Enhancements(2)
+ Net Reinsurance Credit Exposure(3)
+ Reinsurance Recoverable and Funds Withheld Receivable at Interest Credit Enhancements(2)
+ Net Reinsurance Credit Exposure(3)
+
+A++ $ 26,854 $ $ 26,854 $ 38,857 $ $ 38,857
+A+ 1,731,697 1,731,697 1,801,954 1,801,954
+A 2,143,893 2,143,893 2,212,800 2,212,800
+A- 3,926,161 3,477,840 448,321 4,430,484 3,814,976 615,508
+B++ 600 600 589 589
+B+
+B
+B-
+C++/C+ (231) (228)
+Not Rated or Private Rating(4)
+ 39,979,509 40,484,070 30,859,068 30,210,350 648,718
+Total $ 47,808,483 $ 43,961,910 $ 4,351,365 $ 39,343,524 $ 34,025,326 $ 5,318,426
+
+(1)Ratings are periodically updated (at least annually) as A.M. Best issues new ratings.
+(2)Credit enhancements primarily include funds withheld payable at interest.
+(3)Includes credit loss allowance of $16.4 million and $21.0 million as of December 31, 2024 and 2023, respectively, held against reinsurance recoverable and funds withheld receivable at interest.
+(4)Includes $40.0 billion and $30.8 billion as of December 31, 2024 and 2023, respectively, associated with cessions to co-investment vehicles (the "Ivy and other co-investment vehicles") that participate in qualifying reinsurance transactions sourced by Global Atlantic.
+As of December 31, 2024 and 2023, Global Atlantic had $2.5 billion and $2.7 billion of funds withheld receivable at interest, respectively, with six counterparties related to modified coinsurance and funds withheld contracts. The assets supporting the funds withheld receivable at interest balance are held in trusts for the benefit of Global Atlantic.
+The effects of reinsurance on the consolidated statements of operations were as follows:
+
+ Years Ended December 31,
+ 2024 2023 2022
+Net Premiums:
+Direct $ 642,803 $ 118,535 $ 111,602
+Assumed 11,915,597 4,138,758 2,413,234
+Ceded (4,659,566) (2,281,618) (1,342,375)
+Net Premiums $ 7,898,834 $ 1,975,675 $ 1,182,461
+
+ Years Ended December 31,
+ 2024 2023 2022
+Policy Fees:
+Direct $ 917,684 $ 912,931 $ 950,702
+Assumed 1,111,998 442,085 328,528
+Ceded (651,996) (94,767) (17,509)
+Net Policy Fees $ 1,377,686 $ 1,260,249 $ 1,261,721
+
+ Years Ended December 31,
+ 2024 2023 2022
+Net Policy Benefits and Claims:
+Direct $ 4,047,792 $ 3,406,055 $ 812,961
+Assumed 15,949,420 5,922,927 3,255,354
+Ceded (6,703,930) (2,966,725) (1,710,077)
+Net Policy Benefits and Claims $ 13,293,282 $ 6,362,257 $ 2,358,238
+
+Global Atlantic holds collateral for and provides collateral to its reinsurance clients. Global Atlantic held $46.6 billion and $36.7 billion of collateral in the form of funds withheld payable at interest on behalf of its reinsurers as of December 31, 2024 and 2023, respectively. As of December 31, 2024 and 2023, reinsurers held collateral of $1.1 billion and $1.2 billion on behalf of Global Atlantic, respectively. A significant portion of the collateral that Global Atlantic provides to its reinsurance clients is provided in the form of assets held in a trust for the benefit of the counterparty. As of December 31, 2024 and 2023, these trusts held in excess of the $100.2 billion and $81.8 billion of assets they are required to hold in order to support reserves of $96.9 billion and $79.4 billion, respectively. Of the cash held in trust, Global Atlantic classified $185.8 million and $90.8 million as restricted as of December 31, 2024 and 2023, respectively.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure pertaining to the existence, magnitude and information about insurance that has been ceded to or assumed from another insurance company, including the methodologies and assumptions used in determining recorded amounts.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-3
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-4
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477548/944-605-55-12
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 605
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 15
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477548/944-605-55-15
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

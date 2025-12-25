@@ -1,0 +1,1832 @@
+XML
+54
+R31.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Significant Accounting Policies (Policies)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Accounting Policies [Abstract]
+
+Basis of Presentation
+Basis of PresentationThe accompanying consolidated financial statements are prepared in accordance with accounting principles generally
+accepted in the United States ( U.S. GAAP ) and include the accounts of the Company and its consolidated subsidiaries. In
+addition, certain Carlyle-affiliated funds, related co-investment entities, and certain CLOs managed by the Company
+(collectively, the Consolidated Funds ) have been consolidated in the accompanying financial statements. The consolidation of
+the Consolidated Funds generally has a gross-up effect on assets, liabilities and cash flows, and generally has no effect on the
+net income attributable to the Company. The economic ownership interests of the other investors in the Consolidated Funds are
+reflected as non-controlling interests in consolidated entities in the accompanying consolidated financial statements. All of the
+investments held and notes issued by the Consolidated Funds are presented at their estimated fair values in the Company s
+consolidated balance sheets. Interest and other income of the Consolidated Funds, interest expense and other expenses of the
+Consolidated Funds, and net investment income (losses) of Consolidated Funds are included in the Company s consolidated
+statements of operations.
+Management has determined that the Company s funds are investment companies under U.S. GAAP for the purposes
+of financial reporting. U.S. GAAP for an investment company requires investments to be recorded at estimated fair value and
+the unrealized gains and/or losses in an investment s fair value are recognized on a current basis in the statements of operations.
+Additionally, the funds do not consolidate their majority-owned and controlled investments (the Portfolio Companies ). In the
+preparation of these consolidated financial statements, the Company has retained the specialized accounting for the funds.
+
+Principles of Consolidation
+Principles of ConsolidationThe Company consolidates all entities that it controls either through a majority voting interest or as the primary
+beneficiary of variable interest entities ( VIEs ).
+The Company evaluates (1) whether it holds a variable interest in an entity, (2) whether the entity is a VIE, and (3)
+whether the Company s involvement would make it the primary beneficiary. In evaluating whether the Company holds a
+variable interest, fees (including management fees, incentive fees and performance allocations) that are customary and
+commensurate with the level of services provided, and where the Company does not hold other economic interests in the entity
+that would absorb more than an insignificant amount of the expected losses or returns of the entity, are not considered variable
+interests. The Company considers all economic interests, including indirect interests, to determine if a fee is considered a
+variable interest.
+For those entities where the Company holds a variable interest, the Company determines whether each of these entities
+qualifies as a VIE and, if so, whether or not the Company is the primary beneficiary. The assessment of whether the entity is a
+VIE is generally performed qualitatively, which requires judgment. These judgments include: (a) determining whether the
+equity investment at risk is sufficient to permit the entity to finance its activities without additional subordinated financial
+support, (b) evaluating whether the equity holders, as a group, can make decisions that have a significant effect on the economic
+performance of the entity, (c) determining whether two or more parties equity interests should be aggregated, and (d)
+determining whether the equity investors have proportionate voting rights to their obligations to absorb losses or rights to
+receive returns from an entity.
+For entities that are determined to be VIEs, the Company consolidates those entities where it has concluded it is the
+primary beneficiary. The primary beneficiary is defined as the variable interest holder with (a) the power to direct the activities
+of a VIE that most significantly impact the entity s economic performance and (b) the obligation to absorb losses of the entity
+or the right to receive benefits from the entity that could potentially be significant to the VIE. In evaluating whether the
+Company is the primary beneficiary, the Company evaluates its economic interests in the entity held either directly or indirectly
+by the Company.
+As of December 31, 2024, assets and liabilities of the consolidated VIEs reflected in the consolidated balance sheets
+were $8.9 billion and $7.7 billion, respectively. As of December 31, 2023, assets and liabilities of the consolidated VIEs
+reflected in the consolidated balance sheets were $7.8 billion and $6.9 billion, respectively. Except to the extent of the
+consolidated assets of the VIEs, the holders of the consolidated VIEs liabilities generally do not have recourse to the Company.
+The Company s Consolidated Funds are primarily CLOs, which are VIEs that issue loans payable that are backed by
+diversified collateral asset portfolios consisting primarily of loans or structured debt. In exchange for managing the collateral
+for the CLOs, the Company earns investment management fees, including in some cases subordinated management fees and
+contingent incentive fees. In cases where the Company consolidates the CLOs (primarily because of a retained interest that is
+significant to the CLO), those management fees and contingent incentive fees have been eliminated as intercompany
+transactions. As of December 31, 2024, the Company held $236.2 million of investments in these CLOs which represents its
+maximum risk of loss. The Company s investments in these CLOs are generally subordinated to other interests in the entities
+and entitle the Company to receive a pro rata portion of the residual cash flows, if any, from the entities. Investors in the CLOs
+have no recourse against the Company for any losses sustained in the CLO structure. The Company s Consolidated Funds also
+include certain investment funds in the Global Private Equity segment that are accounted for as consolidated VIEs due to the
+Company providing financing to bridge investment purchases. As of December 31, 2024, the Company held $422.2 million of
+notes receivable and investments related to these investment funds which represents its maximum risk of loss. The Company s
+Consolidated Funds also include certain funds in the Global Credit and Global Investment Solutions segments that are
+accounted for as consolidated VIEs due to the Company having a significant indirect interest in these funds via the Company s
+investment in Fortitude (see Note 4, Investments).
+Entities that do not qualify as VIEs are generally assessed for consolidation as voting interest entities. Under the voting
+interest entity model, the Company consolidates those entities it controls through a majority voting interest.
+All significant inter-entity transactions and balances of entities consolidated have been eliminated.
+
+Investments in Unconsolidated Variable Interest Entities
+Investments in Unconsolidated Variable Interest EntitiesThe Company holds variable interests in certain VIEs that are not consolidated because the Company is not the
+primary beneficiary, including its investments in certain credit vehicles and certain AlpInvest vehicles, as well as its strategic
+investment in NGP Management Company, L.L.C. ( NGP Management and, together with its affiliates, NGP ). Refer to
+Note 4, Investments, for information on the strategic investment in NGP. The Company s involvement with such entities is in
+the form of direct or indirect equity interests and fee arrangements. The maximum exposure to loss represents the loss of assets
+recognized by the Company relating to its variable interests in these unconsolidated entities.
+
+Use of Estimates
+Use of EstimatesThe preparation of financial statements in conformity with U.S. GAAP requires management to make assumptions and
+estimates that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of
+the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period.
+Management s estimates are based on historical experiences and other factors, including expectations of future events that
+management believes to be reasonable under the circumstances. It also requires management to exercise judgment in the
+process of applying the Company s accounting policies. Assumptions and estimates regarding the valuation of investments and
+their resulting impact on performance allocations and incentive fees involve a higher degree of judgment and complexity and
+these assumptions and estimates may be significant to the consolidated financial statements and the resulting impact on
+performance allocations and incentive fees. Actual results could differ from these estimates and such differences could be
+material.
+
+Revenue Recognition and Deferred Revenue
+Revenue RecognitionThe Company recognizes revenue in accordance with ASC 606, Revenue from Contracts with Customers. Revenue is
+recognized when the Company transfers promised goods or services to customers in an amount that reflects the consideration to
+which the Company expects to be entitled in exchange for those goods or services. ASC 606 includes a five-step framework
+that requires an entity to: (i) identify the contract(s) with a customer, which includes assessing the collectability of the
+consideration to which it will be entitled in exchange for the goods or services transferred to the customer, (ii) identify the
+performance obligations in the contract, (iii) determine the transaction price, (iv) allocate the transaction price to the
+performance obligations in the contract, and (v) recognize revenue when the entity satisfies a performance obligation.
+The Company accounts for performance allocations that represent a performance-based capital allocation from fund
+limited partners to the Company (commonly known as carried interest ) as earnings from financial assets within the scope of
+ASC 323, Investments Equity Method and Joint Ventures, and therefore are not in the scope of ASC 606. In accordance with
+ASC 323, the Company records equity method income (losses) as a component of investment income based on the change in its
+proportionate claim on net assets of the investment fund, including performance allocations, assuming the investment fund was
+liquidated as of each reporting date pursuant to each fund s governing agreements. See Note 4, Investments, for additional
+information on the components of investments and investment income. Performance fees that do not meet the definition of
+performance-based capital allocations are in the scope of ASC 606 and are included in incentive fees in the consolidated
+statements of operations. The calculation of unrealized performance revenues utilizes investment valuations of the funds
+underlying investments, which are derived using the policies, methodologies and templates prepared by the Company s
+valuation group, as described in Note 3, Fair Value Measurement.
+While the determination of who is the customer in a contractual arrangement will be made on a contract-by-contract
+basis, the customer will generally be the investment fund for the Company s significant management and advisory contracts.
+The customer determination impacts the Company s analysis of the accounting for contract costs.
+Fund Management Fees
+The Company provides management services to funds in which it holds a general partner interest or to funds or certain
+portfolio companies with which it has an investment advisory or investment management agreement. The Company considers
+the performance obligations in its contracts with its funds to be the promise to provide (or to arrange for third parties to provide)
+investment management services related to the management, policies and operations of the funds.
+As it relates to the Company s performance obligation to provide investment management services, the Company
+typically satisfies this performance obligation over time as the services are rendered, since the funds simultaneously receive and
+consume the benefits provided as the Company performs the service. The transaction price is the amount of consideration to
+which the Company expects to be entitled in exchange for transferring the promised services to the funds. Management fees
+earned from each investment management contract over the contract life represent variable consideration because the
+consideration the Company is entitled to varies based on fluctuations in the basis for the management fee, for example fund net
+asset value ( NAV ) or assets under management ( AUM ). Given that the management fee basis is susceptible to market
+factors outside of the Company s influence, management fees are constrained and, therefore, estimates of future period
+management fees are generally not included in the transaction price. Revenue recognized for the investment management
+services provided is generally the amount determined at the end of the period because that is when the uncertainty for that
+period is resolved.
+For closed-end carry funds in the Global Private Equity segment, management fees generally range from 1.0% to 2.0%
+of limited partners capital commitments during the fund s commitment period. For closed-end carry funds in the Global Credit
+segment, management fees generally range from 1.0% to 2.0% of limited partners invested capital. Following the expiration or
+termination of the investment period, management fees generally are based on the lower of cost or fair value of invested capital
+and the rate charged may also be reduced. These terms may vary for certain separately managed accounts, longer-dated carry
+funds, and other closed-end funds. The Company will receive management fees during a specified period of time, which is
+generally ten years from the initial closing date, or, in some instances, from the final closing date, but such termination date
+may be earlier in certain limited circumstances or later if extended for successive one-year periods, typically up to a maximum
+of two years. Depending upon the contracted terms of investment advisory or investment management and related agreements,
+these fees are generally called semi-annually in advance and are recognized as earned over the subsequent six month period.
+For certain longer-dated carry funds and certain other closed-end funds, management fees are called quarterly over the life of
+the funds.
+Within the Global Credit segment, for CLOs and other structured products, management fees generally range from
+0.4% to 0.5% based on the total par amount of assets or the aggregate principal amount of the notes in the CLO and are
+generally due quarterly in arrears based on the terms and recognized over the respective period. Management fees for the CLOs
+and other structured products are governed by indentures and collateral management agreements. The Company will receive
+management fees for the CLOs, generally five to ten years after issuance, including after the CLO redemption date until all
+eligible assets are disposed of or at such time the collateral manager waives fees at its discretion. Management fees for the
+business development companies are due quarterly in arrears at annual rates that range from 1.0% of capital under management
+to 1.5% of gross assets, excluding cash and cash equivalents. Management fees for CTAC are due monthly in arrears at the
+annual rate of 1.0% of the month-end value of the CTAC s net assets. Carlyle Aviation Partners funds have varying
+management fee arrangements depending on the strategy of the particular fund. Under the strategic advisory services agreement
+with Fortitude, the Company earns a recurring management fee based on Fortitude s general account assets, which adjusts
+within an agreed upon range based on Fortitude s overall profitability and is due quarterly in arrears. Management fees for
+certain of our perpetual capital strategies and separately managed accounts in Global Credit have annual rates that generally
+range from 0.10% to 0.75%, which are charged based on invested capital or the fair value of the underlying assets, though
+management fee arrangements vary depending on the strategy of the particular account.
+Management fees for the Company s carry fund vehicles in the Global Investment Solutions segment generally range
+from 0.25% to 1.5% of the vehicle s capital commitments during the commitment fee period of the relevant fund. Following the
+expiration of the commitment fee period, the management fees generally range from 0.25% to 1.5% on (i) the net invested
+capital, (ii) the lower of cost or net asset value of the capital invested, or (iii) the net asset value for unrealized investments.
+Management fees for the Global Investment Solutions carry fund vehicles are generally due quarterly in advance and
+recognized over the related quarter. The investment advisers to the CAPM funds are entitled to receive a monthly management
+fee equal to 1.25% on an annualized basis of the fund s net asset value as of the last day of the month
+The Company also provides transaction advisory and portfolio advisory services to the portfolio companies, and where
+covered by separate contractual agreements, recognizes fees for these services when the performance obligation has been
+satisfied and collection is reasonably assured. The Company is generally required to offset its fund management fees earned
+from the funds that have invested in the portfolio companies to which the service has been provided by a percentage of the
+transaction and advisory fees allocable to those funds. This amount is referred to as the rebate offset, and is generally 100%.
+Transaction and advisory fees allocable to funds that do not pay fund management fees do not have a rebate offset. The
+Company also recognizes underwriting fees from the Company s loan syndication and capital markets business, Carlyle Global
+Capital Markets. Fund management fees include transaction and portfolio advisory fees, as well as capital markets fees, of
+$152.5 million, $68.6 million and $106.2 million for the years ended December 31, 2024, 2023 and 2022, respectively, net of
+rebate offsets as defined in the respective fund limited partnership agreements.
+Fund management fees exclude the reimbursement of any partnership expenses paid by the Company on behalf of the
+Carlyle funds pursuant to the limited partnership agreements, including amounts related to the pursuit of actual, proposed, or
+unconsummated investments, professional fees, expenses associated with the acquisition, holding and disposition of
+investments, and other fund administrative expenses. For the professional fees that the Company arranges for the investment
+funds, the Company concluded that the nature of its promise is to arrange for the services to be provided and it does not control
+the services provided by third parties before they are transferred to the customer. Therefore, the Company concluded it is acting
+in the capacity of an agent. Accordingly, the reimbursement for these professional fees paid on behalf of the investment funds is
+presented on a net basis in general, administrative and other expenses in the consolidated statements of operations.
+The Company also incurs certain costs, primarily employee travel and entertainment costs, employee compensation
+and systems costs, for which it receives reimbursement from the investment funds in connection with its performance obligation
+to provide investment and management services. For reimbursable travel, compensation and systems costs, the Company
+concluded it controls the services provided by its employees and the resources used to develop applicable systems before they
+are transferred to the customer and therefore is a principal. Accordingly, the reimbursement for these costs incurred by the
+Company to manage the fund limited partnerships are presented on a gross basis in interest and other income in the
+
+consolidated statements of operations and the expense in general, administrative and other expenses or cash-based
+compensation and benefits expenses in the consolidated statements of operations.
+Incentive Fees
+The Company is also entitled to receive performance-based incentive fees when the return on assets under
+management exceeds certain benchmark returns or other performance targets. In such arrangements, incentive fees are
+recognized when the performance benchmark has been achieved. Incentive fees are variable consideration because they are
+contingent upon the investment vehicle achieving stipulated investment return hurdles. Investment returns are highly
+susceptible to market factors outside of the Company s influence. Accordingly, incentive fees are constrained until all
+uncertainty is resolved. Estimates of future period incentive fees are generally not included in the transaction price because
+these estimates are constrained. The transaction price for incentive fees is generally the amount determined at the end of each
+accounting period to which they relate because that is when the uncertainty for that period is resolved, as these fees are not
+subject to clawback.
+Investment Income (Loss), including Performance Allocations
+Investment income (loss) represents the unrealized and realized gains and losses resulting from the Company s equity
+method investments, including any associated general partner performance allocations, and other principal investments,
+including CLOs.
+General partner performance allocations consist of the allocation of profits from certain of the funds to which the
+Company is entitled (commonly known as carried interest). For closed-end carry funds in the Global Private Equity and Global
+Credit segments, the Company is generally entitled to a 20% allocation (or approximately 2% to 12.5% for most of the Global
+Investment Solutions segment carry fund vehicles) of the net realized income or gain as a carried interest after returning the
+invested capital, the allocation of preferred returns of generally 7% to 9% and return of certain fund costs (generally subject to
+catch-up provisions as set forth in the fund limited partnership agreement). These terms may vary on longer-dated funds, certain
+credit funds, and external co-investment vehicles. Carried interest is recognized upon appreciation of the funds investment
+values above certain return hurdles set forth in each respective partnership agreement. The Company recognizes revenues
+attributable to performance allocations based upon the amount that would be due pursuant to the fund partnership agreement at
+each period end as if the funds were terminated at that date. Accordingly, the amount recognized as investment income for
+performance allocations reflects the Company s share of the gains and losses of the associated funds underlying investments
+measured at their then-current fair values relative to the fair values as of the end of the prior period. Because of the inherent
+uncertainty, these estimated values may differ significantly from the values that would have been used had a ready market for
+the investments existed, and it is reasonably possible that the difference could be material.
+Carried interest is ultimately realized when: (i) an underlying investment is profitably disposed of, (ii) certain costs
+borne by the limited partner investors have been reimbursed, (iii) the fund s cumulative returns are in excess of the preferred
+return, and (iv) the Company has decided to collect carry rather than return additional capital to limited partner investors.
+Realized carried interest may be required to be returned by the Company in future periods if the fund s investment values
+decline below certain levels. When the fair value of a fund s investments remains constant or falls below certain return hurdles,
+previously recognized performance allocations are reversed. In all cases, each fund is considered separately in this regard, and
+for a given fund, performance allocations can never be negative over the life of a fund. If upon a hypothetical liquidation of a
+fund s investments at their then-current fair values, previously recognized and distributed carried interest would be required to
+be returned, a liability is established for the potential giveback obligation. As of both December 31, 2024 and 2023, the
+Company accrued $44.0 million for giveback obligations.
+ Principal investment income (loss) is realized when the Company redeems all or a portion of its investment or when
+the Company receives or is due cash income, such as dividends or distributions. Unrealized principal investment income (loss)
+results from the Company s proportionate share of the investee s unrealized earnings, including changes in the fair value of the
+underlying investment, as well as the reversal of unrealized gain (loss) at the time an investment is realized. As it relates to the
+Company s investments in NGP (see Note 4, Investments), principal investment income includes the compensation expense
+associated with compensatory arrangements provided by the Company to employees of its equity method investee.
+Interest Income
+Interest income is recognized when earned. For debt securities representing non-investment grade beneficial interests
+in securitizations, the effective yield is determined based on the estimated cash flows of the security. Changes in the effective
+yield of these securities due to changes in estimated cash flows are recognized on a prospective basis as adjustments to interest
+
+income in future periods. Interest income earned by the Company is included in interest and other income in the accompanying
+consolidated statements of operations. Interest income of the Consolidated Funds was $577.6 million, $512.4 million and
+$282.3 million for the years ended December 31, 2024, 2023 and 2022, respectively, and is included in interest and other
+income of Consolidated Funds in the accompanying consolidated statements of operations.
+Deferred RevenueDeferred revenue represents management fees and other revenue received prior to the balance sheet date, which has
+not yet been earned.
+
+Credit Losses
+Credit LossesThe Company measures all expected credit losses for financial assets held at the reporting date in accordance with
+ASC 326, Financial Instruments Credit Losses, based on historical experience, current conditions, and reasonable and
+supportable forecasts. The Company assesses the collection risk characteristics of the outstanding amounts in its due from
+affiliates balance into the following pools of receivables:
+ Reimbursable fund expenses receivables,
+ Management fee receivables,
+ Incentive fee receivables,
+ Transaction fee receivables,
+ Portfolio fee receivables, and
+ Notes receivable.
+The Company generally utilizes either historical credit loss information or discounted cash flows to calculate expected
+credit losses for each pool. The Company s receivables are predominantly with its investment funds, which have low risk of
+credit loss based on the Company s historical experience. Historical credit loss data may be adjusted for current conditions and
+reasonable and supportable forecasts, including the Company s expectation of near-term realization based on the liquidity of the
+affiliated investment funds.
+
+Compensation and Benefits
+Compensation and BenefitsCash-Based Compensation and Benefits Cash-based compensation and benefits includes salaries, bonuses
+(discretionary awards and guaranteed amounts), performance payment arrangements and benefits paid and payable to Carlyle
+employees. Bonuses are accrued over the service period to which they relate.
+Equity-Based Compensation Compensation expense relating to the issuance of equity-based awards is measured at
+fair value on the grant date. The compensation expense for awards that vest over a future service period is recognized over the
+relevant service period on a straight-line basis. The compensation expense for awards that do not require future service is
+recognized immediately. Cash settled equity-based awards are classified as liabilities and are re-measured at the end of each
+reporting period. The compensation expense for awards that contain performance conditions is recognized when it is probable
+that the performance conditions will be achieved. The compensation expense for awards that contain market conditions is based
+on a grant-date fair value that factors in the probability that the market conditions will be achieved and is recognized over the
+requisite service period on a straight-line basis.
+Certain equity-based awards contain dividend-equivalent rights, which are subject to the same terms and conditions,
+including with respect to vesting and settlement, that apply to the related award. Dividend-equivalents are accounted for as a
+reclassification from retained earnings to additional paid-in capital at the time dividends are declared and do not result in
+incremental compensation expense.
+Equity-based awards issued to non-employees are generally recognized as general, administrative and other expenses,
+except to the extent they are recognized as part of the Company s equity method earnings because they are issued to employees
+of equity method investees.
+The Company recognizes equity-based award forfeitures in the period they occur as a reversal of previously
+recognized compensation expense for awards that vest based on service and/or performance conditions. The reduction in
+compensation expense is determined based on the specific awards forfeited during that period. Furthermore, the Company
+recognizes all excess tax benefits and deficiencies as income tax benefit or expense in the consolidated statements of operations.
+For awards with a market condition (e.g., achievement of certain stock price hurdles) that are forfeited due to the market
+condition not being achieved, the related equity-based compensation expense is not reversed.
+Performance Allocations and Incentive Fee Related Compensation A portion of the performance allocations and
+incentive fees and certain other interests earned is due to employees and advisors of the Company. These amounts are
+accounted for as profit sharing interests in compensation expense in a systematic and rational manner in conjunction with the
+recognition of the related performance allocations and incentive fee revenue and, until paid, are recognized as a component of
+the accrued compensation and benefits liability. The liability is measured assuming the hypothetical liquidation of the
+associated funds underlying investments as of the measurement date. Accordingly, upon a reversal of performance allocations
+or incentive fee revenue, the related compensation expense, if any, is also reversed. As any vesting requirement is accelerated
+upon realization, the service period is not considered substantive when recording the liability based on the hypothetical
+liquidation value. Effective December 31, 2023, the Company updated its compensation and incentives program, resulting in a
+higher proportion of its performance allocations revenue being used to compensate its personnel; accordingly, Performance
+allocations and incentive fee related compensation during the year ended December 31, 2024 will not meaningfully compare to
+the year ended December 31, 2023.
+
+Income Taxes
+Income TaxesThe Carlyle Group Inc. is a corporation for U.S. federal income tax purposes and thus is subject to U.S. federal, state,
+and local corporate income taxes. Tax positions taken by the Company are subject to periodic audit by U.S. federal, state, local,
+and foreign taxing authorities.
+The Company accounts for income taxes using the asset and liability method, which requires the recognition of
+deferred tax assets and liabilities for the expected future consequences of events that have been included in the financial
+statements or tax returns. Under this method, deferred tax assets and liabilities are determined based on the difference between
+the financial statement reporting and the tax basis of assets and liabilities using enacted tax rates in effect for the period in
+which the difference is expected to reverse. The effect of a change in tax rates on deferred tax assets and liabilities is recognized
+in the period of the change in the provision for income taxes. Further, deferred tax assets are recognized for the expected
+realization of available net operating loss and tax credit carry forwards. A valuation allowance is recorded on the Company s
+gross deferred tax assets when it is more likely than not that such asset will not be realized. When evaluating the realizability
+of the Company s deferred tax assets, all evidence, both positive and negative, is evaluated. Items considered in this analysis
+include the ability to carry back losses, the reversal of temporary differences, tax planning strategies, and expectations of future
+earnings. The Company accounts for the valuation allowance assessment on its deferred tax assets and without regard to the
+Company s potential future corporate alternative minimum tax ( CAMT ) status or global minimum tax status under the Pillar
+Two Global Anti-Base Erosion ( GloBE ) model rules of the Organization for Economic Co-operation and Development
+( OECD ). Therefore, the Company accounts for CAMT and the global minimum tax in the period as incurred. Lastly, the
+Company accounts for the tax on global intangible low-taxed income ( GILTI ) as incurred and therefore has not recorded
+deferred taxes related to GILTI on its foreign subsidiaries.
+
+Under U.S. GAAP for income taxes, the amount of tax benefit to be recognized is the amount of benefit that is more
+likely than not to be sustained upon examination. The Company analyzes its tax filing positions in all of the U.S. federal, state,
+local and foreign tax jurisdictions where it is required to file income tax returns, as well as for all open tax years in these
+jurisdictions. If, based on this analysis, the Company determines that uncertainties in tax positions exist, a liability is
+established, which is included in accounts payable, accrued expenses and other liabilities in the consolidated financial
+statements. The Company recognizes accrued interest and penalties related to unrecognized tax positions in the provision for
+income taxes. If recognized, the entire amount of unrecognized tax positions would be recorded as a reduction in the provision
+for income taxes.
+
+Non-controlling Interests
+Non-controlling InterestsNon-controlling interests in consolidated entities represent the component of equity in consolidated entities held by
+third-party investors. These interests are adjusted for general partner allocations which occur during the reporting period. Any
+change in ownership of a subsidiary while the controlling financial interest is retained is accounted for as an equity transaction
+between the controlling and non-controlling interests. Transaction costs incurred in connection with such changes in ownership
+of a subsidiary are recorded as a direct charge to equity.
+
+Earnings Per Common Share
+Earnings Per Common ShareThe Company computes earnings per common share in accordance with ASC 260, Earnings Per Share. Basic earnings
+per common share is calculated by dividing net income (loss) attributable to the common shares of the Company by the
+weighted-average number of common shares outstanding for the period. Diluted earnings per common share reflects the
+assumed conversion of all dilutive securities. The Company applies the treasury stock method to determine the dilutive
+weighted-average common shares outstanding for certain equity-based compensation awards. For certain equity-based
+compensation awards that contain performance or market conditions, the number of contingently issuable common shares is
+included in diluted earnings per common share based on the number of common shares, if any, that would be issuable under the
+terms of the awards if the end of the reporting period were the end of the contingency period, if the result is dilutive.
+
+Fair Value of Financial Instruments
+Fair Value of Financial InstrumentsThe underlying entities that the Company manages and invests in (and in certain cases, consolidates) are primarily
+investment companies which account for their investments at estimated fair value.
+The fair value measurement accounting guidance under ASC Topic 820, Fair Value Measurement ( ASC 820 ),
+establishes a hierarchical disclosure framework which ranks the observability of market price inputs used in measuring financial
+instruments at fair value. The observability of inputs is impacted by a number of factors, including the type of financial
+instrument, the characteristics specific to the financial instrument and the state of the marketplace, including the existence and
+transparency of transactions between market participants. Financial instruments with readily available quoted prices, or for
+which fair value can be measured from quoted prices in active markets, will generally have a higher degree of market price
+observability and a lesser degree of judgment applied in determining fair value.
+Financial instruments measured and reported at fair value are classified and disclosed based on the observability of
+inputs used in the determination of fair values, as follows:
+Level I inputs to the valuation methodology are quoted prices available in active markets for identical instruments as
+of the reporting date. The type of financial instruments in this category include unrestricted securities, such as equities
+and derivatives, listed in active markets. The Company does not adjust the quoted price for these instruments, even in
+situations where the Company holds a large position and a sale could reasonably impact the quoted price.
+Level II inputs to the valuation methodology are other than quoted prices in active markets, which are either directly
+or indirectly observable as of the reporting date. The types of financial instruments in this category include less liquid
+and restricted securities listed in active markets, securities traded in other than active markets, government and agency
+securities, and certain over-the-counter derivatives where the fair value is based on observable inputs.
+Level III inputs to the valuation methodology are unobservable and significant to overall fair value measurement.
+The inputs into the determination of fair value require significant management judgment or estimation. The types of
+financial instruments in this category include investments in privately-held entities, non-investment grade residual
+interests in securitizations, collateralized loan obligations, and certain over-the-counter derivatives where the fair value
+is based on unobservable inputs.
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such
+cases, the determination of which category within the fair value hierarchy is appropriate for any given financial instrument is
+based on the lowest level of input that is significant to the fair value measurement. The Company s assessment of the
+significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to
+the financial instrument.
+In certain cases, debt and equity securities (including corporate treasury investments) are valued on the basis of prices
+from an orderly transaction between market participants provided by reputable dealers or pricing services. In determining the
+value of a particular investment, pricing services may use certain information with respect to transactions in such investments,
+quotations from dealers, pricing matrices, market transactions in comparable investments and various relationships between
+investments.
+In the absence of observable market prices, the Company values its investments and its funds investments using
+valuation methodologies applied on a consistent basis. For some investments little market activity may exist. Management s
+determination of fair value is then based on the best information available in the circumstances and may incorporate
+management s own assumptions and involve a significant degree of judgment, taking into consideration a combination of
+internal and external factors, including the appropriate risk adjustments for non-performance and liquidity risks. Investments for
+which market prices are not observable include private investments in the equity and debt of operating companies and real
+assets, CLO investments and CLO loans payable and fund investments. The valuation technique for each of these investments is
+described below:
+Investments in Operating Companies and Real Assets The fair values of private investments in operating companies
+and real assets are generally determined by reference to the income approach (including the discounted cash flow
+method and the income capitalization method) and the market approach (including the comparable publicly traded
+company method and the comparable transaction method). Valuations under these approaches are typically derived by
+reference to investment-specific inputs (such as projected cash flows, earnings before interest, taxes, depreciation and
+amortization ( EBITDA ), and net operating income) combined with market-based inputs (such as discount rates,
+EBITDA multiples and capitalization rates). In many cases, the investment-specific inputs are unaudited at the time
+received. Management may also adjust the market-based inputs to account for differences between the subject
+investment and the companies, assets or investments used to derive the market-based inputs. Adjustments to
+observable valuation measures are frequently made upon the initial investment to calibrate the initial investment
+valuation to industry observable inputs. Such adjustments are made to align the investment to observable industry
+inputs for differences in size, profitability, projected growth rates, geography, capital structure, and other factors as
+applicable. The adjustments are then reviewed with each subsequent valuation to assess how the investment has
+evolved relative to the observable inputs. Additionally, the investment may be subject to certain specific risks and/or
+development milestones which are also taken into account in the valuation assessment. Option pricing models and
+similar tools may also be considered but do not currently drive a significant portion of operating company or real asset
+valuations and are used primarily to value warrants, derivatives, certain restrictions and other atypical investment
+instruments.
+Credit-Oriented Investments The fair values of credit-oriented investments (including corporate treasury
+investments) are generally determined on the basis of prices between market participants provided by reputable dealers
+or pricing services. In determining the value of a particular investment, pricing services may use certain information
+with respect to transactions in such investments, quotations from dealers, pricing matrices, market transactions in
+comparable investments and various relationships between investments. Specifically, for investments in distressed debt
+and corporate loans and bonds, the fair values are generally determined by valuations of comparable investments. In
+some instances, the Company may utilize other valuation techniques, including the discounted cash flow method.
+CLO Investments and CLO Loans Payable The Company measures the financial liabilities of its consolidated CLOs
+based on the fair value of the financial assets of its consolidated CLOs, as the Company believes the fair value of the
+financial assets are more observable. The fair values of the CLO loan and bond assets are primarily based on
+quotations from reputable dealers or relevant pricing services. In situations where valuation quotations are unavailable,
+the assets are valued based on similar securities, market index changes, and other factors. The Company performs
+certain procedures to ensure the reliability of the quotations from pricing services for its CLO assets and CLO
+structured asset positions, which generally includes corroborating prices with a discounted cash flow analysis.
+Generally, the loan and bond assets of the CLOs are not publicly traded and are classified as Level III. The fair values
+of the CLO structured asset positions are determined based on both discounted cash flow analyses and third party
+quotes. Those analyses consider the position size, liquidity, current financial condition of the CLOs, the third party
+financing environment, reinvestment rates, recovery lags, discount rates and default forecasts and are compared to
+broker quotations from market makers and third party dealers.
+The Company measures the CLO loan payables held by third party beneficial interest holders on the basis of the fair
+value of the financial assets of the CLO and the beneficial interests held by the Company. The Company continues to
+measure the CLO loans payable that it holds at fair value based on relevant pricing services or discounted cash flow
+analyses, as described above.
+Fund Investments The Company s primary and secondary investments in external funds are generally valued as its
+proportionate share of the most recent net asset value provided by the third-party general partners of the underlying
+fund partnerships, adjusted for subsequent cash flows received from or distributed to the underlying fund partnerships.
+The Company also adjusts for any changes in the market prices of public securities held by the underlying fund
+partnerships and may also apply a market adjustment to reflect the estimated change in the fair value of the underlying
+fund partnerships non-public investments from the date of the most recent net asset value provided by the third-party
+general partners.
+Investment professionals with responsibility for the underlying investments are responsible for preparing the
+investment valuations pursuant to the policies, methodologies and templates prepared by the Company s valuation group, which
+is a team made up of dedicated valuation professionals reporting to the Company s chief accounting officer. The valuation
+group is responsible for maintaining the Company s valuation policy and related guidance, templates and systems that are
+designed to be consistent with the guidance found in ASC 820. These valuations, inputs and preliminary conclusions are
+
+reviewed by the fund management teams. The valuations are then reviewed and approved by the respective fund valuation
+subcommittees, which include the respective fund head(s), segment head, chief financial officer and chief accounting officer, as
+well as members of the valuation group. The valuation group compiles the aggregate results and significant matters and
+presents them for review and approval by the global valuation committee, which includes the Company s Chief Executive
+Officer, Chief Risk Officer, Chief Financial Officer, Chief Accounting Officer, and the business segment heads, and observed
+by the Chief Compliance Officer, the Chief Audit Executive, the Company s Audit Committee and others. Additionally, each
+quarter a sample of valuations are reviewed by external valuation firms. Valuations of the funds investments are used in the
+calculation of accrued performance allocations, or carried interest.
+
+Investments, at Fair Value and Corporate Treasury Investments
+Investments, at Fair ValueInvestments include (i) the Company s ownership interests (typically general partner interests) in the Funds, including
+the Company s investment in Fortitude held through Carlyle FRL (which are accounted for as equity method investments), (ii)
+the Company s investment in NGP (which is accounted for as an equity method investment), (iii) the investments held by the
+Consolidated Funds (which are presented at fair value in the Company s consolidated financial statements), and (iv) certain
+credit-oriented investments, including investments in the CLOs and the preferred securities of Carlyle Secured Lending, Inc.
+( CSL, formerly known as TCG BDC, Inc., the preferred securities of which are referred to as the BDC Preferred Shares )
+(which are accounted for as trading securities).
+Upon the sale of a security or other investment, the realized net gain or loss is computed on a weighted average cost
+basis, with the exception of the investments held by the CLOs, which compute the realized net gain or loss on a first in, first out
+basis. Securities transactions are recorded on a trade date basis.Corporate Treasury InvestmentsCorporate treasury investments represent investments in U.S. Treasury and government agency obligations,
+commercial paper, certificates of deposit, other investment grade securities and other investments with original maturities of
+greater than three months when purchased. These investments are accounted for as trading securities in which changes in the
+fair value of each investment are recorded through investment income (loss). Any interest earned on debt investments is
+recorded through interest and other income.
+
+Equity Method Investments
+Equity Method InvestmentsThe Company accounts for all investments in which it has or is otherwise presumed to have significant influence,
+including investments in the unconsolidated Funds and the Company s investment in NGP, using the equity method of
+accounting. The carrying value of equity method investments is determined based on amounts invested by the Company,
+adjusted for the equity in earnings or losses of the investee (including performance allocations) allocated based on the
+respective partnership agreement, less distributions received. The Company evaluates its equity method investments for
+impairment whenever events or changes in circumstances indicate that the carrying amounts of such investments may not be
+recoverable.
+
+Cash and Cash Equivalents
+Cash and Cash EquivalentsCash and cash equivalents include cash held at banks and cash held for distributions, including investments with
+original maturities of less than three months when purchased. The Company is subject to credit risk should a financial
+institution be unable to fulfil its obligations and if balances held at a financial institution exceed insured limits.
+
+Cash and Cash Equivalents Held at Consolidated Funds
+Cash and Cash Equivalents Held at Consolidated FundsCash and cash equivalents held at Consolidated Funds consists of cash and cash equivalents held by the Consolidated
+Funds, which, although not legally restricted, is not available to fund the general liquidity needs of the Company.
+
+Restricted Cash
+Restricted CashRestricted cash primarily represents cash held by the Company s foreign subsidiaries due to certain government
+regulatory capital requirements as well as certain amounts held on behalf of Carlyle funds.
+
+Derivative Instruments
+Derivative InstrumentsThe Company uses derivative instruments primarily to reduce its exposure to changes in foreign currency exchange
+rates. Derivative instruments are recognized at fair value in the consolidated balance sheets with changes in fair value
+recognized in the consolidated statements of operations for all derivatives not designated as hedging instruments.
+
+Securities Sold Under Agreements to Repurchase
+Securities Sold Under Agreements to Repurchase As it relates to certain European CLOs sponsored by the Company, securities sold under agreements to repurchase
+( Repurchase Agreements ) are accounted for as collateralized financing transactions. The Company provides securities to
+counterparties to collateralize amounts borrowed under repurchase agreements on terms that permit the counterparties to
+repledge or resell the securities to others. As of December 31, 2024, $240.4 million of securities were transferred to
+counterparties under repurchase agreements and are included within investments in the consolidated balance sheets. Cash
+received under repurchase agreements is recognized as a liability within debt obligations in the consolidated balance sheets.
+
+Fixed Assets
+Fixed AssetsFixed assets consist of furniture, fixtures and equipment, leasehold improvements, computer hardware and software,
+and fractional shares in corporate aircraft, and are stated at cost, less accumulated depreciation and amortization. Depreciation
+is recognized on a straight-line method over the assets estimated useful lives, which for leasehold improvements are the lesser
+of the lease terms or the life of the asset, and three to seven years for other fixed assets. Fixed assets are reviewed for
+impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+
+Leases
+LeasesThe Company accounts for its leases in accordance with ASC 842, Leases, and recognizes a lease liability and right-
+of-use ( ROU ) asset in the consolidated balance sheet for contracts that it determines are leases or contain a lease. The
+Company s leases primarily consist of operating leases for office space in various countries around the world. The Company
+also has operating leases for office equipment and vehicles, which are not significant. The Company does not separate non-
+lease components from lease components for its office space and equipment operating leases and instead accounts for each
+separate lease component and its associated non-lease component as a single lease component. ROU assets represent the
+Company s right to use an underlying asset for the lease term and lease liabilities represent the Company s obligation to make
+lease payments arising from the leases. The Company s ROU assets and lease liabilities are recognized at lease commencement
+based on the present value of lease payments over the lease term. Lease ROU assets include initial direct costs incurred by the
+Company and are presented net of deferred rent and lease incentives. Absent an implicit interest rate in the lease, the Company
+uses its incremental borrowing rate, adjusted for the effects of collateralization, based on the information available at
+commencement in determining the present value of lease payments. The Company s lease terms may include options to extend
+or terminate the lease when it is reasonably certain that the Company will exercise those options. Lease expense for lease
+payments is recognized on a straight-line basis over the lease term. Lease ROU assets are reviewed for impairment whenever
+events or changes in circumstances indicate that the carrying amount of the asset may not be recoverable.
+The Company does not recognize a lease liability or ROU asset on the balance sheet for short-term leases. Instead, the
+Company recognizes short-term lease payments as an expense on a straight-line basis over the lease term. A short-term lease is
+defined as a lease that, at the commencement date, has a lease term of 12 months or less and does not include an option to
+purchase the underlying asset that the lessee is reasonably certain to exercise. When determining whether a lease qualifies as a
+short-term lease, the Company evaluates the lease term and the purchase option in the same manner as all other leases.
+ROU assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying
+amount of an asset may not be recoverable.
+
+Intangible Assets and Goodwill
+Intangible Assets and GoodwillThe Company s intangible assets consist of acquired contractual rights to earn future fee income, including
+management and advisory fees, customer relationships, and acquired trademarks. Finite-lived intangible assets are amortized
+over their estimated useful lives, which range from four to eight years, and are reviewed for impairment whenever events or
+changes in circumstances indicate that the carrying amount of the asset may not be recoverable.
+Goodwill represents the excess of cost over the identifiable net assets of businesses acquired and is recorded in the
+functional currency of the acquired entity. Goodwill is recognized as an asset and is reviewed for impairment annually as of
+October 1 and between annual tests when events and circumstances indicate that impairment may have occurred.
+
+Accumulated Other Comprehensive Income (Loss)
+Accumulated Other Comprehensive Income (Loss)The Company s accumulated other comprehensive income (loss) comprised foreign currency translation adjustments
+and gains and losses on defined benefit plans sponsored by AlpInvest.
+
+Foreign Currency Translation
+Foreign Currency TranslationNon-U.S. dollar denominated assets and liabilities are translated at period-end rates of exchange, and the consolidated
+statements of operations are translated at rates of exchange in effect throughout the period. Foreign currency gains (losses)
+resulting from transactions outside of the functional currency of an entity of $2.5 million, $(13.6) million and $25.2 million for
+the years ended December 31, 2024, 2023 and 2022, respectively, are included in general, administrative and other expenses in
+the consolidated statements of operations.
+
+Recent Accounting Pronouncements
+Recent Accounting PronouncementsThe Company considers the applicability and impact of all accounting standard updates ( ASU ) issued by the
+Financial Accounting Standards Board ( FASB ). ASUs not listed below were assessed and either determined to be not
+applicable or expected to have minimal impact on the Company s consolidated financial statements.
+In November 2023, the FASB issued ASU 2023-07, Segment Reporting Improvements to Reportable Segment
+Disclosures, which requires, among other things, disclosure of significant segment expense categories and amounts for each
+reportable segment on an interim and annual basis. The guidance is effective for fiscal years beginning after December 15,
+2023, and interim periods in fiscal years beginning after December 15, 2024, with early adoption permitted. The Company
+adopted this guidance effective for the fiscal year ended December 31, 2024. The adoption of this guidance did not have a
+material impact on the Company s consolidated financial statements.
+In December 2023, the FASB issued ASU 2023-09, Improvements to Income Tax Disclosure, which requires
+disclosure of disaggregated information about a reporting entity s effective tax rate reconciliation, using both percentages and
+reporting currency amounts for specific standardized categories, as well as disclosure of income taxes paid disaggregated by
+jurisdiction. The guidance is effective for annual periods beginning after December 15, 2024, with early adoption permitted.
+Upon adoption, which will be effective for our annual period beginning on January 1, 2025, the Company does not expect the
+impact of this guidance to be material to its consolidated financial statements.
+
+X
+
+- DefinitionDisclosure of accounting policy for cash and cash equivalents held at consolidated funds and includes a statement that these cash and cash equivalents are not available to fund the general liquidity needs of the partnership.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_CashAndCashEquivalentsHeldAtConsolidatedFundsPolicyPolicyTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNon controlling interests in consolidated entities.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_NonControllingInterestsPolicyPolicyTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_AccountingPoliciesAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for basis of accounting, or basis of presentation, used to prepare the financial statements (for example, US Generally Accepted Accounting Principles, Other Comprehensive Basis of Accounting, IFRS).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BasisOfAccountingPolicyPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for cash and cash equivalents, including the policy for determining which items are treated as cash equivalents. Other information that may be disclosed includes (1) the nature of any restrictions on the entity's use of its cash and cash equivalents, (2) whether the entity's cash and cash equivalents are insured or expose the entity to credit risk, (3) the classification of any negative balance accounts (overdrafts), and (4) the carrying basis of cash equivalents (for example, at cost) and whether the carrying amount of cash equivalents approximates fair value.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-1
+
++ Details
+
+ Name:
+us-gaap_CashAndCashEquivalentsPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionEntity's cash and cash equivalents accounting policy with respect to restricted balances. Restrictions may include legally restricted deposits held as compensating balances against short-term borrowing arrangements, contracts entered into with others, or company statements of intention with regard to particular deposits; however, time deposits and short-term certificates of deposit are not generally included in legally restricted deposits.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(1)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 230
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482913/230-10-50-1
+
++ Details
+
+ Name:
+us-gaap_CashAndCashEquivalentsRestrictedCashAndCashEquivalentsPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for salaries, bonuses, incentive awards, postretirement and postemployment benefits granted to employees, including equity-based arrangements; discloses methodologies for measurement, and the bases for recognizing related assets and liabilities and recognizing and reporting compensation expense.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (f)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 718
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
+
++ Details
+
+ Name:
+us-gaap_CompensationRelatedCostsPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for comprehensive income.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ComprehensiveIncomePolicyPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy regarding (1) the principles it follows in consolidating or combining the separate financial statements, including the principles followed in determining the inclusion or exclusion of subsidiaries or other entities in the consolidated or combined financial statements and (2) its treatment of interests (for example, common stock, a partnership interest or other means of exerting influence) in other entities, for example consolidation or use of the equity or cost methods of accounting. The accounting policy may also address the accounting treatment for intercompany accounts and transactions, noncontrolling interest, and the income statement treatment in consolidation for issuances of stock by a subsidiary.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483426/235-10-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-1
+
++ Details
+
+ Name:
+us-gaap_ConsolidationPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for consolidation to describe the significant judgments and assumptions made in determining whether a variable interest held by the entity requires the variable interest entity to be consolidated and (or) disclose information about its involvement with the variable interest entity; the methodology used by the entity for determining whether or not it is the primary beneficiary of the variable interest entity; and the significant factors considered and judgments made in determining that the power to direct the activities that significantly impact the economic performance of the variable interest entity are shared (as defined).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Paragraph 2AA
+ -Subparagraph (a)
+ -Section 50
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-2AA
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (e)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-4
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 5A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-5A
+
++ Details
+
+ Name:
+us-gaap_ConsolidationVariableInterestEntityPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for credit loss on financial instrument measured at amortized cost basis, net investment in lease, off-balance sheet credit exposure, and available-for-sale debt security. Includes, but is not limited to, methodology used to estimate allowance for credit loss, how writeoff of uncollectible amount is recognized, and determination of past due status and nonaccrual status.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 6.M.2.Q4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483530/326-20-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-14
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 5A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479391/326-20-30-5A
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3C
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 8A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479366/326-20-35-8A
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3D
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-3D
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479344/326-20-45-5
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479175/326-30-30-1B
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-3C
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-3A
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3D
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-3D
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 13A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479148/326-30-35-13A
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 4A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479391/326-20-30-4A
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 7A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479148/326-30-35-7A
+
+Reference 15: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 21
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-21
+
+Reference 16: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 11
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-11
+
+Reference 17: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479106/326-30-50-7
+
+Reference 18: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 17
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-17
+
++ Details
+
+ Name:
+us-gaap_CreditLossFinancialInstrumentPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for its derivative instruments and hedging activities.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -SubTopic 10
+ -Topic 815
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 250
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483443/250-10-50-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(n))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-7
+
++ Details
+
+ Name:
+us-gaap_DerivativesPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for computing basic and diluted earnings or loss per share for each class of common stock and participating security. Addresses all significant policy factors, including any antidilutive items that have been excluded from the computation and takes into account stock dividends, splits and reverse splits that occur after the balance sheet date of the latest reporting period but before the issuance of the financial statements.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 260
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 260
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 260
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482662/260-10-50-2
+
++ Details
+
+ Name:
+us-gaap_EarningsPerSharePolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for equity method of accounting for investments and other interests. Investment includes, but is not limited to, unconsolidated subsidiary, corporate joint venture, noncontrolling interest in real estate venture, limited partnership, and limited liability company. Information includes, but is not limited to, ownership percentage, reason equity method is or is not considered appropriate, and accounting policy election for distribution received.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 825
+ -SubTopic 10
+ -Section 50
+ -Paragraph 28
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 21D
+ -SubTopic 10
+ -Topic 230
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-21D
+
++ Details
+
+ Name:
+us-gaap_EquityMethodInvestmentsPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for determining the fair value of financial instruments.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 10
+ -Topic 825
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-1
+
++ Details
+
+ Name:
+us-gaap_FairValueOfFinancialInstrumentsPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for (1) transactions denominated in a currency other than the reporting enterprise's functional currency, (2) translating foreign currency financial statements that are incorporated into the financial statements of the reporting enterprise by consolidation, combination, or the equity method of accounting, and (3) remeasurement of the financial statements of a foreign reporting enterprise in a hyperinflationary economy.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 830
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/830/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_ForeignCurrencyTransactionsAndTranslationsPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for goodwill and intangible assets. This accounting policy also may address how an entity assesses and measures impairment of goodwill and intangible assets.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-30/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 350
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/350-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_GoodwillAndIntangibleAssetsPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for income taxes, which may include its accounting policies for recognizing and measuring deferred tax assets and liabilities and related valuation allowances, recognizing investment tax credits, operating loss carryforwards, tax credit carryforwards, and other carryforwards, methodologies for determining its effective income tax rate and the characterization of interest and penalties in the financial statements.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 20
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-20
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 19
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-19
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 25
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482525/740-10-45-25
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(h)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 17
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-17
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-9
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482525/740-10-45-28
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482765/220-10-50-1
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for investment in financial asset.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-04(3)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477250/944-220-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(d))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(f)(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(f)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-03(f)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479886/946-10-S99-3
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 12
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-12
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 320
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 19
+ -Subparagraph (2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477271/946-320-S99-19
+
++ Details
+
+ Name:
+us-gaap_InvestmentPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for leasing arrangement entered into by lessee.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-1
+
++ Details
+
+ Name:
+us-gaap_LesseeLeasesPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy pertaining to new accounting pronouncements that may impact the entity's financial reporting. Includes, but is not limited to, quantification of the expected or actual impact.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_NewAccountingPronouncementsPolicyPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for long-lived, physical asset used in normal conduct of business and not intended for resale. Includes, but is not limited to, work of art, historical treasure, and similar asset classified as collections.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -SubTopic 10
+ -Topic 360
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482099/360-10-50-1
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(8)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -SubTopic 360
+ -Topic 958
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477798/958-360-50-6
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (d)
+ -SubTopic 360
+ -Topic 958
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477798/958-360-50-1
+
++ Details
+
+ Name:
+us-gaap_PropertyPlantAndEquipmentPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of the accounting policy for determining which carrying amount is used for securities sold under repurchase agreements and the method used to determine that amount.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 825
+ -SubTopic 10
+ -Section 50
+ -Paragraph 28
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-28
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 825
+ -SubTopic 10
+ -Section 25
+ -Paragraph 2
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482784/825-10-25-2
+
++ Details
+
+ Name:
+us-gaap_RepurchaseAgreementsValuationPolicy
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for revenue. Includes revenue from contract with customer and from other sources.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(1))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483426/235-10-50-4
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (e)
+ -SubTopic 10
+ -Topic 235
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483426/235-10-50-4
+
++ Details
+
+ Name:
+us-gaap_RevenueRecognitionPolicyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionDisclosure of accounting policy for the use of estimates in the preparation of financial statements in conformity with generally accepted accounting principles.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -SubTopic 10
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-9
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-4
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 11
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-11
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -SubTopic 10
+ -Topic 275
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-12
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 275
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482861/275-10-50-8
+
++ Details
+
+ Name:
+us-gaap_UseOfEstimates
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

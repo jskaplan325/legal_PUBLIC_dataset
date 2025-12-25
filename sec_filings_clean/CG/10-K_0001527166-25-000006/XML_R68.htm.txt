@@ -1,0 +1,592 @@
+XML
+91
+R68.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Investments - Principal Investments in CLOs and Other Investments (Additional Information) (Details) - USD ($)
+ $ in Millions
+
+1 Months Ended
+12 Months Ended
+
+May 31, 2023
+
+May 31, 2022
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Fair value of assets
+
+$ 8,316.4
+
+$ 7,962.9
+
+Carlyle FRL
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Investment loss
+$ 104.0
+
+$ 176.9
+
+Carlyle FRL | Fortitude Holdings
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Percentage ownership
+10.50%
+
+13.50%
+
+Carlyle FRL | Global Credit
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Investment loss
+
+$ 104.0
+
+$ 176.9
+
+Carlyle FRL | Global Credit | Fortitude Holdings
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Prior ownership percentage
+
+13.50%
+
+Total investments in NGP
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Performance fees, income (loss)
+
+35.5
+
+$ 65.5
+
+$ 560.7
+
+Minimum | Carlyle FRL | Fortitude Holdings
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Percentage ownership
+
+13.50%
+
+Minimum | Carlyle FRL | Global Credit | Fortitude Holdings
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Percentage ownership
+
+10.50%
+
+13.50%
+
+Maximum | Carlyle FRL | Fortitude Holdings
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Percentage ownership
+
+19.90%
+
+Maximum | Carlyle FRL | Global Credit | Fortitude Holdings
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Percentage ownership
+
+19.90%
+
+Level III
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Fair value of assets
+
+7,932.5
+
+$ 7,379.4
+
+CLO Senior and Subordinated Notes and Derivative Instruments
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Investment in preferred securities
+
+$ 378.9
+
+532.6
+
+BDC preferred shares | Level III | Other
+
+Debt and Equity Securities, FV-NI [Line Items]
+
+Fair value of assets
+
+$ 81.7
+
+X
+
+- DefinitionPerformance Fees, Income (Loss)
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_PerformanceFeesIncomeLoss
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSubsidiary Or Equity Method Investee, Cumulative Percentage Ownership Prior To Transactions
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_SubsidiaryOrEquityMethodInvesteeCumulativePercentageOwnershipPriorToTransactions
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value portion of asset recognized for present right to economic benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AssetsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of gain (loss) on sale or disposal of an equity method investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(9)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(7)(c))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 230
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 28
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+
++ Details
+
+ Name:
+us-gaap_EquityMethodInvestmentRealizedGainLossOnDisposal
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6B
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-6B
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfTradingSecuritiesAndOtherTradingAssetsLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage of subsidiary's or equity method investee's stock owned by parent immediately after all stock transactions.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SubsidiaryOrEquityMethodInvesteeCumulativePercentageOwnershipAfterAllTransactions
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of investment in debt security measured at fair value with change in fair value recognized in net income (trading).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481830/320-10-45-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 1
+ -Subparagraph (f)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483467/210-10-45-1
+
++ Details
+
+ Name:
+us-gaap_TradingSecuritiesDebt
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_CarlyleFRLMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=cg_FortitudeGroupHoldingsLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementBusinessSegmentsAxis=cg_GlobalCreditSegmentMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ScheduleOfEquityMethodInvestmentEquityMethodInvesteeNameAxis=cg_NGPManagementCompanyLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_CLOSeniorAndSubordinatedNotesAndDerivativeInstrumentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_BDCPreferredSharesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=cg_MarketYieldAnalysisMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

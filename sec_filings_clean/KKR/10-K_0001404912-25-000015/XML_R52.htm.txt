@@ -1,0 +1,430 @@
+XML
+74
+R52.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DERIVATIVES (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Derivative Instruments and Hedging Activities Disclosure [Abstract]
+
+Schedule of Fair Value and Notional Value of Derivative Assets and Liabilities
+The fair value and notional value of the derivative assets and liabilities were as follows:
+
+As of December 31, 2024 Notional
+Value Derivative
+Assets Derivative
+Liabilities
+Asset Management and Strategic Holdings
+Foreign Exchange Contracts and Options $ 19,452,993 $ 511,513 $ 131,339
+Other Derivatives 455,500 8,444
+Total Asset Management and Strategic Holdings $ 19,908,493 $ 519,957 $ 131,339
+
+Insurance
+Derivatives Designated as Hedge Accounting Instruments:
+Interest Rate Contracts $ 15,490,742 $ 41,578 $ 511,118
+Foreign Currency Contracts 2,541,093 66,774 28,878
+Total Derivatives Designated as Hedge Accounting Instruments $ 18,031,835 $ 108,352 $ 539,996
+Derivatives Not Designated as Hedge Accounting Instruments:
+Equity Market Contracts $ 37,151,092 $ 1,921,164 $ 143,049
+Interest Rate Contracts 29,211,430 206,222 561,452
+Foreign Currency Contracts 2,887,035 108,929 54,679
+Other Contracts 61,508 1,895 194
+
+Total Derivatives Not Designated as Hedge Accounting Instruments $ 69,311,065 $ 2,238,210 $ 759,374
+
+Counterparty Netting(2)
+ (648,549) (648,549)
+Cash Collateral (1,636,662) (261,634)
+Total Insurance(1)
+ $ 87,342,900 $ 61,351 $ 389,187
+
+Fair Value Included Within Total Assets and Liabilities $ 107,251,393 $ 581,308 $ 520,526
+
+(1)Excludes embedded derivatives. The fair value of these embedded derivatives related to assets was $125.9 million and the fair value of these embedded derivatives related to liabilities was $3.2 billion as of December 31, 2024.
+(2)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+As of December 31, 2023
+Notional
+Value Derivative
+Assets Derivative
+Liabilities
+Asset Management and Strategic Holdings
+Foreign Exchange Contracts and Options $ 15,771,463 $ 264,621 $ 441,608
+Other Derivatives 374,604 4,792 2,382
+Total Asset Management and Strategic Holdings $ 16,146,067 $ 269,413 $ 443,990
+
+Insurance
+Derivatives Designated as Hedge Accounting Instruments:
+Interest Rate Contracts $ 7,320,500 $ $ 372,212
+Foreign Currency Contracts 2,302,335 24,278 73,478
+Total Derivatives Designated as Hedge Accounting Instruments $ 9,622,835 $ 24,278 $ 445,690
+Derivatives Not Designated as Hedge Accounting Instruments:
+Equity Market Contracts $ 35,203,206 $ 1,480,875 $ 248,127
+Interest Rate Contracts 22,259,423 284,067 306,244
+Foreign Currency Contracts 1,331,345 65,803 56,616
+Other Contracts 60,000 600
+Total Derivatives Not Designated as Hedge Accounting Instruments $ 58,853,974 $ 1,830,745 $ 611,587
+Counterparty Netting(2)
+ (694,250) (694,250)
+Cash Collateral (1,115,079) (216,830)
+
+Total Insurance(1)
+ $ 68,476,809 $ 45,694 $ 146,197
+
+Fair Value Included Within Total Assets and Liabilities $ 84,622,876 $ 315,107 $ 590,187
+
+(1)Excludes embedded derivatives. The fair value of these embedded derivatives related to assets was $88.7 million and the fair value of these embedded derivatives related to liabilities was $1.6 billion as of December 31, 2023.
+(2)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+Schedule of Derivative Liabilities at Fair Value
+The following table presents the financial statement classification, carrying amount, and cumulative fair value hedging adjustments for qualifying hedged debt and policy liabilities:
+ As of December 31, 2024 As of December 31, 2023
+ Carrying Amount of Hedged Liabilities Cumulative Amount of Fair Value Hedging Adjustments Included in the Carrying Amount of Hedged Liabilities(1)
+ Carrying Amount of Hedged Liabilities Cumulative Amount of Fair Value Hedging Adjustments Included in the Carrying Amount of Hedged Liabilities(1)
+
+Debt $ 2,279,261 $ (233,202) $ 1,608,294 $ (165,817)
+Policy Liabilities 4,453,766 (204,435) 4,380,048 (255,308)
+
+(1)Includes $193.3 million and $27.8 million of hedging adjustments on discontinued hedging relationships as of December 31, 2024 and 2023, respectively.
+
+Schedule of Derivative Gains and Losses
+The following table presents the financial statement classification and amount of gains (losses) recognized on derivative instruments and related hedged items, where applicable. None of the Asset Management and Strategic Holdings derivatives are designated as hedge accounting instruments. The table below includes only derivatives held by Global Atlantic.
+
+ Year Ended December 31, 2024
+ Net Investment-Related Gains (Losses) Net Investment Income Net Policy Benefits and Claims Interest Expense Change in AOCI
+Derivatives Designated as Hedge Accounting Instruments:
+Fair Value Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments:
+Interest Rate Contracts $ $ $ (108,622) $ (134,580) $
+Foreign Currency Contracts 119,618 4,551 (10,977)
+Total Gains (Losses) on Derivatives Designated as Hedge Instruments $ 119,618 $ 4,551 $ (108,622) $ (134,580) $ (10,977)
+Gains (Losses) on Hedged Items:
+Interest Rate Contracts $ $ $ 108,622 $ 134,580 $
+Foreign Currency Contracts (117,318)
+Total Gains (Losses) on Hedged Items $ (117,318) $ $ 108,622 $ 134,580 $
+Amortization for Gains (Losses) Excluded from Assessment of Effectiveness:
+Foreign Currency Contracts $ 20,145 $ $ $ $
+Total Amortization for Gains (Losses) Excluded from Assessment of Effectiveness $ 20,145 $ $ $ $
+Total Gains (Losses) on Fair Value Hedges, Net of Hedged Items $ 22,445 $ 4,551 $ $ $ (10,977)
+Cash Flow Hedges
+Interest Rate Contracts $ $ (6,043) $ $ $ (183,626)
+Total Gains (Losses) on Cash Flow Hedges $ $ (6,043) $ $ $ (183,626)
+Net Investment Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments $ $ 1,388 $ $ $ (25,344)
+
+Total Gains (Losses) on Net Investment Hedges $ $ 1,388 $ $ $ (25,344)
+Derivatives Not Designated as Hedge Accounting Instruments:
+
+Insurance
+Embedded Derivatives - Funds Withheld Receivable $ 37,226 $ $ $ $
+Embedded Derivatives - Funds Withheld Payable 350,241
+Equity Index Options 567,543
+Equity Future Contracts (87,484)
+Interest Rate Contracts (569,315)
+
+Foreign Exchange and Other Derivative Contracts 99,271
+Total Gains (Losses) on Derivatives Not Designated as Hedge Accounting Instruments from Insurance Activities $ 397,482 $ $ $ $
+Total $ 419,927 $ (104) $ $ $ (219,947)
+
+ Year Ended December 31, 2023
+ Net Investment-Related Gains (Losses) Net Investment Income Net Policy Benefits and Claims Interest Expense Change in AOCI
+Derivatives Designated as Hedge Accounting Instruments:
+Fair Value Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments:
+Interest Rate Contracts $ $ $ (53,870) $ (20,410) $
+Foreign Currency Contracts (88,384) 9,119
+Total Gains (Losses) on Derivatives Designated as Hedge Instruments $ (88,384) $ $ (53,870) $ (20,410) $ 9,119
+Gains (Losses) on Hedged Items:
+Interest Rate Contracts $ $ $ 53,870 $ 20,410 $
+Foreign Currency Contracts 80,210
+Total Gains (Losses) on Hedged Items $ 80,210 $ $ 53,870 $ 20,410 $
+Amortization for Gains (Losses) Excluded from Assessment of Effectiveness:
+Foreign Currency Contracts $ 28,345 $ $ $ $
+Total Amortization for Gains (Losses) Excluded from Assessment of Effectiveness $ 28,345 $ $ $ $
+Total Gains (Losses) on Fair Value Hedges, Net of Hedged Items $ 20,171 $ $ $ $ 9,119
+Cash Flow Hedges
+Interest Rate Contracts $ $ (1,381) $ $ $ 33,446
+Total Gains (Losses) on Cash Flow Hedges $ $ (1,381) $ $ $ 33,446
+Derivatives Not Designated as Hedge Accounting Instruments:
+Insurance
+Embedded Derivatives - Funds Withheld Receivable $ 75,876 $ $ $ $
+Embedded Derivatives - Funds Withheld Payable (1,040,463)
+Equity Index Options 482,121
+Equity Future Contracts (116,766)
+Interest Rate and Foreign Exchange Contracts (101,376)
+
+Other (280)
+Total Gains (Losses) on Derivatives Not Designated as Hedge Accounting Instruments from Insurance Activities $ (700,888) $ $ $ $
+Total $ (680,717) $ (1,381) $ $ $ 42,565
+
+ Year Ended December 31, 2022
+ Net Investment-Related Gains (Losses) Net Investment Income Net Policy Benefits and Claims Interest Expense Change in AOCI
+Derivatives Designated as Hedge Accounting Instruments:
+Fair Value Hedges
+Gains (Losses) on Derivatives Designated as Hedge Instruments:
+Interest Rate Contracts $ $ $ (382,376) $ (177,855) $
+Foreign Currency Contracts 64,945 (6,784)
+Total Gains (Losses) on Derivatives Designated as Hedge Instruments $ 64,945 $ $ (382,376) $ (177,855) $ (6,784)
+Gains (Losses) on Hedged Items:
+Interest Rate Contracts $ $ $ 382,376 $ 177,855 $
+Foreign Currency Contracts (61,785)
+Total Gains (Losses) on Hedged Items $ (61,785) $ $ 382,376 $ 177,855 $
+Amortization for Gains (Losses) Excluded from Assessment of Effectiveness:
+Foreign Currency Contracts $ 14,737 $ $ $ $
+Total Amortization for Gains (Losses) Excluded from Assessment of Effectiveness $ 14,737 $ $ $ $
+Total Gains (Losses) on Fair Value Hedges, Net of Hedged Items $ 17,897 $ $ $ $ (6,784)
+Cash Flow Hedges
+Interest Rate Contracts $ 1,032 $ $ $ $ (169,785)
+Total Gains (Losses) on Cash Flow Hedges $ 1,032 $ $ $ $ (169,785)
+Derivatives Not Designated as Hedge Accounting Instruments:
+Insurance
+Embedded Derivatives - Funds Withheld Receivable $ (29,390) $ $ $ $
+Embedded Derivatives - Funds Withheld Payable 3,448,710
+Equity Index Options (895,602)
+Equity Future Contracts 167,924
+Interest Rate and Foreign Exchange Contracts (333,937)
+Credit Risk Contracts (108)
+Other (29,779)
+Total Gains (Losses) on Derivatives Not Designated as Hedge Accounting Instruments from Insurance Activities $ 2,327,818 $ $ $ $
+Total $ 2,346,747 $ $ $ $ (176,569)
+
+Schedule of Offsetting Assets
+The amount of Global Atlantic's net derivative assets and liabilities after consideration of collateral received or pledged were as follows:
+
+As of December 31, 2024 Gross Amount Recognized Gross Amounts Offset in the Statements of Financial Position(1)
+ Net Amounts Presented in the Statements of Financial Condition Collateral (Received) / Pledged Net Amount after Collateral
+Derivative Assets (Excluding Embedded Derivatives) $ 2,346,562 $ (2,285,211) $ 61,351 $ (157,782) $ (96,431)
+Derivative Liabilities (Excluding Embedded Derivatives) $ 1,299,370 $ (910,183) $ 389,187 $ 504,665 $ (115,478)
+
+(1)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+As of December 31, 2023 Gross Amount Recognized Gross Amounts Offset in the Statements of Financial Position(1)
+ Net Amounts Presented in the Statements of Financial Condition Collateral (Received) / Pledged Net Amount after Collateral
+Derivative Assets (Excluding Embedded Derivatives) $ 1,855,023 $ (1,809,329) $ 45,694 $ (45,095) $ 599
+Derivative Liabilities (Excluding Embedded Derivatives) $ 1,057,277 $ (911,080) $ 146,197 $ 167,973 $ (21,776)
+
+(1)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+Schedule of Offsetting Liabilities
+The amount of Global Atlantic's net derivative assets and liabilities after consideration of collateral received or pledged were as follows:
+
+As of December 31, 2024 Gross Amount Recognized Gross Amounts Offset in the Statements of Financial Position(1)
+ Net Amounts Presented in the Statements of Financial Condition Collateral (Received) / Pledged Net Amount after Collateral
+Derivative Assets (Excluding Embedded Derivatives) $ 2,346,562 $ (2,285,211) $ 61,351 $ (157,782) $ (96,431)
+Derivative Liabilities (Excluding Embedded Derivatives) $ 1,299,370 $ (910,183) $ 389,187 $ 504,665 $ (115,478)
+
+(1)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+As of December 31, 2023 Gross Amount Recognized Gross Amounts Offset in the Statements of Financial Position(1)
+ Net Amounts Presented in the Statements of Financial Condition Collateral (Received) / Pledged Net Amount after Collateral
+Derivative Assets (Excluding Embedded Derivatives) $ 1,855,023 $ (1,809,329) $ 45,694 $ (45,095) $ 599
+Derivative Liabilities (Excluding Embedded Derivatives) $ 1,057,277 $ (911,080) $ 146,197 $ 167,973 $ (21,776)
+
+(1)Represents netting of derivative exposures covered by qualifying master netting agreements.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of derivative and other financial assets that are subject to offsetting, including master netting arrangements.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
++ Details
+
+ Name:
+us-gaap_OffsettingAssetsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of derivative and other financial liabilities that are subject to offsetting, including master netting arrangements.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-4
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+
++ Details
+
+ Name:
+us-gaap_OffsettingLiabilitiesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the location and amount of derivative instruments and nonderivative instruments designated as hedging instruments reported before netting adjustments, and the amount of gain (loss) on derivative instruments and nonderivative instruments designated and qualified as hedging instruments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4E
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDerivativeInstrumentsGainLossInStatementOfFinancialPerformanceTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of derivative liabilities at fair value.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDerivativeLiabilitiesAtFairValueTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of derivative instruments (including nonderivative instruments that are designated and qualify as hedging instruments) of (a) the location and amount of gains and losses reported in the statement of financial performance and (b) the location and fair value amounts of the instruments reported in the statement of financial position.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDerivativesInstrumentsStatementsOfFinancialPerformanceAndFinancialPositionLocationTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

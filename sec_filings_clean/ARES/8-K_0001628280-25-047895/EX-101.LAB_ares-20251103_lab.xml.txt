@@ -1,0 +1,101 @@
+EX-101.LAB
+6
+ares-20251103_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+ Class of Stock [Domain]
+ Class of Stock [Domain]
+
+ Entity Incorporation, State or Country Code
+ Entity Incorporation, State or Country Code
+
+ Entities [Table]
+ Entities [Table]
+
+ Series A Preferred Stock [Member]
+ Series A Preferred Stock [Member]
+
+ Class of Stock [Axis]
+ Class of Stock [Axis]
+
+ Security Exchange Name
+ Security Exchange Name
+
+ Entity Address, City or Town
+ Entity Address, City or Town
+
+ Soliciting Material
+ Soliciting Material
+
+ Cover page.
+ Cover [Abstract]
+
+ City Area Code
+ City Area Code
+
+ Amendment Flag
+ Amendment Flag
+
+ Entity Tax Identification Number
+ Entity Tax Identification Number
+
+ Trading Symbol
+ Trading Symbol
+
+ Entity Registrant Name
+ Entity Registrant Name
+
+ Pre-commencement Tender Offer
+ Pre-commencement Tender Offer
+
+ Entity Emerging Growth Company
+ Entity Emerging Growth Company
+
+ Entity Central Index Key
+ Entity Central Index Key
+
+ Entity File Number
+ Entity File Number
+
+ Entity Address, State or Province
+ Entity Address, State or Province
+
+ Class A common stock
+ Common Class A [Member]
+
+ Pre-commencement Issuer Tender Offer
+ Pre-commencement Issuer Tender Offer
+
+ Series B Preferred Stock
+ Series B Preferred Stock [Member]
+
+ Entity Address, Address Line One
+ Entity Address, Address Line One
+
+ Entity Address, Postal Zip Code
+ Entity Address, Postal Zip Code
+
+ Written Communications
+ Written Communications
+
+ Entity Address, Address Line Two
+ Entity Address, Address Line Two
+
+ Local Phone Number
+ Local Phone Number
+
+ Title of 12(b) Security
+ Title of 12(b) Security
+
+ Document Period End Date
+ Document Period End Date
+
+ Entity Information [Line Items]
+ Entity Information [Line Items]
+
+ 6.75% Series B Mandatory Convertible Preferred Stock, par value $0.01 per share
+ 6.75% Series B Mandatory Convertible Preferred Stock, par value $0.01 per share [Member]
+ 6.75% Series B Mandatory Convertible Preferred Stock, par value $0.01 per share
+
+ Document Type
+ Document Type

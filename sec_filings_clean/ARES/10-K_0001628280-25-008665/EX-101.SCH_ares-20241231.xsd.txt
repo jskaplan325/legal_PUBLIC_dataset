@@ -1,0 +1,489 @@
+EX-101.SCH
+9
+ares-20241231.xsd
+XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+ 0000001 - Document - Cover Page
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 0000002 - Document - Audit Information
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952151 - Statement - Consolidated Statements of Financial Condition
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952152 - Statement - Consolidated Statements of Financial Condition (Parenthetical)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952153 - Statement - Consolidated Statements of Operations
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952154 - Statement - Consolidated Statements of Comprehensive Income
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952155 - Statement - Consolidated Statements of Changes in Equity
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952156 - Statement - Consolidated Statements of Cash Flows
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952157 - Disclosure - ORGANIZATION
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952158 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952159 - Disclosure - GOODWILL AND INTANGIBLE ASSETS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952160 - Disclosure - INVESTMENTS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952161 - Disclosure - FAIR VALUE
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952162 - Disclosure - DEBT
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952163 - Disclosure - OTHER ASSETS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952164 - Disclosure - COMMITMENTS AND CONTINGENCIES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952165 - Disclosure - RELATED PARTY TRANSACTIONS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952166 - Disclosure - INCOME TAXES
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952167 - Disclosure - EARNINGS PER SHARE
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952168 - Disclosure - EQUITY COMPENSATION
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952169 - Disclosure - EQUITY AND REDEEMABLE INTEREST
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952170 - Disclosure - SEGMENT REPORTING
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952171 - Disclosure - CONSOLIDATION
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9952172 - Disclosure - SUBSEQUENT EVENTS
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955511 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Policies)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955512 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955513 - Disclosure - GOODWILL AND INTANGIBLE ASSETS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955514 - Disclosure - INVESTMENTS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955515 - Disclosure - FAIR VALUE (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955516 - Disclosure - DEBT (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955517 - Disclosure - OTHER ASSETS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955518 - Disclosure - COMMITMENTS AND CONTINGENCIES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955519 - Disclosure - RELATED PARTY TRANSACTIONS (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955520 - Disclosure - INCOME TAXES (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955521 - Disclosure - EARNINGS PER SHARE (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955522 - Disclosure - EQUITY COMPENSATION (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955523 - Disclosure - EQUITY AND REDEEMABLE INTEREST (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955524 - Disclosure - SEGMENT REPORTING (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955525 - Disclosure - CONSOLIDATION (Tables)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955526 - Disclosure - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955527 - Disclosure - GOODWILL AND INTANGIBLE ASSETS - Schedule of Carrying Value of Intangible Assets (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955528 - Disclosure - GOODWILL AND INTANGIBLE ASSETS - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955529 - Disclosure - GOODWILL AND INTANGIBLE ASSETS - Schedule of Finite-Lived Intangible Assets, Future Amortization Expense (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955530 - Disclosure - GOODWILL AND INTANGIBLE ASSETS - Schedule of Goodwill (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955531 - Disclosure - INVESTMENTS - Schedule of Investments (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955532 - Disclosure - INVESTMENTS - Schedule of Financial Information for the Company s Equity Method Investments (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955533 - Disclosure - INVESTMENTS - Schedule of Equity Method Investments Net Other Income (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955534 - Disclosure - INVESTMENTS - Schedule of Equity Method Investment Held at Fair Value (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955535 - Disclosure - INVESTMENTS - Schedule of Investments of the Consolidated Funds (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955536 - Disclosure - INVESTMENTS - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955537 - Disclosure - FAIR VALUE - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955538 - Disclosure - FAIR VALUE - Schedule of Assets and Liabilities Measured at Fair Value (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955539 - Disclosure - FAIR VALUE - Schedule of Changes in Fair Value of Level III Measurements (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955540 - Disclosure - FAIR VALUE - Schedule of Quantitative Inputs and Assumptions used for Level III Inputs (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955541 - Disclosure - FAIR VALUE - Schedule of Investments Using NAV per Share (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955542 - Disclosure - DEBT - Schedule of Debt Obligations (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955543 - Disclosure - DEBT - Schedule of Debt Issuance Costs (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955544 - Disclosure - DEBT - Schedule of Loan Obligations of the Consolidated CLOs (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955545 - Disclosure - DEBT - Schedule of Credit Facilities of the Consolidated Funds (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955546 - Disclosure - OTHER ASSETS - Schedule of Components of Other Assets (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955547 - Disclosure - OTHER ASSETS - Schedule of Fixed Assets, Net (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955548 - Disclosure - OTHER ASSETS - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955549 - Disclosure - COMMITMENTS AND CONTINGENCIES - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955550 - Disclosure - COMMITMENTS AND CONTINGENCIES - Schedule of Maturity of Lease Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955550 - Disclosure - COMMITMENTS AND CONTINGENCIES - Schedule of Maturity of Lease Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955551 - Disclosure - COMMITMENTS AND CONTINGENCIES - Schedule of Classification of Operating Lease Expense (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955552 - Disclosure - COMMITMENTS AND CONTINGENCIES - Schedule of Supplemental information on the measurement of operating lease liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955553 - Disclosure - COMMITMENTS AND CONTINGENCIES - Schedule of Lease Term and Discount Rate (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955554 - Disclosure - RELATED PARTY TRANSACTIONS (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955555 - Disclosure - INCOME TAXES - Schedule of Components of Income Tax Expense (Benefit) (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955555 - Disclosure - INCOME TAXES - Schedule of Components of Income Tax Expense (Benefit) (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955556 - Disclosure - INCOME TAXES - Schedule of Effective Income Tax Rate Reconciliation (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955557 - Disclosure - INCOME TAXES - Schedule of Deferred Tax Assets and Liabilities (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955558 - Disclosure - INCOME TAXES - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955559 - Disclosure - EARNINGS PER SHARE - Schedule of Antidilutive Securities Excluded (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955560 - Disclosure - EARNINGS PER SHARE - Schedule of Computation of Basic and Diluted Earnings Per Share (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955561 - Disclosure - EQUITY COMPENSATION - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955562 - Disclosure - EQUITY COMPENSATION - Schedule of Equity Incentive Plan (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955563 - Disclosure - EQUITY COMPENSATION - Schedule of Dividends Declared and Paid (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955564 - Disclosure - EQUITY COMPENSATION - Schedule of Unvested Restricted Units Activity (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955565 - Disclosure - EQUITY COMPENSATION - Schedule of Unvested Options Activity (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955566 - Disclosure - EQUITY AND REDEEMABLE INTEREST - Common Stock (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955567 - Disclosure - EQUITY AND REDEEMABLE INTEREST - Common Stock Offering (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955568 - Disclosure - EQUITY AND REDEEMABLE INTEREST - Preferred Stock (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955569 - Disclosure - EQUITY AND REDEEMABLE INTEREST - Redeemable Interests (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955570 - Disclosure - SEGMENT REPORTING - Schedule of Financial Results for Company's Operating Segments and OMG (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955571 - Disclosure - SEGMENT REPORTING - Schedule of Segment Revenue Expenses and Realized Net Investment Income (Expense) (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955572 - Disclosure - SEGMENT REPORTING - Schedule of Segment Revenue Reconciliation (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955573 - Disclosure - SEGMENT REPORTING - Schedule of Segment Expenses Components (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955574 - Disclosure - SEGMENT REPORTING - Schedule of Segment Other Income Components (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955575 - Disclosure - SEGMENT REPORTING - Schedule of Reconciliation of Segment Results to the Company's Income before Taxes and Total Assets (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955576 - Disclosure - CONSOLIDATION - Narrative (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955577 - Disclosure - CONSOLIDATION - Schedule of Interest in VIEs (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955578 - Disclosure - CONSOLIDATION - Schedule of Consolidating Effects of the Consolidated Funds on the Company's Financial Condition (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955579 - Disclosure - CONSOLIDATION - Schedule of Results from Operations (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955580 - Disclosure - CONSOLIDATION - Schedule of Cash Flows (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink
+
+ 9955581 - Disclosure - SUBSEQUENT EVENTS (Details)
+ link:presentationLink
+ link:calculationLink
+ link:definitionLink

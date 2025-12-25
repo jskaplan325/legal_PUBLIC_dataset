@@ -1,0 +1,163 @@
+XML
+64
+R41.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Non-controlling Interests in Consolidated Entities (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Noncontrolling Interest [Abstract]
+
+Components of non-controlling interests in consolidated entities
+The components of the Company s non-controlling interests in consolidated entities are as follows:
+
+ As of December 31,
+
+ 2024
+
+ 2023
+
+ (Dollars in millions)
+
+Non-Carlyle interests in Consolidated Funds
+
+ $407.1
+
+ $415.3
+
+Non-Carlyle interests in majority-owned subsidiaries
+
+ 334.2
+
+ 184.5
+
+Non-controlling interest in carried interest, giveback obligations and cash held for carried
+interest distributions
+
+ (0.6)
+
+ (6.7)
+
+Non-controlling interests in consolidated entities
+
+ $740.7
+
+ $593.1
+
+Components of non-controlling interests in income of consolidated entities
+The components of the Company s non-controlling interests in income of consolidated entities are as follows:
+
+ Year Ended December 31,
+
+ 2024
+
+ 2023
+
+ 2022
+
+ (Dollars in millions)
+
+Non-Carlyle interests in Consolidated Funds
+
+ $8.7
+
+ $82.6
+
+ $36.1
+
+Non-Carlyle interests in majority-owned subsidiaries
+
+ 61.5
+
+ 27.4
+
+ 20.7
+
+Non-controlling interest in carried interest, giveback obligations and cash
+held for carried interest distributions
+
+ 0.5
+
+ 1.7
+
+ 2.9
+
+Non-controlling interests in income of consolidated entities
+
+ $70.7
+
+ $111.7
+
+ $59.7
+
+X
+
+- DefinitionSchedule of components of partnerships non controlling interests in consolidated entities.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ScheduleOfComponentsOfPartnershipsNonControllingInterestsInConsolidatedEntitiesTableTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionSchedule of components of partnerships non controlling interests in income loss of consolidated entities.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_ScheduleOfComponentsOfPartnershipsNonControllingInterestsInIncomeLossOfConsolidatedEntitiesTableTextBlock
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_NoncontrollingInterestAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

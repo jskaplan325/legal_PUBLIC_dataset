@@ -1,0 +1,486 @@
+XML
+193
+R171.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+RELATED PARTY TRANSACTIONS - Narrative (Details) - USD ($)
+ $ in Millions
+
+1 Months Ended
+12 Months Ended
+
+Jul. 01, 2018
+
+Nov. 30, 2022
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Jun. 30, 2024
+
+Related Party Transaction [Line Items]
+
+Amount required to be paid to transferees as percentage of cash savings in US federal, state and local income tax
+85.00%
+
+Expected benefit as percentage of cash savings in income tax
+15.00%
+
+Number of days within which payments required to be made under tax receivable agreement after filing of the tax return
+90 days
+
+Cash payments made under tax receivable agreement
+
+$ 27.2
+
+$ 16.3
+
+$ 10.3
+
+Cumulative income tax savings realized
+
+18.3
+
+Discretionary investments
+
+863.8
+
+629.0
+
+714.8
+
+Chief Executive Officer | Aircraft Rental, Charges
+
+Related Party Transaction [Line Items]
+
+Amount of related party transaction
+
+6.2
+
+3.4
+
+2.9
+
+Messrs. Kravis And Roberts, Including Estate Planning Trusts | Facilities, Payments Made To Partnership
+
+Related Party Transaction [Line Items]
+
+Payments made to related party
+
+$ 7.7
+
+$ 9.5
+
+$ 8.8
+
+Related party transaction, renewal term
+
+15 years
+
+Director
+
+Related Party Transaction [Line Items]
+
+Value of the general partner contributing funds
+
+$ 22.0
+
+X
+
+- DefinitionAmount Required To Pay To Transferees As Percentage Of Cash Savings In Us Federal State And Local Income Tax
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_AmountRequiredToPayToTransfereesAsPercentageOfCashSavingsInUsFederalStateAndLocalIncomeTax
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionDiscretionary Investments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_DiscretionaryInvestments
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIncome Tax Expected Benefit As Percentage Of Cash Saving In Income Tax
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_IncomeTaxExpectedBenefitAsPercentageOfCashSavingInIncomeTax
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPayment Made Under Tax Receivable Agreement Period
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PaymentMadeUnderTaxReceivableAgreementPeriod
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized Cumulative Income Tax Savings
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_RealizedCumulativeIncomeTaxSavings
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionRelated Party Transaction, Lease Renewal, Term
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_RelatedPartyTransactionLeaseRenewalTerm
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRelated Party Transaction, Payments Made To Related Party
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_RelatedPartyTransactionPaymentsMadeToRelatedParty
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTax Receivable Agreement Cash Payments
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_TaxReceivableAgreementCashPayments
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe amount of capital contributed by the general partner.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 5
+ -Subparagraph (SAB Topic 4.F)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-5
+
++ Details
+
+ Name:
+us-gaap_GeneralPartnersContributedCapital
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of transactions with related party during the financial reporting period.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 850
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 850
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-3
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAmountsOfTransaction
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 45
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481990/310-10-45-13
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(i))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(c)(2)(ii))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(g)(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_RelatedPartyTransactionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_ChiefExecutiveOfficerMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=kkr_AircraftRentalChargesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=kkr_Messrs.KravisAndRobertsIncludingEstatePlanningTrustsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionAxis=kkr_FacilitiesPaymentsMadeToPartnershipMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_DirectorMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

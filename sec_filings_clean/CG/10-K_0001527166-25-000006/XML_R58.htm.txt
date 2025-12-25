@@ -1,0 +1,1888 @@
+XML
+81
+R58.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value Measurement - Quantitative Information about Partnership's Level III Inputs (Details)
+ $ in Millions
+
+Dec. 31, 2024
+
+USD ($)
+
+$ / shares
+
+Dec. 31, 2023
+
+USD ($)
+
+$ / shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+$ 8,316.4
+
+$ 7,962.9
+
+Fair value of liabilities
+6,809.7
+
+6,298.6
+
+Level III
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+7,932.5
+
+7,379.4
+
+Fair value of liabilities
+6,809.1
+
+6,298.6
+
+Level III | Discounted Cash Flow with Consensus Pricing | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of liabilities
+
+190.0
+
+Level III | Other | Senior secured notes
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of liabilities
+6,598.8
+
+6,090.1
+
+Level III | Investments of Consolidated Funds:
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+7,468.5
+
+6,762.2
+
+Level III | Equity securities | Consensus Pricing
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+3.9
+
+3.3
+
+Level III | Equity securities | Discounted Cash Flow
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+485.0
+
+366.5
+
+Level III | Equity securities | Other
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+44.9
+
+7.8
+
+Level III | Equity securities | Discounted Cash Flow
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+38.2
+
+Level III | Bonds | Consensus Pricing
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+465.1
+
+522.5
+
+Level III | Loans | Consensus Pricing
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+6,408.2
+
+5,829.3
+
+Level III | Loans | Discounted Cash Flow
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+10.2
+
+11.0
+
+Level III | Loans | Other
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+6.6
+
+12.4
+
+Level III | Loan two | Discounted Cash Flow
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+6.4
+
+9.4
+
+Level III | Senior secured notes
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+
+472.2
+
+Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+321.8
+
+Level III | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+
+59.4
+
+Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+57.1
+
+Fair value of liabilities
+210.3
+
+Level III | Subordinated notes and preferred shares | Other
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+
+1.0
+
+Fair value of liabilities
+
+18.5
+
+Level III | BDC preferred shares | Consensus Pricing
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+
+81.7
+
+Level III | BDC preferred shares | Other
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+53.4
+
+Level III | BDC preferred shares | Other
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+
+81.7
+
+Level III | Aviation subordinated notes
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+
+$ 2.9
+
+Level III | Aviation subordinated notes | Discounted Cash Flow
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+2.9
+
+Level III | Loans | Consensus Pricing
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Fair value of assets
+$ 28.8
+
+Indicative Quotes | Level III | Discounted Cash Flow with Consensus Pricing | Minimum | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.11
+
+0.16
+
+Indicative Quotes | Level III | Discounted Cash Flow with Consensus Pricing | Maximum | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.87
+
+1.03
+
+Indicative Quotes | Level III | Discounted Cash Flow with Consensus Pricing | Weighted Average | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.34
+
+0.41
+
+Indicative Quotes | Level III | Equity securities | Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent) | $ / shares
+0.00
+
+0.00
+
+Indicative Quotes | Level III | Equity securities | Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent) | $ / shares
+112.17
+
+208.38
+
+Indicative Quotes | Level III | Equity securities | Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent) | $ / shares
+0.01
+
+0.11
+
+Indicative Quotes | Level III | Bonds | Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.30
+
+0.30
+
+Indicative Quotes | Level III | Bonds | Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+1.03
+
+1.05
+
+Indicative Quotes | Level III | Bonds | Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.93
+
+0.90
+
+Indicative Quotes | Level III | Loans | Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0
+
+0
+
+Indicative Quotes | Level III | Loans | Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+1.05
+
+1.02
+
+Indicative Quotes | Level III | Loans | Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.97
+
+0.95
+
+Indicative Quotes | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.80
+
+0.72
+
+Indicative Quotes | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+1.01
+
+1.01
+
+Indicative Quotes | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.99
+
+0.96
+
+Indicative Quotes | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.01
+
+0.06
+
+Indicative Quotes | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+1.03
+
+0.90
+
+Indicative Quotes | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.38
+
+0.40
+
+Indicative Quotes | Level III | Loans | Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.99
+
+Indicative Quotes | Level III | Loans | Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.99
+
+Indicative Quotes | Level III | Loans | Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.99
+
+Discount Rate | Level III | Discounted Cash Flow with Consensus Pricing | Minimum | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.02
+
+0.14
+
+Discount Rate | Level III | Discounted Cash Flow with Consensus Pricing | Maximum | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.35
+
+0.30
+
+Discount Rate | Level III | Discounted Cash Flow with Consensus Pricing | Weighted Average | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.15
+
+0.21
+
+Discount Rate | Level III | Equity securities | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.10
+
+0.10
+
+Discount Rate | Level III | Equity securities | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.13
+
+0.11
+
+Discount Rate | Level III | Equity securities | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.11
+
+0.10
+
+Discount Rate | Level III | Equity securities | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.14
+
+Discount Rate | Level III | Equity securities | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.34
+
+Discount Rate | Level III | Equity securities | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.18
+
+Discount Rate | Level III | Loans | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.09
+
+0.07
+
+Discount Rate | Level III | Loans | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.19
+
+0.16
+
+Discount Rate | Level III | Loans | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.18
+
+0.15
+
+Discount Rate | Level III | Loan two | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.16
+
+0.17
+
+Discount Rate | Level III | Loan two | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.16
+
+0.17
+
+Discount Rate | Level III | Loan two | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.16
+
+0.17
+
+Discount Rate | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.04
+
+0.11
+
+Discount Rate | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.35
+
+0.40
+
+Discount Rate | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.16
+
+0.21
+
+Discount Rate | Level III | Aviation subordinated notes | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.21
+
+0.21
+
+Discount Rate | Level III | Aviation subordinated notes | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.21
+
+0.21
+
+Discount Rate | Level III | Aviation subordinated notes | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.21
+
+0.21
+
+Terminal Growth Rate | Level III | Equity securities | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.03
+
+0
+
+Terminal Growth Rate | Level III | Equity securities | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.07
+
+0.07
+
+Terminal Growth Rate | Level III | Equity securities | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.06
+
+0.05
+
+EBITDA Multiple | Level III | Equity securities | Comparable Multiple | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+7.7
+
+12.7
+
+EBITDA Multiple | Level III | Equity securities | Comparable Multiple | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+23.2
+
+12.7
+
+EBITDA Multiple | Level III | Equity securities | Comparable Multiple | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+12.8
+
+12.7
+
+TCF Multiple | Level III | Equity securities | Comparable Multiple | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+26
+
+24.3
+
+TCF Multiple | Level III | Equity securities | Comparable Multiple | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+26
+
+24.3
+
+TCF Multiple | Level III | Equity securities | Comparable Multiple | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+26
+
+24.3
+
+Discount Margins | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.0113
+
+0.0139
+
+Discount Margins | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.1535
+
+0.1600
+
+Discount Margins | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.0214
+
+0.0319
+
+Constant Prepayment Rate | Level III | Equity securities | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.06
+
+Constant Prepayment Rate | Level III | Equity securities | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.16
+
+Constant Prepayment Rate | Level III | Equity securities | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.11
+
+Constant Prepayment Rate | Level III | Loan two | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.08
+
+0.08
+
+Constant Prepayment Rate | Level III | Loan two | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.14
+
+0.08
+
+Constant Prepayment Rate | Level III | Loan two | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.11
+
+0.08
+
+Default Rates | Level III | Discounted Cash Flow with Consensus Pricing | Minimum | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.01
+
+0.02
+
+Default Rates | Level III | Discounted Cash Flow with Consensus Pricing | Maximum | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.02
+
+0.02
+
+Default Rates | Level III | Discounted Cash Flow with Consensus Pricing | Weighted Average | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.02
+
+0.02
+
+Default Rates | Level III | Equity securities | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.01
+
+Default Rates | Level III | Equity securities | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.04
+
+Default Rates | Level III | Equity securities | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.02
+
+Default Rates | Level III | Loans | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0.01
+
+Default Rates | Level III | Loans | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0.01
+
+Default Rates | Level III | Loans | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0.01
+
+Default Rates | Level III | Loan two | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.01
+
+Default Rates | Level III | Loan two | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.01
+
+Default Rates | Level III | Loan two | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.01
+
+Default Rates | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.02
+
+0.02
+
+Default Rates | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.02
+
+0.02
+
+Default Rates | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.02
+
+0.02
+
+Default Rates | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.01
+
+0.01
+
+Default Rates | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.02
+
+0.02
+
+Default Rates | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.02
+
+0.02
+
+Recovery Rates | Level III | Discounted Cash Flow with Consensus Pricing | Minimum | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.60
+
+0.60
+
+Recovery Rates | Level III | Discounted Cash Flow with Consensus Pricing | Maximum | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.60
+
+0.60
+
+Recovery Rates | Level III | Discounted Cash Flow with Consensus Pricing | Weighted Average | Subordinated notes and preferred shares
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Liabilities, measurement input (percent)
+0.60
+
+0.60
+
+Recovery Rates | Level III | Equity securities | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0
+
+Recovery Rates | Level III | Equity securities | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.40
+
+Recovery Rates | Level III | Equity securities | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.17
+
+Recovery Rates | Level III | Loans | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0
+
+Recovery Rates | Level III | Loans | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0
+
+Recovery Rates | Level III | Loans | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0
+
+Recovery Rates | Level III | Loan two | Discounted Cash Flow | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0
+
+Recovery Rates | Level III | Loan two | Discounted Cash Flow | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0
+
+Recovery Rates | Level III | Loan two | Discounted Cash Flow | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0
+
+Recovery Rates | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.60
+
+0.60
+
+Recovery Rates | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.60
+
+0.60
+
+Recovery Rates | Level III | Senior secured notes | Discounted Cash Flow with Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.60
+
+0.60
+
+Recovery Rates | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.60
+
+0.60
+
+Recovery Rates | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.60
+
+0.60
+
+Recovery Rates | Level III | Subordinated notes and preferred shares | Discounted Cash Flow with Consensus Pricing | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+0.60
+
+0.60
+
+Net Asset Value per Share | Level III | BDC preferred shares | Other | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+16.80
+
+Net Asset Value per Share | Level III | BDC preferred shares | Other | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+16.80
+
+Net Asset Value per Share | Level III | BDC preferred shares | Other | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+16.80
+
+Other | Level III | BDC preferred shares | Other | Minimum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0.11
+
+Other | Level III | BDC preferred shares | Other | Maximum
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0.11
+
+Other | Level III | BDC preferred shares | Other | Weighted Average
+
+Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+Assets, measurement input (percent)
+
+0.11
+
+X
+
+- DefinitionFair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+cg_FairValueAssetsAndLiabilitiesMeasuredOnRecurringBasisUnobservableInputReconciliationLineItems
+
+ Namespace Prefix:
+cg_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionValue of input used to measure alternative investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 103
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-103
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AlternativeInvestmentMeasurementInput
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:decimalItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value portion of asset recognized for present right to economic benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AssetsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionValue of input used to measure debt instrument, including, but not limited to, convertible and non-convertible debt.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DebtInstrumentMeasurementInput
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:decimalItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionFair value of financial and nonfinancial obligations.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_LiabilitiesFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=cg_ValuationTechniqueDiscountedCashFlowWithConsensusPricingMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=cg_SubordinatedNotesAndPreferredSharesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=cg_ValuationTechniqueOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=cg_SeniorSecuredNotesLoansPayableOfConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_InvestmentsOfConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_EquitySecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=us-gaap_ValuationTechniqueConsensusPricingModelMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=us-gaap_ValuationTechniqueDiscountedCashFlowMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_EquitySecuritiesTwoMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_BondsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_LoansInvestmentInConsolidatedFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_LoansInvestmentInConsolidatedFundsTwoMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_SeniorSecuredNotesInvestmentsInInvestmentsInCollateralizedLoanObligationsAndOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_SubordinatedNotesAndPreferredSharesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_BDCPreferredSharesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=cg_MarketYieldAnalysisMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_AviationSubordinatedNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_LoansInvestmentsInCLOsAndOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputQuotedPriceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_WeightedAverageMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputDiscountRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=cg_TerminalGrowthRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputEbitdaMultipleMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=cg_ValuationTechniqueComparableMultipleMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=cg_MeasurementInputTCFMultipleMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=cg_MeasurementInputDiscountMarginMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputConstantPrepaymentRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=cg_EquitySecuritiesThreeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputDefaultRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=cg_MeasurementInputRecoveryRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=cg_MeasurementInputNetAssetValuePerShareMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=cg_MeasurementInputMarketYieldsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

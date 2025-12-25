@@ -1,0 +1,842 @@
+XML
+166
+R144.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+POLICY LIABILITIES - Balance and Changes In Policyholder Account Balances (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+$ 125,187,354
+
+$ 112,281,236
+
+Issuances and Premiums Received
+30,527,877
+
+28,505,999
+
+Benefit Payments, Surrenders, and Withdrawals
+(20,836,240)
+
+(17,646,248)
+
+Interest
+4,422,965
+
+3,044,011
+
+Other Activity
+(1,420,160)
+
+(997,644)
+
+Ending balance
+137,881,796
+
+125,187,354
+
+Less: Reinsurance Recoverable
+(25,776,633)
+
+(23,682,714)
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+$ 112,105,163
+
+$ 101,504,640
+
+Average Interest Rate
+3.56%
+
+2.94%
+
+Net Amount at Risk, Gross of Reinsurance
+$ 113,023,676
+
+$ 137,009,339
+
+Cash Surrender Value
+102,783,602
+
+91,841,712
+
+Fixed Rate Annuities
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+56,762,736
+
+48,510,703
+
+Issuances and Premiums Received
+16,453,922
+
+16,604,445
+
+Benefit Payments, Surrenders, and Withdrawals
+(10,038,636)
+
+(9,493,423)
+
+Interest
+2,305,618
+
+1,483,545
+
+Other Activity
+(397,023)
+
+(342,534)
+
+Ending balance
+65,086,617
+
+56,762,736
+
+Less: Reinsurance Recoverable
+(11,664,932)
+
+(10,279,657)
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+$ 53,421,685
+
+$ 46,483,079
+
+Average Interest Rate
+4.05%
+
+3.36%
+
+Net Amount at Risk, Gross of Reinsurance
+$ 0
+
+$ 0
+
+Cash Surrender Value
+50,421,300
+
+43,590,426
+
+Fixed Indexed Annuities
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+30,168,445
+
+29,123,926
+
+Issuances and Premiums Received
+8,097,987
+
+4,891,428
+
+Benefit Payments, Surrenders, and Withdrawals
+(5,211,414)
+
+(4,234,383)
+
+Interest
+773,638
+
+533,127
+
+Other Activity
+(110,321)
+
+(145,653)
+
+Ending balance
+33,718,335
+
+30,168,445
+
+Less: Reinsurance Recoverable
+(3,074,278)
+
+(3,191,151)
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+$ 30,644,057
+
+$ 26,977,294
+
+Average Interest Rate
+2.74%
+
+2.15%
+
+Net Amount at Risk, Gross of Reinsurance
+$ 0
+
+$ 0
+
+Cash Surrender Value
+33,928,559
+
+28,429,388
+
+Interest Sensitive Life
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+21,969,053
+
+17,397,185
+
+Issuances and Premiums Received
+1,991,442
+
+5,824,786
+
+Benefit Payments, Surrenders, and Withdrawals
+(1,453,435)
+
+(917,240)
+
+Interest
+723,201
+
+497,919
+
+Other Activity
+(1,054,364)
+
+(833,597)
+
+Ending balance
+22,175,897
+
+21,969,053
+
+Less: Reinsurance Recoverable
+(7,504,951)
+
+(7,190,573)
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+$ 14,670,946
+
+$ 14,778,480
+
+Average Interest Rate
+3.29%
+
+3.28%
+
+Net Amount at Risk, Gross of Reinsurance
+$ 111,882,678
+
+$ 135,840,650
+
+Cash Surrender Value
+13,974,862
+
+15,161,982
+
+Funding Agreements
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+7,015,998
+
+7,535,489
+
+Issuances and Premiums Received
+2,372,925
+
+510,000
+
+Benefit Payments, Surrenders, and Withdrawals
+(2,553,181)
+
+(1,415,763)
+
+Interest
+277,270
+
+226,394
+
+Other Activity
+45,091
+
+159,878
+
+Ending balance
+7,158,103
+
+7,015,998
+
+Less: Reinsurance Recoverable
+0
+
+0
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+$ 7,158,103
+
+$ 7,015,998
+
+Average Interest Rate
+4.21%
+
+3.12%
+
+Net Amount at Risk, Gross of Reinsurance
+$ 0
+
+$ 0
+
+Cash Surrender Value
+0
+
+0
+
+Other
+
+Policyholder Account Balance [Roll Forward]
+
+Beginning balance
+9,271,122
+
+9,713,933
+
+Issuances and Premiums Received
+1,611,601
+
+675,340
+
+Benefit Payments, Surrenders, and Withdrawals
+(1,579,574)
+
+(1,585,439)
+
+Interest
+343,238
+
+303,026
+
+Other Activity
+96,457
+
+164,262
+
+Ending balance
+9,742,844
+
+9,271,122
+
+Less: Reinsurance Recoverable
+(3,532,472)
+
+(3,021,333)
+
+Balance as of End of Period, Net of Reinsurance Recoverable
+$ 6,210,372
+
+$ 6,249,789
+
+Average Interest Rate
+3.31%
+
+2.74%
+
+Net Amount at Risk, Gross of Reinsurance
+$ 1,140,998
+
+$ 1,168,689
+
+Cash Surrender Value
+$ 4,458,881
+
+$ 4,659,916
+
+X
+
+- DefinitionPolicyholder Account Balance, After Reinsurance
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderAccountBalanceAfterReinsurance
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPolicyholder Account Balance, Benefit Payment, Surrender, And Withdrawal
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderAccountBalanceBenefitPaymentSurrenderAndWithdrawal
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicyholder Account Balance, Interest Expense, Including Interest Accreted In Other Components Of Policyholder Account Balance
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderAccountBalanceInterestExpenseIncludingInterestAccretedInOtherComponentsOfPolicyholderAccountBalance
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPolicyholder Account Balance, Reinsurance Recoverable
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderAccountBalanceReinsuranceRecoverable
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cash to be paid to policyholder upon termination and surrender of long-duration contract issued by insurance entity.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_CashSurrenderValueDuePolicyholdersAmount
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of increase (decrease) in liability for policyholder account balance from change, classified as other.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceIncreaseDecreaseFromOtherChange
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of increase in liability for policyholder account balance from contract issuance.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 13J
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-13J
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceIssuance
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of guaranteed benefit in excess of current account balance of policyholder account balance.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceNetAmountAtRisk
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionA roll forward is a reconciliation of a concept from the beginning of a period to the end of a period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceRollForward
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionWeighted-average crediting rate for liability for policyholder account balance, calculated at a point in time.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceWeightedAverageCreditingRate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount due to policyholder. Includes, but is not limited to, unpaid policy dividend, retrospective refund, and undistributed earnings on participating business. Excludes future policy benefit and claim expense.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(14)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
++ Details
+
+ Name:
+us-gaap_PolicyholderFunds
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedRateAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedIndexedAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InterestSensitiveLifeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FundingAgreementMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_OtherLongdurationInsuranceProductLineMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

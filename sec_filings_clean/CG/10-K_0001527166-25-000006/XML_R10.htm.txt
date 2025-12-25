@@ -1,0 +1,84 @@
+XML
+33
+R10.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Organization
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+Organization
+1. OrganizationCarlyle is one of the world s largest global investment firms that deploys private capital across its business and
+conducts its operations through three reportable segments: Global Private Equity, Global Credit, and Global Investment
+Solutions (see Note 15, Segment Reporting). In the Global Private Equity segment, Carlyle advises buyout, growth, real estate,
+infrastructure, and natural resources funds. The primary areas of focus for the Global Credit segment are insurance solutions,
+liquid credit, private credit, and capital markets. The Global Investment Solutions segment provides investment opportunities
+and resources for investors and clients through secondary purchases and financing of existing portfolios, managed co-
+investment programs, and primary fund investments. Carlyle typically serves as the general partner, investment manager or
+collateral manager, making day-to-day investment decisions concerning the assets of these products.
+
+X
+
+- DefinitionThe entire disclosure for the business description and basis of presentation concepts. Business description describes the nature and type of organization including but not limited to organizational structure as may be applicable to holding companies, parent and subsidiary relationships, business divisions, business units, business segments, affiliates and information about significant ownership of the reporting entity. Basis of presentation describes the underlying basis used to prepare the financial statements (for example, US Generally Accepted Accounting Principles, Other Comprehensive Basis of Accounting, IFRS).
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 235
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/235/tableOfContent
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 275
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/275/tableOfContent
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 205
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/205/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_BusinessDescriptionAndBasisOfPresentationTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_OrganizationConsolidationAndPresentationOfFinancialStatementsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

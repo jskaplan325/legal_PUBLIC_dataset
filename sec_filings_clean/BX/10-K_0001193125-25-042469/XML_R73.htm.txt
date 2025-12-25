@@ -1,0 +1,956 @@
+XML
+102
+R73.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Quantitative Inputs and Assumptions for Items Categorized in Level III of Fair Value Hierarchy (Detail)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+USD ($)
+
+Dec. 31, 2023
+
+USD ($)
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+$ 4,725,580
+
+$ 3,957,327
+
+Level 3
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+3,914,328
+
+3,277,350
+
+Fair value liabilities
+
+939,088
+
+565,637
+
+Fair Value, Measurements, Recurring
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+10,838,036
+
+9,768,806
+
+Fair value liabilities
+
+1,166,043
+
+1,347,280
+
+Fair Value, Measurements, Recurring | Level 3
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+3,914,328
+
+3,277,350
+
+Fair value liabilities
+
+939,088
+
+565,637
+
+Fair Value, Measurements, Recurring | Level 3 | Loans and Receivables | Discounted Cash Flows
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+$ 100,866
+
+$ 60,738
+
+Fair Value, Measurements, Recurring | Level 3 | Minimum | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+7.10%
+
+Fair Value, Measurements, Recurring | Level 3 | Minimum | Loans and Receivables | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+8.40%
+
+8.80%
+
+[1]
+
+Fair Value, Measurements, Recurring | Level 3 | Maximum | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+7.70%
+
+Fair Value, Measurements, Recurring | Level 3 | Maximum | Loans and Receivables | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+11.20%
+
+14.90%
+
+[1]
+
+Fair Value, Measurements, Recurring | Level 3 | Weighted Average | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+7.40%
+
+Fair Value, Measurements, Recurring | Level 3 | Weighted Average | Loans and Receivables | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+9.30%
+
+10.30%
+
+[1],[2]
+
+Fair Value, Measurements, Recurring | Level 3 | Other Investments | Discounted Cash Flows
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+$ 189,675
+
+Fair Value, Measurements, Recurring | Level 3 | Other Investments | Third Party Pricing Valuation Technique
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+[1]
+
+$ 236,612
+
+Fair Value, Measurements, Recurring | Level 3 | Freestanding Derivatives | Valuation Technique, Option Pricing Model
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value liabilities
+
+$ 938,216
+
+$ 563,986
+
+[3]
+
+Fair Value, Measurements, Recurring | Level 3 | Freestanding Derivatives | Valuation Technique, Option Pricing Model | Measurement Input, Price Volatility
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Volatility
+
+6
+
+6.3
+
+[3]
+
+Fair Value, Measurements, Recurring | Level 3 | Other Liabilities | Third Party Pricing Valuation Technique
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value liabilities
+
+$ 872
+
+$ 1,651
+
+[4]
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+3,173,442
+
+2,683,631
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Discounted Cash Flows
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+$ 3,158,254
+
+$ 2,653,246
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Minimum | EBITDA Multiple Market
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Exit Multiple - EBITDA
+
+4
+
+4
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Minimum | Measurement Input, Cap Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Exit Capitalization Rate
+
+3.10%
+
+3.10%
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Minimum | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+4.20%
+
+3.30%
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Maximum | EBITDA Multiple Market
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Exit Multiple - EBITDA
+
+30.6
+
+30.6
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Maximum | Measurement Input, Cap Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Exit Capitalization Rate
+
+15.00%
+
+12.80%
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Maximum | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+39.10%
+
+38.00%
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Weighted Average | EBITDA Multiple Market
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Exit Multiple - EBITDA
+
+15.4
+
+15
+
+[2]
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Weighted Average | Measurement Input, Cap Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Exit Capitalization Rate
+
+5.20%
+
+5.10%
+
+[2]
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Equity Securities, Partnerships and LLC Interests | Weighted Average | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+10.40%
+
+9.70%
+
+[2]
+
+Fair Value, Measurements, Recurring | Level 3 | Consolidated Blackstone Funds | Debt Instruments | Third Party Pricing Valuation Technique
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+$ 15,188
+
+$ 30,385
+
+Fair Value, Measurements, Recurring | Level 3 | Corporate Treasury Investments | Discounted Cash Flows
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+$ 296,369
+
+Fair Value, Measurements, Recurring | Level 3 | Corporate Treasury Investments | Third Party Pricing Valuation Technique
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value assets
+
+$ 450,345
+
+Fair Value, Measurements, Recurring | Level 3 | Corporate Treasury Investments | Minimum | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+11.20%
+
+Fair Value, Measurements, Recurring | Level 3 | Corporate Treasury Investments | Maximum | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+
+22.40%
+
+Fair Value, Measurements, Recurring | Level 3 | Corporate Treasury Investments | Weighted Average | Discounted Cash Flows | Measurement Input, Discount Rate
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Unobservable inputs, rate
+[2]
+
+17.10%
+
+[1]
+As of December 31, 2024 and 2023, Other Investments includes Level III Freestanding Derivatives.
+
+[2]
+Unobservable inputs were weighted based on the fair value of the investments included in the range.
+
+[3]
+The volatility of the historical performance of the underlying reference entity is used to project the expected returns relevant for the fair value of the derivative.
+
+[4]
+As of December 31, 2024 and 2023, Other Liabilities includes Level III Contingent Consideration and Level III Corporate Treasury Commitments.
+
+X
+
+- DefinitionFair value inputs discount rates.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueInputsDiscountRates
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value Inputs, Earnings before Interest, Taxes, Depreciation, and Amortization Exit Multiple
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueInputsEarningsBeforeInterestTaxesDepreciationAndAmortizationExitMultiple
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:pureItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair Value Inputs, Exit Cap Rate
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueInputsExitCapRate
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value portion of asset recognized for present right to economic benefit.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 100
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482078/820-10-55-100
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_AssetsFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionValue of input used to measure derivative liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_DerivativeLiabilityMeasurementInput
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:decimalItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-31
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionQuantitativeDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value of financial and nonfinancial obligations.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
++ Details
+
+ Name:
+us-gaap_LiabilitiesFairValueDisclosure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByFairValueHierarchyLevelAxis=us-gaap_FairValueInputsLevel3Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByMeasurementFrequencyAxis=us-gaap_FairValueMeasurementsRecurringMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AccountsNotesLoansAndFinancingReceivableByReceivableTypeAxis=us-gaap_LoansReceivableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=us-gaap_ValuationTechniqueDiscountedCashFlowMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputDiscountRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_WeightedAverageMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_InvestmentAssetOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=bx_ThirdPartyPricingValuationTechniqueMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_FreestandingDerivativesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ValuationTechniqueAxis=us-gaap_ValuationTechniqueOptionPricingModelMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputPriceVolatilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_OtherLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OptionIndexedToIssuersEquityTypeAxis=bx_ConsolidatedBlackstoneFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_EquitySecuritiesPartnershipsAndLlcInterestsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputEbitdaMultipleMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_MeasurementInputTypeAxis=us-gaap_MeasurementInputCapRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=bx_DebtInstrumentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_OptionIndexedToIssuersEquityTypeAxis=bx_CorporateTreasuryInvestmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,514 @@
+XML
+66
+R37.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Derivative Financial Instruments (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Summary of Aggregate Notional Amount and Fair Value of Derivative Financial Instruments
+ The table below summarizes the aggregate notional amount and fair value of the derivative financial instruments. The notional amount represents the absolute value amount of all outstanding derivative contracts.
+
+December 31, 2024
+
+December 31, 2023
+
+Assets
+
+Liabilities
+
+Assets
+
+Liabilities
+
+Notional
+
+Fair
+Value
+
+Notional
+
+Fair
+
+Value
+
+Notional
+
+Fair
+Value
+
+Notional
+
+Fair
+Value
+
+ Freestanding Derivatives
+
+ Blackstone
+
+ Interest Rate Contracts
+
+$
+
+624,740
+
+$
+
+166,126
+
+$
+
+600,000
+
+$
+
+107,425
+
+$
+
+634,840
+
+$
+
+145,798
+
+$
+
+607,000
+
+$
+
+86,589
+
+ Foreign Currency Contracts
+
+239,365
+
+4,030
+
+479,383
+
+14,198
+
+387,102
+
+11,442
+
+334,228
+
+3,538
+
+ Credit Default Swaps
+
+640
+
+10
+
+3,108
+
+479
+
+3,748
+
+508
+
+ Total Return Swaps
+
+58,263
+
+10,153
+
+63,158
+
+13,171
+
+ Equity Options
+
+1,139,400
+
+938,216
+
+1,110,490
+
+563,986
+
+922,368
+
+180,309
+
+2,219,423
+
+1,059,849
+
+1,088,208
+
+170,890
+
+2,055,466
+
+654,621
+
+ Investments of Consolidated Blackstone Funds
+
+ Interest Rate Contracts
+
+785,790
+
+13,243
+
+915,215
+
+15,918
+
+855,683
+
+19,189
+
+785,790
+
+13,243
+
+915,215
+
+15,918
+
+855,683
+
+19,189
+
+$
+
+1,708,158
+
+$
+
+193,552
+
+$
+
+3,134,638
+
+$
+
+1,075,767
+
+$
+
+1,943,891
+
+$
+
+190,079
+
+$
+
+2,055,466
+
+$
+
+654,621
+
+Summary of Impact of Derivative Financial Instruments to Consolidated Statements of Operations
+ The table below summarizes the impact to the Consolidated Statements of Operations from derivative financial instruments:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+ Freestanding Derivatives
+
+ Realized Gains (Losses)
+
+ Interest Rate Contracts
+
+$
+
+1,051
+
+$
+
+24,291
+
+$
+
+15,319
+
+ Foreign Currency Contracts
+
+9,193
+
+443
+
+(8,520
+
+)
+
+ Credit Default Swaps
+
+75
+
+(413
+
+)
+
+(231
+
+)
+
+ Total Return Swaps
+
+21,080
+
+15,775
+
+1,654
+
+31,399
+
+40,096
+
+8,222
+
+ Net Change in Unrealized Gains (Losses)
+
+ Interest Rate Contracts
+
+10,291
+
+(87,177
+
+)
+
+167,706
+
+ Foreign Currency Contracts
+
+(17,954
+
+)
+
+3,288
+
+9,666
+
+ Credit Default Swaps
+
+(55
+
+)
+
+363
+
+73
+
+ Total Return Swaps
+
+(2,837
+
+)
+
+6,381
+
+5,290
+
+ Equity Options
+
+(374,230
+
+)
+
+(515,405
+
+)
+
+(48,581
+
+)
+
+(384,785
+
+)
+
+(592,550
+
+)
+
+134,154
+
+$
+
+(353,386
+
+)
+
+$
+
+(552,454
+
+)
+
+$
+
+142,376
+
+ As of December 31, 2024, 2023 and 2022, Blackstone had not designated any derivatives as fair value, cash flow or net investment hedges.
+
+X
+
+- DefinitionTabular disclosure of the location and amount of derivative instruments and nonderivative instruments designated as hedging instruments reported before netting adjustments, and the amount of gain (loss) on derivative instruments and nonderivative instruments designated and qualified as hedging instruments.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4E
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4E
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4A
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDerivativeInstrumentsGainLossInStatementOfFinancialPerformanceTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of pertinent information about a derivative or group of derivatives on a disaggregated basis, such as for individual instruments, or small groups of similar instruments. May include a combination of the type of instrument, risks being hedged, notional amount, hedge designation, related hedged item, inception date, maturity date, or other relevant item.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -SubTopic 10
+ -Topic 815
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1B
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 8
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-8
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4B
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-1
+
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4
+
+Reference 8: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-5
+
+Reference 9: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 815
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4C
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfDerivativeInstrumentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

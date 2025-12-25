@@ -1,0 +1,763 @@
+XML
+7
+R1.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.2
+
+Document and Entity Information
+
+Oct. 09, 2025
+
+Entity Listings [Line Items]
+
+Document Type
+8-K
+
+Amendment Flag
+false
+
+Document Period End Date
+Oct. 09, 2025
+
+Entity File Number
+001-34820
+
+Entity Registrant Name
+KKR & CO. INC.
+
+Entity Central Index Key
+0001404912
+
+Entity Incorporation, State or Country Code
+DE
+
+Entity Tax Identification Number
+88-1203639
+
+Entity Address, Address Line One
+30 Hudson Yards
+
+Entity Address, City or Town
+New York
+
+Entity Address, State or Province
+NY
+
+Entity Address, Postal Zip Code
+10001
+
+City Area Code
+212
+
+Local Phone Number
+750-8300
+
+Entity Emerging Growth Company
+false
+
+Written Communications
+false
+
+Soliciting Material
+false
+
+Pre-commencement Tender Offer
+false
+
+Pre-commencement Issuer Tender Offer
+false
+
+Common Stock [Member]
+
+Entity Listings [Line Items]
+
+Title of 12(b) Security
+Common Stock
+
+Trading Symbol
+KKR
+
+Security Exchange Name
+NYSE
+
+6.25% Series D Mandatory Convertible Preferred Stock [Member]
+
+Entity Listings [Line Items]
+
+Title of 12(b) Security
+6.25% Series D Mandatory Convertible Preferred Stock
+
+Trading Symbol
+KKR PR D
+
+Security Exchange Name
+NYSE
+
+4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLC [Member]
+
+Entity Listings [Line Items]
+
+Title of 12(b) Security
+4.625% Subordinated Notes due 2061 of KKR Group Finance Co. IX LLC
+
+Trading Symbol
+KKRS
+
+Security Exchange Name
+NYSE
+
+6.875% Subordinated Notes due 2065 [Member]
+
+Entity Listings [Line Items]
+
+Title of 12(b) Security
+6.875% Subordinated Notes due 2065
+
+Trading Symbol
+KKRT
+
+Security Exchange Name
+NYSE
+
+X
+
+- DefinitionBoolean flag that is true when the XBRL content amends previously-filed or accepted submission.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_AmendmentFlag
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionArea code of city
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_CityAreaCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFor the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentPeriodEndDate
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:dateItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_DocumentType
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:submissionTypeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAddress Line 1 such as Attn, Building Name, Street Name
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressAddressLine1
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the City or Town
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressCityOrTown
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCode for the postal or zip code
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressPostalZipCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the state or province.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityAddressStateOrProvince
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:stateOrProvinceItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionA unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityCentralIndexKey
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:centralIndexKeyItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionIndicate if registrant meets the emerging growth company criteria.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityEmergingGrowthCompany
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCommission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityFileNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:fileNumberItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTwo-character EDGAR code representing the state or country of incorporation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityIncorporationStateCountryCode
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarStateCountryItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_EntityListingsLineItems
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityRegistrantName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b-2
+
++ Details
+
+ Name:
+dei_EntityTaxIdentificationNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:employerIdItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLocal phone number for entity.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_LocalPhoneNumber
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:normalizedStringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 13e
+ -Subsection 4c
+
++ Details
+
+ Name:
+dei_PreCommencementIssuerTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 14d
+ -Subsection 2b
+
++ Details
+
+ Name:
+dei_PreCommencementTenderOffer
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTitle of a 12(b) registered security.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection b
+
++ Details
+
+ Name:
+dei_Security12bTitle
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:securityTitleItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionName of the Exchange on which a security is registered.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 12
+ -Subsection d1-1
+
++ Details
+
+ Name:
+dei_SecurityExchangeName
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:edgarExchangeCodeItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as soliciting material pursuant to Rule 14a-12 under the Exchange Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Exchange Act
+ -Number 240
+ -Section 14a
+ -Subsection 12
+
++ Details
+
+ Name:
+dei_SolicitingMaterial
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTrading symbol of an instrument as listed on an exchange.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+dei_TradingSymbol
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+dei:tradingSymbolItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBoolean flag that is true when the Form 8-K filing is intended to satisfy the filing obligation of the registrant as written communications pursuant to Rule 425 under the Securities Act.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/presentationRef
+ -Publisher SEC
+ -Name Securities Act
+ -Number 230
+ -Section 425
+
++ Details
+
+ Name:
+dei_WrittenCommunications
+
+ Namespace Prefix:
+dei_
+
+ Data Type:
+xbrli:booleanItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=us-gaap_CommonStockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=kkr_Six25SeriesDMandatoryConvertiblePreferredStockMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=kkr_Four625SubordinatedNotesDue2061OfKKRGroupFinanceCoIXLLCMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_StatementClassOfStockAxis=kkr_Six875SubordinatedNotesDue2065Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

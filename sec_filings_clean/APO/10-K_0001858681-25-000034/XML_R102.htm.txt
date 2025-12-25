@@ -1,0 +1,178 @@
+XML
+132
+R102.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Reinsurance - Narrative (Details) - USD ($)
+ $ in Billions
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Reinsurance Retention [Line Items]
+
+Assets held-in-trust
+$ 26.1
+
+$ 21.6
+
+Global Atlantic Financial Group Limited
+
+Reinsurance Retention [Line Items]
+
+Required aggregate statutory balance
+2.5
+
+2.5
+
+Athene | Protective
+
+Reinsurance Retention [Line Items]
+
+Assets held-in-trust
+$ 1.1
+
+$ 1.2
+
+X
+
+- DefinitionThe total amount of cash and securities held by third party trustees pursuant to terms of debt instruments or other agreements as of the date of each statement of financial position presented, which can be used by the trustee only to pay the noncurrent portion of specified obligations.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_AssetsHeldInTrust
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479838/944-20-50-3
+
++ Details
+
+ Name:
+us-gaap_ReinsuranceRetentionPolicyLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of statutory capital required to be maintained as of the balance sheet date under prescribed or permitted statutory accounting practices.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 944
+ -SubTopic 505
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477908/944-505-50-1
+
++ Details
+
+ Name:
+us-gaap_StatutoryAccountingPracticesStatutoryCapitalAndSurplusRequired
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_GlobalAtlanticFinancialGroupLimitedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_CounterpartyNameAxis=apo_AtheneMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_ProtectiveLifeInsuranceCompanyMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,199 @@
+XML
+55
+R26.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Leases
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Leases
+ 13. Leases
+
+Blackstone enters into non-cancelable lease and sublease agreements primarily for office space, which expire on various dates through 2043. In addition to contractual rent payments, which are generally subject to escalation provisions, occupancy lease agreements may include payments for certain costs incurred by the landlord, such as building expenses and utilities. To the extent these costs are fixed or determinable, they are included as part of the minimum lease payments used to measure the Operating Lease Liability and are included in Straight-Line Lease Cost. At December 31, 2024 and 2023, Blackstone maintained irrevocable standby letters of credit and cash deposits as security for the leases of $14.1 million and $14.7 million, respectively. As of December 31, 2024, the weighted-average remaining lease term was 8.1 years, and the weighted-average discount rate was 3.4%.
+
+ The components of lease expense were as follows:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Operating Lease Cost
+
+Straight-Line Lease Cost (a)
+
+$
+
+156,680
+
+$
+
+160,534
+
+$
+
+139,740
+
+Variable Lease Cost (b)
+
+20,222
+
+15,268
+
+12,072
+
+Sublease Income
+
+(65
+
+)
+
+(63
+
+)
+
+(888
+
+)
+
+$
+
+ 176,837
+
+$
+
+ 175,739
+
+$
+
+ 150,924
+
+(a)
+
+Straight-line lease cost includes short-term leases, which are immaterial.
+
+(b)
+
+Variable lease cost approximates variable lease cash payments.
+
+ Supplemental cash flow information related to leases was as follows:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Operating Cash Flows for Operating Lease Liabilities
+
+$
+
+ 145,388
+
+$
+
+ 127,183
+
+$
+
+ 107,249
+
+Non-Cash Right-of-Use Assets Obtained in Exchange for New Operating Lease Liabilities
+
+$
+
+129,451
+
+$
+
+117,155
+
+$
+
+278,010
+
+ The following table shows the undiscounted cash flows on an annual basis for Operating Lease Liabilities as of December 31, 2024:
+
+2025
+
+$
+
+178,730
+
+2026
+
+176,178
+
+2027
+
+173,142
+
+2028
+
+167,033
+
+2029
+
+106,720
+
+Thereafter
+
+281,538
+
+Total Lease Payments (a)
+
+1,083,341
+
+Less: Imputed Interest
+
+(117,599
+
+)
+
+Present Value of Operating Lease Liabilities
+
+$
+
+965,742
+
+(a)
+
+Excludes signed leases that have not yet commenced.
+
+X
+
+- DefinitionThe entire disclosure for operating leases of lessee. Includes, but is not limited to, description of operating lease and maturity analysis of operating lease liability.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/842-20/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeasesTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

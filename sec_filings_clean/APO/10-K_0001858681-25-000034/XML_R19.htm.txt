@@ -1,0 +1,532 @@
+XML
+49
+R19.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Long-duration Contracts
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Insurance [Abstract]
+
+Long-duration Contracts
+11. Long-duration Contracts
+
+Interest sensitive contract liabilities Interest sensitive contract liabilities primarily include:
+
+ traditional deferred annuities,
+ indexed annuities consisting of fixed indexed, index-linked variable annuities, and assumed indexed universal life without significant mortality risk,
+ funding agreements, and
+ other investment-type contracts comprising of immediate annuities without significant mortality risk (which includes pension group annuities without life contingencies) and assumed endowments without significant mortality risks.
+
+The following represents a rollforward of the policyholder account balance by product within interest sensitive contract liabilities. Where explicit policyholder account balances do not exist, the disaggregated rollforward represents the recorded reserve.
+
+ Year ended December 31, 2024
+(In millions, except percentages) Traditional Deferred Annuities Indexed Annuities Funding Agreements Other Investment-type Total
+Balance at December 31, 2023
+ $ 64,763 $ 93,147 $ 32,350 $ 7,629 $ 197,889
+Deposits 25,459 16,230 29,249 1,088 72,026
+Policy charges (2) (709) (711)
+Surrenders and withdrawals (5,389) (12,744) (84) (18,217)
+Benefit payments (1,108) (1,580) (8,304) (212) (11,204)
+Interest credited 3,256 3,524 1,707 205 8,692
+Foreign exchange (318) (7) (414) (498) (1,237)
+Other 180 (98) 82
+Balance at December 31, 2024 $ 86,661 $ 97,861 $ 54,768 $ 8,030 $ 247,320
+
+Weighted average crediting rate 4.3 % 2.7 % 4.4 % 2.7 %
+Net amount at risk $ 425 $ 15,441 $ $ 51
+Cash surrender value 81,243 89,511 6,784
+
+ Year ended December 31, 2023
+(In millions, except percentages) Traditional Deferred Annuities Indexed Annuities Funding Agreements Other Investment-type Total
+Balance at December 31, 2022
+ $ 43,518 $ 92,660 $ 27,439 $ 4,722 $ 168,339
+Deposits 30,175 12,639 6,893 4,597 54,304
+Policy charges (2) (651) (653)
+Surrenders and withdrawals (9,929) (11,253) (110) (40) (21,332)
+Benefit payments (984) (1,609) (3,273) (275) (6,141)
+Interest credited 1,858 1,279 883 155 4,175
+Foreign exchange 52 1 260 (95) 218
+Other1
+ 75 81 258 (1,435) (1,021)
+Balance at December 31, 2023 $ 64,763 $ 93,147 $ 32,350 $ 7,629 $ 197,889
+
+Weighted average crediting rate 4.0 % 2.4 % 3.4 % 2.7 %
+Net amount at risk $ 425 $ 14,716 $ $ 103
+Cash surrender value 61,345 85,381 6,375
+
+1 Other includes a $1,371 million reduction of reserves related to the VIAC recapture agreement. See note 18 for further information.
+
+ Year ended December 31, 2022
+(In millions, except percentages) Traditional Deferred Annuities Indexed Annuities Funding Agreements Other Investment-type Total
+Balance at January 1, 2022 $ 35,599 $ 89,755 $ 23,623 $ 2,413 $ 151,390
+Deposits 13,246 11,544 7,970 2,581 35,341
+Policy charges (3) (600) (603)
+Surrenders and withdrawals (5,419) (8,057) (880) (17) (14,373)
+Benefit payments (937) (1,620) (2,819) (322) (5,698)
+Interest credited 1,032 1,638 677 95 3,442
+Foreign exchange (440) (6) (446)
+Other (692) (22) (714)
+Balance at December 31, 2022 $ 43,518 $ 92,660 $ 27,439 $ 4,722 $ 168,339
+
+Weighted average crediting rate 3.2 % 2.2 % 2.5 % 3.1 %
+Net amount at risk $ 422 $ 13,581 $ $ 47
+Cash surrender value 41,273 84,724 2,213
+
+The following is a reconciliation of interest sensitive contract liabilities to the consolidated statements of financial condition:
+
+ December 31,
+(In millions) 2024 2023 2022
+Traditional deferred annuities $ 86,661 $ 64,763 $ 43,518
+Indexed annuities 97,861 93,147 92,660
+
+Funding agreements 54,768 32,350 27,439
+Other investment-type 8,030 7,629 4,722
+
+Reconciling items1
+ 6,317 6,781 5,277
+Interest sensitive contract liabilities $ 253,637 $ 204,670 $ 173,616
+
+1 Reconciling items primarily include embedded derivatives in indexed annuities, unaccreted host contract adjustments on indexed annuities, negative VOBA, sales inducement liabilities, and wholly ceded universal life insurance contracts.
+
+The following represents policyholder account balances by range of guaranteed minimum crediting rates, as well as the related range of the difference between rates being credited to policyholders and the respective guaranteed minimums:
+
+ December 31, 2024
+(In millions) At Guaranteed Minimum 1 Basis Point 100 Basis Points Above Guaranteed Minimum
+ Greater than 100 Basis Points Above Guaranteed Minimum
+ Total
+
+ $ 26,818 $ 14,141 $ 134,121 $ 175,080
+2.0%
+ 24,356 1,529 2,067 27,952
+4.0%
+ 37,626 58 1 37,685
+6.0% and greater
+ 6,603 6,603
+Total $ 95,403 $ 15,728 $ 136,189 $ 247,320
+
+ December 31, 2023
+(In millions) At Guaranteed Minimum 1 Basis Point 100 Basis Points Above Guaranteed Minimum
+ Greater than 100 Basis Points Above Guaranteed Minimum
+ Total
+
+ $ 30,339 $ 18,954 $ 100,609 $ 149,902
+2.0%
+ 27,792 2,074 1,389 31,255
+4.0%
+ 11,532 17 1 11,550
+6.0% and greater
+ 5,182 5,182
+Total $ 74,845 $ 21,045 $ 101,999 $ 197,889
+
+ December 31, 2022
+(In millions) At Guaranteed Minimum 1 Basis Point 100 Basis Points Above Guaranteed Minimum
+ Greater than 100 Basis Points Above Guaranteed Minimum
+ Total
+
+ $ 25,031 $ 26,020 $ 72,776 $ 123,827
+2.0%
+ 33,325 1,408 284 35,017
+4.0%
+ 8,277 10 6 8,293
+6.0% and greater
+ 1,202 1,202
+Total $ 67,835 $ 27,438 $ 73,066 $ 168,339
+
+Future policy benefits Future policy benefits consist primarily of payout annuities, including single premium immediate annuities with life contingencies (which include pension group annuities with life contingencies), and whole life insurance contracts.
+The following is a rollforward by product within future policy benefits:
+
+ Year ended December 31, 2024
+(In millions, except percentages and years) Payout Annuities with Life Contingencies Whole Life Total
+Present value of expected net premiums
+Beginning balance $ $ 1,182 $ 1,182
+Effect of changes in discount rate assumptions (45) (45)
+Effect of foreign exchange on the change in discount rate assumptions (2) (2)
+Beginning balance at original discount rate 1,135 1,135
+
+Effect of actual to expected experience (4) (4)
+Adjusted balance 1,131 1,131
+
+Interest accrual 22 22
+Net premium collected (190) (190)
+Foreign exchange (111) (111)
+Ending balance at original discount rate 852 852
+Effect of changes in discount rate assumptions 30 30
+Effect of foreign exchange on the change in discount rate assumptions (2) (2)
+Ending balance, present value of expected net premiums $ $ 880 $ 880
+Present value of expected future policy benefits
+Beginning balance $ 45,001 $ 3,371 $ 48,372
+Effect of changes in discount rate assumptions 6,233 (89) 6,144
+Effect of foreign exchange on the change in discount rate assumptions 1 (6) (5)
+Beginning balance at original discount rate 51,235 3,276 54,511
+Effect of changes in cash flow assumptions (104) (104)
+Effect of actual to expected experience 78 (4) 74
+Adjusted balance 51,209 3,272 54,481
+Issuances 1,115 1,115
+Interest accrual 1,802 69 1,871
+Benefit payments (4,476) (85) (4,561)
+Foreign exchange (16) (340) (356)
+
+Ending balance at original discount rate 49,634 2,916 52,550
+Effect of changes in discount rate assumptions (7,378) (206) (7,584)
+Effect of foreign exchange on the change in discount rate assumptions 5 1 6
+Ending balance, present value of expected future policy benefits 42,261 2,711 44,972
+Less: Present value of expected net premiums 880 880
+Net future policy benefits $ 42,261 $ 1,831 $ 44,092
+
+Weighted-average liability duration (in years)
+ 9.4 30.7
+Weighted-average interest accretion rate 3.7 % 4.8 %
+Weighted-average current discount rate 5.6 % 4.8 %
+Expected future gross premiums, undiscounted $ $ 1,107
+Expected future gross premiums, discounted1
+ 929
+Expected future benefit payments, undiscounted 72,793 10,618
+
+1 Discounted at the original discount rate.
+
+ Year ended December 31, 2023
+(In millions, except percentages and years) Payout Annuities with Life Contingencies Whole Life Total
+Present value of expected net premiums
+Beginning balance $ $ $
+
+Issuances 3,091 3,091
+Interest accrual 6 6
+Net premium collected (2,027) (2,027)
+Foreign exchange 65 65
+Ending balance at original discount rate 1,135 1,135
+Effect of changes in discount rate assumptions 45 45
+Effect of foreign exchange on the change in discount rate assumptions 2 2
+Ending balance, present value of expected net premiums $ $ 1,182 $ 1,182
+Present value of expected future policy benefits
+Beginning balance $ 36,422 $ $ 36,422
+Effect of changes in discount rate assumptions 8,425 8,425
+Effect of foreign exchange on the change in discount rate assumptions (13) (13)
+Beginning balance at original discount rate 44,834 44,834
+Effect of changes in cash flow assumptions (297) (297)
+Effect of actual to expected experience (67) (67)
+Adjusted balance 44,470 44,470
+Issuances 10,427 3,091 13,518
+Interest accrual 1,646 18 1,664
+Benefit payments (3,834) (18) (3,852)
+Foreign exchange 35 185 220
+Other1
+ (1,509) (1,509)
+Ending balance at original discount rate 51,235 3,276 54,511
+Effect of changes in discount rate assumptions (6,233) 89 (6,144)
+Effect of foreign exchange on the change in discount rate assumptions (1) 6 5
+Ending balance, present value of expected future policy benefits 45,001 3,371 48,372
+Less: Present value of expected net premiums 1,182 1,182
+Net future policy benefits $ 45,001 $ 2,189 $ 47,190
+
+Weighted-average liability duration (in years)
+ 9.5 33.5
+Weighted-average interest accretion rate 3.6 % 4.8 %
+Weighted-average current discount rate 5.1 % 4.1 %
+Expected future gross premiums, undiscounted $ $ 1,497
+Expected future gross premiums, discounted 2
+ 1,239
+Expected future benefit payments, undiscounted 75,261 11,344
+
+1 Other includes a $1,509 million reduction of reserves related to the VIAC recapture agreement. See note 18 for further information.
+
+2 Discounted at the original discount rate.
+
+ Year ended December 31, 2022
+(In millions, except percentages and years) Payout Annuities with Life Contingencies Whole Life Total
+
+Present value of expected future policy benefits
+Beginning balance $ 35,278 $ $ 35,278
+Effect of changes in discount rate assumptions
+
+Beginning balance at original discount rate 35,278 35,278
+
+Effect of actual to expected experience (120) (120)
+Adjusted balance 35,158 35,158
+Issuances 11,528 11,528
+Interest accrual 1,146 1,146
+Benefit payments (2,921) (2,921)
+Foreign exchange (77) (77)
+
+Ending balance at original discount rate 44,834 44,834
+Effect of changes in discount rate assumptions (8,425) (8,425)
+Effect of foreign exchange on the change in discount rate assumptions 13 13
+Ending balance, present value of expected future policy benefits $ 36,422 $ $ 36,422
+
+Weighted-average liability duration (in years)
+ 10.2 0.0
+Weighted-average interest accretion rate 3.2 % %
+Weighted-average current discount rate 5.5 % %
+
+Expected future benefit payments, undiscounted $ 64,754 $
+
+The following is a reconciliation of future policy benefits to the consolidated statements of financial condition:
+
+ December 31,
+(In millions) 2024 2023 2022
+Payout annuities with life contingencies $ 42,261 $ 45,001 $ 36,422
+Whole life 1,831 2,189
+Reconciling items1
+ 5,810 6,097 5,688
+Future policy benefits $ 49,902 $ 53,287 $ 42,110
+
+1 Reconciling items primarily include the deferred profit liability and negative VOBA associated with the liability for future policy benefits. Additionally, it includes term life reserves, fully ceded whole life reserves, and reserves for immaterial lines of business including accident and health and disability, as well as other insurance benefit reserves for no-lapse guarantees with universal life contracts, all of which are fully ceded.
+
+The following is a reconciliation of premiums and interest expense relating to future policy benefits to the consolidated statements of operations:
+
+ Premiums
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Payout annuities with life contingencies $ 1,085 $ 10,504 $ 11,606
+Whole life 204 2,214
+Reconciling items1
+ 29 31 32
+Total premiums $ 1,318 $ 12,749 $ 11,638
+
+ Interest expense
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Payout annuities with life contingencies $ 1,802 $ 1,646 $ 1,146
+Whole life 47 12
+
+Total interest expense
+ $ 1,849 $ 1,658 $ 1,146
+
+1 Reconciling items primarily relate to immaterial lines of business including term life, fully ceded whole life, and accident and health and disability.
+
+Significant assumptions and inputs to the calculation of future policy benefits for payout annuities with life contingencies include policyholder demographic data, assumptions for policyholder longevity and policyholder utilization for contracts with deferred lives, and discount rates. For whole life products, significant assumptions and inputs include policyholder demographic data, assumptions for mortality, morbidity, and lapse and discount rates.
+
+Athene bases certain key assumptions related to policyholder behavior on industry standard data adjusted to align with actual company experience, if necessary. At least annually, Athene reviews all significant cash flow assumptions and updates as necessary, unless emerging experience indicates a more frequent review is necessary. The discount rate reflects market observable inputs from upper-medium grade fixed income instrument yields and is interpolated, where necessary, to conform to the duration of Athene s liabilities.
+
+During the year ended December 31, 2024, the present value of expected future policy benefits decreased by $3,400 million, which was driven by $4,561 million of benefit payments, a $1,440 million change in discount rate assumptions due to an increase in rates, and a $356 million change in foreign exchange, partially offset by $1,871 million of interest accrual and $1,115 million of issuances, primarily pension group annuities.
+
+During the year ended December 31, 2023, the present value of expected future policy benefits increased by $11,950 million, which was driven by $13,518 million of issuances, primarily pension group annuities, a $2,236 million change in discount rate assumptions related to a decrease in rates, and $1,664 million of interest accrual, partially offset by $3,852 million of benefit payments, a $1,509 million reduction in reserve related to recapture, and $297 million resulting from favorable unlocking of assumptions, primarily related to higher interest rates and favorable mortality experience lowering future benefit payments.
+
+During the year ended December 31, 2022, the present value of expected future policy benefits increased by $1,144 million, which was driven by $11,528 million of issuances, primarily pension group annuities, and $1,146 million of interest accrual, partially offset by an $8,425 million change in discount rate assumptions related to an increase in rates, and $2,921 million of benefit payments.
+
+The following is a summary of remeasurement gains (losses) included within future policy and other policy benefits on the consolidated statements of operations:
+
+ Years ended December 31,
+(In millions) 2024 2023 2022
+Reserves $ 25 $ 364 $ 120
+Deferred profit liability (48) (246) (126)
+Negative VOBA 39 (65) 21
+Total remeasurement gains (losses) $ 16 $ 53 $ 15
+
+During the years ended December 31, 2024, 2023, and 2022. Athene recorded reserve increases of $15 million, $136 million, and $50 million, respectively, on the consolidated statements of operations as a result of the present value of benefits and expenses exceeding the present value of gross premiums.
+Market risk benefits Athene issues and reinsures traditional deferred and indexed annuity products that contain GLWB and GMDB riders that meet the criteria to be classified as market risk benefits.
+
+The following is a rollforward of net market risk benefit liabilities by product:
+
+ Year ended December 31, 2024
+(In millions, except years) Traditional Deferred Annuities Indexed Annuities Total
+Balance at December 31, 2023
+ $ 192 $ 3,181 $ 3,373
+Effect of changes in instrument-specific credit risk 2 (10) (8)
+Balance, beginning of period, before changes in instrument-specific credit risk 194 3,171 3,365
+Issuances 295 295
+Interest accrual 10 191 201
+Attributed fees collected 2 358 360
+Benefit payments (4) (52) (56)
+Effect of changes in interest rates (18) (640) (658)
+Effect of changes in equity (94) (94)
+Effect of actual policyholder behavior compared to expected behavior 6 73 79
+Effect of changes in future expected policyholder behavior (3) 88 85
+Effect of changes in other future expected assumptions (19) (19)
+Balance, end of period, before changes in instrument-specific credit risk 187 3,371 3,558
+Effect of changes in instrument-specific credit risk 3 154 157
+Balance at December 31, 2024
+ 190 3,525 3,715
+Less: Reinsurance recoverable 37 37
+Balance at December 31, 2024, net of reinsurance
+ $ 190 $ 3,488 $ 3,678
+
+Net amount at risk $ 425 $ 15,441
+Weighted-average attained age of contract holders (in years)
+ 76 69
+
+ Year ended December 31, 2023
+(In millions, except years) Traditional Deferred Annuities Indexed Annuities Total
+Balance at December 31, 2022
+ $ 170 $ 2,319 $ 2,489
+Effect of changes in instrument-specific credit risk 13 353 366
+Balance, beginning of period, before changes in instrument-specific credit risk 183 2,672 2,855
+Issuances 106 106
+Interest accrual 10 147 157
+Attributed fees collected 2 336 338
+Benefit payments (2) (32) (34)
+Effect of changes in interest rates (1) (90) (91)
+Effect of changes in equity (119) (119)
+Effect of actual policyholder behavior compared to expected behavior 5 67 72
+Effect of changes in future expected policyholder behavior (3) 78 75
+Effect of changes in other future expected assumptions 6 6
+Balance, end of period, before changes in instrument-specific credit risk 194 3,171 3,365
+Effect of changes in instrument-specific credit risk (2) 10 8
+Balance at December 31, 2023
+ $ 192 $ 3,181 $ 3,373
+
+Net amount at risk $ 425 $ 14,716
+Weighted-average attained age of contract holders (in years)
+ 75 69
+
+ Year ended December 31, 2022
+(In millions, except years) Traditional Deferred Annuities Indexed Annuities Total
+Balance at January 1, 2022 $ 253 $ 4,194 $ 4,447
+
+Issuances 60 60
+Interest accrual 4 52 56
+Attributed fees collected 3 330 333
+Benefit payments (4) (49) (53)
+Effect of changes in interest rates (77) (2,092) (2,169)
+Effect of changes in equity 176 176
+Effect of actual policyholder behavior compared to expected behavior 6 42 48
+
+Effect of changes in other future expected assumptions (2) (41) (43)
+Balance, end of period, before changes in instrument-specific credit risk 183 2,672 2,855
+Effect of changes in instrument-specific credit risk (13) (353) (366)
+Balance at December 31, 2022
+ $ 170 $ 2,319 $ 2,489
+
+Net amount at risk $ 422 $ 13,581
+Weighted-average attained age of contract holders (in years)
+ 74 68
+
+The following is a reconciliation of market risk benefits to the consolidated statements of financial condition. Market risk benefit assets are included in other assets on the consolidated statements of financial condition.
+
+ December 31, 2024
+(In millions) Asset Liability Net Liability
+Traditional deferred annuities $ $ 190 $ 190
+Indexed annuities 313 3,838 3,525
+
+Total $ 313 $ 4,028 $ 3,715
+
+ December 31, 2023
+(In millions) Asset Liability Net Liability
+Traditional deferred annuities $ $ 192 $ 192
+Indexed annuities 378 3,559 3,181
+
+Total $ 378 $ 3,751 $ 3,373
+
+ December 31, 2022
+(In millions) Asset Liability Net Liability
+Traditional deferred annuities $ $ 170 170
+Indexed annuities 481 2,800 2,319
+
+Total $ 481 $ 2,970 $ 2,489
+
+During the year ended December 31, 2024, net market risk benefit liabilities increased by $342 million, which was primarily driven by $360 million in fees collected from policyholders, issuances of $295 million, $201 million of interest accrual, and a $149 million change in instrument-specific credit risk related to tightening of credit spreads, partially offset by a decrease of $658 million related to changes in the risk-free discount rate across the curve.
+
+During the year ended December 31, 2023, net market risk benefit liabilities increased by $884 million, which was primarily driven by $338 million in fees collected from policyholders, a $374 million change in instrument-specific credit risk related to tightening of credit spreads, $157 million of interest accrual, and issuances of $106 million, partially offset by $119 million of changes related to equity market performance and a decrease of $91 million related to changes in the risk-free discount rate across the curve.
+
+During the year ended December 31, 2022, net market risk benefit liabilities decreased by $1,958 million, which was primarily driven by a decrease of $2,169 million related to changes in the risk-free discount rate across the curve and a $366 million change in instrument-specific credit risk related to widening of credit spreads, partially offset by $333 million of fees collected from policyholders and $176 million of changes related to equity market performance.
+The determination of the fair value of market risk benefits requires the use of inputs related to fees and assessments and assumptions in determining the projected benefits in excess of the projected account balance. Judgment is required for both economic and actuarial assumptions, which can be either observable or unobservable, that impact future policyholder account growth.
+
+Economic assumptions include interest rates and implied volatilities throughout the duration of the liability. For indexed annuities, assumptions also include projected equity returns which impact cash flows attributable to indexed strategies, implied equity volatilities, expected index credits on the next policy anniversary date and future equity option costs. Assumptions related to the level of option budgets used for determining the future equity option costs and the impact on future policyholder account value growth are considered unobservable inputs.
+
+Policyholder behavior assumptions are unobservable inputs and are established using accepted actuarial valuation methods to estimate withdrawals (surrender rate) and income rider utilization. Assumptions are generally based on industry data and pricing assumptions which are updated for actual experience, if necessary. Actual experience may be limited for recently issued products.
+
+All inputs are used to project excess benefits and fees over a range of risk-neutral, stochastic interest rate scenarios. For indexed annuities, stochastic equity return scenarios are also included within the range. A risk margin is incorporated within the discount rate to reflect uncertainty in the projected cash flows such as variations in policyholder behavior, as well as a credit spread to reflect nonperformance risk, which is considered an unobservable input. Athene uses its public credit rating relative to the U.S. Treasury curve as of the valuation date to reflect its nonperformance risk in the fair value estimate of market risk benefits.
+
+The following summarizes the unobservable inputs for market risk benefits:
+
+ December 31, 2024
+(In millions, except percentages) Fair Value Valuation Technique Unobservable Inputs Minimum Maximum Weighted Average Impact of an Increase in the Input on Fair Value
+Market risk benefits, net $ 3,715 Discounted cash flow Nonperformance risk 0.4 % 1.1 % 1.0 % 1
+ Decrease
+ Option budget 0.5 % 6.0 % 2.3 % 2
+ Decrease
+ Surrender rate 3.3 % 7.2 % 4.6 % 2
+ Decrease
+ Utilization rate 28.6 % 95.0 % 84.9 % 3
+ Increase
+
+ December 31, 2023
+(In millions, except percentages) Fair Value Valuation Technique Unobservable Inputs Minimum Maximum Weighted Average Impact of an Increase in the Input on Fair Value
+Market risk benefits, net $ 3,373 Discounted cash flow Nonperformance risk 0.4 % 1.4 % 1.2 % 1
+ Decrease
+ Option budget 0.5 % 6.0 % 1.9 % 2
+ Decrease
+ Surrender rate 3.2 % 6.4 % 4.5 % 2
+ Decrease
+ Utilization rate 28.6 % 95.0 % 83.6 % 3
+ Increase
+
+ December 31, 2022
+(In millions, except percentages) Fair Value Valuation Technique Unobservable Inputs Minimum Maximum Weighted Average Impact of an Increase in the Input on Fair Value
+Market risk benefits, net $ 2,489 Discounted cash flow Nonperformance risk 0.2 % 1.6 % 1.4 % 1
+ Decrease
+ Option budget 0.5 % 5.3 % 1.7 % 2
+ Decrease
+ Surrender rate 3.3 % 6.7 % 4.4 % 2
+ Decrease
+ Utilization rate 28.6 % 95.0 % 82.3 % 3
+ Increase
+
+1 The nonperformance risk weighted average is based on the cash flows underlying the market risk benefit reserve.
+
+2 The option budget and surrender rate weighted averages are calculated based on projected account values.
+
+3 The utilization of GLWB withdrawals represents the estimated percentage of policyholders that are expected to use their income rider over the duration of the contract, with the weighted average based on current account values.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InsuranceAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for long duration contracts. This may include the information pertinent to an understanding of the types of traditional and nontraditional insurance and investment contracts sold and serviced, including the nature and amount of estimated guaranteed obligations pertaining to such contracts and the assumptions underlying such estimated amounts, hedging strategies, and sales inducements offered.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 65
+ -Paragraph 2
+ -Subparagraph (u)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480016/944-40-65-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/944/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_LongDurationInsuranceContractsDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

@@ -1,0 +1,755 @@
+XML
+90
+R60.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Merger with Athene - Schedule of Purchase Price (Details)
+ $ / shares in Units, $ in Millions
+
+Jan. 01, 2022
+
+USD ($)
+
+$ / shares
+
+shares
+
+Dec. 31, 2024
+
+shares
+
+Dec. 31, 2023
+
+shares
+
+Business Acquisition [Line Items]
+
+AHL common shares purchased (in shares) | shares
+
+565,738,933
+
+567,762,932
+
+Athene
+
+Business Acquisition [Line Items]
+
+Cash dividends declared
+$ 750
+
+Athene Holding Limited
+
+Business Acquisition [Line Items]
+
+AHL common shares purchased (in shares) | shares
+138,000,000
+
+Exchange ratio
+1.149
+
+Shares of common stock issued in exchange (in shares) | shares
+158,000,000
+
+AGM Class A shares closing price (in dollars per share) | $ / shares
+$ 72.43
+
+Total merger consideration at closing
+$ 11,455
+
+Fair value of estimated RSUs, options and warrants assumed and other equity consideration
+699
+
+Effective settlement of pre-existing relationships
+896
+
+Total merger consideration
+13,050
+
+Fair value of AHL common shares previously held and other adjustments
+4,554
+
+Total AHL equity value held by AGM
+17,604
+
+Non-controlling interest
+4,942
+
+Total AHL equity value
+$ 22,546
+
+Fair value of AHL common shares previously held (in shares) | shares
+55,000,000
+
+Fair value of awards
+$ 600
+
+Pre-combination equity compensation expense
+99
+
+Post-combination equity compensation expense
+53
+
+Fees payable from Athene to AGM
+$ 146
+
+Ownership percentage
+100.00%
+
+X
+
+- DefinitionBusiness Combination, Consideration Transferred, Equity
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationConsiderationTransferredEquity
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Effective Settlement Of Pre-Existing Relationships
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationEffectiveSettlementOfPreExistingRelationships
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Exchange Ratio
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationExchangeRatio
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:pureItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Fees Receivable
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationFeesReceivable
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Post Share-based Compensation Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationPostShareBasedCompensationExpense
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Pre Share-based Compensation Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationPreShareBasedCompensationExpense
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Share-Based Compensation, Warrants Assumed And Other Equity Consideration Transferred
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationShareBasedCompensationWarrantsAssumedAndOtherEquityConsiderationTransferred
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Share-Based Compensation, Warrants Assumed And Other Equity Consideration Transferred, Fair Value
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationShareBasedCompensationWarrantsAssumedAndOtherEquityConsiderationTransferredFairValue
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionBusiness Combination, Step Acquisition, Equity Interest In Acquiree, Shares
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+apo_BusinessCombinationStepAcquisitionEquityInterestOfSharesInAcquireeShares
+
+ Namespace Prefix:
+apo_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNumber of shares of equity interests issued or issuable to acquire entity.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)(4)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessAcquisitionEquityInterestsIssuedOrIssuableNumberOfSharesIssued
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-5
+
++ Details
+
+ Name:
+us-gaap_BusinessAcquisitionLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPercentage of voting equity interests acquired at the acquisition date in the business combination.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 10
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
+
++ Details
+
+ Name:
+us-gaap_BusinessAcquisitionPercentageOfVotingInterestsAcquired
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPrice of a single share of a number of saleable stocks paid or offered to be paid in a business combination.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_BusinessAcquisitionSharePrice
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:perShareItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThis element represents the fair value of the noncontrolling interest in the acquiree at the acquisition date.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 20
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (e)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479907/805-20-50-1
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationAcquisitionOfLessThan100PercentNoncontrollingInterestFairValue
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of consideration transferred, consisting of acquisition-date fair value of assets transferred by the acquirer, liabilities incurred by the acquirer, and equity interest issued by the acquirer.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 8
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479637/805-30-30-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 7
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479637/805-30-30-7
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationConsiderationTransferred1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of equity interests of the acquirer, including instruments or interests issued or issuable in consideration for the business combination.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 8
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479637/805-30-30-8
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 7
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479637/805-30-30-7
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationConsiderationTransferredEquityInterestsIssuedAndIssuable
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value at acquisition-date of the assets transferred by the acquirer, liabilities incurred by the acquirer, and equity interests issued by the acquirer, including but not limited to, instruments or interests issued or issuable in consideration for the business combination.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -SubTopic 30
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (g)
+ -SubTopic 10
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationConsiderationTransferredIncludingEquityInterestInAcquireeHeldPriorToCombination1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFair value at acquisition-date of the equity interest in the acquiree held by the acquirer, immediately before the acquisition date for businesses combined in stages.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (g)(1)
+ -SubTopic 10
+ -Topic 805
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationStepAcquisitionEquityInterestInAcquireeFairValue1
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionNumber of shares of common stock outstanding. Common stock represent the ownership interest in a corporation.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -SubTopic 10
+ -Topic 505
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481112/505-10-50-2
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(29))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.6-05(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-09(4)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-3
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-04(16)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479170/946-210-S99-1
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.6-09(7))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-3
+
++ Details
+
+ Name:
+us-gaap_CommonStockSharesOutstanding
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:sharesItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of paid and unpaid common stock dividends declared with the form of settlement in cash.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 505
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.3-04)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480008/505-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_DividendsCommonStockCash
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+dei_LegalEntityAxis=apo_AtheneMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=apo_AtheneHoldingLimitedMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

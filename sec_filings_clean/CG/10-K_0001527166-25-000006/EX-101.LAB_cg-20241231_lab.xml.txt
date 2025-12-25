@@ -1,0 +1,3787 @@
+EX-101.LAB
+16
+cg-20241231_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation [Line Items]
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation [Line Items]
+
+ Adjustments to reconcile net income (loss) to net cash flows from operating activities:
+ Adjustments to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities [Abstract]
+
+ Related Party Transactions
+ Related Party Transactions Disclosure [Text Block]
+
+ Remaining authorized amount
+ Share Repurchase Program, Remaining Authorized, Amount
+
+ Shares repurchased
+ Stock Repurchased During Period, Value, Excluding Excise Taxes
+ Stock Repurchased During Period, Value, Excluding Excise Taxes
+
+ Deferred consideration for Carlyle Holdings units
+ Deferred Consideration [Member]
+ Deferred Consideration
+
+ Change in other liabilities held at Consolidated Funds
+ Increase (Decrease) Other Liabilities Held At Consolidated Funds
+ Change in other liabilities held at consolidated funds.
+
+ Cover [Abstract]
+ Cover [Abstract]
+
+ Thereafter
+ Lessee, Operating Lease, Liability, to be Paid, after Year Five
+
+ Purchase of investment in Fortitude Re
+ Payments To Acquire Equity Method Investments, Operating Activities
+ Payments To Acquire Equity Method Investments, Operating Activities
+
+ Increase (decrease) in cash, cash equivalents and restricted cash
+ Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect
+
+ Discount Rate
+ Measurement Input, Discount Rate [Member]
+
+ Maturities of operating lease liabilities
+ Lessee, Operating Lease, Liability, to be Paid, Maturity [Table Text Block]
+
+ Income Tax Jurisdiction [Domain]
+ Income Tax Jurisdiction [Domain]
+
+ Condensed Income Statements, Captions [Line Items]
+ Condensed Income Statements, Captions [Line Items]
+
+ Trading Symbol
+ Trading Symbol
+
+ Comprehensive income (loss)
+ Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest
+
+ Unvested restricted stock units
+ Restricted Common Units [Member]
+ Restricted common units.
+
+ Amounts owed under the tax receivable agreement
+ Tax Receivable Agreement [Member]
+ Tax Receivable Agreement
+
+ Non-NEOs
+ Non-NEOs [Member]
+
+ Tax benefit related to equity-based compensation expense
+ Share-Based Payment Arrangement, Expense, Tax Benefit
+
+ Amount of giveback obligation of current and former related parties
+ Amount Of Giveback Obligation Of Current And Former Related Parties
+ Amount of accrued giveback obligation of various current and former senior Carlyle professionals and other limited partners of Carlyle Holdings partnerships
+
+ Dividend per Common Share (in dollars per share)
+ Distributions declared per common unit (in dollars per share)
+ Common Stock, Dividends, Per Share, Declared
+
+ Components of interest and other income of consolidated funds
+ Interest and Other Income [Table Text Block]
+
+ Proceeds from corporate treasury investments
+ Proceeds From Corporate Treasury Investments, Net
+ Proceeds From Corporate Treasury Investments, Net
+
+ Investments of Consolidated Funds
+ Investments Of Consolidated Funds
+ Sum of the carrying amounts as of the balance sheet date of all investments held at the consolidated funds and other consolidated entities.
+
+ Officer compensation, percent
+ Effective Income Tax Rate Reconciliation, Nondeductible Expense Officer Compensation, Percent
+ Effective Income Tax Rate Reconciliation, Nondeductible Expense Officer Compensation, Percent
+
+ Dividends and distributions
+ Noncontrolling Interest, Decrease from Distributions to Noncontrolling Interest Holders
+
+ CLO Term Loan February 2017 Maturing September 2029
+ CLO Term Loan February 2017 Maturing September 2029 [Member]
+ CLO Term Loan February 2017 Maturing September 2029
+
+ Initial conversion price (in usd per share)
+ Preferred Stock, Convertible, Conversion Price
+
+ Line of Credit Facility [Table]
+ Line of Credit Facility [Table]
+
+ Income Tax Examination [Line Items]
+ Income Tax Examination [Line Items]
+
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Table]
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Table]
+
+ Shares retired in connection with the net share settlement of equity-based awards (in shares)
+ Stock Retired During Period, Shares
+ Stock Retired During Period, Shares
+
+ Earnings Per Common Share
+ Earnings Per Share, Policy [Policy Text Block]
+
+ Non-Rule 10b5-1 Arrangement Adopted
+ Non-Rule 10b5-1 Arrangement Adopted [Flag]
+
+ Fair Value Measurement
+ Fair Value Disclosures [Text Block]
+
+ Interest rate at end of period
+ Line of Credit Facility, Interest Rate at Period End
+
+ Percentage of equity securities
+ Percentage Of Equity Securities
+ Percentage of equity securities.
+
+ Award Timing Disclosures [Line Items]
+
+ Valuation Allowance For FTC Carryforward
+ Valuation Allowance For Foreign Tax Credit Carryforward [Member]
+ Valuation Allowance For Foreign Tax Credit Carryforward
+
+ Investment, Name [Domain]
+ Investment, Name [Domain]
+
+ Subordinated notes and preferred shares
+ Subordinated Notes And Preferred Shares [Member]
+ Subordinated Notes and Preferred Shares [Member]
+
+ Interest and other income of Consolidated Funds
+ Total
+ Interest And Other Income Of Consolidated Funds
+ Represents the total of interest and dividend income, including any amortization and accretion (as applicable) of discounts and premiums, earned from (1) loans and leases whether held-for-sale or held-in-portfolio; (2) investment securities; (3) federal funds sold; (4) securities purchased under agreements to resell; (5) investments in banker's acceptances, commercial paper, or certificates of deposit; (6) dividend income; or (7) other investments not otherwise specified herein held by consolidated funds and other consolidated entities.
+
+ Comparable Multiple
+ Valuation Technique, Comparable Multiple [Member]
+ Valuation Technique, Comparable Multiple
+
+ Period from rating agency event that debt may be redeemed
+ Debt Instrument, Redemption, Redemption Period From Rating Agency Event
+ Debt Instrument, Redemption, Redemption Period From Rating Agency Event
+
+ United States
+ UNITED STATES
+
+ Securities Sold Under Agreements to Repurchase
+ Repurchase Agreements, Valuation, Policy [Policy Text Block]
+
+ Accrued compensation and benefits
+ Total
+ Employee-related Liabilities
+
+ Total Reportable Segments
+ Operating Segments [Member]
+
+ Granted (in dollars per share)
+ Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Granted Other Weighted Average Grant Date Fair Value
+ Weighted-average grant date fair value of units granted under share-based compensation arrangement other than as part of the initial public offering.
+
+ Environmental Industries
+ Environmental Industries [Member]
+ Environmental Industries
+
+ Net cash provided by (used in) operating activities
+ Net Cash Provided by (Used in) Operating Activities
+
+ Loans
+ Loans Investment In Consolidated Funds [Member]
+ Loans investment in consolidated funds.
+
+ Cash flows from operating activities
+ Net Cash Provided by (Used in) Operating Activities [Abstract]
+
+ Components of accumulated other comprehensive income (loss)
+ Schedule of Accumulated Other Comprehensive Income (Loss) [Table Text Block]
+
+ Depreciation and amortization
+ Deferred Tax Assets, Property, Plant and Equipment
+
+ State net operating loss carryforwards
+ Deferred Tax Assets, Operating Loss Carryforwards, State and Local
+
+ Payments of contingent consideration
+ Payments of contingent consideration
+ Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset
+
+ Award Timing Method
+ Award Timing Method [Text Block]
+
+ Net periodic benefit cost
+ Defined Benefit Plan, Net Periodic Benefit Cost (Credit)
+
+ Investments held by consolidated funds
+ Investments Held By Consolidated Funds [Table Text Block]
+ Investments held by the consolidated funds.
+
+ Trading Arrangements, by Individual
+ Trading Arrangements, by Individual [Table]
+
+ Noncontrolling Interest [Line Items]
+ Noncontrolling Interest [Line Items]
+
+ Schedule of effective income tax rate
+ Schedule Of Effective Income Tax Rate [Table Text Block]
+ Schedule Of Effective Income Tax Rate
+
+ Entity Common Stock, Shares Outstanding
+ Entity Common Stock, Shares Outstanding
+
+ Insider Trading Policies and Procedures [Line Items]
+
+ Total investments in NGP
+ NGP Management Company LLC
+ NGP Management Company LLC [Member]
+ NGP Management Company LLC [Member]
+
+ Changes in unrealized (gains) losses included in other comprehensive income related to financial liabilities still held at the reporting date
+ Fair Value, Liability, Recurring Basis, Still Held, Unrealized Gain (Loss), OCI
+
+ Use of Estimates
+ Use of Estimates, Policy [Policy Text Block]
+
+ Performance allocations and incentive fee related compensation
+ Total
+ Realized performance revenues related compensation
+ Performance revenues related compensation expense
+ Performance Allocations And Incentive Fee Expense
+ Performance Allocations And Incentive Fee Expense
+
+ Number of new collateralized loan obligations
+ Number Of New Collateralized Loan Obligations
+ Number Of New Collateralized Loan Obligations
+
+ Net investment income (loss) of Consolidated Funds
+ Total
+ Other income (loss)
+ Net Investment Income (Losses) Of Consolidated Funds
+ Net gains (losses) from consolidated funds and other consolidated entities' investment activities.
+
+ Adjustment to Compensation, Amount
+ Adjustment to Compensation Amount
+
+ Senior secured notes
+ Senior Secured Notes Investments In Investments In Collateralized Loan Obligations And Other [Member]
+ Senior Secured Notes Investments In Investments In Collateralized Loan Obligations And Other
+
+ Compensation Amount
+ Outstanding Recovery Compensation Amount
+
+ CLO Term Loan December 2017 Maturing January 15, 2031
+ CLO Term Loan December 2017 Maturing January 15, 2031 [Member]
+ CLO Term Loan December 2017 Maturing January 15, 2031
+
+ Expenses
+ Operating And Non Operating Expenses [Abstract]
+ Expenses.
+
+ Aggregate Change in Present Value of Accumulated Benefit for All Pension Plans Reported in Summary Compensation Table
+ Aggregate Change in Present Value of Accumulated Benefit for All Pension Plans Reported in Summary Compensation Table [Member]
+
+ Entity Small Business
+ Entity Small Business
+
+ Company Selected Measure Amount
+ Company Selected Measure Amount
+
+ Tabular List, Table
+ Tabular List [Table Text Block]
+
+ TCF Multiple
+ Measurement Input, TCF Multiple [Member]
+ Measurement Input, TCF Multiple
+
+ Level III
+ Fair Value, Inputs, Level 3 [Member]
+
+ Share-based Compensation Arrangement by Share-based Payment Award [Line Items]
+ Share-Based Compensation Arrangement by Share-Based Payment Award [Line Items]
+
+ Other investments
+ Other
+ Other [Member]
+ Other
+
+ Fee related performance revenues
+ Fee Related Performance Revenues [Member]
+ Fee Related Performance Revenues
+
+ Share-based Payment Arrangement, Tranche One
+ Share-Based Payment Arrangement, Tranche One [Member]
+
+ Tax (expense) benefit associated with certain foreign performance revenues
+ Performance Fee Income, Tax Expense
+ Performance Fee Income, Tax Expense
+
+ Carlyle FRL and T&D
+ Carlyle FRL And T&D [Member]
+ Carlyle FRL And T&D [Member]
+
+ Credit Facility [Domain]
+ Credit Facility [Domain]
+
+ Cost of investments of Consolidated Funds
+ Investment Owned, Cost
+
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+ Goodwill
+ Goodwill
+
+ Investments in CLOs and other, and Partnership and LLC interests
+ Investments In CLOs And Other, And Partnership And LLC Interests [Member]
+ Investments In CLOs And Other, And Partnership And LLC Interests [Member]
+
+ Proceeds from sale of investment
+ Proceeds from Sale of Other Investments
+
+ Other comprehensive income (loss), net of tax
+ Other Comprehensive Income (Loss), Net of Tax [Abstract]
+
+ Stock repurchase program, authorized amount
+ Share Repurchase Program, Authorized, Amount
+
+ Non-controlling interests related to the acquisition of Abingworth
+ Noncontrolling Interest, Increase from Business Combination
+
+ Accrued incentive fees
+ Accrued Incentive Fee [Member]
+ Accrued Incentive Fee
+
+ Components of accrued performance fees
+ Components Of Accrued Performance Fees [Table Text Block]
+ Tabular disclosure of the components of accrued performance fees by reportable segment.
+
+ Non-controlling interests and other adjustments to present certain costs on a net basis
+ Economic Interest In Acquired Business, Revenue
+ Economic Interest In Acquired Business, Revenue
+
+ Segment Expenses
+ Segment Expenses [Abstract]
+ Segment expenses.
+
+ Employee Stock Option
+ Share-Based Payment Arrangement, Option [Member]
+
+ Foreign currency forward contracts
+ Foreign Exchange Forward [Member]
+
+ 2025
+ Lessee, Operating Lease, Liability, to be Paid, Year One
+
+ Comprehensive income (loss) attributable to The Carlyle Group Inc.
+ Comprehensive Income (Loss), Net of Tax, Attributable to Parent
+
+ Other adjustments
+ Effective Income Tax Rate Reconciliation, Other Adjustments, Percent
+
+ Award Type [Axis]
+ Award Type [Axis]
+
+ Net deferred tax assets (liabilities)
+ Deferred Tax Liabilities, Net
+
+ Basic
+ Earnings Per Share, Basic [Abstract]
+
+ Principal investment income (loss) from equity method investments
+ Principal Investment Income (Loss), Equity Method Investments [Member]
+ Principal Investment Income (Loss), Equity Method Investments [Member]
+
+ Consumer Services
+ Consumer Services [Member]
+ Consumer Services
+
+ Principal investment income (loss) from investments in CLOs and other investments - realized
+ Principal Investment Income (Loss) Realized, CLOs [Member]
+ Principal Investment Income (Loss) Realized, CLOs [Member]
+
+ Restricted Cash
+ Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, Policy [Policy Text Block]
+
+ Payment of deferred consideration for Carlyle Holdings units
+ Payment Of Deferred Consideration For Partnership Units
+ Payment Of Deferred Consideration For Partnership Units
+
+ Included in other comprehensive income
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Gain (Loss) Included in Other Comprehensive Income (Loss)
+
+ Revenues adjustments
+ Revenues Adjustments [Table Text Block]
+ Revenues Adjustments [Table Text Block]
+
+ Fixed assets, net
+ Property, Plant and Equipment, Net
+
+ ICFR Auditor Attestation Flag
+ ICFR Auditor Attestation Flag
+
+ Total liabilities
+ Consolidated VIEs, liabilities
+ Liabilities
+
+ Non-controlling interests in consolidated entities
+ Equity, Attributable to Noncontrolling Interest
+
+ Adjustments:
+ Adjustments [Abstract]
+ Adjustments.
+
+ Common stock, par value (in dollars per share)
+ Common Stock, Par or Stated Value Per Share
+
+ Schedule of Share-based Compensation Arrangements by Share-based Payment Award [Table]
+ Schedule of Share-Based Compensation Arrangements by Share-Based Payment Award [Table]
+
+ Foreign Currency Translation
+ Foreign Currency Transactions and Translations Policy [Policy Text Block]
+
+ Revolving Credit Facililty
+ Revolving credit facilities
+ Revolving Credit Facility [Member]
+
+ Expiration Date
+ Trading Arrangement Expiration Date
+
+ Cash flows from investing activities
+ Net Cash Provided by (Used in) Investing Activities [Abstract]
+
+ Investment income
+ Investment income
+ Investment income (loss)
+ Revenue Not from Contract with Customer
+
+ Total Shareholder Return Amount
+ Total Shareholder Return Amount
+
+ General, administrative and other expenses
+ General, Administrative And Other Expense
+ General, Administrative And Other Expense
+
+ Equity Awards Adjustments, Footnote
+ Equity Awards Adjustments, Footnote [Text Block]
+
+ Operating loss carryforwards, tax-effected
+ Deferred Tax Assets, Operating Loss Carryforwards
+
+ Consolidated Operating Entities
+ Consolidated Operating Entities [Member]
+ Consolidated operating entities.
+
+ Supplemental financial position
+ Additional Financial Position [Table Text Block]
+ Tabular disclosure of supplemental financial position information that illustrates the consolidating effects of the consolidated funds.
+
+ Subsequent Event [Line Items]
+ Subsequent Event [Line Items]
+
+ Retirement Plan Name [Axis]
+ Retirement Plan Name [Axis]
+
+ Debt Instrument [Line Items]
+ Debt Instrument [Line Items]
+
+ Named Executive Officers, Footnote
+ Named Executive Officers, Footnote [Text Block]
+
+ Intangible Assets and Goodwill
+ Goodwill and Intangible Assets, Policy [Policy Text Block]
+
+ Deposits and other
+ Other Assets
+
+ Reductions due to lapse of statute of limitations
+ Unrecognized Tax Benefits, Reduction Resulting from Lapse of Applicable Statute of Limitations
+
+ Equity-based compensation
+ Share-Based Payment Arrangement, Noncash Expense And Other Expense
+ Share-Based Payment Arrangement, Noncash Expense And Other Expense
+
+ Change in lease right-of-use assets and lease liabilities
+ Change in lease right-of-use asset and lease liability
+ Increase (Decrease) In Right-Of-Use Asset And Lease Liability
+ Increase (Decrease) In Right-Of-Use Asset And Lease Liability
+
+ Other
+ Valuation Technique, Other [Member]
+ Valuation Technique, Other
+
+ Basis of Presentation
+ Basis of Accounting, Policy [Policy Text Block]
+
+ Diluted (in shares)
+ Weighted-average common shares outstanding (in shares)
+ Weighted-average common shares outstanding, diluted (in shares)
+ Weighted Average Number of Shares Outstanding, Diluted
+
+ Other
+ Market Yield Analysis [Member]
+ Market Yield Analysis
+
+ Default Rates
+ Measurement Input, Default Rate [Member]
+
+ Percentage of allocation based performance fees related to fund of funds vehicles (percent)
+ Percentage Of Allocation Based Performance Fees Related To Investment Solutions Carry Funds
+ Percentage Of Allocation Based Performance Fees Related To Investment Solutions Carry Funds
+
+ MNPI Disclosure Timed for Compensation Value
+ MNPI Disclosure Timed for Compensation Value [Flag]
+
+ CLO Term Loan August 2021 Maturing August 2032
+ CLO Term Loan August 2021 Maturing August 2032 [Member]
+ CLO Term Loan August 2021 Maturing August 2032
+
+ Deferred tax assets before valuation allowance
+ Deferred Tax Assets, Gross
+
+ Proceeds from CLO borrowings, net of financing costs
+ Proceeds from Issuance of Debt
+
+ Balance sheet information
+ Equity Method Investment, Summarized Financial Information [Abstract]
+
+ Concentration Risk Type [Domain]
+ Concentration Risk Type [Domain]
+
+ Investment income
+ Unrealized principal investment (income) loss
+ Investment loss
+ Investment Income, Net
+
+ CLO Term Loan June 2021 Maturing January 2034
+ CLO Term Loan June 2021 Maturing January 2034 [Member]
+ CLO Term Loan June 2021 Maturing January 2034
+
+ The Carlyle Group Inc. weighted-average common shares outstanding
+ Outstanding Common Stock [Member]
+ Outstanding Common Stock
+
+ Debt obligations
+ Loans Payable
+
+ Number of shares authorized for grant (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Number of Shares Authorized
+
+ Document Fiscal Period Focus
+ Document Fiscal Period Focus
+
+ Percentage of management fees for CLOs on the total par amount of assets in the fund
+ Annual Management Fee Rate For Interval Funds
+ Annual Management Fee Rate For Interval Funds
+
+ All Executive Categories
+ All Executive Categories [Member]
+
+ Net income (loss) attributable to other non-controlling interests in consolidated entities
+ Noncontrolling Interest in Net Income (Loss) Other Noncontrolling Interests, Nonredeemable
+
+ Share price (in dollars per share)
+ Business Acquisition, Share Price
+
+ Equity securities
+ Equity Securities [Member]
+
+ 2026
+ Finite-Lived Intangible Asset, Expected Amortization, Year Two
+
+ Changed Peer Group, Footnote
+ Changed Peer Group, Footnote [Text Block]
+
+ Assets
+ Assets [Abstract]
+
+ Other comprehensive income (loss)
+ Other Comprehensive Income (Loss), Net of Tax
+
+ Document Type
+ Document Type
+
+ Interest Rate
+ Debt Instrument, Interest Rate, Effective Percentage
+
+ Assets of the CLOs - Equity
+ Assets of Collateralized Loan Obligations, Equity [Member]
+ Assets of Collateralized Loan Obligations, Equity [Member]
+
+ Reportable segments financial data
+ Schedule of Segment Reporting Information, by Segment [Table Text Block]
+
+ Unfunded commitment
+ Unfunded Commitment
+ Unfunded commitment as of the reporting date.
+
+ Defined Benefit Plan [Table]
+ Defined Benefit Plan [Table]
+
+ Schedule of estimated amortization expense
+ Schedule of Finite-Lived Intangible Assets, Future Amortization Expense [Table Text Block]
+
+ Subsequent Event [Table]
+ Subsequent Event [Table]
+
+ Maximum
+ Maximum [Member]
+
+ Fund Management Fees
+ Fund Management Fees [Abstract]
+ Fund Management Fees [Abstract]
+
+ Equity Valuation Assumption Difference, Footnote
+ Equity Valuation Assumption Difference, Footnote [Text Block]
+
+ Finite-lived intangible assets, net
+ Finite-Lived Intangible Assets, Net
+
+ Investment Type [Axis]
+ Investment Type [Axis]
+
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation [Table]
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation [Table]
+
+ Net asset impact of deconsolidation of Consolidated Funds
+ Net Assets Impact For Deconsolidation Of Consolidated Funds
+ Amount represents amount of non-cash item on statement of cash flow related to the deconsolidation of consolidated funds during the period.
+
+ Loans percentage
+ Loans Percentage
+ Loans Percentage
+
+ Related parties amount of transaction
+ Related Party Transaction, Amounts of Transaction
+
+ Total operating lease cost
+ Lease, Cost
+
+ Investment fund
+ Accrued Investment Income Receivable
+
+ Statistical Measurement [Axis]
+ Statistical Measurement [Axis]
+
+ Non-Rule 10b5-1 Arrangement Terminated
+ Non-Rule 10b5-1 Arrangement Terminated [Flag]
+
+ Distributions to non-controlling interest holders
+ Distributions to non-controlling interest holders
+ Payments to Noncontrolling Interests
+
+ Income (loss) before provision for income taxes
+ Income (loss) before provision for income taxes
+ Income (loss) before provision for income taxes
+ Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest
+
+ Grantee Status [Domain]
+ Grantee Status [Domain]
+
+ Non-PEO NEO Average Total Compensation Amount
+ Non-PEO NEO Average Total Compensation Amount
+
+ CLO Term Loan December 2024 Maturing January 2039
+ CLO Term Loan December 2024 Maturing January 2039 [Member]
+ CLO Term Loan December 2024 Maturing January 2039
+
+ Name
+ Outstanding Recovery, Individual Name
+
+ Accrued performance allocations
+ Performance Allocations
+ Performance Allocations
+
+ BDC preferred shares
+ BDC Preferred Shares [Member]
+ BDC Preferred Shares [Member]
+
+ Title and Position [Axis]
+ Title and Position [Axis]
+
+ Award Timing Predetermined
+ Award Timing Predetermined [Flag]
+
+ Constant Prepayment Rate
+ Measurement Input, Constant Prepayment Rate [Member]
+
+ 3.500% Senior Notes Due 9/19/2029
+ Senior Notes 3.500% Due 2029 [Member]
+ Senior Notes 3.500% Due 2029 [Member]
+
+ Subsequent Event Type [Domain]
+ Subsequent Event Type [Domain]
+
+ Dividends to common stockholders
+ Dividends to common stockholders
+ Payments of Ordinary Dividends, Common Stock
+
+ Investment cost
+ Equity Method Investment, Aggregate Cost
+
+ Investment, Name [Axis]
+ Investment, Name [Axis]
+
+ Debt redemption price percentage
+ Debt Instrument, Redemption Price, Percentage
+
+ Scenario, Forecast
+ Forecast [Member]
+
+ Diluted (in dollars per share)
+ Net income (loss) per common share (in dollars per share)
+ Earnings Per Share, Diluted
+
+ Counterparty Name [Domain]
+ Counterparty Name [Domain]
+
+ Non-controlling interests and other adjustments to present certain costs on a net basis
+ Economic Interests In Acquired Business
+ Economic interests in acquired business.
+
+ State and Local Jurisdiction
+ State and Local Jurisdiction [Member]
+
+ U.S. domestic income (loss)
+ Income (Loss) from Continuing Operations before Income Taxes, Domestic
+
+ Fair value of CLO assets
+ Fair Value Of Collateralized Loan Obligation Assets
+ Fair value of collateralized loan obligation assets.
+
+ Change in deferred revenue
+ Increase (Decrease) in Contract with Customer, Liability
+
+ Total current
+ Current Income Tax Expense (Benefit)
+
+ Restatement does not require Recovery
+ Restatement Does Not Require Recovery [Text Block]
+
+ Accrued performance allocations and incentive fee related compensation
+ Accrued Performance Fees Due To Employees And Advisors Included In Accrued Compensation
+ Accrued performance fees due to employees and advisors included in accrued compensation.
+
+ Vesting percentage
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Award Vesting Rights, Percentage
+
+ Retirement Benefits [Abstract]
+ Retirement Benefits [Abstract]
+
+ Deferred tax liabilities
+ Deferred Tax Liabilities, Gross [Abstract]
+
+ Foreign currency transactions gains (losses)
+ Gain (Loss), Foreign Currency Transaction, before Tax
+
+ Customer [Axis]
+ Customer [Axis]
+
+ Net asset value (in dollars per share)
+ Net Asset Value Per Share
+
+ Restricted Stock Units (RSUs), Time-Based
+ Restricted Stock Units (RSUs), Time-Based [Member]
+ Restricted Stock Units (RSUs), Time-Based
+
+ Statement of Financial Position [Abstract]
+ Statement of Financial Position [Abstract]
+
+ Actual rate
+ Loans Receivable, Related Party, Effective Rate
+ Loans Receivable, Related Party, Effective Rate
+
+ Ownership interest transferred
+ Equity Method Investment, Ownership Interest Transferred
+ Equity Method Investment, Ownership Interest Transferred
+
+ Fair value, asset, recurring basis, still held, unrealized gain (loss), statement of income or comprehensive income
+ Fair Value, Asset, Recurring Basis, Still Held, Unrealized Gain (Loss), Statement of Income or Comprehensive Income [Extensible Enumeration]
+
+ Included in earnings
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Gain (Loss) Included in Earnings
+
+ Accrued giveback obligations
+ Accrued giveback obligations
+ Accrued Giveback Obligations
+ Amount of realized performance fees, if the fund were liquidated at the reporting date fair value, that would be given back to the fund investors at the end of the fund's life if the fund fair value does not recover sufficiently to pass through the hurdle rate that allows for the recognition of performance fees.
+
+ Other
+ Deferred Tax Liabilities, Other
+
+ Grant date value of equity awards
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Vested in Period, Fair Value
+
+ Net income (loss)
+ Net income (loss)
+ Net income
+ Net Income (Loss), Including Portion Attributable to Noncontrolling Interest
+
+ Indemnifications
+ Indemnification Agreement [Member]
+
+ Percentage of perpetual capital products
+ Annual Management Fee Rate For Perpetual Capital Products
+ Annual Management Fee Rate For Perpetual Capital Products
+
+ Guarantor Obligations, Nature [Domain]
+ Guarantor Obligations, Nature [Domain]
+
+ Provision (benefit) for income taxes
+ Total provision (benefit) for income taxes
+ Income Tax Expense (Benefit)
+
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Line Items]
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Line Items]
+
+ Minimum percent of aggregate assets for individual investments with fair value
+ Minimum Percent Of Aggregate Assets For Individual Investments With Fair Value
+ Minimum percent of aggregate assets for individual investments with fair value.
+
+ Share-Based Payment Arrangement, Tranche Four
+ Share-Based Payment Arrangement, Tranche Four [Member]
+ Share-Based Payment Arrangement, Tranche Four
+
+ Amount of deferred tax liabilities offset for presentation purposes
+ Deferred Tax Liabilities Offset
+ Amount of deferred tax liabilities that were offset and presented as a single deferred tax asset amount on the balance sheet.
+
+ Weighted-average term for unrecognized compensation expense to be recognized
+ Share-Based Payment Arrangement, Nonvested Award, Cost Not yet Recognized, Period for Recognition
+
+ Fund management fees and incentive fees
+ Total fund level fee revenues
+ Revenue from Contract with Customer, Excluding Assessed Tax
+
+ Realized principal investment income
+ Fee Related Earnings, Realized Investment Income (Loss)
+ Fee Related Earnings, Realized Investment Income (Loss)
+
+ Assets, measurement input (percent)
+ Alternative Investment, Measurement Input
+
+ Statement of Comprehensive Income [Abstract]
+ Statement of Comprehensive Income [Abstract]
+
+ Defined benefit plans, net
+ Other Comprehensive (Income) Loss, Defined Benefit Plan, after Reclassification Adjustment, after Tax [Abstract]
+
+ Transaction and advisory fees
+ Transaction And Portfolio Advisory Fees Included In Fund Management Fees
+ Transaction and portfolio advisory fees included in fund management fees.
+
+ Net cash used in investing activities
+ Net Cash Provided by (Used in) Investing Activities
+
+ Interest
+ Interest expense
+ Interest Expense, Operating and Nonoperating
+
+ Reconciliation of total segments to income before provision for taxes
+ Schedule Of Income Before Income Tax Table [Table Text Block]
+ Tabular disclosure that reconciles certain total segment information to consolidated income before taxes.
+
+ Income Tax Jurisdiction [Axis]
+ Income Tax Jurisdiction [Axis]
+
+ Equity-based compensation
+ Effective Income Tax Rate Reconciliation, Nondeductible Expense, Share-Based Payment Arrangement, Percent
+
+ Equity Method Investments
+ Equity Method Investments [Policy Text Block]
+
+ Loans
+ Loans
+ Loans
+
+ CBAM CLO Financing Facility
+ CBAM CLO Financing Facility [Member]
+ CBAM CLO Financing Facility
+
+ All Adjustments to Compensation
+ All Adjustments to Compensation [Member]
+
+ EBITDA Multiple
+ Measurement Input, EBITDA Multiple [Member]
+
+ Schedule of equity method investments
+ Equity Method Investments [Table Text Block]
+
+ Due to affiliates of Consolidated Funds
+ Consolidated Funds
+ Consolidated Funds [Member]
+ Consolidated funds.
+
+ Net borrowings on loans payable of Consolidated Funds
+ Proceeds From (Repayments Of) Loans Payable Of Consolidated Funds
+ Net payments on loans payable of consolidated funds.
+
+ Additional paid-in capital
+ Additional Paid in Capital
+
+ Quarterly distributions on common units
+ Distributions Made to Limited Partner, by Distribution [Table Text Block]
+
+ Guaranteed loans
+ Guarantor Obligations, Maximum Exposure, Undiscounted
+
+ Tax (expense) benefit associated with certain foreign performance revenues related compensation
+ Performance Fee Related Compensation Expense, Tax
+ Amount represents tax expense associated with performance fee compensation.
+
+ Supplemental statement of cash flows
+ Schedule Of Cash Flow Supplemental [Table Text Block]
+ Tabular disclosure of supplemental cash flow information that illustrates the consolidating effects of the consolidated funds.
+
+ Noncontrolling Interest [Table]
+ Noncontrolling Interest [Table]
+
+ Accumulated Other Comprehensive Income (Loss) [Line Items]
+ Accumulated Other Comprehensive Income (Loss) [Line Items]
+
+ Commitments and Contingencies Disclosure [Abstract]
+ Commitments and Contingencies Disclosure [Abstract]
+
+ Net interest
+ Interest Income (Expense), Nonoperating
+
+ Legal Entity [Axis]
+ Legal Entity [Axis]
+
+ Realized and unrealized gains (losses), net
+ Fair Value, Assets and Liabilities Measured on Recurring Basis, Gain (Loss) Included in Earnings [Abstract]
+
+ Expenses adjustments
+ Expenses Adjustment Represents Elimination Of Intercompany Expenses [Table Text Block]
+ Tabular disclosure of the detail for the expenses adjustment in the reconciliation of total segment information to consolidated information.
+
+ Components of accrued giveback obligations
+ Accrued Giveback Obligations [Table Text Block]
+ Tabular disclosure of the components of accrued giveback obligations by reportable segment.
+
+ Gains (losses) from liabilities of CLOs
+ Realized Unrealized Gains (Losses) From Collateralized Loan Obligations Of Consolidated Funds
+ Realized Unrealized Gain Loss from Collateralized Loan Obligations of Consolidated Funds
+
+ Deconsolidation of funds
+ Initial Consolidation Of Collateralized Loan Obligations
+ This element represents the fair value of the financial liabilities that were initially consolidated upon the acquisition of CLOs. The fair value was determined using significant unobservable inputs (Level 3).
+
+ Scenario [Domain]
+ Scenario [Domain]
+
+ Related Party Transaction [Axis]
+ Related Party Transaction [Axis]
+
+ Principal equity method investments, excluding performance allocations
+ Equity Method Investment, Excluding Performance Allocations
+ Equity Method Investment, Excluding Performance Allocations
+
+ Dividend-equivalent rights on certain equity-based awards
+ Dividends, Common Stock, Stock
+
+ Earnings Per Share, Diluted, by Common Class, Including Two Class Method [Line Items]
+ Earnings Per Share, Diluted, by Common Class, Including Two Class Method [Line Items]
+
+ Restricted cash
+ Restricted cash
+ Restricted Cash
+
+ Performance allocations
+ Performance Allocations [Member]
+ Performance Allocations [Member]
+
+ Percentage of management fees earned from invested capital
+ Percentage Of Management Fees Earned From Invested Capital
+ Percentage Of Management Fees Earned From Invested Capital
+
+ Deferred consideration, maximum
+ Equity Method Investments, Deferred Consideration, Maximum
+ Equity Method Investments, Deferred Consideration, Maximum
+
+ Long-term Debt, Type [Domain]
+ Long-Term Debt, Type [Domain]
+
+ Entity Address, State or Province
+ Entity Address, State or Province
+
+ Adjustments
+ Adjustments Of Investment Advisory Fees
+ Adjustments Of Investment Advisory Fees
+
+ CLO Term Loan January 2022 Maturing February 15, 2035
+ CLO Term Loan January 2022 Maturing February 15, 2035 [Member]
+ CLO Term Loan January 2022 Maturing February 15, 2035
+
+ Schedule of Equity Method Investments [Line Items]
+ Schedule of Equity Method Investments [Line Items]
+
+ Change in deposits and other
+ Change in deposits and other
+ Increase (Decrease) in Deposit Assets
+
+ Erroneous Compensation Analysis
+ Erroneous Compensation Analysis [Text Block]
+
+ Change in due from affiliates and other receivables
+ Change in due from affiliates and other receivables
+ Increase (Decrease) in Due from Related Parties, Current
+
+ Defined Benefit Plan Disclosure [Line Items]
+ Defined Benefit Plan Disclosure [Line Items]
+
+ Percent of preferred returns (percent)
+ Percent Of Preferred Returns
+ Percent of Preferred Returns
+
+ Financial Instruments [Domain]
+ Financial Instruments [Domain]
+
+ Vesting [Domain]
+ Vesting [Domain]
+
+ Income passed through to common unitholders and non-controlling interest holders
+ Effective Income Tax Rate Reconciliation Income Passed To Partners
+ The amount of income passed through to the partners for effective income tax rate reconciliation purposes.
+
+ Beginning balance (in dollars per share)
+ Ending balance (in dollars per share)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Nonvested, Weighted Average Grant Date Fair Value
+
+ Liabilities and equity
+ Liabilities and Equity [Abstract]
+
+ Investments measured at net asset value
+ Alternative Investment
+
+ Valuation allowance
+ Effective Income Tax Rate Reconciliation, Change in Deferred Tax Assets Valuation Allowance, Percent
+
+ Restatement Determination Date
+ Restatement Determination Date
+
+ Unrealized appreciation on investments
+ Deferred Tax Liabilities, Other Comprehensive Income
+
+ Net investment income (loss)
+ Net Investment Income
+
+ Pay vs Performance Disclosure
+ Pay vs Performance Disclosure [Table]
+
+ Fortitude Reinsurance Company Ltd. fka DSA Reinsurance Company Ltd
+ Fortitude Re
+ Fortitude Reinsurance Company Ltd. fka DSA Reinsurance Company Ltd [Member]
+ Fortitude Reinsurance Company Ltd. fka DSA Reinsurance Company Ltd [Member]
+
+ Reclassification adjustment for unrecognized gain during the period included in base compensation expense, income tax (benefit) expense
+ Other Comprehensive (Income) Loss, Defined Benefit Plan, Reclassification Adjustment from AOCI, Tax
+
+ Carlyle Secured Lending, Inc. Merger
+ Carlyle Secured Lending, Inc. Merger [Member]
+ Carlyle Secured Lending, Inc. Merger
+
+ Property, Plant and Equipment [Table]
+ Property, Plant and Equipment [Table]
+
+ Lease right-of-use assets, net
+ Operating Lease, Right-of-Use Asset
+
+ Erroneously Awarded Compensation Recovery
+ Erroneously Awarded Compensation Recovery [Table]
+
+ Period from tax redemption event that debt may be redeemed
+ Debt Instrument, Redemption, Redemption Period From Tax Redemption Event
+ Debt Instrument, Redemption, Redemption Period From Tax Redemption Event
+
+ Condensed Financial Information Disclosure [Abstract]
+ Condensed Financial Information Disclosure [Abstract]
+
+ Collateralized Debt Obligation
+ Collateralized Debt Obligation [Member]
+ Collateralized Debt Obligation
+
+ Cash withheld from carried interest distributions for potential giveback obligations
+ Cash Withheld From Carried Interest Distributions For Potential Giveback Obligations
+ Cash withheld from carried interest distributions for potential giveback obligations.
+
+ Supplemental Financial Information
+ Additional Financial Information Disclosure [Text Block]
+
+ Earnings Per Common Share
+ Earnings Per Share [Text Block]
+
+ Non-controlling Interests
+ Non Controlling Interests Policy [Policy Text Block]
+ Non controlling interests in consolidated entities.
+
+ Subsequent event
+ Subsequent Event [Member]
+
+ Schedule of realized and unrealized gains (losses) earned from investments of consolidated funds
+ Realized And Unrealized Gains Earned From Investments [Table Text Block]
+ Tabular disclosure of realized and unrealized gains earned from investments of consolidated funds.
+
+ Change in cash and cash equivalents held at Consolidated Funds
+ Increase (Decrease) In Cash And Cash Equivalents Held At Consolidated Funds
+ Change in other receivables held at consolidated funds.
+
+ Unvested Common Units
+ Unvested Common Units [Member]
+ Unvested common units.
+
+ Infrastructure
+ Infrastructure [Member]
+ Infrastructure
+
+ Net realized and unrealized gain (loss)
+ Gain (Loss) on Investments
+
+ Income Taxes
+ Income Tax, Policy [Policy Text Block]
+
+ Peer Group Issuers, Footnote
+ Peer Group Issuers, Footnote [Text Block]
+
+ Other income
+ Other Income
+
+ Segments [Domain]
+ Segments [Domain]
+
+ Other
+ Other Debt Obligations [Member]
+
+ Unrecognized Tax Benefits [Roll Forward]
+ Unrecognized Tax Benefits [Roll Forward]
+
+ Net investment income from NGP Management
+ Net Realized Investment Gains Losses
+ Net Realized Investment Gains Losses
+
+ Borrowings under credit facility
+ Proceeds from Lines of Credit
+
+ Other liabilities of Consolidated Funds
+ Other Liabilities Of Consolidated Funds
+ Sum of the carrying values as of the balance sheet date of obligations incurred by consolidate funds and other consolidated entities through that date, including liabilities incurred and payable to vendors for goods and services received, taxes, interest, rent and utilities, compensation costs, payroll taxes and fringe benefits (other than pension and postretirement obligations), contractual rights and obligations, and statutory obligations.
+
+ PEO
+ PEO [Member]
+
+ Financial Guarantee, Employee Credit Facility
+ Financial Guarantee, Employee Credit Facility [Member]
+ Financial Guarantee, Employee Credit Facility [Member]
+
+ Deferred Tax Asset [Domain]
+ Deferred Tax Asset [Domain]
+
+ Name
+ Trading Arrangement, Individual Name
+
+ Funded status of the plans, end of year
+ Defined Benefit Plan, Funded (Unfunded) Status of Plan
+
+ Equity securities
+ Equity Securities Three [Member]
+ Equity Securities Three
+
+ CP VII
+ Carlyle Partners VII, L.P. [Member]
+ Carlyle Partners VII, L.P.
+
+ Entity Public Float
+ Entity Public Float
+
+ Principal investment income from equity method investments
+ Income (Loss) from Equity Method Investments
+
+ Number of deconsolidated funds
+ Number Of Deconsolidated Funds
+ Number Of Deconsolidated Funds
+
+ Benefit obligation
+ Defined Benefit Plan, Benefit Obligation
+
+ Period of management fees related to Collateralized Loan Obligation
+ Period Of Management Fees Related To Collateralized Loan Obligation
+ Period Of Management Fees Related To Collateralized Loan Obligation
+
+ Performance fees allocation percentage to partnership (percent)
+ Performance Fees Allocation Percentage To Partnership
+ Performance fees allocation percentage to partnership.
+
+ Awards Close in Time to MNPI Disclosures, Table
+ Awards Close in Time to MNPI Disclosures [Table Text Block]
+
+ Share-Based Payment Arrangement, Tranche Three
+ Share-Based Payment Arrangement, Tranche Three [Member]
+
+ Other income
+ Other Nonoperating Income (Expense) [Abstract]
+
+ Prior Year End Fair Value of Equity Awards Granted in Any Prior Year that Fail to Meet Applicable Vesting Conditions During Covered Year
+ Prior Year End Fair Value of Equity Awards Granted in Any Prior Year that Fail to Meet Applicable Vesting Conditions During Covered Year [Member]
+
+ Tax expense associated with certain foreign performance revenues
+ Performance Revenue, Tax Expense (Benefit)
+ Performance Revenue, Tax Expense (Benefit)
+
+ Aggregate Erroneous Compensation Amount
+ Aggregate Erroneous Compensation Amount
+
+ Tax receivable agreement termination, term of annual installments
+ Termination Of Tax Receivable Agreement, Term Of Annual Installments
+ Termination Of Tax Receivable Agreement, Term Of Annual Installments
+
+ Investment income, income (loss)
+ Investment Income, Income (Loss)
+ Investment Income, Income (Loss)
+
+ Principal investment income (loss) from investments in CLOs and other investments- unrealized
+ Principal Investment Income (Loss) Unrealized, CLOs [Member]
+ Principal Investment Income (Loss) Unrealized, CLOs [Member]
+
+ Local Phone Number
+ Local Phone Number
+
+ Valuation allowance
+ Valuation allowance
+ Deferred Tax Assets, Valuation Allowance
+
+ Aggregate Erroneous Compensation Not Yet Determined
+ Aggregate Erroneous Compensation Not Yet Determined [Text Block]
+
+ Management fee receivable, net
+ Management Fee Receivable, Net [Member]
+ Management Fee Receivable, Net
+
+ Equity Method Investment [Table]
+ Equity Method Investment [Table]
+
+ Americas
+ Americas [Member]
+
+ Other adjustments gross, percent
+ Effective Income Tax Rate Reconciliation, Other Adjustments Due To Prior Year Tax Return, Percent
+ Effective Income Tax Rate Reconciliation, Other Adjustments Due To Prior Year Tax Return, Percent
+
+ Liability for uncertain tax positions
+ Unrecognized Tax Benefits Inclusive Of Taxes And Penalties
+ Unrecognized tax benefits inclusive of taxes and penalties.
+
+ SOFR
+ Secured Overnight Financing Rate (SOFR) [Member]
+
+ Basis difference in investments
+ Deferred Tax Liabilities, Investments
+
+ PEO Total Compensation Amount
+ PEO Total Compensation Amount
+
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+ Issuance of common stock (in shares)
+ Business Acquisition, Equity Interest Issued or Issuable, Number of Shares
+
+ Components of non-controlling interests in income of consolidated entities
+ Schedule Of Components Of Partnerships Non Controlling Interests In Income Loss Of Consolidated Entities [Table Text Block]
+ Schedule of components of partnerships non controlling interests in income loss of consolidated entities.
+
+ Consolidated Funds related:
+ Consolidated Funds Related [Abstract]
+ Consolidated funds related.
+
+ Debt Disclosure [Abstract]
+ Debt Disclosure [Abstract]
+
+ Common Stock
+ Common Stock [Member]
+
+ Forgone Recovery due to Expense of Enforcement, Amount
+ Forgone Recovery due to Expense of Enforcement, Amount
+
+ Changes in Level III financial liabilities measured at fair value
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation [Table Text Block]
+
+ Equity securities
+ Equity Securities
+ Total equity securities.
+
+ Principal investment income (loss) from equity method investments - realized
+ Principal Investment Income (Loss) Realized, Equity Method Investments [Member]
+ Principal Investment Income (Loss) Realized, Equity Method Investments [Member]
+
+ Senior secured notes
+ Senior Secured Notes [Member]
+ Senior secured notes.
+
+ Segment Reporting [Abstract]
+ Segment Reporting [Abstract]
+
+ Entity Central Index Key
+ Entity Central Index Key
+
+ Corporate investment
+ Corporate Investment [Member]
+ Corporate Investment
+
+ Scenario [Axis]
+ Scenario [Axis]
+
+ Accrued interest and penalties associated with uncertain tax positions
+ Unrecognized Tax Benefits, Income Tax Penalties and Interest Accrued
+
+ Geographic areas revenues from customers
+ Geographic Areas Revenues From Customers And Long Lived Assets [Table Text Block]
+ Geographic areas revenues from customers and long lived assets.
+
+ Currency translation adjustments
+ Accumulated Foreign Currency Adjustment Attributable to Parent [Member]
+
+ Non-PEO NEO Average Compensation Actually Paid Amount
+ Non-PEO NEO Average Compensation Actually Paid Amount
+
+ Common units to be issued annually in connection with equity method investment
+ Stock Agreed To Issue, Equity Method Investment, Maximum Value To Be Issued Annually
+ Stock Agreed To Issue, Equity Method Investment, Maximum Value To Be Issued Annually
+
+ Committed capital
+ Purchase Agreement, Assets Commitment Allocation
+ Purchase Agreement, Assets Commitment Allocation
+
+ Amounts due to affiliates
+ Schedule Of Due To Affiliates [Table Text Block]
+ Schedule of due to affiliates.
+
+ Equity
+ Equity [Text Block]
+
+ Change in accounts payable, accrued expenses and other liabilities
+ Increase (Decrease) in Accounts Payable and Accrued Liabilities
+
+ Partner Type of Partners' Capital Account, Name [Domain]
+ Partner Type of Partners' Capital Account, Name [Domain]
+
+ Award Timing, How MNPI Considered
+ Award Timing, How MNPI Considered [Text Block]
+
+ Financial Instrument [Axis]
+ Financial Instrument [Axis]
+
+ Segment Reporting
+ Segment Reporting Disclosure [Text Block]
+
+ Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Table]
+ Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Table]
+ Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Table]
+
+ Fair Value, Inputs, Level 1, 2 and 3
+ Fair Value, Inputs, Level 1, Level 2, and Level 3 [Member]
+
+ Included in earnings
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Gain (Loss) Included in Earnings
+
+ Equity-based compensation
+ APIC, Share-Based Payment Arrangement, Increase for Cost Recognition
+
+ T&D United Capital Co Ltd
+ T&D United Capital Co Ltd [Member]
+ T&D United Capital Co Ltd [Member]
+
+ CLO Senior and Subordinated Notes and Derivative Instruments
+ CLO Senior And Subordinated Notes, And Derivative Instruments [Member]
+ CLO Senior And Subordinated Notes, And Derivative Instruments [Member]
+
+ Title
+ Trading Arrangement, Individual Title
+
+ Weighted Average Remaining Maturity in Years
+ Debt Instrument Weighted Average Remaining Life
+ Debt instrument weighted average remaining life.
+
+ Consolidated Entities [Axis]
+ Consolidated Entities [Axis]
+
+ Schedule of income (loss) before provision of taxes
+ Schedule of Income before Income Tax, Domestic and Foreign [Table Text Block]
+
+ Balance at January 1
+ Balance at December 31
+ Unrecognized Tax Benefits
+
+ Principal investment income
+ Principal investment loss from dilution of indirect investment in Fortitude
+ Principal Investment Gain (Loss)
+
+ Global Credit Revolving Credit Facility Maturing In 2025
+ Global Credit Revolving Credit Facility Maturing In 2025 [Member]
+ Global Credit Revolving Credit Facility Maturing In 2025
+
+ Investments in Unconsolidated Variable Interest Entities
+ Consolidation, Variable Interest Entity, Policy [Policy Text Block]
+
+ City Area Code
+ City Area Code
+
+ Management fee - percentage of invested capital
+ Management Fee, Percentage Of Invested Capital
+ Management Fee, Percentage Of Invested Capital
+
+ Auditor Location
+ Auditor Location
+
+ Senior secured notes
+ Senior Secured Notes Loans Payable Of Consolidated Funds [Member]
+ Senior Secured Notes Loans Payable Of Consolidated Funds [Member]
+
+ Bonds
+ Bonds [Member]
+
+ Revenue Recognition and Deferred Revenue
+ Revenue [Policy Text Block]
+
+ Notes receivable and accrued interest from affiliates
+ Notes Receivable And Accrued Interest [Member]
+ Notes Receivable And Accrued Interest
+
+ Insider Trading Policies and Procedures Not Adopted
+ Insider Trading Policies and Procedures Not Adopted [Text Block]
+
+ Amount of realized and distributed carried interest subject to potential giveback on after-tax basis
+ Amount Of Realized And Distributed Carried Interest Of Potential Giveback On After Tax Basis
+ Amount of realized and distributed carried interest of potential giveback on after-tax basis.
+
+ Subordinated notes
+ Subordinated Notes [Member]
+ Subordinated Notes
+
+ Global Private Equity
+ Global Private Equity Segment [Member]
+ Global Private Equity Segment
+
+ Common shares repurchased and net share settlement of equity awards
+ Payments for Repurchase of Common Stock
+
+ Change in due to affiliates
+ Increase (Decrease) in Due to Related Parties, Current
+
+ Number of partnership's corporate private equity funds related to accrued performance fees
+ Number Of Partnerships Corporate Private Equity Funds Related To Accrued Performance Fees
+ Number of partnerships corporate private equity funds related to accrued performance fees.
+
+ Components of investment income (loss)
+ Investment Income [Table Text Block]
+
+ Purchases of investments by Consolidated Funds
+ Purchases Of Investments By Consolidated Funds
+ Purchases of investments by consolidated funds.
+
+ Other
+ Other Related Party Transaction [Member]
+ Other Related Party Transaction
+
+ Schedule of Segment Reporting Information, by Segment [Table]
+ Schedule of Segment Reporting Information, by Segment [Table]
+
+ Weighted- Average Grant Date Fair Value
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Nonvested, Weighted Average Grant Date Fair Value [Abstract]
+
+ Subsequent Event Type [Axis]
+ Subsequent Event Type [Axis]
+
+ Investments
+ Investment [Text Block]
+
+ Net income (loss) attributable to The Carlyle Group Inc. per common share (see Note 12)
+ Earnings Per Share [Abstract]
+
+ Equity [Abstract]
+ Equity [Abstract]
+
+ Loan two
+ Loans Investment In Consolidated Funds Two [Member]
+ Loans Investment In Consolidated Funds Two
+
+ Retained earnings
+ Retained Earnings (Accumulated Deficit)
+
+ 5.625% Senior Notes Due 3/30/2043
+ 5.625% Senior Notes Due 2043 [Member]
+ 5.625% Senior Notes Due 2043 [Member]
+
+ Total (in shares)
+ Stock Repurchased and Retired During Period, Shares
+
+ Summary of status of non-vested equity-based awards
+ Schedule of Nonvested Share Activity [Table Text Block]
+
+ Class of Stock [Domain]
+ Class of Stock [Domain]
+
+ Related Party Transaction [Line Items]
+ Related Party Transaction [Line Items]
+
+ Technology
+ Technology [Member]
+ Technology
+
+ Schedule of debt obligations
+ Schedule of Debt [Table Text Block]
+
+ Aggregate Available
+ Trading Arrangement, Securities Aggregate Available Amount
+
+ Equity Awards Adjustments
+ Equity Awards Adjustments [Member]
+
+ Lease liabilities
+ Total lease liabilities
+ Operating Lease, Liability
+
+ Underlying Securities
+ Award Underlying Securities Amount
+
+ Accrued interest percentage
+ Loans Receivable, Basis Spread on Variable Rate
+
+ Percentage ownership
+ Subsidiary or Equity Method Investee, Cumulative Percentage Ownership after All Transactions
+
+ Amendment Flag
+ Amendment Flag
+
+ Tax receivable agreement termination, cash payments per partnership unit exchanged (usd per share)
+ Termination Of Tax Receivable Agreement, Cost Per Partnership Unit Exchanged
+ Termination Of Tax Receivable Agreement, Cost Per Partnership Unit Exchanged
+
+ 4.625% Subordinated Notes due 2061 of Carlyle Finance L.L.C.
+ Subordinated Debt [Member]
+
+ Stock Appreciation Rights (SARs)
+ Stock Appreciation Rights (SARs) [Member]
+
+ Compensation and benefits
+ Employee Benefit and Share-Based Payment Arrangement, Noncash Expense [Abstract]
+
+ Debt Securities, Trading, and Equity Securities, FV-NI [Table]
+ Debt Securities, Trading, and Equity Securities, FV-NI [Table]
+
+ Subsequent Events [Abstract]
+ Subsequent Events [Abstract]
+
+ Liabilities, measurement input (percent)
+ Debt Instrument, Measurement Input
+
+ Borrowings
+ Debt Disclosure [Text Block]
+
+ Condensed Income Statement [Table]
+ Condensed Income Statement [Table]
+
+ Fair Value Hierarchy and NAV [Domain]
+ Fair Value Hierarchy and NAV [Domain]
+
+ Realized/unrealized (gain) loss from loans payable of Consolidated Funds
+ Realized Unrealized Gain (Loss) From Loans Payable Of Consolidated Funds
+ Realized unrealized gain (loss) from loans payable of consolidated funds.
+
+ CLO Term Loan June 2021 Maturing November 2031
+ CLO Term Loan June 2021 Maturing November 2031 [Member]
+ CLO Term Loan June 2021 Maturing November 2031
+
+ Recovery of Erroneously Awarded Compensation Disclosure [Line Items]
+
+ Borrowing Outstanding
+ Debt principal amount
+ Debt Instrument, Face Amount
+
+ Condensed Cash Flow Statements, Captions [Line Items]
+ Condensed Cash Flow Statements, Captions [Line Items]
+
+ Paydowns
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Settlements
+
+ Entity Address, Postal Zip Code
+ Entity Address, Postal Zip Code
+
+ Principal investment income (loss) from equity method investments - unrealized
+ Principal Investment Income (Loss) Unrealized, Equity Method Investments [Member]
+ Principal Investment Income (Loss) Unrealized, Equity Method Investments [Member]
+
+ Loans
+ Loans 1 [Member]
+ Loans 1
+
+ Cash and cash equivalents
+ Cash and cash equivalents
+ Cash and Cash Equivalents, at Carrying Value
+
+ Schedule of Investments [Table]
+ Schedule of Investments [Table]
+
+ Interest Income
+ Interest Income (Expense), Operating [Abstract]
+
+ Grantee Status [Axis]
+ Grantee Status [Axis]
+
+ Changes in unrealized (gains) losses included in earnings related to financial liabilities still held at the reporting date
+ Fair Value, Liability, Recurring Basis, Still Held, Unrealized Gain (Loss)
+
+ Year-over-Year Change in Fair Value of Equity Awards Granted in Prior Years That are Outstanding and Unvested
+ Year-over-Year Change in Fair Value of Equity Awards Granted in Prior Years That are Outstanding and Unvested [Member]
+
+ Auditor Name
+ Auditor Name
+
+ Non-employees
+ Share-Based Payment Arrangement, Nonemployee [Member]
+
+ Forfeited (in dollars per share)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Forfeitures, Weighted Average Grant Date Fair Value
+
+ Schedule of investments
+ Investment [Table Text Block]
+
+ Current
+ Current Income Tax Expense (Benefit), Continuing Operations [Abstract]
+
+ Year-end Fair Value of Equity Awards Granted in Covered Year that are Outstanding and Unvested
+ Year-end Fair Value of Equity Awards Granted in Covered Year that are Outstanding and Unvested [Member]
+
+ CLO Term Loan May 2021 Maturing November 2031
+ CLO Term Loan May 2021 Maturing November 2031 [Member]
+ CLO Term Loan May 2021 Maturing November 2031
+
+ Estimated useful life of fixed assets
+ Property, Plant and Equipment, Useful Life
+
+ Variable Interest Entity, Not Primary Beneficiary
+ Variable Interest Entity, Not Primary Beneficiary [Member]
+
+ Depreciation and amortization expense
+ Depreciation, Depletion and Amortization, Nonproduction
+
+ Non-controlling Interests in Consolidated Entities
+ Noncontrolling Interest Disclosure [Text Block]
+
+ Equity Method Investment, Nonconsolidated Investee [Axis]
+ Equity Method Investment, Nonconsolidated Investee [Axis]
+
+ Addition/(reduction) in deferred tax assets
+ Effective Income Tax Rate Reconciliation, Tax Expense (Benefit), Share-Based Payment Arrangement, Amount
+
+ Adjustment To PEO Compensation, Footnote
+ Adjustment To PEO Compensation, Footnote [Text Block]
+
+ Tax receivable agreement termination, annual cash payments per partnership unit exchanged (usd per share)
+ Termination Of Tax Receivable Agreement, Annual Installment, Cost Per Partnership Unit Exchanged
+ Termination Of Tax Receivable Agreement, Annual Installment, Cost Per Partnership Unit Exchanged
+
+ Amortization of basis differences from the investment in NGP Management
+ Amortization
+
+ Net income (loss) attributable to common shares
+ Net Income (Loss) Available to Common Stockholders, Basic
+
+ Compensation Actually Paid vs. Other Measure
+ Compensation Actually Paid vs. Other Measure [Text Block]
+
+ Investments of Consolidated Funds
+ Investments of Consolidated Funds:
+ Investments Of Consolidated Funds [Member]
+ Investments of consolidated funds.
+
+ Principal investment income
+ Principal investment income
+ Principal Investment Income (Loss) [Member]
+ Principal Investment Income (Loss) [Member]
+
+ Vesting Date Fair Value of Equity Awards Granted and Vested in Covered Year
+ Vesting Date Fair Value of Equity Awards Granted and Vested in Covered Year [Member]
+
+ Weighted-average common shares
+ Weighted Average Number of Shares Outstanding, Diluted [Abstract]
+
+ Total assets
+ Consolidated VIEs, assets
+ Total assets
+ Assets
+
+ Guarantor Obligation [Table]
+ Guarantor Obligation [Table]
+
+ Schedule of income (loss) from principal investments
+ Equity Method Investment Income [Table Text Block]
+ Equity method investment income.
+
+ Purchases of fixed assets, net
+ Payments to Acquire Property, Plant, and Equipment
+
+ Entity Listings [Line Items]
+ Entity Listings [Line Items]
+
+ Options to terminate (within)
+ Lessee, Operating Lease, Option To Terminate, Term
+ Lessee, Operating Lease, Option To Terminate, Term
+
+ Forgone Recovery due to Violation of Home Country Law, Amount
+ Forgone Recovery due to Violation of Home Country Law, Amount
+
+ Commitments and contingencies
+ Commitments and Contingencies
+
+ Schedule of reconciliation of provision for income taxes to U.S Federal statutory tax rate
+ Schedule of Effective Income Tax Rate Reconciliation [Table Text Block]
+
+ Civil penalty amount
+ Loss Contingency, Damages Paid, Value
+
+ CLO Term Loan September 2023 Maturing August 2031
+ CLO Term Loan September 2023 Maturing August 2031 [Member]
+ CLO Term Loan September 2023 Maturing August 2031
+
+ Termination Date
+ Trading Arrangement Termination Date
+
+ Investment in NGP Management
+ NGP Management [Member]
+ NGP Management [Member]
+
+ Organization
+ Business Description and Basis of Presentation [Text Block]
+
+ Related Party Transaction [Table]
+ Related Party Transaction [Table]
+
+ Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+ Fair Value, Assets and Liabilities Measured on Recurring and Nonrecurring Basis [Line Items]
+
+ 2026
+ Lessee, Operating Lease, Liability, to be Paid, Year Two
+
+ CLO Term Loan 2021 Maturing April 2033
+ CLO Term Loan 2021 Maturing April 2033 [Member]
+ CLO Term Loan 2021 Maturing April 2033
+
+ Purchase of investment (in dollars per share)
+ Investment, Purchase Price
+ Investment, Purchase Price
+
+ Lease liabilities
+ Deferred Tax Assets, Tax Deferred Expense, Reserves and Accruals, Deferred Rent
+
+ Purchase of investment (in shares)
+ Purchase Of Investment, Shares
+ Purchase Of Investment, Shares
+
+ Redemption price, discount rate
+ Debt Instrument, Redemption Price, Discount Rate, Basis Spread On Variable Rate
+ Debt Instrument, Redemption Price, Discount Rate, Basis Spread On Variable Rate
+
+ Due to affiliates
+ Other liabilities
+ Other Liabilities
+
+ Unrecognized tax benefits
+ Effective Income Tax Rate Reconciliation, Tax Contingency, Percent
+
+ Interest and other expenses of Consolidated Funds
+ Interest And Other Expenses Of Consolidated Funds
+ Interest and other expenses relating to, and incurred, by the consolidated funds and other consolidated entities.
+
+ Deferred tax assets
+ Deferred Tax Assets, Gross [Abstract]
+
+ Debt Instrument [Axis]
+ Debt Instrument [Axis]
+
+ Noncontrolling Interest [Abstract]
+ Noncontrolling Interest [Abstract]
+
+ Net income (loss) attributable to The Carlyle Group Inc.
+ Net Income (Loss)
+ Net Income (Loss) Attributable to Parent
+
+ Trading Arrangement:
+ Trading Arrangement [Axis]
+
+ Pay vs Performance Disclosure, Table
+ Pay vs Performance [Table Text Block]
+
+ Incentive Fees
+ Net Performance Fees [Abstract]
+ Net performance fees.
+
+ Equity Awards Adjustments, Excluding Value Reported in Compensation Table
+ Equity Awards Adjustments, Excluding Value Reported in the Compensation Table [Member]
+
+ CLO Term Loan April 2024 Maturing August 2037
+ CLO Term Loan April 2024 Maturing August 2037 [Member]
+ CLO Term Loan April 2024 Maturing August 2037
+
+ Entity File Number
+ Entity File Number
+
+ Schedule of net investment income (loss)
+ Realized Gain (Loss) on Investments [Table Text Block]
+
+ CLO Term Loan March 2021 Maturing March 2032
+ CLO Term Loan March 2021 Maturing March 2032 [Member]
+ CLO Term Loan March 2021 Maturing March 2032
+
+ Total
+ Performance Allocation Investment Income (Loss)
+ Performance Allocation Investment Income (Loss)
+
+ Consolidated Entities [Domain]
+ Consolidated Entities [Domain]
+
+ Non-controlling Interests in Consolidated Entities
+ Noncontrolling Interest [Member]
+
+ Statement of operations information
+ Income Statement [Abstract]
+
+ Entity Address, Address Line One
+ Entity Address, Address Line One
+
+ Federal income tax
+ Current Federal Tax Expense (Benefit)
+
+ Debt extinguishment costs
+ Extinguishment of Debt, Amount
+
+ Effect of foreign exchange rate changes
+ Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents, Continuing Operations
+
+ Dividend to Common Stockholders
+ Dividends, Common Stock
+
+ Purchases of investments
+ Purchases of investments
+ Payments for Purchase of Securities, Operating Activities
+
+ Term of lease
+ Lessee, Operating Lease, Term of Contract
+
+ Global Credit Revolving Credit Facility
+ Global Credit Revolving Credit Facility [Member]
+ Global Credit Revolving Credit Facility [Member]
+
+ Name
+ Forgone Recovery, Individual Name
+
+ Weighted-average remaining lease term
+ Operating Lease, Weighted Average Remaining Lease Term
+
+ Accrued Compensation and Benefits
+ Compensation and Employee Benefit Plans, Other than Share-Based Compensation [Text Block]
+
+ Changes in deferred taxes, net
+ Increase (Decrease) in Deferred Income Taxes
+
+ Investments, at Fair Value and Corporate Treasury Investments
+ Investment, Policy [Policy Text Block]
+
+ Other non-cash amounts
+ Other Noncash Income (Expense)
+
+ Award Timing MNPI Considered
+ Award Timing MNPI Considered [Flag]
+
+ Reimbursable expenses and other receivables from unconsolidated funds and affiliates, net
+ Reimbursable Expenses And Other Receivables [Member]
+ Reimbursable Expenses And Other Receivables
+
+ Line of Credit Facility [Line Items]
+ Line of Credit Facility [Line Items]
+
+ Reductions for tax position of prior years
+ Unrecognized Tax Benefits, Decrease Resulting from Prior Period Tax Positions
+
+ Outstanding Aggregate Erroneous Compensation Amount
+ Outstanding Aggregate Erroneous Compensation Amount
+
+ Borrowings
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Issuances
+
+ PEO Actually Paid Compensation Amount
+ PEO Actually Paid Compensation Amount
+
+ Adjustment to Compensation:
+ Adjustment to Compensation [Axis]
+
+ Net income attributable to non-controlling interests in consolidated entities
+ Non-controlling interests in income of consolidated entities
+ Net income attributable to non-controlling interests in consolidated entities
+ Net Income (Loss) Attributable to Noncontrolling Interest
+
+ Percentage of carried interest income allocated to partnership for future carry funds
+ Percentage Of Carried Interest Income Allocated To Partnership For Future Carry Funds
+ Percentage of carried interest income to be allocated to partnership for future interests in future carry funds.
+
+ Acquisition or disposition-related charges and amortization of intangibles and impairment
+ Acquisition And Disposition Related Charges And Amortization Of Intangibles
+ Acquisition And Disposition Related Charges And Amortization Of Intangibles
+
+ Liabilities
+ Financial Instruments, Financial Liabilities, Balance Sheet Groupings [Abstract]
+
+ Contributions
+ Noncontrolling Interest, Increase For Contributions From Noncontrolling Interest Holders
+ Noncontrolling Interest, Increase For Contributions From Noncontrolling Interest Holders
+
+ Accumulated other comprehensive loss
+ Accumulated other comprehensive loss
+ Accumulated Other Comprehensive Income (Loss), Net of Tax
+
+ Purchases
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases
+
+ Pension Adjustments Service Cost
+ Pension Adjustments Service Cost [Member]
+
+ Valuation allowance gross, percent
+ Effective Income Tax Rate Reconciliation, Change In Deferred Tax Assets Valuation Allowance Due To Prior Year Tax Return, Percent
+ Effective Income Tax Rate Reconciliation, Change In Deferred Tax Assets Valuation Allowance Due To Prior Year Tax Return, Percent
+
+ Equity securities
+ Equity Securities Two [Member]
+ Equity Securities Two
+
+ Realized/unrealized (gain) loss on investments of Consolidated Funds
+ Realized Unrealized Gain (Loss) On Investments Of Consolidated Funds
+ Realized unrealized gain (loss) on investments of consolidated funds.
+
+ Related Party [Axis]
+ Related and Nonrelated Parties [Axis]
+
+ Basic (in shares)
+ Weighted-average common shares outstanding (in shares)
+ Weighted-average common shares outstanding, basic (in shares)
+ Weighted Average Number of Shares Outstanding, Basic
+
+ Stock Price or TSR Estimation Method
+ Stock Price or TSR Estimation Method [Text Block]
+
+ CLO Term Loan 2021 Maturing January 2034
+ CLO Term Loan 2021 Maturing January 2034 [Member]
+ CLO Term Loan 2021 Maturing January 2034
+
+ Percentage of management fees from funds of funds during the commitment fee period
+ Percentage Of Capital Commitments During Commitment Fee Period
+ Percentage Of Capital Commitments During Commitment Fee Period
+
+ Total equity
+ Beginning balance
+ Ending balance
+ Total
+ Equity, Including Portion Attributable to Noncontrolling Interest
+
+ Components of Deferred Tax Assets and Liabilities [Abstract]
+ Components of Deferred Tax Assets and Liabilities [Abstract]
+
+ Name
+ Awards Close in Time to MNPI Disclosures, Individual Name
+
+ Revenue Benchmark
+ Revenue Benchmark [Member]
+
+ Entity Filer Category
+ Entity Filer Category
+
+ Global
+ Global [Member]
+ Global.
+
+ Net unrealized performance and fee related performance revenues
+ Performance Revenues And Fees, Unrealized, Net
+ Performance Revenues And Fees, Unrealized, Net
+
+ Loss Contingencies [Line Items]
+ Loss Contingencies [Line Items]
+
+ Condensed Balance Sheet Statement [Table]
+ Condensed Balance Sheet Statement [Table]
+
+ Performance allocations - realized
+ Performance Allocations Realized [Member]
+ Performance Allocations Realized [Member]
+
+ Borrowings under credit facilities
+ Proceeds from Long-Term Lines of Credit
+
+ Fund investments
+ Fund Investments
+ Fund Investments
+
+ Condensed Balance Sheet Statements, Captions [Line Items]
+ Condensed Balance Sheet Statements, Captions [Line Items]
+
+ Debt and Equity Securities, FV-NI [Line Items]
+ Debt and Equity Securities, FV-NI [Line Items]
+
+ Statistical Measurement [Domain]
+ Statistical Measurement [Domain]
+
+ Lease cost, cash flows and other supplemental information related to operating leases
+ Lease, Cost [Table Text Block]
+
+ Due to non-consolidated affiliates
+ Non-Consolidated Affiliates [Member]
+ Non-Consolidated Affiliates
+
+ Amounts due from affiliates and other receivables
+ Schedule Of Due From Affiliates And Other Receivables [Table Text Block]
+ Schedule of due from affiliates and other receivables.
+
+ Uncertain tax positions that would reduce effective tax rate, if recognized
+ Unrecognized Tax Benefits that Would Impact Effective Tax Rate
+
+ Segment Reporting Information [Line Items]
+ Segment Reporting Information [Line Items]
+
+ All Trading Arrangements
+ All Trading Arrangements [Member]
+
+ Compensation Actually Paid vs. Net Income
+ Compensation Actually Paid vs. Net Income [Text Block]
+
+ Summary of basic and diluted net income per common unit
+ Schedule of Earnings Per Share, Basic and Diluted [Table Text Block]
+
+ Vesting period
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Award Vesting Period
+
+ Variable Interest Entity, Primary Beneficiary
+ Variable Interest Entity, Primary Beneficiary [Member]
+
+ Rule 10b5-1 Arrangement Adopted
+ Rule 10b5-1 Arrangement Adopted [Flag]
+
+ Awards Close in Time to MNPI Disclosures
+ Awards Close in Time to MNPI Disclosures [Table]
+
+ Management fee - percentage of commitments
+ Management Fee, Percentage Of Commitments
+ Management Fee, Percentage Of Commitments
+
+ Total
+ Dividend paid
+ Equity Method Investments
+
+ Pay vs Performance Disclosure [Line Items]
+
+ Peer Group Total Shareholder Return Amount
+ Peer Group Total Shareholder Return Amount
+
+ Change in other receivables held at Consolidated Funds
+ Increase (Decrease) Other Receivables Held At Consolidated Funds
+ Change in other receivables held at consolidated funds.
+
+ Percentage of fund investments
+ Percentage Of Fund Investments
+ Percentage Of Fund Investments
+
+ Amortization period of basis difference
+ Amortization Period Of Basis Difference
+ Amortization period of Partnership's basis difference in the underlying net assets of NGP.
+
+ Intangible assets, net
+ Intangible Assets, net
+ Intangible Assets, Net (Including Goodwill)
+
+ Deferred
+ Deferred Income Tax Expense (Benefit), Continuing Operations [Abstract]
+
+ Net Asset Value per Share
+ Measurement Input, Net Asset Value Per Share [Member]
+ Measurement Input, Net Asset Value Per Share
+
+ Other Performance Measure, Amount
+ Other Performance Measure, Amount
+
+ 2027
+ Finite-Lived Intangible Asset, Expected Amortization, Year Three
+
+ Goodwill [Line Items]
+ Goodwill [Line Items]
+
+ Common stock, outstanding (in shares)
+ Beginning balance (in shares)
+ Ending balance (in shares)
+ Common Stock, Shares, Outstanding
+
+ Documents Incorporated by Reference
+ Documents Incorporated by Reference [Text Block]
+
+ Granted (in shares)
+ Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Granted Other In Period
+ Units granted under share-based compensation arrangement other than as part of the initial public offering.
+
+ Operating lease cost
+ Operating Lease, Cost
+
+ CLO Term Loan October 2022
+ CLO Term Loan October 2022 [Member]
+ CLO Term Loan October 2022
+
+ Due from affiliates and other receivables, net
+ Other Receivables, Net, Current
+
+ Components of non-controlling interests in consolidated entities
+ Schedule Of Components Of Partnerships Non Controlling Interests In Consolidated Entities [Table Text Block]
+ Schedule of components of partnerships non controlling interests in consolidated entities.
+
+ Industry Sector [Domain]
+ Industry Sector [Domain]
+
+ CP VI
+ Carlyle Partners VI, L.P. [Member]
+ Carlyle Partners VI, L.P. [Member]
+
+ Performance fees, income (loss)
+ Performance Fees, Income (Loss)
+ Performance Fees, Income (Loss)
+
+ CLO Financing Facility
+ CLO Financing Facility [Member]
+ CLO Financing Facility [Member]
+
+ Entity Tax Identification Number
+ Entity Tax Identification Number
+
+ Audit Information [Abstract]
+ Audit Information
+
+ Intangible Asset, Finite-Lived [Table]
+ Intangible Asset, Finite-Lived [Table]
+
+ Additions for tax positions of prior years
+ Unrecognized Tax Benefits, Increase Resulting from Prior Period Tax Positions
+
+ Foreign income tax
+ Deferred Foreign Income Tax Expense (Benefit)
+
+ Realized
+ Performance Fee Expense Realized
+ Compensation of our investment professionals related to realized performance fees.
+
+ Percentage of management fees earned
+ Percentage Of Management Fees Earned
+ Percentage Of Management Fees Earned
+
+ Adjustments
+ Intersegment Eliminations [Member]
+
+ Fund level fee revenues
+ Fund Level Fee Revenues [Abstract]
+ Fund level fee revenues.
+
+ Indicative Quotes
+ Measurement Input, Quoted Price [Member]
+
+ CLO Term Loans
+ CLO Term Loans [Member]
+ CLO Term Loans [Member]
+
+ Equity Components [Axis]
+ Equity Components [Axis]
+
+ Balance, beginning of period
+ Balance, end of period
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset Value
+
+ Maximum percentage of interest on amounts due from affiliates
+ Receivable with Imputed Interest, Effective Yield (Interest Rate)
+
+ Total expenses
+ Expenses
+ Costs and Expenses
+
+ Business Acquisition, Acquiree [Domain]
+ Business Acquisition, Acquiree [Domain]
+
+ Percentages of revenue by geographic regions
+ Percentages Of Revenue By Geographic Regions
+ Percentages of revenue by geographic regions.
+
+ Investments [Domain]
+ Investments [Domain]
+
+ Diluted
+ Earnings Per Share, Diluted [Abstract]
+
+ Geographical [Axis]
+ Geographical [Axis]
+
+ 2029
+ Lessee, Operating Lease, Liability, to be Paid, Year Five
+
+ EMEA
+ EMEA [Member]
+
+ Weighted Average
+ Weighted Average [Member]
+
+ Shares repurchased
+ Stock Repurchased During Period, Value
+
+ Aggregate Grant Date Fair Value of Equity Award Amounts Reported in Summary Compensation Table
+ Aggregate Grant Date Fair Value of Equity Award Amounts Reported in Summary Compensation Table [Member]
+
+ Chief Executive Officer
+ Chief Executive Officer [Member]
+
+ Loss contingency accrual
+ Loss Contingency Accrual
+
+ Global Investment Solutions
+ Global Investment Solutions Segment [Member]
+ Global Investment Solutions Segment
+
+ Cash, cash equivalents and restricted cash, beginning of period
+ Cash, cash equivalents and restricted cash, end of period
+ Total cash, cash equivalents and restricted cash, end of period
+ Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents
+
+ Weighted Average Interest Rate
+ Debt, Weighted Average Interest Rate
+
+ Cost of total assets
+ Cost Of Assets Of CLOs
+ Cost of assets of CLOs.
+
+ Unrecognized equity-based compensation expense
+ Share-Based Payment Arrangement, Nonvested Award, Cost Not yet Recognized, Amount
+
+ Foreign income tax
+ Current Foreign Tax Expense (Benefit)
+
+ Principal investment income (loss) from investments in CLOs and other investments
+ Principal Investment Income (Loss), CLOs And Other Investments [Member]
+ Principal Investment Income (Loss), CLOs And Other Investments [Member]
+
+ Unrealized
+ Unrealized performance and fee related performance revenue compensation expense
+ Unrealized Gain (Loss) On Performance Revenues And Fees, Compensation Expense
+ Unrealized Gain (Loss) On Performance Revenues And Fees, Compensation Expense
+
+ Consolidation Items [Axis]
+ Consolidation Items [Axis]
+
+ Fair Value of Financial Instruments
+ Fair Value of Financial Instruments, Policy [Policy Text Block]
+
+ Accrued pension liability
+ Liability, Defined Benefit Pension Plan, Current
+
+ 5.650% Senior Notes Due 9/15/2048
+ 5.650% Senior Notes Due 2048 [Member]
+ 5.650% Senior Notes Due 2048 [Member]
+
+ Forgone Recovery due to Disqualification of Tax Benefits, Amount
+ Forgone Recovery due to Disqualification of Tax Benefits, Amount
+
+ Product and Service [Domain]
+ Product and Service [Domain]
+
+ Vested (in dollars per share)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Vested in Period, Weighted Average Grant Date Fair Value
+
+ Fair Value Disclosures [Abstract]
+ Fair Value Disclosures [Abstract]
+
+ Abingworth
+ Abingworth [Member]
+ Abingworth
+
+ Changes in unrealized gains (losses) included in earnings related to financial assets still held at the reporting date
+ Fair Value, Asset, Recurring Basis, Still Held, Unrealized Gain (Loss)
+
+ Aerospace & Defense
+ Aerospace & Defense [Member]
+ Aerospace & Defense
+
+ Purchases of corporate treasury investments
+ Payments To Acquire Corporate Treasury Investments, Net
+ Payments To Acquire Corporate Treasury Investments, Net
+
+ Security Exchange Name
+ Security Exchange Name
+
+ Applicable margin over base rate
+ Debt Instrument, Basis Spread on Variable Rate
+
+ Related Party Transaction [Domain]
+ Related Party Transaction [Domain]
+
+ Purchase of CBAM intangibles and investments
+ Payments to Acquire Other Productive Assets
+
+ Investment in CLOs
+ Consolidated Collateralized Loan Obligation Investments
+ Total of investments in CLOs that were consolidated.
+
+ CLO Term Loan August 2019 Maturing August 2032
+ CLO Term Loan August 2019 Maturing August 2032 [Member]
+ CLO Term Loan August 2019 Maturing August 2032
+
+ Units
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Nonvested, Number of Shares [Roll Forward]
+
+ State and local income tax
+ Current State and Local Tax Expense (Benefit)
+
+ Total compensation and benefits
+ Labor and Related Expense
+
+ Forgone Recovery, Explanation of Impracticability
+ Forgone Recovery, Explanation of Impracticability [Text Block]
+
+ Realized gains (losses)
+ Realized Investment Gains (Losses)
+
+ Sales and distributions
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Sales
+
+ Goodwill and Intangible Assets Disclosure [Abstract]
+ Goodwill and Intangible Assets Disclosure [Abstract]
+
+ Adjustments for performance fees, performance fee related compensation and investment income
+ Adjustments For Performance Fees Performance Fee Related Compensation And Investment Income [Table Text Block]
+ Adjustments for performance fees performance fee related compensation and investment income.
+
+ Common stock, issued (in shares)
+ Common Stock, Shares, Issued
+
+ Percentage of investments in Consolidated Funds
+ Percentage Of Investments
+ Percentage of investments.
+
+ Retirement Plan Name [Domain]
+ Retirement Plan Name [Domain]
+
+ Entity [Domain]
+ Entity [Domain]
+
+ Borrowing capacity
+ Line of Credit Facility, Maximum Borrowing Capacity
+
+ Concentration risk percentage
+ Concentration Risk, Percentage
+
+ Recovery Rates
+ Measurement Input, Recovery Rate [Member]
+ Measurement Input, Recovery Rate [Member]
+
+ Federal foreign tax credit carryforward
+ Federal foreign tax carryforwards, amount
+ Deferred Tax Assets, Tax Credit Carryforwards, Foreign
+
+ Investments in NGP general partners - accrued performance allocations
+ NGP General Partners [Member]
+ NGP General Partners [Member]
+
+ Foreign currency forward contracts
+ Derivative Liability
+
+ Percentage committed capital
+ Investment Company, Committed Capital
+
+ Insider Trading Policies and Procedures Adopted
+ Insider Trading Policies and Procedures Adopted [Flag]
+
+ Compensation and Benefits
+ Compensation Related Costs, Policy [Policy Text Block]
+
+ Valuation Allowance by Deferred Tax Asset [Axis]
+ Valuation Allowance by Deferred Tax Asset [Axis]
+
+ Summary of loans payable of consolidated funds
+ Schedule Of Debt Table For Consolidated Funds [Table Text Block]
+ Tabular disclosure of information pertaining to short-term and long-debt instruments or arrangements, including but not limited to identification of terms, features, collateral requirements and other information necessary to a fair presentation for our consolidated funds.
+
+ Fair value, asset, recurring basis, unobservable input reconciliation, asset, gain (loss), statement of other comprehensive income or comprehensive income
+ Fair Value, Asset, Recurring Basis, Unobservable Input Reconciliation, Asset, Gain (Loss), Statement of Other Comprehensive Income or Comprehensive Income [Extensible Enumeration]
+
+ Europe
+ Europe [Member]
+
+ Common stock, authorized (in shares)
+ Common Stock, Shares Authorized
+
+ Consolidation, Eliminations
+ Adjustments
+ Eliminations
+ Consolidation, Eliminations [Member]
+
+ Purchase of Abingworth, net of cash acquired
+ Payments to Acquire Businesses, Net of Cash Acquired
+
+ AlpInvest
+ AlpInvest [Member]
+ AlpInvest
+
+ Tax basis goodwill and intangibles
+ Deferred Tax Assets, Goodwill and Intangible Assets
+
+ Common Shares
+ Partnership Common Units [Member]
+ Partnership Common Units [Member]
+
+ Long-term Debt, Type [Axis]
+ Long-Term Debt, Type [Axis]
+
+ Entity Voluntary Filers
+ Entity Voluntary Filers
+
+ Average effective interest rate
+ Average Effective Interest Rate [Member]
+ Average Effective Interest Rate [Member]
+
+ Related Party
+ Related Party [Member]
+
+ Global Credit Revolving Credit Facility Maturing In 2027
+ Global Credit Revolving Credit Facility Maturing In 2027 [Member]
+ Global Credit Revolving Credit Facility Maturing In 2027
+
+ Options to extend (up to)
+ Lessee, Operating Lease, Renewal Term
+
+ Total deferred
+ Deferred Income Tax Expense (Benefit)
+
+ Non-cash interest income, net
+ Non Cash Interest Income Net Of Consolidated Funds
+ Non-cash interest income, net.
+
+ Entity Listings [Table]
+ Entity Listings [Table]
+
+ Education
+ Education [Member]
+ Education
+
+ Debt
+ Long-Term Debt
+
+ Pension Adjustments Prior Service Cost
+ Pension Adjustments Prior Service Cost [Member]
+
+ Fair value of plan assets
+ Defined Benefit Plan, Plan Assets, Amount
+
+ Assets of CLOs
+ Assets Of CLOs
+ Assets Of CLOs
+
+ Commitments related to origination and syndication of loans
+ Unfunded Commitments, Origination And Syndication Of Loans
+ Unfunded Commitments, Origination And Syndication Of Loans
+
+ Components of net investment income (loss) of consolidated funds
+ Net Investment Gains Losses [Table Text Block]
+ Tabular disclosure of net investment gains losses of consolidated funds.
+
+ Investment Income [Table]
+ Investment Income [Table]
+
+ Shares issued for performance allocations
+ Stock Issued During Period, Value, Restricted Stock Award, Gross
+
+ Pension Benefits Adjustments, Footnote
+ Pension Benefits Adjustments, Footnote [Text Block]
+
+ Realized performance allocations and incentive fee-related compensation not yet paid
+ Accrued Performance Allocations And Incentive Fee-Related Compensation Not Yet Paid
+ Accrued Performance Allocations And Incentive Fee-Related Compensation Not Yet Paid
+
+ Total Shareholder Return Vs Peer Group
+ Total Shareholder Return Vs Peer Group [Text Block]
+
+ Expenses related to the investment in NGP Management
+ Investment Income, Investment Expense
+
+ Document Annual Report
+ Document Annual Report
+
+ Investment loss
+ Equity Method Investment, Realized Gain (Loss) on Disposal
+
+ Proceeds from sales and settlements of investments by Consolidated Funds
+ Proceeds From Sale And Settlements Of Investments By Consolidated Funds
+ Proceeds from sale and settlements of investments by consolidated funds.
+
+ Vested (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Vested in Period
+
+ Risk free interest rate
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Fair Value Assumptions, Risk Free Interest Rate
+
+ Percentage of assets of the CLOs
+ Percentage Of Assets Of Clos
+ Percentage of assets of the CLOs.
+
+ Schedule of equity method investment summarized balance sheet Information
+ Equity Method Investment Summarized Balance Sheet Information [Table Text Block]
+ Equity method investment summarized balance sheet information.
+
+ Intangible asset amortization expense
+ Amortization of Intangible Assets
+
+ Deferred revenue
+ Contract with Customer, Liability
+
+ Number of employees serving on board of directors
+ Number Of Employees Serving On Board Of Directors
+ Number Of Employees Serving On Board Of Directors
+
+ Accounting Policies [Abstract]
+ Accounting Policies [Abstract]
+
+ Less: reclassification adjustment for unrecognized (gain) loss during the period included in base compensation expense, net of income tax (benefit) expense of $(0.1), $(0.1) and $0.3 for the years ended December 31, 2024, 2023 and 2022, respectively
+ Other Comprehensive (Income) Loss, Defined Benefit Plan, Reclassification Adjustment from AOCI, after Tax
+
+ Revenues
+ Revenues [Abstract]
+
+ Schedule of shares repurchased or retired
+ Schedule Of Stock Repurchased And Retired [Table Text Block]
+ Schedule Of Stock Repurchased And Retired
+
+ Current Fiscal Year End Date
+ Current Fiscal Year End Date
+
+ Less imputed interest
+ Lessee, Operating Lease, Liability, Undiscounted Excess Amount
+
+ Loans
+ Loans Investments In CLOs And Other [Member]
+ Loans Investments In CLOs And Other [Member]
+
+ Carlyle FRL
+ Carlyle FRL [Member]
+ Carlyle FRL [Member]
+
+ PEO Name
+ PEO Name
+
+ Principal investments in CLOs
+ Principal Investments In Collateralized Loan Obligations
+ Principal Investments In Collateralized Loan Obligations
+
+ Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+ Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+ Fair Value Assets And Liabilities Measured On Recurring Basis Unobservable Input Reconciliation [Line Items]
+
+ Vesting [Axis]
+ Vesting [Axis]
+
+ Award Type [Domain]
+ Award Type [Domain]
+
+ CLO Term Loan November 2021
+ CLO Term Loan November 2021 [Member]
+ CLO Term Loan November 2021
+
+ Performance allocations - unrealized
+ Performance Allocations Unrealized [Member]
+ Performance Allocations Unrealized [Member]
+
+ Net shares issued for equity-based awards (in shares)
+ Shares Issued, Shares, Share-Based Payment Arrangement, after Forfeiture
+
+ Deferred restricted common unit compensation
+ Deferred Tax Assets, Tax Deferred Expense, Compensation and Benefits, Share-Based Compensation Cost
+
+ Compensation Actually Paid vs. Company Selected Measure
+ Compensation Actually Paid vs. Company Selected Measure [Text Block]
+
+ Carrying amount of intangible assets
+ Schedule of Intangible Assets and Goodwill [Table Text Block]
+
+ Deferred tax assets
+ Deferred Income Tax Assets, Net
+
+ Non-PEO NEO
+ Non-PEO NEO [Member]
+
+ Estimated useful life of finite lived intangible assets
+ Finite-Lived Intangible Asset, Useful Life
+
+ Deconsolidation of funds
+ Fair Value, Measurement With Unobservable Inputs Reconciliation, Recurring Basis, Asset, Initial Consolidation (Deconsolidation) Adjustment Of Funds
+ Fair Value, Measurement With Unobservable Inputs Reconciliation, Recurring Basis, Asset, Initial Consolidation (Deconsolidation) Adjustment Of Funds
+
+ Assets of the CLOs - Bonds
+ Assets of Collateralized Loan Obligations, Bonds [Member]
+ Assets of Collateralized Loan Obligations, Bonds [Member]
+
+ Investment in preferred securities
+ Debt Securities, Trading
+
+ Investments of consolidated funds
+ Investments, Fair Value Disclosure
+
+ Additional Paid-in Capital
+ Additional Paid-in Capital [Member]
+
+ Terminal Growth Rate
+ Terminal Growth Rate [Member]
+ Terminal Growth Rate
+
+ Management fee related revenues from NGP Management
+ Management Fees, Income (Loss)
+ Management Fees, Income (Loss)
+
+ Recent Accounting Pronouncements
+ New Accounting Pronouncements, Policy [Policy Text Block]
+
+ Class of Stock [Axis]
+ Class of Stock [Axis]
+
+ Title and Position [Domain]
+ Title and Position [Domain]
+
+ Accumulated amortization
+ Finite-Lived Intangible Assets, Accumulated Amortization
+
+ Consensus Pricing
+ Valuation Technique, Consensus Pricing Model [Member]
+
+ Summary of weighted-average common units outstanding, basic and diluted
+ Schedule of Weighted Average Number of Shares [Table Text Block]
+
+ Name
+ Measure Name
+
+ Entity Interactive Data Current
+ Entity Interactive Data Current
+
+ Cash and cash equivalents held at Consolidated Funds
+ Cash And Cash Equivalents At Carrying Value Held At Consolidated Funds
+ Cash and cash equivalents held at consolidated funds represents cash and cash equivalents held by consolidated funds and other consolidated entities. Such amounts are not available to fund general liquidity needs of the business.
+
+ Management fee receivables
+ Management Fee Arrangements
+ Management Fee Arrangements
+
+ Cash paid for income taxes
+ Income Taxes Paid
+
+ Global Segments
+ Global Segments [Member]
+ Global Segments
+
+ Summary of assets and liabilities measured at fair value on recurring basis
+ Schedule of Fair Value, Assets and Liabilities Measured on Recurring Basis [Table Text Block]
+
+ CLO Term Loan March 2019 Maturing March 2032
+ CLO Term Loan March 2019 Maturing March 2032 [Member]
+ CLO Term Loan March 2019 Maturing March 2032
+
+ Equity-based compensation
+ Share-Based Payment Arrangement, Noncash Expense
+
+ Total deferred tax assets
+ Deferred Tax Assets, Net of Valuation Allowance
+
+ Fair Value Measured at NAV
+ Fair Value Measured at Net Asset Value Per Share [Member]
+
+ Share-based Payment Arrangement, Tranche Two
+ Share-Based Payment Arrangement, Tranche Two [Member]
+
+ Unrealized losses on defined benefit plans
+ Accumulated Defined Benefit Plans Adjustment Attributable to Parent [Member]
+
+ Interest rate
+ Interest rate (percent)
+ Debt Instrument, Interest Rate, Stated Percentage
+
+ Prior ownership percentage
+ Subsidiary Or Equity Method Investee, Cumulative Percentage Ownership Prior To Transactions
+ Subsidiary Or Equity Method Investee, Cumulative Percentage Ownership Prior To Transactions
+
+ Fortitude Holdings
+ Fortitude Group Holdings, LLC [Member]
+ Fortitude Group Holdings, LLC [Member]
+
+ Schedule of Investments [Line Items]
+ Schedule of Investments [Line Items]
+
+ Other investments
+ Principal Investments In Other Investments
+ Principal Investments In Other Investments
+
+ Supplemental cash disclosures
+ Supplemental Cash Flow Information [Abstract]
+
+ Unfunded commitment to be paid by senior Carlyle executives and professionals
+ Unfunded Commitment To Be Paid By Senior Executives And Professionals
+ Unfunded commitment to be paid by senior executives and professionals.
+
+ Net income (loss) attributable to common shares
+ Net Income (Loss) Available to Common Stockholders, Diluted
+
+ Reductions due to settlements
+ Unrecognized Tax Benefits, Decrease Resulting from Settlements with Taxing Authorities
+
+ Preferred stock, dividend rate, percentage
+ Preferred Stock, Dividend Rate, Percentage
+
+ Percentage of monthly management fee Equal to net asset value
+ Percentage Of Monthly Management Fee Equal To Net Asset Value
+ Percentage Of Monthly Management Fee Equal To Net Asset Value
+
+ Concentration Risk Benchmark [Domain]
+ Concentration Risk Benchmark [Domain]
+
+ Percentage of estimated realizable tax benefit to be paid by corporate taxpayers on exchange transactions
+ Percentage Of Estimated Realizable Tax Benefit To Be Paid By Corporate Taxpayers On Exchange Transactions
+ Percentage of estimated realizable tax benefit to be paid by corporate taxpayers on exchange transactions.
+
+ Auditor Firm ID
+ Auditor Firm ID
+
+ Effective income tax rate
+ Effective income tax rate
+ Effective Income Tax Rate Reconciliation, Percent
+
+ Variable Rate [Domain]
+ Variable Rate [Domain]
+
+ Number of reportable segments
+ Number of Reportable Segments
+
+ Total liabilities and equity
+ Liabilities and Equity
+
+ Other adjustments
+ Other Adjustments Expenses
+ Other Adjustments Expenses
+
+ Dividends
+ Dividends
+
+ Subsequent Events
+ Subsequent Events [Text Block]
+
+ Rule 10b5-1 Arrangement Terminated
+ Rule 10b5-1 Arrangement Terminated [Flag]
+
+ Fair Value Hierarchy and NAV [Axis]
+ Fair Value Hierarchy and NAV [Axis]
+
+ Transportation
+ Transportation [Member]
+ Transportation
+
+ Percentage of income allocated under partnership investment
+ Percentage Of Income Allocated Under Partnership Investment
+ Percentage of income allocated under partnership investment.
+
+ Interest income from investments
+ Investment Income, Interest
+
+ Performance allocations, carry funds, percentage (percent)
+ Percentage Of Carried Interest Income Allocated To Partnership For Various Funds
+ Percentage Of Carried Interest Income Allocated To Partnership For Various Funds
+
+ Total assets of the CLOs
+ Assets of Collateralized Loan Obligations [Member]
+ Assets of Collateralized Loan Obligations [Member]
+
+ Non-cash performance allocations and incentive fees, net
+ Non-cash performance allocations and incentive fees
+ Non-Cash Performance Allocations And Incentive Fees Gain (Loss)
+ Non-Cash Performance Allocations And Incentive Fees Gain (Loss)
+
+ Industry Sector [Axis]
+ Industry Sector [Axis]
+
+ Underlying Security Market Price Change
+ Underlying Security Market Price Change, Percent
+
+ Measurement Input Type [Axis]
+ Measurement Input Type [Axis]
+
+ Supplemental results of operations
+ Supplemental Results Of Operations [Table Text Block]
+ Tabular disclosure of supplemental results of operations information that illustrates the consolidating effects of the consolidated funds.
+
+ Individual:
+ Individual [Axis]
+
+ Euribor
+ Euribor Future [Member]
+
+ Accumulated Other Comprehensive Income (Loss)
+ AOCI Attributable to Parent [Member]
+
+ Product and Service [Axis]
+ Product and Service [Axis]
+
+ Property, Plant and Equipment [Line Items]
+ Property, Plant and Equipment [Line Items]
+
+ Statement [Line Items]
+ Statement [Line Items]
+
+ Measurement Input Type [Domain]
+ Measurement Input Type [Domain]
+
+ CLO Term Loan July 2021 Maturing July 15, 2034
+ CLO Term Loan July 2021 Maturing July 15, 2034 [Member]
+ CLO Term Loan July 2021 Maturing July 15, 2034
+
+ Reconciliation of income before provision for income taxes
+ Reconciliation Of Income Before Provision For Income Taxes [Table Text Block]
+ Tabular disclosure of the reconciliation of income before taxes to economic net income, fee related earnings and distributable earnings.
+
+ Fair value, asset, recurring basis, unobservable input reconciliation, gain (loss), statement of income or comprehensive income
+ Fair Value, Asset, Recurring Basis, Unobservable Input Reconciliation, Gain (Loss), Statement of Income or Comprehensive Income [Extensible Enumeration]
+
+ Compensation Actually Paid vs. Total Shareholder Return
+ Compensation Actually Paid vs. Total Shareholder Return [Text Block]
+
+ Sublease income
+ Sublease Income
+
+ Non-cash principal investment (income) loss
+ Non-cash principal investment income
+ Non-Cash Principal Investment (Income) Loss
+ Non-Cash Principal Investment (Income) Loss
+
+ Percentage of fee related earnings
+ Revenue From Contract With Customer, As A Percentage Of Fee Related Earnings
+ Revenue From Contract With Customer, As A Percentage Of Fee Related Earnings
+
+ Balance, beginning of period
+ Balance, end of period
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability Value
+
+ Cash and Cash Equivalents Held at Consolidated Funds
+ Cash And Cash Equivalents Held At Consolidated Funds Policy [Policy Text Block]
+ Disclosure of accounting policy for cash and cash equivalents held at consolidated funds and includes a statement that these cash and cash equivalents are not available to fund the general liquidity needs of the partnership.
+
+ Ownership percentage acquired
+ Equity Method Investment, Ownership Percentage Acquired
+ Equity Method Investment, Ownership Percentage Acquired
+
+ Derivative Instruments
+ Derivatives, Policy [Policy Text Block]
+
+ Master Credit Agreements - Term Loans
+ Master Credit Agreements - Term Loans [Member]
+ Master Credit Agreements - Term Loans
+
+ Credit Losses
+ Credit Loss, Financial Instrument [Policy Text Block]
+
+ Gains (losses) from investments of Consolidated Funds
+ Realized Unrealized Gain (Loss) From Investments Of Consolidated Funds
+ Realized unrealized gains (losses) from investments of consolidated funds.
+
+ Changes in Level III financial assets measured at fair value
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Table Text Block]
+
+ Asia-Pacific
+ Asia Pacific [Member]
+
+ Condensed Cash Flow Statement [Table]
+ Condensed Cash Flow Statement [Table]
+
+ Minimum
+ Minimum [Member]
+
+ Consolidated Funds
+ Consolidated Entities
+ Reportable Legal Entities [Member]
+
+ Adoption Date
+ Trading Arrangement Adoption Date
+
+ Related Party Transactions [Abstract]
+ Related Party Transactions [Abstract]
+
+ Accrued bonuses
+ Accrued Bonuses
+
+ Schedule of equity method investment summarized income statement
+ Equity Method Investment Summarized Income Statement Information [Table Text Block]
+ Equity method investment summarized income statement information table text block.
+
+ Extension period for fund closing
+ Extension Period For Fund Closing
+ Extension period for fund closing.
+
+ Foreign currency translation adjustments, income tax (benefit) expense
+ Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Tax
+
+ Variable Interest Entity [Line Items]
+ Variable Interest Entity [Line Items]
+
+ Contingent Obligations Giveback
+ Contingent Obligations Giveback [Member]
+ Contingent obligations giveback.
+
+ Other
+ Measurement Input, Market Yields [Member]
+ Measurement Input, Market Yields
+
+ Period of time for which management fees will be received by partners from the initial closing date
+ Period For Management Fees Received By Partners From Initial Closing Date
+ Period of time for which management fees will be received by partners from initial closing date.
+
+ 4.625% Subordinated Notes Due 5/15/2061
+ Subordinated Notes 4.625% Due 2061 [Member]
+ Subordinated Notes 4.625% Due 2061
+
+ Segments [Axis]
+ Segments [Axis]
+
+ Shares issued for performance allocations (in shares)
+ Shares Issued, Shares, Share-Based Payment Arrangement, before Forfeiture
+
+ Change in Fair Value as of Vesting Date of Prior Year Equity Awards Vested in Covered Year
+ Change in Fair Value as of Vesting Date of Prior Year Equity Awards Vested in Covered Year [Member]
+
+ Statutory U.S. federal income tax rate
+ Effective Income Tax Rate Reconciliation, at Federal Statutory Income Tax Rate, Percent
+
+ Summary of quantitative information about Level III inputs
+ Schedule Of Quantitative Information About Partnership Level Three Inputs Table [Table Text Block]
+ Schedule Of Quantitative Information About Partnership Level Three Inputs Table
+
+ Borrowing Outstanding
+ Borrowing Outstanding
+ Long-Term Debt, Gross
+
+ Distribution received
+ Proceeds from Equity Method Investment, Distribution, Return of Capital
+
+ Exercise Price
+ Award Exercise Price
+
+ Schedule of tax effects of temporary differences
+ Schedule of Deferred Tax Assets and Liabilities [Table Text Block]
+
+ Arrangement Duration
+ Trading Arrangement Duration
+
+ Operating loss carry forward
+ Operating Loss Carryforwards
+
+ Senior notes percentage of par value
+ Debt Instrument Percent To Par Value
+ Debt instrument percent to par value.
+
+ Intangible Assets and Goodwill
+ Goodwill and Intangible Assets Disclosure [Text Block]
+
+ Variable Interest Entity [Table]
+ Variable Interest Entity [Table]
+
+ Changes in unrealized gains (losses) included in other comprehensive income related to financial assets still held at the reporting date
+ Fair Value, Asset, Recurring Basis, Still Held, Unrealized Gain (Loss), OCI
+
+ Investments, including accrued performance allocations of $7,053.5 and $6,169.9 as of December 31, 2024 and 2023, respectively
+ Investments
+ Total
+ Investments, including accrued performance allocations of $7,053.5
+ Investments
+
+ Schedule of Earnings Per Share, Diluted, by Common Class, Including Two Class Method [Table]
+ Earnings Per Share, Diluted, by Common Class, Including Two-Class Method [Table]
+
+ Unrealized performance and fee related performance revenues
+ Unrealized Gain (Loss) On Performance Revenues and Fees
+ Unrealized Gain (Loss) On Performance Revenues and Fees
+
+ Material Terms of Trading Arrangement
+ Material Terms of Trading Arrangement [Text Block]
+
+ CLO Term Loan June 2017
+ CLO Term Loan June 2017 [Member]
+ CLO Term Loan June 2017
+
+ Investments in CLOs
+ Investments In Collateralized Loan Obligation [Member]
+ Investments In Collateralized Loan Obligation
+
+ 2028
+ Finite-Lived Intangible Asset, Expected Amortization, Year Four
+
+ All Individuals
+ All Individuals [Member]
+
+ Senior and Subordinated Notes
+ Senior And Subordinated Notes [Member]
+ Senior And Subordinated Notes
+
+ CLO Term Loan March 2021
+ CLO Term Loan March 2021 [Member]
+ CLO Term Loan March 2021 [Member]
+
+ Comprehensive income attributable to non-controlling interests in consolidated entities
+ Comprehensive Income (Loss), Net Of Tax, Attributable To Noncontrolling Interest In Consolidated Entities
+ Comprehensive Income (Loss), Net Of Tax, Attributable To Noncontrolling Interest In Consolidated Entities
+
+ Variable Rate [Axis]
+ Variable Rate [Axis]
+
+ Income Tax Disclosure [Abstract]
+ Income Tax Disclosure [Abstract]
+
+ Fair Value
+ Debt Instrument, Fair Value Disclosure
+
+ Other non-operating (income) expenses
+ Other non-operating (income) expenses
+ Other Nonoperating Income (Expense)
+
+ Carlyle Secured Lending, Inc.
+ Carlyle Secured Lending, Inc. [Member]
+ Carlyle Secured Lending, Inc.
+
+ Performance allocations included in revenues
+ Performance Fees [Table Text Block]
+ Tabular disclosure of the components of performance fee revenues by reportable segment.
+
+ Global Credit
+ Global Credit Segment [Member]
+ Global Credit Segment [Member]
+
+ Non-Carlyle interests in Consolidated Funds
+ Non Carlyle Interests In Consolidated Funds [Member]
+ Non-Carlyle interests in consolidated funds.
+
+ Unrealized principal investment income (loss)
+ Unrealized Principal Investment Income (Loss)
+ Unrealized Principal Investment Income (Loss)
+
+ Loans payable of Consolidated Funds
+ Loans Payable, Fair Value Disclosure
+
+ Change in accrued compensation and benefits
+ Increase (Decrease) in Accrued Salaries
+
+ Business Services
+ Business Services [Member]
+ Business Services
+
+ Issuance of common shares related to the acquisition of CBAM and Abingworth
+ Stock Issued
+
+ CLO Term Loan February 2022 Maturing November 10, 2035
+ CLO Term Loan February 2022 Maturing November 10, 2035 [Member]
+ CLO Term Loan February 2022 Maturing November 10, 2035
+
+ Related Party [Domain]
+ Related and Nonrelated Parties [Domain]
+
+ Other
+ Other Employee-related Liabilities
+
+ Purchase price adjustment, payable upon inability to make distribution
+ Payments For Equity Method Investment, Deferred Purchase Price
+ Payments For Equity Method Investment, Deferred Purchase Price
+
+ Liability Class [Axis]
+ Liability Class [Axis]
+
+ Guarantor obligations, current carrying value
+ Guarantor Obligations, Current Carrying Value
+
+ Treasury Rate
+ Treasury Rate [Member]
+ Treasury Rate [Member]
+
+ Deferred tax liabilities
+ Deferred Income Tax Liabilities, Net
+
+ Reversed unrealized income
+ Net change in unrealized gains (losses)
+ Unrealized Gain (Loss) on Investments
+
+ Management Fee Related Revenues
+ Management Fee Related Revenues [Member]
+ Management fee related revenues.
+
+ Volatility rate
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Fair Value Assumptions, Expected Volatility Rate
+
+ Discounted Cash Flow with Consensus Pricing
+ Valuation Technique, Discounted Cash Flow With Consensus Pricing [Member]
+ Valuation Technique, Discounted Cash Flow With Consensus Pricing
+
+ Valuation Approach and Technique [Axis]
+ Valuation Approach and Technique [Axis]
+
+ Shares repurchased (in shares)
+ Shares repurchased (in shares)
+ Stock Repurchased During Period, Shares
+
+ Performance service period
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Award Requisite Service Period
+
+ Windfall deduction
+ Effective Income Tax Rate Reconciliation, Deduction, Percent
+
+ Statement of Partners' Capital [Abstract]
+ Statement of Partners' Capital [Abstract]
+
+ Acquired contractual rights
+ Finite-Lived Contractual Rights, Gross
+
+ Issuable common shares and performance-vesting restricted stock units
+ Common Stock And Performance Vesting Restricted Stock Units [Member]
+ Common Stock And Performance Vesting Restricted Stock Units
+
+ Software & Services
+ Software and Services [Member]
+ Software and Services
+
+ Purchase price adjustment, maximum
+ Equity Method Investment, Required Dividend Distribution, Purchase Price Adjustment, Maximum
+ Equity Method Investment, Required Dividend Distribution Purchase Price Adjustment, Maximum
+
+ Defined benefit plans, net
+ Other Comprehensive (Income) Loss, Defined Benefit Plan, after Reclassification Adjustment, after Tax
+
+ Federal income tax
+ Deferred Federal Income Tax Expense (Benefit)
+
+ Components of accrued compensation and benefits
+ Schedule of Accrued Liabilities [Table Text Block]
+
+ Cash and Cash Equivalents
+ Cash and Cash Equivalents, Policy [Policy Text Block]
+
+ Impairment of intangible assets
+ Impairment of Intangible Assets, Finite-Lived
+
+ Accrued performance allocations and related compensation not yet paid
+ Accrued Performance Allocations And Related Compensation Not Yet Paid
+ Accrued Performance Allocations And Related Compensation Not Yet Paid
+
+ Commitments and Contingencies
+ Commitments and Contingencies Disclosure [Text Block]
+
+ Non-Carlyle interests in majority-owned subsidiaries
+ Non Carlyle Majority Owned Subsidiaries [Member]
+ Non-Carlyle majority owned subsidiaries.
+
+ Thereafter
+ Finite-Lived Intangible Asset, Expected Amortization, after Year Five
+
+ CLO Term Loan October 2021 Maturing October 2035
+ CLO Term Loan October 2021 Maturing October 2035 [Member]
+ CLO Term Loan October 2021 Maturing October 2035
+
+ Measure:
+ Measure [Axis]
+
+ Net shares issued for equity-based awards
+ Shares Issued, Value, Share-Based Payment Arrangement, after Forfeiture
+
+ Additions based on tax positions related to current year
+ Unrecognized Tax Benefits, Increase Resulting from Current Period Tax Positions
+
+ Investments [Abstract]
+ Investments [Abstract]
+
+ Notes receivable and accrued interest from affiliates
+ Notes Receivable And Accrued Interest From Affiliates
+ Notes receivable and accrued interest from affiliates.
+
+ Entity Emerging Growth Company
+ Entity Emerging Growth Company
+
+ Income Tax, Examination [Table]
+ Income Tax, Examination [Table]
+
+ Total Liabilities
+ Fair value of liabilities
+ Liabilities, Fair Value Disclosure
+
+ Fair value, liability, recurring basis, unobservable input reconciliation, gain (loss), statement of income or comprehensive income
+ Fair Value, Liability, Recurring Basis, Unobservable Input Reconciliation, Gain (Loss), Statement of Income or Comprehensive Income [Extensible Enumeration]
+
+ Conversion of units, deferred consideration obligation, discount
+ Termination Of Tax Receivable Agreement, Obligation, Discount
+ Termination Of Tax Receivable Agreement, Obligation, Discount
+
+ Proceeds from the sale of investments
+ Proceeds from Sale of Securities, Operating Activities
+
+ CLO Term Loan September 2020 Maturing April 2033
+ CLO Term Loan Effective September 2020 Maturing April 2033 [Member]
+ CLO Term Loan Effective September 2020 Maturing April 2033
+
+ Non-GAAP Measure Description
+ Non-GAAP Measure Description [Text Block]
+
+ Equity Component [Domain]
+ Equity Component [Domain]
+
+ Securities transferred to counterparties under repurchase agreements
+ Securities Sold under Agreements to Repurchase
+
+ Reconciliation of cash, cash equivalents and restricted cash, end of period:
+ Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents [Abstract]
+
+ Carrying Value
+ Notes and Loans Payable
+
+ Interest and other income
+ Interest income
+ Interest and Dividend Income, Operating
+
+ Floor rate
+ Loans Receivable, Related Party, Floor Rate
+ Loans Receivable, Related Party, Floor Rate
+
+ Unbilled receivable for giveback obligations from current and former employees
+ GIveback Obligations [Member]
+ GIveback Obligations
+
+ Additional 402(v) Disclosure
+ Additional 402(v) Disclosure [Text Block]
+
+ Non-controlling interest in carried interest, giveback obligations and cash held for carried interest distributions
+ Carried Interest And Cash Held For Carried Interest Distributions [Member]
+ Carried interest and cash held for carried interest distributions.
+
+ Entity Shell Company
+ Entity Shell Company
+
+ Dividend rate, payable in shares, percentage
+ Preferred Stock, Dividend Rate, Payable In Shares, Percentage
+ Preferred Stock, Dividend Rate, Payable In Shares, Percentage
+
+ Entity Incorporation, State or Country Code
+ Entity Incorporation, State or Country Code
+
+ Accumulated Other Comprehensive Income (Loss)
+ Comprehensive Income, Policy [Policy Text Block]
+
+ Fee Related Earnings
+ Fee Related Earnings
+ Fee Related Earnings
+ Reflects the ability of the business to cover direct base compensation and operating expenses from fee revenues other than performance fees.
+
+ Guarantor Obligations, Nature [Axis]
+ Guarantor Obligations, Nature [Axis]
+
+ Valuation Allowance For State NOL
+ Valuation Allowance For State Net Operating Loss Carryforward [Member]
+ Valuation Allowance For State Net Operating Loss Carryforward
+
+ Statement [Table]
+ Statement [Table]
+
+ Interest Expense
+ Interest Expense, Debt
+
+ Accounts payable, accrued expenses and other liabilities
+ Accounts Payable and Accrued Liabilities
+
+ Counterparty Name [Axis]
+ Counterparty Name [Axis]
+
+ Summary of Significant Accounting Policies
+ Significant Accounting Policies [Text Block]
+
+ Assets recognized in consolidated balance sheets related to non-consolidated VIEs
+ Schedule of Variable Interest Entities [Table Text Block]
+
+ Consolidation Items [Domain]
+ Consolidation Items [Domain]
+
+ Settlements
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Settlements
+
+ Segment Revenues
+ Segment Reporting Information, Revenue for Reportable Segment [Abstract]
+
+ Cash paid for interest
+ Interest Paid, Excluding Capitalized Interest, Operating Activities
+
+ Change in due to/from affiliates financing activities
+ Change In Due To (From) Affiliates Financing Activities
+ Change in due to/from affiliates financing activities.
+
+ Concentration Risk Benchmark [Axis]
+ Concentration Risk Benchmark [Axis]
+
+ Level I
+ Fair Value, Inputs, Level 1 [Member]
+
+ Foreign currency translation adjustments, net of income tax (benefit) expense of $(11.8), $10.9 and $(16.0) for the years ended December 31, 2024, 2023 and 2022, respectively
+ Currency translation adjustments
+ Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax
+
+ Statement of Cash Flows [Abstract]
+ Statement of Cash Flows [Abstract]
+
+ Senior Notes
+ Senior Notes [Member]
+
+ Discount Margins
+ Measurement Input, Discount Margin [Member]
+ Measurement Input, Discount Margin [Member]
+
+ Accrued compensation
+ Deferred Tax Assets, Tax Deferred Expense, Compensation and Benefits, Employee Compensation
+
+ Accrued performance allocations
+ Accrued Performance Based Capital Allocation
+ Accrued Performance Based Capital Allocation
+
+ Schedule of Long-term Debt Instruments [Table]
+ Schedule of Long-Term Debt Instruments [Table]
+
+ Assets
+ Financial Instruments, Financial Assets, Balance Sheet Groupings [Abstract]
+
+ One time charge to incremental expense
+ Performance Fee Expense, Employee Compensation
+ Performance Fee Expense, Employee Compensation
+
+ Accumulated Other Comprehensive Income (Loss) [Table]
+ Accumulated Other Comprehensive Income (Loss) [Table]
+
+ Entity Well-known Seasoned Issuer
+ Entity Well-known Seasoned Issuer
+
+ Total
+ Stock Repurchased and Retired During Period, Value
+
+ Foreign income taxes
+ Effective Income Tax Rate Reconciliation Foreign Income Taxes
+ Effective income tax rate reconciliation foreign income taxes.
+
+ Income Taxes
+ Income Tax Disclosure [Text Block]
+
+ Due from affiliates and other receivables of Consolidated Funds, net
+ Other Receivables, Net, Current, Consolidated Funds
+ For an unclassified balance sheet, amount of receivables due from an entity that is affiliated with the reporting entities' consolidated funds and other consolidated entities by means of direct or indirect ownership.
+
+ 2028
+ Lessee, Operating Lease, Liability, to be Paid, Year Four
+
+ Discounted Cash Flow
+ Valuation Technique, Discounted Cash Flow [Member]
+
+ Net Investment Income [Line Items]
+ Net Investment Income [Line Items]
+
+ Repayments under credit facilities
+ Repayments of Long-Term Lines of Credit
+
+ Portfolio advisory and transaction fees, net and other
+ Investment Advice [Member]
+
+ Transaction and portfolio advisory fee, rebate offset percentage
+ Transaction And Portfolio Advisory Fee, Rebate Offset Percentage
+ Transaction And Portfolio Advisory Fee, Rebate Offset Percentage
+
+ Organization, Consolidation and Presentation of Financial Statements [Abstract]
+ Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+ Weighted-average discount rate
+ Operating Lease, Weighted Average Discount Rate, Percent
+
+ Included in other comprehensive income
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Gain (Loss) Included in Other Comprehensive Income (Loss)
+
+ Net cash provided by (used in) financing activities
+ Net Cash Provided by (Used in) Financing Activities
+
+ Equity capital raised
+ Proceeds from Sale of Equity Method Investments
+
+ Aviation subordinated notes
+ Aviation Subordinated Notes [Member]
+ Aviation Subordinated Notes [Member]
+
+ Realized net performance revenues
+ Realized performance revenues, net of related compensation
+ Net performance revenues
+ Net Performance Fees
+ Represents the amount of total performance fee revenue less performance fee-related compensation expense.
+
+ Credit Facility [Axis]
+ Credit Facility [Axis]
+
+ Percentage of management fees from funds of funds following the expiration of the weighted average investment period
+ Percentage Of Management Fees Following Expiration Of Commitment Fee Period
+ Percentage Of Management Fees Following Expiration Of Commitment Fee Period
+
+ Entity Registrant Name
+ Entity Registrant Name
+
+ 4.625% Subordinated Notes Due 5/15/2061
+ Subordinated Notes Due May 2061 [Member]
+ Subordinated Notes Due May 2061
+
+ Adjustment to Non-PEO NEO Compensation Footnote
+ Adjustment to Non-PEO NEO Compensation Footnote [Text Block]
+
+ Depreciation and amortization
+ Depreciation, Depletion and Amortization
+
+ Equity Method Investment, Nonconsolidated Investee or Group of Investees
+ Equity Method Investment, Nonconsolidated Investee or Group of Investees [Member]
+
+ State and local income tax
+ Deferred State and Local Income Tax Expense (Benefit)
+
+ Fair Value as of Grant Date
+ Award Grant Date Fair Value
+
+ Customer Concentration Risk
+ Customer Concentration Risk [Member]
+
+ Affiliates
+ Affiliated Entity [Member]
+
+ Unrealized net income (loss) for the period, net of income tax (benefit) expense of $0.9, $(1.3) and $4.6 for the years ended December 31, 2024, 2023 and 2022, respectively
+ Other Comprehensive (Income) Loss, Defined Benefit Plan, before Reclassification Adjustment, after Tax
+
+ Level II
+ Fair Value, Inputs, Level 2 [Member]
+
+ Performance revenues
+ Performance Fee Revenue [Member]
+ Performance Fee Revenue [Member]
+
+ Geographical [Domain]
+ Geographical [Domain]
+
+ Principles of Consolidation
+ Consolidation, Policy [Policy Text Block]
+
+ Restatement Determination Date:
+ Restatement Determination Date [Axis]
+
+ Unrealized principal investment income (loss)
+ Principal Investment Income (Loss) Unrealized [Member]
+ Principal Investment Income (Loss) Unrealized [Member]
+
+ Title of 12(b) Security
+ Title of 12(b) Security
+
+ Concentration Risk Type [Axis]
+ Concentration Risk Type [Axis]
+
+ Common stock, $0.01 par value, 100,000,000,000 shares authorized (357,183,632 and 361,326,172 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively)
+ Common stock
+ Common Stock, Value, Issued
+
+ Document Financial Statement Error Correction [Flag]
+ Document Financial Statement Error Correction [Flag]
+
+ Senior Professionals
+ Senior Professionals [Member]
+ Senior Professionals
+
+ Share-based Payment Arrangement [Abstract]
+ Share-Based Payment Arrangement [Abstract]
+
+ Loans payable of Consolidated Funds
+ Loan Payable To Affiliate Of Consolidated Funds
+ Including the current and noncurrent portions, aggregate carrying value as of the balance sheet date of loans payable held at consolidated funds and other consolidated entities.
+
+ Percentage of management fees for business development companies
+ Annual Management Fee Rate For Business Development Companies
+ Percentage of management fees for business development companies based on average daily gross assets, excluding cash and cash equivalents.
+
+ Shares issued related to the acquisition of CBAM and Abingworth
+ Stock Issued During Period, Value, Acquisitions
+
+ Shares issued related to the acquisition of CBAM and Abingworth (in shares)
+ Stock Issued During Period, Shares, Acquisitions
+
+ Cash-based compensation and benefits
+ Salary and Wage, NonOfficer, Excluding Cost of Good and Service Sold
+
+ State and local income taxes
+ Effective Income Tax Rate Reconciliation, State and Local Income Taxes, Percent
+
+ Other
+ Deferred Tax Assets, Other
+
+ Finite-Lived Intangible Assets [Line Items]
+ Finite-Lived Intangible Assets [Line Items]
+
+ Amount of net accrued giveback obligation of subsidiary
+ Amount Of Net Accrued Giveback Obligation Of Subsidiary
+ Amount represents the net accrued giveback obligation attributable to Carlyle Holdings
+
+ Fair Value by Liability Class [Domain]
+ Fair Value by Liability Class [Domain]
+
+ Cash flows from financing activities
+ Net Cash Provided by (Used in) Financing Activities [Abstract]
+
+ Percentage of assets by geographic regions
+ Percentage Of Assets By Geographic Regions
+ Percentage of assets by geographic regions.
+
+ Performance-Vesting Restricted Stock Units
+ Performance-Vesting Restricted Stock Units [Member]
+ Performance-Vesting Restricted Stock Units
+
+ Total deferred tax liabilities
+ Deferred Tax Liabilities, Gross
+
+ Valuation Approach and Technique [Domain]
+ Valuation Approach and Technique [Domain]
+
+ Basic (in dollars per share)
+ Net income (loss) per common share (in dollars per share)
+ Earnings Per Share, Basic
+
+ Cash paid for amounts included in the measurement of operating lease liabilities
+ Operating Lease, Payments
+
+ Award Timing MNPI Disclosure
+ Award Timing MNPI Disclosure [Text Block]
+
+ Subsequent period in which management fees are recognized after these fees are called semi-annually fees in advance
+ Subsequent Period Management Fees Recognized After Called
+ Period of time subsequent to being called that management fees are recognized as earned.
+
+ Loans Payable Of Consolidated Funds
+ Loans Payable Of Consolidated Funds [Member]
+ Loans Payable Of Consolidated Funds
+
+ Aggregate Pension Adjustments Service Cost
+ Aggregate Pension Adjustments Service Cost [Member]
+
+ Goodwill [Table]
+ Goodwill [Table]
+
+ Fixed Assets
+ Property, Plant and Equipment, Policy [Policy Text Block]
+
+ Adjustments related to expenses associated with investments in NGP Management and its affiliates
+ Equity Method Investments, Expenses
+ Equity Method Investments, Expenses
+
+ CLO Term Loan July 2021 Maturing July 20, 2031
+ CLO Term Loan July 2021 Maturing July 20, 2031 [Member]
+ CLO Term Loan July 2021 Maturing July 20, 2031
+
+ Schedule of performance allocations and incentive fee related compensation
+ Schedule Of Performance Allocations And Incentive Fee Expense [Table Text Block]
+ Schedule Of Performance Allocations And Incentive Fee Expense [Table Text Block]
+
+ CLO Term Loan July 2022 Maturing January 13, 2035
+ CLO Term Loan July 2022 Maturing January 13, 2035 [Member]
+ CLO Term Loan July 2022 Maturing January 13, 2035
+
+ 2025
+ Finite-Lived Intangible Asset, Expected Amortization, Year One
+
+ Unrealized income (loss) for the period, income tax (benefit) expense
+ Other Comprehensive (Income) Loss, Defined Benefit Plan, before Reclassification Adjustment, Tax
+
+ Outstanding borrowing
+ Long-Term Line of Credit
+
+ Partners capital
+ Partners' Capital
+
+ Equity Method Investment, Nonconsolidated Investee [Domain]
+ Equity Method Investment, Nonconsolidated Investee [Domain]
+
+ Awards granted (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Grants in Period
+
+ Change in ownership of a Consolidated Entity
+ Noncontrolling Interest, Increase from Subsidiary Equity Issuance
+
+ Total
+ Realized Unrealized Gains (Losses) From Investments Of Consolidated Funds
+ Realized unrealized gains loss from investments of consolidated funds.
+
+ CLO Term Loan Various
+ CLO Term Loan Various [Member]
+ CLO Term Loan Various
+
+ Total revenues
+ Revenues
+ Share of total revenues
+ Revenues
+
+ Deconsolidation of Consolidated Entities
+ Noncontrolling Interest, Decrease from Deconsolidation
+
+ Equity-Based Compensation
+ Share-Based Payment Arrangement [Text Block]
+
+ Sales
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Sales
+
+ Fund management fees
+ Fund Management Fee [Member]
+ Fund Management Fee [Member]
+
+ Assets of the CLOs - Loans
+ Assets of Collateralized Loan Obligations, Loans [Member]
+ Assets of Collateralized Loan Obligations, Loans [Member]
+
+ Partnership and LLC interests
+ Partnership And LLC Interests [Member]
+ Partnership And LLC Interests
+
+ Entity Address, City or Town
+ Entity Address, City or Town
+
+ Distributable Earnings
+ Distributable Earnings
+ Reflects the amount of net realized earnings without the effects of consolidation of the consolidated funds. Represents economic net income less net performance fees and investment income plus realized net performance fees and realized investment income.
+
+ Leases
+ Lessee, Leases [Policy Text Block]
+
+ Supplemental non-cash disclosures
+ Supplemental Noncash Transactions [Abstract]
+ Supplemental noncash transactions.
+
+ Partner Type [Axis]
+ Partner Type [Axis]
+
+ Equity-based compensation expense
+ Share-Based Payment Arrangement, Expense
+
+ Accrued penalties and interest expense
+ Unrecognized Tax Benefits, Income Tax Penalties and Interest Expense
+
+ Forfeited (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Forfeited in Period
+
+ Business Acquisition [Axis]
+ Business Acquisition [Axis]
+
+ Common shares issued for performance allocations
+ Proceeds, Issuance of Shares, Share-Based Payment Arrangement, Excluding Option Exercised
+
+ Dividends or Other Earnings Paid on Equity Awards not Otherwise Reflected in Total Compensation for Covered Year
+ Dividends or Other Earnings Paid on Equity Awards not Otherwise Reflected in Total Compensation for Covered Year [Member]
+
+ Lease right-of-use assets
+ Deferred Tax Liabilities, Leasing Arrangements
+
+ Document Fiscal Year Focus
+ Document Fiscal Year Focus
+
+ Debt Instrument, Name [Domain]
+ Debt Instrument, Name [Domain]
+
+ Subtotal
+ Fair value of assets
+ Assets, Fair Value Disclosure
+
+ Foreign income
+ Income (Loss) from Continuing Operations before Income Taxes, Foreign
+
+ 2029
+ Finite-Lived Intangible Asset, Expected Amortization, Year Five
+
+ Document Period End Date
+ Document Period End Date
+
+ Contributions from non-controlling interest holders
+ Proceeds from Noncontrolling Interests
+
+ Base Rate
+ Base Rate [Member]
+
+ Total lease payments
+ Lessee, Operating Lease, Liability, to be Paid
+
+ Schedule of funded status
+ Schedule of Net Funded Status [Table Text Block]
+
+ Beginning balance (in shares)
+ Ending balance (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Nonvested, Number
+
+ Insider Trading Arrangements [Line Items]
+
+ Reconciling Items
+ Segment Reporting, Reconciling Item, Excluding Corporate Nonsegment [Member]
+
+ 2027
+ Lessee, Operating Lease, Liability, to be Paid, Year Three
+
+ Shares retired in connection with the net share settlement of equity-based awards
+ Stock Retired During Period, Value
+ Stock Retired During Period, Value
+
+ Document Transition Report
+ Document Transition Report
+
+ Schedule of reconciliation on the beginning and ending amount of unrecognized tax benefits
+ Schedule of Unrecognized Tax Benefits Roll Forward [Table Text Block]
+
+ Amount of realized and distributed carried interest subject to potential giveback on after-tax basis, responsibility of current and former senior Carlyle professionals
+ Amount Of Realized And Distributed Carried Interest Of Potential Giveback On After Tax Basis, Responsibility Of Third Parties
+ Amount Of Realized And Distributed Carried Interest Of Potential Giveback On After Tax Basis, Responsibility Of Third Parties
+
+ Customer [Domain]
+ Customer [Domain]
+
+ Fair Value, Recurring and Nonrecurring [Table]
+ Fair Value, Recurring and Nonrecurring [Table]
+
+ Entity Current Reporting Status
+ Entity Current Reporting Status
+
+ Retained Earnings (Deficit)
+ Retained Earnings [Member]
+
+ Principal investments in NGP funds
+ NGP Funds [Member]
+ NGP Funds [Member]
+
+ Other non-cash amounts of Consolidated Funds
+ Other Non-Cash Consolidated Funds
+ Amount represents other non-cash items related to the Consolidated Funds
+
+ Hardware
+ Hardware [Member]
+ Hardware
+
+ Incentive fees
+ Incentive Fee [Member]
+ Incentive Fee [Member]
+
+ Restricted Stock Units
+ Restricted Stock Units (RSUs) [Member]
+
+ Increase (Decrease) in Stockholders' Equity [Roll Forward]
+ Increase (Decrease) in Stockholders' Equity [Roll Forward]
+
+ Executive Category:
+ Executive Category [Axis]
+
+ Schedule of provision for income taxes
+ Schedule of Components of Income Tax Expense (Benefit) [Table Text Block]
+
+ Payments on CLO borrowings
+ Repayments of Other Long-Term Debt
+
+ Impairment, intangible asset, finite-lived, statement of income or comprehensive income
+ Impairment, Intangible Asset, Finite-Lived, Statement of Income or Comprehensive Income [Extensible Enumeration]
+
+ Company Selected Measure Name
+ Company Selected Measure Name

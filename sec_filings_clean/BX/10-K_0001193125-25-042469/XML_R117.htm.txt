@@ -1,0 +1,1163 @@
+XML
+146
+R117.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Reconciliation of Total Segments to Reported on the Consolidated Statements of Operations (Detail) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Segment Reporting Information [Line Items]
+
+Revenues
+[1]
+$ (55,402)
+
+$ (8,016)
+
+$ (20,369)
+
+Investment Income Realized Performance Allocations
+
+3,457,746
+
+2,223,841
+
+5,381,640
+
+Realized Performance Revenues
+
+2,135,945
+
+858,527
+
+1,449,497
+
+Compensation
+
+3,048,229
+
+2,785,447
+
+2,569,780
+
+Incentive Fee Compensation
+
+373,586
+
+281,067
+
+207,998
+
+Realized Performance Allocations Compensation
+
+1,432,217
+
+900,859
+
+2,225,264
+
+Realized Performance Revenues
+
+4,421,924
+
+2,919,012
+
+5,906,767
+
+Segment Adjustment
+[2]
+1,052
+
+617
+
+4,068
+
+Total Compensation and Benefits
+
+4,854,032
+
+3,967,373
+
+5,003,042
+
+General, Administrative and Other
+
+1,361,909
+
+1,117,305
+
+1,092,671
+
+General, Administrative and Other
+[3]
+(113,817)
+
+(32,972)
+
+103,648
+
+Investment Income Realized Performance Allocations
+
+3,457,746
+
+2,223,841
+
+5,381,640
+
+Realized Performance Revenues
+
+4,421,924
+
+2,919,012
+
+5,906,767
+
+Realized Performance Compensation
+
+(1,805,803)
+
+(1,181,926)
+
+(2,433,262)
+
+Investment Income Realized
+
+332,258
+
+303,823
+
+850,327
+
+Investment Income Realized
+[4]
+(239,732)
+
+(192,891)
+
+(454,071)
+
+Investment Income Realized
+
+92,526
+
+110,932
+
+396,256
+
+Segment Adjustment
+[5]
+(4,342)
+
+(23,772)
+
+(76,080)
+
+Less: Fee Related Performance Compensation
+[6]
+(838,489)
+
+(273,010)
+
+(609,245)
+
+Total Segment
+
+1,805,803
+
+1,181,926
+
+2,433,262
+
+Management and Advisory Fees, Net
+
+Segment Reporting Information [Line Items]
+
+Revenues
+
+7,188,936
+
+6,671,260
+
+6,303,315
+
+Incentive Fees
+
+Segment Reporting Information [Line Items]
+
+Revenues
+
+964,178
+
+695,171
+
+525,127
+
+Operating Segments
+
+Segment Reporting Information [Line Items]
+
+Revenues
+
+7,133,534
+
+6,663,244
+
+6,282,946
+
+Realized Performance Revenues
+
+2,135,945
+
+858,527
+
+1,449,497
+
+Realized Performance Revenues
+
+2,287,031
+
+2,061,102
+
+4,461,338
+
+Realized Performance Revenues
+
+(2,135,945)
+
+(858,527)
+
+(1,449,497)
+
+General, Administrative and Other
+
+1,248,092
+
+1,084,333
+
+989,023
+
+Realized Performance Revenues
+
+2,287,031
+
+2,061,102
+
+4,461,338
+
+Less: Realized Performance Revenues
+
+(2,287,031)
+
+(2,061,102)
+
+(4,461,338)
+
+Realized Performance Compensation
+
+(951,246)
+
+(896,017)
+
+(1,814,097)
+
+Investment Income Realized
+
+92,526
+
+110,932
+
+396,256
+
+Less: Equity-Based Compensation Fee Related Compensation
+
+(1,143,054)
+
+(946,575)
+
+(772,170)
+
+Less: Equity-Based Compensation Performance Compensation
+
+(16,068)
+
+(12,899)
+
+(9,920)
+
+Total Compensation and Benefits
+
+2,739,322
+
+2,088,110
+
+2,330,775
+
+Less: Equity-Based Compensation Performance Compensation
+
+(16,068)
+
+(12,899)
+
+(9,920)
+
+Total Segment
+
+951,246
+
+896,017
+
+1,814,097
+
+Operating Segments | Management and Advisory Fees, Net
+
+Segment Reporting Information [Line Items]
+
+Revenues
+
+$ 7,133,534
+
+$ 6,663,244
+
+$ 6,282,946
+
+[1]
+Represents (1) the add back of net management fees earned from consolidated Blackstone Funds which have been eliminated in consolidation, and (2) the removal of amounts attributable to the reimbursement of certain expenses by the Blackstone Funds and certain NAV-based fee arrangements, which are presented on a gross basis under GAAP but as a reduction of Management and Advisory Fees, Net in the Total Segment measures.
+
+[2]
+Represents the add back of Performance Revenues earned from consolidated Blackstone Funds which have been eliminated in consolidation.
+
+[3]
+Represents the (1) removal of Transaction-Related and Non-Recurring Items that are not recorded in the Total Segment measures, (2) removal of amounts attributable to certain expenses that are reimbursed by the Blackstone Funds and certain NAV-based fee arrangements, which are presented on a gross basis under GAAP but as a reduction of Management and Advisory Fees, Net in the Total Segment measures, and (3) a reduction equal to an administrative fee collected on a quarterly basis from certain holders of Blackstone Holdings Partnership Units which is accounted for as a capital contribution under GAAP, but is reflected as a reduction of Other Operating Expenses in Blackstone s segment presentation. For the year ended December 31, 2024, this adjustment includes removal of an accrual for liability for a legal matter.
+
+[4]
+Represents (1) the add back of Principal Investment Income, including general partner income, earned from consolidated Blackstone Funds which have been eliminated in consolidation, and (2) the removal of amounts associated with the ownership of Blackstone consolidated operating partnerships held by non-controlling interests.
+
+[5]
+Represents the removal of Transaction-Related and Non-Recurring Items that are not recorded in the Total Segment measures.
+
+[6]
+Fee related performance compensation may include equity-based compensation based on fee related performance revenues.
+
+X
+
+- DefinitionFee related compensation
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedCompensation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee related compensation segment adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedCompensationSegmentAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee Related Performance Compensation Adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedPerformanceCompensationAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee related performance revenues.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedPerformanceRevenues
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionFee Related Performance Revenues Adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FeeRelatedPerformanceRevenuesAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLabor and Related Expense Excluding Performance Allocations Compensation Unrealized.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_LaborAndRelatedExpenseExcludingPerformanceAllocationsCompensationUnrealized
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement and advisory fees net.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ManagementAndAdvisoryFeesNet
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement and advisory fees net segment adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_ManagementAndAdvisoryFeesNetSegmentAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOperation related equity based compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_OperationRelatedEquityBasedCompensation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOther operating expenses.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_OtherOperatingExpenses
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionOther operating expenses segment adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_OtherOperatingExpensesSegmentAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance allocations compensation - realized.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PerformanceAllocationsCompensationRealized
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance allocations, realized.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PerformanceAllocationsRealized
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance Related Equity Based Compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PerformanceRelatedEquityBasedCompensation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPerformance revenue realized.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PerformanceRevenueRealized
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPrincipal investments, realized.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_PrincipalInvestmentsRealized
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized performance compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPerformanceCompensation
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized performance revenues adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPerformanceRevenuesAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized performance revenues segment adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPerformanceRevenuesSegmentAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized principal investment income (loss).
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPrincipalInvestmentIncomeLoss
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRealized principal investment income loss segment adjustment.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_RealizedPrincipalInvestmentIncomeLossSegmentAdjustment
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe aggregate total of expenses of managing and administering the affairs of an entity, including affiliates of the reporting entity, which are not directly or indirectly associated with the manufacture, sale or creation of a product or product line.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
++ Details
+
+ Name:
+us-gaap_GeneralAndAdministrativeExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense for incentive fee based on performance under arrangement to manage operations, including, but not limited to, investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 946
+ -SubTopic 220
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.6-07(2)(b))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479134/946-220-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 850
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483326/850-10-50-1
+
++ Details
+
+ Name:
+us-gaap_IncentiveFeeExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount, excluding tax collected from customer, of revenue from satisfaction of performance obligation by transferring promised good or service to customer. Tax collected from customer is tax assessed by governmental authority that is both imposed on and concurrent with specific revenue-producing transaction, including, but not limited to, sales, use, value added and excise.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 41
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-41
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 270
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482964/270-10-50-1
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (ee)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 4: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 5: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-32
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 924
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 11.L)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479941/924-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-5
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-30
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-42
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 40
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-40
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 280
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 22
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482810/280-10-50-22
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 606
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479806/606-10-50-4
+
++ Details
+
+ Name:
+us-gaap_RevenueFromContractWithCustomerExcludingAssessedTax
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense for salary and wage arising from service rendered by nonofficer employee. Excludes allocated cost, labor-related nonsalary expense, and direct and overhead labor cost included in cost of good and service sold.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 220
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SX 210.5-03(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483621/220-10-S99-2
+
++ Details
+
+ Name:
+us-gaap_SalariesAndWages
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SegmentReportingInformationLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InvestmentAdviceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InvestmentPerformanceMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,196 @@
+XML
+124
+R102.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+DERIVATIVES - Carrying Value of Instruments (Details) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Fair value hedge adjustments on discontinued hedges
+$ 193,300
+
+$ 27,800
+
+Debt
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Carrying Amount of Hedged Liabilities
+2,279,261
+
+1,608,294
+
+Cumulative Amount of Fair Value Hedging Adjustments Included in the Carrying Amount of Hedged Liabilities
+(233,202)
+
+(165,817)
+
+Policy Liabilities
+
+Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+Carrying Amount of Hedged Liabilities
+4,453,766
+
+4,380,048
+
+Cumulative Amount of Fair Value Hedging Adjustments Included in the Carrying Amount of Hedged Liabilities
+$ (204,435)
+
+$ (255,308)
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DerivativeInstrumentsAndHedgingActivitiesDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in fair value of hedged liability in fair value hedge, attributable to hedged risk, remaining after discontinued hedge.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4EE
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4EE
+
++ Details
+
+ Name:
+us-gaap_HedgedLiabilityDiscontinuedFairValueHedgeCumulativeIncreaseDecrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of liability hedged in fair value hedging relationship.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4EE
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4EE
+
++ Details
+
+ Name:
+us-gaap_HedgedLiabilityFairValueHedge
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of cumulative increase (decrease) in fair value of hedged liability in fair value hedge, attributable to hedged risk.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 815
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4EE
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480434/815-10-50-4EE
+
++ Details
+
+ Name:
+us-gaap_HedgedLiabilityFairValueHedgeCumulativeIncreaseDecrease
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=us-gaap_LongTermDebtMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_FairValueByLiabilityClassAxis=kkr_PolicyLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

@@ -1,0 +1,700 @@
+XML
+56
+R27.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Income Taxes
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Income Taxes
+ 14. Income Taxes
+
+ The Income Before Provision for Taxes consists of the following:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Income Before Provision (Benefit) for Taxes
+
+U.S. Domestic Income
+
+$
+
+6,029,702
+
+$
+
+2,577,184
+
+$
+
+3,023,588
+
+Foreign Income
+
+429,778
+
+380,530
+
+438,201
+
+$
+
+ 6,459,480
+
+$
+
+ 2,957,714
+
+$
+
+ 3,461,789
+
+ The Provision for Taxes consists of the following:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Current
+
+Federal Income Tax
+
+$
+
+424,659
+
+$
+
+362,144
+
+$
+
+503,075
+
+Foreign Income Tax
+
+128,757
+
+112,861
+
+75,859
+
+State and Local Income Tax
+
+120,454
+
+186,851
+
+255,421
+
+673,870
+
+661,856
+
+834,355
+
+Deferred
+
+Federal Income Tax
+
+265,749
+
+(94,732
+
+)
+
+(312,961
+
+)
+
+Foreign Income Tax
+
+(471
+
+)
+
+(7,020
+
+)
+
+(3,048
+
+)
+
+State and Local Income Tax
+
+82,523
+
+(46,643
+
+)
+
+(45,466
+
+)
+
+347,801
+
+(148,395
+
+)
+
+(361,475
+
+)
+
+Provision for Taxes
+
+$
+
+ 1,021,671
+
+$
+
+ 513,461
+
+$
+
+ 472,880
+
+ The following table summarizes Blackstone s tax position:
+
+Year Ended December 31,
+
+2024
+
+2023
+
+2022
+
+Income Before Provision for Taxes
+
+$
+
+6,459,480
+
+$
+
+2,957,714
+
+$
+
+3,461,789
+
+Provision for Taxes
+
+$
+
+1,021,671
+
+$
+
+513,461
+
+$
+
+472,880
+
+Effective Income Tax Rate
+
+15.8
+
+%
+
+17.4
+
+%
+
+13.7
+
+%
+
+ The following table reconciles the effective income tax rate to the U.S. federal statutory tax rate:
+
+2024
+
+2023
+
+Year Ended December 31,
+
+vs.
+
+vs.
+
+2024
+
+2023
+
+2022
+
+2023
+
+2022
+
+Statutory U.S. Federal Income Tax Rate
+
+21.0
+
+%
+
+21.0
+
+%
+
+21.0
+
+%
+
+Income Passed Through to Non-Controlling
+ Interest Holders
+
+-9.0
+
+%
+
+-8.2
+
+%
+
+-8.1
+
+%
+
+-0.8
+
+%
+
+-0.1
+
+%
+
+State and Local Income Taxes
+
+2.9
+
+%
+
+4.3
+
+%
+
+6.0
+
+%
+
+-1.4
+
+%
+
+-1.7
+
+%
+
+Basis Adjustment (a)
+
+-4.6
+
+%
+
+4.6
+
+%
+
+Other
+
+0.9
+
+%
+
+0.3
+
+%
+
+-0.6
+
+%
+
+0.6
+
+%
+
+0.9
+
+%
+
+Effective Income Tax Rate
+
+15.8
+
+%
+
+17.4
+
+%
+
+13.7
+
+%
+
+-1.6
+
+%
+
+3.7
+
+%
+
+(a)
+
+Represents the impact of the out-of-period adjustment made during the year ended December 31, 2022 to revise the book investment basis used to calculate deferred tax assets and the deferred tax provision.
+
+ Deferred income taxes reflect the net tax effects of temporary differences that may exist between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes using enacted tax rates in effect for the year in which the differences are expected to reverse. A summary of the tax effects of the temporary differences is as follows:
+
+December 31,
+
+2024
+
+2023
+
+Deferred Tax Assets
+
+Investment Basis Differences/Net Unrealized Gains and Losses
+
+$
+
+1,737,508
+
+$
+
+2,210,974
+
+Other
+
+287,639
+
+120,420
+
+Total Deferred Tax Assets Before Valuation Allowance
+
+2,025,147
+
+2,331,394
+
+Valuation Allowance
+
+(21,199
+
+)
+
+Total Deferred Tax Assets
+
+2,003,948
+
+2,331,394
+
+Deferred Tax Liabilities
+
+Investment Basis Differences/Net Unrealized Gains and Losses
+
+12,282
+
+18,333
+
+Other
+
+1,953
+
+2,163
+
+Total Deferred Tax Liabilities
+
+14,235
+
+20,496
+
+Net Deferred Tax Assets
+
+$
+
+1,989,713
+
+$
+
+2,310,898
+
+ The decrease in the Net Deferred Tax Assets for the year ended December 31, 2024, compared to the year ended December 31, 2023, was primarily due to an out-of-period adjustment Blackstone recorded to correct the allocation of book equity between Additional Paid-In-Capital and Non-Controlling Interests in Blackstone Holdings
+
+related to change in ownership transactions, including repurchases, which had a corresponding impact to the investment basis used to calculate deferred taxes. The cumulative impact of the correction related to prior years resulted in a decrease of $317.1 million in Deferred Tax Assets as of December 31, 2024, with a corresponding increase to Additional Paid-in-Capital as of December 31, 2024. Realization of deferred tax assets depends on the expectation and character of future taxable income. Blackstone has no significant net operating losses carryforward as of December 31, 2024. See Note 15. Earnings Per Share and Stockholders Equity Share Repurchase Program for further information on the out-of-period adjustment.
+
+Blackstone has determined that deferred tax assets recorded during the period related to certain state and local tax credits are not more likely than not to be realized and therefore has established a valuation allowance of $21.2 million as of December 31, 2024.
+
+In evaluating the ability to realize deferred tax assets, Blackstone among other things, considers projections of taxable income (including character of such income), beginning with historic results and incorporating assumptions of the amount of future pretax operating income. These assumptions about future taxable income require significant judgment and are consistent with the plans and estimates that Blackstone uses to manage its business. To the extent any portion of the deferred tax assets are not considered to be more likely than not to be realized, valuation allowances are recorded.
+
+Currently, Blackstone does not believe it meets the indefinite reversal criteria that would preclude Blackstone from recognizing a deferred tax liability with respect to its foreign subsidiaries. Therefore, if applicable Blackstone recorded a deferred tax liability for any outside basis difference of an investment in a foreign subsidiary.
+
+Blackstone files its tax returns as prescribed by the tax laws of the jurisdictions in which it operates. In the normal course of business, Blackstone is subject to examination by federal and certain state, local and foreign tax authorities. As of December 31, 2024, the most material jurisdictions where Blackstone entities are under active examination are New York State and City. The following are the major filing jurisdictions and their respective earliest open period subject to examination:
+
+Jurisdiction
+
+Year
+
+Federal
+
+2021
+
+New York City
+
+2009
+
+New York State
+
+2016
+
+United Kingdom
+
+2011
+
+ Blackstone s unrecognized tax benefits, excluding related interest and penalties, were:
+
+December 31,
+
+2024
+
+2023
+
+2022
+
+Unrecognized Tax Benefits January 1
+
+$
+
+210,778
+
+$
+
+153,624
+
+$
+
+47,501
+
+Additions Based on Tax Positions Related to Current Year
+
+46,572
+
+19,807
+
+Reductions for Tax Positions of Current Year
+
+(19,737
+
+)
+
+Additions for Tax Positions of Prior Years
+
+57,081
+
+106,059
+
+Reductions for Tax Positions of Prior Years
+
+(6,111
+
+)
+
+Exchange Rate Fluctuations
+
+218
+
+3
+
+64
+
+Unrecognized Tax Benefits December 31
+
+$
+
+251,457
+
+$
+
+210,778
+
+$
+
+153,624
+
+ If recognized, the above tax benefits would reduce the annual effective rate. Blackstone believes the liability established for unrecognized tax benefits is adequate in relation to the potential for additional assessments. It is reasonably possible that significant changes in the balance of unrecognized tax benefits may occur during the twelve months subsequent to December 31, 2024; however, it is not possible to estimate the expected change to the total unrecognized tax benefits and its impact on Blackstone s effective tax rate during the twelve months subsequent to December 31, 2024.
+
+ The unrecognized tax benefits are recorded in Accounts Payable, Accrued Expenses and Other Liabilities in the Consolidated Statements of Financial Condition.
+
+ During the years ended December 31, 2024, 2023 and 2022, Blackstone accrued no penalties and accrued interest expense related to unrecognized tax benefits of $29.1 million, $22.8 million, and $32.6 million, respectively.
+
+ Other Income Change in Tax Receivable Agreement Liability
+
+ In 2024 and 2023, the $(41.2) million and $(27.2)
+million, respectively, Change in Tax Receivable Agreement Liability was primarily attributable to a change in Blackstone s state tax apportionment.
+
+X
+
+- DefinitionThe entire disclosure for income tax.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12
+
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 231
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482663/740-10-55-231
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12C
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12C
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 12B
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-12B
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 270
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147477891/740-270-50-1
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SAB Topic 6.I.5.Q1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479360/740-10-S99-1
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 946
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 13
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480990/946-20-50-13
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(h)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
+Reference 9: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/740/tableOfContent
+
+Reference 10: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-14
+
+Reference 11: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 21
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-21
+
+Reference 12: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 17
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482685/740-10-50-17
+
+Reference 13: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 2
+ -Subparagraph (SAB Topic 11.C)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479360/740-10-S99-2
+
+Reference 14: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 740
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482603/740-30-50-2
+
++ Details
+
+ Name:
+us-gaap_IncomeTaxDisclosureTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

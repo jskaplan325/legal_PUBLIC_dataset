@@ -1,0 +1,1181 @@
+XML
+139
+R67.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+COMMITMENTS AND CONTINGENCIES - Narrative (Details)
+
+3 Months Ended
+12 Months Ended
+
+Dec. 01, 2024
+
+USD ($)
+
+Dec. 31, 2024
+
+USD ($)
+
+infrastructureDebtFund
+
+Dec. 31, 2022
+
+infrastructureDebtFund
+
+Dec. 31, 2024
+
+USD ($)
+
+infrastructureDebtFund
+
+Dec. 31, 2023
+
+USD ($)
+
+Dec. 31, 2022
+
+USD ($)
+
+Mar. 31, 2022
+
+USD ($)
+
+COMMITMENTS AND CONTINGENCIES
+
+Unfunded capital commitments
+
+$ 1,451,400,000
+
+$ 1,451,400,000
+
+$ 1,030,600,000
+
+Maximum exposure from guarantees
+
+1,100,000
+
+1,100,000
+
+122,300,000
+
+Carried interest, contingent repayment obligations
+
+0
+
+0
+
+0
+
+Performance income
+
+COMMITMENTS AND CONTINGENCIES
+
+Performance income subject to potential clawback provision
+
+59,600,000
+
+59,600,000
+
+78,500,000
+
+Performance income subject to potential claw back provision that are reimbursable by professionals
+
+$ 39,500,000
+
+$ 39,500,000
+
+54,500,000
+
+Maximum
+
+COMMITMENTS AND CONTINGENCIES
+
+Lease terms
+
+19 years
+
+19 years
+
+Minimum
+
+COMMITMENTS AND CONTINGENCIES
+
+Lease terms
+
+1 year
+
+1 year
+
+Walton Street Capital Mexico | Due to Affiliates | Affiliated entity
+
+COMMITMENTS AND CONTINGENCIES
+
+Contingent consideration
+$ 17,600,000
+
+Walton Street Capital Mexico | Earnout Arrangement And Management Incentive Program
+
+COMMITMENTS AND CONTINGENCIES
+
+Deferred compensation expense
+
+$ 800,000
+
+Walton Street Capital Mexico | Earnout Arrangement And Management Incentive Program | Due to Affiliates | Affiliated entity
+
+COMMITMENTS AND CONTINGENCIES
+
+Contingent consideration
+
+$ 17,600,000
+
+17,600,000
+
+Walton Street Capital Mexico | Earnout Arrangement And Management Incentive Program | Accrued Compensation
+
+COMMITMENTS AND CONTINGENCIES
+
+Contingent consideration
+
+15,600,000
+
+$ 15,600,000
+
+Walton Street Capital Mexico | Earnout Arrangement
+
+COMMITMENTS AND CONTINGENCIES
+
+Commitment, maximum amount
+$ 40,000,000
+
+Walton Street Capital Mexico | Earnout Arrangement | Due to Affiliates | Affiliated entity
+
+COMMITMENTS AND CONTINGENCIES
+
+Contingent consideration, liability (as a percent)
+59.10%
+
+Walton Street Capital Mexico | Earnout Arrangement | Accrued Compensation
+
+COMMITMENTS AND CONTINGENCIES
+
+Contingent consideration, liability, remaining (as a percent)
+
+40.90%
+
+Contingent consideration, liability, paid in cash (as a percent)
+
+60.00%
+
+Walton Street Capital Mexico | Management Incentive Program
+
+COMMITMENTS AND CONTINGENCIES
+
+Commitment, maximum amount
+$ 25,000,000
+
+Walton Street Capital Mexico | Management Incentive Program | Due to Affiliates | Affiliated entity
+
+COMMITMENTS AND CONTINGENCIES
+
+Contingent consideration, liability (as a percent)
+30.00%
+
+Walton Street Capital Mexico | Management Incentive Program | Accrued Compensation
+
+COMMITMENTS AND CONTINGENCIES
+
+Contingent consideration, liability, remaining (as a percent)
+
+70.00%
+
+Contingent consideration, liability, paid in cash (as a percent)
+50.00%
+
+Crescent Point Capital
+
+COMMITMENTS AND CONTINGENCIES
+
+Commitment, maximum amount
+
+75,000,000
+
+$ 75,000,000
+
+Contingent liability
+
+75,000,000
+
+75,000,000
+
+75,000,000
+
+Management incentive program, amount accrued
+
+$ 25,000,000
+
+25,000,000
+
+5,000,000
+
+Compensation expense
+
+$ 20,000,000
+
+5,000,000
+
+Crescent Point Capital | Management Incentive Program
+
+COMMITMENTS AND CONTINGENCIES
+
+Contingent consideration, liability, paid in cash (as a percent)
+
+33.00%
+
+Contingent consideration, liability, paid in equity awards (as a percent)
+
+67.00%
+
+Infrastructure Debt Acquisition
+
+COMMITMENTS AND CONTINGENCIES
+
+Commitment, maximum amount
+
+$ 48,500,000
+
+Contingent consideration, liability, paid in cash (as a percent)
+
+15.00%
+
+Contingent consideration, liability, paid in equity awards (as a percent)
+
+85.00%
+
+Recognition period
+
+4 years
+
+Number of infrastructure debt funds remaining | infrastructureDebtFund
+
+2
+
+2
+
+Infrastructure Debt Acquisition | Revenue Target
+
+COMMITMENTS AND CONTINGENCIES
+
+Commitment, maximum amount
+
+$ 15,000,000
+
+$ 15,000,000
+
+Contingent liability
+
+9,000,000
+
+9,000,000
+
+9,000,000
+
+Management incentive program, amount accrued
+
+$ 4,100,000
+
+4,100,000
+
+2,800,000
+
+Compensation expense
+
+1,300,000
+
+$ 1,500,000
+
+$ 1,300,000
+
+Number of infrastructure debt funds revenue targets achieved | infrastructureDebtFund
+
+1
+
+Number of infrastructure debt funds revenue targets not achieved | infrastructureDebtFund
+
+1
+
+Management incentive program, expenses
+
+$ 1,600,000
+
+X
+
+- DefinitionBusiness Combination, Contingent Consideration, Liability, Percent Expected To Be Paid In Cash
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_BusinessCombinationContingentConsiderationLiabilityPercentExpectedToBePaidInCash
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Contingent Consideration, Liability, Percent Expected To Be Paid In Equity Awards
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_BusinessCombinationContingentConsiderationLiabilityPercentExpectedToBePaidInEquityAwards
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Contingent Consideration, Liability, Percent Expected To Measurement Period
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_BusinessCombinationContingentConsiderationLiabilityPercentExpectedToMeasurementPeriod
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionBusiness Combination, Contingent Consideration, Liability, Percent Expected To Measurement Period, Remaining
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_BusinessCombinationContingentConsiderationLiabilityPercentExpectedToMeasurementPeriodRemaining
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionCarried Interest, Contingent Repayment Obligations
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_CarriedInterestContingentRepaymentObligations
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLessee, Term Of Contract
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_LesseeTermOfContract
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionManagement Incentive Program, Amount Accrued
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementIncentiveProgramAmountAccrued
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionManagement Incentive Program, Contingent Liability
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementIncentiveProgramContingentLiability
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionManagement Incentive Program, Expenses
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementIncentiveProgramExpenses
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement Incentive Program, Maximum Commitment
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementIncentiveProgramMaximumCommitment
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionManagement Incentive Program, Number Of Infrastructure Debt Funds Remaining
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementIncentiveProgramNumberOfInfrastructureDebtFundsRemaining
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionManagement Incentive Program, Revenue Target Achieved, Number Of Infrastructure Debt Funds
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementIncentiveProgramRevenueTargetAchievedNumberOfInfrastructureDebtFunds
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionManagement Incentive Program, Revenue Target Not Achieved, Number Of Infrastructure Debt Funds
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ManagementIncentiveProgramRevenueTargetNotAchievedNumberOfInfrastructureDebtFunds
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionRepresents performance fees subject to potential claw back provision.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PerformanceFeesSubjectToClawBackProvision
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPerformance fees subject to potential claw back provision that are reimbursable by professionals.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_PerformanceFeesSubjectToClawBackProvisionThatAreReimbursable
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionShare-Based Compensation, Expense, Recognition Period
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_ShareBasedCompensationExpenseRecognitionPeriod
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:durationItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe amount of unfunded commitments, including those related to investments of capital in business combinations and financial instruments, as of the balance sheet date.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+ares_UnfundedCapitalCommitments
+
+ Namespace Prefix:
+ares_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionAmount of liability recognized arising from contingent consideration in a business combination.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)(i)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 820
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (bbb)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482106/820-10-50-2
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 35
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479613/805-30-35-1
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 805
+ -SubTopic 30
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (c)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
+
+Reference 6: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 805
+ -SubTopic 30
+ -Section 25
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479668/805-30-25-6
+
++ Details
+
+ Name:
+us-gaap_BusinessCombinationContingentConsiderationLiability
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe compensation expense recognized during the period pertaining to the deferred compensation arrangement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 710
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 30
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483043/710-10-30-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 718
+ -SubTopic 10
+ -Section 50
+ -Paragraph 1
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480429/718-10-50-1
+
++ Details
+
+ Name:
+us-gaap_DeferredCompensationArrangementWithIndividualCompensationExpense
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionAmount of expense for employee benefit and equity-based compensation.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_EmployeeBenefitsAndShareBasedCompensation
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- DefinitionMaximum potential amount of future payments (undiscounted) the guarantor could be required to make under the guarantee or each group of similar guarantees before reduction for potential recoveries under recourse or collateralization provisions.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-4
+
++ Details
+
+ Name:
+us-gaap_GuaranteeObligationsMaximumExposure
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 720
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483359/720-20-50-1
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 27
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482395/460-10-55-27
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 7: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-3
+
+Reference 8: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
++ Details
+
+ Name:
+us-gaap_LossContingenciesLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_LossContingenciesByNatureOfContingencyAxis=ares_PerformanceFeesReversalsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=ares_WaltonStreetCapitalMexicoMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BalanceSheetLocationAxis=ares_AccountsPayableOtherMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_RelatedPartyTransactionsByRelatedPartyAxis=srt_AffiliatedEntityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ContingentConsiderationByTypeAxis=ares_EarnoutArrangementAndManagementIncentiveProgramMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BalanceSheetLocationAxis=ares_EmployeeRelatedLiabilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ContingentConsiderationByTypeAxis=ares_EarnoutArrangementMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ContingentConsiderationByTypeAxis=ares_ManagementIncentiveProgramMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=ares_CrescentPointCapitalMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_BusinessAcquisitionAxis=ares_InfrastructureDebtAcquisitionMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_ContingentConsiderationByTypeAxis=ares_RevenueTargetMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

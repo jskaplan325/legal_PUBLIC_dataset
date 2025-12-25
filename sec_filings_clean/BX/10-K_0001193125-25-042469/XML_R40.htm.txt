@@ -1,0 +1,130 @@
+XML
+69
+R40.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Variable Interest Entities (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Maximum Exposure to Loss Relating to Non-Consolidated VIEs
+Blackstone s maximum exposure to loss relating to non-consolidated VIEs was
+ as follows:
+
+December 31,
+2024
+
+December 31,
+2023
+
+ Investments
+
+$
+
+4,537,481
+
+$
+
+3,751,591
+
+ Due from Affiliates
+
+242,109
+
+203,187
+
+ Potential Clawback Obligation
+
+41,908
+
+72,119
+
+ Maximum Exposure to Loss
+
+$
+
+4,821,498
+
+$
+
+4,026,897
+
+ Amounts Due to Non-Consolidated VIEs
+
+$
+
+855
+
+$
+
+223
+
+X
+
+- DefinitionTabular disclosure of the significant judgments and assumptions made in determining whether a variable interest (as defined) held by the entity requires the variable interest entity (VIE) (as defined) to be consolidated and (or) disclose information about its involvement with the VIE, individually or in aggregate (as applicable); the nature of restrictions, if any, on the consolidated VIE's assets and on the settlement of its liabilities reported by an entity in its statement of financial position, including the carrying amounts of such assets and liabilities; the nature of, and changes in, the risks associated with involvement in the VIE; how involvement with the VIE affects the entity's financial position, financial performance, and cash flows; the lack of recourse if creditors (or beneficial interest holders) of the consolidated VIE have no recourse to the general credit of the primary beneficiary (if applicable); the terms of arrangements, giving consideration to both explicit arrangements and implicit variable interests, if any, that could require the entity to provide financial support to the VIE, including events or circumstances that could expose the entity to a loss; the methodology used by the entity for determining whether or not it is the primary beneficiary of the variable interest entity; the significant factors considered and judgments made in determining that the power to direct the activities of a VIE that most significantly impact the VIE's economic performance are shared (as defined); the carrying amounts and classification of assets and liabilities of the VIE included in the statement of financial position; the entity's maximum exposure to loss, if any, as a result of its involvement with the VIE, including how the maximum exposure is determined and significant sources of the entity's exposure to the VIE; a comparison of the carrying amounts of the assets and liabilities and the entity's maximum exposure to loss; information about any liquidity arrangements, guarantees, and (or) other commitments by third parties that may affect the fair value or risk of the entity's variable interest in the VIE; whether or not the entity has provided financial support or other support (explicitly or implicitly) to the VIE that it was not previously contractually required to provide or whether the entity intends to provide that support, including the type and amount of the support and the primary reasons for providing the support; and supplemental information the entity determines necessary to provide.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-3
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 5A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-5A
+
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 9
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-9
+
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 4
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-4
+
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Topic 810
+ -SubTopic 10
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481203/810-10-50-6
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfVariableInterestEntitiesTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

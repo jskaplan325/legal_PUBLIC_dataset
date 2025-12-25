@@ -1,0 +1,187 @@
+XML
+79
+R50.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Commitments and Contingencies (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Clawback Obligations by Segment
+
+ The following table presents the clawback obligations by segment:
+
+December 31,
+
+2024
+
+2023
+
+ Segment
+
+Blackstone
+Holdings
+
+Current and
+Former
+Personnel (a)
+
+Total (b)
+
+Blackstone
+Holdings
+
+Current and
+Former
+Personnel (a)
+
+Total (b)
+
+ Real Estate
+
+$
+
+316,749
+
+$
+
+158,346
+
+$
+
+475,095
+
+$
+
+145,435
+
+$
+
+90,337
+
+$
+
+235,772
+
+ Private Equity
+
+15,044
+
+6,273
+
+21,317
+
+29,046
+
+16,231
+
+45,277
+
+ Credit & Insurance
+
+1,468
+
+1,667
+
+3,135
+
+207
+
+262
+
+469
+
+$
+
+333,261
+
+$
+
+166,286
+
+$
+
+499,547
+
+$
+
+174,688
+
+$
+
+106,830
+
+$
+
+281,518
+
+(a)
+
+ The split of clawback between Blackstone Holdings and Current and Former Personnel is based on the performance of individual investments held by a fund rather than on a fund by fund basis.
+
+(b)
+
+ Total is a component of Due to Affiliates. See Note 17. Related Party Transactions Affiliate Receivables and Payables Due to Affiliates.
+
+X
+
+- DefinitionTabular disclosure of the loss contingencies that were reported in the period or disclosed as of the balance sheet date.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-1
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 4
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-4
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 450
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483076/450-20-50-9
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 460
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482425/460-10-50-3
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfLossContingenciesByContingencyTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

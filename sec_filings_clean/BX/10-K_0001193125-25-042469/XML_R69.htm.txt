@@ -1,0 +1,222 @@
+XML
+98
+R69.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Fair Value Option - Additional Information (Detail)
+ $ in Thousands
+
+Dec. 31, 2024
+
+USD ($)
+
+Dec. 31, 2023
+
+USD ($)
+
+Loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value of financial instruments more than one day past due
+$ 1,359
+
+$ 1,345
+
+Corporate Loans
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value of financial instruments more than one day past due
+1,359
+
+$ 1,345
+
+Corporate Loans | Not In Non Accrual Status
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Number of loans for which fair value option was elected past due | Loans
+
+2
+
+Loans and Receivables
+
+Fair Value, Option, Quantitative Disclosures [Line Items]
+
+Fair value of financial instruments more than one day past due
+0
+
+$ 0
+
+Fair value of financial instruments with non-accrual status
+$ 0
+
+$ 0
+
+X
+
+- DefinitionFair Value of Financial Instruments More Than One Day Past Due
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_FairValueOfFinancialInstrumentsMoreThanOneDayPastDue
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionInvestment Securities Fair Value Disclosure On Nonaccrual Status
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_InvestmentSecuritiesFairValueDisclosureOnNonaccrualStatus
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionNumber of past due loans for which the fair value options was elected.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_NumberOfPastDueLoansForWhichTheFairValueOptionsWasElected
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:integerItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 30
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-30
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 31
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-31
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 825
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 32
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147482907/825-10-50-32
+
++ Details
+
+ Name:
+us-gaap_FairValueOptionQuantitativeDisclosuresLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_FinancialInstrumentAxis=us-gaap_CorporateDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+bx_DetailsAxis=bx_NotInNonAccrualStatusMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_AccountsNotesLoansAndFinancingReceivableByReceivableTypeAxis=us-gaap_LoansReceivableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

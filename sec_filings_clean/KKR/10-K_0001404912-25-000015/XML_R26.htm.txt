@@ -1,0 +1,168 @@
+XML
+48
+R26.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES
+
+12 Months Ended
+
+Dec. 31, 2024
+
+OTHER ASSETS AND ACCOUNTS PAYABLE, ACCRUED EXPENSES AND OTHER LIABILITIES
+
+OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIES
+OTHER ASSETS AND ACCRUED EXPENSES AND OTHER LIABILITIESOther Assets consist of the following:
+
+ December 31, 2024 December 31, 2023
+Asset Management and Strategic Holdings
+Unsettled Investment Sales (1)
+ $ 293,379 $ 271,544
+Receivables 259,644 55,602
+Due from Broker (2)
+ 97,524 76,075
+Deferred Tax Assets, net 50,627 48,580
+Interest Receivable 264,680 351,999
+Fixed Assets, net (3)
+ 902,896 863,096
+Foreign Exchange Contracts and Options (4)
+ 511,513 264,621
+
+Goodwill (5)
+ 509,561 558,279
+Intangible Assets (6)
+ 1,457,871 1,624,648
+Derivative Assets 8,444 4,792
+
+Prepaid Taxes 167,751 211,966
+Prepaid Expenses 57,629 56,828
+Operating Lease Right of Use Assets (7)
+ 701,274 358,684
+Deferred Financing Costs 19,594 19,213
+
+Other 231,899 209,296
+Total Asset Management and Strategic Holdings $ 5,534,286 $ 4,975,223
+
+Insurance
+Deferred Tax Assets, net $ 2,788,672 $ 2,273,757
+Accrued Investment Income 1,475,704 1,220,781
+Goodwill 509,972 501,496
+Intangible Assets and Deferred Sales Inducements(8)
+ 343,657 258,529
+Premiums and Other Account Receivables 254,992 188,136
+Other 276,104 152,486
+Operating Lease Right of Use Assets(7)
+ 165,204 172,955
+Unsettled Investment Sales(1) and Derivative Collateral Receivables
+ 141,532 27,562
+Derivative Assets 61,351 45,694
+Prepaid Taxes 273,197 42,294
+Market Risk Benefit Asset 2,319 17
+Total Insurance $ 6,292,704 $ 4,883,707
+
+Total Other Assets $ 11,826,990 $ 9,858,930
+
+(1)Primarily includes amounts due from third parties for investments sold for which cash settlement has not occurred.
+(2)Represents amounts held at clearing brokers resulting from securities transactions.
+(3)Net of accumulated depreciation and amortization of $326.0 million and $257.4 million as of December 31, 2024 and December 31, 2023, respectively. Depreciation and amortization expense of $71.6 million, $68.4 million, and $54.6 million for the years ended December 31, 2024, 2023, and 2022, respectively, are included in General, Administrative and Other in the accompanying consolidated statements of operations. Additionally, KKR s fixed assets are predominantly located in the United States.
+(4)Represents derivative financial instruments used to manage foreign exchange risk arising from certain foreign currency denominated investments. Such instruments are measured at fair value with changes in fair value recorded in Net Gains (Losses) from Investment Activities in the accompanying consolidated statements of operations. See Note 4 "Net Gains (Losses) from Investment Activities - Asset Management and Strategic Holdings" in our financial statements for the net changes in fair value associated with these instruments.
+(5)As of December 31, 2024, the carrying value of goodwill is recorded and assessed for impairment at the reporting unit. As of December 31, 2024, there are approximately $(82.9) million of cumulative foreign currency translation adjustments included in AOCI related to the goodwill recorded as result of the acquisition of KJRM.
+(6)As of December 31, 2024, there are approximately $(282.7) million of cumulative foreign currency translation adjustments included in AOCI related to the intangible assets recorded as result of the acquisition of KJRM.
+(7)For Asset Management, non-cancelable operating leases consist of leases for office space in North America, Europe, Asia, and Australia. KKR is the lessee under the terms of the operating leases. The operating lease cost was $89.7 million, $67.8 million, and $54.2 million for the years ended December 31, 2024, 2023, and 2022, respectively. For Insurance, non-cancelable operating leases consist of leases for office space and land in the U.S. For the years ended December 31, 2024, 2023, and 2022, the operating lease cost was $20.9 million, $21.9 million, and $25.0 million, respectively.
+(8)The definite life intangible assets are amortized using the straight-line method over the useful life of the assets which is an average of 11.7 years. The indefinite life intangible assets are not subject to amortization. The amortization expense of definite life intangible assets was $19.1 million, $17.6 million, and $17.6 million for the years ended December 31, 2024, 2023, and 2022, respectively.
+Accrued Expenses and Other Liabilities consist of the following:
+
+ December 31, 2024 December 31, 2023
+Asset Management and Strategic Holdings
+Amounts Payable to Carry Pool (1)
+ $ 4,170,773 $ 2,664,694
+Unsettled Investment Purchases (2)
+ 2,081,970 574,986
+Securities Sold Short (3)
+ 109,168 149,136
+Derivative Liabilities 2,382
+Accrued Compensation and Benefits 130,717 210,625
+Interest Payable 467,324 492,501
+Foreign Exchange Contracts and Options (4)
+ 131,339 441,608
+Accounts Payable and Accrued Expenses 425,731 221,851
+Taxes Payable 91,398 39,255
+Uncertain Tax Positions 42,054 23,579
+Unfunded Revolver Commitments 96,848 94,683
+Operating Lease Liabilities (5)
+ 722,241 360,852
+
+Deferred Tax Liabilities, net 2,840,342 2,370,118
+Other Liabilities 138,598 72,145
+Total Asset Management and Strategic Holdings $ 11,448,503 $ 7,718,415
+
+Insurance
+Accrued Expenses $ 562,226 $ 607,262
+Unsettled Investment Purchases(2) and Derivative Collateral Liabilities
+ 347,121 205,669
+Insurance Operations Balances in Course of Settlement 190,775 250,367
+Securities Sold Under Agreements to Repurchase 261,396 1,358,434
+Derivative Liabilities 389,187 146,197
+Operating Lease Liabilities(5)
+ 185,547 193,566
+Accrued Employee Related Expenses 107,049 370,984
+Interest Payable 40,315 15,894
+Tax Payable to Former Parent Company 49,477 62,545
+Accounts and Commissions Payable 31,414 32,104
+Other Tax Related Liabilities 22,455 12,984
+
+Total Insurance $ 2,186,962 $ 3,256,006
+
+Total Accrued Expenses and Other Liabilities $ 13,635,465 $ 10,974,421
+
+(1)Represents the amount of carried interest payable to current and former KKR employees arising from KKR's investment funds and co-investment vehicles that provide for carried interest.
+(2)Primarily includes amounts owed to third parties for investment purchases for which cash settlement has not occurred.
+(3)Represents the obligations of KKR to deliver a specified security at a future point in time. Such securities are measured at fair value with changes in fair value recorded in Net Gains (Losses) from Investment Activities in the accompanying consolidated statements of operations. See Note 4 "Net Gains (Losses) from Investment Activities - Asset Management and Strategic Holdings" in our financial statements for the net changes in fair value associated with these instruments.
+(4)Represents derivative financial instruments used to manage foreign exchange risk arising from certain foreign currency denominated investments. Such instruments are measured at fair value with changes in fair value recorded in Net Gains (Losses) from Investment Activities in the accompanying consolidated statements of operations. See Note 4 "Net Gains (Losses) from Investment Activities - Asset Management and Strategic Holdings" in our financial statements for the net changes in fair value associated with these instruments.
+(5)For Asset Management, operating leases for office space have remaining lease terms that range from approximately 1 year to 16 years, some of which include options to extend the leases from 2 years to 10 years. The weighted average remaining lease terms were 13.1 years and 10.3 years as of December 31, 2024 and December 31, 2023, respectively. The weighted average discount rates were 3.7% and 2.9% as of December 31, 2024 and December 31, 2023, respectively. For Insurance, operating leases for office space have remaining lease terms that range from approximately 1 year to 10 years, some of which include options to extend the leases for up to 10 years. The weighted average remaining lease terms were 7.4 years and 7.6 years as of December 31, 2024 and 2023, respectively. The weighted average discount rates were 4.7% and 4.4% as of December 31, 2024 and 2023, respectively. The weighted average remaining lease terms for land were 42.8 years and 43.7 years as of December 31, 2024 and 2023, respectively. For Asset Management and Insurance, non cash right of use assets obtained in exchange for new operating lease liabilities were $408.0 million, $32.5 million, and $159.4 million for the years ended December 31, 2024, 2023, and 2022, respectively.
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_OtherAssetsAndAccountsPayableAccruedExpensesAndOtherLiabilitiesAbstract
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for the components of other assets, accounts payable, accrued expenses and other liabilities at the end of the reporting period.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_OtherAssetsAndAccountsPayableAccruedExpensesAndOtherLiabilitiesDisclosureTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

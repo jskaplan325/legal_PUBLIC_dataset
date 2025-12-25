@@ -1,0 +1,354 @@
+XML
+44
+R15.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Summary of Significant Accounting Policies
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Summary of Significant Accounting Policies
+
+2.
+
+Summary of Significant Accounting Policies
+
+ Basis of Presentation
+
+The accompanying consolidated financial statements of Blackstone have been prepared in accordance with accounting principles generally accepted in the United States of America ( GAAP ).
+
+The consolidated financial statements include the accounts of Blackstone, its wholly owned or majority-owned subsidiaries, the consolidated entities which are considered to be variable interest entities and for which Blackstone is considered the primary beneficiary, and certain partnerships or similar entities which are not considered variable interest entities but in which the general partner is determined
+to have control.
+
+All intercompany balances and transactions have been eliminated in consolidation.
+
+ Use of Estimates
+
+The preparation of the consolidated financial statements in accordance with GAAP requires management to make estimates that affect the amounts reported in the consolidated financial statements and accompanying notes. Management believes that estimates utilized in the preparation of the consolidated financial statements are prudent and reasonable. Such estimates include those used in the valuation of investments and financial instruments, the measurement of deferred tax balances (including any valuation allowances) and the accounting for Goodwill and equity-based compensation. Actual results could differ from those estimates and such differences could be material.
+
+ Consolidation
+
+Blackstone consolidates all entities that it controls through a majority voting interest or otherwise, including those Blackstone Funds in which the general partner has a controlling financial interest. Blackstone has a controlling financial interest in Blackstone Holdings because the limited partners do not have the right to dissolve the partnerships or have substantive kick-out rights or participating rights that would overcome the control held by Blackstone. Accordingly, Blackstone consolidates Blackstone Holdings and records non-controlling interests to reflect the economic interests of the limited partners of Blackstone Holdings.
+
+ In addition, Blackstone consolidates all variable interest entities ( VIE ) for which it is the primary beneficiary. An enterprise is determined to be the primary beneficiary if it holds a controlling financial interest. A controlling financial interest is defined as (a) the power to direct the activities of a VIE that most significantly impact the entity s economic performance and (b) the obligation to absorb losses of the entity or the right to receive benefits from the entity that could potentially be significant to the VIE. The consolidation guidance requires an analysis to determine (a) whether an entity in which Blackstone holds a variable interest is a VIE and (b) whether Blackstone s involvement, through holding interests directly or indirectly in the entity or contractually through other variable interests, would give it a controlling financial interest. Performance of that analysis requires the exercise of judgment.
+
+Blackstone determines whether it is the primary beneficiary of a VIE at the time it becomes involved with a variable interest entity and continuously reconsiders that conclusion. In determining whether Blackstone is the primary beneficiary, Blackstone evaluates its control rights as well as economic interests in the entity held either directly or indirectly by Blackstone. The consolidation analysis can generally be performed qualitatively; however, if it is not readily apparent that Blackstone is not the primary beneficiary, a quantitative analysis may also be performed. Investments and redemptions (either by Blackstone, affiliates of Blackstone or third parties) or amendments to the governing documents of the respective Blackstone Funds could affect an entity s status as a VIE or the determination of the primary beneficiary. At each reporting date, Blackstone assesses whether it is the primary beneficiary and will consolidate or deconsolidate accordingly.
+
+Assets of consolidated VIEs that can only be used to settle obligations of the consolidated VIE and liabilities of a consolidated VIE for which creditors (or beneficial interest holders) do not have recourse to the general credit of Blackstone are presented in a separate section in the Consolidated Statements of Financial Condition.
+
+Blackstone s other disclosures regarding VIEs are discussed in Note 8. Variable Interest Entities.
+
+ Revenue Recognition
+
+Revenues primarily consist of management and advisory fees, incentive fees, investment income, interest and dividend revenue and other.
+
+Management and advisory fees and incentive fees are accounted for as contracts with customers. Under the guidance for contracts with customers, an entity is required to (a) identify the contract(s) with a customer, (b) identify the performance obligations in the contract, (c) determine the transaction price, (d) allocate the transaction price to the performance obligations in the contract, and (e) recognize revenue when (or as) the entity satisfies a performance obligation. In determining the transaction price, an entity may include variable consideration only to the extent that it is probable that a significant reversal in the amount of cumulative revenue recognized would not occur when the uncertainty associated with the variable consideration is resolved. See Note 19. Segment Reporting for a disaggregated presentation of revenues from contracts with customers.
+
+Management and Advisory Fees, Net
+
+ Management and Advisory Fees, Net are comprised of management fees, including base management fees, transaction, advisory and other fees net of management fee reductions and offsets.
+
+Blackstone earns base management fees from its customers at a fixed percentage of a calculation base which is typically net asset value, gross asset value, total fair value of investments, committed capital, total invested capital or remaining invested capital. Blackstone identifies its customers on a fund by fund basis in accordance with
+
+the terms and circumstances of the individual fund. Generally the customer is identified as the investors in its managed funds and investment vehicles, but for certain widely held funds or vehicles, the fund or vehicle itself may be identified as the customer. These customer contracts require Blackstone to provide investment management services, which represents a performance obligation that Blackstone satisfies over time. Management fees are a form of variable consideration because the fees Blackstone is entitled to vary based on fluctuations in the basis for the management fee. The amount recorded as revenue is generally determined at the end of the period because these management fees are payable on a regular basis (typically quarterly) and are not subject to clawback once paid.
+
+Transaction, advisory and other fees are principally fees charged to the investors of funds indirectly through the managed funds and portfolio companies. The investment advisory agreements generally require that the investment adviser reduce the amount of management fees payable by the investors to Blackstone ( management fee reductions ) by an amount equal to a portion of the transaction and other fees paid to Blackstone by the portfolio companies. The amount of the reduction varies by fund, the type of fee paid by the portfolio company and the previously incurred expenses of the fund. These fees and associated management fee reductions are a component of the transaction price for Blackstone s performance obligation to provide investment management services to the investors of funds and are recognized as changes to the transaction price in the period in which they are charged and the services are performed.
+
+Management fee offsets are reductions to management fees payable by the investors of the Blackstone Funds, which are based on the amount such investors reimburse the Blackstone Funds or Blackstone primarily for placement fees. Providing investment management services requires Blackstone to arrange for services on behalf of its customers. In those situations where Blackstone is acting as an agent on behalf of the investors of funds, it presents the cost of services as net against management fee revenue. In all other situations, Blackstone is primarily responsible for fulfilling the services and is therefore acting as a principal for those arrangements. As a result, the cost of those services is presented as Compensation or General, Administrative and Other expense, as appropriate, with any reimbursement from the investors of the funds recorded as Management and Advisory Fees, Net. In cases where the investors of the funds are determined to be the customer in an arrangement, placement fees may be capitalized as a cost to acquire a customer contract. Capitalized placement fees are amortized over the life of the customer contract, are recorded within Other Assets in the Consolidated Statements of Financial Condition and amortization is recorded within General, Administrative and Other within the Consolidated Statements of Operations. In cases where the Blackstone Funds are determined to be the customer in the arrangement, placement fees are generally expensed as incurred. Blackstone may also pay ongoing investor servicing fees to certain distributors of its products. Where Blackstone is the principal in those arrangements, ongoing investor servicing fees are expensed as incurred and are recorded within General, Administrative and Other expense.
+
+Accrued but unpaid Management and Advisory Fees, net of management fee reductions and management fee offsets, as of the reporting date are included in Due from Affiliates in the Consolidated Statements of Financial Condition.
+
+Incentive Fees
+
+ Contractual fees earned based on the performance of Blackstone vehicles ( Incentive Fees ) are a form of variable consideration in Blackstone s contracts with customers to provide investment management services. Incentive Fees are earned based on performance of the vehicle during the period, subject to the achievement of minimum return levels, or high water marks, in accordance with the respective terms set out in each vehicle s governing agreements. Incentive Fees will not be recognized as revenue until (a) it is probable that a significant reversal in the amount of cumulative revenue recognized will not occur, or (b) the uncertainty associated with the variable consideration is subsequently resolved. Incentive Fees are typically recognized as revenue when realized at the end of the measurement period. Once realized, such fees are not subject to clawback or reversal. Accrued but unpaid Incentive Fees charged directly to investors in Blackstone vehicles as of the reporting date are recorded within Due from Affiliates in the Consolidated Statements of Financial Condition.
+
+Investment Income (Loss)
+
+ Investment Income (Loss) represents the unrealized and realized gains and losses on Blackstone s Performance Allocations and Principal Investments.
+
+In carry fund structures and certain open-ended structures, Blackstone, through its subsidiaries, invests alongside its limited partners in a partnership and is entitled to its pro-rata share of the results of the fund vehicle (a pro-rata allocation ). In addition to a pro-rata allocation, and assuming certain investment returns are achieved, Blackstone is entitled to a disproportionate allocation of the income otherwise allocable to the limited partners, commonly referred to as carried interest ( Performance Allocations ).
+
+Performance Allocations are made to the general partner based either on cumulative fund performance to date, subject to a preferred return to limited partners or based on vehicle performance over a period of time, subject to a high water mark and preferred return to investors. At the end of each reporting period, Blackstone calculates the balance of accrued Performance Allocations ( Accrued Performance Allocations ) that would be due to Blackstone for each fund, pursuant to the fund agreements, as if the fair value of the underlying investments were realized as of such date, irrespective of whether such amounts have been realized. As the fair value of underlying investments varies between reporting periods, it is necessary to make adjustments to amounts recorded as Accrued Performance Allocations to reflect either (a) positive performance resulting in an increase in the Accrued Performance Allocation to the general partner or (b) negative performance that would cause the amount due to Blackstone to be less than the amount previously recognized as revenue, resulting in a negative adjustment to the Accrued Performance Allocation to the general partner. In each scenario, it is necessary to calculate the Accrued Performance Allocation on cumulative results compared to the Accrued Performance Allocation recorded to date and make the required positive or negative adjustments. Blackstone ceases to record negative Performance Allocations once previously Accrued Performance Allocations for such fund have been fully reversed. Blackstone is not obligated to pay guaranteed returns or hurdles, and therefore, cannot have negative Performance Allocations over the life of a fund. Accrued Performance Allocations as of the reporting date are reflected in Investments in the Consolidated Statements of Financial Condition.
+
+Performance Allocations in carry fund structures are realized when an underlying investment is profitably disposed of and the fund s cumulative returns are in excess of the preferred return or, in limited instances, after certain thresholds for return of capital are met. Performance Allocations in carry fund structures are subject to clawback to the extent that the Performance Allocation received to date exceeds the amount due to Blackstone based on cumulative results. As such, the accrual for potential repayment of previously received Performance Allocations, which is a component of Due to Affiliates, represents all amounts previously distributed to Blackstone Holdings and non-controlling
+ interest holders that would need to be repaid to the Blackstone carry funds if the Blackstone carry funds were to be liquidated based on the current fair value of the underlying funds investments as of the reporting date. The actual clawback liability, however, generally does not become realized until the end of a fund s life except for certain funds, which may have an interim clawback liability. Performance Allocations in open-ended structures are realized based on the stated time period in the agreements and are generally not subject to clawback once paid.
+
+Principal Investments include the unrealized and realized gains and losses on Blackstone s principal investments, including its investments in Blackstone Funds that are not consolidated and receive pro-rata allocations, its equity method investments, and other principal investments. Income (Loss) on Principal Investments is realized when Blackstone redeems all or a portion of its investment or when Blackstone receives cash income, such as dividends or distributions. Unrealized Income (Loss) on Principal Investments results from changes in the fair value of the underlying investment as well as the reversal of unrealized gain (loss) at the time an investment is realized.
+
+Interest and Dividend Revenue
+
+ Interest and Dividend Revenue comprises primarily interest and dividend income earned on principal investments not accounted for under the equity method held by Blackstone.
+
+ Other Revenue
+
+ Other Revenue consists of miscellaneous income and foreign exchange gains and losses arising on transactions denominated in currencies other than U.S. dollars.
+
+ Fair Value of Financial Instruments
+
+GAAP establishes a hierarchical disclosure framework which prioritizes and ranks the level of market price observability used in measuring financial instruments at fair value. Market price observability is affected by a number of factors, including the type of financial instrument, the characteristics specific to the financial instrument and the state of the marketplace, including the existence and transparency of transactions between market participants. Financial instruments with readily available quoted prices in active markets generally will have a higher degree of market price observability and a lesser degree of judgment used in measuring fair value.
+
+Financial instruments measured and reported at fair value are classified and disclosed based on the observability of inputs used in the determination of fair values, as follows:
+
+Level I Quoted prices are available in active markets for identical financial instruments as of the reporting date. The types of financial instruments in Level I include listed equities, listed derivatives and mutual funds with quoted prices. Blackstone does not adjust the quoted price for these investments, even in situations where Blackstone holds a large position and a sale could reasonably impact the quoted price.
+
+Level II Pricing inputs are other than quoted prices in active markets, which are either directly or indirectly observable as of the reporting date, and fair value is determined through the use of models or other valuation methodologies. Financial instruments which are generally included in this category include corporate bonds and loans, including corporate bonds and loans held within consolidated collateralized loan obligations ( CLO ) vehicles, government and agency securities, less liquid and restricted equity securities, and certain over-the-counter derivatives where the fair value is based on observable inputs. Notes issued by consolidated CLO vehicles are classified within Level II of the fair value hierarchy.
+
+Level III Pricing inputs are unobservable for the financial instruments and includes situations where there is little, if any, market activity for the financial instrument. The inputs into the determination of fair value require significant management judgment or estimation. Financial instruments that are included in this category generally include private investments in the equity of operating companies, real estate properties, distressed debt and non-investment grade residual interests in securitizations, investments in non-consolidated CLOs and certain over-the-counter derivatives where the fair value is based on unobservable inputs. For certain investments where the fair value is not readily determinable, net asset value ( NAV ) is applied as a practical expedient.
+
+In certain cases, the inputs used to measure fair value may fall into different levels of the fair value hierarchy. In such cases, the determination of which category within the fair value hierarchy is appropriate for any given financial instrument is based on the lowest level of input that is significant to the fair value measurement. Blackstone s assessment of the significance of a particular input to the fair value measurement in its entirety requires judgment and considers factors specific to the financial instrument.
+
+Level II Valuation Techniques
+
+Financial instruments classified within Level II of the fair value hierarchy comprise debt instruments, debt securities sold, not yet purchased and certain equity securities and derivative instruments valued using observable inputs.
+
+ The valuation techniques used to value financial instruments classified within Level II of the fair value hierarchy are as follows:
+
+Debt Instruments and Equity Securities are valued on the basis of prices from an orderly transaction between market participants including those provided by reputable dealers or pricing services. In determining the value of a particular investment, pricing services may use certain information with respect to transactions in such investments, quotations from dealers, pricing matrices and market transactions in comparable investments and various relationships between investments. The valuation of certain equity securities is based on an observable price for an identical security adjusted for the effect of a restriction.
+
+Freestanding Derivatives are valued using contractual cash flows and observable inputs comprising yield curves, foreign currency rates and credit spreads.
+
+Notes issued by consolidated CLO vehicles are measured based on the more observable fair value of CLO assets less (a) the fair value of any beneficial interests held by Blackstone, and (b) the carrying value of any beneficial interests that represent compensation for services.
+
+Level III Valuation Techniques
+
+In the absence of observable market prices, Blackstone values its investments using valuation methodologies applied on a consistent basis. For some investments little market activity may exist; management s determination of fair value is then based on the best information available in the circumstances, and may incorporate management s own assumptions and involves a significant degree of judgment, taking into consideration a combination of internal and external factors, including the appropriate risk adjustments for non-performance and liquidity risks. Investments for which market prices are not observable include private investments in the equity of operating companies, real estate properties and investments in non-consolidated CLO vehicles.
+
+Real Estate Investments
+
+The fair values of real estate investments are determined by considering projected operating cash flows, sales of comparable assets, if any, and replacement costs, among other measures and considerations. The methods used to estimate the fair value of real estate investments include the discounted cash flow method, where value is calculated by discounting the estimated cash flows and the estimated terminal value of the subject investment by the assumed buyer s weighted-average cost of capital. A terminal value is derived by reference to an exit multiple, such as for estimates of earnings before interest, taxes, depreciation and amortization ( EBITDA ), or a capitalization rate, such as for estimates of net operating income ( NOI ). Valuations may also be derived by the performance multiple or market approach, by reference to observable valuation measures for comparable companies or assets (for example, dividing NOI by a relevant capitalization rate observed for comparable companies or transactions), adjusted by management for differences between the investment and the referenced comparables.
+
+Private Equity Investments
+
+ The fair values of private equity investments are determined by reference to projected net earnings, EBITDA, public market or private transactions, valuations for comparable companies and other measures which, in many cases, are based on unaudited information at the time received. The methods used to estimate the fair value of private equity investments include the discounted cash flow method. Where a discounted cash flow method is used, a terminal value is derived by reference to EBITDA or price/earnings exit multiples. Valuations may also be derived by reference to observable valuation measures for comparable companies or transactions (for example, multiplying a key performance metric of the investee company, such as EBITDA, by a relevant valuation multiple observed in the range of comparable companies or transactions), adjusted by management for differences between the investment and the referenced comparables, and in some instances by reference to option pricing models or other similar methods.
+
+ Credit-Focused Investments
+
+ The fair values of credit-focused investments are generally determined on the basis of prices between market participants provided by reputable dealers or pricing services. For credit-focused investments that are not publicly traded or whose market prices are not readily available, Blackstone may utilize other valuation techniques, including the discounted cash flow method or a market approach. The discounted cash flow method projects the expected cash flows of the debt instrument based on contractual terms, and discounts such cash flows back to the valuation date using a market-based yield. The market-based yield is generally estimated using yields of publicly traded debt instruments issued by companies operating in similar industries as the subject investment or based on changes in credit spreads of a broader benchmark index applicable to a subject investment.
+
+The market approach is generally used to determine the enterprise value of the issuer of a credit investment, and considers valuation multiples of comparable companies or transactions. The resulting enterprise value will dictate whether or not such credit investment has adequate enterprise value coverage. In cases of distressed credit instruments, the market approach may be used to estimate a recovery value in the event of a restructuring.
+
+ Investments, at Fair Value
+
+Generally, the Blackstone Funds are accounted for as investment companies in accordance with the GAAP guidance on investment companies, and under the American Institute of Certified Public Accountants Audit and Accounting Guide, Investment Companies
+
+, and reflect their investments, including majority-owned and controlled investments, at fair value. Such consolidated funds investments are reflected in Investments on the Consolidated Statements of Financial Condition at fair value, with unrealized gains and losses resulting from changes in fair value reflected as a component of Net Gains (Losses) from Fund Investment Activities in the Consolidated Statements of Operations. Fair value is the amount that would be received to sell an asset or paid to transfer a liability, in an orderly transaction between market participants at the measurement date, at current market conditions (i.e., the exit price).
+
+Certain principal investments are presented at fair value with unrealized appreciation or depreciation and realized gains and losses recognized in the Consolidated Statements of Operations within Investment Income (Loss).
+
+For certain instruments, Blackstone has elected the fair value option. Such election is irrevocable and is applied on an investment by investment basis at initial recognition or other eligible election dates. Blackstone has applied the fair value option for certain loans and receivables, unfunded loan commitments and certain investments that otherwise would not have been carried at fair value with gains and losses recorded in net income. The methodology for measuring the fair value of such investments is consistent with the methodology applied to private equity, real estate and credit-focused investments. Changes in the fair value of such instruments are recognized in Investment Income (Loss) in the Consolidated Statements of Operations. Interest income on interest bearing loans and receivables and debt securities on which the fair value option has been elected is based on stated coupon rates adjusted for the accretion of purchase discounts and the amortization of purchase premiums. This interest income is recorded within Interest and Dividend Revenue.
+
+Blackstone has elected the fair value option for the assets of consolidated CLO vehicles. As permitted under GAAP, Blackstone measures notes issued by consolidated CLO vehicles as (a) the sum of the fair value of the consolidated CLO assets and the carrying value of any non-financial assets held temporarily, less (b) the sum of the fair value of any beneficial interests retained by Blackstone (other than those that represent compensation for services) and Blackstone s carrying value of any beneficial interests that represent compensation for services. As a result of this measurement alternative, there is no attribution of amounts to Non-Controlling Interests for consolidated CLO vehicles. Assets of the consolidated CLOs are presented within Investments within the Consolidated Statements of Financial Condition and notes payable within Loans Payable for the amounts due to unaffiliated third parties. Changes in the fair value of consolidated CLO assets and liabilities and related interest, dividend and other income are presented within Net Gains (Losses) from Fund Investment Activities. Expenses of consolidated CLO vehicles are presented in Fund Expenses.
+
+ Blackstone has elected the fair value option for certain proprietary investments that would otherwise have been accounted for using the equity method of accounting. The fair value of such investments is based on quoted prices in an active market, quoted prices that are published on a regular basis and are the basis for current transactions or using the discounted cash flow method. Changes in fair value are recognized in Investment Income (Loss) in the Consolidated Statements of Operations.
+
+Further disclosure on instruments for which the fair value option has been elected is presented in Note 6. Fair Value Option.
+
+Blackstone may elect to measure certain proprietary investments in equity securities without readily determinable fair values under the measurement alternative, which reflects cost less impairment, with adjustments in value resulting from observable price changes arising from orderly transactions of the same or a similar security from the same issuer. If the measurement alternative election is not made, the equity security is measured at fair value. The measurement alternative election is made on an instrument by instrument basis. The election is reassessed each reporting period to determine whether investments under the measurement alternative have readily determinable fair values, in which case they would no longer be eligible for this election.
+
+ Certain investments of Blackstone and the consolidated Blackstone funds are valued at NAV per share pursuant to the practical expedient. In limited circumstances, Blackstone may determine, based on its own due diligence and investment procedures, that NAV per share does not represent fair value. In such circumstances, Blackstone will estimate the fair value in good faith and in a manner that it reasonably chooses, in accordance with the requirements of GAAP.
+
+The terms
+
+ of the investee s investment generally provide for minimum holding periods or lock-ups, the institution of gates on redemptions or the suspension of redemptions or an ability to side pocket investments, at the discretion of the investee s fund manager, and as a result, investments may not be redeemable at, or within three months of, the reporting date.
+
+Security and loan transactions are recorded on a trade date basis.
+
+ Equity Method Investments
+
+Investments in which Blackstone is deemed to exert significant influence, but not control, are accounted for using the equity method of accounting except in cases where the fair value option has been elected. Blackstone has significant influence over all Blackstone Funds in which it invests but does not consolidate. Therefore, its investments in such Blackstone Funds, which generally include both a proportionate and disproportionate allocation of the profits and losses (as is the case with funds that include a Performance Allocation), are accounted for under the equity method. Under the equity method of accounting, Blackstone s share of earnings (losses) from equity method investments is included in Investment Income (Loss) in the Consolidated Statements of Operations.
+
+In cases where Blackstone s equity method investments provide for a disproportionate allocation of the profits and losses (as is the case with funds that include a Performance Allocation), Blackstone s share of earnings (losses) from equity method investments is determined using a balance sheet approach referred to as the hypothetical liquidation at book value ( HLBV ) method. Under the HLBV method, at the end of each reporting period, Blackstone calculates the Accrued Performance Allocations that would be due to Blackstone for each fund pursuant to the fund agreements as if the fair value of the underlying investments were realized as of such date, irrespective of whether such amounts have been realized. As the fair value of underlying investments varies between reporting periods, it is necessary to make adjustments to amounts recorded as Accrued Performance Allocations to reflect either (a) positive performance resulting in an increase in the Accrued Performance Allocation to the general partner, or (b) negative performance that would cause the amount due to Blackstone to be less than the amount previously recognized as revenue, resulting in a negative adjustment to the Accrued
+
+ Performance Allocation to the general partner. In each scenario, it is necessary to calculate the Accrued Performance Allocation on cumulative results compared to the Accrued Performance Allocation recorded to date and make the required positive or negative adjustments. Blackstone ceases to record negative Performance Allocations once previously Accrued Performance Allocations for such fund have been fully reversed. Blackstone is not obligated to pay guaranteed returns or hurdles, and therefore, cannot have negative Performance Allocations over the life of a fund. The carrying amounts of equity method investments are reflected in Investments in the Consolidated Statements of Financial Condition.
+
+Strategic Partners results presented in Blackstone s consolidated financial statements are reported on a three-month lag from Strategic Partners fund financial statements, which report the performance of underlying investments generally on a same quarter basis, if available. Therefore, Strategic Partners results presented herein do not reflect the impact of economic and market activity in the current quarter. Current quarter market activity of Strategic Partners underlying investments is expected to affect Blackstone s reported results in upcoming periods.
+
+ Cash and Cash Equivalents
+
+Cash and Cash Equivalents represents cash on hand, cash held in banks, money market funds and liquid investments with original maturities of three months or less. Interest income from cash and cash equivalents is recorded in Interest and Dividend Revenue in the Consolidated Statements of Operations.
+
+ Cash Held by Blackstone Funds and Other
+
+Cash Held by Blackstone Funds and Other represents cash and cash equivalents held by consolidated Blackstone Funds and other consolidated entities. Such amounts are not available to fund the general liquidity needs of Blackstone.
+
+ Accounts Receivable and Due from Affiliates
+
+Accounts Receivable and Due from Affiliates is comprised of management and incentive fees receivable from limited partners, receivables from managed investment vehicles and portfolio companies, placement and advisory fees receivables, receivables relating to unsettled sale transactions and loans extended to affiliates and to unaffiliated third parties. Accounts Receivable, excluding those for which the fair value option has been elected, are assessed periodically for collectability. Amounts determined to be uncollectible are charged directly to General, Administrative and Other Expenses in the Consolidated Statements of Operations.
+
+ Intangibles and Goodwill
+
+Blackstone s intangible assets consist of contractual rights to earn future fee income, including management and advisory fees, Incentive Fees and Performance Allocations. Identifiable finite-lived intangible assets are amortized on a straight-line basis over their estimated useful lives, ranging from three
+ to twenty years, reflecting the contractual lives of such assets. Amortization expense is included within General, Administrative and Other in the Consolidated Statements of Operations. Intangible assets are reviewed for impairment when events or changes in circumstances indicate that the carrying amount may not be recoverable.
+
+Goodwill comprises goodwill arising from the contribution and reorganization of Blackstone s predecessor entities in 2007 immediately prior to its initial public offering ( IPO ) and the acquisitions of GSO Capital Partners LP in 2008, Strategic Partners in 2013, Harvest Fund Advisors LLC in 2017, Clarus Ventures LLC in 2018 and DCI LLC in 2020. Goodwill is reviewed for impairment at least annually utilizing a qualitative or quantitative approach, and more frequently if circumstances indicate impairment may have occurred. The impairment testing for goodwill under the qualitative approach is based first on a qualitative assessment to determine if it is more likely than not that the fair value of Blackstone s operating segments is less than their respective carrying values.
+
+ The operating segments are considered the reporting units for testing the impairment of goodwill. If it is determined that it is more likely than not that an operating segment s fair value is less than its carrying value or when the quantitative approach is used, an impairment loss is recognized to the extent by which the carrying value exceeds the fair value, not to exceed the total amount of goodwill allocated to that reporting unit.
+
+ Furniture, Equipment and Leasehold Improvements
+
+Furniture, equipment and leasehold improvements consist primarily of leasehold improvements, furniture, fixtures and equipment, computer hardware and software and are recorded at cost less accumulated depreciation and amortization. Depreciation and amortization are calculated using the straight-line method over the assets estimated useful economic lives, which for leasehold improvements, furniture and fittings and other fixed assets were the lesser of the lease term or the life of the asset, the lesser of seven years or the lease term, or three
+ to five years, respectively. Blackstone evaluates long-lived assets for impairment whenever events or changes in circumstances indicate that the carrying amount may not be recoverable.
+
+ Foreign Currency
+
+In the normal course of business, Blackstone may enter into transactions denominated in currencies other than United States dollars. Foreign exchange gains and losses arising on such transactions are recorded as Other Revenue in the Consolidated Statements of Operations. Foreign currency transaction gains and losses arising within consolidated Blackstone Funds are recorded in Net Gains (Losses) from Fund Investment Activities. In addition, Blackstone consolidates a number of entities that have a non-U.S. dollar functional currency. Non-U.S. dollar denominated assets and liabilities are translated to U.S. dollars at the exchange rate prevailing at the reporting date and income, expenses, gains and losses are translated at the prevailing exchange rate on the dates that they were recorded. Cumulative translation adjustments arising from the translation of non-U.S. dollar denominated operations are recorded in Other Comprehensive Income and allocated to Non-Controlling Interests in Consolidated Entities and Non-Controlling Interests in Blackstone Holdings, as applicable.
+
+ Comprehensive Income
+
+Comprehensive Income consists of Net Income and Other Comprehensive Income. Blackstone s Other Comprehensive Income is comprised of foreign currency cumulative translation adjustments.
+
+ Compensation and Benefits
+
+Compensation and Benefits
+
+ Compensation
+
+ Compensation consists of (a) salary and bonus, and benefits paid and payable to employees and senior managing directors and (b) equity-based compensation associated with the grants of equity-based awards to employees and senior managing directors. Compensation cost relating to the issuance of equity-based awards to senior managing directors and employees is measured at fair value at the grant date, and expensed over the vesting period on a straight-line basis, taking into consideration expected forfeitures, except in the case of (a) equity-based awards that do not require future service, which are expensed immediately, and (b) certain awards to recipients that meet criteria making them eligible for retirement (allowing such recipient to keep a percentage of those awards upon departure from Blackstone after becoming eligible for retirement), for which the expense for the portion of the award that would be retained in the event of retirement is either expensed immediately or amortized to the retirement date. Cash settled equity-based awards and awards settled in a variable number of shares are classified as liabilities and are remeasured at the end of each reporting period.
+
+Compensation and Benefits Incentive Fee Compensation
+
+Incentive Fee Compensation consists of compensation paid based on Incentive Fees.
+
+ Compensation and Benefits Performance Allocations Compensation
+
+Performance Allocation Compensation consists of compensation paid based on Performance Allocations (which may be distributed in cash or in-kind).
+ Such compensation expense is subject to both positive and negative adjustments. Performance Allocations Compensation is generally based on the performance of individual investments held by a fund rather than on a fund by fund basis. These amounts may also include allocations of investment income from Blackstone s principal investments, to senior managing directors and employees participating in certain profit sharing initiatives.
+
+ Non-Controlling Interests in Consolidated Entities
+
+ Non-Controlling
+ Interests in Consolidated Entities represent the component of Equity in general partner entities and consolidated Blackstone Funds held by third-party investors and employees. The percentage interests in consolidated Blackstone Funds held by third parties and employees is adjusted for general partner allocations and by subscriptions and redemptions in funds of hedge funds and certain credit-focused funds which occur during the reporting period. Income (Loss) and other comprehensive income, if applicable, arising from the respective entities is allocated to non-controlling
+ interests in consolidated entities based on the relative ownership interests of third-party investors and employees after considering any contractual arrangements that govern the allocation of income (loss) such as fees allocable to Blackstone Inc.
+
+ Redeemable Non-Controlling Interests in Consolidated Entities
+
+ Investors in certain consolidated vehicles may be granted redemption rights that allow for quarterly or monthly redemption, as outlined in the relevant governing documents. Such redemption rights may be subject to certain limitations, including limits on the aggregate amount of interests that may be redeemed in a given period, may only allow for redemption following the expiration of a specified period of time, or may be withdrawn subject to a redemption fee during the period when capital may not be withdrawn. As a result, amounts relating to third-party interests in such consolidated vehicles are presented as Redeemable Non-Controlling
+ Interests in Consolidated Entities within the Consolidated Statements of Financial Condition. When redeemable amounts become legally payable to investors, they are classified as a liability and included in Accounts Payable, Accrued Expenses and Other Liabilities in the Consolidated Statements of Financial Condition. For all consolidated vehicles in which redemption rights have not been granted, non-controlling
+ interests are presented within Equity in the Consolidated Statements of Financial Condition as Non-Controlling
+ Interests in Consolidated Entities.
+
+ Non-Controlling Interests in Blackstone Holdings
+
+Non-Controlling Interests in Blackstone Holdings represent the component of Equity in the consolidated Blackstone Holdings Partnerships held by Blackstone personnel and others who are limited partners of the Blackstone Holdings Partnerships.
+
+Certain costs and expenses are borne directly by the Holdings Partnerships. Income (Loss), excluding those costs directly borne by and attributable to the Holdings Partnerships, is attributable to Non-Controlling Interests in Blackstone Holdings. This residual attribution is based on the year to date average percentage of Blackstone Holdings Partnership Units and unvested participating Holdings Partnership Units held by Blackstone personnel and others who are limited partners of the Blackstone Holdings Partnerships. Unvested participating Holdings Partnership Units are excluded from the attribution in periods of loss as they are not contractually obligated to share in losses of the Holdings Partnerships.
+
+ Other Income
+
+Net Gains (Losses) from Fund Investment Activities in the Consolidated Statements of Operations include net realized gains (losses) from realizations and sales of investments, the net change in unrealized gains (losses) resulting from changes in the fair value of investments and interest income and expense and dividends attributable to the consolidated Blackstone Funds investments.
+
+Expenses incurred by consolidated Blackstone funds are separately presented within Fund Expenses in the Consolidated Statements of Operations.
+
+Other Income also includes amounts attributable to the Reduction of the Tax Receivable Agreement Liability. See Note 14. Income Taxes Other Income Change in the Tax Receivable Agreement Liability for additional information.
+
+ Income Taxes
+
+Blackstone Inc. is a corporation for U.S. federal income tax purposes and thus is subject to U.S. federal, state and local income taxes on Blackstone s share of taxable income. The Blackstone Holdings Partnerships and certain of their subsidiaries operate in the U.S. as partnerships for U.S. federal income tax purposes and generally as corporate entities in non-U.S. jurisdictions. Accordingly, these entities in some cases are subject to New York City unincorporated business taxes or non-U.S. income taxes. In addition, certain of the wholly owned subsidiaries of Blackstone and the Blackstone Holdings Partnerships will be subject to federal, state and local corporate income taxes at the entity level and the related tax provision attributable to Blackstone s share of this income tax is reflected in the consolidated financial statements. Cash paid for transferrable tax credits is reflected in Payments for Income Taxes in the Consolidated Statements of Cash Flows.
+
+Provision for Income Taxes
+
+Income taxes are provided for using the asset and liability method under which deferred tax assets and liabilities are recognized for temporary differences between the financial reporting and tax bases of assets and liabilities, resulting in all pretax amounts being appropriately tax effected in the period, irrespective of which tax return year items will be reflected. Blackstone reports interest expense and tax penalties related to income tax matters in provision for income taxes.
+
+Deferred Income Taxes
+
+Deferred income taxes reflect the net tax effects of temporary differences between the financial reporting and tax bases of assets and liabilities. These temporary differences result in taxable or deductible amounts in future years and are measured using the tax rates and laws that will be in effect when such differences are expected to reverse. Valuation allowances are established to reduce the deferred tax assets to the amount that is more likely than not to be realized. Deferred tax assets are separately stated, and deferred tax liabilities are included in Accounts Payable, Accrued Expenses, and Other Liabilities in the consolidated financial statements.
+
+Unrecognized Tax Benefits
+
+Blackstone recognizes tax positions in the consolidated financial statements when it is more likely than not that the position will be sustained on examination by the relevant taxing authority based on the technical merits of the position. A position that meets this standard is measured at the largest amount of benefit that will more likely than not be realized on settlement. A liability is established for differences between positions taken in the return and amounts recognized in the consolidated financial statements. Accrued interest and penalties related to unrecognized tax benefits are reported on the related liability line in the consolidated financial statements.
+
+ Net Income (Loss) Per Share of Common Stock
+
+Basic Income (Loss) Per Share of Common Stock is calculated by dividing Net Income (Loss) Attributable to Blackstone Inc. by the weighted-average shares of common stock, unvested participating shares of common stock outstanding for the period and vested deferred restricted shares of common stock that have been earned for which issuance of the related shares of common stock is deferred until future periods. Diluted Income (Loss) Per Share of Common Stock reflects the impact of all dilutive securities. Unvested participating shares of common stock are excluded from the computation in periods of loss as they are not contractually obligated to share in losses.
+
+Blackstone applies the treasury stock method to determine the dilutive weighted-average common shares outstanding for certain equity-based compensation awards. Blackstone applies the if-converted method to the Blackstone Holdings Partnership Units to determine the dilutive impact, if any, of the exchange right included in the Blackstone Holdings Partnership Units. Blackstone applies the contingently issuable share model to contracts that may require the issuance of shares.
+
+ Reverse Repurchase and Repurchase Agreements
+
+Securities purchased under agreements to resell ( reverse repurchase agreements ) and securities sold under agreements to repurchase ( repurchase agreements ), generally comprised of U.S. and non-U.S. government and agency securities, asset backed securities and corporate debt, represent collateralized financing transactions. Such transactions are recorded within Accounts Payable, Accrued Expenses and Other Liabilities in the Consolidated Statements of Financial Condition at their contractual amounts and include accrued interest. The carrying value of reverse repurchase and repurchase agreements approximates fair value.
+
+Blackstone manages credit exposure arising from reverse repurchase agreements and repurchase agreements by, in appropriate circumstances, entering into master netting agreements and collateral arrangements with counterparties that provide Blackstone, in the event of a counterparty default, the right to liquidate collateral and the right to offset a counterparty s rights and obligations.
+
+Blackstone takes possession of securities purchased under reverse repurchase agreements and is permitted to repledge, deliver or otherwise use such securities. Blackstone also pledges its financial instruments to counterparties to collateralize repurchase agreements. Financial instruments pledged that can be repledged, delivered or otherwise used by the counterparty are recorded in Investments in the Consolidated Statements of Financial Condition. Additional disclosures relating to repurchase agreements are included in Note 9. Repurchase Agreements.
+
+Blackstone does not offset assets and liabilities relating to reverse repurchase agreements and repurchase agreements in its Consolidated Statements of Financial Condition. Additional disclosures relating to offsetting are discussed in Note 11. Offsetting of Assets and Liabilities.
+
+ Securities Sold, Not Yet Purchased
+
+Securities Sold, Not Yet Purchased consist of equity and debt securities that Blackstone has borrowed and sold. Blackstone is required to cover its short sale in the future by purchasing the security at prevailing market prices and delivering it to the counterparty from which it borrowed the security. Blackstone is exposed to loss in the event that the price at which a security may have to be purchased to cover a short sale exceeds the price at which the borrowed security was sold short.
+
+Securities Sold, Not Yet Purchased are recorded at fair value within Accounts Payable, Accrued Expenses and Other Liabilities in the Consolidated Statements of Financial Condition.
+
+ Derivative Instruments
+
+Blackstone recognizes all derivatives as assets or liabilities on its Consolidated Statements of Financial Condition at fair value. On the date Blackstone enters into a derivative contract, it designates and documents each derivative contract as one of the following: (a) a hedge of a recognized asset or liability ( fair value hedge ), (b) a hedge of a forecasted transaction or of the variability of cash flows to be received or paid related to a recognized asset or liability ( cash flow hedge ), (c) a hedge of a net investment in a foreign operation, or (d) a derivative instrument not designated as a hedging instrument ( freestanding derivative ).
+
+For freestanding derivative contracts, Blackstone presents changes in fair value in current period earnings. Changes in the fair value of derivative instruments held by consolidated Blackstone Funds are reflected in Net Gains (Losses) from Fund Investment Activities or, where derivative instruments are held by Blackstone, within Investment Income (Loss) in the Consolidated Statements of Operations. The fair value of freestanding derivative assets of the consolidated Blackstone Funds are recorded within Investments, the fair value of freestanding derivative assets that are not part of the consolidated Blackstone Funds are recorded within Other Assets and the fair value of freestanding derivative liabilities are recorded within Accounts Payable, Accrued Expenses and Other Liabilities in the Consolidated Statements of Financial Condition.
+
+Blackstone has elected to not offset derivative assets and liabilities or financial assets in its Consolidated Statements of Financial Condition, including cash, that may be received or paid as part of collateral arrangements, even when an enforceable master netting agreement is in place that provides Blackstone, in the event of counterparty default, the right to liquidate collateral and the right to offset a counterparty s rights and obligations.
+
+Blackstone s other disclosures regarding derivative financial instruments are discussed in Note 5. Derivative Financial Instruments.
+
+Blackstone s disclosures regarding offsetting are discussed in Note 11. Offsetting of Assets and Liabilities.
+
+ Leases
+
+Blackstone determines if an arrangement is a lease at inception of the arrangement. Blackstone primarily enters into operating leases, as the lessee, for office space. Operating leases are included in Right-of-Use ( ROU ) Assets and Operating Lease Liabilities in the Consolidated Statement of Financial Condition. ROU Assets and Operating Lease Liabilities are recognized based on the present value of the future minimum lease payments over the lease term at the commencement date. Blackstone determines the present value of the lease payments using an incremental borrowing rate based on information available at the inception date. Leases may include options to extend or terminate the lease which are included in the ROU Assets and Operating Lease Liability when they are reasonably certain of exercise.
+
+Certain leases include lease and nonlease components, which are accounted for as one single lease component. Occupancy lease agreements, in addition to contractual rent payments, generally include additional payments for certain costs incurred by the landlord, such as building expenses and utilities. To the extent these are fixed or determinable, they are included as part of the minimum lease payments used to measure the Operating Lease Liability. Operating lease expense associated with minimum lease payments is recognized on a straight-line basis over the lease term. When additional payments are based on usage or vary based on other factors, they are expensed when incurred as variable lease expense.
+
+Minimum lease payments for leases with an initial term of twelve months or less are not recorded on the Consolidated Statement of Financial Condition. Blackstone recognizes lease expense for these leases on a straight-line basis over the lease term.
+
+ Additional disclosures relating to leases are discussed in Note 13. Leases.
+
+ Affiliates
+
+Blackstone considers its Founder, senior managing directors, employees, the Blackstone Funds and the portfolio companies to be affiliates.
+
+ Dividends
+
+Dividends are reflected in the consolidated financial statements when declared.
+
+ Recent Accounting Developments
+
+In June 2022, the Financial Accounting Standards Board issued amended guidance addressing certain sale restrictions on equity securities measured at fair value. The guidance requires that reporting entities not consider contractual sale restrictions that prohibit the sale of equity securities when measuring fair value and introduces new disclosure requirements for equity securities subject to contractual sale restrictions. The new guidance was effective for Blackstone beginning January 1, 2024, was adopted on a prospective basis and did not result in a change in measurement of equity securities upon adoption. Related disclosures are included within the consolidated financial statements.
+
+X
+
+- DefinitionThe entire disclosure for all significant accounting policies of the reporting entity.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 1
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147483426/235-10-50-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 235
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/235/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_SignificantAccountingPoliciesTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

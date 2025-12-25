@@ -1,0 +1,1265 @@
+XML
+113
+R84.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+Partnership Credit Facilities (Detail) - USD ($)
+ $ in Thousands
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+
+$ 15,785,168
+
+$ 15,930,882
+
+Borrowing Outstanding
+
+11,460,168
+
+11,605,882
+
+Borrowings Of Consolidated Blackstone Funds
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+
+99,419
+
+858,133
+
+Borrowing Outstanding
+
+99,419
+
+858,133
+
+Credit Facility
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[1]
+4,325,000
+
+4,325,000
+
+Borrowing Outstanding
+[1]
+$ 0
+
+$ 0
+
+Effective Interest Rate
+[1]
+0.00%
+
+0.00%
+
+Partnership's Credit Facilities | Senior Secured Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 15,645,800
+
+$ 15,032,800
+
+Borrowing Outstanding
+[2]
+11,320,800
+
+10,707,800
+
+2.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+310,620
+
+331,170
+
+Borrowing Outstanding
+[2]
+$ 310,620
+
+$ 331,170
+
+Effective Interest Rate
+[2]
+2.10%
+
+2.16%
+
+1.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 621,240
+
+$ 662,340
+
+Borrowing Outstanding
+[2]
+$ 621,240
+
+$ 662,340
+
+Effective Interest Rate
+[2]
+1.13%
+
+1.16%
+
+3.150% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 300,000
+
+$ 300,000
+
+Borrowing Outstanding
+[2]
+$ 300,000
+
+$ 300,000
+
+Effective Interest Rate
+[2]
+3.30%
+
+3.30%
+
+5.900% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 600,000
+
+$ 600,000
+
+Borrowing Outstanding
+[2]
+$ 600,000
+
+$ 600,000
+
+Effective Interest Rate
+[2]
+6.13%
+
+6.13%
+
+1.625% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 650,000
+
+$ 650,000
+
+Borrowing Outstanding
+[2]
+$ 650,000
+
+$ 650,000
+
+Effective Interest Rate
+[2]
+1.79%
+
+1.79%
+
+1.500% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 621,240
+
+$ 662,340
+
+Borrowing Outstanding
+[2]
+$ 621,240
+
+$ 662,340
+
+Effective Interest Rate
+[2]
+1.56%
+
+1.60%
+
+2.500% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 500,000
+
+$ 500,000
+
+Borrowing Outstanding
+[2]
+$ 500,000
+
+$ 500,000
+
+Effective Interest Rate
+[2]
+2.73%
+
+2.73%
+
+1.600% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 500,000
+
+$ 500,000
+
+Borrowing Outstanding
+[2]
+$ 500,000
+
+$ 500,000
+
+Effective Interest Rate
+[2]
+1.71%
+
+1.71%
+
+2.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 800,000
+
+$ 800,000
+
+Borrowing Outstanding
+[2]
+$ 800,000
+
+$ 800,000
+
+Effective Interest Rate
+[2]
+2.18%
+
+2.18%
+
+2.550% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 500,000
+
+$ 500,000
+
+Borrowing Outstanding
+[2]
+$ 500,000
+
+$ 500,000
+
+Effective Interest Rate
+[2]
+2.67%
+
+2.67%
+
+6.200% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 900,000
+
+$ 900,000
+
+Borrowing Outstanding
+[2]
+$ 900,000
+
+$ 900,000
+
+Effective Interest Rate
+[2]
+6.33%
+
+6.33%
+
+3.500% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 517,700
+
+$ 551,950
+
+Borrowing Outstanding
+[2]
+$ 517,700
+
+$ 551,950
+
+Effective Interest Rate
+[2]
+3.79%
+
+3.90%
+
+5.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 750,000
+
+$ 0
+
+Borrowing Outstanding
+[2]
+$ 750,000
+
+$ 0
+
+Effective Interest Rate
+[2]
+5.23%
+
+0.00%
+
+6.250% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 250,000
+
+$ 250,000
+
+Borrowing Outstanding
+[2]
+$ 250,000
+
+$ 250,000
+
+Effective Interest Rate
+[2]
+6.65%
+
+6.65%
+
+5.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 500,000
+
+$ 500,000
+
+Borrowing Outstanding
+[2]
+$ 500,000
+
+$ 500,000
+
+Effective Interest Rate
+[2]
+5.16%
+
+5.16%
+
+4.450% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 350,000
+
+$ 350,000
+
+Borrowing Outstanding
+[2]
+$ 350,000
+
+$ 350,000
+
+Effective Interest Rate
+[2]
+4.56%
+
+4.56%
+
+4.000% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 300,000
+
+$ 300,000
+
+Borrowing Outstanding
+[2]
+$ 300,000
+
+$ 300,000
+
+Effective Interest Rate
+[2]
+4.20%
+
+4.20%
+
+3.500% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 400,000
+
+$ 400,000
+
+Borrowing Outstanding
+[2]
+$ 400,000
+
+$ 400,000
+
+Effective Interest Rate
+[2]
+3.61%
+
+3.61%
+
+2.800% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 400,000
+
+$ 400,000
+
+Borrowing Outstanding
+[2]
+$ 400,000
+
+$ 400,000
+
+Effective Interest Rate
+[2]
+2.88%
+
+2.88%
+
+2.850% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 550,000
+
+$ 550,000
+
+Borrowing Outstanding
+[2]
+$ 550,000
+
+$ 550,000
+
+Effective Interest Rate
+[2]
+2.91%
+
+2.91%
+
+3.200% Notes
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[2]
+$ 1,000,000
+
+$ 1,000,000
+
+Borrowing Outstanding
+[2]
+$ 1,000,000
+
+$ 1,000,000
+
+Effective Interest Rate
+[2]
+3.27%
+
+3.27%
+
+Secured Borrowings One | Other
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[3]
+$ 19,949
+
+$ 19,949
+
+Borrowing Outstanding
+[3]
+$ 19,949
+
+$ 19,949
+
+Effective Interest Rate
+[3]
+6.94%
+
+7.69%
+
+Secured Borrowings Two | Other
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[3]
+$ 20,000
+
+$ 20,000
+
+Borrowing Outstanding
+[3]
+$ 20,000
+
+$ 20,000
+
+Effective Interest Rate
+[3]
+6.94%
+
+3.72%
+
+Blackstone Operating Borrowings [Member] | Other
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[3]
+$ 15,685,749
+
+$ 15,072,749
+
+Borrowing Outstanding
+[3]
+11,360,749
+
+10,747,749
+
+CLO Notes Payable [Member] | Borrowings Of Consolidated Blackstone Funds
+
+Line of Credit Facility [Line Items]
+
+Credit Available
+[4]
+99,419
+
+858,133
+
+Borrowing Outstanding
+[4]
+$ 99,419
+
+$ 858,133
+
+Effective Interest Rate
+[4]
+8.72%
+
+7.57%
+
+[1]
+Represents the Credit Facility of Blackstone, through the Issuer. Interest on the borrowings is based on an adjusted Secured Overnight Finance Rate ( SOFR ) or alternate base rate, in each case plus a margin, and undrawn commitments bear a commitment fee
+
+[2]
+The Issuers have issued long-term borrowings in the form of senior notes (the Notes ). The Notes are unsecured and unsubordinated obligations of the Issuers. The Notes are fully and unconditionally guaranteed, jointly and severally, by Blackstone, the Guarantors and the Issuers. The guarantees are unsecured and unsubordinated obligations of the Guarantors. Transaction costs related to the issuance of the Notes have been deducted from the Note liability and are being amortized over the life of the Notes. The indentures include covenants, including limitations on the Issuers and the Guarantors ability to, subject to exceptions, incur indebtedness secured by liens on voting stock or profit participating equity interests of their subsidiaries or merge, consolidate or sell, transfer or lease assets. The indentures also provide for events of default and further provide that the trustee or the holders of not less than 25% in aggregate principal amount of the outstanding Notes may declare the Notes immediately due and payable upon the occurrence and during the continuance of any event of default after expiration of any applicable grace period. In the case of specified events of bankruptcy, insolvency, receivership or reorganization, the principal amount of the Notes and any accrued and unpaid interest on the Notes automatically become due and payable. All or a portion of the Notes may be redeemed at the Issuers option in whole or in part, at any time and from time to time, prior to their stated maturity, at the make-whole redemption price set forth in the Notes. If a change of control repurchase event occurs, the holders of the Notes may require the Issuers to repurchase the Notes at a repurchase price in cash equal to 101% of the aggregate principal amount of the Notes repurchased plus any accrued and unpaid interest on the Notes repurchased to, but not including, the date of repurchase.
+
+[3]
+Principal on the Secured Borrowings will be paid over the term with repayment amounts dependent on the performance of the underlying assets securing each borrowing. Repayment amounts from the underlying assets are restricted to solely satisfy the Secured Borrowings obligations. As of December 31, 2024, the fair value of the assets securing both Secured Borrowings equaled $49.6 million.
+
+[4]
+CLO Notes Payable have maturity dates ranging from June 2025 to January 2037. A portion of the borrowing outstanding is comprised of subordinated notes which do not have contractual interest rates but instead pay distributions from the excess cash flows of the CLO vehicles.
+
+X
+
+- DefinitionCredit available.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+bx_CreditAvailable
+
+ Namespace Prefix:
+bx_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionWeighted average interest rate of debt outstanding.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_DebtWeightedAverageInterestRate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionThe carrying value as of the balance sheet date of the current and noncurrent portions of long-term obligations drawn from a line of credit, which is a bank's commitment to make loans up to a specific amount. Examples of items that might be included in the application of this element may consist of letters of credit, standby letters of credit, and revolving credit arrangements, under which borrowings can be made up to a maximum amount as of any point in time conditional on satisfaction of specified terms before, as of and after the date of drawdowns on the line. Includes short-term obligations that would normally be classified as current liabilities but for which (a) postbalance sheet date issuance of a long term obligation to refinance the short term obligation on a long term basis, or (b) the enterprise has entered into a financing agreement that clearly permits the enterprise to refinance the short-term obligation on a long term basis and the following conditions are met (1) the agreement does not expire within 1 year and is not cancelable by the lender except for violation of an objectively determinable provision, (2) no violation exists at the BS date, and (3) the lender has entered into the financing agreement is expected to be financially capable of honoring the agreement.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(22))
+ -SubTopic 10
+ -Topic 210
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 942
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.9-03(16))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478546/942-210-S99-1
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 944
+ -SubTopic 210
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.7-03(a)(16)(a)(2))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478777/944-210-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCredit
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 470
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481544/470-10-50-6
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.4-08(f))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_LineOfCreditFacilityLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_LongtermDebtTypeAxis=bx_BorrowingsOfConsolidatedBlackstoneFundsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CreditFacilityAxis=us-gaap_RevolvingCreditFacilityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_CreditFacilityAxis=bx_PartnershipsCreditFacilitiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LongtermDebtTypeAxis=us-gaap_SeniorNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointOneFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointNineZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointSixTwoFivePercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointFiveZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointFiveZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_OnePointSixZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointZeroZeroZero1PercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointFiveFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SixPointTwoZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointFiveZeroZeroPercentNoteMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SixPointTwoFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FivePointZeroZeroZero1PercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FourPointFourFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_FourPointZeroZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointFiveZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointEightZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_TwoPointEightFiveZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_ThreePointTwoZeroZeroPercentNotesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SecuredBorrowingsOneMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_LongtermDebtTypeAxis=us-gaap_OtherDebtSecuritiesMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_SecuredBorrowingsTwoMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_BlackstoneOperatingBorrowingsMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_DebtInstrumentAxis=bx_CloNotesPayableMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

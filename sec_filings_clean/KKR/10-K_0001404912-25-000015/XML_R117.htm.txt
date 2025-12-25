@@ -1,0 +1,314 @@
+XML
+139
+R117.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INSURANCE INTANGIBLES, UNEARNED REVENUE RESERVES AND UNEARNED FRONT-END LOADS - Value of Business Acquired Liability (Details) - USD ($)
+ $ in Thousands
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Dec. 31, 2023
+
+Dec. 31, 2022
+
+Movement In Value Of Business Acquired Liability [Roll Forward]
+
+Balance, as of the Beginning of the Period
+$ 867,932
+
+$ 1,004,124
+
+$ 1,142,277
+
+Amortization Expense
+(101,624)
+
+(136,192)
+
+(138,153)
+
+Balance, as of the End of the Period
+766,308
+
+867,932
+
+1,004,124
+
+Fixed Rate Annuities
+
+Movement In Value Of Business Acquired Liability [Roll Forward]
+
+Balance, as of the Beginning of the Period
+65,966
+
+98,342
+
+136,227
+
+Amortization Expense
+(21,534)
+
+(32,376)
+
+(37,885)
+
+Balance, as of the End of the Period
+44,432
+
+65,966
+
+98,342
+
+Fixed Indexed Annuities
+
+Movement In Value Of Business Acquired Liability [Roll Forward]
+
+Balance, as of the Beginning of the Period
+106,538
+
+145,610
+
+184,664
+
+Amortization Expense
+(31,283)
+
+(39,072)
+
+(39,054)
+
+Balance, as of the End of the Period
+75,255
+
+106,538
+
+145,610
+
+Interest Sensitive Life
+
+Movement In Value Of Business Acquired Liability [Roll Forward]
+
+Balance, as of the Beginning of the Period
+421,213
+
+461,592
+
+500,264
+
+Amortization Expense
+(29,397)
+
+(40,379)
+
+(38,672)
+
+Balance, as of the End of the Period
+391,816
+
+421,213
+
+461,592
+
+Variable Annuities
+
+Movement In Value Of Business Acquired Liability [Roll Forward]
+
+Balance, as of the Beginning of the Period
+91,295
+
+99,776
+
+109,826
+
+Amortization Expense
+(6,113)
+
+(8,481)
+
+(10,050)
+
+Balance, as of the End of the Period
+85,182
+
+91,295
+
+99,776
+
+Other
+
+Movement In Value Of Business Acquired Liability [Roll Forward]
+
+Balance, as of the Beginning of the Period
+182,920
+
+198,804
+
+211,296
+
+Amortization Expense
+(13,297)
+
+(15,884)
+
+(12,492)
+
+Balance, as of the End of the Period
+$ 169,623
+
+$ 182,920
+
+$ 198,804
+
+X
+
+- DefinitionMovement In Value Of Business Acquired Liability
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_MovementInValueOfBusinessAcquiredLiabilityRollForward
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits, Liability
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLiability
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPresent Value Of Future Insurance Profits, Liability, Amortization Expense
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PresentValueOfFutureInsuranceProfitsLiabilityAmortizationExpense
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+debit
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedRateAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=kkr_FixedIndexedAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_InterestSensitiveLifeMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_VariableAnnuityMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_ProductOrServiceAxis=us-gaap_OtherLongdurationInsuranceProductLineMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

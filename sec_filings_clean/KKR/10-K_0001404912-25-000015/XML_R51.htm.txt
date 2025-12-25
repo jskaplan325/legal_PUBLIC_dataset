@@ -1,0 +1,906 @@
+XML
+73
+R51.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+INVESTMENTS (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Investments [Abstract]
+
+Schedule of Investments
+Investments consist of the following:
+
+ December 31, 2024 December 31, 2023
+Asset Management and Strategic Holdings
+Private Equity $ 34,462,952 $ 32,742,484
+Credit 8,054,581 8,274,904
+Investments of Consolidated CFEs 27,488,538 24,996,298
+Real Assets 13,222,738 12,000,008
+Equity Method - Other 8,333,527 8,163,831
+Equity Method - Capital Allocation-Based Income 9,798,370 7,877,904
+Other Investments 5,092,344 4,579,372
+Investments - Asset Management and Strategic Holdings $ 106,453,051 $ 98,634,801
+
+Insurance
+Fixed Maturity Securities, Available-for-sale, at Fair Value(1)
+ $ 76,259,956 $ 69,414,188
+Mortgage and Other Loan Receivables 52,751,077 39,177,927
+Fixed Maturity Securities, Trading, at Fair Value(2)
+ 21,419,241 18,805,470
+Real Assets(3)(4)
+ 14,078,498 9,342,318
+Policy Loans 1,622,958 1,556,030
+Other Investments(4)(5)
+ 1,475,156 360,745
+Funds Withheld Receivable at Interest 2,537,858 2,713,645
+
+Investments - Insurance(6)
+ $ 170,144,744 $ 141,370,323
+
+Total Investments $ 276,597,795 $ 240,005,124
+
+(1)Amortized cost of $85.6 billion and $78.7 billion, net of credit loss allowances of $275.3 million and $268.7 million, respectively.
+(2)Amortized cost of $23.8 billion and $20.5 billion, respectively. Trading fixed maturity securities are primarily held to back funds withheld payable at interest. The investment performance on these investments is ceded to third-party reinsurers.
+(3)Net of accumulated depreciation of $623.1 million and $467.7 million, respectively.
+(4)Real assets of $1.0 billion and $104.7 million, respectively, and other investments of $682.9 million and $38.6 million, respectively, are accounted for using the equity method of accounting. Global Atlantic's maximum exposure to loss related to these equity method investments is limited to the carrying value of these investments plus unfunded commitments of $23.0 million and $19.7 million, respectively. In addition, Global Atlantic has investments that would otherwise require the equity method of accounting for which the fair value option has been elected. The carrying amount of these investments was $476.3 million and $175.3 million, respectively.
+(5)Other investments include equity securities, limited partnership interests, investments in FHLB common stock, and other interests.
+(6)As of December 31, 2024 and 2023, the carrying value reflects the elimination for the portion of applicable investments that are held in Asset Management and Strategic Holdings consolidated investment vehicles and other entities.
+
+Schedule of Equity Method Investments
+The following table shows summarized financial information relating to the statements of financial condition for all of KKR's equity method investments assuming 100% ownership as of December 31, 2024 and 2023:
+
+ December 31, 2024 December 31, 2023
+Asset Management and Strategic Holdings
+Total Assets $ 252,104,471 $ 245,172,170
+Total Liabilities $ 63,141,812 $ 67,695,320
+Total Equity $ 188,962,659 $ 177,476,850
+
+Insurance
+Total Assets $ 18,317,590 $ 5,643,540
+Total Liabilities $ 10,321,725 $ 3,040,471
+Total Equity $ 7,995,865 $ 2,603,069
+
+The following table shows summarized financial information relating to the statements of operations for all of KKR's equity method investments assuming 100% ownership for the years ended December 31, 2024, 2023, and 2022:
+
+ For the Years Ended December 31,
+ 2024 2023 2022
+Asset Management and Strategic Holdings
+Investment Related Revenues $ 17,725,187 $ 17,454,663 $ 28,379,991
+Other Revenues 1,300,377 854,595 826,557
+Investment Related Expenses 13,254,876 18,623,867 4,297,342
+Other Expenses 1,997,379 422,050 223,953
+Net Realized and Unrealized Gains (Losses) from Investments 20,646,085 15,795,029 (16,279,901)
+ $ 24,419,394 $ 15,058,370 $ 8,405,352
+
+Insurance
+Revenues $ 2,555,196 $ 416,360 $ 1,365,222
+Expenses 2,610,301 482,056 708,229
+ $ (55,105) $ (65,696) $ 656,993
+
+Net Income (Loss) $ 24,364,289 $ 14,992,674 $ 9,062,345
+
+Schedule of AFS Fixed Maturity Securities
+The cost or amortized cost and fair value for AFS fixed maturity securities were as follows:
+
+ Cost or Amortized Cost Allowance for Credit Losses (1)(2)
+ Gross Unrealized Fair Value
+As of December 31, 2024 Gains Losses
+AFS Fixed Maturity Securities Portfolio by Type:
+U.S. Government and Agencies $ 2,576,106 $ $ 227 $ (184,926) $ 2,391,407
+U.S. State, Municipal and Political Subdivisions 4,774,108 5,290 (1,009,937) 3,769,461
+Corporate 48,862,650 (99,616) 119,998 (6,943,765) 41,939,267
+Residential Mortgage-backed Securities, or RMBS 10,964,553 (115,810) 54,319 (624,040) 10,279,022
+Commercial Mortgage-backed Securities, or CMBS 8,387,194 (44,024) 28,702 (381,505) 7,990,367
+Collateralized Bond Obligations, or CBOs 2,487,066 (1,190) (79,644) 2,406,232
+CLOs 4,106,046 (6,620) 24,177 (22,265) 4,101,338
+Asset-Backed Securities, or ABSs 3,455,133 (8,062) 23,255 (87,464) 3,382,862
+Total AFS Fixed Maturity Securities $ 85,612,856 $ (275,322) $ 255,968 $ (9,333,546) $ 76,259,956
+
+(1)Represents the cumulative amount of credit impairments that have been recognized in the consolidated statements of operations (as net investment gains (losses)) or that were recognized as a gross-up of the purchase price of PCD securities. Amount excludes unrealized losses related to non-credit impairment.
+(2)Includes credit loss allowances on purchase-credit deteriorated fixed maturity securities of $(9.2) million.
+
+ Cost or Amortized Cost Allowance for Credit Losses (1)(2)
+ Gross Unrealized Fair Value
+As of December 31, 2023 Gains Losses
+AFS Fixed Maturity Securities Portfolio by Type:
+U.S. Government and Agencies $ 1,209,507 $ $ 62,514 $ (68,929) $ 1,203,092
+U.S. State, Municipal and Political Subdivisions 5,562,826 29,699 (985,133) 4,607,392
+Corporate 46,378,337 (49,008) 211,570 (6,592,143) 39,948,756
+RMBS 8,734,629 (152,067) 38,206 (674,550) 7,946,218
+CMBS 7,491,743 (35,953) 4,195 (731,358) 6,728,627
+CBOs 2,951,511 (1,214) (143,818) 2,806,479
+CLOs 3,493,731 (19,077) 6,483 (52,365) 3,428,772
+ABSs 2,901,573 (11,393) 14,358 (159,686) 2,744,852
+Total AFS Fixed Maturity Securities $ 78,723,857 $ (268,712) $ 367,025 $ (9,407,982) $ 69,414,188
+
+(1)Represents the cumulative amount of credit impairments that have been recognized in the consolidated statements of operations (as net investment gains (losses)) or that were recognized as a gross-up of the purchase price of PCD securities. Amount excludes unrealized losses related to non-credit impairment.
+(2)Includes credit loss allowances on purchase-credit deteriorated fixed maturity securities of $(12.8) million.
+The maturity distribution for AFS fixed maturity securities is as follows:
+
+As of December 31, 2024 Cost or
+Amortized Cost (Net of Allowance) Fair Value
+Due in One Year or Less $ 1,260,728 $ 1,254,003
+Due After One Year Through Five Years 12,622,231 12,403,864
+Due After Five Years Through Ten Years 9,428,803 9,080,920
+Due After Ten Years 32,801,486 25,361,348
+Subtotal 56,113,248 48,100,135
+RMBS 10,848,743 10,279,022
+CMBS 8,343,170 7,990,367
+CBOs 2,485,876 2,406,232
+CLOs 4,099,426 4,101,338
+ABSs 3,447,071 3,382,862
+Total AFS Fixed Maturity Securities $ 85,337,534 $ 76,259,956
+
+The following tables provide information about AFS fixed maturity securities that have been continuously in an unrealized loss position:
+
+ Less Than 12 months 12 months or More Total
+As of December 31, 2024 Fair
+Value Unrealized Losses Fair
+Value Unrealized Losses Fair
+Value Unrealized Losses
+AFS Fixed Maturity Securities Portfolio by Type:
+U.S. Government and Agencies $ 2,150,669 $ (110,280) $ 203,661 $ (74,646) $ 2,354,330 $ (184,926)
+U.S. State, Municipal and Political Subdivisions 251,191 (4,816) 3,305,469 (1,005,121) 3,556,660 (1,009,937)
+Corporate 12,959,540 (457,706) 18,491,535 (6,486,059) 31,451,075 (6,943,765)
+RMBS 2,436,204 (62,488) 3,998,635 (561,552) 6,434,839 (624,040)
+CMBS 1,006,250 (4,683) 3,737,990 (376,822) 4,744,240 (381,505)
+CBOs 1,158 (81) 2,405,075 (79,563) 2,406,233 (79,644)
+CLOs 274,025 (1,630) 293,008 (20,635) 567,033 (22,265)
+ABSs 739,370 (5,581) 1,309,477 (81,883) 2,048,847 (87,464)
+Total AFS Fixed Maturity Securities in a Continuous Loss Position $ 19,818,407 $ (647,265) $ 33,744,850 $ (8,686,281) $ 53,563,257 $ (9,333,546)
+
+ Less Than 12 months 12 months or More Total
+As of December 31, 2023 Fair
+Value Unrealized Losses Fair
+Value Unrealized Losses Fair
+Value Unrealized Losses
+AFS Fixed Maturity Securities Portfolio by Type:
+U.S. Government and Agencies $ 94,807 $ (2,512) $ 198,750 $ (66,417) $ 293,557 $ (68,929)
+U.S. State, Municipal and Political Subdivisions 112,468 (4,140) 3,829,447 (980,993) 3,941,915 (985,133)
+Corporate 4,360,234 (189,026) 27,108,292 (6,403,117) 31,468,526 (6,592,143)
+RMBS 1,371,230 (66,550) 4,354,902 (608,000) 5,726,132 (674,550)
+CMBS 332,095 (4,535) 6,031,766 (726,823) 6,363,861 (731,358)
+CBOs 1,867 (118) 2,804,612 (143,700) 2,806,479 (143,818)
+CLOs 246,728 (868) 1,679,813 (51,497) 1,926,541 (52,365)
+ABSs 553,438 (15,760) 1,742,373 (143,926) 2,295,811 (159,686)
+Total AFS Fixed Maturity Securities in a Continuous Loss Position $ 7,072,867 $ (283,509) $ 47,749,955 $ (9,124,473) $ 54,822,822 $ (9,407,982)
+
+Schedule of Certain Loans and Debt Securities Acquired in Transfer
+These securities are identified as PCD, and a reconciliation of the difference between the purchase price and the par value of these PCD securities is below. No assets with credit deterioration were purchased during the years ended December 31, 2024 and 2023.
+ Year Ended December 31,
+ 2022
+Purchase Price of PCD Securities Acquired During the Current Period $ 24,005
+Allowance for Credit Losses at Acquisition 707
+Discount Attributable to Other Factors 1,710
+Par Value $ 26,422
+
+Schedule of Mortgage and Other Loans Receivable
+Mortgage and other loan receivables consist of the following:
+
+ December 31, 2024 December 31, 2023
+Commercial Mortgage Loans(1)
+ $ 25,263,148 $ 21,861,245
+Residential Mortgage Loans(1)
+ 21,581,616 12,722,778
+Consumer Loans(1)
+ 4,848,208 4,424,882
+Other Loan Receivables(1)(2)
+ 1,672,513 771,465
+Total Mortgage and Other Loan Receivables $ 53,365,485 $ 39,780,370
+Allowance for Credit Losses(3)
+ (614,408) (602,443)
+Total Mortgage and Other Loan Receivables, Net of Allowance for Credit Losses $ 52,751,077 $ 39,177,927
+
+(1)Includes $1.6 billion and $697.4 million of loans carried at fair value using the fair value option as of December 31, 2024 and 2023, respectively. These loans had unpaid principal balances of $1.8 billion and $785.2 million as of December 31, 2024 and 2023, respectively.
+(2)As of December 31, 2024, other loan receivables consisted primarily of renewable energy development loans, warehouse facility loans backed by agricultural mortgages, loans collateralized by aircraft and loans collateralized by residential mortgages of $547.2 million, $503.0 million, $271.2 million and $200.0 million, respectively. As of December 31, 2023, other loan receivables consisted primarily of loans collateralized by aircraft and loans collateralized by residential mortgages of $315.4 million and $200.0 million, respectively.
+(3)Includes credit loss allowances on purchase-credit deteriorated mortgage and other loan receivables of $(72.2) million and $(91.7) million as of December 31, 2024 and 2023, respectively.
+
+Schedule of Maturity Distribution by Contractual Maturity for Residential and Commercial Mortgage Loans
+The maturity distribution for residential and commercial mortgage loans was as follows as of December 31, 2024:
+
+Years Residential Commercial Total Mortgage Loans
+
+2025 $ 4,935 $ 4,755,929 $ 4,760,864
+2026 581,437 6,704,132 7,285,569
+2027 602,887 7,321,963 7,924,850
+2028 126,129 1,579,826 1,705,955
+2029 11,336 1,339,578 1,350,914
+Thereafter 20,254,892 3,561,720 23,816,612
+Total $ 21,581,616 $ 25,263,148 $ 46,844,764
+
+Schedule of Mortgage Loan Portfolio by Geographic Region and Property Type
+The following tables present the mortgage loans by geographic region and property type:
+Mortgage Loans Carrying Value by Geographic Region December 31, 2024 December 31, 2023
+South Atlantic $ 13,215,065 28.2 % $ 9,653,955 27.9 %
+Pacific 11,739,093 25.1 % 8,649,256 25.0 %
+Middle Atlantic 5,841,960 12.5 % 4,436,129 12.8 %
+West South Central 5,395,952 11.5 % 4,202,501 12.2 %
+Mountain 4,001,411 8.5 % 3,262,801 9.4 %
+New England 1,679,335 3.6 % 1,470,741 4.3 %
+East North Central 1,505,688 3.2 % 1,166,460 3.4 %
+East South Central 986,070 2.1 % 731,053 2.1 %
+West North Central 455,503 1.0 % 358,609 1.0 %
+Foreign and Other Regions 2,024,687 4.3 % 652,518 1.9 %
+Total by Geographic Region $ 46,844,764 100.0 % $ 34,584,023 100.0 %
+
+Mortgage Loans Carrying Value by Property Type December 31, 2024 December 31, 2023
+Residential $ 21,581,616 46.1 % $ 12,722,778 36.8 %
+Multi-family 12,793,478 27.3 % 11,495,638 33.2 %
+Industrial 6,357,311 13.6 % 4,415,819 12.8 %
+Office Building 4,468,303 9.5 % 4,586,277 13.3 %
+Other Property Types 804,743 1.7 % 578,799 1.7 %
+Retail 504,812 1.1 % 493,596 1.4 %
+Warehouse 334,501 0.7 % 291,116 0.8 %
+Total by Property Type $ 46,844,764 100.0 % $ 34,584,023 100.0 %
+
+Schedule of Receivables by Credit Quality Indicator
+The following table represents the portfolio of mortgage and consumer loan receivables by origination year and performance status as of December 31, 2024 and 2023:
+
+ By Year of Origination
+Performance Status as of December 31, 2024
+ 2024 2023 2022 2021 2020 Prior Total
+Commercial Mortgage Loans
+Gross Charge-offs for the Year Ended December 31, 2024
+ $ $ $ (20,387) $ (80,798) $ (10,695) $ (51,598) $ (163,478)
+
+Current $ 4,626,771 $ 3,575,323 $ 6,012,774 $ 6,414,939 $ 559,931 $ 3,899,288 $ 25,089,026
+30 to 59 Days Past Due
+60 to 89 Days Past Due 42,335 42,335
+90 days or More Past Due or in Process of Foreclosure 96,787 35,000 131,787
+Total Commercial Mortgage Loans $ 4,626,771 $ 3,575,323 $ 6,012,774 $ 6,511,726 $ 559,931 $ 3,976,623 $ 25,263,148
+Residential Mortgage Loans
+Gross Charge-offs for the Year Ended December 31, 2024
+ $ (15) $ (7) $ (1,308) $ (2,565) $ (524) $ (697) $ (5,116)
+
+Current $ 8,277,782 $ 3,958,884 $ 1,948,869 $ 4,010,265 $ 1,192,287 $ 1,470,411 $ 20,858,498
+30 to 59 Days Past Due 67,924 89,078 64,113 39,326 6,140 90,891 357,472
+60 to 89 Days Past Due 20,388 24,336 10,303 11,554 325 23,597 90,503
+90 days or More Past Due or in Process of Foreclosure 9,550 42,672 36,404 64,990 9,235 112,292 275,143
+Total Residential Mortgage Loans $ 8,375,644 $ 4,114,970 $ 2,059,689 $ 4,126,135 $ 1,207,987 $ 1,697,191 $ 21,581,616
+Consumer Loans
+Gross Charge-offs for the Year Ended December 31, 2024
+ $ (1,345) $ (6,896) $ (22,614) $ (73,814) $ (19,872) $ (29,251) $ (153,792)
+
+Current $ 592,705 $ 454,890 $ 691,198 $ 1,394,197 $ 566,071 $ 1,050,090 $ 4,749,151
+30 to 59 Days Past Due 860 2,444 3,433 22,069 4,090 14,816 47,712
+60 to 89 Days Past Due 517 1,194 2,178 10,399 2,299 7,874 24,461
+90 days or More Past Due or in Process of Foreclosure 278 2,317 3,351 9,656 2,650 8,632 26,884
+Total Consumer Loans $ 594,360 $ 460,845 $ 700,160 $ 1,436,321 $ 575,110 $ 1,081,412 $ 4,848,208
+Total Mortgage and Consumer Loan Receivables $ 13,596,775 $ 8,151,138 $ 8,772,623 $ 12,074,182 $ 2,343,028 $ 6,755,226 $ 51,692,972
+
+ By Year of Origination
+Performance Status as of December 31, 2023
+ 2023 2022 2021 2020 2019 Prior Total
+Commercial Mortgage Loans
+Gross Charge-offs for the Year Ended December 31, 2023 $ $ $ $ $ (14,000) $ (7,616) $ (21,616)
+
+Current $ 3,600,652 $ 6,278,419 $ 6,633,293 $ 624,457 $ 1,395,717 $ 2,969,381 $ 21,501,919
+30 to 59 Days Past Due
+60 to 89 Days Past Due 79,635 79,635
+90 days or More Past Due or in Process of Foreclosure 182,069 36,859 60,763 279,691
+Total Commercial Mortgage Loans $ 3,600,652 $ 6,278,419 $ 6,815,362 $ 661,316 $ 1,395,717 $ 3,109,779 $ 21,861,245
+Residential Mortgage Loans
+Gross Charge-offs for the Year Ended December 31, 2023 $ (6) $ (1,228) $ (2,244) $ (913) $ (1,412) $ (2,373) $ (8,176)
+
+Current $ 2,794,600 $ 1,981,373 $ 4,518,357 $ 1,358,200 $ 221,566 $ 1,365,231 $ 12,239,327
+30 to 59 Days Past Due 43,432 22,291 37,082 3,554 5,461 84,079 195,899
+60 to 89 Days Past Due 8,467 8,520 9,991 1,437 1,389 26,565 56,369
+90 days or More Past Due or in Process of Foreclosure 2,518 19,326 72,753 12,048 9,265 115,273 231,183
+Total Residential Mortgage Loans $ 2,849,017 $ 2,031,510 $ 4,638,183 $ 1,375,239 $ 237,681 $ 1,591,148 $ 12,722,778
+Consumer Loans
+Gross Charge-offs for the Year Ended December 31, 2023 $ (185) $ (18,117) $ (83,147) $ (23,273) $ (15,740) $ (19,783) $ (160,245)
+
+Current $ 109,393 $ 497,113 $ 1,726,280 $ 701,655 $ 610,988 $ 656,270 $ 4,301,699
+30 to 59 Days Past Due 1,707 4,229 28,966 5,082 4,497 12,686 57,167
+60 to 89 Days Past Due 1,193 2,548 14,872 3,298 2,561 6,756 31,228
+90 days or More Past Due or in Process of Foreclosure 2,597 3,991 13,461 4,281 3,907 6,551 34,788
+Total Consumer Loans $ 114,890 $ 507,881 $ 1,783,579 $ 714,316 $ 621,953 $ 682,263 $ 4,424,882
+Total Mortgage and Consumer Loan Receivables $ 6,564,559 $ 8,817,810 $ 13,237,124 $ 2,750,871 $ 2,255,351 $ 5,383,190 $ 39,008,905
+
+Schedule of Loan-to-Value Ratios
+The following table summarizes Global Atlantic's loan-to-value ratios for its commercial mortgage loans as of December 31, 2024 and 2023:
+Loan-to-value as of December 31, 2024 by Year of Origination
+ Carrying Value Loan-to-value 70% and Less Carrying Value Loan-to-value 71% - 90% Carrying Value Loan-to-value Over 90% Total Carrying Value
+2024 $ 4,487,814 $ 138,957 $ $ 4,626,771
+2023 3,575,323 3,575,323
+2022 5,646,922 365,852 6,012,774
+2021 4,931,730 1,429,694 150,302 6,511,726
+2020 433,377 91,524 35,030 559,931
+2019 1,145,297 54,501 39,308 1,239,106
+Prior 2,538,853 53,510 145,154 2,737,517
+Total Commercial Mortgage Loans $ 22,759,316 $ 2,134,038 $ 369,794 $ 25,263,148
+
+Loan-to-value as of December 31, 2023 by Year of Origination
+ Carrying Value Loan-to-value 70% and Less Carrying Value Loan-to-value 71% - 90% Carrying Value Loan-to-value Over 90% Total Carrying Value
+2023 $ 3,600,652 $ $ $ 3,600,652
+2022 5,912,623 365,796 6,278,419
+2021 5,110,011 1,483,763 221,588 6,815,362
+2020 496,085 93,210 72,021 661,316
+2019 1,257,983 93,661 44,073 1,395,717
+2018 881,620 52,640 114,989 1,049,249
+Prior 1,991,780 68,750 2,060,530
+Total Commercial Mortgage Loans $ 19,250,754 $ 2,089,070 $ 521,421 $ 21,861,245
+
+Schedule of Financing Receivable, Troubled Debt Restructuring
+The tables below present the carrying value of loans to borrowers experiencing financial difficulty, for which modifications have been granted during the years ended December 31, 2024 and 2023:
+
+Year Ended December 31, 2024 by Loan Type
+ Deferral of Amounts Due Interest Rate Relief Maturity Extension Combination(1)
+ Total Percentage of Total Carrying Value Outstanding
+Commercial Mortgage Loans $ $ $ $ 387,903 $ 387,903 1.54 %
+Residential Mortgage Loans 4,563 14,227 18,790 0.09 %
+Consumer Loans 2,795 901 29,865 50,963 84,524 1.74 %
+Total(2)
+ $ 7,358 $ 901 $ 29,865 $ 453,093 $ 491,217
+
+(1)Includes modifications involving a combination of deferral of amounts due, interest rate relief, or maturity extension.
+(2)Excludes loans that were modified during the year, but were repaid in full by year end.
+
+Year Ended December 31, 2023 by Loan Type
+ Deferral of Amounts Due Interest Rate Relief Maturity Extension Combination(1)
+ Total Percentage of Total Carrying Value Outstanding
+Commercial Mortgage Loans $ $ $ $ 478,836 $ 478,836 2.19 %
+Residential Mortgage Loans 1,371 1,206 25,130 8,145 35,852 0.28 %
+Consumer Loans 6,515 3,768 48,568 18,465 77,316 1.75 %
+Total(2)
+ $ 7,886 $ 4,974 $ 73,698 $ 505,446 $ 592,004
+
+(1)Includes modifications involving a combination of deferral of amounts due, interest rate relief, or maturity extension.
+(2)Excludes loans that were modified during the year, but were repaid in full by year end.
+The table below presents the performance status of the loans modified during the twelve months ended December 31, 2024:
+
+Performance Status as of December 31, 2024 by Loan Type
+ Current 30-59 Days Past Due 60-89 Days Past Due 90 days or More Past Due or in Process of Foreclosure Total
+Commercial Mortgage Loans $ 387,903 $ $ $ $ 387,903
+Residential Mortgage Loans 15,461 1,519 158 1,652 18,790
+Consumer Loans 63,094 12,867 5,287 3,276 84,524
+Total(1)
+ $ 466,458 $ 14,386 $ 5,445 $ 4,928 $ 491,217
+
+(1)Loans may have been modified more than once during the twelve months period; in this circumstance, the loan is only included once in this table. Modified loans that were subsequently repaid are excluded.
+
+Schedule of Repurchase Agreements
+The carrying value of assets pledged for repurchase agreements by type of collateral and remaining contractual maturity of the repurchase agreements as of December 31, 2024 and 2023 is presented in the following tables:
+
+As of December 31, 2024 Overnight 30 - 90 Days > 90 Days Total
+
+Residential Mortgage Loans $ $ 4,266 $ 71,170 $ 195,691 $ 271,127
+Total Assets Pledged $ $ 4,266 $ 71,170 $ 195,691 $ 271,127
+
+As of December 31, 2023 Overnight 30 - 90 Days > 90 Days Total
+AFS Corporate Securities $ $ $ 524,411 $ 849,368 $ 1,373,779
+Residential Mortgage Loans 39,289 39,289
+Total Assets Pledged $ $ 39,289 $ 524,411 $ 849,368 $ 1,413,068
+
+X
+
+- DefinitionCertain Loans And Debt Securities Acquired In Transfer
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_CertainLoansAndDebtSecuritiesAcquiredInTransferTableTextBlock
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 9
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-9
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 6: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 7: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (aaa)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 8: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 2
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-2
+
+Reference 9: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 10: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (b)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 11: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
+Reference 12: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481800/320-10-50-3
+
++ Details
+
+ Name:
+us-gaap_DebtSecuritiesAvailableForSaleTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of equity method investments including, but not limited to, name of each investee or group of investments, percentage ownership, difference between recorded amount of an investment and the value of the underlying equity in the net assets, and summarized financial information.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 323
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 3
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481687/323-10-50-3
+
++ Details
+
+ Name:
+us-gaap_EquityMethodInvestmentsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of financing receivables by credit quality indicator. The credit quality indicator is a statistic about the credit quality of financing receivables. Examples include, but not limited to, consumer credit risk scores, credit-rating-agency ratings, an entity's internal credit risk grades, loan-to-value ratios, collateral, collection experience and other internal metrics.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 29
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-29
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 5
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-5
+
++ Details
+
+ Name:
+us-gaap_FinancingReceivableCreditQualityIndicatorsTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of investment.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 320
+ -Name Accounting Standards Codification
+ -Publisher FASB
+ -URI https://asc.fasb.org/320/tableOfContent
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Accounting Standards Codification
+ -Topic 321
+ -Publisher FASB
+ -URI https://asc.fasb.org/321/tableOfContent
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Accounting Standards Codification
+ -Topic 325
+ -Publisher FASB
+ -URI https://asc.fasb.org/325/tableOfContent
+
++ Details
+
+ Name:
+us-gaap_InvestmentTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InvestmentsAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of maturities of an entity's investments as well as any other information pertinent to the investments.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_InvestmentsClassifiedByContractualMaturityDateTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of aging analysis for financing receivable.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-7A
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-7
+
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 14
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479319/326-20-50-14
+
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 326
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 80
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147479294/326-20-55-80
+
++ Details
+
+ Name:
+us-gaap_PastDueFinancingReceivablesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the various types of trade accounts and notes receivable and for each the gross carrying value, allowance, and net carrying value as of the balance sheet date. Presentation is categorized by current, noncurrent and unclassified receivables.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(4))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+ -Topic 210
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 1
+ -Subparagraph (SX 210.5-02(3))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480566/210-10-S99-1
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfAccountsNotesLoansAndFinancingReceivableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionThe entire disclosure for repurchase agreements.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_ScheduleOfRepurchaseAgreements
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of the summary of investment holdings.
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_SummaryInvestmentHoldingsTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of financing receivable modified for debtor experiencing financial difficulty.
+
++ ReferencesReference 1: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 34
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-34
+
+Reference 2: http://fasb.org/us-gaap/role/ref/otherTransitionRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 33
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-33
+
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 12A
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481933/310-10-55-12A
+
+Reference 4: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Subparagraph (a)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-42
+
+Reference 5: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 310
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 42
+ -Subparagraph (a)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147481962/310-10-50-42
+
++ Details
+
+ Name:
+us-gaap_TroubledDebtRestructuringsOnFinancingReceivablesTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

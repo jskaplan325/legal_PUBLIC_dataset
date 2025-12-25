@@ -1,0 +1,140 @@
+XML
+90
+R68.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+COMMITMENTS AND CONTINGENCIES (Tables)
+
+12 Months Ended
+
+Dec. 31, 2024
+
+Commitments and Contingencies Disclosure [Abstract]
+
+Schedule of Purchase Agreements
+As of December 31, 2024, purchase commitments under agreements with third-party administrators and other service providers were as follows:
+
+2025 $ 35,659
+2026 31,329
+2027 21,830
+2028 12,537
+2029 11,160
+Thereafter 54,913
+Total $ 167,428
+
+Schedule of Approximate Aggregate Future Lease Payments
+As of December 31, 2024, the approximate aggregate future lease payments required on the asset management operating leases are as follows:
+
+2025 $ 51,593
+2026 80,012
+2027 73,910
+2028 70,413
+2029 66,906
+Thereafter 584,472
+Total Lease Payments Required 927,306
+Less: Imputed Interest 205,065
+Total Operating Lease Liabilities $ 722,241
+
+As of December 31, 2024, the approximate aggregate future lease payments required on the Global Atlantic operating leases are as follows:
+
+2025 $ 18,699
+2026 17,041
+2027 17,056
+2028 13,425
+2029 12,091
+Thereafter 289,301
+Total Lease Payments Required 367,613
+Less: Imputed Interest 182,066
+Total Operating Lease Liabilities $ 185,547
+
+X
+
+- DefinitionTabular disclosure of contractual obligation by timing of payment due. Includes, but is not limited to, long-term debt obligation, lease obligation, and purchase obligation.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Name Regulation S-X (SX)
+ -Number 210
+ -Section 12
+ -Subsection 04
+ -Subparagraph (a)
+ -Publisher SEC
+
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 235
+ -SubTopic 10
+ -Name Accounting Standards Codification
+ -Section S99
+ -Paragraph 3
+ -Subparagraph (SX 210.12-04(a))
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480678/235-10-S99-3
+
++ Details
+
+ Name:
+srt_ContractualObligationFiscalYearMaturityScheduleTableTextBlock
+
+ Namespace Prefix:
+srt_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- ReferencesNo definition available.
+
++ Details
+
+ Name:
+us-gaap_CommitmentsAndContingenciesDisclosureAbstract
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- DefinitionTabular disclosure of undiscounted cash flows of lessee's operating lease liability. Includes, but is not limited to, reconciliation of undiscounted cash flows to operating lease liability recognized in statement of financial position.
+
++ ReferencesReference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+ -Topic 842
+ -SubTopic 20
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 6
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147478964/842-20-50-6
+
++ Details
+
+ Name:
+us-gaap_LesseeOperatingLeaseLiabilityMaturityTableTextBlock
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:textBlockItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration

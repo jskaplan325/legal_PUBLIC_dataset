@@ -1,0 +1,902 @@
+XML
+167
+R145.htm
+IDEA: XBRL DOCUMENT
+
+v3.25.0.1
+
+POLICY LIABILITIES - Guaranteed Minimum Interest Rates (Details)
+ $ in Thousands
+
+Dec. 31, 2024
+
+USD ($)
+
+Dec. 31, 2023
+
+USD ($)
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 86,491,365
+
+$ 77,504,527
+
+Percentage of Total
+100.00%
+
+100.00%
+
+Less Than 1.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 37,288,544
+
+$ 32,879,615
+
+Less Than 1.00% | Maximum
+
+Policyholder Account Balance [Line Items]
+
+Range of guaranteed minimum crediting rates
+1.00%
+
+1.00%
+
+1.00% - 1.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 15,619,750
+
+$ 12,056,909
+
+1.00% - 1.99% | Minimum
+
+Policyholder Account Balance [Line Items]
+
+Range of guaranteed minimum crediting rates
+1.00%
+
+1.00%
+
+1.00% - 1.99% | Maximum
+
+Policyholder Account Balance [Line Items]
+
+Range of guaranteed minimum crediting rates
+1.99%
+
+1.99%
+
+2.00% - 2.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 5,231,309
+
+$ 2,416,645
+
+2.00% - 2.99% | Minimum
+
+Policyholder Account Balance [Line Items]
+
+Range of guaranteed minimum crediting rates
+2.00%
+
+2.00%
+
+2.00% - 2.99% | Maximum
+
+Policyholder Account Balance [Line Items]
+
+Range of guaranteed minimum crediting rates
+2.99%
+
+2.99%
+
+3.00% - 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 15,128,553
+
+$ 16,116,007
+
+3.00% - 4.00% | Minimum
+
+Policyholder Account Balance [Line Items]
+
+Range of guaranteed minimum crediting rates
+3.00%
+
+3.00%
+
+3.00% - 4.00% | Maximum
+
+Policyholder Account Balance [Line Items]
+
+Range of guaranteed minimum crediting rates
+4.00%
+
+4.00%
+
+Greater Than 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 13,223,209
+
+$ 14,035,351
+
+Greater Than 4.00% | Minimum
+
+Policyholder Account Balance [Line Items]
+
+Range of guaranteed minimum crediting rates
+4.00%
+
+4.00%
+
+At Guaranteed Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 27,641,839
+
+$ 29,664,383
+
+Percentage of Total
+32.00%
+
+38.00%
+
+At Guaranteed Minimum | Less Than 1.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 3,479,329
+
+$ 2,706,701
+
+At Guaranteed Minimum | 1.00% - 1.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+1,304,845
+
+1,471,320
+
+At Guaranteed Minimum | 2.00% - 2.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+769,182
+
+896,276
+
+At Guaranteed Minimum | 3.00% - 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+10,302,787
+
+12,494,439
+
+At Guaranteed Minimum | Greater Than 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+11,785,696
+
+12,095,647
+
+1 - 49 bps Above Guaranteed Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 3,784,630
+
+$ 3,656,222
+
+Percentage of Total
+4.00%
+
+5.00%
+
+1 - 49 bps Above Guaranteed Minimum | Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable crediting rates subject to guaranteed minimums (basis points)
+0.0001
+
+0.0001
+
+1 - 49 bps Above Guaranteed Minimum | Maximum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable crediting rates subject to guaranteed minimums (basis points)
+0.0049
+
+0.0049
+
+1 - 49 bps Above Guaranteed Minimum | Less Than 1.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 36,286
+
+$ 25,839
+
+1 - 49 bps Above Guaranteed Minimum | 1.00% - 1.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+738,935
+
+1,013,423
+
+1 - 49 bps Above Guaranteed Minimum | 2.00% - 2.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+36,663
+
+44,850
+
+1 - 49 bps Above Guaranteed Minimum | 3.00% - 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+1,619,059
+
+1,186,572
+
+1 - 49 bps Above Guaranteed Minimum | Greater Than 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+1,353,687
+
+1,385,538
+
+50 - 99 bps Above Guaranteed Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 1,771,204
+
+$ 2,268,138
+
+Percentage of Total
+2.00%
+
+3.00%
+
+50 - 99 bps Above Guaranteed Minimum | Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable crediting rates subject to guaranteed minimums (basis points)
+0.0050
+
+0.0050
+
+50 - 99 bps Above Guaranteed Minimum | Maximum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable crediting rates subject to guaranteed minimums (basis points)
+0.0099
+
+0.0099
+
+50 - 99 bps Above Guaranteed Minimum | Less Than 1.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 357,440
+
+$ 660,189
+
+50 - 99 bps Above Guaranteed Minimum | 1.00% - 1.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+805,357
+
+999,852
+
+50 - 99 bps Above Guaranteed Minimum | 2.00% - 2.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+56,798
+
+55,874
+
+50 - 99 bps Above Guaranteed Minimum | 3.00% - 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+474,803
+
+414,111
+
+50 - 99 bps Above Guaranteed Minimum | Greater Than 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+76,806
+
+138,112
+
+100 - 150 bps Above Guaranteed Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 4,566,020
+
+$ 6,695,501
+
+Percentage of Total
+5.00%
+
+9.00%
+
+100 - 150 bps Above Guaranteed Minimum | Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable crediting rates subject to guaranteed minimums (basis points)
+0.0100
+
+0.0100
+
+100 - 150 bps Above Guaranteed Minimum | Maximum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable crediting rates subject to guaranteed minimums (basis points)
+0.0150
+
+0.0150
+
+100 - 150 bps Above Guaranteed Minimum | Less Than 1.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 740,947
+
+$ 3,546,450
+
+100 - 150 bps Above Guaranteed Minimum | 1.00% - 1.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+1,867,453
+
+1,968,519
+
+100 - 150 bps Above Guaranteed Minimum | 2.00% - 2.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+697,085
+
+109,411
+
+100 - 150 bps Above Guaranteed Minimum | 3.00% - 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+1,253,515
+
+953,560
+
+100 - 150 bps Above Guaranteed Minimum | Greater Than 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+7,020
+
+117,561
+
+Greater Than 150 bps Above Guaranteed Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 48,727,672
+
+$ 35,220,283
+
+Percentage of Total
+57.00%
+
+45.00%
+
+Greater Than 150 bps Above Guaranteed Minimum | Minimum
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable crediting rates subject to guaranteed minimums (basis points)
+0.0150
+
+0.0150
+
+Greater Than 150 bps Above Guaranteed Minimum | Less Than 1.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 32,674,542
+
+$ 25,940,436
+
+Greater Than 150 bps Above Guaranteed Minimum | 1.00% - 1.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+10,903,160
+
+6,603,795
+
+Greater Than 150 bps Above Guaranteed Minimum | 2.00% - 2.99%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+3,671,581
+
+1,310,234
+
+Greater Than 150 bps Above Guaranteed Minimum | 3.00% - 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+1,478,389
+
+1,067,325
+
+Greater Than 150 bps Above Guaranteed Minimum | Greater Than 4.00%
+
+Policyholder Account Balance [Line Items]
+
+Account values with adjustable credit rates subject to guaranteed minimum
+$ 0
+
+$ 298,493
+
+X
+
+- DefinitionPolicyholder Account Balance, Excluding Index Credits, Host Balances, Agreements, And Other Reserves
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderAccountBalanceExcludingIndexCreditsHostBalancesAgreementsAndOtherReserves
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+xbrli:monetaryItemType
+
+ Balance Type:
+credit
+
+ Period Type:
+instant
+
+X
+
+- DefinitionPolicyholder Account Balance, Percentage
+
++ ReferencesNo definition available.
+
++ Details
+
+ Name:
+kkr_PolicyholderAccountBalancePercentage
+
+ Namespace Prefix:
+kkr_
+
+ Data Type:
+dtr-types1:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionValue above guaranteed minimum crediting rate on policyholder account balance.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRate
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:decimalItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionGuaranteed minimum crediting rate on policyholder account balance.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (d)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditRating
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+dtr-types:percentItemType
+
+ Balance Type:
+na
+
+ Period Type:
+instant
+
+X
+
+- DefinitionLine items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
+
++ ReferencesReference 1: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (c)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(3)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(2)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (b)(1)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 5: http://www.xbrl.org/2003/role/disclosureRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 50
+ -Paragraph 7A
+ -Subparagraph (a)
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480081/944-40-50-7A
+
+Reference 6: http://www.xbrl.org/2003/role/exampleRef
+ -Topic 944
+ -SubTopic 40
+ -Name Accounting Standards Codification
+ -Section 55
+ -Paragraph 29F
+ -Publisher FASB
+ -URI https://asc.fasb.org/1943274/2147480046/944-40-55-29F
+
++ Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceLineItems
+
+ Namespace Prefix:
+us-gaap_
+
+ Data Type:
+xbrli:stringItemType
+
+ Balance Type:
+na
+
+ Period Type:
+duration
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeAxis=kkr_PolicyholderAccountBalanceGuaranteedMinimumCreditingRate0100AndLessMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MaximumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeAxis=kkr_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeFrom0100To0199Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+srt_RangeAxis=srt_MinimumMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeAxis=us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeFrom0200To0299Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeAxis=us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeFrom0300To0399Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeAxis=us-gaap_PolicyholderAccountBalanceGuaranteedMinimumCreditingRateRangeFrom0400AndGreaterMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateAxis=us-gaap_PolicyholderAccountBalanceAtGuaranteedMinimumCreditingRateMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateAxis=kkr_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateRangeFrom0001To0049Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateAxis=kkr_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateRangeFrom0050To0099Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateAxis=kkr_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateRangeFrom0100To0150Member
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:
+
+X
+
+- Details
+
+ Name:
+us-gaap_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateAxis=us-gaap_PolicyholderAccountBalanceAboveGuaranteedMinimumCreditingRateRangeFrom0151AndGreaterMember
+
+ Namespace Prefix:
+
+ Data Type:
+na
+
+ Balance Type:
+
+ Period Type:

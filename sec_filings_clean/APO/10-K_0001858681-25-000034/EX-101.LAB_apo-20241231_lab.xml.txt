@@ -1,0 +1,5749 @@
+EX-101.LAB
+19
+apo-20241231_lab.xml
+XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+ Funding Agreements
+ Funding Agreements [Member]
+ Funding Agreements
+
+ Collateral Held [Domain]
+ Collateral Held [Domain]
+
+ Indianapolis Life Insurance Company ( ILICO ) Closed Block and life benefits
+ Indianapolis Life Insurance Company ( ILICO ) Closed Block [Member]
+ Indianapolis Life Insurance Company ( ILICO ) Closed Block
+
+ Net Increase (Decrease) in Cash and Cash Equivalents, Restricted Cash and Cash Held at Consolidated Variable Interest Entities
+ Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect
+
+ Discount rate
+ Measurement Input, Discount Rate [Member]
+
+ Ownership percentage
+ Business Acquisition, Percentage of Voting Interests Acquired
+
+ Hedged items
+ Change in Unrealized Gain (Loss) on Hedged Item in Fair Value Hedge
+
+ Condensed Income Statements, Captions [Line Items]
+ Condensed Income Statements, Captions [Line Items]
+
+ Trading Symbol
+ Trading Symbol
+
+ Net recognized investment gains (losses) on equity securities
+ Equity Securities, FV-NI, Realized Gain (Loss)
+
+ Pledged Status [Domain]
+ Pledged Status [Domain]
+
+ Assets, gross
+ Gross amounts of recognized
+ Derivative Asset, Subject to Master Netting Arrangement, before Offset
+
+ Non-NEOs
+ Non-NEOs [Member]
+
+ Capitalization rate
+ Measurement Input Terminal Capitalization Rate [Member]
+ Measurement Input Terminal Capitalization Rate
+
+ Additions (reductions) to previously impaired securities
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss, Not to Sell before Recovery, Credit Loss, Previously Recorded, Expense (Reversal)
+
+ Deferred Sales Inducements
+ Sales Inducements to Contract Holders, Policy [Policy Text Block]
+
+ Foreign exchange
+ Change in foreign exchange
+ Liability For Future Policy Benefit Expected Future Policy Benefit Foreign Exchange
+ Liability For Future Policy Benefit Expected Future Policy Benefit Foreign Exchange
+
+ Purchases of investment funds
+ Payments To Acquire Investment Funds
+ Payments To Acquire Investment Funds
+
+ Dividends/distributions
+ Noncontrolling Interest, Decrease from Distributions to Noncontrolling Interest Holders
+
+ Ending balance at original discount rate
+ Liability for Future Policy Benefit, Expected Net Premium, Original Discount Rate, before Cash Flow and Reinsurance
+
+ Undistributed income (loss) attributable to common stockholders: Diluted
+ Undistributed Earnings (Loss) Available to Common Shareholders, Diluted
+
+ Fund distributions to the Company
+ Performance Allocation Receivable, Fund Distributions To Company
+ Performance Allocation Receivable, Fund Distributions To Company
+
+ Reinsurance
+ Reinsurance Accounting Policy [Policy Text Block]
+
+ Withdrawals on investment-type policies and contracts
+ Repayments of Annuities and Investment Certificates
+
+ Net gains (losses) from investment activities
+ Equity Securities, FV-NI, Gain (Loss)
+
+ Movement in Present Value of Future Insurance Profits [Roll Forward]
+ Movement in Present Value of Future Insurance Profits [Roll Forward]
+
+ Non-Rule 10b5-1 Arrangement Adopted
+ Non-Rule 10b5-1 Arrangement Adopted [Flag]
+
+ Fair Value
+ Fair Value Disclosures [Text Block]
+
+ Other comprehensive income (loss), before tax
+ Other Comprehensive Income (Loss), before Tax
+
+ Net Investment Hedging
+ Net Investment Hedging [Member]
+
+ Hotels
+ Hotel [Member]
+
+ Investment, Name [Domain]
+ Investment, Name [Domain]
+
+ Portion at Fair Value Measurement
+ Portion at Fair Value Measurement [Member]
+
+ Policyholder Account Balance, above Guaranteed Minimum Crediting Rate [Axis]
+ Policyholder Account Balance, above Guaranteed Minimum Crediting Rate [Axis]
+
+ Increase in warrants exercisable (in shares)
+ Class Of Warrant Or Right, Increase In Number Exercisable During Period
+ Class Of Warrant Or Right, Increase In Number Exercisable During Period
+
+ Surrender rate
+ Surrender rate
+ Measurement Input, Surrender Rate [Member]
+ Measurement Input, Surrender Rate
+
+ 2026 - 2027
+ Long-Term Debt, Maturity, Year Two and Three
+
+ Variable Interest Entities
+ Variable Interest Entity Disclosure [Text Block]
+
+ Antidilutive Securities, Name [Domain]
+ Antidilutive Securities, Name [Domain]
+
+ Operating Segments
+ Operating Segments [Member]
+
+ Class of Financing Receivable [Domain]
+ Class of Financing Receivable [Domain]
+
+ Dividends/distributions (in shares)
+ Preferred Stock Dividends, Shares
+
+ Non-controlling Interests
+ Noncontrolling Interests, Policy [Policy Text Block]
+ Noncontrolling Interests, Policy
+
+ Net cash provided by operating activities
+ Net cash provided by (used in) operating activities
+ Net Cash Provided by (Used in) Operating Activities
+
+ Schedule of Accumulated Other Comprehensive Income (Loss)
+ Schedule of Accumulated Other Comprehensive Income (Loss) [Table Text Block]
+
+ Future policy benefits
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Future Policy Benefits
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Future Policy Benefits
+
+ Entity Common Stock, Shares Outstanding
+ Entity Common Stock, Shares Outstanding
+
+ Other
+ Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Other
+ Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Other
+
+ Retirement services platforms
+ Retirement Services Platforms [Member]
+ Retirement Services Platforms
+
+ Debt instrument, deferred interest payment, period (in year)
+ Debt Instrument, Deferred Interest Payment, Period
+ Debt Instrument, Deferred Interest Payment, Period
+
+ Payables and Accruals [Abstract]
+
+ Aggregate Change in Present Value of Accumulated Benefit for All Pension Plans Reported in Summary Compensation Table
+ Aggregate Change in Present Value of Accumulated Benefit for All Pension Plans Reported in Summary Compensation Table [Member]
+
+ Transaction Type [Axis]
+ Transaction Type [Axis]
+
+ Company Selected Measure Amount
+ Company Selected Measure Amount
+
+ Tabular List, Table
+ Tabular List [Table Text Block]
+
+ Reconciling items
+ Reconciling Items [Member]
+ Reconciling Items
+
+ Principal Investing
+ Principal Investing Segment [Member]
+ Principal Investing Segment
+
+ Level 3
+ Fair Value, Inputs, Level 3 [Member]
+
+ Deductions
+ SEC Schedule, 12-09, Valuation Allowances and Reserves, Deduction
+
+ Anti-dilutive securities (in shares)
+ Antidilutive Securities Excluded from Computation of Earnings Per Share, Amount
+
+ Credit Facility [Domain]
+ Credit Facility [Domain]
+
+ Goodwill
+ Goodwill attributable to Athene
+ Goodwill
+
+ Cash paid for tax liabilities
+ Payment, Tax Withholding, Share-Based Payment Arrangement
+
+ Share repurchase program, authorized amount
+ Share Repurchase Program, Authorized, Amount
+
+ Net tangible asset values
+ Valuation Technique Net Tangible Assets Values [Member]
+ Valuation Technique Net Tangible Assets Values
+
+ Traditional Deferred Annuities and Indexed Annuities
+ Traditional Deferred Annuities And Indexed Annuities [Member]
+ Traditional Deferred Annuities And Indexed Annuities
+
+ Mortgage loans
+ Fair Value, Option, Loans Held As Assets, Including Loans Held By Variable Interest Entities
+ Fair Value, Option, Loans Held As Assets, Including Loans Held By Variable Interest Entities
+
+ Capital contributions
+ Noncontrolling Interest, Increase from Business Combination
+
+ Fixed-Rate Resettable Junior Subordinated Notes due 2054
+ Fixed-Rate Resettable Junior Subordinated Notes due 2054 [Member]
+ Fixed-Rate Resettable Junior Subordinated Notes due 2054
+
+ Reconciliation of Revenue from Segments to Consolidated [Table]
+ Reconciliation of Revenue from Segments to Consolidated [Table]
+
+ Financing Receivable Portfolio Segment [Axis]
+ Financing Receivable Portfolio Segment [Axis]
+
+ Foreign currency forwards
+ Foreign currency forwards
+ Foreign Exchange Forward [Member]
+
+ Other financing activities, net
+ Proceeds from (Payments for) Other Financing Activities
+
+ Non-controlling interest
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Noncontrolling Interest
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Noncontrolling Interest
+
+ ADIP
+ ADIP [Member]
+ ADIP
+
+ Net income (loss) per share of common stock: Basic
+ Earnings Per Share, Basic [Abstract]
+
+ Schedule of Policyholder Account Balance, Guaranteed Minimum Crediting Rate
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate [Table Text Block]
+
+ Mortgage loans
+ Fair Value, Option, Credit Risk, Gains (Losses) on Assets
+
+ Schedule of Net Liability Position of Market Risk Benefits
+ Market Risk Benefit, Activity [Table Text Block]
+
+ Reinsurance recoverable
+ Reinsurance Recoverable, Fair Value Disclosure
+ Reinsurance Recoverable, Fair Value Disclosure
+
+ Net amount
+ Derivative Liability, Including Not Subject To Master Netting Arrangement, After Offset And Deduction, Net Amount
+ Derivative Liability, Including Not Subject To Master Netting Arrangement, After Offset And Deduction, Net Amount
+
+ Acquired Indefinite-lived Intangible Assets [Line Items]
+ Acquired Indefinite-Lived Intangible Assets [Line Items]
+
+ Reinsurance recoverable
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Reinsurance Recoverable
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Reinsurance Recoverable
+
+ Average useful life (in years)
+ Acquired Finite-Lived Intangible Assets, Weighted Average Useful Life
+
+ Expiration Date
+ Trading Arrangement Expiration Date
+
+ Derivative assets
+ Funds withheld at interest embedded derivative
+ Derivative Financial Instruments, Assets [Member]
+
+ Dilution effect on distributable income attributable to contingent shares
+ Undistributed Earnings (Loss) Allocated to Participating Securities, Diluted
+
+ Reinsurer, Name [Axis]
+ Reinsurer, Name [Axis]
+
+ Issuance of Mandatory Convertible Preferred Stock, net of issuance costs
+ Proceeds from Issuance of Convertible Preferred Stock
+
+ Variable annuities
+ Variable Annuity [Member]
+
+ Total Shareholder Return Amount
+ Total Shareholder Return Amount
+
+ Purchases of investments by Funds and VIEs
+ Increase (Decrease) in Debt Securities, Trading, and Equity Securities, FV-NI
+
+ Performance Grants
+ Equity Plan, Performance Grants [Member]
+ Equity Plan, Performance Grants
+
+ Present value of expected net premiums
+ Liability for Future Policy Benefit, Expected Net Premium [Roll Forward]
+
+ Total AHL equity value held by AGM
+ Business Combination, Consideration Transferred, Including Equity Interest in Acquiree Held before Combination
+
+ Equity Awards Adjustments, Footnote
+ Equity Awards Adjustments, Footnote [Text Block]
+
+ Transfers Out
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers out of Level 3
+
+ Other
+ International, Other [Member]
+ International, Other
+
+ Future Policy Benefits
+ Liability for Future Policy Benefit [Policy Text Block]
+
+ Other assets
+ Other Assets, Fair Value Disclosure
+
+ Gross realized gains on investment activity
+ Debt Securities, Available-for-Sale, Realized Gain
+
+ Named Executive Officers, Footnote
+ Named Executive Officers, Footnote [Text Block]
+
+ Granted (in shares)
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Vested, Granted in Period
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Vested, Granted in Period
+
+ Other assets
+ Other Assets
+
+ Plan Grants
+ Two Thousand Seven Omnibus Equity Incentive Plan, Plan Grants [Member]
+ Two Thousand Seven Omnibus Equity Incentive Plan, Plan Grants
+
+ Issuances
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, Issuance
+
+ CLO
+ Collateralized Loan Obligations [Member]
+
+ Liability for Future Policy Benefit, Activity [Line Items]
+ Liability for Future Policy Benefit, Activity [Line Items]
+
+ Fox Hedge L.P.
+ Fox Hedge L.P [Member]
+ Fox Hedge L.P
+
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate Range [Axis]
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate Range [Axis]
+
+ Basis of Presentation
+ Basis of Accounting, Policy [Policy Text Block]
+
+ Net premium collected
+ Liability for Future Policy Benefit, Expected Net Premium, Net Premium Collected
+
+ Wheels, Inc. ( Wheels )
+ Wheels, Inc.
+ Wheels, Inc. [Member]
+ Wheels, Inc.
+
+ Statutory Accounting Practices [Line Items]
+ Statutory Accounting Practices [Line Items]
+
+ Total Deferred Tax Assets
+ Deferred Tax Assets, Gross
+
+ District Of Nevada v. PlayAGS Inc.
+ District Of Nevada v. PlayAGS Inc. [Member]
+ District Of Nevada v. PlayAGS Inc.
+
+ Grant Type [Axis]
+ Grant Type [Axis]
+ Grant Type
+
+ Fee-related compensation
+ Fee Related Compensation
+ Fee Related Compensation
+
+ Concentration Risk Type [Domain]
+ Concentration Risk Type [Domain]
+
+ CLO, ABS, CMBS and RMBS
+ Debt Securities, Available-for-Sale, Maturity, without Single Maturity Date, Amortized Cost
+
+ Net investment income
+ Investment Income, Net
+
+ Trading securities
+ Net recognized investment gains (losses) on trading securities
+ Debt Securities, Trading, Unrealized Gain (Loss)
+
+ SEC Schedule, 12-15, Insurance Companies, Summary of Investments, Other than Investments in Related Parties [Line Items]
+ SEC Schedule, 12-15, Insurance Companies, Summary of Investments, Other than Investments in Related Parties [Line Items]
+
+ Assumed through acquisitions
+ SEC Schedule, 12-09, Valuation Allowances and Reserves, Business Acquired
+
+ Effect of changes in other future expected assumptions
+ Market Risk Benefit, Increase (Decrease) from Other Assumption
+
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net [Abstract]
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net [Abstract]
+
+ Sale of Stock [Domain]
+ Sale of Stock [Domain]
+
+ Accumulated other comprehensive (loss) income
+ Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Gain (Loss) Arising During Period, Net of Tax
+
+ Document Fiscal Period Focus
+ Document Fiscal Period Focus
+
+ Merger-related transaction and integration costs
+ Business Combination, Acquisition Related Costs
+
+ All Executive Categories
+ All Executive Categories [Member]
+
+ Equity securities
+ Equity Securities [Member]
+
+ AGM Class A shares closing price (in dollars per share)
+ Business Acquisition, Share Price
+
+ Realized performance fees
+ Realized Performance Fee
+ Realized Performance Fee
+
+ Assets
+ Assets [Abstract]
+
+ Other comprehensive income (loss)
+ Other comprehensive income (loss)
+ Other Comprehensive Income (Loss), Net of Tax
+
+ Document Type
+ Document Type
+
+ Contingent consideration included in profit sharing payable
+ Business Combination, Contingent Consideration Included In Profit Sharing Payable, Liability
+ Business Combination, Contingent Consideration Included In Profit Sharing Payable, Liability
+
+ Derivative Contract [Domain]
+ Derivative Contract [Domain]
+
+ Transactions between entities under common control
+ Adjustments To Additional Paid In Capital, Transactions Between Entities Under Common Control
+ Adjustments To Additional Paid In Capital, Transactions Between Entities Under Common Control
+
+ Surrenders and withdrawals
+ Policyholder Account Balance, Surrender and Withdrawal
+
+ Undistributed income (loss) (in dollars per share)
+ Earnings Per Share, Diluted, Undistributed
+
+ Net income (loss) of acquiree since acquisition
+ Business Combination, Pro Forma Information, Earnings or Loss of Acquiree since Acquisition Date, Actual
+
+ Recognized in income through amortization approach
+ Other Comprehensive Income (Loss), Derivative, Excluded Component, Increase (Decrease), Adjustments, before Tax
+
+ Investments, at fair value
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Investments At Fair Value
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Investments At Fair Value
+
+ Amortized Cost
+ Total AFS securities
+ Debt Securities, Available-for-Sale, Amortized Cost
+
+ Pre-combination equity compensation expense
+ Business Combination, Pre Share-based Compensation Expense
+ Business Combination, Pre Share-based Compensation Expense
+
+ Net amount at risk
+ Policyholder Account Balance, Net Amount at Risk
+
+ Equity Valuation Assumption Difference, Footnote
+ Equity Valuation Assumption Difference, Footnote [Text Block]
+
+ Due to subsidiaries, net
+ Proceeds Due From (To) Subsidiaries, Financing Activities
+ Proceeds Due From (To) Subsidiaries, Financing Activities
+
+ Investment Type [Axis]
+ Investment Type [Axis]
+
+ 3.95% 2051 Notes
+ Two Thousand Fifty One Senior Notes [Member]
+ Two Thousand Fifty One Senior Notes
+
+ Statistical Measurement [Axis]
+ Statistical Measurement [Axis]
+
+ 1 Basis Point 100 Basis Points Above Guaranteed Minimum
+ Policyholder Account Balance, Above Guaranteed Minimum Crediting Rate, Range From 0001 To 0100 [Member]
+ Policyholder Account Balance, Above Guaranteed Minimum Crediting Rate, Range From 0001 To 0100
+
+ Interest credited
+ Policyholder Account Balance, Interest Expense
+
+ Non-Rule 10b5-1 Arrangement Terminated
+ Non-Rule 10b5-1 Arrangement Terminated [Flag]
+
+ Income (loss) before income tax (provision) benefit
+ Segment Income
+ Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest
+
+ Non-PEO NEO Average Total Compensation Amount
+ Non-PEO NEO Average Total Compensation Amount
+
+ Market risk benefit, interest expense
+ Interest accrual
+ Market Risk Benefit, Interest Expense
+
+ Deferred Acquisition Costs
+ Deferred Policy Acquisition Costs, Policy [Policy Text Block]
+
+ Fair value of AHL common shares previously held and other adjustments
+ Fair value of previously held equity interest
+ Business Combination, Step Acquisition, Equity Interest in Acquiree, Fair Value
+
+ Interest sensitive contract liabilities
+ Liabilities Related to Investment Contracts, Fair Value Disclosure
+
+ Schedule of Anti-dilutive Securities
+ Schedule of Antidilutive Securities Excluded from Computation of Earnings Per Share [Table Text Block]
+
+ Product charges
+ Insurance Commissions and Fees
+
+ Reinsurance assumed
+ Assumed Premiums Earned
+
+ Investment, Name [Axis]
+ Investment, Name [Axis]
+
+ Traditional Deferred Annuities
+ Traditional Deferred Annuities [Member]
+ Traditional Deferred Annuities
+
+ Mortgage loans
+ Mortgage Loans, Restricted
+ Mortgage Loans, Restricted
+
+ Performance allocations, beginning balance
+ Performance allocations, ending balance
+ Performance Allocation Receivable
+ Performance Allocation Receivable
+
+ Deferred Revenue and Revenues
+ Revenue from Contract with Customer [Policy Text Block]
+
+ Schedule of Reinsurance Transactions
+ Summary Of Reinsurance Transactions [Table Text Block]
+ Summary Of Reinsurance Transactions
+
+ Current
+ Current Income Tax Expense (Benefit)
+
+ Restatement does not require Recovery
+ Restatement Does Not Require Recovery [Text Block]
+
+ Other commercial
+ Other Property [Member]
+
+ Deferred Tax Liabilities:
+ Deferred Tax Liabilities, Gross [Abstract]
+
+ Earnings allocable to participating securities
+ Participating Securities, Distributed and Undistributed Earnings (Loss), Basic
+
+ Statement of Financial Position [Abstract]
+
+ ABS
+ Asset-Backed Securities [Member]
+
+ Dividends paid preferred stock (in dollars per share)
+ Preferred Stock, Dividends, Per Share, Cash Paid
+
+ Total realized and unrealized gains (losses) included in income
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Gain (Loss) Included in Earnings
+
+ Financial instruments
+ Derivative Asset, Subject to Master Netting Arrangement, Collateral, Obligation to Return Security Not Offset
+
+ Investment Concentration Risk
+ Investment Concentration Risk [Member]
+ Investment Concentration Risk
+
+ Deferred Acquisition Costs, Deferred Sales Inducements and Value of Business Acquired
+ Statutory Requirements
+ Insurance Disclosure [Text Block]
+
+ Redemption of subsidiary equity interests
+ Adjustments To Additional Paid In Capital, Redemption Of Subsidiary Equity Interests
+ Adjustments To Additional Paid In Capital, Redemption Of Subsidiary Equity Interests
+
+ Other
+ Deferred Tax Liabilities, Other
+
+ Net income (loss)
+ Net income (loss)
+ Net Income (Loss)
+ Net Income (Loss), Including Portion Attributable to Noncontrolling Interest
+
+ Total gains (losses) on derivatives not designated as hedges
+ Derivative Instruments Not Designated as Hedging Instruments, Gain (Loss), Net
+
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Line Items]
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Line Items]
+
+ At Guaranteed Minimum
+ Policyholder Account Balance, at Guaranteed Minimum Crediting Rate [Member]
+
+ AANY
+ AANY [Member]
+ AANY
+
+ Financing Receivable Portfolio Segment [Domain]
+ Financing Receivable Portfolio Segment [Domain]
+
+ Revenues
+ Revenue from Contract with Customer, Excluding Assessed Tax
+
+ AMH Credit Facility
+ AMH Credit Facility [Member]
+ AMH Credit Facility
+
+ Universal life benefits
+ Universal Life [Member]
+
+ Statement of Comprehensive Income [Abstract]
+
+ Capital And Surplus Requirements [Axis]
+ Capital And Surplus Requirements [Axis]
+ Capital And Surplus Requirements
+
+ Remeasurement gains (losses) on future policy benefits related to discount rate
+ OCI, Liability for Future Policy Benefit, Gain (Loss), after Reclassification Adjustment, before Tax
+
+ Investment funds
+ Investment Funds, Restricted
+ Investment Funds, Restricted
+
+ Other Investment-type
+ Other Investment Types [Member]
+ Other Investment Types
+
+ Movement in Deferred Sales Inducements [Roll Forward]
+ Movement in Deferred Sales Inducements [Roll Forward]
+
+ Maximum commitment
+ Guarantor Obligations, Maximum Exposure, Undiscounted
+
+ U.S. federal and state net operating losses and other deferred tax assets
+ Federal And State Authority [Member]
+ Federal And State Authority
+
+ Accumulated Other Comprehensive Income (Loss) [Line Items]
+ Accumulated Other Comprehensive Income (Loss) [Line Items]
+
+ Commitments and Contingencies Disclosure [Abstract]
+
+ Legal Entity [Axis]
+ Legal Entity [Axis]
+
+ Auditor Information [Abstract]
+ Auditor Information
+
+ Related Party Transaction [Axis]
+ Related Party Transaction [Axis]
+
+ Initial credit losses on PCD securities
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss, Purchased with Credit Deterioration, Increase
+
+ Trading securities, at fair value
+ Debt Securities, Trading, and Equity Securities, FV-NI
+
+ 2027
+ Present Value of Future Insurance Profits, Expected Amortization, Year Three
+
+ U.S. corporate alternative minimum tax credit
+ Deferred Tax Assets, Tax Credit Carryforwards, Alternative Minimum Tax
+
+ U.S. government and agencies
+ US Government Agencies Debt Securities [Member]
+
+ Expected future gross premiums, undiscounted
+ Liability for Future Policy Benefit, Expected Future Gross Premium, Undiscounted, before Reinsurance
+
+ Renewal term of credit facility
+ Line Of Credit Facility, Renewal Term
+ Line Of Credit Facility, Renewal Term
+
+ Atlas
+ Atlas [Member]
+ Atlas
+
+ Derivative Instruments and Hedging Activities Disclosure [Abstract]
+
+ Schedule of Equity Method Investments [Line Items]
+ Schedule of Equity Method Investments [Line Items]
+
+ Profit Sharing
+ Profit Sharing, Policy [Policy Text Block]
+ Profit Sharing, Policy
+
+ Erroneous Compensation Analysis
+ Erroneous Compensation Analysis [Text Block]
+
+ Additions
+ Deferred Policy Acquisition Cost, Capitalization
+
+ Liabilities, Redeemable non-controlling interests and Equity
+ Liabilities and Equity
+ Liabilities and Equity [Abstract]
+
+ Management Fees / Advisory and Transaction Fees, Net
+ Management and Investment Advisory Fees, Policy [Policy Text Block]
+
+ Impact of valuation allowance
+ Effective Income Tax Rate Reconciliation, Change in Deferred Tax Assets Valuation Allowance, Percent
+
+ Effect of actual to expected experience
+ Liability for Future Policy Benefit, Expected Net Premium, Cumulative Increase (Decrease) of Actual Variance from Expected Experience
+
+ Other liabilities
+ Other Liabilities, Fair Value Disclosure
+
+ Capitalization ratio
+ Line Of Credit Facility, Covenant Terms, Maximum Consolidated Debt to Capitalization Ratio
+ Line Of Credit Facility, Covenant Terms, Maximum Consolidated Debt to Capitalization Ratio
+
+ Profit sharing expense
+ Profit Sharing Expense
+ Profit Sharing Expense
+
+ Restatement Determination Date
+ Restatement Determination Date
+
+ Number of defendants
+ Loss Contingency, Number of Defendants
+
+ Schedule of AFS Securities
+ Schedule of Available-for-Sale Securities Reconciliation [Table Text Block]
+
+ Percentage of Total
+ Investments, Percentage Of Total
+ Investments, Percentage Of Total
+
+ Concentration Risk [Table]
+ Concentration Risk [Table]
+
+ VOBA Asset
+ Insurance Contracts Acquired in Business Combination [Member]
+
+ Condensed Financial Information Disclosure [Abstract]
+
+ Number of transaction acquired
+ Number Of Transactions
+ Number Of Transactions
+
+ Total financial liabilities not carried at fair value
+ Financial Liabilities Fair Value Disclosure
+
+ Due to related parties
+ Total Due to Related Parties
+ Other Accrued Liabilities
+
+ Expenses
+ Costs and Expenses [Abstract]
+
+ Interest rate swaps
+ Foreign Currency Interest Rate Swap [Member]
+ Foreign Currency Interest Rate Swap
+
+ Net recognized investment gains (losses) on mortgage loans
+ Net recognized investment losses on mortgage loans
+ Gain (Loss) on Sale of Mortgage Loans
+
+ Beginning balance (in shares)
+ Ending balance (in shares)
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Number
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Number
+
+ Other revenues
+ Other Income
+
+ Income tax expense (benefit) related to other comprehensive income (loss)
+ Income tax provision (benefit) from other comprehensive income (loss)
+ Less: Income tax expense (benefit)
+ Other Comprehensive Income (Loss), Tax
+
+ Reconciliation of Unrecognized Tax Benefits, Excluding Amounts Pertaining to Examined Tax Returns [Roll Forward]
+ Unrecognized Tax Benefits [Roll Forward]
+
+ Executive Officer
+ Executive Officer [Member]
+
+ Deferred interest payments, period
+ Debt Instrument, Periodic Payment, Interest, Deferred Period
+ Debt Instrument, Periodic Payment, Interest, Deferred Period
+
+ Deferred:
+ Deferred Tax Assets, Tax Deferred Expense [Abstract]
+
+ Mortgage loans
+ Mortgage Loans [Member]
+ Mortgage Loans
+
+ Payments related to issuances of common stock for equity-based awards (in shares)
+ Shares Issued During Period, Shares, Share-based Payment Arrangement
+ Shares Issued During Period, Shares, Share-based Payment Arrangement
+
+ Fair Values Derivatives, Balance Sheet Location, by Derivative Contract Type [Table]
+ Fair Values Derivatives, Balance Sheet Location, by Derivative Contract Type [Table]
+
+ Government-Guaranteed Collateral
+ Government-Guaranteed Collateral [Member]
+
+ Contingent consideration obligations
+ Contingent Consideration [Member]
+ Contingent Consideration
+
+ Entity Public Float
+ Entity Public Float
+
+ Market risk benefits
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Market Risk Benefit
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Market Risk Benefit
+
+ SEC Schedule, 12-09, Valuation and Qualifying Accounts [Abstract]
+
+ Prior Year End Fair Value of Equity Awards Granted in Any Prior Year that Fail to Meet Applicable Vesting Conditions During Covered Year
+ Prior Year End Fair Value of Equity Awards Granted in Any Prior Year that Fail to Meet Applicable Vesting Conditions During Covered Year [Member]
+
+ Reinsurance recoverable
+ Reinsurance Recoverables, Including Reinsurance Premium Paid
+
+ Cash and cash equivalents
+ Cash and Cash Equivalents, Fair Value Disclosure
+
+ Segment Income
+ Adjusted Segment Income (Loss)
+ Adjusted Segment Income (Loss)
+
+ Local Phone Number
+ Local Phone Number
+
+ Net recognized investment gains (losses) on trading securities
+ Debt Securities, Trading, Realized Gain (Loss)
+
+ Asset
+ Market Risk Benefit, Asset, Amount
+
+ Aggregate Erroneous Compensation Not Yet Determined
+ Aggregate Erroneous Compensation Not Yet Determined [Text Block]
+
+ Contributions to subsidiaries
+ Payments to Acquire Interest in Subsidiaries and Affiliates
+
+ Total Expenses
+ Operating Expenses
+
+ Schedule of Equity Method Investments [Table]
+ Equity Method Investment [Table]
+
+ Americas
+ Americas [Member]
+
+ Interest Sensitive Contract Liabilities
+ Interest Sensitive Contract Liabilities, Policy [Policy Text Block]
+ Interest Sensitive Contract Liabilities, Policy
+
+ Weighted-average current discount rate
+ Liability for Future Policy Benefit, Current Weighted-Average Discount Rate
+
+ AARe
+ Athene Annuity Re Ltd [Member]
+ Athene Annuity Re Ltd
+
+ Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+ Movement Analysis of Deferred Policy Acquisition Costs [Roll Forward]
+
+ Undistributed income (loss) attributable to common stockholders: Basic
+ Undistributed Earnings (Loss) Available to Common Shareholders, Basic
+
+ Basis difference in investments
+ Deferred Tax Liabilities, Investments
+
+ Cumulative amount of fair value hedging gains (losses) on assets
+ Hedged Asset, Fair Value Hedge, Cumulative Increase (Decrease)
+
+ PEO Total Compensation Amount
+ PEO Total Compensation Amount
+
+ Liabilities, gross
+ Gross amounts of recognized
+ Derivative Liability, Subject to Master Netting Arrangement, before Offset
+
+ Shares of common stock issued in exchange (in shares)
+ Business Acquisition, Equity Interest Issued or Issuable, Number of Shares
+
+ Line of credit facility, maximum borrowing capacity including potential increases
+ Line Of Credit Facility, Maximum Borrowing Capacity Including Accordion Feature
+ Line Of Credit Facility, Maximum Borrowing Capacity Including Accordion Feature
+
+ Reinsurance assumed
+ Policyholder Benefits and Claims Incurred, Assumed
+
+ Income Statement Location [Axis]
+ Statement of Income Location, Balance [Axis]
+
+ Bank loans
+ Bank Loans, Fair Value Disclosure
+ Bank Loans, Fair Value Disclosure
+
+ Deposits on investment-type policies and contracts
+ Proceeds from Annuities and Investment Certificates
+
+ Distributions from principal investments
+ Transfer from Investments
+
+ Debt Disclosure [Abstract]
+
+ Special equity-based compensation and other charges
+ Equity-Based Compensation And Other Charges
+ Equity-Based Compensation And Other Charges
+
+ Schedule of Business Acquisitions, by Acquisition [Table]
+ Schedule of Business Acquisitions, by Acquisition [Table]
+
+ Schedule of Level 3 Liabilities Measured at Fair Value on a Recurring Basis
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation [Table Text Block]
+
+ Schedule of Effects of Reinsurance
+ Effects of Reinsurance [Table Text Block]
+
+ Reduction of shares of common stock issued (in shares)
+ Share-Based Payment Arrangement, Shares Withheld for Tax Withholding Obligation
+
+ Interest expense
+ Liability for Future Policy Benefit, Interest Expense
+
+ Entity Central Index Key
+ Entity Central Index Key
+
+ Loss of contingency, damages
+ Loss Contingency, Damages Sought, Value
+
+ Beginning balance
+ Ending balance, present value of expected net premiums
+ Less: Present value of expected net premiums
+ Liability for Future Policy Benefit, Expected Net Premium, before Reinsurance, after Discount Rate Change
+
+ Non-PEO NEO Average Compensation Actually Paid Amount
+ Non-PEO NEO Average Compensation Actually Paid Amount
+
+ Award Timing, How MNPI Considered
+ Award Timing, How MNPI Considered [Text Block]
+
+ Financial Instrument [Axis]
+ Financial Instrument [Axis]
+
+ Effect of actual policyholder behavior compared to expected behavior
+ Market Risk Benefit, Increase (Decrease) from Future Expected Policyholder Behavior Assumption
+
+ 2029
+ Present Value of Future Insurance Profits, Expected Amortization, Year Five
+
+ Effect of changes in equity
+ Market Risk Benefit, Increase (Decrease) from Equity Market Change
+
+ Protective
+ Protective Life Insurance Company [Member]
+ Protective Life Insurance Company
+
+ Total realized and unrealized gains (losses) included in income
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Gain (Loss) Included in Earnings
+
+ Capital increase related to equity-based compensation
+ APIC, Share-Based Payment Arrangement, Increase for Cost Recognition
+
+ Restricted Stock
+ Restricted Stock
+ Weighted average unvested restricted shares
+ Restricted Stock [Member]
+
+ Derivative, gain (loss), statement of income or comprehensive income
+ Derivative, Gain (Loss), Statement of Income or Comprehensive Income [Extensible Enumeration]
+
+ Policy loans
+ Loans Receivable, Fair Value Disclosure
+
+ Non-controlling interest
+ Non-controlling interest
+ Business Combination, Acquisition of Less than 100 Percent, Noncontrolling Interest, Fair Value
+
+ Net recognized (gains) losses on investments and derivatives
+ Gain (Loss) On Investments And Derivatives
+ Gain (Loss) On Investments And Derivatives
+
+ Balance at beginning of period
+ Balance at end of period
+ Unrecognized Tax Benefits
+
+ Comprehensive (income) loss attributable to non-controlling interests
+ Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest
+
+ Variable Interest Entities
+ Consolidation, Variable Interest Entity, Policy [Policy Text Block]
+
+ City Area Code
+ City Area Code
+
+ Auditor Location
+ Auditor Location
+
+ Net operating and capital loss carryforwards
+ Deferred Tax Assets, Net Operating and Capital Loss Carryforwards
+ Deferred Tax Assets, Net Operating and Capital Loss Carryforwards
+
+ Industrial
+ Industrial Property [Member]
+
+ Bonds
+ Bonds [Member]
+
+ Dividends on participating securities
+ Dividend, Share-Based Payment Arrangement
+
+ Schedule of Mortgage Loan Portfolio, with Fair Value Option Loans
+ Schedule of Gain (Losses) Recorded for Financial Instruments Elected the Fair Value Option
+ Fair Value Option, Disclosures [Table Text Block]
+
+ Insider Trading Policies and Procedures Not Adopted
+ Insider Trading Policies and Procedures Not Adopted [Text Block]
+
+ Shares of common stock purchased related to share issuances and forfeitures (in shares)
+ Shares Issued, Shares, Share-based Payment Arrangement, Repurchased Related To Share Issuance And Forfeiture
+ Shares Issued, Shares, Share-based Payment Arrangement, Repurchased Related To Share Issuance And Forfeiture
+
+ Schedule of Net Investment Income
+ Investment Income [Table Text Block]
+
+ Derivative assets, measurement input
+ Derivative Asset, Measurement Input
+
+ Schedule of Segment Reporting Information, by Segment [Table]
+ Schedule of Segment Reporting Information, by Segment [Table]
+
+ Weighted Average Grant Date Fair Value
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Nonvested, Weighted Average Grant Date Fair Value [Abstract]
+
+ Subsequent Event Type [Axis]
+ Subsequent Event Type [Axis]
+
+ Market Risk Benefit
+ Market Risk Benefit [Policy Text Block]
+
+ Earnings (loss) per share
+ Earnings Per Share [Abstract]
+
+ Equity [Abstract]
+
+ Retained earnings (accumulated deficit)
+ Retained Earnings (Accumulated Deficit)
+
+ Limitation of third party liabilities as a percentage of athora's liabilities
+ Related Party Transaction, Third Party, Right To Refuse To Reinsure, Percentage Of Liabilities, Maximum
+ Related Party Transaction, Third Party, Right To Refuse To Reinsure, Percentage Of Liabilities, Maximum
+
+ Repurchase of class A common stock (in shares)
+ Stock Repurchased and Retired During Period, Shares
+
+ Class of Stock [Domain]
+ Class of Stock [Domain]
+
+ Effect of foreign exchange on the change in discount rate assumptions
+ Effect of foreign exchange on the change in discount rate assumptions
+ Liability For Future Policy Benefit, Expected Net Premium, Foreign Exchange Discount Rate Assumption
+ Liability For Future Policy Benefit, Expected Net Premium, Foreign Exchange Discount Rate Assumption
+
+ Aggregate Available
+ Trading Arrangement, Securities Aggregate Available Amount
+
+ Equity Awards Adjustments
+ Equity Awards Adjustments [Member]
+
+ Underlying Securities
+ Award Underlying Securities Amount
+
+ Other liabilities
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Other Liabilities
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Other Liabilities
+
+ Strategic capital management fees
+ Strategic Capital Management Income
+ Strategic Capital Management Income
+
+ Cash dividends declared
+ Dividends, Common Stock, Cash
+
+ Schedule of Rollforward of VOBA
+ Present Value of Future Insurance Profits [Table Text Block]
+
+ Amended Flag
+ Amendment Flag
+
+ Subordinated notes
+ Subordinated Notes
+ Subordinated Debt [Member]
+
+ Stock Appreciation Rights (SARs)
+ Stock Appreciation Rights (SARs) [Member]
+
+ Stone Tower
+ Stone Tower [Member]
+ Stone Tower
+
+ Guaranty liability
+ Guaranty Liabilities
+
+ Dilution effect of warrants (in shares)
+ Incremental Common Shares Attributable to Dilutive Effect of Call Options and Warrants
+
+ Commercial Mortgage Loan
+ Commercial Loan [Member]
+
+ Subsequent Events [Abstract]
+
+ Due in one year or less
+ Debt Securities, Available-for-Sale, Amortized Cost, Maturity, Allocated and Single Maturity Date, Year One
+
+ Condensed Income Statement [Table]
+ Condensed Income Statement [Table]
+
+ Fair Value Hierarchy and NAV [Domain]
+ Fair Value Hierarchy and NAV [Domain]
+
+ Recovery of Erroneously Awarded Compensation Disclosure [Line Items]
+
+ Aggregate principal amount
+ Debt Instrument, Face Amount
+
+ Tax receivable agreement, payment, multiplier by outstanding units
+ Unit Exchange, Payment, Multiplier By Outstanding Units
+ Unit Exchange, Payment, Multiplier By Outstanding Units
+
+ Settlements
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Settlements
+
+ Fair value, liability, recurring basis still held, unrealized gain (loss), statement of income, extensible list, not disclosed flag
+ Fair Value, Liability, Recurring Basis Still Held, Unrealized Gain (Loss), Statement Of Income, Extensible List, Not Disclosed Flag
+ Fair Value, Liability, Recurring Basis Still Held, Unrealized Gain (Loss), Statement Of Income, Extensible List, Not Disclosed Flag
+
+ Entity Address, Postal Zip Code
+ Entity Address, Postal Zip Code
+
+ Benefit payments
+ Market Risk Benefit, Benefit Payment
+
+ Equity-based profit sharing expense and other
+ Equity-Based Profit Sharing Expense And Other
+ Equity-Based Profit Sharing Expense And Other
+
+ Cash and cash equivalents
+ Cash and cash equivalents
+ Cash
+ Cash and Cash Equivalents, at Carrying Value
+
+ VOBA
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Value of Business Acquired
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Value of Business Acquired
+
+ Forfeited (in dollars per share)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Forfeitures, Weighted Average Grant Date Fair Value
+
+ Schedule of Investments
+ Investment [Table Text Block]
+
+ Purchases of mortgage loans
+ Payments to Acquire Notes Receivable
+
+ 6.15% 2030 Notes
+ 6.15%, Due Two Thousand Thirty Senior Notes [Member]
+ 6.15%, Due Two Thousand Thirty Senior Notes
+
+ 6.65% 2033 Notes
+ Two Thousand Thirty Three Senior Notes [Member]
+ Two Thousand Thirty Three Senior Notes
+
+ VIE, Not Primary Beneficiary
+ Variable Interest Entity, Not Primary Beneficiary [Member]
+
+ Equity Method Investment, Nonconsolidated Investee [Axis]
+ Equity Method Investment, Nonconsolidated Investee [Axis]
+
+ 30 90 days
+ Maturity 30 to 90 Days [Member]
+
+ Capital increases related to equity-based compensation
+ Non-Cash Capital Increases Related To Share-Based Compensation
+ Non-Cash Capital Increases Related To Share-Based Compensation
+
+ Net income (loss) attributable to Apollo Global Management, Inc. common stockholders, basic
+ Net income (loss) attributable to common stockholders, basic
+ Net Income (Loss) Available to Common Stockholders, Basic
+
+ Schedule of Unrealized Losses on AFS Securities
+ Debt Securities, Available-for-Sale, Unrealized Loss Position, Fair Value [Table Text Block]
+
+ Schedule of Stock by Class [Table]
+ Stock, Class of Stock [Table]
+
+ Weighted average shares outstanding
+ Weighted Average Number of Shares Outstanding, Diluted [Abstract]
+
+ Total Assets
+ Assets
+ Total Assets
+ Assets
+
+ Statutory Accounting Practices, Jurisdiction [Domain]
+ Statutory Accounting Practice, Jurisdiction [Domain]
+
+ Derivative Instruments and Hedging Activities Disclosures [Table]
+ Derivative Instruments and Hedging Activities Disclosures [Table]
+
+ Commitments and Contingencies (note 19)
+ Commitments and Contingencies
+
+ Forfeited (in shares)
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Nonvested And Vested, Forfeited
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Nonvested And Vested, Forfeited
+
+ Schedule of Effective Income Tax Rate Reconciliation
+ Schedule of Effective Income Tax Rate Reconciliation [Table Text Block]
+
+ Civil penalty paid
+ Loss Contingency, Damages Paid, Value
+
+ Additions
+ Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Capitalization
+ Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Capitalization
+
+ Sales, maturities and repayments of investments and distributions from equity method investments
+ Proceeds From Sales, Maturities And Repayments Of Investments And Distributions From Equity Method Investments
+ Proceeds From Sales, Maturities And Repayments Of Investments And Distributions From Equity Method Investments
+
+ Mortgage loans
+ Collateralized Mortgage-Backed Securities [Member]
+
+ Benefit payments
+ Benefit payments
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, Benefit Payment
+
+ South Atlantic
+ U. S. South Atlantic [Member]
+ U. S. South Atlantic
+
+ Foreign exchange
+ Liability For Future Policy Benefit Expected Net Premium, Foreign Exchange
+ Liability For Future Policy Benefit Expected Net Premium, Foreign Exchange
+
+ Long-duration Contracts
+ Long-Duration Insurance Contracts Disclosure [Text Block]
+
+ Other liabilities
+ Due to subsidiaries
+ Other Liabilities
+
+ Derivatives not designated as hedges
+ Not Designated as Hedging Instrument [Member]
+
+ Schedule of Gain (Loss) on Securities [Table]
+ Schedule of Gain (Loss) on Securities [Table]
+
+ Debt Instrument [Axis]
+ Debt Instrument [Axis]
+
+ Other investments
+ Other Investments, Fair Value Disclosure
+ Other Investments, Fair Value Disclosure
+
+ Market Risk Benefit [Line Items]
+ Market Risk Benefit [Line Items]
+
+ Collateral (received)/pledged
+ Derivative Asset, Subject to Master Netting Arrangement, Collateral, Obligation to Return Cash Not Offset
+
+ Trading Arrangement:
+ Trading Arrangement [Axis]
+
+ Admitted assets
+ Assets Held by Insurance Regulators
+
+ Less: Assets received
+ Assets Received
+ Assets Received
+
+ 6.00% 2054 Subordinated Notes
+ 6.625% 2054 Subordinated Notes
+ Two Thousand Fifty Four Subordinated Notes [Member]
+ Two Thousand Fifty Four Subordinated Notes
+
+ Amortization of note discount
+ Amortization of Debt Discount (Premium)
+
+ Schedule of Offsetting Derivative Assets
+ Offsetting Assets [Table Text Block]
+
+ Undrawn letter of credit
+ Line of Credit Facility, Current Borrowing Capacity
+
+ Equity Awards Adjustments, Excluding Value Reported in Compensation Table
+ Equity Awards Adjustments, Excluding Value Reported in the Compensation Table [Member]
+
+ Balance, at December 31, 2023, net of reinsurance
+ Market Risk Benefit, after Reinsurance and Cumulative Increase (Decrease) from Instrument-Specific Credit Risk Change
+
+ Entity File Number
+ Entity File Number
+
+ Funds withheld at interest
+ Funds Withheld At Interest
+ Funds Withheld At Interest
+
+ Consolidated Entities [Domain]
+ Consolidated Entities [Domain]
+
+ Non-Controlling Interests
+ Noncontrolling Interest [Member]
+
+ Entity Address, Address Line One
+ Entity Address, Address Line One
+
+ Federal income tax
+ Current Federal Tax Expense (Benefit)
+
+ Entity Address, Address Line Two
+ Entity Address, Address Line Two
+
+ Dividend to Common Stockholders
+ Dividends declared on common stock
+ Dividends, Common Stock
+
+ Investment gains (losses), net of offsets
+ Gain (Loss) On Investments, Net Of Offsets
+ Gain (Loss) On Investments, Net Of Offsets
+
+ Finite-Lived Intangible Assets Acquired as Part of Business Combination [Table]
+ Finite-Lived Intangible Assets Acquired as Part of Business Combination [Table]
+
+ Athene Re USA IV
+ Athene Re USA IV [Member]
+ Athene Re USA IV
+
+ Cash flow hedge, gain (loss) after reclassification, before tax, parent
+ Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), after Reclassification, before Tax, Parent
+
+ Award Timing MNPI Considered
+ Award Timing MNPI Considered [Flag]
+
+ Indemnification Liability
+ Indemnification Liability [Member]
+ Indemnification Liability
+
+ Income passed through to non-controlling interests
+ Effective Income Tax Rate Reconciliation, Noncontrolling Interest Income (Loss), Percent
+
+ Policy and other operating expenses
+ Policy And Other Operating Expenses
+ Policy And Other Operating Expenses
+
+ Greater than 1 year
+ Maturity One Year Or Greater [Member]
+ Maturity One Year Or Greater
+
+ Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+ Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+
+ PEO Actually Paid Compensation Amount
+ PEO Actually Paid Compensation Amount
+
+ Adjustment to Compensation:
+ Adjustment to Compensation [Axis]
+
+ Derivative liabilities
+ Derivative Liability [Abstract]
+
+ Maximum Loss Exposure
+ Variable Interest Entity, Reporting Entity Involvement, Maximum Loss Exposure, Amount
+
+ Reserves
+ Liability For Future Policy Benefit, Remeasurement Gain (Loss), Reserves
+ Liability For Future Policy Benefit, Remeasurement Gain (Loss), Reserves
+
+ Liabilities
+ Financial Instruments, Financial Liabilities, Balance Sheet Groupings [Abstract]
+
+ Due after one year through five years
+ Debt Securities, Available-for-Sale, Amortized Cost, Maturity, Allocated and Single Maturity Date, after Year One Through Five
+
+ Interest expense
+ Interest Expense, Operating
+
+ Fair value
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Indefinite-Lived Intangible Assets
+
+ Document Information [Table]
+ Document Information [Table]
+
+ Total Equity
+ Beginning balance
+ Ending balance
+ Equity
+ Equity, Including Portion Attributable to Noncontrolling Interest
+
+ Net realized investment gains (losses) on AFS securities
+ Debt Securities, Available-for-Sale, Realized Gain (Loss)
+
+ Share Repurchase
+ Stockholders' Equity, Policy [Policy Text Block]
+
+ Entity Filer Category
+ Entity Filer Category
+
+ Debt, at fair value
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Debt
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Debt
+
+ Weighted-average attained age of contract holders (in years)
+ Net Amount at Risk by Product and Guarantee, Weighted Average Attained Age
+
+ Condensed Balance Sheet Statements, Captions [Line Items]
+ Condensed Balance Sheet Statements, Captions [Line Items]
+
+ Forfeited (in shares)
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Vested, Forfeited in Period
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Vested, Forfeited in Period
+
+ Statistical Measurement [Domain]
+ Statistical Measurement [Domain]
+
+ Gross Unrealized Losses
+ Debt Securities, Available-for-Sale, Accumulated Gross Unrealized Loss, before Tax
+
+ Derivatives, Fair Value [Line Items]
+ Derivatives, Fair Value [Line Items]
+
+ AFS securities
+ Debt Securities [Member]
+
+ Director
+ Director [Member]
+
+ ALRe And AARe
+ ALRe And AARe [Member]
+ ALRe And AARe
+
+ Compensation Actually Paid vs. Net Income
+ Compensation Actually Paid vs. Net Income [Text Block]
+
+ VIE, Primary Beneficiary
+ Variable Interest Entity, Primary Beneficiary [Member]
+
+ Peer Group Total Shareholder Return Amount
+ Peer Group Total Shareholder Return Amount
+
+ Non-operating change in insurance liabilities and related derivatives
+ Non-Operating Change in Insurance Liabilities And Related Derivatives, Net of Offsets
+ Non-Operating Change in Insurance Liabilities And Related Derivatives, Net of Offsets
+
+ Unpaid principal balance
+ Fair Value, Option, Loans Held As Assets, Unpaid Principal Balance
+ Fair Value, Option, Loans Held As Assets, Unpaid Principal Balance
+
+ Other
+ Reduction in reserve related to recapture
+ Liability For Future Policy Benefit Expected Future Policy Benefit Other
+ Liability For Future Policy Benefit Expected Future Policy Benefit Other
+
+ Other assets and liabilities, net
+ Increase (Decrease) in Other Operating Assets and Liabilities, Net
+
+ Premiums, product charges, investment related gains (losses) and other retirement services revenue
+ Premiums, Product Charges, Investment Related Gains (Losses) And Other Retirement Services Revenue
+ Premiums, Product Charges, Investment Related Gains (Losses) And Other Retirement Services Revenue
+
+ Catalina
+ Catalina [Member]
+ Catalina
+
+ Carrying Value
+ Variable Interest Entity, Nonconsolidated, Comparison of Carrying Amount of Assets and Liabilities to Maximum Loss Exposure
+
+ Goodwill [Line Items]
+ Goodwill [Line Items]
+
+ Unrealized investment gains (losses) on available-for-sale securities
+ OCI, Debt Securities, Available-for-Sale, Gain (Loss), after Adjustment, before Tax
+
+ 7.625% Fixed-Rate Resettable Junior Subordinated Notes due 2053
+ Subordinated Notes [Member]
+ Subordinated Notes
+
+ Future policy benefits
+ Deferred profit liability
+ Net future policy benefits
+ Liability for Future Policy Benefit, before Reinsurance
+
+ AHL Liquidity Facility
+ AHL Liquidity Facility [Member]
+ AHL Liquidity Facility
+
+ Investments, All Other Investments [Abstract]
+
+ Shares issued upon conversion (in shares)
+ Convertible Preferred Stock, Shares Issued upon Conversion
+
+ Policyholder Account Balance [Line Items]
+ Policyholder Account Balance [Line Items]
+
+ Entity Tax Identification Number
+ Entity Tax Identification Number
+
+ Schedule of Debt
+ Schedule of Long-Term Debt Instruments [Table Text Block]
+
+ Increases based on tax positions taken in the prior years
+ Unrecognized Tax Benefits, Increase Resulting from Prior Period Tax Positions
+
+ Foreign income tax
+ Deferred Foreign Income Tax Expense (Benefit)
+
+ Federal Home Loan Bank
+ Federal Home Loan Bank [Member]
+ Federal Home Loan Bank
+
+ DAC, beginning balance
+ DAC, ending balance
+ Deferred Policy Acquisition Cost
+
+ Sale of stock, consideration received on transaction
+ Sale of Stock, Consideration Received on Transaction
+
+ Schedule of Notional Amount and Fair Value of Derivative Instruments
+ Schedule of Derivative Instruments [Table Text Block]
+
+ Restricted Stock Units and Options
+ Restricted Stock Units And Options [Member]
+ Restricted Stock Units And Options
+
+ Off-balance sheet securities collateral
+ Derivative Liability, Collateral Right To Reclaim Securities
+ Derivative Liability, Collateral Right To Reclaim Securities
+
+ Other operating expenses
+ Other Cost and Expense, Operating
+
+ Funding Agreement Backed Repurchase Agreement
+ Funding Agreement Backed Repurchase Agreement [Member]
+ Funding Agreement Backed Repurchase Agreement
+
+ Retail
+ Retail Site [Member]
+
+ Equity Components [Axis]
+ Equity Components [Axis]
+
+ Greater than 100 Basis Points Above Guaranteed Minimum
+ Policyholder Account Balance, Above Guaranteed Minimum Crediting Rate, Range From 0100 And Greater [Member]
+ Policyholder Account Balance, Above Guaranteed Minimum Crediting Rate, Range From 0100 And Greater
+
+ 5.800% 2054 Senior Notes
+ Senior Notes due 2054 [Member]
+ Senior Notes due 2054
+
+ Fair value of commercial mortgage loans in non-accrual status
+ Fair Value, Option, Loans Held as Assets, Aggregate Amount in Nonaccrual Status
+
+ Recognized in income through changes in fair value
+ Derivative, Excluded Component, Gain (Loss), Recognized in Earnings
+
+ Profit Sharing Payable
+ Profit Sharing Payable [Text Block]
+ Profit Sharing Payable
+
+ AFS securities, at fair value
+ Fair Value
+ Total AFS securities
+ AFS securities
+ Debt Securities, Available-for-Sale
+
+ Trade Name
+ Trade Names [Member]
+
+ Increase (decrease) to statutory net income due to permitted practices
+ Statutory Accounting Practices, Net Income, Permitted Practice, Amount
+ Statutory Accounting Practices, Net Income, Permitted Practice, Amount
+
+ Gains (losses) excluded from the assessment of hedge effectiveness recognized in OCI
+ Other Comprehensive Income (Loss), Derivative, Excluded Component, Increase (Decrease), before Adjustments and Tax
+
+ 4.40%, 2026 Senior Notes
+ Two Thousand Twenty Six Senior Notes [Member]
+ Two Thousand Twenty Six Senior Notes
+
+ Beginning Balance
+ Ending Balance
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset Value
+
+ Decrease in goodwill as a result of measurement period adjustment
+ Business Combination, Provisional Information, Initial Accounting Incomplete, Adjustment, Goodwill
+ Business Combination, Provisional Information, Initial Accounting Incomplete, Adjustment, Goodwill
+
+ Business Acquisition, Acquiree [Domain]
+ Business Acquisition, Acquiree [Domain]
+
+ Direct
+ Direct Premiums Earned
+
+ Total merger consideration at closing
+ Business Combination, Consideration Transferred, Equity Interests Issued and Issuable
+
+ Contingent Stock
+ Contingent Stock [Member]
+ Contingent Stock
+
+ Net income (loss) per share of common stock: Diluted
+ Earnings Per Share, Diluted [Abstract]
+
+ Noncash Investing and Financing Activities
+ Cash Flow, Noncash Investing and Financing Activities Disclosure [Abstract]
+
+ Geographical [Axis]
+ Geographical [Axis]
+
+ Total Deferred Tax Assets, Net
+ Deferred Tax Assets, Net
+
+ Investments received from settlements on reinsurance agreements
+ Transfer To Investments, Reinsurance Settlements
+ Transfer To Investments, Reinsurance Settlements
+
+ Unrealized gains (losses) on hedging instruments
+ Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), after Reclassification, before Tax
+
+ Europe, Middle East and Africa
+ EMEA [Member]
+
+ Gains (losses) from change in tax receivable agreement liability
+ (Gains) Losses From Change In Tax Receivable Agreement Liability
+ (Gains) Losses From Change In Tax Receivable Agreement Liability
+
+ Economic interest, ownership percentage sold
+ Economic Interest, Ownership Percentage
+ Economic Interest, Ownership Percentage
+
+ Residential Mortgage Loan
+ Residential Mortgage [Member]
+
+ Repurchase of common stock
+ Stock Repurchased During Period, Value
+
+ Warrants exercisable (in shares)
+ Class of Warrant or Right, Number of Securities Called by Warrants or Rights
+
+ Debt Securities, Available-for-sale [Line Items]
+ Debt Securities, Available-for-Sale [Line Items]
+
+ Asset Pledged as Collateral
+ Asset Pledged as Collateral [Member]
+
+ Apollo Capital Markets Partnership
+ Apollo Capital Markets Partnership [Member]
+ Apollo Capital Markets Partnership
+
+ AOG Unit Payment
+ AOG Unit Payment [Member]
+ AOG Unit Payment
+
+ Amortization
+ Deferred Sales Inducement Cost, Amortization Expense
+
+ Weighted Average Interest Rate
+ Interest rate
+ Debt, Weighted Average Interest Rate
+
+ Net amortization (accretion) of net investment premiums, discount and other
+ Accretion (Amortization) of Discounts and Premiums, Investments
+
+ Redeemable non-controlling interests
+ Redeemable Noncontrolling Interests, Policy [Policy Text Block]
+ Redeemable Noncontrolling Interests, Policy
+
+ Foreign income tax
+ Current Foreign Tax Expense (Benefit)
+
+ Consolidation Items [Axis]
+ Consolidation Items [Axis]
+
+ Fair Value of Financial Instruments
+ Fair Value of Financial Instruments, Policy [Policy Text Block]
+
+ Unrecognized tax benefits, accrued interest
+ Unrecognized Tax Benefits, Interest on Income Taxes Accrued
+
+ Mortgage loans
+ Loans Receivable [Member]
+
+ Derivatives
+ Change in Unrealized Gain (Loss) on Fair Value Hedging Instruments
+
+ Recognized loss
+ Common Stock, Shares Liquidated, Gain (Loss) Recognized
+ Common Stock, Shares Liquidated, Gain (Loss) Recognized
+
+ Beginning balance at original discount rate
+ Ending balance at original discount rate
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, Original Discount Rate, before Cash Flow and Reinsurance
+
+ Product and Service [Domain]
+ Product and Service [Domain]
+
+ Forwards on net investments
+ Forwards On Net Investments [Member]
+ Forwards On Net Investments
+
+ Maximum distribution permitted to remit without the need for prior approval
+ Statutory Accounting Practices, Statutory Amount Available for Dividend Payments without Regulatory Approval
+
+ Provision for credit losses
+ Provision for Other Credit Losses
+
+ Vested (in dollars per share)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Vested in Period, Weighted Average Grant Date Fair Value
+
+ Derivative (loss) gain
+ Derivative, Gain (Loss) On Derivative, Netting
+ Derivative, Gain (Loss) On Derivative, Netting
+
+ Fair Value Disclosures [Abstract]
+
+ Total Gains (Losses) Included in Earnings
+ Fair Value, Asset, Recurring Basis, Still Held, Unrealized Gain (Loss)
+
+ Apartment
+ Apartment Building [Member]
+
+ Preferred stock, shares outstanding (in shares)
+ Beginning balance (in shares)
+ Ending balance (in shares)
+ Preferred Stock, Shares Outstanding
+
+ Number of extensions
+ Debt Instrument, Number Of Extensions
+ Debt Instrument, Number Of Extensions
+
+ Weighted average unexercised warrants
+ Warrant [Member]
+
+ Related Party Transaction [Domain]
+ Related Party Transaction [Domain]
+
+ Net Purchases, Issuances, Sales and Settlements
+ Net Purchases, Issuances, Sales and Settlements
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements)
+
+ DSI, beginning balance
+ DSI, ending balance
+ Deferred Sale Inducement Cost
+
+ Gain (Loss) on Securities [Line Items]
+ Gain (Loss) on Securities [Line Items]
+
+ Unvested
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Nonvested, Number of Shares [Roll Forward]
+
+ Compensation and benefits
+ Labor and Related Expense
+
+ Amortized Cost
+ Debt Securities, Available-for-Sale, Maturity, Allocated and Single Maturity Date, Amortized Cost [Abstract]
+
+ Other commitment
+ Other Commitment
+
+ Shareholders' Equity
+ Stockholders' Equity, Total [Member]
+
+ Common stock, shares issued (in shares)
+ Common Stock, Shares, Issued
+
+ Line of credit facility, maximum borrowing capacity
+ Maximum borrowing capacity
+ Line of Credit Facility, Maximum Borrowing Capacity
+
+ Whole Life
+ Whole Life Insurance [Member]
+
+ Total Gross Unrealized Losses
+ Debt Securities, Available-for-Sale, Unrealized Loss Position, Accumulated Loss
+
+ Management fees
+ Asset Management [Member]
+
+ Liabilities
+ Derivative liabilities
+ Derivative Liability
+
+ Long-term Purchase Commitment, Category of Item Purchased [Domain]
+ Long-Term Purchase Commitment, Category of Item Purchased [Domain]
+
+ Compensation and Benefits
+ Compensation Related Costs, Policy [Policy Text Block]
+
+ Liability for Future Policy Benefit, by Product Segment [Table]
+ Liability for Future Policy Benefit, by Product Segment [Table]
+
+ Schedule of Market Risk Benefits by Fair Value
+ Fair Value, Separate Account Investment [Table Text Block]
+
+ Apollo Opportunity Foundation
+ Apollo Opportunity Foundation [Member]
+ Apollo Opportunity Foundation
+
+ Long-term Debt, Type [Axis]
+ Long-Term Debt, Type [Axis]
+
+ Funding Agreement [Domain]
+ Funding Agreement [Domain]
+ Funding Agreement [Domain]
+
+ Deposits
+ Policyholder Account Balance, Issuance
+
+ Deferred
+ Deferred Income Tax Expense (Benefit)
+
+ Policyholder account balance, guaranteed minimum credit rating
+ Policyholder Account Balance, Guaranteed Minimum Credit Rating
+
+ Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+ Antidilutive Securities Excluded from Computation of Earnings Per Share [Line Items]
+
+ Pension Adjustments Prior Service Cost
+ Pension Adjustments Prior Service Cost [Member]
+
+ 2030 and Thereafter
+ Long-Term Debt, Maturity, after Year Five
+
+ Schedule of Investment Funds
+ Schedule Of Investment Funds [Table Text Block]
+ Schedule Of Investment Funds
+
+ Pension Benefits Adjustments, Footnote
+ Pension Benefits Adjustments, Footnote [Text Block]
+
+ Net recognized investment gains on investment funds
+ Investment Funds Related to Investment
+ Investment Funds Related to Investment
+
+ Document Annual Report
+ Document Annual Report
+
+ Investment company, dividend distribution
+ Investment Company, Dividend Distribution
+
+ AAIA
+ Athene Annuity And Life Company [Member]
+ Athene Annuity And Life Company
+
+ SEC Schedule, 12-09, Movement in Valuation Allowances and Reserves [Roll Forward]
+ SEC Schedule, 12-09, Movement in Valuation Allowances and Reserves [Roll Forward]
+
+ Convertible Preferred Stock
+ Convertible Preferred Stock [Member]
+
+ Total international region
+ Non-US [Member]
+
+ Preferred stock dividends
+ Preferred Stock Dividends, Income Statement Impact
+
+ Merger with Athene
+ Business Combination Disclosure [Text Block]
+
+ Acquisition of goodwill and intangibles
+ Non Cash Investing Activities Acquisition of Goodwill and Intangibles
+ Non Cash Investing Activities Acquisition of Goodwill and Intangibles
+
+ Current Fiscal Year End Date
+ Current Fiscal Year End Date
+
+ Balance at beginning of year
+ Balance at end of year
+ SEC Schedule, 12-09, Valuation Allowances and Reserves, Amount
+
+ Retirement services contributions to investment funds, inclusive of related party commitments
+ Long-Term Purchase Commitment, Amount
+
+ Issuance of shares of common stock for equity-based awards (in shares)
+ Shares Issued, Shares, Share-Based Payment Arrangement, after Forfeiture
+
+ State Insurance Licenses
+ Licensing Agreements [Member]
+
+ Additional Paid in Capital
+ Additional Paid-in Capital [Member]
+
+ Hedging Relationship [Axis]
+ Hedging Relationship [Axis]
+
+ Schedule of Distribution of Commercial and Residential Mortgage Loans, Percentage by Geographical Location
+ Schedule of Accounts, Notes, Loans and Financing Receivable [Table Text Block]
+
+ Class of Stock [Line Items]
+ Class of Stock [Line Items]
+
+ Trading securities
+ Trading Assets, Excluding Debt and Equity Securities [Member]
+
+ 6.75% Series A Mandatory Convertible Preferred Stock
+ Series A Preferred Stock
+ Series A Preferred Stock [Member]
+
+ Class of Stock [Axis]
+ Class of Stock [Axis]
+
+ Finite-Lived Intangible Assets by Major Class [Axis]
+ Finite-Lived Intangible Assets by Major Class [Axis]
+
+ Fair value, recurring basis, unobservable input reconciliation, asset, gain (loss) statement of other comprehensive income, extensible list, not disclosed flag
+ Fair Value, Recurring Basis, Unobservable Input Reconciliation, Asset, Gain (Loss) Statement Of Other Comprehensive Income, Extensible List, Not Disclosed Flag
+ Fair Value, Recurring Basis, Unobservable Input Reconciliation, Asset, Gain (Loss) Statement Of Other Comprehensive Income, Extensible List, Not Disclosed Flag
+
+ Tax Receivable Agreement
+ Tax Receivable Agreement [Member]
+ Tax Receivable Agreement
+
+ Cash paid for taxes
+ Cash paid for taxes
+ Income Taxes Paid
+
+ Contributions from ADIP
+ Proceeds from Contributed Capital
+
+ Schedule of Financial Assets and Liabilities Recorded at Fair Value
+ Schedule of Fair Value, Assets and Liabilities Measured on Recurring Basis [Table Text Block]
+
+ Weighted-average liability duration (in years)
+ Liability for Future Policy Benefit, Weighted-Average Duration
+
+ Funds withheld at interest
+ Funds Held under Reinsurance Agreements, Asset
+
+ Reclassification of preferred stock to non-controlling interests
+ Reclassification Of Preferred Stock To Noncontrolling Interests
+ Reclassification Of Preferred Stock To Noncontrolling Interests
+
+ Contingent consideration obligations, measurement input
+ Business Combination, Contingent Consideration, Liability, Measurement Input
+
+ Equity-based compensation
+ Share-Based Payment Arrangement, Noncash Expense
+
+ 2.65% 2030 Senior Notes
+ 2.65%, Two Thousand Thirty Senior Notes [Member]
+ 2.65%, Two Thousand Thirty Senior Notes
+
+ New England
+ New England [Member]
+ New England
+
+ Purchases
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases
+
+ Interest rate, stated percentage
+ Debt Instrument, Interest Rate, Stated Percentage
+
+ Issuance of warrants
+ Adjustments to Additional Paid in Capital, Warrant Issued
+
+ Equity securities
+ Equity Securities, FV-NI
+
+ Decreases due to settlements with tax authorities
+ Unrecognized Tax Benefits, Decrease Resulting from Settlements with Taxing Authorities
+
+ AT&T Inc.
+ AT&T Inc. [Member]
+ AT&T Inc.
+
+ Schedule of Gains (Losses) Related to Cash Flow Hedges
+ Derivative Instruments, Gain (Loss) [Table Text Block]
+
+ Total Other income (loss)
+ Nonoperating Income (Expense)
+
+ AmerUs Life Insurance Company ( AmerUs ) Closed Block
+ AmerUs Life Insurance Company ( AmerUs ) Closed Block [Member]
+ AmerUs Life Insurance Company ( AmerUs ) Closed Block
+
+ Preferred stock, dividend rate (as percent)
+ Preferred Stock, Dividend Rate, Percentage
+
+ Concentration Risk Benchmark [Domain]
+ Concentration Risk Benchmark [Domain]
+
+ Schedule II Valuation and Qualifying Accounts
+ SEC Schedule, 12-09, Schedule of Valuation and Qualifying Accounts Disclosure [Text Block]
+
+ Other assets
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Other Assets
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Other Assets
+
+ AOCI Including Portion Attributable to Noncontrolling Interest, Net of Tax [Roll Forward]
+ AOCI Including Portion Attributable to Noncontrolling Interest, Net of Tax [Roll Forward]
+
+ Mortgage loans, at fair value
+ Mortgage loans
+ Loan, Mortgage, Held-for-Sale, Fair Value Disclosure
+
+ Total Liabilities, Redeemable non-controlling interests and Equity
+ Liabilities and Equity
+
+ Redomicile
+ Effective Income Tax Rate Reconciliation, Redomicile, Percent
+ Effective Income Tax Rate Reconciliation, Redomicile, Percent
+
+ Rule 10b5-1 Arrangement Terminated
+ Rule 10b5-1 Arrangement Terminated [Flag]
+
+ Reinsurance ceded
+ Ceded Premiums Earned
+
+ U.S. Treasury Securities, at fair value
+ Marketable Securities, Policy [Policy Text Block]
+
+ Finite-Lived Intangible Assets, Major Class Name [Domain]
+ Finite-Lived Intangible Assets, Major Class Name [Domain]
+
+ Schedule of Restricted Stock Activity
+ Share-Based Payment Arrangement, Restricted Stock and Restricted Stock Unit, Activity [Table Text Block]
+
+ Underlying Security Market Price Change
+ Underlying Security Market Price Change, Percent
+
+ Tax Credit Carryforward, Name [Domain]
+ Tax Credit Carryforward, Name [Domain]
+
+ Integration, restructuring and other non-operating expenses
+ Integration, Restructuring Charges And Other Nonoperating Expenses
+ Integration, Restructuring Charges And Other Nonoperating Expenses
+
+ Product and Service [Axis]
+ Product and Service [Axis]
+
+ Statement [Line Items]
+ Statement [Line Items]
+
+ Fair value of contingent consideration
+ Business Combination, Contingent Consideration, Fair Value Disclosure
+ Business Combination, Contingent Consideration, Fair Value Disclosure
+
+ Schedule of Share Activity
+ Schedule of Stockholders Equity [Table Text Block]
+
+ Unrealized performance fees6
+ Unrealized Performance Fees
+ Unrealized Performance Fees
+
+ Expenses
+ Operating Expenses [Abstract]
+
+ Increase (decrease) future policy benefits for payout annuities with life contingencies
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, Period Increase (Decrease)
+
+ Estimated fair value of net assets acquired, excluding goodwill
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Net
+
+ IPO
+ IPO [Member]
+
+ Total merger consideration
+ Merger consideration
+ Business Combination, Consideration Transferred
+
+ Adjusted transaction value
+ Valuation Technique, Adjusted Transaction Value [Member]
+ Valuation Technique, Adjusted Transaction Value
+
+ Derivative Instruments
+ Derivatives, Policy [Policy Text Block]
+
+ Estimate of possible loss
+ Loss Contingency, Estimate of Possible Loss
+
+ AOG Unit Holders
+ AOG Unit Holders [Member]
+ AOG Unit Holders
+
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net [Abstract]
+
+ Minimum
+ Minimum [Member]
+
+ Adoption Date
+ Trading Arrangement Adoption Date
+
+ Related Party Transactions [Abstract]
+
+ Payables for repurchase agreements
+ Assets Sold under Agreements to Repurchase, Carrying Amount
+
+ Amortization
+ Deferred Policy Acquisition Costs, Amortization Expense
+
+ Investments received at inception of reinsurance agreements
+ Investments Received at Inception Of Reinsurance Agreements
+ Investments Received at Inception Of Reinsurance Agreements
+
+ Total income tax provision (benefit)
+ Income Tax Expense (Benefit), Intraperiod Tax Allocation
+
+ Due after five years through ten years
+ Debt Securities, Available-for-Sale, Fair Value, Maturity, Allocated and Single Maturity Date, after Year 5 Through 10
+
+ Sumitomo Mitsui Banking Corp
+ Sumitomo Mitsui Banking Corp [Member]
+ Sumitomo Mitsui Banking Corp
+
+ Variable Interest Entity [Line Items]
+ Variable Interest Entity [Line Items]
+
+ Change in Fair Value as of Vesting Date of Prior Year Equity Awards Vested in Covered Year
+ Change in Fair Value as of Vesting Date of Prior Year Equity Awards Vested in Covered Year [Member]
+
+ Option budget
+ Option budget
+ Measurement Input, Option Budget [Member]
+ Measurement Input, Option Budget
+
+ U.S. federal statutory tax rate
+ Effective Income Tax Rate Reconciliation, at Federal Statutory Income Tax Rate, Percent
+
+ Exercise Price
+ Award Exercise Price
+
+ Schedule of Deferred Tax Assets and Liabilities
+ Schedule of Deferred Tax Assets and Liabilities [Table Text Block]
+
+ Arrangement Duration
+ Trading Arrangement Duration
+
+ Reconciliation of Operating Profit (Loss) from Segments to Consolidated [Table]
+ Reconciliation of Operating Profit (Loss) from Segments to Consolidated [Table]
+
+ Recognized gain (loss) on recapture agreement
+ Gain (Loss) Recognized On Recapture Agreement
+ Gain (Loss) Recognized On Recapture Agreement
+
+ Equity
+ Equity, Attributable to Parent [Abstract]
+
+ Subsidiaries
+ Subsidiaries [Member]
+
+ Less than 12 months, Fair Value
+ Debt Securities, Available-for-Sale, Continuous Unrealized Loss Position, Less than 12 Months
+
+ West South Central
+ U. S. West South Central [Member]
+ U. S. West South Central
+
+ Assets of consolidated variable interest entities
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Variable Interest Entity, Consolidated, Assets
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Variable Interest Entity, Consolidated, Assets
+
+ Required aggregate statutory balance
+ Minimum capital and surplus required
+ Statutory Accounting Practices, Statutory Capital and Surplus Required
+
+ Interest and other income
+ Interest and Other Income
+
+ Credit
+ Credit Fund Investments [Member]
+ Credit Fund Investments
+
+ Policyholder Account Balance, above Guaranteed Minimum Crediting Rate [Domain]
+ Policyholder Account Balance, above Guaranteed Minimum Crediting Rate [Domain]
+
+ Material Terms of Trading Arrangement
+ Material Terms of Trading Arrangement [Text Block]
+
+ Remeasurement gains (losses) on market risk benefits related to credit risk
+ Remeasurement Gain (Loss) On Market Risk Benefits Related To Credit Risk [Member]
+ Remeasurement Gain (Loss) On Market Risk Benefits Related To Credit Risk
+
+ Summary of Significant Accounting Policies
+ Basis of Presentation and Significant Accounting Policies [Text Block]
+
+ Consolidation/deconsolidation of VIEs
+ Noncontrolling Interest, Increase From Consolidation
+ Noncontrolling Interest, Increase From Consolidation
+
+ Total AHL equity value
+ Business Combination, Consideration Transferred, Equity
+ Business Combination, Consideration Transferred, Equity
+
+ Commercial Mortgage
+ Commercial Mortgage [Member]
+ Commercial Mortgage
+
+ Income Tax Disclosure [Abstract]
+
+ Debt
+ Fair Value
+ Debt Instrument, Fair Value Disclosure
+
+ Other investments
+ Other Investments
+
+ Other income (loss), net
+ Other Nonoperating Income (Expense)
+
+ Statement of Stockholders' Equity [Abstract]
+
+ Amortization
+ Present Value of Future Insurance Profits, Amortization Expense
+
+ Other
+ Policyholder Account Balance, Increase (Decrease) from Other Change
+
+ Dividend per share of preferred stock (in dollars per share)
+ Preferred Stock, Dividends Per Share, Declared
+
+ Fair value of commercial mortgage loans 90 days or more past due
+ Fair Value, Option, Loans Held as Assets, 90 Days or More Past Due
+
+ Related Party [Domain]
+ Related and Nonrelated Parties [Domain]
+
+ Issued (in shares)
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Issued
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Issued
+
+ Distribution of investments to non-controlling interests of consolidated VIEs
+ Distribution Of Investments To Non-Controlling Interests Of Consolidated Variable Interest Entities
+ Distribution Of Investments To Non-Controlling Interests Of Consolidated Variable Interest Entities
+
+ Schedule of Fair Value and Weighted Average Estimate Useful Lives of VOBA and Other Identifiable Intangible Assets Acquired
+ Finite-Lived and Indefinite-Lived Intangible Assets Acquired as Part of Business Combination [Table Text Block]
+
+ Alternative net investment income
+ Alternative Investment Income, Net
+ Alternative Investment Income, Net
+
+ Fair value, asset, recurring basis still held, unrealized gain (loss), statement of income, extensible list, not disclosed flag
+ Fair Value, Asset, Recurring Basis Still Held, Unrealized Gain (Loss), Statement Of Income, Extensible List, Not Disclosed Flag
+ Fair Value, Asset, Recurring Basis Still Held, Unrealized Gain (Loss), Statement Of Income, Extensible List, Not Disclosed Flag
+
+ Guarantee
+ Guarantor Obligations, Current Carrying Value
+
+ Policyholder Account Balance [Roll Forward]
+ Policyholder Account Balance [Roll Forward]
+
+ Minimum consolidated net worth
+ Line Of Credit Facility, Covenant Terms, Consolidated Net Worth Requirement, Amount
+ Line Of Credit Facility, Covenant Terms, Consolidated Net Worth Requirement, Amount
+
+ Valuation Approach and Technique [Axis]
+ Valuation Approach and Technique [Axis]
+
+ Unrealized Loss Position
+ Debt Securities, Available-for-Sale, Unrealized Loss Position, Number of Positions
+
+ Repurchase of common stock (in shares)
+ Stock Repurchased During Period, Shares
+
+ Impact of foreign taxes (net of foreign tax credit)
+ Effective Income Tax Rate Reconciliation, Foreign Income Tax Rate Differential, Percent
+
+ Non-redeemable preferred equity and corporate debt securities
+ Equity Securities, FV NI And Debt Securities
+ Equity Securities, FV NI And Debt Securities
+
+ Fair value (in millions)
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Finite-Lived Intangibles
+
+ Federal income tax
+ Deferred Federal Income Tax Expense (Benefit)
+
+ Other
+ Deferred Policy Acquisition Costs, Other
+ Deferred Policy Acquisition Costs, Other
+
+ Cash and Cash Equivalents
+ Cash and Cash Equivalents, Policy [Policy Text Block]
+
+ Investment related gains (losses)
+ Investment Income (Expense) [Member]
+
+ Asset Management and Retirement Segments
+ Asset Management And Retirement Segments [Member]
+ Asset Management And Retirement Segments
+
+ ACRA non-controlling interests on net investment earnings
+ ACRA Non Controlling Interests On Net Investment Earnings
+ ACRA Non Controlling Interests On Net Investment Earnings
+
+ Operating Loss Carryforwards [Table]
+ Operating Loss Carryforwards [Table]
+
+ Less than 30 days
+ Maturity Less than 30 Days [Member]
+
+ Issuance of common stock related to equity transactions (in shares)
+ Issuance of common stock related to equity transactions (in shares)
+ Shares issued to Apollo Opportunity Foundation (in shares)
+ Stock Issued During Period, Shares, New Issues
+
+ Statutory surplus increase (decrease)
+ Statutory Accounting Practices, Increase (Decrease) In Statutory Capital And Surplus
+ Statutory Accounting Practices, Increase (Decrease) In Statutory Capital And Surplus
+
+ Unrealized Loss Position 12 Months or More
+ Debt Securities, Available-for-Sale, Continuous Unrealized Loss Position, 12 Months or Longer, Number of Positions
+
+ United States Jurisdiction
+ United States Jurisdiction [Member]
+ United States Jurisdiction
+
+ Other
+ Other investments
+ Other Investments [Member]
+
+ 4.0% to less than 6.0%
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate, Range from 0400 to 0600 [Member]
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate, Range from 0400 to 0600
+
+ Interest sensitive contract liabilities
+ Interest Sensitive Contract Liabilities [Member]
+ Interest Sensitive Contract Liabilities
+
+ Equity Component [Domain]
+ Equity Component [Domain]
+
+ BSCR ratio
+ Statutory Accounting Practices, Solvency Capital Ratio
+ Statutory Accounting Practices, Solvency Capital Ratio
+
+ Additional 402(v) Disclosure
+ Additional 402(v) Disclosure [Text Block]
+
+ Loss related to contingent considerations
+ Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability
+
+ Off-balance sheet securities collateral
+ Derivative Asset, Collateral Right To Reclaim Securities
+ Derivative Asset, Collateral Right To Reclaim Securities
+
+ Entity Shell Company
+ Entity Shell Company
+
+ Valuation Allowance [Line Items]
+ Valuation Allowance [Line Items]
+
+ Carrying Value
+ Investment fund
+ Investment Funds
+ Investment Funds
+
+ Total Interest Expense
+ Interest Expense, Debt
+
+ 2.00% 2016 AMI Term Facility II
+ Two Thousand Sixteen AMI Term Facility II [Member]
+ Two Thousand Sixteen AMI Term Facility II
+
+ Accounts payable, accrued expenses, and other liabilities
+ Accounts Payable and Accrued Liabilities
+
+ Counterparty Name [Axis]
+ Counterparty Name [Axis]
+
+ Measurement Frequency [Domain]
+ Measurement Frequency [Domain]
+
+ Assets contributed to consolidated VIEs
+ Contributions Of Assets
+ Contributions Of Assets
+
+ Consolidation Items [Domain]
+ Consolidation Items [Domain]
+
+ Number of votes per share
+ Number Of Votes Per Share
+ Number Of Votes Per Share
+
+ Number of investing strategies
+ Number Of Investing Strategies
+ Number Of Investing Strategies
+
+ Schedule of Derivatives Not Designated as Hedges
+ Derivatives Not Designated as Hedging Instruments [Table Text Block]
+
+ Settlements
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Settlements
+
+ Number of consecutive trading days
+ Convertible Preferred Stock, Threshold Trading Days
+ Convertible Preferred Stock, Threshold Trading Days
+
+ Cash paid for interest
+ Interest Paid, Excluding Capitalized Interest, Operating Activities
+
+ Embedded Derivatives
+ Derivatives, Embedded Derivatives [Policy Text Block]
+
+ Proceeds from sale of investments by Funds and VIEs
+ Increase (Decrease) From Sale Of Investments
+ Increase (Decrease) From Sale Of Investments
+
+ Statement of Cash Flows [Abstract]
+
+ Senior Notes
+ Senior Secured Notes
+ Senior Notes [Member]
+
+ Payments related to issuances of common stock for equity-based awards
+ Shares Issued During Period, Value, Share-based Payment Arrangement
+ Shares Issued During Period, Value, Share-based Payment Arrangement
+
+ Liabilities of consolidated variable interest entities
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Noncurrent Liabilities, Liabilities Of Consolidated Variable Interest Entities
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Noncurrent Liabilities, Liabilities Of Consolidated Variable Interest Entities
+
+ Assets
+ Financial Instruments, Financial Assets, Balance Sheet Groupings [Abstract]
+
+ Schedule of Long-term Debt Instruments [Table]
+ Schedule of Long-Term Debt Instruments [Table]
+
+ Statutory net income (loss)
+ Statutory Accounting Practices, Statutory Net Income Amount
+
+ Total
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Intangible Assets, Other than Goodwill
+
+ Equity securities without readily determinable fair value, amount
+ Equity Securities without Readily Determinable Fair Value, Amount
+
+ Due after five years through ten years
+ Debt Securities, Available-for-Sale, Amortized Cost, Maturity, Allocated and Single Maturity Date, after Year 5 Through 10
+
+ Entity Well-known Seasoned Issuer
+ Entity Well-known Seasoned Issuer
+
+ Repurchase of common stock
+ Stock Repurchased and Retired During Period, Value
+
+ Net Investment Income [Line Items]
+ Net Investment Income [Line Items]
+
+ Dividend discount model
+ Valuation Technique, Dividend Discount Model [Member]
+ Valuation Technique, Dividend Discount Model
+
+ Advisory and transaction fees, net
+ Capital solutions fees and other, net
+ Investment Advice [Member]
+
+ Summary of Operating Loss Carryforwards
+ Summary of Operating Loss Carryforwards [Table Text Block]
+
+ Debt Issuance Costs
+ Debt, Policy [Policy Text Block]
+
+ Net cash provided by financing activities
+ Net Cash Provided by (Used in) Financing Activities
+
+ Net amount after securities collateral
+ Derivative Liability, Collateral Right To Reclaim After Securities
+ Derivative Liability, Collateral Right To Reclaim After Securities
+
+ Athene USA Corporation
+ Athene USA Corporation [Member]
+ Athene USA Corporation
+
+ Skylign Aviation Holdings, LP
+ Skylign Aviation Holdings, LP [Member]
+ Skylign Aviation Holdings, LP
+
+ Schedule of Rollforward of DAC
+ Deferred Policy Acquisition Costs [Table Text Block]
+
+ Debt Securities, Available-for-sale, Unrealized Loss Position, Fair Value [Table]
+ Debt Securities, Available-for-Sale, Unrealized Loss Position, Fair Value [Table]
+
+ Pledging Purpose [Domain]
+ Pledging Purpose [Domain]
+
+ Equity awards granted by unconsolidated related parties, reimbursable expenses and other
+ Equity Awards Granted By Unconsolidated Related Parties, Reimbursable Expenses And Other
+ Equity Awards Granted By Unconsolidated Related Parties, Reimbursable Expenses And Other
+
+ Effect of changes in cash flow assumptions
+ Liability For Future Policy Benefit, Expected Future Policy Benefit Cumulative Increase (Decrease) From Favorable (Unfavorable) Changes In Assumptions
+ Liability For Future Policy Benefit, Expected Future Policy Benefit Cumulative Increase (Decrease) From Favorable (Unfavorable) Changes In Assumptions
+
+ Net amount after securities collateral
+ Derivative Asset, Collateral Right To Reclaim After Securities
+ Derivative Asset, Collateral Right To Reclaim After Securities
+
+ Fair Value as of Grant Date
+ Award Grant Date Fair Value
+
+ Schedule of Reconciliation of Total Reportable Segment Assets to Total Assets
+ Reconciliation of Assets from Segment to Consolidated [Table Text Block]
+
+ Right of refusal to reinsure liabilities ceded from a third party, percentage
+ Related Party Transaction, Third Party, Right To Refuse To Reinsure, Percentage Of Liabilities
+ Related Party Transaction, Third Party, Right To Refuse To Reinsure, Percentage Of Liabilities
+
+ Fair value of collateral received
+ Fair Value of Securities Received as Collateral that Can be Resold or Repledged
+
+ Issuance of common stock related to equity transactions
+ Stock Issued During Period, Value, New Issues
+
+ Consolidation
+ Consolidation, Policy [Policy Text Block]
+
+ Change in fair value of funds
+ Performance Allocation Receivable, Increase (Decrease) In Fair Value
+ Performance Allocation Receivable, Increase (Decrease) In Fair Value
+
+ Cash tax savings
+ Tax Receivable Agreement, Cash Tax Savings
+ Tax Receivable Agreement, Cash Tax Savings
+
+ Global Atlantic
+ Global Atlantic [Member]
+ Global Atlantic
+
+ Document Financial Statement Error Correction [Flag]
+ Document Financial Statement Error Correction [Flag]
+
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate Range [Domain]
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate Range [Domain]
+
+ Realized investment income
+ Realized Investment Income
+ Realized Investment Income
+
+ Vested, beginning balance (in shares)
+ Vested, ending balance (in shares)
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Vested, Number
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Vested, Number
+
+ Fair value of commercial mortgage loans 90 days or more past due and/or in non-accrual status
+ Fair Value, Option, Loans Held as Assets, Aggregate Difference
+
+ Merger with Athene
+ Stock Issued During Period, Value, Acquisitions
+
+ Other comprehensive income (loss) before reclassifications
+ Other Comprehensive Income (Loss), before Reclassifications, before Tax
+
+ Indexed Annuities
+ Indexed Annuity [Member]
+
+ Change in discount rate assumptions
+ Liability For Future Policy Benefit, Expected Future Policy, Increase (Decrease) For Discount Rate Assumptions
+ Liability For Future Policy Benefit, Expected Future Policy, Increase (Decrease) For Discount Rate Assumptions
+
+ Other
+ Deferred Tax Assets, Other
+
+ Fair Value by Liability Class [Domain]
+ Fair Value by Liability Class [Domain]
+
+ Concentration Risk [Line Items]
+ Concentration Risk [Line Items]
+
+ Funding agreements, limitation as a percentage of fair market value of total assets
+ Related Party Transaction, Funding Agreements, Percentage Of Fair Market Value Of Assets
+ Related Party Transaction, Funding Agreements, Percentage Of Fair Market Value Of Assets
+
+ Valuation Approach and Technique [Domain]
+ Valuation Approach and Technique [Domain]
+
+ Other Assets
+ Other Assets [Policy Text Block]
+ Other Assets
+
+ Subsidiary issuance of equity interests to non-controlling interests
+ Subsidiary Issuance Of Equity Interests Of Non-Controlling Interests
+ Subsidiary Issuance Of Equity Interests Of Non-Controlling Interests
+
+ Ownership [Domain]
+ Ownership [Domain]
+
+ Embedded derivatives
+ Funds withheld at interest embedded derivative
+ Embedded Derivative Financial Instruments [Member]
+
+ Investments, measurement input
+ Investments, Measurement Input
+ Investments, Measurement Input
+
+ Intangible assets
+ Deferred Tax Liabilities, Intangible Assets
+
+ Equity Method Investment, Nonconsolidated Investee [Domain]
+ Equity Method Investment, Nonconsolidated Investee [Domain]
+
+ Payables for collateral on derivatives and securities to repurchase
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Noncurrent Liabilities, Payable For Collateral On Derivative And Securities To Repurchase
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Noncurrent Liabilities, Payable For Collateral On Derivative And Securities To Repurchase
+
+ Minimum margin of solvency required
+ Statutory Accounting Practices, Minimum Margin Of Solvency Required
+ Statutory Accounting Practices, Minimum Margin Of Solvency Required
+
+ Business Combinations
+ Business Combinations Policy [Policy Text Block]
+
+ Financing Receivable, Allowance for Credit Loss [Line Items]
+ Financing Receivable, Allowance for Credit Loss [Line Items]
+
+ AGM Stockholder Agreement Complaint
+ AGM Stockholder Agreement Complaint [Member]
+ AGM Stockholder Agreement Complaint
+
+ Beginning balance
+ Ending balance
+ Total
+ Policyholder Account Balance
+
+ Consolidation/deconsolidation of VIEs
+ Noncontrolling Interest, Decrease from Deconsolidation
+
+ Weighted-average interest accretion rate
+ Liability for Future Policy Benefit, Weighted-Average Interest Accretion Rate
+
+ Preferred stock dividends
+ Payments of Ordinary Dividends, Preferred Stock and Preference Stock
+
+ Mark to fair value of commercial mortgage loans 90 days or more past due and/or in non-accrual status
+ Fair Value, Option, Loans Held As Assets, 90 Days Or More Past Due And/Or In Nonaccrual Status, Unpaid Principal
+ Fair Value, Option, Loans Held As Assets, 90 Days Or More Past Due And/Or In Nonaccrual Status, Unpaid Principal
+
+ Payout Annuities with Life Contingencies
+ Payout Annuities With Life Contingencies [Member]
+ Payout Annuities With Life Contingencies
+
+ Entity Address, City or Town
+ Entity Address, City or Town
+
+ Issuance of debt
+ Proceeds from Issuance of Long-Term Debt
+
+ Assets, netting
+ Derivative Asset, Subject to Master Netting Arrangement, Liability Offset
+
+ Right of refusal to reinsure as a percentage of liabilities ceded
+ Related Party Transaction, Right To Refuse To Reinsure, Percentage Of Liabilities
+ Related Party Transaction, Right To Refuse To Reinsure, Percentage Of Liabilities
+
+ Segment Reporting, Revenue Reconciling Item [Line Items]
+ Segment Reporting, Revenue Reconciling Item [Line Items]
+
+ Borrowings of VIEs settled with investments
+ Borrowings Of Variable Interest Entities Settled With Investments
+ Borrowings Of Variable Interest Entities Settled With Investments
+
+ Forfeited (in shares)
+ Restricted shares forfeited (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Forfeited in Period
+
+ Interest sensitive contract liabilities
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Interest Sensitive Contract Liabilities
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Interest Sensitive Contract Liabilities
+
+ Equity securities, measurement input
+ Equity Securities, FV-NI, Measurement Input
+
+ Financing Receivable, Allowance for Credit Loss [Table]
+ Financing Receivable, Allowance for Credit Loss [Table]
+
+ Series A Mandatory Convertible Preferred Stock
+ Series B Preferred Stock [Member]
+
+ Commercial mortgage loans
+ Commercial Portfolio Segment [Member]
+
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+ Document Period End Date
+ Document Period End Date
+
+ Sale of Stock [Axis]
+ Sale of Stock [Axis]
+
+ Embedded derivative
+ Embedded Derivative, Fair Value of Embedded Derivative Liability
+
+ Distributions from subsidiaries
+ Proceeds From Distribution From Subsidiary, Investing Activities
+ Proceeds From Distribution From Subsidiary, Investing Activities
+
+ AFS, trading and equity securities, measurement input
+ Available For Sale Securities And Trading Securities, Liability, Measurement Input
+ Available For Sale Securities And Trading Securities, Liability, Measurement Input
+
+ Asset Class [Axis]
+ Asset Class [Axis]
+
+ Insider Trading Arrangements [Line Items]
+
+ Reconciliation of the gross balances in an asset or liability position:
+ Market Risk Benefit, after Increase (Decrease) from Instrument-Specific Credit Risk [Abstract]
+
+ Effect of foreign exchange on the change in discount rate assumptions
+ Effect of foreign exchange on the change in discount rate assumptions
+ Liability For Future Policy Benefit, Expected Future Policy Benefit, Foreign Exchange Discount Rate Assumption
+ Liability For Future Policy Benefit, Expected Future Policy Benefit, Foreign Exchange Discount Rate Assumption
+
+ Trading securities
+ Debt Securities, Trading, Restricted
+
+ Purchases from related party
+ Related Party Transaction, Purchases from Related Party
+
+ Issued (in dollars per share)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Issued in Period, Weighted Average Grant Date Fair Value
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Issued in Period, Weighted Average Grant Date Fair Value
+
+ Document Transition Report
+ Document Transition Report
+
+ Issuances
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Issuances
+
+ Schedule of Unrecognized Tax Benefits Roll Forward
+ Schedule of Unrecognized Tax Benefits Roll Forward [Table Text Block]
+
+ Tax Credits
+ Effective Income Tax Rate Reconciliation, Tax Credit, Percent
+
+ Indefinite-lived Intangible Assets Acquired as Part of Business Combination [Table]
+ Indefinite-Lived Intangible Assets Acquired as Part of Business Combination [Table]
+
+ Schedule of Net Gains (Losses) from Investment Activities
+ Gain (Loss) on Securities [Table Text Block]
+
+ 5.88% 2034 Notes
+ Two Thousand Thirty Four Senior Notes [Member]
+ Two Thousand Thirty Four Senior Notes
+
+ Economic ownership
+ Subsidiary, Ownership Percentage, Noncontrolling Owner
+
+ Funds withheld at interest embedded derivative
+ Embedded Derivative, Fair Value of Embedded Derivative Asset
+
+ Investments exchanged with third-party cedants
+ Transfer To Investments Exchanged With Third Party Cedants
+ Transfer To Investments Exchanged With Third Party Cedants
+
+ Financial Instruments Owned and Pledged as Collateral [Line Items]
+ Financial Instruments Owned and Pledged as Collateral [Line Items]
+
+ Real Estate, Type of Property [Axis]
+ Real Estate, Type of Property [Axis]
+
+ Financial Instruments held by Consolidated VIEs
+ Financial Instruments Held By Consolidated VIEs, Policy [Policy Text Block]
+ Financial Instruments Held By Consolidated VIEs, Policy
+
+ 2.0% to less than 4.0%
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate, Range from 0200 to 0400 [Member]
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate, Range from 0200 to 0400
+
+ SEC Schedule, 12-15, Insurance Companies, Summary of Investments, Other than Investments in Related Parties [Table]
+ SEC Schedule, 12-15, Insurance Companies, Summary of Investments, Other than Investments in Related Parties [Table]
+
+ Issuance of restricted shares
+ Non-Cash Issuance Of Restricted Shares
+ Non-Cash Issuance Of Restricted Shares
+
+ Other retirement services adjustments
+ Other Retirement Services Adjustments
+ Other Retirement Services Adjustments
+
+ Exchange ratio
+ Business Combination, Exchange Ratio
+ Business Combination, Exchange Ratio
+
+ Investment concentration risk, amount
+ Investment Concentration Risk, Amount
+ Investment Concentration Risk, Amount
+
+ Net operating losses, subject to expire
+ Deferred Tax Assets, Operating Loss Carryforwards, Subject to Expiration
+
+ Income Statement Location [Domain]
+ Statement of Income Location, Balance [Domain]
+
+ Purchases of available-for-sale securities
+ Payments to Acquire Debt Securities, Available-for-Sale
+
+ Letter of Credit
+ Letter of Credit [Member]
+
+ Company Selected Measure Name
+ Company Selected Measure Name
+
+ Initial credit losses
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss, Not Previously Recorded
+
+ Adjustments to Reconcile Net Income (Loss) to Net Cash Provided by Operating Activities:
+ Adjustments to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities [Abstract]
+
+ Related Parties
+ Related Party Transactions Disclosure [Text Block]
+
+ Repayment of debt
+ Principal and accrued interest
+ Repayments of Long-Term Debt
+
+ Investment funds
+ Due from funds
+ Investment Funds [Member]
+ Investment Funds
+
+ Forward points adjustment on FX derivative hedges
+ Forward Points Adjustment On FX Derivative Hedges
+ Forward Points Adjustment On FX Derivative Hedges
+
+ Value of Business Acquired
+ Present Value of Future Insurance Profits, Policy [Policy Text Block]
+
+ Cover [Abstract]
+
+ Common stock shares repurchased (in shares)
+ Stock Repurchased During Period, Shares, Open Market Transactions
+ Stock Repurchased During Period, Shares, Open Market Transactions
+
+ Statutory assets required
+ Statutory Accounting Practices, Minimum Margin Of Solvency, Assets
+ Statutory Accounting Practices, Minimum Margin Of Solvency, Assets
+
+ Income Tax Authority [Domain]
+ Income Tax Jurisdiction [Domain]
+
+ Fair Value Hedging
+ Fair Value Hedging [Member]
+
+ Futures
+ Foreign Exchange Future [Member]
+
+ Comprehensive income (loss)
+ Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest
+
+ Issued (in shares)
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Vested, Issued In Period
+ Share-based Compensation Arrangement By Share-based Payment Award, Equity Instruments Other Than Options, Vested, Issued In Period
+
+ Dividend per Share of Common Stock (in dollars per share)
+ Dividends per share of common stock (in dollars per share)
+ Common Stock, Dividends, Per Share, Declared
+
+ Schedule of Reinsurance Recoverables
+ Summary Of Reinsurance Recoverables [Table Text Block]
+ Summary Of Reinsurance Recoverables
+
+ Goodwill
+ Goodwill and Intangible Assets, Goodwill, Policy [Policy Text Block]
+
+ 2028
+ Present Value of Future Insurance Profits, Expected Amortization, Year Four
+
+ Assets Sold under Agreements to Repurchase [Line Items]
+ Assets Sold under Agreements to Repurchase [Line Items]
+
+ Short-term investments
+ Short-Term Investments [Member]
+
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Table]
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Table]
+
+ Statements of Financial Condition
+ Equity Method Investment, Summarized Financial Information, Financial Position [Abstract]
+ Equity Method Investment, Summarized Financial Information, Financial Position
+
+ Investment in related parties
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Investment In Related Parties
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Investment In Related Parties
+
+ Liquidation of SPACs
+ Stockholders' Equity Note, Liquidation Transaction
+ Stockholders' Equity Note, Liquidation Transaction
+
+ Foreign currency swaps
+ Swaps
+ Currency Swap [Member]
+
+ Earnings Per Share
+ Earnings Per Share, Policy [Policy Text Block]
+
+ Organization
+ Organization, Consolidation and Presentation of Financial Statements Disclosure [Text Block]
+
+ Hedging Relationship [Domain]
+ Hedging Relationship [Domain]
+
+ Payments/other
+ Profit Sharing Payments
+ Profit Sharing Payments
+
+ 7.63% 2053 Subordinated Notes
+ Two Thousand Fifty Three Subordinated Notes [Member]
+ Two Thousand Fifty Three Subordinated Notes
+
+ Award Timing Disclosures [Line Items]
+
+ Beginning balance
+ Ending balance, present value of expected future policy benefits
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, before Reinsurance, after Discount Rate Change
+
+ Derivative gains (losses)
+ Derivative, Gain (Loss) on Derivative, Net
+
+ Vested
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other Than Options, Vested [Roll Forward]
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other Than Options, Vested
+
+ Tax Credits
+ Deferred Tax Assets, Tax Credit Carryforwards
+
+ Total U.S. residential mortgage loan percentage
+ UNITED STATES
+
+ Mid Cap Financial
+ Mid Cap Financial [Member]
+ Mid Cap Financial
+
+ Pledged Status [Axis]
+ Pledged Status [Axis]
+
+ Venerable Insurance and Annuity Company
+ Venerable Insurance and Annuity Company [Member]
+ Venerable Insurance and Annuity Company
+
+ Foreign currency interest rate swaps
+ Foreign Currency Interest Rate Swap, Interest Sensitive Contract Benefits [Member]
+ Foreign Currency Interest Rate Swap, Interest Sensitive Contract Benefits
+
+ Cash Flows from Operating Activities
+ Net Cash Provided by (Used in) Operating Activities [Abstract]
+
+ Effect of changes in discount rate assumptions
+ Effect of changes in discount rate assumptions
+ Change in discount rate assumptions
+ AOCI, Liability for Future Policy Benefit, Expected Future Policy Benefit, before Tax
+
+ Percentage of statutory assets
+ Statutory Accounting Practices, Minimum Margin Of Solvency, Percentage Of Statutory Assets
+ Statutory Accounting Practices, Minimum Margin Of Solvency, Percentage Of Statutory Assets
+
+ Secured Debt
+ Secured Debt [Member]
+
+ Embedded derivatives in indexed annuity products
+ Embedded Derivatives Financial Instruments, Indexed Annuity Products [Member]
+ Embedded Derivatives Financial Instruments, Indexed Annuity Products
+
+ Depreciation and amortization
+ Deferred Tax Assets, Property, Plant and Equipment
+
+ Weighted Average Remaining Maturity in Years
+ Debt Instrument, Weighted Average Remaining Term
+ Debt Instrument, Weighted Average Remaining Term
+
+ Award Timing Method
+ Award Timing Method [Text Block]
+
+ Trading Arrangements, by Individual
+ Trading Arrangements, by Individual [Table]
+
+ Acquired Finite-Lived Intangible Assets [Line Items]
+ Acquired Finite-Lived Intangible Assets [Line Items]
+
+ Granted (in shares)
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Nonvested And Vested, Grants in Period
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Nonvested And Vested, Grants in Period
+
+ Measurement Frequency [Axis]
+ Measurement Frequency [Axis]
+
+ ACRA 2A
+ Athene Co-Invest Reinsurance Affiliate Holding 2 Ltd. [Member]
+ Athene Co-Invest Reinsurance Affiliate Holding 2 Ltd.
+
+ Transaction-related charges
+ Contingent Consideration, Share-based Compensation Expense, Intangible Asset Amortization And Other Charges
+ Contingent Consideration, Share-based Compensation Expense, Intangible Asset Amortization And Other Charges
+
+ Insider Trading Policies and Procedures [Line Items]
+
+ U.S. state, municipal and political subdivisions
+ U.S. state, municipal and political subdivisions
+ US States and Political Subdivisions Debt Securities [Member]
+
+ Total gains (losses) included in OCI
+ Fair Value, Liability, Recurring Basis, Still Held, Unrealized Gain (Loss), OCI
+
+ Use of Estimates
+ Use of Estimates, Policy [Policy Text Block]
+
+ Adjustment to Compensation, Amount
+ Adjustment to Compensation Amount
+
+ Asset Management
+ Asset Management Excluding Principal Investing Segment [Member]
+ Asset Management Excluding Principal Investing Segment
+
+ Compensation Amount
+ Outstanding Recovery Compensation Amount
+
+ Entity Small Business
+ Entity Small Business
+
+ Payment of debt issuance cost
+ Payments of Debt Issuance Costs
+
+ Share-based Compensation Arrangement by Share-based Payment Award [Line Items]
+ Share-Based Compensation Arrangement by Share-Based Payment Award [Line Items]
+
+ Principal investing compensation
+ Principal Investing Compensation
+ Principal Investing Compensation
+
+ Fair Value Measurement Inputs and Valuation Techniques [Table]
+ Fair Value Measurement Inputs and Valuation Techniques [Table]
+
+ Total Investments, including related parties Retirement Services
+ Investments Including Related Party
+ Investments Including Related Party
+
+ Purchases of U.S. Treasury securities
+ Payments to Acquire Held-to-Maturity Securities
+
+ Less: Reinsurance recoverable
+ Market Risk Benefit, Reinsurance Recoverable, after Allowance
+
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+ Income (loss) before income tax (provision) benefit
+ Pre Tax Distributable Earnings
+ Pre Tax Distributable Earnings
+
+ Residential mortgage loans
+ Residential Portfolio Segment [Member]
+
+ Accretion of redeemable non-controlling interests
+ Adjustment To Additional Paid In Capital, Accretion Of Redeemable Noncontrolling Interests
+ Adjustment To Additional Paid In Capital, Accretion Of Redeemable Noncontrolling Interests
+
+ Weighted average unexercised options
+ Share-Based Payment Arrangement, Option [Member]
+
+ Debt Securities, Available-for-sale [Table]
+ Debt Securities, Available-for-Sale [Table]
+
+ Bonus Grants
+ Two Thousand Seven Omnibus Equity Incentive Plan, Bonus Grants [Member]
+ Two Thousand Seven Omnibus Equity Incentive Plan, Bonus Grants
+
+ Schedule of Antidilutive Securities Excluded from Computation of Earnings Per Share [Table]
+ Antidilutive Security, Excluded EPS Calculation [Table]
+
+ Comprehensive income (loss) attributable to Apollo Global Management, Inc.
+ Comprehensive Income (Loss), Net of Tax, Attributable to Parent
+
+ Policy acquisition costs deferred
+ Policy Acquisition Costs Deferred
+ Policy Acquisition Costs Deferred
+
+ Other
+ Effective Income Tax Rate Reconciliation, Other Adjustments, Percent
+
+ Distribution Channels
+ Distribution Rights [Member]
+
+ Schedule of Amortized Cost and Fair Value of AFS Securities, Including Related Parties
+ Investments Classified by Contractual Maturity Date [Table Text Block]
+
+ Funds withheld, including related parties
+ Embedded derivatives on funds withheld
+ Embedded Derivatives Financial Instruments, Funds Withheld Including Related Party [Member]
+ Embedded Derivatives Financial Instruments, Funds Withheld Including Related Party
+
+ Award Type [Axis]
+ Award Type [Axis]
+
+ Issuances
+ Liability for Future Policy Benefit, Expected Net Premium, Issuance
+
+ Corporate
+ Corporate Debt Securities [Member]
+
+ Restricted Cash and Cash Equivalents
+ Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, Policy [Policy Text Block]
+
+ Ceded Credit Risk [Line Items]
+ Ceded Credit Risk [Line Items]
+
+ Total realized and unrealized gains (losses) included in OCI
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Gain (Loss) Included in Other Comprehensive Income (Loss)
+
+ Percentage of Total
+ Investment Funds, Percent of Total
+ Investment Funds, Percent of Total
+
+ ICFR Auditor Attestation Flag
+ ICFR Auditor Attestation Flag
+
+ Total Liabilities
+ Liabilities
+ Liabilities
+
+ President
+ President [Member]
+
+ Other comprehensive income (loss), before tax
+ Other Comprehensive Income (Loss), before Tax, Portion Attributable to Parent [Abstract]
+
+ Non-controlling interests
+ Equity, Attributable to Noncontrolling Interest
+
+ 3.50% 2031 Notes
+ Two Thousand Thirty One Senior Notes [Member]
+ Two Thousand Thirty One Senior Notes
+
+ Fair Value, Option, Quantitative Disclosures [Line Items]
+ Fair Value, Option, Quantitative Disclosures [Line Items]
+
+ Undistributed income (loss) (in dollars per share)
+ Earnings Per Share, Basic, Undistributed
+
+ Common stock, par value (in dollars per share)
+ Common Stock, Par or Stated Value Per Share
+
+ Schedule of Share-based Compensation Arrangements by Share-based Payment Award [Table]
+ Schedule of Share-Based Compensation Arrangements by Share-Based Payment Award [Table]
+
+ Foreign Currency
+ Foreign Currency Transactions and Translations Policy [Policy Text Block]
+
+ Dividends from subsidiaries
+ Proceeds from Dividends Received
+
+ Subscription lines
+ Revolving Credit Facility
+ Revolving Credit Facility [Member]
+
+ Cash Flows from Investing Activities
+ Net Cash Provided by (Used in) Investing Activities [Abstract]
+
+ Preferred stock, aggregate liquidation value
+ Preferred Stock, Liquidation Preference, Value
+
+ Due after ten years
+ Debt Securities, Available-for-Sale, Fair Value, Maturity, Allocated and Single Maturity Date, after Year 10
+
+ Net operating loss carryforwards
+ Deferred Tax Assets, Operating Loss Carryforwards
+
+ Subsequent Event [Line Items]
+ Subsequent Event [Line Items]
+
+ Funding Agreement Backed Notes
+ Funding Agreement Backed Notes [Member]
+ Funding Agreement Backed Notes
+
+ Equity Commitments
+ Equity Commitments [Member]
+ Equity Commitments
+
+ Indexed Annuities
+ Indexed Annuities [Member]
+ Indexed Annuities
+
+ Debt Instrument [Line Items]
+ Debt Instrument [Line Items]
+
+ Consolidated Entity, Excluding Consolidated VIE
+ Consolidated Entity, Excluding Consolidated VIE [Member]
+
+ Weighted average shares outstanding Diluted (in shares)
+ Weighted average number of shares of common stock outstanding: Diluted (in shares)
+ Weighted Average Number of Shares Outstanding, Diluted
+
+ Jurisdiction [Axis]
+ Statutory Accounting Practice, Jurisdiction [Axis]
+
+ Future policy benefits, market risk benefits and reinsurance recoverable
+ Increase (Decrease) in Insurance Liabilities
+
+ Restricted cash and cash equivalents
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Restricted Cash and Equivalents
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Restricted Cash and Equivalents
+
+ MNPI Disclosure Timed for Compensation Value
+ MNPI Disclosure Timed for Compensation Value [Flag]
+
+ Total Apollo Global Management, Inc. Stockholders Equity
+ Equity, Attributable to Parent
+
+ Unpaid principal balance of commercial mortgage loans 90 days or more past due and/or in non-accrual status
+ Fair Value, Option, Loans Held As Assets, 90 Days Or More Past Due And/Or In Nonaccrual Status, Fair Value
+ Fair Value, Option, Loans Held As Assets, 90 Days Or More Past Due And/Or In Nonaccrual Status, Fair Value
+
+ Other changes in equity of non-controlling interests
+ Noncontrolling Interest, Other Changes In Equity
+ Noncontrolling Interest, Other Changes In Equity
+
+ Due in one year or less
+ Debt Securities, Available-for-Sale, Fair Value, Maturity, Allocated and Single Maturity Date, Year One
+
+ Litigation Case [Axis]
+ Litigation Case [Axis]
+
+ Shares Issued in Settlement of Vested RSUs and Options Exercised
+ Restricted Stock Units and Share Options [Member]
+ Restricted Stock Units and Share Options
+
+ Repurchase Agreements and Similar Transactions, Maturity Periods [Axis]
+ Repurchase Agreements and Similar Transactions, Maturity Periods [Axis]
+
+ Schedule of Goodwill
+ Schedule of Goodwill [Table Text Block]
+
+ Category of Item Purchased [Axis]
+ Category of Item Purchased [Axis]
+
+ Option model
+ Valuation Technique Option Model [Member]
+ Valuation Technique Option Model
+
+ Effect of changes in discount rate assumptions, beginning balance
+ Effect of changes in discount rate assumptions, ending balance
+ AOCI, Liability for Future Policy Benefit, Expected Net Premium, before Tax
+
+ Policyholder Account Balance [Table]
+ Policyholder Account Balance [Table]
+
+ Reinsurance impacts
+ Reinsurance Impacts
+ Reinsurance Impacts
+
+ Dilution effect of options (in shares)
+ Incremental Common Shares Attributable to Dilutive Effect of Share-Based Payment Arrangements
+
+ Changed Peer Group, Footnote
+ Changed Peer Group, Footnote [Text Block]
+
+ Segment Reporting, Reconciling Item for Operating Profit (Loss) from Segment to Consolidated [Line Items]
+ Segment Reporting, Reconciling Item for Operating Profit (Loss) from Segment to Consolidated [Line Items]
+
+ Performance fees
+ Gain (Loss) On Investments Performance Allocation
+ Gain (Loss) On Investments Performance Allocation
+
+ Schedule of Financial Data for Reportable Segments
+ Schedule of Segment Reporting Information, by Segment [Table Text Block]
+
+ Adjusted balance
+ Liability for Future Policy Benefit, Expected Net Premium, Original Discount Rate, before Reinsurance, after Cash Flow Change
+
+ Derivative liability, statement of financial position
+ Derivative Liability, Statement of Financial Position [Extensible Enumeration]
+
+ Nonrelated Party
+ Nonrelated Party [Member]
+
+ Mortgage loans
+ Mortgage Loans on Real Estate, Commercial and Consumer, Net
+
+ Interest sensitive contract liabilities
+ Embedded Derivatives Financial Instruments, Interest Sensitive Contract Liabilities [Member]
+ Embedded Derivatives Financial Instruments, Interest Sensitive Contract Liabilities
+
+ Subsequent Event [Table]
+ Subsequent Event [Table]
+
+ Parent Company
+ Parent Company [Member]
+
+ Maximum
+ Maximum [Member]
+
+ 2028 - 2029
+ Long-Term Debt, Maturity, Year Four and Five
+
+ Antidilutive Securities [Axis]
+ Antidilutive Securities [Axis]
+
+ Investments
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Financial Assets
+
+ Due from subsidiaries, net
+ Payments Related To Distribution To Subsidiary, Investing Activities
+ Payments Related To Distribution To Subsidiary, Investing Activities
+
+ Reinsurance
+ Reinsurance [Text Block]
+
+ Schedule of Offsetting Derivative Liabilities
+ Offsetting Liabilities [Table Text Block]
+
+ Related party transaction, amounts of transaction
+ Related Party Transaction, Amounts of Transaction
+
+ Distributions paid to non-controlling interests
+ Payments to Noncontrolling Interests
+
+ Less than 2.0%
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate, Range From 0000 To 2000 [Member]
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate, Range From 0000 To 2000
+
+ Movement In Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net [Roll Forward]
+ Movement In Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net [Roll Forward]
+ Movement In Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net
+
+ Name
+ Outstanding Recovery, Individual Name
+
+ Schedule of Valuation Allowance
+ Summary of Valuation Allowance [Table Text Block]
+
+ Weighted average unvested RSUs
+ Restricted Stock Units (RSUs),Unvested [Member]
+ Restricted Stock Units (RSUs),Unvested
+
+ Title of Individual [Axis]
+ Title and Position [Axis]
+
+ Funds withheld at interest
+ Funds Held under Reinsurance Agreements, Asset [Member]
+ Funds Held under Reinsurance Agreements, Asset
+
+ Award Timing Predetermined
+ Award Timing Predetermined [Flag]
+
+ Subsequent Event Type [Domain]
+ Subsequent Event Type [Domain]
+
+ Investment Income
+ Investment Income, Policy [Policy Text Block]
+ Investment Income, Policy
+
+ Common stock dividends
+ Common stock dividends
+ Payments of Ordinary Dividends, Common Stock
+
+ Debt instrument, redemption price, percentage
+ Debt Instrument, Redemption Price, Percentage
+
+ Forecast
+ Forecast [Member]
+
+ Withdrawals on investment-type policies and contracts through reinsurance agreements, net assumed (ceded)
+ Withdrawals On Investment Policies And Contracts
+ Withdrawals On Investment Policies And Contracts
+
+ Net income (loss) attributable to common stockholders - Diluted (in dollars per share)
+ Net income (loss) per share of common stock: Diluted (in dollars per share)
+ Earnings Per Share, Diluted
+
+ Guaranty association expense
+ Guaranty Association Expense
+ Guaranty Association Expense
+
+ Counterparty Name [Domain]
+ Counterparty Name [Domain]
+
+ State
+ State and Local Jurisdiction [Member]
+
+ Profit Sharing Payable
+ Profit sharing payable, beginning balance
+ Profit sharing payable, ending balance
+ Profit Sharing Payable
+ Profit Sharing Payable
+
+ AFS, trading and equity securities
+ Available For Sale Securities And Trading Securities, Liability, Fair Value Disclosure
+ Available For Sale Securities And Trading Securities, Liability, Fair Value Disclosure
+
+ Griffin Capital, Asset Management Business
+ Griffin Capital, Asset Management Business [Member]
+ Griffin Capital, Asset Management Business
+
+ Ownership [Axis]
+ Ownership [Axis]
+
+ Asset Management
+ Asset Management Segment [Member]
+ Asset Management Segment
+
+ Investment in foreign subsidiaries
+ Deferred Tax Assets, Investment in Subsidiaries
+
+ Preferred stock, shares issued (in shares)
+ Preferred Stock, Shares Issued
+
+ 1.70% Secured Borrowing II
+ Two Thousand Thirty Two Secured Borrowing II [Member]
+ Two Thousand Thirty Two Secured Borrowing II
+
+ Schedule of Securities Pledged as Collateral for Repurchase Agreements
+ Schedule of Financial Instruments Owned and Pledged as Collateral [Table Text Block]
+
+ Under-development
+ Under-development [Member]
+ Under-development
+
+ Income tax (provision) benefit
+ Total Income Tax Provision (Benefit)
+ Income tax provision (benefit)
+ Income tax provision
+ Income Tax Expense (Benefit)
+
+ Other income (loss) Asset Management
+ Other Income (Loss):
+ Other income (loss)
+ Nonoperating Income (Expense) [Abstract]
+
+ Notional Amount
+ Derivative, Notional Amount
+
+ Net gains (losses) from investment activities
+ Gain (Loss) On Investments, Excluding VIE
+ Gain (Loss) On Investments, Excluding VIE
+
+ Derivative assets
+ Assets, subtotal
+ Derivative assets
+ Derivative Asset
+
+ Tranche Two
+ Capital And Surplus Requirements, Tranche Two [Member]
+ Capital And Surplus Requirements, Tranche Two
+
+ Period of recognition (in years)
+ Share-Based Payment Arrangement, Nonvested Award, Cost Not yet Recognized, Period for Recognition
+
+ Purchases of other investments, at fair value
+ Non-Cash Purchases of Investments, Other, Fair Value
+ Non-Cash Purchases of Investments, Other, Fair Value
+
+ Payables for collateral on derivatives and securities to repurchase
+ Payables For Collateral On Derivatives And Securities To Repurchase
+ Payables For Collateral On Derivatives And Securities To Repurchase
+
+ Cost of funds
+ Cost Of Funds
+ Cost Of Funds
+
+ Other swaps
+ Other Swaps [Member]
+ Other Swaps
+
+ Net cash used in investing activities
+ Net Cash Provided by (Used in) Investing Activities
+
+ Interest expense
+ Interest Expense, Operating and Nonoperating
+
+ Recaptured reserve
+ Recaptured Reserve
+ Recaptured Reserve
+
+ Income Tax Jurisdiction [Axis]
+ Income Tax Jurisdiction [Axis]
+
+ Business Acquisition [Line Items]
+ Business Acquisition [Line Items]
+
+ Impact of equity-based compensation
+ Effective Income Tax Rate Reconciliation, Nondeductible Expense, Share-Based Payment Arrangement, Percent
+
+ Equity Method Investments
+ Equity Method Investments [Policy Text Block]
+
+ All Adjustments to Compensation
+ All Adjustments to Compensation [Member]
+
+ Capital And Surplus Requirements [Domain]
+ Capital And Surplus Requirements [Domain]
+ Capital And Surplus Requirements [Domain]
+
+ Schedule of Equity Method Investments
+ Equity Method Investments [Table Text Block]
+
+ Additional paid in capital
+ Additional Paid in Capital
+
+ Nonperformance risk
+ Nonperformance risk
+ Measurement Input, Nonperformance Risk [Member]
+ Measurement Input, Nonperformance Risk
+
+ Tax Credit Carryforward [Axis]
+ Tax Credit Carryforward [Axis]
+
+ Carrying amount of the hedged liabilities
+ Hedged Liability, Fair Value Hedge
+
+ Schedule of Expected Value for Future Policy Benefits
+ Liability for Future Policy Benefit, Activity [Table Text Block]
+
+ Scenario [Domain]
+ Scenario [Domain]
+
+ Direct capitalization
+ Valuation Technique Direct Capitalization [Member]
+ Valuation Technique Direct Capitalization
+
+ Held-for-trading amortization
+ Held For Trading Amortization
+ Held For Trading Amortization
+
+ Unrealized gains (losses) on hedging instruments
+ Accumulated Gain (Loss), Net, Cash Flow Hedge, Parent [Member]
+
+ Long-term Debt, Type [Domain]
+ Long-Term Debt, Type [Domain]
+
+ Entity Address, State or Province
+ Entity Address, State or Province
+
+ West North Central
+ U. S. West North Central [Member]
+ U. S. West North Central
+
+ Financial Instruments [Domain]
+ Financial Instruments [Domain]
+
+ Interest sensitive contract liabilities
+ Increase (Decrease) in Interest Sensitive Contract Liabilities
+ Increase (Decrease) in Interest Sensitive Contract Liabilities
+
+ Beginning balance (in dollars per share)
+ Ending balance (in dollars per share)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Nonvested, Weighted Average Grant Date Fair Value
+
+ Market risk benefits
+ Liability
+ Market Risk Benefit, Liability, Amount
+
+ Pledging Purpose [Axis]
+ Pledging Purpose [Axis]
+
+ Purchases of derivatives instruments and other investments
+ Payments for Derivative Instrument, Investing Activities
+
+ Proportional Amortization
+ Proportional Amortization [Member]
+ Proportional Amortization
+
+ Related party transaction, rate (as percent)
+ Related Party Transaction, Rate
+
+ Policy charges
+ Policyholder Account Balance, Policy Charge
+
+ Fair Value
+ Estimate of Fair Value Measurement [Member]
+
+ Charged to costs and expenses
+ SEC Schedule, 12-09, Valuation Allowances and Reserves, Additions, Charge to Cost and Expense
+
+ Post-combination equity compensation expense
+ Business Combination, Post Share-based Compensation Expense
+ Business Combination, Post Share-based Compensation Expense
+
+ Investment income (loss)
+ Net Investment Income (Loss)
+ Net investment income
+ Net investment income
+ Net Investment Income
+
+ Pay vs Performance Disclosure
+ Pay vs Performance Disclosure [Table]
+
+ Impairment loss
+ Equity Securities without Readily Determinable Fair Value, Impairment Loss, Cumulative Amount
+
+ Schedule I Condensed Financial Information of Registrant (Parent Company Only)
+ Condensed Financial Information of Parent Company Only Disclosure [Text Block]
+
+ Erroneously Awarded Compensation Recovery
+ Erroneously Awarded Compensation Recovery [Table]
+
+ Amortization of deferred acquisition costs, deferred sales inducements and value of business acquired
+ Amortization
+ Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Amortization Expense
+ Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net, Amortization Expense
+
+ California
+ CALIFORNIA
+
+ Discount for the lack of distributions until vested
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Marketability Discount, No Distributions
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Marketability Discount, No Distributions
+
+ Earnings per Share
+ Earnings Per Share [Text Block]
+
+ Subsequent Event
+ Subsequent Event [Member]
+
+ Stock option exercises
+ Stock Issued During Period, Value, Stock Options Exercised
+
+ Due from portfolio companies
+ Portfolio Companies [Member]
+ Portfolio Companies
+
+ Restricted cash and cash equivalents
+ Restricted Cash and Cash Equivalents, Current
+
+ Granted (in dollars per share)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Grants in Period, Weighted Average Grant Date Fair Value
+
+ Investment related gains (losses)
+ Net gains (losses) from investment activities
+ Net Realized and Unrealized Gain (Loss)
+ Net gains (losses) from investment activities
+ Gain (Loss) on Investments
+
+ Income Taxes
+ Income Tax, Policy [Policy Text Block]
+
+ Peer Group Issuers, Footnote
+ Peer Group Issuers, Footnote [Text Block]
+
+ Segments [Domain]
+ Segments [Domain]
+
+ Schedule of Repurchase Agreements
+ Schedule of Repurchase Agreements [Table Text Block]
+
+ Total gains (losses)
+ Fair Value, Option, Changes in Fair Value, Gain (Loss)
+
+ PEO
+ PEO [Member]
+
+ Name
+ Trading Arrangement, Individual Name
+
+ Due from/to Related Parties
+ Related Party Classification Policy [Policy Text Block]
+ Related Party Classification Policy
+
+ Net change in cash collateral posted for derivative transactions and securities to repurchase
+ Payments for (Proceeds from) Derivative Instrument, Financing Activities
+
+ Distribution Equivalents on Participating Securities
+ Distribution Equivalents On Participating Securities
+ Distribution Equivalents On Participating Securities
+
+ Performance Grants
+ Restricted Stock Units, Performance Grants [Member]
+ Restricted Stock Units, Performance Grants
+
+ APSG I
+ APSG I [Member]
+ APSG I
+
+ Schedule of Concentration of Risk, by Risk Factor
+ Schedules of Concentration of Risk, by Risk Factor [Table Text Block]
+
+ Net
+ Gain (Loss) on Fair Value Hedges Recognized in Earnings
+
+ Cumulative amount of fair value hedging gains (losses) on liabilities
+ Hedged Liability, Fair Value Hedge, Cumulative Increase (Decrease)
+
+ Awards Close in Time to MNPI Disclosures, Table
+ Awards Close in Time to MNPI Disclosures [Table Text Block]
+
+ Market Risk Benefit [Roll Forward]
+ Market Risk Benefit [Roll Forward]
+
+ Investment funds
+ Investment funds
+ Investment Funds, Fair Value Disclosure
+ Investment Funds, Fair Value Disclosure
+
+ Amount of unrecognized tax benefit reasonably possible to be recognized in next twelve months
+ Decrease in Unrecognized Tax Benefits is Reasonably Possible
+
+ Additions
+ Present Value of Future Insurance Profits, Addition from Acquisition
+
+ Aggregate Erroneous Compensation Amount
+ Aggregate Erroneous Compensation Amount
+
+ Debt obligations
+ Debt Obligations [Member]
+ Debt Obligations
+
+ Fair value
+ Fair value
+ Fair Value, Option, Loans Held As Assets
+ Fair Value, Option, Loans Held As Assets
+
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Liabilities [Abstract]
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Liabilities [Abstract]
+
+ Transfers Out
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Liability, Transfers out of Level 3
+
+ Valuation allowance
+ Total Valuation Allowance
+ Deferred Tax Assets, Valuation Allowance
+
+ Schedule of Reconciliation of Consolidated Revenues to Total Asset Management Fee Related Revenues
+ Reconciliation of Revenue from Segments to Consolidated [Table Text Block]
+
+ Bank loans, measurement input
+ Bank Loans, Measurement Input
+ Bank Loans, Measurement Input
+
+ Changes in operating assets and liabilities:
+ Increase (Decrease) in Operating Capital [Abstract]
+
+ Allowance for Credit Losses
+ Beginning balance
+ Ending balance
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss
+
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+ Fair Value, Liabilities Measured on Recurring Basis, Unobservable Input Reconciliation, Calculation [Roll Forward]
+
+ AHL
+ AHL [Member]
+ AHL
+
+ Common Stock
+ Common Stock [Member]
+
+ Other
+ Other [Member]
+ Other
+
+ Collateral (received)/pledged
+ Derivative Liability, Subject to Master Netting Arrangement, Collateral, Right to Reclaim Cash Not Offset
+
+ Forgone Recovery due to Expense of Enforcement, Amount
+ Forgone Recovery due to Expense of Enforcement, Amount
+
+ Remeasurement gains (losses) on future policy benefits related to discount rate
+ Remeasurement Gain (Loss) On Future Policy Benefits Related To Discount Rate [Member]
+ Remeasurement Gain (Loss) On Future Policy Benefits Related To Discount Rate
+
+ Line of Credit
+ Line of Credit [Member]
+
+ Segment Reporting [Abstract]
+
+ Incentive fees
+ Management Service, Incentive [Member]
+
+ Scenario [Axis]
+ Scenario [Axis]
+
+ Transaction Costs Relating To Low-Income Housing And Transferable Energy Tax Credits
+ Transaction Costs Relating To Low-Income Housing And Transferable Energy Tax Credits [Member]
+ Transaction Costs Relating To Low-Income Housing And Transferable Energy Tax Credits
+
+ Foreign currency translation and other adjustments
+ Accumulated Foreign Currency Adjustment Attributable to Parent [Member]
+
+ ACRA 2
+ Athene Co-Invest Reinsurance Affiliate Holding Ltd 2 [Member]
+ Athene Co-Invest Reinsurance Affiliate Holding Ltd 2
+
+ Schedule of Statutory Accounting Practices Disclosure
+ Statutory Accounting Practices Disclosure [Table Text Block]
+
+ Reinsurer, Name [Domain]
+ Reinsurer, Name [Domain]
+
+ Effect of changes in future expected policyholder behavior
+ Market Risk Benefit, Increase (Decrease) from Actual Policyholder Behavior Different from Expected
+
+ Funds withheld liability
+ Funds Held under Reinsurance Agreements, Liability
+
+ Other assets
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Other Assets
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Other Assets
+
+ Equity
+ Equity [Text Block]
+
+ Schedule of Performance Allocations
+ Summary Of Performance Allocations [Table Text Block]
+ Summary Of Performance Allocations
+
+ Segments
+ Segment Reporting Disclosure [Text Block]
+
+ Measurement Basis [Axis]
+ Measurement Basis [Axis]
+
+ Title
+ Trading Arrangement, Individual Title
+
+ Fair value of awards
+ Business Combination, Share-Based Compensation, Warrants Assumed And Other Equity Consideration Transferred, Fair Value
+ Business Combination, Share-Based Compensation, Warrants Assumed And Other Equity Consideration Transferred, Fair Value
+
+ VOBA, beginning balance
+ VOBA, ending balance
+ Present Value of Future Insurance Profits, Net
+
+ Consolidated Entities [Axis]
+ Consolidated Entities [Axis]
+
+ AFS securities
+ Debt Securities, Available-for-Sale, Restricted
+
+ Geographic Concentration Risk
+ Geographic Concentration Risk [Member]
+
+ Principal investment income (loss)
+ Principal Investment Gain (Loss)
+
+ Investments, at fair value
+ Investments [Member]
+
+ Tranche One
+ Capital And Surplus Requirements, Tranche One [Member]
+ Capital And Surplus Requirements, Tranche One
+
+ Contingent consideration obligations
+ Business Combination, Contingent Consideration, Liability
+
+ Office building
+ Office Building [Member]
+
+ Investment Income / Performance Allocations / Principal Investment Income / Incentive Fees
+ Revenue [Policy Text Block]
+
+ Effect of changes in cash flow assumptions
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, Cumulative Increase (Decrease) from Cash Flow Change
+
+ Schedule of Interest Expense
+ Interest Income and Interest Expense Disclosure [Table Text Block]
+
+ Redeemable non-controlling interests
+ Redeemable Noncontrolling Interest, Equity, Carrying Amount [Abstract]
+
+ Series A Mandatory Convertible Preferred Stock
+ Preferred Stock [Member]
+
+ Repurchase of common stock
+ Payments for Repurchase of Common Stock
+
+ Equity
+ Equity Fund Investments [Member]
+ Equity Fund Investments
+
+ Document Information [Line Items]
+ Document Information [Line Items]
+
+ Schedule of Valuation Techniques and Quantitative Inputs and Assumptions used for Financial Assets and Liabilities
+ Schedule of Unobservable Inputs for Market Risk Benefits
+ Fair Value Measurement Inputs and Valuation Techniques [Table Text Block]
+
+ Reduction in investments relating to recapture of reinsurance agreement
+ Reduction In Investments Relating To Recapture Of Reinsurance Agreement
+ Reduction In Investments Relating To Recapture Of Reinsurance Agreement
+
+ Florida
+ FLORIDA
+
+ Investments
+ Investment [Text Block]
+
+ Fair Value
+ Debt Securities, Available-for-Sale, Fair Value, Fiscal Year Maturity [Abstract]
+
+ Performance allocations
+ Performance Allocations
+ Performance Allocations
+
+ 2025
+ Present Value of Future Insurance Profits, Expected Amortization, Year One
+
+ Amount expected to reclassified into income within the next 12 months
+ Cash Flow Hedge Gain (Loss) to be Reclassified within 12 Months
+
+ Related Party Transaction [Line Items]
+ Related Party Transaction [Line Items]
+
+ Schedule of Principal Provisions Debt
+ Schedule of Debt [Table Text Block]
+
+ General, administrative and other
+ General and Administrative Expense
+
+ Equity securities
+ Equity Securities, FV-NI, Unrealized Gain (Loss)
+
+ Anguilla Social Security Board vs. Black et al.
+ Anguilla Social Security Board vs. Black et al. [Member]
+ Anguilla Social Security Board vs. Black et al.
+
+ Foreign governments
+ Debt Security, Government, Non-US [Member]
+
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss [Roll Forward]
+
+ GBTG
+ GBTG [Member]
+ GBTG
+
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases, (Sales), Issuances, (Settlements) [Abstract]
+
+ Carrying Value
+ Reported Value Measurement [Member]
+
+ 5.80% 2054 Senior Notes
+ 6.25% 2054 Senior Notes
+ Two Thousand Fifty Four Senior Notes [Member]
+ Two Thousand Fifty Four Senior Notes
+
+ Sale of stock, number of shares issued in transaction (in shares)
+ Sale of Stock, Number of Shares Issued in Transaction
+
+ Debt
+ Debt Disclosure [Text Block]
+
+ Collateral Held [Axis]
+ Collateral Held [Axis]
+
+ Condensed Cash Flow Statements, Captions [Line Items]
+ Condensed Cash Flow Statements, Captions [Line Items]
+
+ Interest rate swaps
+ Interest Rate Swaps
+ Interest Rate Swap [Member]
+
+ Guaranteed minimum crediting rate
+ Policyholder Account Balance, above Guaranteed Minimum Crediting Rate
+
+ Cumulative revenues recognized if existing investments become worthless
+ Contingent Obligations, Cumulative Revenues That Are Reversible
+ Contingent Obligations, Cumulative Revenues That Are Reversible
+
+ Interest and other financing costs
+ HoldCo interest and other financing costs
+ Interest And Other Financing Costs
+ Interest And Other Financing Costs
+
+ Fee-related performance fee
+ Fee Related Performance Fees
+ Fee Related Performance Fees
+
+ Total gains (losses) included in earnings
+ Fair Value, Liability, Recurring Basis, Still Held, Unrealized Gain (Loss)
+
+ ACRA 1A
+ Athene Co-Invest Reinsurance Affiliate Holding Ltd [Member]
+ Athene Co-Invest Reinsurance Affiliate Holding Ltd
+
+ Other investing activities, net
+ Payments for (Proceeds from) Other Investing Activities
+
+ Utilization rate
+ Measurement Input, Utilization Rate [Member]
+
+ Year-over-Year Change in Fair Value of Equity Awards Granted in Prior Years That are Outstanding and Unvested
+ Year-over-Year Change in Fair Value of Equity Awards Granted in Prior Years That are Outstanding and Unvested [Member]
+
+ Expected Amortization
+ Present Value of Future Insurance Profits, Expected Amortization, Next Five Years [Abstract]
+
+ 4.13% 2028 Notes
+ Two Thousand Twenty Eight Senior Notes [Member]
+ Two Thousand Twenty Eight Senior Notes
+
+ Auditor Name
+ Auditor Name
+
+ DAC, DSI and VOBA
+ Deferred Tax Liabilities, Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits
+ Deferred Tax Liabilities, Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits
+
+ Year-end Fair Value of Equity Awards Granted in Covered Year that are Outstanding and Unvested
+ Year-end Fair Value of Equity Awards Granted in Covered Year that are Outstanding and Unvested [Member]
+
+ Increase (decrease) to capital and surplus due to permitted practices
+ Statutory Accounting Practices, Capital And Surplus, Change In Permitted Practice, Amount
+ Statutory Accounting Practices, Capital And Surplus, Change In Permitted Practice, Amount
+
+ Proceeds from sale of investments
+ Proceeds from Sale, Maturity and Collection of Investments
+
+ Frank Funds V. Apollo Global Management
+ Frank Funds V. Apollo Global Management [Member]
+ Frank Funds V. Apollo Global Management
+
+ Fair Value Measurement [Domain]
+ Fair Value Measurement [Domain]
+
+ Cash acquired through merger
+ Cash Acquired from Acquisition
+
+ Adjustment To PEO Compensation, Footnote
+ Adjustment To PEO Compensation, Footnote [Text Block]
+
+ Class of Financing Receivable [Axis]
+ Class of Financing Receivable [Axis]
+
+ Equity options
+ Equity Option [Member]
+
+ Deferred revenue
+ Deferred Tax Assets, Deferred Income
+
+ Derivative assets
+ Derivative Asset [Abstract]
+
+ Derivatives designated as hedges
+ Designated as Hedging Instrument [Member]
+
+ Compensation Actually Paid vs. Other Measure
+ Compensation Actually Paid vs. Other Measure [Text Block]
+
+ Vesting Date Fair Value of Equity Awards Granted and Vested in Covered Year
+ Vesting Date Fair Value of Equity Awards Granted and Vested in Covered Year [Member]
+
+ AP Grange Holdings, LLC
+ AP Grange Holdings, LLC [Member]
+ AP Grange Holdings, LLC
+
+ Schedule of Policyholder Account Balance
+ Policyholder Account Balance [Table Text Block]
+
+ Forgone Recovery due to Violation of Home Country Law, Amount
+ Forgone Recovery due to Violation of Home Country Law, Amount
+
+ Equity-Based Compensation
+ Share-Based Payment Arrangement [Policy Text Block]
+
+ EBS capital & surplus
+ Statutory Accounting Practices, Statutory Capital and Surplus, Balance
+
+ Foreign governments
+ Foreign Government Debt [Member]
+
+ Termination Date
+ Trading Arrangement Termination Date
+
+ Payments being challenged
+ Loss Contingency, Payments Being Challenged, Amount
+ Loss Contingency, Payments Being Challenged, Amount
+
+ Schedule of Related Party Transactions, by Related Party [Table]
+ Related Party Transaction [Table]
+
+ 2025
+ Long-Term Debt, Maturity, Year One
+
+ Total Value to Allocate
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Assets [Abstract]
+
+ Total restricted assets
+ Total Restricted Assets
+ Total Restricted Assets
+
+ Reinsurance Retention [Table]
+ Reinsurance Retention [Table]
+
+ Schedule of Revenue from External Customers by Geographic Areas
+ Revenue from External Customers by Geographic Areas [Table Text Block]
+
+ Consultant
+ Consultant [Member]
+ Consultant
+
+ Due after one year through five years
+ Debt Securities, Available-for-Sale, Fair Value, Maturity, Allocated and Single Maturity Date, after Year One Through Five
+
+ Schedule of Recognized for the Assets Acquired and Liabilities Assumed and Resulting Goodwill
+ Schedule of Recognized Identified Assets Acquired and Liabilities Assumed [Table Text Block]
+
+ Pacific
+ U. S. Pacific [Member]
+ U. S. Pacific
+
+ Universal life benefits
+ Universal Life Benefits, Fair Value Disclosure
+ Universal Life Benefits, Fair Value Disclosure
+
+ Net income (loss) attributable to Apollo Global Management, Inc.
+ Net Income (Loss)
+ Net Income (Loss) Attributable to Parent
+
+ Balance, start of period, before changes in instrument-specific credit risk
+ Balance, end of period, before changes in instrument-specific credit risk
+ Market Risk Benefit, before Reinsurance and Cumulative Increase (Decrease) from Instrument-Specific Credit Risk Change
+
+ Interest accrual
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, Interest Expense
+
+ Pay vs Performance Disclosure, Table
+ Pay vs Performance [Table Text Block]
+
+ Employee Loans
+ Interest-Bearing Employee Loans [Member]
+ Interest-Bearing Employee Loans
+
+ Short-term investments
+ Short Term Investments, Fair Value Disclosure
+ Short Term Investments, Fair Value Disclosure
+
+ Due after ten years
+ Debt Securities, Available-for-Sale, Amortized Cost, Maturity, Allocated and Single Maturity Date, after Year 10
+
+ Effective settlement of pre-existing relationships
+ Business Combination, Effective Settlement Of Pre-Existing Relationships
+ Business Combination, Effective Settlement Of Pre-Existing Relationships
+
+ Income Statement [Abstract]
+ Statement of Operations
+ Income Statement [Abstract]
+
+ Effect of exchange rate changes on cash and cash equivalents
+ Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents, Continuing Operations
+
+ Name
+ Forgone Recovery, Individual Name
+
+ Transaction [Domain]
+ Transaction [Domain]
+
+ 4.87%, 2029 Senior Notes
+ Two Thousand Twenty Nine Senior Notes [Member]
+ Two Thousand Twenty Nine Senior Notes
+
+ Investment Companies and Other Investments
+ Investment, Policy [Policy Text Block]
+
+ Other non-cash amounts included in net income (loss), net
+ Other Noncash Income (Expense)
+
+ CLO, ABS, CMBS and RMBS
+ Debt Securities, Available-for-Sale, Maturity, without Single Maturity Date, Fair Value
+
+ Foreign exchange
+ Policyholder Account Balance, Foreign Exchange
+ Policyholder Account Balance, Foreign Exchange
+
+ 91 days to 1 year
+ Maturity 91 To 364 Days [Member]
+ Maturity 91 To 364 Days
+
+ Outstanding Aggregate Erroneous Compensation Amount
+ Outstanding Aggregate Erroneous Compensation Amount
+
+ Schedule of Financial Instruments not Measured at Fair Value
+ Fair Value Disclosure of Asset and Liability Not Measured at Fair Value [Table Text Block]
+
+ Issuances
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Issuances
+
+ Deconsolidation, gain (loss), amount
+ Deconsolidation, Gain (Loss), Amount
+
+ Increase in reserves
+ Increase (Decrease) in Future Policy Benefit Reserves
+
+ Proceeds from maturities of U.S. Treasury Securities - Asset Management
+ Proceeds from Sale and Maturity of Held-to-Maturity Securities
+
+ Net (income) loss attributable to non-controlling interests
+ Net Income (Loss) Attributable to Noncontrolling Interest
+
+ Debt Securities, Available-for-sale, Unrealized Loss Position [Line Items]
+ Debt Securities, Available-for-Sale, Unrealized Loss Position [Line Items]
+
+ EntitiesTable [Line Items]
+ EntitiesTable [Line Items]
+ EntitiesTable [Line Items]
+
+ Embedded derivatives in indexed annuity products
+ Interest Sensitive Contract Benefits [Member]
+ Interest Sensitive Contract Benefits
+
+ Litigation Case [Domain]
+ Litigation Case [Domain]
+
+ Accumulated other comprehensive income (loss)
+ Accumulated Other Comprehensive Income (Loss), Net of Tax
+
+ Purchases
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Purchases
+
+ Restricted cash and cash equivalents
+ Restricted cash and cash equivalents
+ Restricted Cash and Cash Equivalents
+
+ Pension Adjustments Service Cost
+ Pension Adjustments Service Cost [Member]
+
+ Profit Sharing Payable Activity [Roll Forward]
+ Profit Sharing Payable Activity [Roll Forward]
+ Profit Sharing Payable Activity
+
+ Weighted average shares outstanding Basic (in shares)
+ Weighted average number of shares of common stock outstanding: Basic (in shares)
+ Weighted Average Number of Shares Outstanding, Basic
+
+ Related Party, Type [Axis]
+ Related and Nonrelated Parties [Axis]
+
+ Stock Price or TSR Estimation Method
+ Stock Price or TSR Estimation Method [Text Block]
+
+ Exchange of AOG Units for common stock (in shares)
+ Stock Issued During Period, Shares, Conversion Of Units For Common Stock
+ Stock Issued During Period, Shares, Conversion Of Units For Common Stock
+
+ Mortgage loans, measurement input
+ Mortgage Loans, Measurement Input
+ Mortgage Loans, Measurement Input
+
+ 12 months or longer, Gross Unrealized Losses
+ Debt Securities, Available-for-Sale, Continuous Unrealized Loss Position, 12 Months or Longer, Accumulated Loss
+
+ Due from related parties
+ Due from related parties
+ Due From Related Parties, Fair Value Disclosure
+ Due From Related Parties, Fair Value Disclosure
+
+ New York
+ NEW YORK
+
+ Other gains (losses)
+ Other gains (losses)
+ Other Nonoperating Gains (Losses)
+
+ Name
+ Awards Close in Time to MNPI Disclosures, Individual Name
+
+ Revenue Benchmark
+ Revenue Benchmark [Member]
+
+ Less than 12 months, Gross Unrealized Losses
+ Debt Securities, Available-for-Sale, Continuous Unrealized Loss Position, Less than 12 Months, Accumulated Loss
+
+ Number of businesses acquired
+ Number of Businesses Acquired
+
+ Loss Contingencies [Line Items]
+ Loss Contingencies [Line Items]
+
+ Interest rate forwards
+ Interest Rate Forwards [Member]
+ Interest Rate Forwards
+
+ Condensed Balance Sheet Statement [Table]
+ Condensed Balance Sheet Statement [Table]
+
+ Unrealized investment gains (losses) on AFS securities with a credit allowance
+ AOCI, Gain (Loss), Debt Securities, Available-for-Sale, with Allowance for Credit Loss, Parent [Member]
+
+ Financial instruments
+ Derivative Liability, Subject to Master Netting Arrangement, Collateral, Right to Reclaim Security Not Offset
+
+ Increase in market risk benefit liabilities
+ Market Risk Benefit, Period Increase (Decrease)
+
+ Effect of changes in interest rates
+ Market Risk Benefit, Increase (Decrease) from Interest Rate Change
+
+ Apollo Rose II
+ Apollo Rose II [Member]
+ Apollo Rose II
+
+ Liability for Future Policy Benefit, by Product Segment [Line Items]
+ Liability for Future Policy Benefit, by Product Segment [Line Items]
+
+ Unrecognized tax benefits that would impact effective tax rate
+ Unrecognized Tax Benefits that Would Impact Effective Tax Rate
+
+ Segment Reporting Information [Line Items]
+ Segment Reporting Information [Line Items]
+
+ Net amount
+ Derivative Asset, Including Not Subject To Master Netting Arrangement, After Offset And Deduction, Net Amount
+ Derivative Asset, Including Not Subject To Master Netting Arrangement, After Offset And Deduction, Net Amount
+
+ All Trading Arrangements
+ All Trading Arrangements [Member]
+
+ Business Combination, Consideration Transferred, Including Equity Interest in Acquiree Held Prior to Combination [Abstract]
+ Business Combination, Consideration Transferred, Including Equity Interest in Acquiree Held before Combination [Abstract]
+
+ Schedule of Basic and Diluted Net Income (Loss) Per Share of Common Stock
+ Schedule of Earnings Per Share, Basic and Diluted [Table Text Block]
+
+ Vesting period (in years)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Award Vesting Period
+
+ Rule 10b5-1 Arrangement Adopted
+ Rule 10b5-1 Arrangement Adopted [Flag]
+
+ Awards Close in Time to MNPI Disclosures
+ Awards Close in Time to MNPI Disclosures [Table]
+
+ Volatility rate
+ Measurement Input Volatility Rate [Member]
+ Measurement Input Volatility Rate
+
+ Liabilities assumed
+ Liability Assumed
+ Liability Assumed
+
+ Common Class A
+ Common Class A [Member]
+
+ Equity method investments
+ Equity Method Investments
+
+ Pay vs Performance Disclosure [Line Items]
+
+ RMBS
+ Residential Mortgage-Backed Securities [Member]
+
+ Vested (in shares)
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other Than Options, Vested
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other Than Options, Vested
+
+ Texas
+ TEXAS
+
+ Due from employees and former employees
+ Due from Employees and Former Employees
+ Employees And Former Employees [Member]
+ Employees And Former Employees
+
+ Middle Atlantic
+ U. S. Middle Atlantic [Member]
+ U. S. Middle Atlantic
+
+ Other Performance Measure, Amount
+ Other Performance Measure, Amount
+
+ Common stock, shares outstanding (in shares)
+ Beginning balance (in shares)
+ Ending balance (in shares)
+ AHL common shares purchased (in shares)
+ Common Stock, Shares, Outstanding
+
+ Documents Incorporated by Reference
+ Documents Incorporated by Reference [Text Block]
+
+ Due from related parties
+ Total Due from Related Parties
+ Due from subsidiaries
+ Other Receivables, Net, Current
+
+ Fair Value Measurement Inputs and Valuation Techniques [Line Items]
+ Fair Value Measurement Inputs and Valuation Techniques [Line Items]
+
+ Fixed income and other net investment income
+ Fixed Income And Other Investment Income, Net
+ Fixed Income And Other Investment Income, Net
+
+ Gross realized losses on investment activity
+ Debt Securities, Available-for-Sale, Realized Loss
+
+ Issuance of Mandatory Convertible Preferred Stock, net of issuance costs
+ Proceeds from Issuance or Sale of Equity
+
+ Percentage of ECR
+ Statutory Accounting Practices, Minimum Margin Of Solvency, Percentage Of Enhanced Capital Requirement
+ Statutory Accounting Practices, Minimum Margin Of Solvency, Percentage Of Enhanced Capital Requirement
+
+ Preferred stock, liquidation preference (in dollars per share)
+ Preferred Stock, Liquidation Preference Per Share
+
+ Interest and other expenses
+ Interest And Other Expenses
+ Interest And Other Expenses
+
+ Service Grants
+ Restricted Stock Units, Service Grants [Member]
+ Restricted Stock Units, Service Grants
+
+ Other
+ Deferred Sales Inducement Cost, Other Increase (Decrease)
+
+ 6.0% and greater
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate, Range from 0600 And Greater [Member]
+ Policyholder Account Balance, Guaranteed Minimum Crediting Rate, Range from 0600 And Greater
+
+ 7.250% 2064 Subordinated Notes
+ Two Thousand Sixty Four Subordinated Notes [Member]
+ Two Thousand Sixty Four Subordinated Notes
+
+ Deferred Tax Assets:
+ Deferred Tax Assets, Net [Abstract]
+
+ Expenses
+ Variable Interest Entity, Measure of Activity, Expense
+
+ Securities sold during the period
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss, Securities Sold
+
+ Stock issued during period, shares (in shares)
+ Stock Issued During Period, Shares, Other
+
+ Maximum leverage ratio
+ Line Of Credit Facility, Covenant Terms, Net Leverage Ratio, Maximum
+ Line Of Credit Facility, Covenant Terms, Net Leverage Ratio, Maximum
+
+ Effect of changes in instrument-specific credit risk, beginning balance
+ Effect of changes in instrument-specific credit risk, ending balance
+ AOCI, Market Risk Benefit, Instrument-Specific Credit Risk, before Tax
+
+ Investments [Domain]
+ Investments [Domain]
+
+ Effect of actual to expected experience
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, Cumulative Increase (Decrease) of Actual Variance from Expected Experience
+
+ Market Risk Benefit [Table]
+ Market Risk Benefit [Table]
+
+ Adjustments related to consolidated funds and VIEs
+ Adjustments Related To Consolidated Funds And VIEs
+ Adjustments Related To Consolidated Funds And VIEs
+
+ Funding agreements remaining capacity
+ Funding Agreements, Remaining Capacity
+ Funding Agreements, Remaining Capacity
+
+ Exchange of AOG Units for common stock
+ Stock Issued During Period, Value, Conversion Of Units For Common Stock
+ Stock Issued During Period, Value, Conversion Of Units For Common Stock
+
+ Interest income
+ Investment Income, Interest and Dividend
+
+ Acropolis
+ Acropolis Infrastructure Acquisition Corp [Member]
+ Acropolis Infrastructure Acquisition Corp
+
+ Weighted Average
+ Weighted Average [Member]
+
+ Aggregate Grant Date Fair Value of Equity Award Amounts Reported in Summary Compensation Table
+ Aggregate Grant Date Fair Value of Equity Award Amounts Reported in Summary Compensation Table [Member]
+
+ Other liabilities
+ Other
+ Other Liabilities [Member]
+
+ Net Purchases, Issuances, Sales and Settlements
+ Net Purchases, Issuances, Sales and Settlements
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Purchases, (Sales), Issuances, (Settlements)
+
+ Issuance of common stock related to equity transactions
+ Non-Cash Issuance Of Common Stock Related To Equity Transactions
+ Non-Cash Issuance Of Common Stock Related To Equity Transactions
+
+ Other
+ Other Investment [Member]
+ Other Investment
+
+ Total Fair Value
+ Debt Securities, Available-for-Sale, Unrealized Loss Position
+
+ Due to Former Managing Partners and Contributing Partners
+ Former Managing Partners And Contributing Partners [Member]
+ Former Managing Partners And Contributing Partners
+
+ Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, and Cash and Cash Equivalents Held at Consolidated Variable Interest Entities, Beginning of Period
+ Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, and Cash and Cash Equivalents Held at Consolidated Variable Interest Entities, End of Period
+ Total Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, and Cash and Cash Equivalents Held at Consolidated Variable Interest Entities
+ Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents
+
+ Mark to fair value
+ Fair Value, Option, Loans Held As Assets, Mark To Fair Value
+ Fair Value, Option, Loans Held As Assets, Mark To Fair Value
+
+ Equity securities
+ Equity Securities, FV-NI, Current
+
+ Unrecognized equity-based compensation expense
+ Share-Based Payment Arrangement, Nonvested Award, Cost Not yet Recognized, Amount
+
+ East South Central
+ U. S. East South Central [Member]
+ U. S. East South Central
+
+ Indefinite-lived Intangible Assets, Major Class Name [Domain]
+ Indefinite-Lived Intangible Assets, Major Class Name [Domain]
+
+ Distributed income (in dollars per share)
+ Earnings Per Share, Basic, Distributed
+
+ Purchases of investments and contributions to equity method investments
+ Payments To Acquire Investments And Contributions To Equity Method Investments
+ Payments To Acquire Investments And Contributions To Equity Method Investments
+
+ Forgone Recovery due to Disqualification of Tax Benefits, Amount
+ Forgone Recovery due to Disqualification of Tax Benefits, Amount
+
+ Derivative liabilities
+ Derivative Financial Instruments, Liabilities [Member]
+
+ Stock repurchase program, decrease in authorized amount
+ Stock Repurchase Program, Decrease In Authorized Amount
+ Stock Repurchase Program, Decrease In Authorized Amount
+
+ East North Central
+ U. S. East North Central [Member]
+ U. S. East North Central
+
+ Skylign Senior Notes
+ Skylign Senior Notes [Member]
+ Skylign Senior Notes
+
+ Security Exchange Name
+ Security Exchange Name
+
+ Basis spread on variable rate
+ Debt Instrument, Basis Spread on Variable Rate
+
+ Schedule of Allowance for Credit Losses
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss [Table Text Block]
+
+ Additional Investments
+ Additional Investments [Member]
+ Additional Investments
+
+ Net income (loss)
+ Net Income (Loss), Including Portion Attributable To Noncontrolling Interest, Excluding Redeemable Noncontrolling Interest
+ Net Income (Loss), Including Portion Attributable To Noncontrolling Interest, Excluding Redeemable Noncontrolling Interest
+
+ Less: Other comprehensive income (loss) attributable to non-controlling interests, net of tax
+ Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Noncontrolling Interest
+
+ State and local income tax
+ Current State and Local Tax Expense (Benefit)
+
+ Investment Commitment
+ Investment Commitment [Member]
+ Investment Commitment
+
+ Forgone Recovery, Explanation of Impracticability
+ Forgone Recovery, Explanation of Impracticability [Text Block]
+
+ Realized gains (losses) on sales of investments, net
+ Investment related gains (losses)
+ Realized Investment Gains (Losses)
+
+ Schedule of Unrealized Gain (Loss) on Trading and Equity Securities
+ Unrealized Gain (Loss) on Investments [Table Text Block]
+
+ Deferred acquisition costs, deferred sales inducements and value of business acquired
+ DAC, DSI and VOBA, beginning balance
+ DAC, DSI and VOBA, ending balance
+ Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net
+ Deferred Policy Acquisition Costs, Deferred Sales Inducement Costs And Present Value Of Future Insurance Profits, Net
+
+ Sales
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Sales
+
+ Market risk benefits, measurement input
+ Market Risk Benefit, Measurement Input
+
+ Goodwill and Intangible Assets Disclosure [Abstract]
+
+ Athene
+ Athene [Member]
+ Athene
+
+ Redemption of subsidiary equity interests
+ Payments for Repurchase of Redeemable Preferred Stock
+
+ Assets
+ Derivative Asset, Net
+ Derivative Asset, Net
+
+ Entity [Domain]
+ Entity [Domain]
+
+ Expected future benefit payments, undiscounted
+ Liability for Future Policy Benefit, Expected Future Policy Benefit, Undiscounted, before Reinsurance
+
+ Percentage of revenue (as percent)
+ Concentration Risk, Percentage
+
+ U.S. foreign tax credit
+ Bermuda tax
+ Deferred Tax Assets, Tax Credit Carryforwards, Foreign
+
+ Reverse Repurchase Agreements and Repurchase Agreements
+ Repurchase and Resale Agreements Policy [Policy Text Block]
+
+ Insider Trading Policies and Procedures Adopted
+ Insider Trading Policies and Procedures Adopted [Flag]
+
+ Distributed income (in dollars per share)
+ Earnings Per Share, Diluted, Distributed
+
+ Net income (loss) (in shares)
+ Net Income (Loss), Including Portion Attributable To Noncontrolling Interest, Excluding Redeemable Noncontrolling Interest, Shares
+ Net Income (Loss), Including Portion Attributable To Noncontrolling Interest, Excluding Redeemable Noncontrolling Interest, Shares
+
+ Sky Terra
+ Sky Terra [Member]
+ Sky Terra
+
+ 5.00%, 2048 Senior Notes
+ Two Thousand Forty Eight Senior Notes [Member]
+ Two Thousand Forty Eight Senior Notes
+
+ Schedule of Assets Sold under Agreements to Repurchase [Table]
+ Asset Sold under Agreement to Repurchase [Table]
+
+ Common stock, shares authorized (in shares)
+ Common Stock, Shares Authorized
+
+ Investments, including derivatives
+ Deferred Tax Assets, Investments Including Derivatives
+ Deferred Tax Assets, Investments Including Derivatives
+
+ Insurance [Abstract]
+
+ Transfers In
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset Transfers Into Level 3
+
+ Schedule of Expected Amortization of VOBA
+ Present Value of Future Insurance Profits, Expected Amortization [Table Text Block]
+
+ Adjusted balance
+ Liability for Future Policy Benefit, Expected Future Benefit, Original Discount Rate, before Reinsurance, after Cash Flow Change
+
+ Ceded Credit Risk [Table]
+ Ceded Credit Risk [Table]
+
+ Due from related parties, measurement input
+ Due From Related Parties, Measurement Input
+ Due From Related Parties, Measurement Input
+
+ Reinsurance Agreement
+ Reinsurance Agreement [Member]
+ Reinsurance Agreement
+
+ Entity Voluntary Filers
+ Entity Voluntary Filers
+
+ Debt Securities, Held-to-maturity, Allowance for Credit Loss [Table]
+ Debt Securities, Held-to-Maturity, Allowance for Credit Loss [Table]
+
+ Related Party
+ Related Party [Member]
+
+ Hedging Designation [Domain]
+ Hedging Designation [Domain]
+
+ Total Number of RSUs Outstanding
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other Than Options, Nonvested And Vested [Roll Forward]
+ Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other Than Options, Nonvested And Vested
+
+ Dilution effect of contingent shares (in shares)
+ Incremental Common Shares Attributable to Dilutive Effect of Contingently Issuable Shares
+
+ Securities to repurchase
+ Securities Loaned or Sold under Agreements to Repurchase, Fair Value Disclosure
+
+ Fair Value, Recurring
+ Fair Value, Recurring [Member]
+
+ 12 months or longer, Fair Value
+ Debt Securities, Available-for-Sale, Continuous Unrealized Loss Position, 12 Months or Longer
+
+ Debt
+ Outstanding Balance
+ Long-Term Debt
+
+ Fair Value, by Balance Sheet Grouping [Table]
+ Fair Value, by Balance Sheet Grouping [Table]
+
+ Beginning balance
+ Ending balance
+ Net Liability
+ Market risk benefits, net
+ Market Risk Benefit, after Increase (Decrease) from Instrument-Specific Credit Risk
+
+ Global Atlantic Financial Group Limited
+ Global Atlantic Financial Group Limited [Member]
+ Global Atlantic Financial Group Limited
+
+ Employee Loans, Profit Sharing Distributions
+ Employee Loans, Profit Sharing Distributions [Member]
+ Employee Loans, Profit Sharing Distributions
+
+ 3.45% 2052 Notes
+ Two Thousand Fifty Two Senior Notes [Member]
+ Two Thousand Fifty Two Senior Notes
+
+ Investment Income [Table]
+ Investment Income [Table]
+
+ Total Shareholder Return Vs Peer Group
+ Total Shareholder Return Vs Peer Group [Text Block]
+
+ Expenses
+ Investment expenses
+ Investment Income, Investment Expense
+
+ Implied multiple
+ Measurement Input, Implied Multiple [Member]
+ Measurement Input, Implied Multiple
+
+ Vested (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Vested in Period
+
+ Total Apollo Global Management, Inc. Stockholders Equity (Deficit)
+ Parent [Member]
+
+ Revenues of consolidated variable interest entities
+ Net Investment Income And Gain (Loss) On Investments
+ Net Investment Income And Gain (Loss) On Investments
+
+ Accounting Policies [Abstract]
+
+ Liabilities
+ Liabilities [Abstract]
+
+ Revenues
+ Revenues [Abstract]
+
+ Equity securities
+ Equity Securities, FV-NI, Restricted
+
+ Change in fair value of reinsurance assets
+ Change In Fair Value Of Reinsurance Assets
+ Change In Fair Value Of Reinsurance Assets
+
+ Fair Value Hierarchy
+ Fair Value Measurement, Policy [Policy Text Block]
+
+ Short-term investments
+ Short-Term Investments
+
+ Apollo/Athene Dedicated Investment Programs
+ Apollo/Athene Dedicated Investment Programs [Member]
+ Apollo/Athene Dedicated Investment Programs
+
+ PEO Name
+ PEO Name
+
+ Granted (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Shares Issued in Period
+
+ Award Type [Domain]
+ Award Type [Domain]
+
+ Cash and cash equivalents
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Cash and Equivalents
+
+ Equity-based compensation
+ Deferred Tax Assets, Tax Deferred Expense, Compensation and Benefits, Share-Based Compensation Cost
+
+ Compensation Actually Paid vs. Company Selected Measure
+ Compensation Actually Paid vs. Company Selected Measure [Text Block]
+
+ Non-PEO NEO
+ Non-PEO NEO [Member]
+
+ Estimated fair value of total assets acquired (excluding goodwill)
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Assets
+
+ Trading securities
+ Debt Securities, Trading
+
+ Investments, at fair value
+ Investments, Fair Value Disclosure
+
+ Goodwill
+ Goodwill Disclosure [Text Block]
+
+ Recently Issued Accounting Pronouncements and Recently Adopted Accounting Pronouncements
+ New Accounting Pronouncements, Policy [Policy Text Block]
+
+ Athene Annuity & Life Assurance Company
+ Athene Annuity & Life Assurance Company [Member]
+ Athene Annuity & Life Assurance Company
+
+ Title of Individual [Domain]
+ Title and Position [Domain]
+
+ Name
+ Measure Name
+
+ Entity Interactive Data Current
+ Entity Interactive Data Current
+
+ Fair value, recurring basis, unobservable input reconciliation, liability, gain (loss) statement of income, extensible list, not disclosed flag
+ Fair Value, Recurring Basis, Unobservable Input Reconciliation, Liability, Gain (Loss) Statement Of Income, Extensible List, Not Disclosed Flag
+ Fair Value, Recurring Basis, Unobservable Input Reconciliation, Liability, Gain (Loss) Statement Of Income, Extensible List, Not Disclosed Flag
+
+ Proceeds from sales of AFS securities
+ Proceeds from Sale of Debt Securities, Available-for-Sale
+
+ 4.00%, 2024 Senior Notes
+ 4.00% 2024 Senior Notes1,2
+ Two Thousand Twenty Four Senior Notes [Member]
+ Two Thousand Twenty Four Senior Notes
+
+ Transfers In
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Liability, Transfers Into Level 3
+
+ Athora Holding Ltd. (Athora)
+ Athora Holding Ltd. (Athora) [Member]
+ Athora Holding Ltd. (Athora)
+
+ Total future policy and other policy benefits
+ Policyholder Benefits and Claims Incurred, Net
+
+ Current:
+ Components of Deferred Tax Assets [Abstract]
+
+ Loans Receivable from Related Party
+ Loans Receivable From Related Party [Member]
+ Loans Receivable From Related Party
+
+ Deferred profit liability
+ Liability For Future Policy Benefit, Remeasurement Gain (Loss), Deferred Profit Liability
+ Liability For Future Policy Benefit, Remeasurement Gain (Loss), Deferred Profit Liability
+
+ Deferred Tax Assets, Net of Valuation Allowance
+ Deferred Tax Assets, Net of Valuation Allowance
+
+ NAV
+ NAV
+ Fair Value Measured at Net Asset Value Per Share [Member]
+
+ Insurance liabilities
+ Deferred Tax Assets, Tax Deferred Expense, Reserves and Accruals, Policyholder Liabilities
+
+ Securities received as collateral
+ Securities Received as Collateral
+
+ Supplemental Disclosure of Cash Flow Information
+ Supplemental Cash Flow Information [Abstract]
+
+ Net income (loss) attributable to Apollo Global Management, Inc. common stockholders, diluted
+ Net income (loss) attributable to common stockholders, diluted
+ Net Income (Loss) Available to Common Stockholders, Diluted
+
+ Purchases of investments
+ Payments To Acquire Investments, Operating Activities
+ Payments To Acquire Investments, Operating Activities
+
+ Bermuda
+ BERMUDA
+
+ Auditor Firm ID
+ Auditor Firm ID
+
+ Effective income tax rate
+ Effective income tax rate
+ Effective Income Tax Rate Reconciliation, Percent
+
+ Number of reportable segments
+ Number of Reportable Segments
+
+ Investments and derivative assets
+ Investments And Derivative Assets [Member]
+ Investments And Derivative Assets
+
+ Carrying amount of the hedged assets
+ Hedged Asset, Fair Value Hedge
+
+ Subsequent Events
+ Subsequent Events [Text Block]
+
+ Fair Value Hierarchy and NAV [Axis]
+ Fair Value Hierarchy and NAV [Axis]
+
+ Hedging Designation [Axis]
+ Hedging Designation [Axis]
+
+ Derivatives
+ Derivative Instruments and Hedging Activities Disclosure [Text Block]
+
+ Total
+ Payout Annuities With Life Contingencies And Whole Life Insurance [Member]
+ Payout Annuities With Life Contingencies And Whole Life Insurance
+
+ Distributions to ADIP
+ Payments of Dividends
+
+ Earnings Per Share, Basic, by Common Class, Including Two-Class Method [Table]
+ Earnings Per Share, Basic, by Common Class, Including Two-Class Method [Table]
+
+ Distributions to redeemable non-controlling interests
+ Payments To Redeemable Noncontrolling Interests
+ Payments To Redeemable Noncontrolling Interests
+
+ Unrealized principal investment (income) loss
+ Unrealized Principal Investment (Income) Loss
+ Unrealized Principal Investment (Income) Loss
+
+ Schedule of Maturities of Long-Term Debt
+ Schedule of Maturities of Long-Term Debt [Table Text Block]
+
+ AGM Credit Facility
+ AGM Credit Facility [Member]
+ AGM Credit Facility
+
+ Measurement Input Type [Axis]
+ Measurement Input Type [Axis]
+
+ Individual:
+ Individual [Axis]
+
+ Subsidiary
+ Subsidiary of Common Parent [Member]
+
+ General Business Tax Credit Carryforward
+ General Business Tax Credit Carryforward [Member]
+
+ Accumulated Other Comprehensive Income (Loss)
+ Accumulated other comprehensive income (loss)
+ AOCI Attributable to Parent [Member]
+
+ AOCI, Liability for Future Policy Benefit, Parent
+ AOCI, Liability for Future Policy Benefit, Parent [Member]
+
+ Marketability discount for transfer restrictions
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Marketability Discount, No Transfers
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Marketability Discount, No Transfers
+
+ Measurement Input Type [Domain]
+ Measurement Input Type [Domain]
+
+ AAM
+ AAM [Member]
+ AAM
+
+ Vested (in shares)
+ Share-Based Compensation Arrangement By Share-Based Payment Award, Equity Instruments Other Than Options, Unvested
+ Share-Based Compensation Arrangement By Share-Based Payment Award, Equity Instruments Other Than Options, Unvested
+
+ Repurchase Agreements and Similar Transactions, Maturity Periods [Domain]
+ Repurchase Agreements and Similar Transactions, Maturity Periods [Domain]
+
+ Schedule of Related Party Transactions
+ Schedule of Related Party Transactions [Table Text Block]
+
+ Weighted average crediting rate
+ Policyholder Account Balance, Weighted Average Crediting Rate
+
+ Schedule of Reconciliation of Income Before Income Tax Provision to Segments
+ Reconciliation of Operating Profit (Loss) from Segments to Consolidated [Table Text Block]
+
+ Schedule of Interest Sensitive Contract Liabilities
+ Policyholder Account Balance And Liability For Unpaid Claims And Claims Adjustment Expense [Table Text Block]
+ Policyholder Account Balance And Liability For Unpaid Claims And Claims Adjustment Expense
+
+ Compensation Actually Paid vs. Total Shareholder Return
+ Compensation Actually Paid vs. Total Shareholder Return [Text Block]
+
+ Beginning Balance
+ Ending Balance
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability Value
+
+ Schedule of Level 3 Assets Measured at Fair Value on a Recurring Basis
+ Fair Value, Assets Measured on Recurring Basis, Unobservable Input Reconciliation [Table Text Block]
+
+ Asia-Pacific
+ Asia Pacific [Member]
+
+ Condensed Cash Flow Statement [Table]
+ Condensed Cash Flow Statement [Table]
+
+ Investments in related parties
+ Other receivables
+ Other Receivables
+
+ Net income (loss) attributable to non-controlling interests in consolidated entities
+ Net Income (Loss) Attributable to Noncontrolling Interest, Adjusted
+ Net Income (Loss) Attributable to Noncontrolling Interest, Adjusted
+
+ United Kingdom
+ UNITED KINGDOM
+
+ Reinsurance ceded
+ Policyholder Benefits and Claims Incurred, Ceded
+
+ Shares of common stock issued in settlement of vested RSUs and options exercised (in shares)
+ Shares Issued, Shares, Share-Based Payment Arrangement, before Forfeiture
+
+ Segments [Axis]
+ Segments [Axis]
+
+ Schedule of Weighted Average Discounts For Plan Grants, Bonus Grants and Performance Grants
+ Disclosure of Share-Based Compensation Arrangements by Share-Based Payment Award [Table Text Block]
+
+ Investments received from pension group annuity premiums
+ Transfer To Investments, Pension Group Premiums
+ Investments Received from Pension Group Annuity Premiums
+
+ Interest sensitive contract liabilities
+ Guaranteed Interest Contracts
+
+ Assets held-in-trust
+ Asset, Held-in-Trust
+
+ Derivative Instrument [Axis]
+ Derivative Instrument [Axis]
+
+ Principal Outstanding
+ Total
+ Long-Term Debt, Gross
+
+ ALRe
+ Athene Life Re Ltd [Member]
+ Athene Life Re Ltd
+
+ Schedule of Variable Interest Entities [Table]
+ Variable Interest Entity [Table]
+
+ Total Gains (Losses) Included in OCI
+ Fair Value, Asset, Recurring Basis, Still Held, Unrealized Gain (Loss), OCI
+
+ Other liabilities
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Other Liabilities
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Other Liabilities
+
+ Principal repayment of debt
+ Principal Repayments On Debt And Repurchase Of Debt
+ Principal Repayments On Debt And Repurchase Of Debt
+
+ Federal
+ Domestic Tax Jurisdiction [Member]
+
+ Investments
+ Total Investments Asset Management
+ Fair Value
+ Investments
+
+ Derivative asset, statement of financial position [Extensible Enumeration]
+ Derivative Asset, Statement of Financial Position [Extensible Enumeration]
+
+ Attributed fees collected
+ Market Risk Benefit, Attributed Fee Collected
+
+ Debt maturities term
+ Debt Instrument, Term
+
+ All Individuals
+ All Individuals [Member]
+
+ Unrealized investment gains (losses) on AFS securities without a credit allowance
+ AOCI, Gain (Loss), Debt Securities, Available-for-Sale, without Allowance for Credit Loss, Parent [Member]
+
+ Short-term investments
+ Short-term Investments, Restricted
+ Short-term Investments, Restricted
+
+ Financial Instruments Owned and Pledged as Collateral [Table]
+ Financial Instruments Owned and Pledged as Collateral [Table]
+
+ Reinsurance Retention [Line Items]
+ Reinsurance Retention [Line Items]
+
+ Subsidiary issuance of equity interest
+ Subsidiary Issuance Of Equity Interests
+ Subsidiary Issuance Of Equity Interests
+
+ Gross Unrealized Gains
+ Debt Securities, Available-for-Sale, Accumulated Gross Unrealized Gain, before Tax
+
+ Schedule of Credit and Liquidity Facilities
+ Schedule of Line of Credit Facilities [Table Text Block]
+
+ Reinsurance recoverable
+ Reinsurance Recoverable Including Reinsurance Premium Paid [Member]
+
+ Business Combination, Asset Acquisition, and Joint Venture Formation [Abstract]
+
+ Other Commitments [Domain]
+ Other Commitments [Domain]
+
+ Funding agreements outstanding
+ Funding Agreements, Outstanding Amount
+ Funding Agreements, Outstanding Amount
+
+ Net operating losses, not subject to expire
+ Deferred Tax Assets, Operating Loss Carryforwards, Not Subject to Expiration
+
+ Net Transfers In (Out)
+ Net Transfers In (Out)
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Transfers, Net
+
+ Issuances
+ Market Risk Benefit, Issuance
+
+ Schedule of Rollforward of DSI
+ Deferred Sale Inducement Cost [Table Text Block]
+
+ Liability Class [Axis]
+ Liability Class [Axis]
+
+ Estimated fair value of total liabilities assumed
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Liabilities
+
+ Interest accrual
+ Liability for Future Policy Benefit, Expected Net Premium, Interest Income
+
+ Net change in unrealized gains (losses) due to changes in fair value
+ Unrealized net gains (losses) from investment activities and other
+ Unrealized Gain (Loss) on Investments
+
+ Direct
+ Policyholder Benefits and Claims Incurred, Direct
+
+ Schedule of RSU Activity
+ Share-Based Payment Arrangement, Restricted Stock Unit, Activity [Table Text Block]
+
+ Award requisite service period
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Award Requisite Service Period
+
+ Real Estate [Domain]
+ Real Estate [Domain]
+
+ Debt
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Long-term Debt
+ Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Long-term Debt
+
+ Commitments and Contingencies
+ Commitments and Contingencies Disclosure [Text Block]
+
+ Grant date fair value
+ Share-based Compensation Arrangement By Share Based Payment Award, Equity Instruments Other Than Options, Grants In Period, Fair Value
+ Share-based Compensation Arrangement By Share Based Payment Award, Equity Instruments Other Than Options, Grants In Period, Fair Value
+
+ Measure:
+ Measure [Axis]
+
+ Equity
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Equity
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Equity
+
+ AHL Credit Facility
+ AHL Credit Facility [Member]
+ AHL Credit Facility
+
+ Asset Class [Domain]
+ Asset Class [Domain]
+
+ Securities intended to be sold prior to recovery of amortized cost basis
+ Debt Securities, Available-for-Sale, Allowance for Credit Loss, Sell before Recovery
+
+ Mountain
+ U. S. Mountain [Member]
+ U. S. Mountain
+
+ Entity Emerging Growth Company
+ Entity Emerging Growth Company
+
+ Net gains (losses) from debt
+ Debt Securities, Gain (Loss)
+
+ Indefinite-lived Intangible Assets [Axis]
+ Indefinite-Lived Intangible Assets [Axis]
+
+ Fees payable from Athene to AGM
+ Business Combination, Fees Receivable
+ Business Combination, Fees Receivable
+
+ Total Liabilities Asset Management
+ Liabilities, Fair Value Disclosure
+
+ Schedule of Profit Sharing Payable
+ Profit Sharing Payable Rollforward [Table Text Block]
+ Profit Sharing Payable Rollforward
+
+ 6.38% 2033 Senior Notes
+ Two Thousand Thirty Three Notes [Member]
+ Two Thousand Thirty Three Notes
+
+ Strategic origination platforms
+ Strategic Origination Platforms [Member]
+ Strategic Origination Platforms
+
+ Fair Value Option, Disclosures [Table]
+ Fair Value Option, Disclosures [Table]
+
+ Non-GAAP Measure Description
+ Non-GAAP Measure Description [Text Block]
+
+ Less: Reclassification adjustments for gains (losses) realized
+ Reclassification from Accumulated Other Comprehensive Income, Current Period, before Tax
+
+ Dilution effect of Mandatory Convertible Preferred Stock (in shares)
+ Incremental Common Shares Attributable to Dilutive Effect of Conversion of Preferred Stock
+
+ Securities sold under agreements to repurchase
+ Securities Sold under Agreements to Repurchase
+
+ Reconciliation of Cash and Cash Equivalents, Restricted Cash and Cash Equivalents, and Cash and Cash Equivalents Held at Consolidated Variable Interest Entities to the Consolidated Statements of Financial Condition:
+ Cash, Cash Equivalents, Restricted Cash, and Restricted Cash Equivalents [Abstract]
+
+ Notes payable
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Notes Payable
+ Net Assets Deconsolidated From Consolidated Variable Interest Entities And Funds, Notes Payable
+
+ Net Transfers In (Out)
+ Net Transfers In (Out)
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers, Net
+
+ Entity Incorporation, State or Country Code
+ Entity Incorporation, State or Country Code
+
+ Schedule of Dividends and Distributions
+ Dividends Declared [Table Text Block]
+
+ Remeasurement gains (losses) on market risk benefits related to credit risk
+ Change in instrument-specific credit risk
+ OCI, Market Risk Benefit, Instrument-Specific Credit Risk, Gain (Loss), after Adjustments, before Tax
+
+ Expected recovery
+ Estimated Insurance Recoveries
+
+ Statement [Table]
+ Statement [Table]
+
+ Sale of Investment
+ Sale Of Investment [Member]
+ Sale Of Investment
+
+ Debt Securities, Available-for-sale, Continuous Unrealized Loss Position, Number of Positions [Abstract]
+ Debt Securities, Available-for-Sale, Continuous Unrealized Loss Position, Number of Positions [Abstract]
+
+ Schedule of VIE Financial Information
+ Schedule of Variable Interest Entities [Table Text Block]
+
+ Derivative assets
+ Derivative Assets, Restricted
+ Derivative Assets, Restricted
+
+ Cash surrender value
+ Policyholder Account Balance, Cash Surrender Value
+
+ Level 1
+ Fair Value, Inputs, Level 1 [Member]
+
+ Concentration Risk Benchmark [Axis]
+ Concentration Risk Benchmark [Axis]
+
+ Net gains (losses) from investment activities of consolidated variable interest entities
+ Gain (Loss) On Investments, Primary Beneficiary
+ Gain (Loss) On Investments, Primary Beneficiary
+
+ Additions
+ Deferred Sale Inducement Cost, Capitalization
+
+ Revenues of acquiree since acquisition
+ Business Combination, Pro Forma Information, Revenue of Acquiree since Acquisition Date, Actual
+
+ Consolidated Entity, Excluding VIE
+ Consolidated Entity, Excluding VIE [Member]
+
+ Present value of expected future policy benefits
+ Liability for Future Policy Benefit, Expected Future Policy Benefit [Roll Forward]
+
+ Benefit payments
+ Policyholder Account Balance, Benefit Payment
+
+ Other Commitments [Axis]
+ Other Commitments [Axis]
+
+ Accumulated Other Comprehensive Income (Loss) [Table]
+ Accumulated Other Comprehensive Income (Loss) [Table]
+
+ Income Taxes
+ Income Tax Disclosure [Text Block]
+
+ Other investments
+ Other Investments, Restricted
+ Other Investments, Restricted
+
+ Officers and Employees
+ Officers And Employees [Member]
+ Officers And Employees
+
+ Deposits on investment-type policies and contracts through reinsurance agreements, net assumed (ceded)
+ Deposits On Investment Policies and Contracts
+ Deposits on Investment Policies and Contracts
+
+ Revenues
+ Variable Interest Entity, Measure of Activity, Revenues
+
+ Discounted cash flow
+ Valuation Technique, Discounted Cash Flow [Member]
+
+ Organization, Consolidation and Presentation of Financial Statements [Abstract]
+
+ Related party transaction, term
+ Related Party Transaction, Term
+ Related Party Transaction, Term
+
+ Total realized and unrealized gains (losses) included in OCI
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Gain (Loss) Included in Other Comprehensive Income (Loss)
+
+ Policy loans
+ Policy Loans Receivable
+
+ Stock repurchase program, increase in authorized amount
+ Stock Repurchase Program, Increase In Authorized Amount
+ Stock Repurchase Program, Increase In Authorized Amount
+
+ Credit Facility [Axis]
+ Credit Facility [Axis]
+
+ Operating Loss Carryforwards [Line Items]
+ Operating Loss Carryforwards [Line Items]
+
+ Fair value, recurring basis, unobservable input reconciliation, asset, gain (loss) statement of income, extensible list, not disclosed flag
+ Fair Value, Recurring Basis, Unobservable Input Reconciliation, Asset, Gain (Loss) Statement Of Income, Extensible List, Not Disclosed Flag
+ Fair Value, Recurring Basis, Unobservable Input Reconciliation, Asset, Gain (Loss) Statement Of Income, Extensible List, Not Disclosed Flag
+
+ Entity Registrant Name
+ Entity Registrant Name
+
+ CMBS
+ Commercial Mortgage-Backed Securities [Member]
+
+ Payments to acquire business
+ Payments to Acquire Businesses, Gross
+
+ Adjustment to Non-PEO NEO Compensation Footnote
+ Adjustment to Non-PEO NEO Compensation Footnote [Text Block]
+
+ Depreciation and amortization
+ Depreciation, Depletion and Amortization
+
+ Equity Method Investment, Nonconsolidated Investee or Group of Investees
+ Equity Method Investment, Nonconsolidated Investee or Group of Investees [Member]
+
+ State and local income tax
+ Deferred State and Local Income Tax Expense (Benefit)
+
+ Affiliated Entity
+ Affiliated Entity [Member]
+
+ Level 2
+ Fair Value, Inputs, Level 2 [Member]
+
+ Geographical [Domain]
+ Geographical [Domain]
+
+ 2026
+ Present Value of Future Insurance Profits, Expected Amortization, Year Two
+
+ Share-based payment arrangement, before forfeiture
+ Shares Issued, Value, Share-Based Payment Arrangement, before Forfeiture
+
+ Weighted average contingent shares outstanding
+ Contingent Share [Member]
+ Contingent Share
+
+ Schedule of Restricted Assets
+ Schedule Of Restricted Assets [Table Text Block]
+ Schedule Of Restricted Assets
+
+ Changes in consolidation
+ Increase (Decrease) In Consolidation, Operating Activities
+ Increase (Decrease) In Consolidation, Operating Activities
+
+ Grant Type [Domain]
+ Grant Type [Domain]
+ Grant Type [Domain]
+
+ Restatement Determination Date:
+ Restatement Determination Date [Axis]
+
+ Share repurchase program, additional amount
+ Stock Repurchase Program, Additional Authorized Amount
+ Stock Repurchase Program, Additional Authorized Amount
+
+ Title of 12(b) Security
+ Title of 12(b) Security
+
+ Concentration Risk Type [Axis]
+ Concentration Risk Type [Axis]
+
+ Common Stock, $0.00001 par value, 90,000,000,000 shares authorized, 565,738,933 and 567,762,932 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively
+ Common Stock, $0.00001 par value, 90,000,000,000 shares authorized, 565,738,933 and 567,762,932 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively
+ Common Stock, Value, Issued
+
+ Harbinger Capital Partners II LP et al .v. Apollo Global Management LLC
+ Harbinger Capital Partners II LP et al .v. Apollo Global Management LLC et al. No.6575152017 [Member]
+ Harbinger Capital Partners II LP et al .v. Apollo Global Management LLC et al. No.6575152017
+
+ Share-Based Payment Arrangement [Abstract]
+
+ Other Income (Loss)
+ Other Income (Loss) [Policy Text Block]
+ Other Income (Loss)
+
+ EntitiesTable [Table]
+ EntitiesTable [Table]
+ EntitiesTable [Table]
+
+ Merger with Athene (in shares)
+ Stock Issued During Period, Shares, Acquisitions
+
+ Other
+ Other U. S. States [Member]
+ Other U. S. States
+
+ State and local income taxes (net of federal benefit)
+ Effective Income Tax Rate Reconciliation, State and Local Income Taxes, Percent
+
+ Funding Agreement [Axis]
+ Funding Agreement [Axis]
+ Funding Agreement
+
+ Decrease in valuation of investment
+ Business Combination, Provisional Information, Initial Accounting Incomplete, Adjustment, Financial Assets
+
+ Derivative Instruments and Hedging Activities Disclosures [Line Items]
+ Derivative Instruments and Hedging Activities Disclosures [Line Items]
+
+ Cash Flows from Financing Activities
+ Net Cash Provided by (Used in) Financing Activities [Abstract]
+
+ Mandatory Convertible Preferred Stock, 28,749,765 and 28,750,000 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively
+ Mandatory Convertible Preferred Stock, 28,749,765 and 28,750,000 shares issued and outstanding as of December 31, 2024 and December 31, 2023, respectively
+ Preferred Stock, Value, Issued
+
+ Performance Allocation [Roll Forward]
+ Performance Allocation [Roll Forward]
+ Performance Allocation
+
+ Total Deferred Tax Liabilities
+ Deferred Tax Liabilities, Gross
+
+ Statutory Accounting Practices [Table]
+ Statutory Accounting Practices [Table]
+
+ Net income (loss) attributable to common stockholders - Basic (in dollars per share)
+ Net income (loss) per share of common stock: Basic (in dollars per share)
+ Earnings Per Share, Basic
+
+ Securities Sold under Agreements to Repurchase
+ Securities Sold under Agreements to Repurchase [Member]
+
+ Embedded derivative, measurement input
+ Embedded Derivative Asset, Measurement Input
+
+ Fair value of AHL common shares previously held (in shares)
+ Business Combination, Step Acquisition, Equity Interest Of Shares In Acquiree, Shares
+ Business Combination, Step Acquisition, Equity Interest In Acquiree, Shares
+
+ Award Timing MNPI Disclosure
+ Award Timing MNPI Disclosure [Text Block]
+
+ Incremental facilities, maximum amount
+ Line Of Credit Facility, Accordion Feature
+ Line Of Credit Facility, Accordion Feature
+
+ Total remeasurement gains (losses)
+ Liability for Future Policy Benefit, Remeasurement Gain (Loss)
+
+ Aggregate Pension Adjustments Service Cost
+ Aggregate Pension Adjustments Service Cost [Member]
+
+ Schedule of Goodwill [Table]
+ Goodwill [Table]
+
+ Redeemable non-controlling interests
+ Temporary Equity, Carrying Amount, Attributable to Parent
+
+ Market risk benefits remeasurement (gains) losses
+ Market Risk Benefit, Change in Fair Value, Gain (Loss)
+
+ Future policy and other policy benefits
+ Liability for Future Policy Benefits, Period Expense (Income)
+
+ Amount outstanding
+ Long-Term Line of Credit
+
+ Granted (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Grants in Period
+
+ Subsidiary issuance of equity interests
+ Noncontrolling Interest, Increase from Subsidiary Equity Issuance
+
+ Expected future gross premiums, discounted
+ Liability for Future Policy Benefit, Expected Future Gross Premium, Discounted, before Reinsurance
+
+ U.S. government and agencies
+ US Treasury and Government [Member]
+
+ Liabilities, netting
+ Derivative Liability, Subject to Master Netting Arrangement, Asset Offset
+
+ Liability for Future Policy Benefit, after Reinsurance [Abstract]
+ Liability for Future Policy Benefit, after Reinsurance [Abstract]
+
+ Exercise price of warrants per share (in dollars per share)
+ Class of Warrant or Right, Exercise Price of Warrants or Rights
+
+ Total Revenues
+ Total Segment Revenue
+ Total Revenues
+ Revenues
+
+ Equity-Based Compensation
+ Share-Based Payment Arrangement [Text Block]
+
+ Sales
+ Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Sales
+
+ Debt Securities, Held-to-maturity, Allowance for Credit Loss [Line Items]
+ Debt Securities, Held-to-Maturity, Allowance for Credit Loss [Line Items]
+
+ Closed block liabilities
+ Closed Block Liabilities, Fair Value Disclosure
+ Closed Block Liabilities, Fair Value Disclosure
+
+ Equity-based compensation
+ Share-Based Payment Arrangement, Expense
+
+ Fair Value, Balance Sheet Grouping, Financial Statement Captions [Line Items]
+ Fair Value Disclosure, Asset and Liability, Not Measured at Fair Value [Line Items]
+
+ Loss Contingencies [Table]
+ Loss Contingencies [Table]
+
+ Business Acquisition [Axis]
+ Business Acquisition [Axis]
+
+ 1.30% 2016 AMI Term Facility I
+ Two Thousand Sixteen AMI Term Facility I [Member]
+ Two Thousand Sixteen AMI Term Facility I
+
+ Real Estate Loan
+ Real Estate Loan [Member]
+
+ Dividends or Other Earnings Paid on Equity Awards not Otherwise Reflected in Total Compensation for Covered Year
+ Dividends or Other Earnings Paid on Equity Awards not Otherwise Reflected in Total Compensation for Covered Year [Member]
+
+ Foreign
+ U.K. net operating losses and other deferred tax assets
+ Foreign Tax Jurisdiction [Member]
+
+ Unrealized profit sharing expense
+ Unrealized Profit Sharing Expense
+ Unrealized Profit Sharing Expense
+
+ Document Fiscal Year Focus
+ Document Fiscal Year Focus
+
+ Employee benefits
+ Deferred Tax Assets, Tax Deferred Expense, Compensation and Benefits, Employee Benefits
+
+ Impact of Mergers
+ Effective Income Tax Rate Reconciliation, Impact of Merger, Percent
+ Effective Income Tax Rate Reconciliation, Impact of Merger, Percent
+
+ Debt Instrument, Name [Domain]
+ Debt Instrument, Name [Domain]
+
+ Fair Value Option, Disclosures [Table]
+ Fair Value Disclosure of Asset and Liability Not Measured at Fair Value [Table]
+
+ Total Assets Asset Management
+ Assets, Fair Value Disclosure
+
+ Pretax income
+ Income (Loss) from Continuing Operations before Income Taxes, Foreign
+
+ Interest sensitive contract benefits
+ Interest Sensitive Contract Benefits Expense
+ Interest Sensitive Contract Benefits Expense
+
+ Contributions from non-controlling interests
+ Proceeds from Noncontrolling Interests
+
+ Foreign currency interest rate swaps
+ Cross Currency Interest Rate Contract [Member]
+
+ Unvested, beginning balance (in shares)
+ Unvested, ending balance (in shares)
+ Share-Based Compensation Arrangement by Share-Based Payment Award, Equity Instruments Other than Options, Nonvested, Number
+
+ Segment Reconciling Items
+ Adjustments
+ Segment Reporting, Reconciling Item, Excluding Corporate Nonsegment [Member]
+
+ Fair value of estimated RSUs, options and warrants assumed and other equity consideration
+ Business Combination, Share-Based Compensation, Warrants Assumed And Other Equity Consideration Transferred
+ Business Combination, Share-Based Compensation, Warrants Assumed And Other Equity Consideration Transferred
+
+ Valuation Allowance [Table]
+ Deferred Tax Asset, Valuation Allowance [Table]
+
+ Liability for Future Policy Benefit Activity [Table]
+ Liability for Future Policy Benefit Activity [Table]
+
+ Schedule of Purchase Price
+ Schedule of Business Acquisitions, by Acquisition [Table Text Block]
+
+ Deferred revenue recognized
+ Contract with Customer, Liability, Revenue Recognized
+
+ Coinsurance and Modco Agreement
+ Coinsurance And Modco Agreement [Member]
+ Coinsurance And Modco Agreement
+
+ Other
+ Present Value Of Future Insurance Profits, Other
+ Present Value Of Future Insurance Profits, Other
+
+ Total investment funds, including related parties and consolidated VIEs
+ Investment Funds Including Related Party and Variable Interest Entities
+ Investment Funds Including Related Party and Variable Interest Entities
+
+ Entity Current Reporting Status
+ Entity Current Reporting Status
+
+ Retained Earnings (Accumulated Deficit)
+ Retained Earnings [Member]
+
+ Negative VOBA
+ Liability for Future Policy Benefit, Remeasurement Gain (Loss), Limited-Payment Contract
+
+ Revenues/Investment Income
+ Investment revenue
+ Gross Investment Income, Operating
+
+ Premiums
+ Total premiums
+ Premiums Earned, Net
+
+ Athene Holding Limited
+ Athene Holding Limited [Member]
+ Athene Holding Limited
+
+ RSUs
+ Restricted Stock Units (RSUs) [Member]
+
+ Measurement period adjustments
+ Business Combination, Provisional Information, Initial Accounting Incomplete, Adjustments
+ Business Combination, Provisional Information, Initial Accounting Incomplete, Adjustments
+
+ 4.95%, 2050 Senior Subordinated Notes
+ Two Thousand Fifty Subordinated Notes [Member]
+ Two Thousand Fifty Subordinated Notes
+
+ Warrants exercisable (in shares)
+ Class Of Warrant Or Right, Exercisable
+ Class Of Warrant Or Right, Exercisable
+
+ Increase (Decrease) in Stockholders' Equity [Roll Forward]
+ Increase (Decrease) in Stockholders' Equity [Roll Forward]
+
+ Foreign currency translation and other adjustments
+ Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, before Tax
+
+ Executive Category:
+ Executive Category [Axis]
+
+ Retirement Services
+ Retirement Services
+ Retirement Services Segment [Member]
+ Retirement Services Segment
+
+ Bermuda Jurisdiction
+ Bermuda Jurisdiction [Member]
+ Bermuda Jurisdiction
+
+ Schedule of Components of Income Tax Expense (Benefit)
+ Schedule of Components of Income Tax Expense (Benefit) [Table Text Block]
+
+ Future policy benefits
+ Future Policy Benefits [Member]
+ Future Policy Benefits
+
+ Number of tiers
+ Number Of Tiers
+ Number Of Tiers
